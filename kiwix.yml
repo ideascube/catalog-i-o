@@ -130,15 +130,15 @@ all:
     type: zipped-zim
     handler: kiwix
   wikisource.fr:
-    version: "2016-02-04"
-    size: "7814312320"
-    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_fr_all_2016-02.zip"
+    version: "2016-08-05"
+    size: "9476949105"
+    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_fr_all_2016-08.zip"
     name: "Wikisource -- La bibliothèque libre."
     language: "fra"
     description: "La bibliothèque libre."
-    id: "a54c543c-6db0-034e-6050-b6d1c1aca29c"
+    id: "456e74a7-e980-d894-1c19-f70e90b2d302"
     title: "Wikisource"
-    sha256sum: "a4b6989679b5dcf9801e81783573582187aac4aa0b17f506cfa99ce3c22d9bcf"
+    sha256sum: "134666262402d8687ebb9cef23f9c8de1dec8e0f053c283b1f257cd9c7f0e656"
     langid: "wikisource.fr"
     type: zipped-zim
     handler: kiwix
