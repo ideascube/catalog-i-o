@@ -1,14 +1,14 @@
 all:
   wikipedia.en:
-    version: "2016-03-01"
-    size: "68042250908"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_en_all_2016-02.zip"
+    version: "2016-05-17"
+    size: "65652955268"
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_en_all_2016-05.zip"
     name: "Wikipedia -- From Wikipedia, the free encyclopedia"
     language: "eng"
     description: "From Wikipedia, the free encyclopedia"
-    id: "1958db66-ef5d-49c9-3946-487451fee7dd"
+    id: "5c5a3376-d3df-4bcb-7acd-ceceb1913246"
     title: "Wikipedia"
-    sha256sum: "41b65c433826ff0564de952d0df41a16f780df57c5957ecbfdf06f8b77e1f45b"
+    sha256sum: "06dce08ab7a34acb352d47748b87d96914843ba55d3544c48160090627577964"
     langid: "wikipedia.en"
     type: zipped-zim
     handler: kiwix
