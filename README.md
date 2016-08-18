@@ -88,35 +88,35 @@ Multiple URLs per ZIM :
 
 Example:
 
-  wikipedia.en:
-    version: "2016-03-01"
-    size: "68042250908"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_en_all_2016-02.zip"
-    name: "Wikipedia -- From Wikipedia, the free encyclopedia"
-    language: "eng"
-    description: "From Wikipedia, the free encyclopedia"
-    id: "1958db66-ef5d-49c9-3946-487451fee7dd"
-    title: "Wikipedia"
-    sha256sum: "41b65c433826ff0564de952d0df41a16f780df57c5957ecbfdf06f8b77e1f45b"
-    langid: "wikipedia.en"
-    type: zipped-zim
-    handler: kiwix
+      wikipedia.en:
+        version: "2016-03-01"
+        size: "68042250908"
+        url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_en_all_2016-02.zip"
+        name: "Wikipedia -- From Wikipedia, the free encyclopedia"
+        language: "eng"
+        description: "From Wikipedia, the free encyclopedia"
+        id: "1958db66-ef5d-49c9-3946-487451fee7dd"
+        title: "Wikipedia"
+        sha256sum: "41b65c433826ff0564de952d0df41a16f780df57c5957ecbfdf06f8b77e1f45b"
+        langid: "wikipedia.en"
+        type: zipped-zim
+        handler: kiwix
 
 Data sources:
 
-  wikipedia.en: == $langid
-    version: library.xml
-    size: .zip.meta4
-    url: library.xml
-    name: library.xml ($title -- $description)
-    language: library.xml
-    description: library.xml
-    id: library.xml
-    title: library.xml
-    sha256sum: .zip.meta4
-    langid: Hand crafted
-    type: Hand crafted
-    handler: Hand crafted
+      wikipedia.en: == $langid
+        version: library.xml
+        size: .zip.meta4
+        url: library.xml
+        name: library.xml ($title -- $description)
+        language: library.xml
+        description: library.xml
+        id: library.xml
+        title: library.xml
+        sha256sum: .zip.meta4
+        langid: Hand crafted
+        type: Hand crafted
+        handler: Hand crafted
 
 ## GOTCHAS
 
