@@ -1,0 +1,13 @@
+  :
+    langid: ""
+    title: ""
+    description: ""
+    name: ""
+    version: ""
+    language: ""
+    id: ""
+    url: ""
+    size: ""
+    sha256sum: ""
+    type: zipped-zim
+    handler: kiwix
