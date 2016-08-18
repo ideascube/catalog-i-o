@@ -968,3 +968,16 @@ all:
     sha256sum: c04425f055a27ebebe69820601d95fba08d5febd5f142734d0642c4bf7a5089e
     size: 145048526
     type: static-site
+  wikisource.es:
+    langid: "wikisource.es"
+    title: "Wikisource"
+    description: "De Wikisource, la biblioteca libre."
+    name: "Wikisource -- "
+    version: "2016-08-05"
+    language: "spa"
+    id: "480c0264-3468-75d6-b65e-054b9342862c"
+    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_es_all_2016-08.zip"
+    size: "900336552"
+    sha256sum: "820f337879e5cd10524ff86e007af7d14d4f4c5398d8c304f5c2560268326611"
+    type: zipped-zim
+    handler: kiwix
