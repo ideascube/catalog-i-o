@@ -39,15 +39,15 @@ all:
     type: zipped-zim
     handler: kiwix
   wiktionary.en:
-    version: "2015-11-12"
-    size: "2687739169"
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_en_all_2015-11.zip"
+    version: "2016-08-12"
+    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_en_all_2016-08.zip"
     name: "Wiktionary -- Definition from Wiktionary, the free dictionary"
     language: "eng"
     description: "Definition from Wiktionary, the free dictionary"
-    id: "f03957d2-fc7d-cb06-dc9f-2dac9540e740"
+    id: "10de68a8-b8ef-4da5-140c-41105b2fca27"
+    size: "2357130948"
     title: "Wiktionary"
-    sha256sum: "a5606cd95c824fb394a597c0a7a199b7ade0cd980b6a68b55714f3f6cdd381df"
+    sha256sum: "e0f3124c1220c4672b56195884bdae7807c5c62cf3982bb04163d998bad505fa"
     langid: "wiktionary.en"
     type: zipped-zim
     handler: kiwix
