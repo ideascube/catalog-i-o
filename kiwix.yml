@@ -948,3 +948,16 @@ all:
     sha256sum: "52b155cb8e66345ac5c278ac48e14f59d110b50e53f0284ebf84125d960ef970"
     type: zipped-zim
     handler: kiwix
+  wikiquote.es:
+    langid: "wikiquote.es"
+    title: "Wikiquote"
+    description: "De Wikiquote, la colección libre de citas y frases célebres."
+    name: "Wikiquote -- De Wikiquote, la colección libre de citas y frases célebres."
+    version: "2016-08-08"
+    language: "spa"
+    id: "9a0c0b36-1135-3eab-220a-409911aabd5b"
+    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_es_all_2016-08.zip"
+    size: "278773135"
+    sha256sum: "2986f34ac75fe1abe0ce5edbb6597d9df8feed555336e00c8f6a81d994608552"
+    type: zipped-zim
+    handler: kiwix
