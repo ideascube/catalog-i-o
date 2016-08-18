@@ -104,15 +104,15 @@ all:
     type: zipped-zim
     handler: kiwix
   wikibooks.fr:
-    version: "2015-11-26"
-    size: "562270302"
-    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_fr_all_2015-11.zip"
+    version: "2016-08-03"
+    size: "703612545"
+    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_fr_all_2016-08.zip"
     name: "Wikilivres -- Un livre de Wikilivres."
     language: "fra"
     description: "Un livre de Wikilivres."
-    id: "ea35ae69-7870-86d0-37aa-eb9618a1e758"
+    id: "3c139c9f-944b-1c58-a61a-f024562b4c59"
     title: "Wikilivres"
-    sha256sum: "f13da6f9bc61a64554628242a61d9705881d2b26f9c106b2f9b5cfa5f4b4fa88"
+    sha256sum: "5f0890567b6aa54aa4df3019bd0749fcc7ab345065c821c60621862628edf4cd"
     langid: "wikibooks.fr"
     type: zipped-zim
     handler: kiwix
