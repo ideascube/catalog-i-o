@@ -455,15 +455,15 @@ all:
     type: zipped-zim
     handler: kiwix
   vikidia.fr:
-    version: "2016-06-01"
-    size: "691430478"
-    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_fr_all_2016-06.zip"
+    version: "2016-09-09"
+    size: "708357070"
+    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_fr_all_2016-09.zip"
     name: "Vikidia -- Vikidia"
     language: "fra"
     description: "Vikidia"
-    id: "8e3e8a43-ea82-a495-dd89-0e470ed5d32e"
+    id: "dbc420dd-fbed-f019-1665-0fda3ffd80fc"
     title: "Vikidia"
-    sha256sum: "c585b156985659a412976acf1f1e180894a2327ab956ca1ad067f94ea7294f25"
+    sha256sum: "924932ab7b3b78077d1484941db4a271729a7032baeee7d897f7dd401ed8ffda"
     langid: "vikidia.fr"
     type: zipped-zim
     handler: kiwix
