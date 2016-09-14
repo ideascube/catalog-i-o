@@ -364,15 +364,15 @@ all:
     type: zipped-zim
     handler: kiwix
   wikipedia.wo:
-    version: "2015-10-30"
-    size: "215548751"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_wo_all_2015-10.zip"
+    version: "2016-08-21"
+    size: "216674180"
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_wo_all_2016-08.zip"
     name: "Wikipedia -- Jóge  Wikipedia"
     language: "wol"
     description: "Jóge  Wikipedia"
-    id: "4e0423bb-37d0-eb1a-8760-0a819ff1f89e"
+    id: "46d1da70-c8cd-73d2-a9ff-433a32ceb388"
     title: "Wikipedia"
-    sha256sum: "a2230a0e1a86093fd446cb94d9c0783413fb0fe8895742b70d5a2c68680383cd"
+    sha256sum: "6ff9d7ac808b0dce797d0e8c8c7b13c0ecca7c14f36717076da8734b03ac5735"
     langid: "wikipedia.wo"
     type: zipped-zim
     handler: kiwix
