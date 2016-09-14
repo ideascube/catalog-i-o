@@ -972,7 +972,7 @@ all:
     langid: "wikisource.es"
     title: "Wikisource"
     description: "De Wikisource, la biblioteca libre."
-    name: "Wikisource -- "
+    name: "Wikisource -- De Wikisource, la biblioteca libre."
     version: "2016-08-05"
     language: "spa"
     id: "480c0264-3468-75d6-b65e-054b9342862c"
