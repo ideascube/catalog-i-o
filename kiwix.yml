@@ -994,3 +994,16 @@ all:
     sha256sum: "ec26f33a4a06bbd5cca17d0cf3f2e6ea577f6493abff73a05f9227d3040b4571"
     type: zipped-zim
     handler: kiwix
+  tedmed.en:
+    langid: "eng"
+    title: "Uploads from TEDMED"
+    description: "Uploads from TEDMED videos"
+    name: "Uploads from TEDMED -- Uploads from TEDMED videos"
+    version: "2016-07-30"
+    language: "eng"
+    id: "80d768b7-8d2b-03f1-3b10-a56fa4d16728"
+    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedmed_en_all_2016-07.zip"
+    size: "18389062228"
+    sha256sum: "2fba737ff1c0c1146a47b79f6e310be22e73310d3257fc118896549372ea5dcb"
+    type: zipped-zim
+    handler: kiwix
