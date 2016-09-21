@@ -1007,3 +1007,16 @@ all:
     sha256sum: "2fba737ff1c0c1146a47b79f6e310be22e73310d3257fc118896549372ea5dcb"
     type: zipped-zim
     handler: kiwix
+  crashcourse.en:
+    langid: "crashcourse.en"
+    title: "CrashCourse"
+    description: "CrashCourse videos"
+    name: "CrashCourse -- CrashCourse videos"
+    version: "2016-02-16"
+    language: "eng"
+    id: "580162ed-f379-b1de-3918-b6009f02cdff"
+    url: "http://download.kiwix.org/portable/other/kiwix-0.9+crashcourse_en_all_2016-02.zip"
+    size: "14836363791"
+    sha256sum: "b651829203d4a7c55dc62230e9a99db60c3c394b6629b4354aa8c3e0fe0eb8bb"
+    type: zipped-zim
+    handler: kiwix
