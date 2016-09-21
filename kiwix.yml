@@ -995,7 +995,7 @@ all:
     type: zipped-zim
     handler: kiwix
   tedmed.en:
-    langid: "eng"
+    langid: "tedmed.en"
     title: "Uploads from TEDMED"
     description: "Uploads from TEDMED videos"
     name: "Uploads from TEDMED -- Uploads from TEDMED videos"
