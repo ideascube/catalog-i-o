@@ -1020,3 +1020,16 @@ all:
     sha256sum: "b651829203d4a7c55dc62230e9a99db60c3c394b6629b4354aa8c3e0fe0eb8bb"
     type: zipped-zim
     handler: kiwix
+  phet.en:
+    langid: "phet.en"
+    title: "PHETSims"
+    description: "PHETSims"
+    name: "PHETSims -- PHETSims"
+    version: "2016-06-19"
+    language: "eng"
+    id: "a60cb414-63d9-c972-62fb-5c0b09259a3d"
+    url: "http://download.kiwix.org/portable/other/kiwix-0.9+phet_en_all_2016-06.zip"
+    size: "209942793"
+    sha256sum: "14b11aed688bf6a5a3cd338d5e9f2369020b9f3cfea26556461ff793a951ea4f"
+    type: zipped-zim
+    handler: kiwix
