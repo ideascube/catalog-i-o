@@ -467,19 +467,6 @@ all:
     langid: "vikidia.fr"
     type: zipped-zim
     handler: kiwix
-  vikidia.en:
-    version: "2016-06-01"
-    size: ""
-    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_en_all_2016-06.zip"
-    name: "Vikidia -- From Vikidia, the encyclopedia for 8 to 13-year-old children that everybody can make better"
-    language: "eng"
-    description: "From Vikidia, the encyclopedia for 8 to 13-year-old children that everybody can make better"
-    id: "690b5cc7-0b48-ada0-5a9c-b3ea0be9ab9c"
-    title: "Vikidia"
-    sha256sum: "3a812ad336381455eb228f8d397c4b08dfc54cc9f3162c1014b412823d574b71"
-    langid: "vikidia.en"
-    type: zipped-zim
-    handler: kiwix
   wikipedia.ku:
     version: "2016-05-11"
     size: "341703377"
@@ -1031,5 +1018,18 @@ all:
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+phet_en_all_2016-06.zip"
     size: "209942793"
     sha256sum: "14b11aed688bf6a5a3cd338d5e9f2369020b9f3cfea26556461ff793a951ea4f"
+    type: zipped-zim
+    handler: kiwix
+  vikidia.en:
+    langid: "vikidia.en"
+    title: "Vikidia"
+    description: "From Vikidia, the encyclopedia for 8 to 13-year-old children that everybody can make better"
+    name: "Vikidia -- From Vikidia, the encyclopedia for 8 to 13-year-old children that everybody can make better"
+    version: "2016-09-09"
+    language: "eng"
+    id: "39718f46-d327-7845-1131-b271c8804d81"
+    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_en_all_2016-09.zip"
+    size: "244959103"
+    sha256sum: "9ea14bdff46cc63f8224ca45685b26513b3e55067da50e65fb334737ab8882bb"
     type: zipped-zim
     handler: kiwix
