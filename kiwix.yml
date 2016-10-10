@@ -10,7 +10,6 @@ all:
     sha256sum: "06dce08ab7a34acb352d47748b87d96914843ba55d3544c48160090627577964"
     langid: "wikipedia.en"
     type: zipped-zim
-    handler: kiwix
   wikipedia.fr:
     version: "2016-06-08"
     size: "23988667777"
@@ -22,7 +21,6 @@ all:
     sha256sum: "bd2d6c85a0ab983cc271d8175a03a32d1629ce7a344383a2911904e17e543e6c"
     langid: "wikipedia.fr"
     type: zipped-zim
-    handler: kiwix
   wikipedia.rn:
     version: "2016-05-13"
     size: "201052048"
@@ -34,7 +32,6 @@ all:
     sha256sum: "159a53672ef9cece86a62d30c8e623235c798b980b376c2b64f4e7667c16b415"
     langid: "wikipedia.rn"
     type: zipped-zim
-    handler: kiwix
   wiktionary.en:
     version: "2016-08-12"
     url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_en_all_2016-08.zip"
@@ -46,7 +43,6 @@ all:
     sha256sum: "e0f3124c1220c4672b56195884bdae7807c5c62cf3982bb04163d998bad505fa"
     langid: "wiktionary.en"
     type: zipped-zim
-    handler: kiwix
   wiktionary.fr:
     version: "2016-05-16"
     size: "2046925193"
@@ -58,7 +54,6 @@ all:
     sha256sum: "47a879ac4c34eb2681e7fea7f1ba08ce3729a428680cff5df3c79c565ddafd37"
     langid: "wiktionary.fr"
     type: zipped-zim
-    handler: kiwix
   wikiversity.en:
     version: "2016-08-09"
     size: "1172575403"
@@ -70,7 +65,6 @@ all:
     sha256sum: "fbd3574df0be4d16afbe4e99ffd1ee05e570e28131ae37e7c67b4d24836dfbde"
     langid: "wikiversity.en"
     type: zipped-zim
-    handler: kiwix
   wikiversity.fr:
     version: "2016-04-07"
     size: "437716601"
@@ -82,7 +76,6 @@ all:
     sha256sum: "cc2b6497892214e25c3cd861d61bfd0946e834e7cac9d96e12d08b69ad6c8863"
     langid: "wikiversity.fr"
     type: zipped-zim
-    handler: kiwix
   wikibooks.en:
     version: "2016-08-02"
     size: "1472253727"
@@ -94,7 +87,6 @@ all:
     sha256sum: "d08f09c72a5a1bb2f8f108fc51cda8ef218504bdc09deaafae5a1273d9ca1f50"
     langid: "wikibooks.en"
     type: zipped-zim
-    handler: kiwix
   wikibooks.fr:
     version: "2016-08-03"
     size: "703612545"
@@ -106,7 +98,6 @@ all:
     sha256sum: "5f0890567b6aa54aa4df3019bd0749fcc7ab345065c821c60621862628edf4cd"
     langid: "wikibooks.fr"
     type: zipped-zim
-    handler: kiwix
   wikisource.en:
     version: "2016-08-03"
     size: "11392234491"
@@ -118,7 +109,6 @@ all:
     sha256sum: "b1339222b582b837c71bfd4acd3fadc2942ef9de0fb6b8a69da0f0f8fc56e6b6"
     langid: "wikisource.en"
     type: zipped-zim
-    handler: kiwix
   wikisource.fr:
     version: "2016-08-05"
     size: "9476949105"
@@ -130,7 +120,6 @@ all:
     sha256sum: "134666262402d8687ebb9cef23f9c8de1dec8e0f053c283b1f257cd9c7f0e656"
     langid: "wikisource.fr"
     type: zipped-zim
-    handler: kiwix
   cest-pas-sorcier.fr:
     version: "2015-07-08"
     size: "33058680868"
@@ -142,7 +131,6 @@ all:
     sha256sum: "b28445e3ed0e30aab5fbbb36427ae515cbfd50e8494d78cf213cebcec833c02d"
     langid: "cest-pas-sorcier.fr"
     type: zipped-zim
-    handler: kiwix
   gutenberg.en:
     version: "2014-10-26"
     size: "43415229696"
@@ -154,7 +142,6 @@ all:
     sha256sum: "52f8163269d7cd74211bb9c91b1c407f32922edb6afe1490ed800fb1b9cdf01a"
     langid: "gutenberg.en"
     type: zipped-zim
-    handler: kiwix
   gutenberg.fr:
     version: "2014-10-18"
     size: "2380948535"
@@ -166,7 +153,6 @@ all:
     sha256sum: "be8f2ff3c5b59ecabbc1dca224dc4a9c74e7d57bb9f010c146511543867525a6"
     langid: "gutenberg.fr"
     type: zipped-zim
-    handler: kiwix
   ubuntudoc.fr:
     version: "2015-12-15"
     size: "680659800"
@@ -178,7 +164,6 @@ all:
     sha256sum: "40f69a8e14757a2d38c27a8d86a3578f85989428df5f90457569a8bb246be89f"
     langid: "ubuntudoc.fr"
     type: zipped-zim
-    handler: kiwix
   universcience-tv.fr:
     version: "2015-03-20"
     size: "13944351804"
@@ -190,7 +175,6 @@ all:
     sha256sum: "61b364c485c8100598779e35262050593f5623633278eafcaaf3d571f9761e10"
     langid: "universcience-tv.fr"
     type: zipped-zim
-    handler: kiwix
   tedxgeneva2014.fr:
     version: "2015-03-17"
     size: "465142299"
@@ -202,7 +186,6 @@ all:
     sha256sum: "4d2f63d0c1c27667b7a95b0947279a0bbd04e12d4ccdf6ce74021359a4e5c403"
     langid: "tedxgeneva2014.fr"
     type: zipped-zim
-    handler: kiwix
   tedxlausanne2012.fr:
     version: "2015-03-17"
     size: "450040712"
@@ -214,7 +197,6 @@ all:
     sha256sum: "40ccc3d45cb0457db7ae3dee79d902e2dba78787ad78ab51d8e373ed3ef0b46c"
     langid: "tedxlausanne2012.fr"
     type: zipped-zim
-    handler: kiwix
   tedxlausanne2013.fr:
     version: "2015-03-18"
     size: "562322158"
@@ -226,7 +208,6 @@ all:
     sha256sum: "983bc0f9213346357cf1ed16b26085a102fe33b1e0d719ee1c31fbf27747fd93"
     langid: "tedxlausanne2013.fr"
     type: zipped-zim
-    handler: kiwix
   tedxlausanne2014.fr:
     version: "2015-03-18"
     size: "516471569"
@@ -238,7 +219,6 @@ all:
     sha256sum: "670265b4376a9e30fad7bd72d954dbda6e87d1a6965e64d762227426fd803f23"
     langid: "tedxlausanne2014.fr"
     type: zipped-zim
-    handler: kiwix
   tedxlausannechange2013.fr:
     version: "2015-03-18"
     size: "277352035"
@@ -250,7 +230,6 @@ all:
     sha256sum: "014b717054376921eadaf978d79f3c86ce220ab7333e1db01e2ec2ded044c788"
     langid: "tedxlausannechange2013.fr"
     type: zipped-zim
-    handler: kiwix
   tedbusiness.en:
     version: "2015-02-02"
     size: "8629637983"
@@ -262,7 +241,6 @@ all:
     sha256sum: "355949be7ed7fb4bc071c293e0909ec0cd90b63d3047b8e95346bf71b5c7d50d"
     langid: "tedbusiness.en"
     type: zipped-zim
-    handler: kiwix
   teddesign.en:
     version: "2015-02-02"
     size: "8752857912"
@@ -274,7 +252,6 @@ all:
     sha256sum: "730123f18d256517b2a18e22bb06cd2acebdcb9e29cccd5d0ca50b4147f28f83"
     langid: "teddesign.en"
     type: zipped-zim
-    handler: kiwix
   tedentertainment.en:
     version: "2015-02-02"
     size: "8141433715"
@@ -286,7 +263,6 @@ all:
     sha256sum: "c23d738d4b90f9bc77c439d304890a4a7a3506b0ea8e47170cc92409589769a7"
     langid: "tedentertainment.en"
     type: zipped-zim
-    handler: kiwix
   tedglobalissues.en:
     version: "2015-02-02"
     size: "13064555271"
@@ -298,7 +274,6 @@ all:
     sha256sum: "1b1a87defa85f700219256f3182ad52f295ddeeb0039cc98ce94f00bd357ebd8"
     langid: "tedglobalissues.en"
     type: zipped-zim
-    handler: kiwix
   tedscience.en:
     version: "2015-02-02"
     size: "12273628956"
@@ -310,7 +285,6 @@ all:
     sha256sum: "2796e7e256d89ab7cf0191777234a51a57083996032bbf034d906ec4566cb93f"
     langid: "tedscience.en"
     type: zipped-zim
-    handler: kiwix
   tedtechnology.en:
     version: "2015-02-02"
     size: "16161925189"
@@ -322,7 +296,6 @@ all:
     sha256sum: "d16765975e574a92ad16c702f740f80f4f17b1583ff51aa62be7807c7d3626d0"
     langid: "tedtechnology.en"
     type: zipped-zim
-    handler: kiwix
   wikivoyage.fr:
     version: "2016-03-20"
     size: "323228788"
@@ -334,7 +307,6 @@ all:
     sha256sum: "c387e9e64dc78e939000da1c63e322c20439ef63ccd2166b193393a16af1823f"
     langid: "wikivoyage.fr"
     type: zipped-zim
-    handler: kiwix
   wikipedia.wo:
     version: "2016-08-21"
     size: "216674180"
@@ -346,7 +318,6 @@ all:
     sha256sum: "6ff9d7ac808b0dce797d0e8c8c7b13c0ecca7c14f36717076da8734b03ac5735"
     langid: "wikipedia.wo"
     type: zipped-zim
-    handler: kiwix
   wikistage.fr:
     version: "2015-07-14"
     size: "5079022901"
@@ -358,7 +329,6 @@ all:
     sha256sum: "f4f833374bf1e506bee08c769a298f9ff75b7015979862198f87d115936a3c04"
     langid: "wikistage.fr"
     type: zipped-zim
-    handler: kiwix
   dirtybiology.fr:
     version: "2016-03-30"
     size: "1687788558"
@@ -370,7 +340,6 @@ all:
     sha256sum: "cbc482280d172340d5dc7e84c65ccf03b82a82c6f91e1a299b9e956f36aef658"
     langid: "dirtybiology.fr"
     type: zipped-zim
-    handler: kiwix
   wikipedia.pt:
     version: "2015-10-15"
     size: "9559834186"
@@ -382,7 +351,6 @@ all:
     sha256sum: "717fc470cbc753407e848407d1fcd543ff61148a05e199a8e0e3c23a29781bf7"
     langid: "wikipedia.pt"
     type: zipped-zim
-    handler: kiwix
   gutenberg.pt:
     version: "2014-10-18"
     size: "386887655"
@@ -394,7 +362,6 @@ all:
     sha256sum: "93c24cd895b19b66b51489d5daaad3a344227d0ba2351970b9ffc6f4ca6ea264"
     langid: "gutenberg.pt"
     type: zipped-zim
-    handler: kiwix
   wikipedia.fa:
     version: "2016-04-06"
     size: "4684417156"
@@ -406,7 +373,6 @@ all:
     sha256sum: "fc54c19aba56d545e7883517cbf70501e4b75fd86dda5fbd63ecd1829c78b012"
     langid: "wikipedia.fa"
     type: zipped-zim
-    handler: kiwix
   wikipedia.ar:
     version: "2016-08-04"
     size: "5926362220"
@@ -418,7 +384,6 @@ all:
     sha256sum: "bfe83b544ca8c097572c5049ee5838c82ead9ef60248e3ed38f2e214b88a3b69"
     langid: "wikipedia.ar"
     type: zipped-zim
-    handler: kiwix
   vikidia.fr:
     version: "2016-09-09"
     size: "708357070"
@@ -430,7 +395,6 @@ all:
     sha256sum: "924932ab7b3b78077d1484941db4a271729a7032baeee7d897f7dd401ed8ffda"
     langid: "vikidia.fr"
     type: zipped-zim
-    handler: kiwix
   wikipedia.ku:
     version: "2016-05-11"
     size: "341703377"
@@ -442,7 +406,6 @@ all:
     sha256sum: "45f6af8c3be84da8179015edb28f9d84aabac78989dc3cb319678456088af147"
     langid: "wikipedia.ku"
     type: zipped-zim
-    handler: kiwix
   wiktionary.ku:
     version: "2016-05-20"
     size: "421323367"
@@ -454,7 +417,6 @@ all:
     sha256sum: "ca3b990f2104a2b310f7f2fb82285b39208821ba80db64f1013f9a4f9d173083"
     langid: "wiktionary.ku"
     type: zipped-zim
-    handler: kiwix
   les-fondamentaux.fr:
     version: "2016-05-22"
     size: "484496221"
@@ -466,7 +428,6 @@ all:
     sha256sum: "99b1776dad92d5f1b3a917e11a8fc7ada6026964ac621550400a351d33bb7780"
     langid: "les-fondamentaux.fr"
     type: zipped-zim
-    handler: kiwix
   bil-tunisia.ar:
     version: "2015-03-16"
     size: "2949838231"
@@ -478,7 +439,6 @@ all:
     sha256sum: "bf16b5e382546d65d55e027123945117f22fa9c1a2b06eaccb3b82e797722190"
     langid: "bil-tunisia.ar"
     type: zipped-zim
-    handler: kiwix
   icd10.fr:
     version: "2012-01-09"
     size: "198835367"
@@ -490,7 +450,6 @@ all:
     sha256sum: "01820200e8e666834e154aa0e2ad7da2d088c4b922bf7570eb4904d8fb14719d"
     langid: "icd10.fr"
     type: zipped-zim
-    handler: kiwix
   mullah-piaz-digest.fa:
     version: "2012-12-18"
     size: "244776958"
@@ -502,7 +461,6 @@ all:
     sha256sum: "27ba4f610a100dbad52e5962781d7ebc95cdb56ebf1343747add81a6f671b92a"
     langid: "mullah-piaz-digest.fa"
     type: zipped-zim
-    handler: kiwix
   wiktionary.fa:
     version: "2016-05-14"
     size: "238587327"
@@ -514,7 +472,6 @@ all:
     sha256sum: "2b2f2d3ef061755f9b53b424e476dd6f96c7a458ed172c935f4e78d62b340c1e"
     langid: "wiktionary.fa"
     type: zipped-zim
-    handler: kiwix
   wiktionary.ar:
     version: "2016-06-07"
     size: "232655333"
@@ -526,7 +483,6 @@ all:
     sha256sum: "56a459fcbc5881b61af9358209695ee5a953f0a49cd3ff974c93734a4645eab7"
     langid: "wiktionary.ar"
     type: zipped-zim
-    handler: kiwix
   wikiversity.ar:
     version: "2016-05-07"
     size: "208177465"
@@ -538,7 +494,6 @@ all:
     sha256sum: "629a47ef723c27a7bbd769c13307e75c8bda15c41c67caa86ef5330f3f171e18"
     langid: "wikiversity.ar"
     type: zipped-zim
-    handler: kiwix
   wikipedia.es:
     version: "2016-05-15"
     size: "14718442846"
@@ -550,7 +505,6 @@ all:
     sha256sum: "4c028362ec3cd07a2c0eccc3e5fa3e42b78a1715db5328387ec6bf57d04c3d8e"
     langid: "wikipedia.es"
     type: zipped-zim
-    handler: kiwix
   gutenberg.es:
     version: "2014-10-18"
     size: "414626333"
@@ -562,7 +516,6 @@ all:
     sha256sum: "fd973e2ac97ccbb423bbdf0e8b0797e3383cf71365a1216467789ad38e285f07"
     langid: "gutenberg.es"
     type: zipped-zim
-    handler: kiwix
   gutenberg.de:
     version: "2014-10-18"
     size: "764131978"
@@ -574,7 +527,6 @@ all:
     sha256sum: "41dd877a7f5fa2de8f9155c9545b90a04767a116e7280e3bda03f442b87a222b"
     langid: "gutenberg.de"
     type: zipped-zim
-    handler: kiwix
   wikipedia.de:
     version: "2016-05-10"
     size: "24626756471"
@@ -586,7 +538,6 @@ all:
     sha256sum: "c85491130bed929a5067f76fff3aff17e3e7b4b6f3ce97dcb60269b7abd3134e"
     langid: "wikipedia.de"
     type: zipped-zim
-    handler: kiwix
   wikibooks.ar:
     version: "2016-06-04"
     size: "222026364"
@@ -598,7 +549,6 @@ all:
     sha256sum: "f03888b7ccfdc472c9e3abd5250c365df7c96d42808c902fef75c677a62a56f1"
     langid: "wikibooks.ar"
     type: zipped-zim
-    handler: kiwix
   wikisource.ar:
     version: "2016-05-03"
     size: "879336463"
@@ -610,7 +560,6 @@ all:
     sha256sum: "76018819a8ea040a3581fbc5d939ea37b40a179ed63db1ae5454e512cf15fdff"
     langid: "wikisource.ar"
     type: zipped-zim
-    handler: kiwix
   wikiquote.ar:
     version: "2016-05-06"
     size: "205050854"
@@ -622,7 +571,6 @@ all:
     sha256sum: "fe4a816c37e0baa489c3cabac551aa6801fdeeea1f89d183662ef322db1dc4a0"
     langid: "wikiquote.ar"
     type: zipped-zim
-    handler: kiwix
   wikipedia.el:
     version: "2016-06-09"
     size: "2077540506"
@@ -634,7 +582,6 @@ all:
     sha256sum: "988015390c85d9eb2fcc9c45e4c1102a1cf39d353bff970d97dfabf02942b28b"
     langid: "wikipedia.el"
     type: zipped-zim
-    handler: kiwix
   wikipedia.ps:
     version: "2016-05-13"
     size: "306846356"
@@ -646,7 +593,6 @@ all:
     sha256sum: "b66c8f77deb3c6890cfc146116340c3b8fa4aba07d974a664212b4a4baa06479"
     langid: "wikipedia.ps"
     type: zipped-zim
-    handler: kiwix
   wiktionary.el:
     version: "2016-08-09"
     size: "409838287"
@@ -658,7 +604,6 @@ all:
     sha256sum: "71ec5ad60376749692f62712021ac1f8b6fd9b288f4398b0a989cb2b804482e1"
     langid: "wiktionary.el"
     type: zipped-zim
-    handler: kiwix
   wiktionary.ps:
     langid: "wiktionary.ps"
     description: "ﺩ ﻮﻳکﻲﺴﻴﻧﺩ ﻞﺧﻭﺍ"
@@ -670,7 +615,6 @@ all:
     size: "209168895"
     sha256sum: "3dbe61f1f0b8a7e953e7bc9efc8c0229b929173e039173a8768cb9e143275983"
     type: zipped-zim
-    handler: kiwix
   wikiversity.el:
     langid: "wikiversity.el"
     description: "Από Βικιεπιστήμιο"
@@ -682,7 +626,6 @@ all:
     size: "205231085"
     sha256sum: "dbdf87e6d4236d74e70a841b902c439f3f8d41c2bb3d4d90590d18ce088ff99d"
     type: zipped-zim
-    handler: kiwix
   wikibooks.fa:
     langid: "wikibooks.fa"
     description: "ﻭیکی<200e>کﺕﺎﺑ، کﺕﺎﺒﺧﺎﻨﻫٔ ﺁﺯﺍﺩ"
@@ -694,7 +637,6 @@ all:
     size: "244869277"
     sha256sum: "e84e9d7fb68de7e4c141ce42476f41f032760f36b5191587ccf00d64d5f3a81e"
     type: zipped-zim
-    handler: kiwix
   wikibooks.el:
     langid: "wikibooks.el"
     description: "Από Βικιβιβλία"
@@ -706,7 +648,6 @@ all:
     size: "220550561"
     sha256sum: "ca3bffd7d3e4c6e5ddf0fafa9715f853ff81a324561f9b302ccb6c67d94e21fb"
     type: zipped-zim
-    handler: kiwix
   wikisource.el:
     langid: "wikisource.el"
     description: "Από Βικιθήκη"
@@ -718,7 +659,6 @@ all:
     size: "293020982"
     sha256sum: "d90da0df7c752a7c0b742a3e6741507d44eccea604349c4997e8f15400950d70"
     type: zipped-zim
-    handler: kiwix
   wikisource.fa:
     langid: "wikisource.fa"
     description: "ﺍﺯ ﻭیکی<200c>ﻦﺒﺸﺘﻫ"
@@ -730,7 +670,6 @@ all:
     size: "447249001"
     sha256sum: "37535144b00626311fc57e2dda39234c4f9166782184b03ca8da2847fc8a4303"
     type: zipped-zim
-    handler: kiwix
   wikiquote.en:
     langid: "wikiquote.en"
     description: The free quote compendium.
@@ -742,7 +681,6 @@ all:
     size: "696647939"
     sha256sum: "ec7699400845c2485a0a6125cc1452042d975b63f1dd7f5c42749c3464adac32"
     type: zipped-zim
-    handler: kiwix
   wikiquote.el:
     langid: "wikiquote.el"
     description: "Από Βικιφθέγματα"
@@ -754,7 +692,6 @@ all:
     size: "206275707"
     sha256sum: "1cd4b3d70402b54226fc149fa444814d4769348647a12b7a752ed012575c2b08"
     type: zipped-zim
-    handler: kiwix
   biologie-tout-compris.fr:
     langid: "biologie-tout-compris.fr"
     description: "Uploads from Tania Louis videos"
@@ -766,7 +703,6 @@ all:
     size: "542453851"
     sha256sum: "d0dd5e9ba6a8cacd75ae13edc59da5dd981f209024ddeaa254972ba8237f25bd"
     type: zipped-zim
-    handler: kiwix
   bouquineux.fr:
     langid: "bouquineux.fr"
     description: "2500 livres numériques gratuits et libres de droits"
@@ -778,7 +714,6 @@ all:
     size: "5703110184"
     sha256sum: "d4a5a13341ce2c610865dadd1461f3b3e58a90a9b0d1b07cd1ba2f462e57d348"
     type: zipped-zim
-    handler: kiwix
   deus-ex-silicium.fr:
     langid: "deus-ex-silicium.fr"
     description: "Deus Ex Silicium videos"
@@ -790,7 +725,6 @@ all:
     size: "1115449154"
     sha256sum: "817c6659d52ce2db690a380c46cb803e6ce06ffd7051222ed89a7d9459e0dfcb"
     type: zipped-zim
-    handler: kiwix
   e-penser.fr:
     langid: "e-penser.fr"
     description: "e penser videos"
@@ -802,7 +736,6 @@ all:
     size: "5760742831"
     sha256sum: "6b699defeef565e1d5df3f8efe8d6ee256da7a86559209ad1a50d9df528f55eb"
     type: zipped-zim
-    handler: kiwix
   ted-ed.en:
     langid: "ted-ed.en"
     description: Education videos from TED
@@ -814,7 +747,6 @@ all:
     size: "18985671301"
     sha256sum: "77a54f839e1b7915b3d0e2519ded8b696cc844371a126662063a4b7e39d8f287"
     type: zipped-zim
-    handler: kiwix
   gutenberg.mul:
     langid: "gutenberg.mul"
     description: "The first producer of free ebooks"
@@ -826,7 +758,6 @@ all:
     size: "48993771883"
     sha256sum: "8925f6f38a8889710eedd1e3185dd19131d29fb398a4889179ed2f11bb8805a1"
     type: zipped-zim
-    handler: kiwix
   wikipedia.sw:
     langid: "wikipedia.sw"
     description: "Kutoka Wikipedia, kamusi elezo huru"
@@ -838,7 +769,6 @@ all:
     size: "482344267"
     sha256sum: "3e54f307c7a70c04e7307679de248cbb4fd81cbe03c97f9db77e30d0cc80d500"
     type: zipped-zim
-    handler: kiwix
   vikidia.es:
     langid: "vikidia.es"
     description: "De Vikidia"
@@ -850,7 +780,6 @@ all:
     size: "239303072"
     sha256sum: "55142618651ddedaa48cd20b08ada2593ad0f9663a84c5b7f72069ae2efd7ca4"
     type: zipped-zim
-    handler: kiwix
   wiktionary.sw:
     langid: "wiktionary.sw"
     description: "Ufafanuzi kutoka Wiktionary, kamusi iliyo huru"
@@ -862,7 +791,6 @@ all:
     size: "207237378"
     sha256sum: "52b155cb8e66345ac5c278ac48e14f59d110b50e53f0284ebf84125d960ef970"
     type: zipped-zim
-    handler: kiwix
   wikiquote.es:
     langid: "wikiquote.es"
     description: "De Wikiquote, la colección libre de citas y frases célebres."
@@ -874,7 +802,6 @@ all:
     size: "278773135"
     sha256sum: "2986f34ac75fe1abe0ce5edbb6597d9df8feed555336e00c8f6a81d994608552"
     type: zipped-zim
-    handler: kiwix
   w2eu:
     name: Welcome to Europe refugees website
     version: 2016-08-12
@@ -893,7 +820,6 @@ all:
     size: "900336552"
     sha256sum: "820f337879e5cd10524ff86e007af7d14d4f4c5398d8c304f5c2560268326611"
     type: zipped-zim
-    handler: kiwix
   wikimooc.fr:
     langid: "wikimooc.fr"
     description: "Uploads from WikiMOOC videos"
@@ -905,7 +831,6 @@ all:
     size: "592581771"
     sha256sum: "ec26f33a4a06bbd5cca17d0cf3f2e6ea577f6493abff73a05f9227d3040b4571"
     type: zipped-zim
-    handler: kiwix
   tedmed.en:
     langid: "tedmed.en"
     description: TEDMED is the independently owned and operated health and medicine edition of the world-famous TED conference.
@@ -917,7 +842,6 @@ all:
     size: "18389062228"
     sha256sum: "2fba737ff1c0c1146a47b79f6e310be22e73310d3257fc118896549372ea5dcb"
     type: zipped-zim
-    handler: kiwix
   crashcourse.en:
     langid: "crashcourse.en"
     description: Educational videos about sciences, humanities…
@@ -929,7 +853,6 @@ all:
     size: "14836363791"
     sha256sum: "b651829203d4a7c55dc62230e9a99db60c3c394b6629b4354aa8c3e0fe0eb8bb"
     type: zipped-zim
-    handler: kiwix
   phet.en:
     langid: "phet.en"
     description: "PHETSims"
@@ -941,7 +864,6 @@ all:
     size: "209942793"
     sha256sum: "14b11aed688bf6a5a3cd338d5e9f2369020b9f3cfea26556461ff793a951ea4f"
     type: zipped-zim
-    handler: kiwix
   vikidia.en:
     langid: "vikidia.en"
     description: The encyclopedia for 8 to 13-year-old children
@@ -953,4 +875,3 @@ all:
     size: "244959103"
     sha256sum: "9ea14bdff46cc63f8224ca45685b26513b3e55067da50e65fb334737ab8882bb"
     type: zipped-zim
-    handler: kiwix
