@@ -123,7 +123,7 @@ all:
     version: "2016-08-05"
     size: "9476949105"
     url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_fr_all_2016-08.zip"
-    name: "Wikisource -- La bibliothèque libre."
+    name: Wikisource
     language: "fra"
     description: "La bibliothèque libre."
     id: "456e74a7-e980-d894-1c19-f70e90b2d302"
@@ -135,7 +135,7 @@ all:
     version: "2015-07-08"
     size: "33058680868"
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+cest-pas-sorcier_fr_all_2015-07.zip"
-    name: "Cest pas sorcier -- Cest pas sorcier videos"
+    name: Cest pas sorcier
     language: "fra"
     description: "Cest pas sorcier videos"
     id: "8df38284-2a51-9dd1-7861-b46a240163d0"
@@ -147,7 +147,7 @@ all:
     version: "2014-10-26"
     size: "43415229696"
     url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_en_all_10_2014.zip"
-    name: "Project Gutenberg Library (en) with epub,pdf -- The first producer of free ebooks"
+    name: Project Gutenberg Library (en) with epub,pdf
     language: "eng"
     description: "The first producer of free ebooks"
     id: "638012a4-0930-c04e-b264-57c889045d4f"
@@ -159,7 +159,7 @@ all:
     version: "2014-10-18"
     size: "2380948535"
     url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_fr_all_10_2014.zip"
-    name: "Project Gutenberg Library (fr) with epub,pdf -- The first producer of free ebooks"
+    name: Project Gutenberg Library (fr) with epub,pdf
     language: "fra"
     description: "The first producer of free ebooks"
     id: "83f7b7b1-66dd-20b8-b273-45b137bba571"
@@ -171,7 +171,7 @@ all:
     version: "2015-12-15"
     size: "680659800"
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+ubuntudoc_fr_all_2015-12.zip"
-    name: "Documentation Ubuntu Française -- Version hors ligne du wiki: doc.ubuntu-fr.org"
+    name: Documentation Ubuntu Française
     language: "fra"
     description: "Version hors ligne du wiki: doc.ubuntu-fr.org"
     id: "4beabd8a-c7b8-a97f-2a0a-1889b586ddc8"
@@ -183,7 +183,7 @@ all:
     version: "2015-03-20"
     size: "13944351804"
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+universcience-tv_fr_all_2015-03.zip"
-    name: "universcience tv -- universcience tv videos"
+    name: universcience tv
     language: "fra"
     description: "universcience tv videos"
     id: "2ce9666d-2c3a-5ff3-a1c7-4d4adfb39357"
@@ -195,7 +195,7 @@ all:
     version: "2015-03-17"
     size: "465142299"
     url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedxgeneva-2014_fr_all_2015-03.zip"
-    name: "TEDxGeneva 2014 -- TEDxGeneva 2014 videos"
+    name: TEDxGeneva 2014
     language: "fra"
     description: "TEDxGeneva 2014 videos"
     id: "8744202d-46e2-ef96-c038-2a84c5997e7d"
@@ -207,7 +207,7 @@ all:
     version: "2015-03-17"
     size: "450040712"
     url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedxlausanne-2012_fr_all_2015-03.zip"
-    name: "TEDxLausanne 2012 -- TEDxLausanne 2012 videos"
+    name: TEDxLausanne 2012
     language: "fra"
     description: "TEDxLausanne 2012 videos"
     id: "1b69b5c0-9a38-af07-2646-c4d476bea9fb"
@@ -219,7 +219,7 @@ all:
     version: "2015-03-18"
     size: "562322158"
     url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedxlausanne-2013_fr_all_2015-03.zip"
-    name: "TEDxLausanne 2013 -- TEDxLausanne 2013 videos"
+    name: TEDxLausanne 2013
     language: "fra"
     description: "TEDxLausanne 2013 videos"
     id: "6c57a0fc-5797-05ac-da75-0e894480663d"
@@ -231,7 +231,7 @@ all:
     version: "2015-03-18"
     size: "516471569"
     url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedxlausanne-2014_fr_all_2015-03.zip"
-    name: "TEDxLausanne 2014 -- TEDxLausanne 2014 videos"
+    name: TEDxLausanne 2014
     language: "fra"
     description: "TEDxLausanne 2014 videos"
     id: "0987d2c8-d8e6-d679-aab7-0af5f776bbe6"
@@ -243,7 +243,7 @@ all:
     version: "2015-03-18"
     size: "277352035"
     url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedxlausannechange-2013_fr_all_2015-03.zip"
-    name: "TEDxLausanneChange 2013 -- TEDxLausanneChange 2013 videos"
+    name: TEDxLausanneChange 2013
     language: "fra"
     description: "TEDxLausanneChange 2013 videos"
     id: "f3949f38-99c7-7edf-1150-146ba024185d"
@@ -327,7 +327,7 @@ all:
     version: "2016-03-20"
     size: "323228788"
     url: "http://download.kiwix.org/portable/wikivoyage/kiwix-0.9+wikivoyage_fr_all_2016-03.zip"
-    name: "Wikivoyage -- De Wikivoyage"
+    name: Wikivoyage
     language: "fra"
     description: "De Wikivoyage"
     id: "7cec69f5-3f78-50bb-0803-26db17d059a4"
@@ -339,7 +339,7 @@ all:
     version: "2016-08-21"
     size: "216674180"
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_wo_all_2016-08.zip"
-    name: "Wikipedia -- Jóge  Wikipedia"
+    name: Wikipedia
     language: "wol"
     description: "Jóge  Wikipedia"
     id: "46d1da70-c8cd-73d2-a9ff-433a32ceb388"
@@ -351,7 +351,7 @@ all:
     version: "2015-07-14"
     size: "5079022901"
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+wikistage_fr_all_2015-07.zip"
-    name: "WikiStage -- WikiStage videos"
+    name: WikiStage
     language: "fra"
     description: "WikiStage videos"
     id: "6e375490-5ee9-5a40-990c-3dca20f1da5f"
@@ -363,7 +363,7 @@ all:
     version: "2016-03-30"
     size: "1687788558"
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+dirtybiology_fr_all_2016-03.zip"
-    name: "DirtyBiology -- DirtyBiology videos"
+    name: DirtyBiology
     language: "fra"
     description: "DirtyBiology videos"
     id: "6f2b6379-e92e-a4ad-51f4-cfdbdc335127"
@@ -375,7 +375,7 @@ all:
     version: "2015-10-15"
     size: "9559834186"
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_pt_all_2015-10.zip"
-    name: "Wikipédia -- Origem: Wikipédia, a enciclopédia livre."
+    name: Wikipédia
     language: "por"
     description: "Origem: Wikipédia, a enciclopédia livre."
     id: "1a6b2e30-5856-4dbf-2c20-fd00f9edeeee"
@@ -387,7 +387,7 @@ all:
     version: "2014-10-18"
     size: "386887655"
     url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_pt_all_10_2014.zip"
-    name: "Project Gutenberg Library (pt) with epub,pdf -- The first producer of free ebooks"
+    name: Project Gutenberg Library (pt) with epub,pdf
     language: "por"
     description: "The first producer of free ebooks"
     id: "31964c49-1aa1-f24b-9ac8-6e33ce1407c0"
@@ -399,7 +399,7 @@ all:
     version: "2016-04-06"
     size: "4684417156"
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_fa_all_2016-04.zip"
-    name: "ﻭیکی<200c>پﺩیﺍ -- ﺍﺯ ﻭیکی<200c>پﺩیﺍ، ﺩﺎﻨﺸﻧﺎﻤﻫٔ ﺁﺯﺍﺩ"
+    name: ﻭیکی<200c>پﺩیﺍ
     language: "fas"
     description: "ﺍﺯ ﻭیکی<200c>پﺩیﺍ، ﺩﺎﻨﺸﻧﺎﻤﻫٔ ﺁﺯﺍﺩ"
     id: "ab9e957d-acce-5752-2519-e6b8eb09c9ee"
@@ -423,7 +423,7 @@ all:
     version: "2016-09-09"
     size: "708357070"
     url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_fr_all_2016-09.zip"
-    name: "Vikidia -- Vikidia"
+    name: Vikidia
     language: "fra"
     description: "Vikidia"
     id: "dbc420dd-fbed-f019-1665-0fda3ffd80fc"
@@ -435,7 +435,7 @@ all:
     version: "2016-05-11"
     size: "341703377"
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ku_all_2016-05.zip"
-    name: "Wîkîpediya -- Ji Wîkîpediya, ensîklopediya azad."
+    name: Wîkîpediya
     language: "kur"
     description: "Ji Wîkîpediya, ensîklopediya azad."
     id: "f2fc9334-ec5f-88c4-fe4e-9f6e7d3d5e1a"
@@ -447,7 +447,7 @@ all:
     version: "2016-05-20"
     size: "421323367"
     url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ku_all_2016-05.zip"
-    name: "Wiktionary -- Ji Wiktionary"
+    name: Wiktionary
     language: "kur"
     description: "Ji Wiktionary"
     id: "d71f645c-c13e-2085-eaa5-24b6cbd4869a"
@@ -459,7 +459,7 @@ all:
     version: "2016-05-22"
     size: "484496221"
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+les-fondamentaux_fr_all_2016-05.zip"
-    name: "Les fondamentaux -- Les fondamentaux videos"
+    name: Les fondamentaux
     language: "fra"
     description: "Les fondamentaux videos"
     id: "a8ebe1d1-f007-8781-e98e-ad32ba6a63ca"
@@ -483,7 +483,7 @@ all:
     version: "2012-01-09"
     size: "198835367"
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+icd10_fr_all_2012-01.zip"
-    name: "ICD-10 -- Classification statistique internationale des maladies et des problème de santé connexes"
+    name: ICD-10
     language: "fra"
     description: "Classification statistique internationale des maladies et des problème de santé connexes"
     id: "57b870bb-1e50-083f-e7e2-1aab092109b2"
@@ -495,7 +495,7 @@ all:
     version: "2012-12-18"
     size: "244776958"
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+mullah-piaz-digest_fa_all_2012-12.zip"
-    name: "Mullah Piaz -- Digest"
+    name: Mullah Piaz
     language: "per,eng"
     description: "Digest"
     id: "d3756db6-f994-6714-90b2-d4c381e9efba"
@@ -507,7 +507,7 @@ all:
     version: "2016-05-14"
     size: "238587327"
     url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_fa_all_2016-05.zip"
-    name: "ویکی<U+200C>واژه -- از ویکی<U+200C>واژه"
+    name: ویکی<U+200C>واژه
     language: "fas"
     description: "از ویکی<U+200C>واژه"
     id: "b6d92568-3ef1-cf01-04a4-5cd9a6055e74"
@@ -543,7 +543,7 @@ all:
     version: "2016-05-15"
     size: "14718442846"
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_es_all_2016-05.zip"
-    name: "Wikipedia -- De Wikipedia, la enciclopedia libre"
+    name: Wikipedia
     language: "spa"
     description: "De Wikipedia, la enciclopedia libre"
     id: "e5f0046a-8c80-063c-f123-cd1079500313"
@@ -555,7 +555,7 @@ all:
     version: "2014-10-18"
     size: "414626333"
     url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_es_all_10_2014.zip"
-    name: "Project Gutenberg Library (es) with epub,pdf -- The first producer of free ebooks"
+    name: Project Gutenberg Library (es) with epub,pdf
     language: "spa"
     description: "The first producer of free ebooks"
     id: "ea5f7bb3-1e58-9cd2-a0de-ace3c8ec15eb"
@@ -567,7 +567,7 @@ all:
     version: "2014-10-18"
     size: "764131978"
     url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_de_all_10_2014.zip"
-    name: "Project Gutenberg Library (de) with epub,pdf -- The first producer of free ebooks"
+    name: Project Gutenberg Library (de) with epub,pdf
     language: "deu"
     description: "The first producer of free ebooks"
     id: "ed455edb-cac1-f66d-97aa-93037206746f"
@@ -579,7 +579,7 @@ all:
     version: "2016-05-10"
     size: "24626756471"
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_de_all_2016-05.zip"
-    name: "Wikipedia -- aus Wikipedia, der freien Enzyklopädie"
+    name: Wikipedia
     language: "deu"
     description: "aus Wikipedia, der freien Enzyklopädie"
     id: "ac5b783f-1d50-a1f7-6b72-8713f868a9b8"
@@ -627,7 +627,7 @@ all:
     version: "2016-06-09"
     size: "2077540506"
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_el_all_2016-06.zip"
-    name: "Βικιπαίδεια -- Από τη Βικιπαίδεια, την ελεύθερη εγκυκλοπαίδεια"
+    name: Βικιπαίδεια
     language: "ell"
     description: "Από τη Βικιπαίδεια, την ελεύθερη εγκυκλοπαίδεια"
     id: "7ffc9dbd-cf77-0123-e2cf-db1d98f51bb6"
@@ -639,7 +639,7 @@ all:
     version: "2016-05-13"
     size: "306846356"
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ps_all_2016-05.zip"
-    name: "ﻮﻳکﻱپېډﻱﺍ -- ﺩ ﻮﻳکﻱپېډﻱﺍ، ﻭړیﺍ پﻮﻬﻨﻏﻮﻧډ ﻞﻫ ﺥﻭﺍ"
+    name: ﻮﻳکﻱپېډﻱﺍ
     language: "pus"
     description: "ﺩ ﻮﻳکﻱپېډﻱﺍ، ﻭړیﺍ پﻮﻬﻨﻏﻮﻧډ ﻞﻫ ﺥﻭﺍ"
     id: "7b6048be-c7b5-0c60-ddb4-53bdf39278d9"
@@ -651,7 +651,7 @@ all:
     version: "2016-08-09"
     size: "409838287"
     url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_el_all_2016-08.zip"
-    name: "Βικιλεξικό -- Από Βικιλεξικό"
+    name: Βικιλεξικό
     language: "ell"
     description: "Από Βικιλεξικό"
     id: "543db170-d0d8-ba58-9dac-d0d7baecef62"
@@ -662,7 +662,7 @@ all:
   wiktionary.ps:
     langid: "wiktionary.ps"
     description: "ﺩ ﻮﻳکﻲﺴﻴﻧﺩ ﻞﺧﻭﺍ"
-    name: "ﻮﻳکﻲﺴﻴﻧﺩ -- ﺩ ﻮﻳکﻲﺴﻴﻧﺩ ﻞﺧﻭﺍ"
+    name: ﻮﻳکﻲﺴﻴﻧﺩ
     version: "2016-05-29"
     language: "pus"
     id: "f205e339-9ab6-8cde-f470-21719d526ab0"
@@ -674,7 +674,7 @@ all:
   wikiversity.el:
     langid: "wikiversity.el"
     description: "Από Βικιεπιστήμιο"
-    name: "Βικιεπιστήμιο -- Από Βικιεπιστήμιο"
+    name: Βικιεπιστήμιο
     version: "2016-08-09"
     language: "ell"
     id: "4fc870e7-edb7-6aaa-4997-2d686961d234"
@@ -686,7 +686,7 @@ all:
   wikibooks.fa:
     langid: "wikibooks.fa"
     description: "ﻭیکی<200e>کﺕﺎﺑ، کﺕﺎﺒﺧﺎﻨﻫٔ ﺁﺯﺍﺩ"
-    name: "ﻭیکی<200c>کﺕﺎﺑ -- ﻭیکی<200e>کﺕﺎﺑ، کﺕﺎﺒﺧﺎﻨﻫٔ ﺁﺯﺍﺩ"
+    name: ﻭیکی<200c>کﺕﺎﺑ
     version: "2016-08-03"
     language: "fas"
     id: "ea5ab07f-8d35-3efd-6c96-2a62aa6d6d1c"
@@ -698,7 +698,7 @@ all:
   wikibooks.el:
     langid: "wikibooks.el"
     description: "Από Βικιβιβλία"
-    name: "Βικιβιβλία -- Από Βικιβιβλία"
+    name: Βικιβιβλία
     version: "2016-08-02"
     language: "ell"
     id: "b7970181-c075-8fe5-0fe5-1c64d7444d74"
@@ -710,7 +710,7 @@ all:
   wikisource.el:
     langid: "wikisource.el"
     description: "Από Βικιθήκη"
-    name: "Βικιθήκη -- Από Βικιθήκη"
+    name: Βικιθήκη
     version: "2016-08-05"
     language: "ell"
     id: "e0913bc7-1f0f-7353-a901-afbe608b44b1"
@@ -722,7 +722,7 @@ all:
   wikisource.fa:
     langid: "wikisource.fa"
     description: "ﺍﺯ ﻭیکی<200c>ﻦﺒﺸﺘﻫ"
-    name: "ﻭیکی<200c>ﻦﺒﺸﺘﻫ -- ﺍﺯ ﻭیکی<200c>ﻦﺒﺸﺘﻫ"
+    name: ﻭیکی<200c>ﻦﺒﺸﺘﻫ
     version: "2016-08-05"
     language: "fas"
     id: "a74944d0-e025-eaad-e566-84b4405a4130"
@@ -746,7 +746,7 @@ all:
   wikiquote.el:
     langid: "wikiquote.el"
     description: "Από Βικιφθέγματα"
-    name: "Βικιφθέγματα -- Από Βικιφθέγματα"
+    name: Βικιφθέγματα
     version: "2016-08-08"
     language: "ell"
     id: "5f97f10e-018a-725b-3e32-4dc01c86563e"
@@ -758,7 +758,7 @@ all:
   biologie-tout-compris.fr:
     langid: "biologie-tout-compris.fr"
     description: "Uploads from Tania Louis videos"
-    name: "Uploads from Tania Louis -- Uploads from Tania Louis videos"
+    name: Uploads from Tania Louis
     version: "2016-06-25"
     language: "fra"
     id: "26e41370-5f66-23a8-2468-a6fe53fda1c1"
@@ -770,7 +770,7 @@ all:
   bouquineux.fr:
     langid: "bouquineux.fr"
     description: "2500 livres numériques gratuits et libres de droits"
-    name: "Bouquineux -- 2500 livres numériques gratuits et libres de droits"
+    name: Bouquineux
     version: "2013-07-26"
     language: "fra"
     id: "2c1a2ab9-d579-d40f-0895-282a6b07ee05"
@@ -794,7 +794,7 @@ all:
   e-penser.fr:
     langid: "e-penser.fr"
     description: "e penser videos"
-    name: "e penser -- e penser videos"
+    name: e penser
     version: "2016-06-25"
     language: "fra"
     id: "e8404bd7-4205-86ac-1347-9db5ead7ca30"
@@ -854,7 +854,7 @@ all:
   wiktionary.sw:
     langid: "wiktionary.sw"
     description: "Ufafanuzi kutoka Wiktionary, kamusi iliyo huru"
-    name: "Wiktionary -- Ufafanuzi kutoka Wiktionary, kamusi iliyo huru"
+    name: Wiktionary
     version: "2016-06-01"
     language: "swa"
     id: "656ce451-18a0-8db9-0242-99abf4a0f583"
@@ -866,7 +866,7 @@ all:
   wikiquote.es:
     langid: "wikiquote.es"
     description: "De Wikiquote, la colección libre de citas y frases célebres."
-    name: "Wikiquote -- De Wikiquote, la colección libre de citas y frases célebres."
+    name: Wikiquote
     version: "2016-08-08"
     language: "spa"
     id: "9a0c0b36-1135-3eab-220a-409911aabd5b"
@@ -885,7 +885,7 @@ all:
   wikisource.es:
     langid: "wikisource.es"
     description: "De Wikisource, la biblioteca libre."
-    name: "Wikisource -- De Wikisource, la biblioteca libre."
+    name: Wikisource
     version: "2016-08-05"
     language: "spa"
     id: "480c0264-3468-75d6-b65e-054b9342862c"
@@ -897,7 +897,7 @@ all:
   wikimooc.fr:
     langid: "wikimooc.fr"
     description: "Uploads from WikiMOOC videos"
-    name: "Uploads from WikiMOOC -- Uploads from WikiMOOC videos"
+    name: Uploads from WikiMOOC
     version: "2016-04-17"
     language: "fra"
     id: "c73be244-51ea-da60-bee6-b93c5d37b1d7"
@@ -933,7 +933,7 @@ all:
   phet.en:
     langid: "phet.en"
     description: "PHETSims"
-    name: "PHETSims -- PHETSims"
+    name: PHETSims
     version: "2016-06-19"
     language: "eng"
     id: "a60cb414-63d9-c972-62fb-5c0b09259a3d"
