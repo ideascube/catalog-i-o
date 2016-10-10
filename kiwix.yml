@@ -1,7 +1,7 @@
 all:
   wikipedia.en:
     version: "2016-05-17"
-    size: "65652955268"
+    size: 65652955268
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_en_all_2016-05.zip"
     name: Wikipedia
     language: "eng"
@@ -12,7 +12,7 @@ all:
     type: zipped-zim
   wikipedia.fr:
     version: "2016-06-08"
-    size: "23988667777"
+    size: 23988667777
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_fr_all_2016-06.zip"
     name: Wikipédia
     language: "fra"
@@ -23,7 +23,7 @@ all:
     type: zipped-zim
   wikipedia.rn:
     version: "2016-05-13"
-    size: "201052048"
+    size: 201052048
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_rn_all_2016-05.zip"
     name: Wikipedia
     language: "run"
@@ -39,13 +39,13 @@ all:
     language: "eng"
     description: The free dictionary
     id: "10de68a8-b8ef-4da5-140c-41105b2fca27"
-    size: "2357130948"
+    size: 2357130948
     sha256sum: "e0f3124c1220c4672b56195884bdae7807c5c62cf3982bb04163d998bad505fa"
     langid: "wiktionary.en"
     type: zipped-zim
   wiktionary.fr:
     version: "2016-05-16"
-    size: "2046925193"
+    size: 2046925193
     url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_fr_all_2016-05.zip"
     name: Wiktionnaire
     language: "fra"
@@ -56,7 +56,7 @@ all:
     type: zipped-zim
   wikiversity.en:
     version: "2016-08-09"
-    size: "1172575403"
+    size: 1172575403
     url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_en_all_2016-08.zip"
     name: Wikiversity
     language: "eng"
@@ -67,7 +67,7 @@ all:
     type: zipped-zim
   wikiversity.fr:
     version: "2016-04-07"
-    size: "437716601"
+    size: 437716601
     url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_fr_all_2016-04.zip"
     name: Wikiversité
     language: "fra"
@@ -78,7 +78,7 @@ all:
     type: zipped-zim
   wikibooks.en:
     version: "2016-08-02"
-    size: "1472253727"
+    size: 1472253727
     url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_en_all_2016-08.zip"
     name: Wikibooks
     language: "eng"
@@ -89,7 +89,7 @@ all:
     type: zipped-zim
   wikibooks.fr:
     version: "2016-08-03"
-    size: "703612545"
+    size: 703612545
     url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_fr_all_2016-08.zip"
     name: Wikilivres
     language: "fra"
@@ -100,7 +100,7 @@ all:
     type: zipped-zim
   wikisource.en:
     version: "2016-08-03"
-    size: "11392234491"
+    size: 11392234491
     url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_en_all_2016-08.zip"
     name: Wikisource
     language: "eng"
@@ -111,7 +111,7 @@ all:
     type: zipped-zim
   wikisource.fr:
     version: "2016-08-05"
-    size: "9476949105"
+    size: 9476949105
     url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_fr_all_2016-08.zip"
     name: Wikisource
     language: "fra"
@@ -122,7 +122,7 @@ all:
     type: zipped-zim
   cest-pas-sorcier.fr:
     version: "2015-07-08"
-    size: "33058680868"
+    size: 33058680868
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+cest-pas-sorcier_fr_all_2015-07.zip"
     name: Cest pas sorcier
     language: "fra"
@@ -133,7 +133,7 @@ all:
     type: zipped-zim
   gutenberg.en:
     version: "2014-10-26"
-    size: "43415229696"
+    size: 43415229696
     url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_en_all_10_2014.zip"
     name: Project Gutenberg Library (en) with epub,pdf
     language: "eng"
@@ -144,7 +144,7 @@ all:
     type: zipped-zim
   gutenberg.fr:
     version: "2014-10-18"
-    size: "2380948535"
+    size: 2380948535
     url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_fr_all_10_2014.zip"
     name: Project Gutenberg Library (fr) with epub,pdf
     language: "fra"
@@ -155,7 +155,7 @@ all:
     type: zipped-zim
   ubuntudoc.fr:
     version: "2015-12-15"
-    size: "680659800"
+    size: 680659800
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+ubuntudoc_fr_all_2015-12.zip"
     name: Documentation Ubuntu Française
     language: "fra"
@@ -166,7 +166,7 @@ all:
     type: zipped-zim
   universcience-tv.fr:
     version: "2015-03-20"
-    size: "13944351804"
+    size: 13944351804
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+universcience-tv_fr_all_2015-03.zip"
     name: universcience tv
     language: "fra"
@@ -177,7 +177,7 @@ all:
     type: zipped-zim
   tedxgeneva2014.fr:
     version: "2015-03-17"
-    size: "465142299"
+    size: 465142299
     url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedxgeneva-2014_fr_all_2015-03.zip"
     name: TEDxGeneva 2014
     language: "fra"
@@ -188,7 +188,7 @@ all:
     type: zipped-zim
   tedxlausanne2012.fr:
     version: "2015-03-17"
-    size: "450040712"
+    size: 450040712
     url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedxlausanne-2012_fr_all_2015-03.zip"
     name: TEDxLausanne 2012
     language: "fra"
@@ -199,7 +199,7 @@ all:
     type: zipped-zim
   tedxlausanne2013.fr:
     version: "2015-03-18"
-    size: "562322158"
+    size: 562322158
     url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedxlausanne-2013_fr_all_2015-03.zip"
     name: TEDxLausanne 2013
     language: "fra"
@@ -210,7 +210,7 @@ all:
     type: zipped-zim
   tedxlausanne2014.fr:
     version: "2015-03-18"
-    size: "516471569"
+    size: 516471569
     url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedxlausanne-2014_fr_all_2015-03.zip"
     name: TEDxLausanne 2014
     language: "fra"
@@ -221,7 +221,7 @@ all:
     type: zipped-zim
   tedxlausannechange2013.fr:
     version: "2015-03-18"
-    size: "277352035"
+    size: 277352035
     url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedxlausannechange-2013_fr_all_2015-03.zip"
     name: TEDxLausanneChange 2013
     language: "fra"
@@ -232,7 +232,7 @@ all:
     type: zipped-zim
   tedbusiness.en:
     version: "2015-02-02"
-    size: "8629637983"
+    size: 8629637983
     url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_business_2015-02.zip"
     name: TED Business
     language: "eng"
@@ -243,7 +243,7 @@ all:
     type: zipped-zim
   teddesign.en:
     version: "2015-02-02"
-    size: "8752857912"
+    size: 8752857912
     url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_design_2015-02.zip"
     name: TED Design
     language: "eng"
@@ -254,7 +254,7 @@ all:
     type: zipped-zim
   tedentertainment.en:
     version: "2015-02-02"
-    size: "8141433715"
+    size: 8141433715
     url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_entertainment_2015-02.zip"
     name: TED Entertainment
     language: "eng"
@@ -265,7 +265,7 @@ all:
     type: zipped-zim
   tedglobalissues.en:
     version: "2015-02-02"
-    size: "13064555271"
+    size: 13064555271
     url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_global_issues_2015-02.zip"
     name: TED Global issues
     language: "eng"
@@ -276,7 +276,7 @@ all:
     type: zipped-zim
   tedscience.en:
     version: "2015-02-02"
-    size: "12273628956"
+    size: 12273628956
     url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_science_2015-02.zip"
     name: TED Science
     language: "eng"
@@ -287,7 +287,7 @@ all:
     type: zipped-zim
   tedtechnology.en:
     version: "2015-02-02"
-    size: "16161925189"
+    size: 16161925189
     url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_technology_2015-02.zip"
     name: TED Technology
     language: "eng"
@@ -298,7 +298,7 @@ all:
     type: zipped-zim
   wikivoyage.fr:
     version: "2016-03-20"
-    size: "323228788"
+    size: 323228788
     url: "http://download.kiwix.org/portable/wikivoyage/kiwix-0.9+wikivoyage_fr_all_2016-03.zip"
     name: Wikivoyage
     language: "fra"
@@ -309,7 +309,7 @@ all:
     type: zipped-zim
   wikipedia.wo:
     version: "2016-08-21"
-    size: "216674180"
+    size: 216674180
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_wo_all_2016-08.zip"
     name: Wikipedia
     language: "wol"
@@ -320,7 +320,7 @@ all:
     type: zipped-zim
   wikistage.fr:
     version: "2015-07-14"
-    size: "5079022901"
+    size: 5079022901
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+wikistage_fr_all_2015-07.zip"
     name: WikiStage
     language: "fra"
@@ -331,7 +331,7 @@ all:
     type: zipped-zim
   dirtybiology.fr:
     version: "2016-03-30"
-    size: "1687788558"
+    size: 1687788558
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+dirtybiology_fr_all_2016-03.zip"
     name: DirtyBiology
     language: "fra"
@@ -342,7 +342,7 @@ all:
     type: zipped-zim
   wikipedia.pt:
     version: "2015-10-15"
-    size: "9559834186"
+    size: 9559834186
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_pt_all_2015-10.zip"
     name: Wikipédia
     language: "por"
@@ -353,7 +353,7 @@ all:
     type: zipped-zim
   gutenberg.pt:
     version: "2014-10-18"
-    size: "386887655"
+    size: 386887655
     url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_pt_all_10_2014.zip"
     name: Project Gutenberg Library (pt) with epub,pdf
     language: "por"
@@ -364,7 +364,7 @@ all:
     type: zipped-zim
   wikipedia.fa:
     version: "2016-04-06"
-    size: "4684417156"
+    size: 4684417156
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_fa_all_2016-04.zip"
     name: ﻭیکی<200c>پﺩیﺍ
     language: "fas"
@@ -375,7 +375,7 @@ all:
     type: zipped-zim
   wikipedia.ar:
     version: "2016-08-04"
-    size: "5926362220"
+    size: 5926362220
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ar_all_2016-08.zip"
     name: "ويكيبيديا"
     language: "ara"
@@ -386,7 +386,7 @@ all:
     type: zipped-zim
   vikidia.fr:
     version: "2016-09-09"
-    size: "708357070"
+    size: 708357070
     url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_fr_all_2016-09.zip"
     name: Vikidia
     language: "fra"
@@ -397,7 +397,7 @@ all:
     type: zipped-zim
   wikipedia.ku:
     version: "2016-05-11"
-    size: "341703377"
+    size: 341703377
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ku_all_2016-05.zip"
     name: Wîkîpediya
     language: "kur"
@@ -408,7 +408,7 @@ all:
     type: zipped-zim
   wiktionary.ku:
     version: "2016-05-20"
-    size: "421323367"
+    size: 421323367
     url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ku_all_2016-05.zip"
     name: Wiktionary
     language: "kur"
@@ -419,7 +419,7 @@ all:
     type: zipped-zim
   les-fondamentaux.fr:
     version: "2016-05-22"
-    size: "484496221"
+    size: 484496221
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+les-fondamentaux_fr_all_2016-05.zip"
     name: Les fondamentaux
     language: "fra"
@@ -430,7 +430,7 @@ all:
     type: zipped-zim
   bil-tunisia.ar:
     version: "2015-03-16"
-    size: "2949838231"
+    size: 2949838231
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+bil-tunisia_ar_all_2015-03.zip"
     name: "فيديو-بالتونسي"
     language: "ara"
@@ -441,7 +441,7 @@ all:
     type: zipped-zim
   icd10.fr:
     version: "2012-01-09"
-    size: "198835367"
+    size: 198835367
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+icd10_fr_all_2012-01.zip"
     name: ICD-10
     language: "fra"
@@ -452,7 +452,7 @@ all:
     type: zipped-zim
   mullah-piaz-digest.fa:
     version: "2012-12-18"
-    size: "244776958"
+    size: 244776958
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+mullah-piaz-digest_fa_all_2012-12.zip"
     name: Mullah Piaz
     language: "per,eng"
@@ -463,7 +463,7 @@ all:
     type: zipped-zim
   wiktionary.fa:
     version: "2016-05-14"
-    size: "238587327"
+    size: 238587327
     url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_fa_all_2016-05.zip"
     name: ویکی<U+200C>واژه
     language: "fas"
@@ -474,7 +474,7 @@ all:
     type: zipped-zim
   wiktionary.ar:
     version: "2016-06-07"
-    size: "232655333"
+    size: 232655333
     url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ar_all_2016-06.zip"
     name: "ويكي القاموس"
     language: "ara"
@@ -485,7 +485,7 @@ all:
     type: zipped-zim
   wikiversity.ar:
     version: "2016-05-07"
-    size: "208177465"
+    size: 208177465
     url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_ar_all_2016-05.zip"
     name: "ويكي الجامعة"
     language: "ara"
@@ -496,7 +496,7 @@ all:
     type: zipped-zim
   wikipedia.es:
     version: "2016-05-15"
-    size: "14718442846"
+    size: 14718442846
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_es_all_2016-05.zip"
     name: Wikipedia
     language: "spa"
@@ -507,7 +507,7 @@ all:
     type: zipped-zim
   gutenberg.es:
     version: "2014-10-18"
-    size: "414626333"
+    size: 414626333
     url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_es_all_10_2014.zip"
     name: Project Gutenberg Library (es) with epub,pdf
     language: "spa"
@@ -518,7 +518,7 @@ all:
     type: zipped-zim
   gutenberg.de:
     version: "2014-10-18"
-    size: "764131978"
+    size: 764131978
     url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_de_all_10_2014.zip"
     name: Project Gutenberg Library (de) with epub,pdf
     language: "deu"
@@ -529,7 +529,7 @@ all:
     type: zipped-zim
   wikipedia.de:
     version: "2016-05-10"
-    size: "24626756471"
+    size: 24626756471
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_de_all_2016-05.zip"
     name: Wikipedia
     language: "deu"
@@ -540,7 +540,7 @@ all:
     type: zipped-zim
   wikibooks.ar:
     version: "2016-06-04"
-    size: "222026364"
+    size: 222026364
     url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_ar_all_2016-06.zip"
     name: "ويكي المكتبة"
     language: "ara"
@@ -551,7 +551,7 @@ all:
     type: zipped-zim
   wikisource.ar:
     version: "2016-05-03"
-    size: "879336463"
+    size: 879336463
     url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_ar_all_2016-05.zip"
     name: "ويكي المصدر"
     language: "ara"
@@ -562,7 +562,7 @@ all:
     type: zipped-zim
   wikiquote.ar:
     version: "2016-05-06"
-    size: "205050854"
+    size: 205050854
     url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_ar_all_2016-05.zip"
     name: "ويكي الاقتباس"
     language: "ara"
@@ -573,7 +573,7 @@ all:
     type: zipped-zim
   wikipedia.el:
     version: "2016-06-09"
-    size: "2077540506"
+    size: 2077540506
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_el_all_2016-06.zip"
     name: Βικιπαίδεια
     language: "ell"
@@ -584,7 +584,7 @@ all:
     type: zipped-zim
   wikipedia.ps:
     version: "2016-05-13"
-    size: "306846356"
+    size: 306846356
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ps_all_2016-05.zip"
     name: ﻮﻳکﻱپېډﻱﺍ
     language: "pus"
@@ -595,7 +595,7 @@ all:
     type: zipped-zim
   wiktionary.el:
     version: "2016-08-09"
-    size: "409838287"
+    size: 409838287
     url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_el_all_2016-08.zip"
     name: Βικιλεξικό
     language: "ell"
@@ -612,7 +612,7 @@ all:
     language: "pus"
     id: "f205e339-9ab6-8cde-f470-21719d526ab0"
     url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ps_all_2016-05.zip"
-    size: "209168895"
+    size: 209168895
     sha256sum: "3dbe61f1f0b8a7e953e7bc9efc8c0229b929173e039173a8768cb9e143275983"
     type: zipped-zim
   wikiversity.el:
@@ -623,7 +623,7 @@ all:
     language: "ell"
     id: "4fc870e7-edb7-6aaa-4997-2d686961d234"
     url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_el_all_2016-08.zip"
-    size: "205231085"
+    size: 205231085
     sha256sum: "dbdf87e6d4236d74e70a841b902c439f3f8d41c2bb3d4d90590d18ce088ff99d"
     type: zipped-zim
   wikibooks.fa:
@@ -634,7 +634,7 @@ all:
     language: "fas"
     id: "ea5ab07f-8d35-3efd-6c96-2a62aa6d6d1c"
     url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_fa_all_2016-08.zip"
-    size: "244869277"
+    size: 244869277
     sha256sum: "e84e9d7fb68de7e4c141ce42476f41f032760f36b5191587ccf00d64d5f3a81e"
     type: zipped-zim
   wikibooks.el:
@@ -645,7 +645,7 @@ all:
     language: "ell"
     id: "b7970181-c075-8fe5-0fe5-1c64d7444d74"
     url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_el_all_2016-08.zip"
-    size: "220550561"
+    size: 220550561
     sha256sum: "ca3bffd7d3e4c6e5ddf0fafa9715f853ff81a324561f9b302ccb6c67d94e21fb"
     type: zipped-zim
   wikisource.el:
@@ -656,7 +656,7 @@ all:
     language: "ell"
     id: "e0913bc7-1f0f-7353-a901-afbe608b44b1"
     url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_el_all_2016-08.zip"
-    size: "293020982"
+    size: 293020982
     sha256sum: "d90da0df7c752a7c0b742a3e6741507d44eccea604349c4997e8f15400950d70"
     type: zipped-zim
   wikisource.fa:
@@ -667,7 +667,7 @@ all:
     language: "fas"
     id: "a74944d0-e025-eaad-e566-84b4405a4130"
     url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_fa_all_2016-08.zip"
-    size: "447249001"
+    size: 447249001
     sha256sum: "37535144b00626311fc57e2dda39234c4f9166782184b03ca8da2847fc8a4303"
     type: zipped-zim
   wikiquote.en:
@@ -678,7 +678,7 @@ all:
     language: "eng"
     id: "63eb97ae-9d12-a57b-7ebe-2a5e3701d543"
     url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_en_all_2016-08.zip"
-    size: "696647939"
+    size: 696647939
     sha256sum: "ec7699400845c2485a0a6125cc1452042d975b63f1dd7f5c42749c3464adac32"
     type: zipped-zim
   wikiquote.el:
@@ -689,7 +689,7 @@ all:
     language: "ell"
     id: "5f97f10e-018a-725b-3e32-4dc01c86563e"
     url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_el_all_2016-08.zip"
-    size: "206275707"
+    size: 206275707
     sha256sum: "1cd4b3d70402b54226fc149fa444814d4769348647a12b7a752ed012575c2b08"
     type: zipped-zim
   biologie-tout-compris.fr:
@@ -700,7 +700,7 @@ all:
     language: "fra"
     id: "26e41370-5f66-23a8-2468-a6fe53fda1c1"
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+biologie-tout-compris_fr_all_2016-06.zip"
-    size: "542453851"
+    size: 542453851
     sha256sum: "d0dd5e9ba6a8cacd75ae13edc59da5dd981f209024ddeaa254972ba8237f25bd"
     type: zipped-zim
   bouquineux.fr:
@@ -711,7 +711,7 @@ all:
     language: "fra"
     id: "2c1a2ab9-d579-d40f-0895-282a6b07ee05"
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+bouquineux_fr_all_2013-07.zip"
-    size: "5703110184"
+    size: 5703110184
     sha256sum: "d4a5a13341ce2c610865dadd1461f3b3e58a90a9b0d1b07cd1ba2f462e57d348"
     type: zipped-zim
   deus-ex-silicium.fr:
@@ -722,7 +722,7 @@ all:
     language: "fra"
     id: "4b51a4f7-9fa2-9b97-06bc-43625c168af7"
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+deus-ex-silicium_fr_all_2015-03.zip"
-    size: "1115449154"
+    size: 1115449154
     sha256sum: "817c6659d52ce2db690a380c46cb803e6ce06ffd7051222ed89a7d9459e0dfcb"
     type: zipped-zim
   e-penser.fr:
@@ -733,7 +733,7 @@ all:
     language: "fra"
     id: "e8404bd7-4205-86ac-1347-9db5ead7ca30"
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+e-penser_fr_all_2016-06.zip"
-    size: "5760742831"
+    size: 5760742831
     sha256sum: "6b699defeef565e1d5df3f8efe8d6ee256da7a86559209ad1a50d9df528f55eb"
     type: zipped-zim
   ted-ed.en:
@@ -744,7 +744,7 @@ all:
     language: "eng"
     id: "37f70600-ca38-bbcd-edb9-f97ca1ebd126"
     url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted-ed_en_all_2016-04.zip"
-    size: "18985671301"
+    size: 18985671301
     sha256sum: "77a54f839e1b7915b3d0e2519ded8b696cc844371a126662063a4b7e39d8f287"
     type: zipped-zim
   gutenberg.mul:
@@ -755,7 +755,7 @@ all:
     language: "mul"
     id: "f50b96ac-decf-8d94-b16f-cc1f4838c32a"
     url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_mul_all_2014-11.zip"
-    size: "48993771883"
+    size: 48993771883
     sha256sum: "8925f6f38a8889710eedd1e3185dd19131d29fb398a4889179ed2f11bb8805a1"
     type: zipped-zim
   wikipedia.sw:
@@ -766,7 +766,7 @@ all:
     language: "swa"
     id: "fed64f2d-73e9-7379-dbc9-ad716f9ded3f"
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_sw_all_2016-05.zip"
-    size: "482344267"
+    size: 482344267
     sha256sum: "3e54f307c7a70c04e7307679de248cbb4fd81cbe03c97f9db77e30d0cc80d500"
     type: zipped-zim
   vikidia.es:
@@ -777,7 +777,7 @@ all:
     language: "spa"
     id: "ce4965af-d617-86bf-e668-035d97feedbc"
     url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_es_all_2016-08.zip"
-    size: "239303072"
+    size: 239303072
     sha256sum: "55142618651ddedaa48cd20b08ada2593ad0f9663a84c5b7f72069ae2efd7ca4"
     type: zipped-zim
   wiktionary.sw:
@@ -788,7 +788,7 @@ all:
     language: "swa"
     id: "656ce451-18a0-8db9-0242-99abf4a0f583"
     url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_sw_all_2015-09.zip"
-    size: "207237378"
+    size: 207237378
     sha256sum: "52b155cb8e66345ac5c278ac48e14f59d110b50e53f0284ebf84125d960ef970"
     type: zipped-zim
   wikiquote.es:
@@ -799,7 +799,7 @@ all:
     language: "spa"
     id: "9a0c0b36-1135-3eab-220a-409911aabd5b"
     url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_es_all_2016-08.zip"
-    size: "278773135"
+    size: 278773135
     sha256sum: "2986f34ac75fe1abe0ce5edbb6597d9df8feed555336e00c8f6a81d994608552"
     type: zipped-zim
   w2eu:
@@ -817,7 +817,7 @@ all:
     language: "spa"
     id: "480c0264-3468-75d6-b65e-054b9342862c"
     url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_es_all_2016-08.zip"
-    size: "900336552"
+    size: 900336552
     sha256sum: "820f337879e5cd10524ff86e007af7d14d4f4c5398d8c304f5c2560268326611"
     type: zipped-zim
   wikimooc.fr:
@@ -828,7 +828,7 @@ all:
     language: "fra"
     id: "c73be244-51ea-da60-bee6-b93c5d37b1d7"
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+wikimooc_fr_all_2016-04.zip"
-    size: "592581771"
+    size: 592581771
     sha256sum: "ec26f33a4a06bbd5cca17d0cf3f2e6ea577f6493abff73a05f9227d3040b4571"
     type: zipped-zim
   tedmed.en:
@@ -839,7 +839,7 @@ all:
     language: "eng"
     id: "80d768b7-8d2b-03f1-3b10-a56fa4d16728"
     url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedmed_en_all_2016-07.zip"
-    size: "18389062228"
+    size: 18389062228
     sha256sum: "2fba737ff1c0c1146a47b79f6e310be22e73310d3257fc118896549372ea5dcb"
     type: zipped-zim
   crashcourse.en:
@@ -850,7 +850,7 @@ all:
     language: "eng"
     id: "580162ed-f379-b1de-3918-b6009f02cdff"
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+crashcourse_en_all_2016-02.zip"
-    size: "14836363791"
+    size: 14836363791
     sha256sum: "b651829203d4a7c55dc62230e9a99db60c3c394b6629b4354aa8c3e0fe0eb8bb"
     type: zipped-zim
   phet.en:
@@ -861,7 +861,7 @@ all:
     language: "eng"
     id: "a60cb414-63d9-c972-62fb-5c0b09259a3d"
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+phet_en_all_2016-06.zip"
-    size: "209942793"
+    size: 209942793
     sha256sum: "14b11aed688bf6a5a3cd338d5e9f2369020b9f3cfea26556461ff793a951ea4f"
     type: zipped-zim
   vikidia.en:
@@ -872,6 +872,6 @@ all:
     language: "eng"
     id: "39718f46-d327-7845-1131-b271c8804d81"
     url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_en_all_2016-09.zip"
-    size: "244959103"
+    size: 244959103
     sha256sum: "9ea14bdff46cc63f8224ca45685b26513b3e55067da50e65fb334737ab8882bb"
     type: zipped-zim
