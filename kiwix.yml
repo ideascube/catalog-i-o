@@ -855,8 +855,8 @@ all:
     type: zipped-zim
   phet.en:
     langid: "phet.en"
-    description: "PHETSims"
-    name: PHETSims
+    name: PhET
+    description: Physics, chemistry, biology, earth science and math simulations
     version: "2016-06-19"
     language: "eng"
     id: "a60cb414-63d9-c972-62fb-5c0b09259a3d"
