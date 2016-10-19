@@ -1,23 +1,31 @@
 #!/bin/sh
 
-html=kiwix.yml.html
+catalogs='kiwix.yml static-sites.yml'
+remote='buildbot:/srv/catalog/'
 
-rm -f $html
+htmlize() {
+    local catalog=$1
 
-echo '<html>
+    echo "<html>
     <head>
-        <title>kiwix.yml</title>
-        <meta charset="utf-8" />
+        <title>${catalog}</title>
+        <meta charset='utf-8' />
     </head>
     <body>
-        <pre>' > $html
-
-cat kiwix.yml >> $html
-
-echo '        </pre>
+        <pre>
+$( cat $catalog )
+        </pre>
     </body>
-</html>' >> $html
+</html>" > ${catalog}.html
 
-scp kiwix.yml $html buildbot:/srv/catalog/
+}
 
-rm -f $html
+
+rm -f *.html
+
+for i in $catalogs ; do
+    htmlize $i
+    scp $i ${i}.html $remote
+    rm ${i}.html
+done
+
