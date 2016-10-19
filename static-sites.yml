@@ -1,0 +1,8 @@
+all:
+  w2eu:
+    name: Welcome to Europe refugees website
+    version: 2016-08-12
+    url: http://filer.bsf-intranet.org/ideascube-catalog/w2eu/w2eu.zip
+    sha256sum: c04425f055a27ebebe69820601d95fba08d5febd5f142734d0642c4bf7a5089e
+    size: 145048526
+    type: static-site

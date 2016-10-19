@@ -802,13 +802,6 @@ all:
     size: 278773135
     sha256sum: "2986f34ac75fe1abe0ce5edbb6597d9df8feed555336e00c8f6a81d994608552"
     type: zipped-zim
-  w2eu:
-    name: Welcome to Europe refugees website
-    version: 2016-08-12
-    url: http://filer.bsf-intranet.org/ideascube-catalog/w2eu/w2eu.zip
-    sha256sum: c04425f055a27ebebe69820601d95fba08d5febd5f142734d0642c4bf7a5089e
-    size: 145048526
-    type: static-site
   wikisource.es:
     langid: "wikisource.es"
     description: "De Wikisource, la biblioteca libre."
