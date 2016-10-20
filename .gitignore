@@ -1,3 +1,7 @@
 README.html
 library.xml
 library.xml.flat
+
+# tests
+.cache
+tests/__pycache__
