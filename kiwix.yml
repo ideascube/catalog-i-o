@@ -773,12 +773,12 @@ all:
     langid: "vikidia.es"
     description: "De Vikidia"
     name: Vikidia
-    version: "2016-08-02"
+    version: "2016-10-18"
     language: "spa"
-    id: "ce4965af-d617-86bf-e668-035d97feedbc"
-    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_es_all_2016-08.zip"
-    size: 239303072
-    sha256sum: "55142618651ddedaa48cd20b08ada2593ad0f9663a84c5b7f72069ae2efd7ca4"
+    id: "26f63017-6707-f4a9-0690-2ba07317c095"
+    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_es_all_2016-10.zip"
+    size: 241653335
+    sha256sum: "235b8d4cb84ce72f538f4ed01a558fcebabbbf8949d14236e51075165fe17d4e"
     type: zipped-zim
   wiktionary.sw:
     langid: "wiktionary.sw"
