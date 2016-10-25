@@ -509,7 +509,7 @@ all:
     version: "2014-10-18"
     size: 414626333
     url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_es_all_10_2014.zip"
-    name: Project Gutenberg Library (es) with epub,pdf
+    name: Project Gutenberg
     language: "spa"
     description: "The first producer of free ebooks"
     id: "ea5f7bb3-1e58-9cd2-a0de-ace3c8ec15eb"
@@ -520,7 +520,7 @@ all:
     version: "2014-10-18"
     size: 764131978
     url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_de_all_10_2014.zip"
-    name: Project Gutenberg Library (de) with epub,pdf
+    name: Project Gutenberg
     language: "deu"
     description: "The first producer of free ebooks"
     id: "ed455edb-cac1-f66d-97aa-93037206746f"
