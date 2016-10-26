@@ -16,7 +16,7 @@ all:
   snap:
     name: Snap!
     version: 2016-10-06
-    description: programming language for kids and adults
+    description: Programming language for kids and adults.
     url: http://catalog.yohanboniface.me/snap.zip
     sha256sum: b2a43ce9f1969ca6735eea55a11850361077b5e07f122514857f5208dfe41a08
     size: 923096
@@ -24,7 +24,7 @@ all:
   cinescuela.es:
     name: "Cinescuela"
     version: "2016-10-20"
-    description: "lleva el cine a tu aula de clase"
+    description: Lleva el cine a tu aula de clase.
     url: "http://filer.bsf-intranet.org/ideascube-catalog/cinescuela/cinescuela.zip"
     sha256sum: "8a3812560685096f8ba37ae9721d1296d93f263502a546540f358e9f59532771"
     size: 52508531
