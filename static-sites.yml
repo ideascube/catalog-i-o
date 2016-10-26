@@ -30,3 +30,12 @@ all:
     size: 52508531
     language: "es"
     type: static-site
+  maguare.es:
+    name: Maguaré
+    version: 2016-10-26
+    description: Descubre, imagina y crea, portal infantil.
+    url: http://filer.bsf-intranet.org/ideascube-catalog/maguare/maguare.zip
+    sha256sum: 68353fd10eea5301cd2b931c43035fdc2f6afe56d6d3fcaa05ffb126e3e8bc6a
+    size: 4411042127
+    language: es
+    type: static-site
