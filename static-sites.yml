@@ -16,17 +16,26 @@ all:
   snap:
     name: Snap!
     version: 2016-10-06
-    description: programming language for kids and adults
+    description: Programming language for kids and adults.
     url: http://catalog.yohanboniface.me/snap.zip
     sha256sum: b2a43ce9f1969ca6735eea55a11850361077b5e07f122514857f5208dfe41a08
     size: 923096
     type: static-site
   cinescuela.es:
-    name: "Cinescuela"
-    version: "2016-10-20"
-    description: "lleva el cine a tu aula de clase"
-    url: "http://filer.bsf-intranet.org/ideascube-catalog/cinescuela/cinescuela.zip"
-    sha256sum: "8a3812560685096f8ba37ae9721d1296d93f263502a546540f358e9f59532771"
+    name: Cinescuela
+    version: 2016-10-20
+    description: Lleva el cine a tu aula de clase.
+    url: http://filer.bsf-intranet.org/ideascube-catalog/cinescuela/cinescuela.zip
+    sha256sum: 8a3812560685096f8ba37ae9721d1296d93f263502a546540f358e9f59532771
     size: 52508531
-    language: "es"
+    language: es
+    type: static-site
+  maguare.es:
+    name: Maguaré
+    version: 2016-10-26
+    description: Descubre, imagina y crea, portal infantil.
+    url: http://filer.bsf-intranet.org/ideascube-catalog/maguare/maguare.zip
+    sha256sum: 68353fd10eea5301cd2b931c43035fdc2f6afe56d6d3fcaa05ffb126e3e8bc6a
+    size: 4411042127
+    language: es
     type: static-site
