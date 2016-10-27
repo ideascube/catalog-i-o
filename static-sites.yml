@@ -24,7 +24,7 @@ all:
   cinescuela.es:
     name: Cinescuela
     version: 2016-10-20
-    description: Lleva el cine a tu aula de clase.
+    description: Lleva el cine a tu biblioteca móvil.
     url: http://filer.bsf-intranet.org/ideascube-catalog/cinescuela/cinescuela.zip
     sha256sum: 8a3812560685096f8ba37ae9721d1296d93f263502a546540f358e9f59532771
     size: 52508531

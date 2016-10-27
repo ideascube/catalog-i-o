@@ -511,7 +511,7 @@ all:
     url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_es_all_10_2014.zip"
     name: Project Gutenberg
     language: "spa"
-    description: "The first producer of free ebooks"
+    description: Libros electrónicos gratuitos a tu disposición.
     id: "ea5f7bb3-1e58-9cd2-a0de-ace3c8ec15eb"
     sha256sum: "fd973e2ac97ccbb423bbdf0e8b0797e3383cf71365a1216467789ad38e285f07"
     langid: "gutenberg.es"
