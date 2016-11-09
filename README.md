@@ -133,6 +133,19 @@ Inconsistent file naming. Expect project_lang_type_date? Deal with that:
     ted_en_global_issues_2015-02
     wikipedia_en_ray_charles_2015-06
 
+And consider this one:
+
+    $ cat rsync.out | grep ".zip" | grep -F -v '_nopic_' | tr -s ' ' | cut -d ' ' -f5 | sort -r \
+        | sed 's/_20[0-9][0-9]-[0-9][0-9]\.zip//g' | fgrep _20
+    wikipedia/kiwix-0.9+wikipedia_en_uganda_09_2014.zip
+    gutenberg/kiwix-0.9+gutenberg_pt_all_10_2014.zip
+    gutenberg/kiwix-0.9+gutenberg_it_all_10_2014.zip
+    gutenberg/kiwix-0.9+gutenberg_fr_all_10_2014.zip
+    gutenberg/kiwix-0.9+gutenberg_fr_all_09_2014.zip
+    gutenberg/kiwix-0.9+gutenberg_es_all_10_2014.zip
+    gutenberg/kiwix-0.9+gutenberg_en_all_10_2014.zip
+    gutenberg/kiwix-0.9+gutenberg_de_all_10_2014.zip
+
 Incomplete entries / missing fields. Flattening ubuntudoc.fr from library.xml:
 
     /library/book
