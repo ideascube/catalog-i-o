@@ -135,7 +135,8 @@ Inconsistent file naming. Expect project_lang_type_date? Deal with that:
 
 And consider this one:
 
-    $ cat rsync.out | grep ".zip" | grep -F -v '_nopic_' | tr -s ' ' | cut -d ' ' -f5 | sort -r \
+    $ rsync --recursive --list-only download.kiwix.org::download.kiwix.org/portable/ \
+      | grep ".zip" | grep -F -v '_nopic_' | tr -s ' ' | cut -d ' ' -f5 | sort -r \
         | sed 's/_20[0-9][0-9]-[0-9][0-9]\.zip//g' | fgrep _20
     wikipedia/kiwix-0.9+wikipedia_en_uganda_09_2014.zip
     gutenberg/kiwix-0.9+gutenberg_pt_all_10_2014.zip
