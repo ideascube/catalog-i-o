@@ -297,14 +297,14 @@ all:
     langid: "tedtechnology.en"
     type: zipped-zim
   wikivoyage.fr:
-    version: "2016-03-20"
-    size: 323228788
-    url: "http://download.kiwix.org/portable/wikivoyage/kiwix-0.9+wikivoyage_fr_all_2016-03.zip"
+    version: "2016-08-08"
+    size: 343624704
+    url: "http://download.kiwix.org/portable/wikivoyage/kiwix-0.9+wikivoyage_fr_all_2016-08.zip"
     name: Wikivoyage
     language: "fra"
     description: "De Wikivoyage"
-    id: "7cec69f5-3f78-50bb-0803-26db17d059a4"
-    sha256sum: "c387e9e64dc78e939000da1c63e322c20439ef63ccd2166b193393a16af1823f"
+    id: "fd252c46-6f7e-a87e-071d-44fc07ca4caa"
+    sha256sum: "3b3b39998134c4c845659b38c694ed64a7573933e46e467d82430bde33576071"
     langid: "wikivoyage.fr"
     type: zipped-zim
   wikipedia.wo:
