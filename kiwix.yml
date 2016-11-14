@@ -341,14 +341,14 @@ all:
     langid: "dirtybiology.fr"
     type: zipped-zim
   wikipedia.pt:
-    version: "2015-10-15"
-    size: 9559834186
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_pt_all_2015-10.zip"
+    version: "2016-08-27"
+    size: 10428157729
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_pt_all_2016-08.zip"
     name: Wikipédia
     language: "por"
     description: "Origem: Wikipédia, a enciclopédia livre."
-    id: "1a6b2e30-5856-4dbf-2c20-fd00f9edeeee"
-    sha256sum: "717fc470cbc753407e848407d1fcd543ff61148a05e199a8e0e3c23a29781bf7"
+    id: "8a132c5b-609c-dbad-9662-5551a639917d"
+    sha256sum: "ed5354c4ab9b450e666c64fe896bbe673753ec035796363578e715092d83d348"
     langid: "wikipedia.pt"
     type: zipped-zim
   gutenberg.pt:
