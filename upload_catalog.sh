@@ -29,3 +29,5 @@ for i in $catalogs ; do
     rm ${i}.html
 done
 
+pandoc -f markdown -t html README.md > README.html
+scp README.html $remote
