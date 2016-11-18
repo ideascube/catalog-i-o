@@ -14,6 +14,11 @@
 * `update_library.sh`: downloads library.xml and gerenates a flat view from it (`library.xml.flat`).
 * `upload_catalog.sh`: uploads the catalogs and browser-compliant versions as well.
 
+Other interesting resources:
+
+* The [git repository](https://github.com/ideascube/catalog-i-o) for these catalogs.
+* [Yohan has a catalog](http://catalog.yohanboniface.me/catalog.yml), too. Full of OSM maps.
+
 # DISCLAIMER
 
 Tried to automatize all of this. Was bitten by several exceptions.
