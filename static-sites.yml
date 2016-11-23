@@ -39,7 +39,7 @@ all:
     size: 4411042127
     language: es
     type: static-site
-  24hinanewsroom.en:
+  twentyfourhoursinanewsroom:
     name: 24h in a news room
     description: The foundations of journalism in four collections
     version: 2016-11-23
