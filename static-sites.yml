@@ -44,7 +44,7 @@ all:
     description: The foundations of journalism in four collections
     version: 2016-11-23
     language: en
-    url: http://drop.bsf-intranet.org/ideascube-catalog/24hinanewsroom/24hinanewsroom.zip
-    size: 1083688
-    sha256sum: 6c254c06daea5039f0c63146b0fb61f1ceecb560b665e96de78f5e1a99f08abb
+    url: http://drop.bsf-intranet.org/ideascube-catalog/24hinanewsroom.en/24hinanewsroom.en.zip
+    size: 1076510
+    sha256sum: a7c979dac0aba82a080262d3f58a1c7a7a8e34e218bf38396496a020eabb379f
     type: static-site
