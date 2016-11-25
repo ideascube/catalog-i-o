@@ -45,6 +45,6 @@ all:
     version: 2016-11-23
     language: en
     url: http://drop.bsf-intranet.org/ideascube-catalog/24hinanewsroom.en/24hinanewsroom.en.zip
-    size: 1076510
-    sha256sum: a7c979dac0aba82a080262d3f58a1c7a7a8e34e218bf38396496a020eabb379f
+    size: 16072507
+    sha256sum: 63fb63c86b89bc0f10d2ada6e0049853661bb95cbd8455400cbb245a2df1a864
     type: static-site
