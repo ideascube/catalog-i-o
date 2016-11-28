@@ -868,3 +868,13 @@ all:
     size: 244959103
     sha256sum: "9ea14bdff46cc63f8224ca45685b26513b3e55067da50e65fb334737ab8882bb"
     type: zipped-zim
+  wikiquote.fr:
+    name: "Wikiquote"
+    description: "La collection libre de citations"
+    version: "2016-11-15"
+    language: "fra"
+    id: "8d3aafd9-dd6b-4c91-99a1-8c341a4a6e71"
+    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fr_all_2016-11.zip"
+    size: 246253671
+    sha256sum: "74eedc858d8fc4ae444d535e7746b0bff4870493fbe8ece49f603223c27f8a9e"
+    type: zipped-zim
