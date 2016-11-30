@@ -44,7 +44,7 @@ all:
     description: The foundations of journalism in four collections
     version: 2016-11-23
     language: en
-    url: http://packages.ideascube.org/24hinanewsroom.en/24hinanewsroom.en.zip
+    url: http://packages.ideascube.org/24hinanewsroom/24hinanewsroom.en.zip
     size: 16072507
     sha256sum: 63fb63c86b89bc0f10d2ada6e0049853661bb95cbd8455400cbb245a2df1a864
     type: static-site
