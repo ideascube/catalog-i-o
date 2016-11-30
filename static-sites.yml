@@ -9,7 +9,7 @@ all:
   clickinfoado.sn:
     name: Click Info Ado
     version: 2016-04-21
-    url: http://catalog.yohanboniface.me/clickinfoado.sn.zip
+    url: http://drop.bsf-intranet.org/ideascube-catalog/clickinfoado/clickinfoado.sn.zip
     sha256sum: e9ff96f824c93943315eb0bf95bf6482e5d7be03120fe3f56efbc866045871aa
     size: 78473936
     type: static-site
@@ -17,7 +17,7 @@ all:
     name: Snap!
     version: 2016-10-06
     description: Programming language for kids and adults.
-    url: http://catalog.yohanboniface.me/snap.zip
+    url: http://drop.bsf-intranet.org/ideascube-catalog/snap/snap.zip
     sha256sum: b2a43ce9f1969ca6735eea55a11850361077b5e07f122514857f5208dfe41a08
     size: 923096
     type: static-site
