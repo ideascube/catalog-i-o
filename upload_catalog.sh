@@ -1,7 +1,7 @@
 #!/bin/sh
 
 catalogs='kiwix.yml static-sites.yml'
-remote='buildbot:/srv/catalog/'
+remote='bubble:/var/www/catalog.ideascube.org/'
 
 htmlize() {
     local catalog=$1
