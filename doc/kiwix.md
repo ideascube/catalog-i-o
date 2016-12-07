@@ -61,7 +61,7 @@ Example:
 
 A key we make up out of the filename.
 
-Format : `name` + `.` + `lang`
+Format : `name` + `.` + `lang`. Must not start by a number, only lower-case.
 
 ### `name`
 

@@ -24,6 +24,8 @@ Format: the only gotcha is, the package name will be used as a CSS class name in
 ideascube, and CSS3 doesn't allow a class to start by a numeric. This entry is
 an example of this gotcha.
 
+Must not start by a number, only lower-case.
+
 ### `name`
 
 A name we made up from the website name. Clever, huh?
