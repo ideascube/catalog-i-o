@@ -19,3 +19,8 @@ Other interesting resources:
 * The [git repository](https://github.com/ideascube/catalog-i-o) for these catalogs.
 * [Yohan has a catalog](http://catalog.yohanboniface.me/catalog.yml), too. Full of OSM maps.
 
+## Docs
+
+* [catalogs](docs/catalogs.md) tries to explain what a catalog is.
+* [kiwix.yml](docs/kiwix.md) from kiwix.org
+* [static-sites.yml](docs/static-sites.yml) stores our websites dumps.
