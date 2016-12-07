@@ -30,3 +30,5 @@ For now, each catalogs embbeds a different type of medias.
 
 Nothing is fixed and you may find useful to have some catalogs by theme,
 language, recipient, whatever.
+
+* [Yohan has a catalog](http://catalog.yohanboniface.me/catalog.yml), too. Full of OSM maps.
