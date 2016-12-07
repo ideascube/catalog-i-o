@@ -100,6 +100,11 @@ Taken from `url`.meta4, or from `ls -l`.
 
 Taken from `url`.meta4 or from the `sha256sum(1)` command output.
 
+### `type`
+
+For ZIMs from Kiwix.org, it must be `zipped-zim`.
+
+
 ### The .meta4 file
 
 meta4 files embbed several informations that are useful to us.
