@@ -14,10 +14,9 @@
 * `update_library.sh`: downloads library.xml from Kiwix.org and gerenates a flat view from it (`library.xml.flat`).
 * `upload_catalog.sh`: uploads the catalogs and browser-compliant versions as well.
 
-Other interesting resources:
 
-* The [git repository](https://github.com/ideascube/catalog-i-o) for these catalogs.
-* [Yohan has a catalog](http://catalog.yohanboniface.me/catalog.yml), too. Full of OSM maps.
+There is a [git repository](https://github.com/ideascube/catalog-i-o) for these catalogs.
+
 
 ## Docs
 
