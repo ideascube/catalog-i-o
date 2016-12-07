@@ -29,9 +29,9 @@ scripts. Seee the [Gotchas](#gotchas) section below.
 
 ## library.xml
 
-This file contains the whole Kiwix collection.
-
-XML can be hard to read, so it is flattened using `xml2(1)`.
+This file is available from kiwix.org and contains the whole Kiwix collection.
+It is easier to get metadatas from this file than browsing the Kiwix website.
+However, XML can be hard to read, so it is flattened using `xml2(1)`.
 
 The `update_library.sh` script downloads the latest `library.xml` file,
 then flattenis it to `library.xml.flat`. It also removes the favicon which we
