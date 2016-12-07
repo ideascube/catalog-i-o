@@ -10,9 +10,9 @@
 * [kiwix.yml](kiwix.yml): latest version of ZIMs from Kiwix
 * [kiwix.yml.html](kiwix.yml.html): the same content, readable from your web
   browser.
-* [kiwix.yml](static-sites.yml): websites dumped and ZIM-packed
-* [kiwix.yml.html](static-sites.yml.html): the same content, readable from your
-  web browser.
+* [static-sites.yml](static-sites.yml): websites dumped and ZIM-packed
+* [static-sites.yml.html](static-sites.yml.html): the same content, readable
+  from your web browser.
 * `update_library.sh`: downloads library.xml from Kiwix.org and gerenates a flat
   view from it (`library.xml.flat`).
 * `upload_catalog.sh`: uploads the catalogs and browser-compliant versions as
