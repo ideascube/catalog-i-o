@@ -28,3 +28,4 @@ catalogs.
 * [catalogs](doc/catalogs.md) tries to explain what a catalog is.
 * [kiwix.yml](doc/kiwix.md) from kiwix.org
 * [static-sites.yml](doc/static-sites.md) stores our websites dumps.
+* [How to edit a catalog](doc/maintenance.md) for the braves.
