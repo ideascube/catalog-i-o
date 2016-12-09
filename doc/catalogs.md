@@ -14,7 +14,7 @@ media.
 
 The ZIMs we needed from Kiwix.org.
 
-See [kiwix][kiwix.md] for details.
+See [kiwix](kiwix.md) for details.
 
 
 ## static-sites.yml

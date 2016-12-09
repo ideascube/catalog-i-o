@@ -25,6 +25,6 @@ catalogs.
 
 ## Docs
 
-* [catalogs](docs/catalogs.md) tries to explain what a catalog is.
-* [kiwix.yml](docs/kiwix.md) from kiwix.org
-* [static-sites.yml](docs/static-sites.yml) stores our websites dumps.
+* [catalogs](doc/catalogs.md) tries to explain what a catalog is.
+* [kiwix.yml](doc/kiwix.md) from kiwix.org
+* [static-sites.yml](doc/static-sites.md) stores our websites dumps.

@@ -81,7 +81,7 @@ Taken from `library.xml`:`version`.
 Taken from `library.xml`:`lang`.
 
 It can happen that it's not accurate. Example: Bil Tunisia is supposed to be in
-arabic but most of the talsk are actually in french.
+arabic but most of the talks are actually in french.
 
 ### `id`
 
@@ -100,14 +100,11 @@ Taken from `url`.meta4, or from `ls -l`.
 
 Taken from `url`.meta4 or from the `sha256sum(1)` command output.
 
-<<<<<<< HEAD
 ### `type`
 
 For ZIMs from Kiwix.org, it must be `zipped-zim`.
 
 
-=======
->>>>>>> Move the kiwix.yml doc to its own doc/ file.
 ### The .meta4 file
 
 meta4 files embbed several informations that are useful to us.
