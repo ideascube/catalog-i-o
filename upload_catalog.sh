@@ -1,6 +1,6 @@
 #!/bin/sh
 
-catalogs='kiwix.yml static-sites.yml'
+catalogs='kiwix.yml static-sites.yml bibliotecamovil.yml'
 remote='bubble:/var/www/catalog.ideascube.org/'
 
 htmlize() {
