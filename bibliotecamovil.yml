@@ -18,11 +18,11 @@ all:
     sha256sum: 9583d490a0dae9aec9ca097d8590fa4ffc4cf7b88d527eda4e37bedbd084f504
     type: zipped-medias
   matematicas:
-    version: "2016-12-09"
-    size: "96433553"
+    version: "2016-12-10"
+    size: "96871868"
     url: http://packages.ideascube.org/education_mathematiques_espagnol_enfants.zip
     name: Matematicas
     language: "esp"
     description: Video educativa sobre las matematicas.
-    sha256sum: 460b4646b542dc629899b37c00ffe553a4fc251c75187919fc637188e6440978
+    sha256sum: bf9e540820610ded3ef2d91b29736d5ef149d2f94f78ad2fd98a764ee9b3dda9
     type: zipped-medias
