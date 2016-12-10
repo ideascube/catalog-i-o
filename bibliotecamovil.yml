@@ -1,0 +1,28 @@
+all:
+  historia:
+    name: Historia
+    version: "2016-11-29"
+    url: http://packages.ideascube.org/culturegenerale_histoire_espagnol_adultes-adolescents-enfants.zip
+    sha256sum: 52243cef2346b92c7c0669fe53d8a402077eaae9e974c3026f46f5af08b74e2c 
+    size: "192334857"
+    language: "esp"
+    description: este paquete contiene videos sobre las invasiones y las primeras migraciones humanas del America precolombina
+    type: zipped-medias
+  cuentos:
+    version: "2016-11-29"
+    size: "108391498"
+    url: http://packages.ideascube.org/fictions_contes_espagnol_enfants.zip
+    name: Cuentos
+    language: "esp"
+    description: este paquete contiene videos de cuentos infantiles para no dormir.
+    sha256sum: 9583d490a0dae9aec9ca097d8590fa4ffc4cf7b88d527eda4e37bedbd084f504
+    type: zipped-medias
+  matematicas:
+    version: "2016-12-09"
+    size: "96433553"
+    url: http://packages.ideascube.org/education_mathematiques_espagnol_enfants.zip
+    name: Matematicas
+    language: "esp"
+    description: Video educativa sobre las matematicas.
+    sha256sum: 460b4646b542dc629899b37c00ffe553a4fc251c75187919fc637188e6440978
+    type: zipped-medias
