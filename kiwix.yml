@@ -878,3 +878,25 @@ all:
     size: 246253671
     sha256sum: "74eedc858d8fc4ae444d535e7746b0bff4870493fbe8ece49f603223c27f8a9e"
     type: zipped-zim
+  wikipedia.ckb:
+    version: "2016-11-21"
+    size: 373688403
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ckb_all_2016-11.zip"
+    name: ویکیپیدیا
+    language: "ckb"
+    description: لە ئینسایکڵۆپیدیای ئازادی ویکیپیدیاوە
+    id: "6d91bb88-a3d5-cb2d-276b-b0987b051c53"
+    sha256sum: "2917b60e7f92494f27554c769e57b82832fa6e0b63e3051b8c3218ed7fc20920"
+    langid: "wikipedia.ckb"
+    type: zipped-zim
+  wikiquote.fa:
+    version: "2016-11-15"
+    size: 246571191
+    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fa_all_2016-11.zip"
+    name: ویکی‌گفتاورد
+    language: "fas"
+    description: از ویکی‌گفتاورد
+    id: "d94c69c0-8dfc-3553-1f17-33be422c4119"
+    sha256sum: "11d2aae01f34c9388e58fabc1c8ed84996f6a2bec9d8a8c9d4a77715bdd1ecb1"
+    langid: "wikiquote.fa"
+    type: zipped-zim
