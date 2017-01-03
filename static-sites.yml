@@ -1,10 +1,10 @@
 all:
   w2eu:
     name: Welcome to Europe refugees website
-    version: 2016-12-20
+    version: 2017-01-03
     url: http://packages.ideascube.org/w2eu/w2eu.zip
-    sha256sum: 62af54c46065bd8ee1711b87e4946d6f4e0a81e74a8fdeaf176d4590e7cad938
-    size: 136639897
+    sha256sum: 180b3e832d3167bcde67b9221450a72bd3b7ca14a443be31760733855e5b411c
+    size: 64233511
     type: static-site
   clickinfoado.sn:
     name: Click Info Ado
