@@ -6,6 +6,7 @@ all:
     sha256sum: d532f686db604159e6bce3e854b16f911ab3cee8cf3f6c3d2a709ab2da35fa84
     size: 129450802
     type: static-site
+    dump: httrack http://w2eu.info/ && cd w2eu.info && zip -r w2eu.zip .
   clickinfoado.sn:
     name: Click Info Ado
     version: 2016-04-21
