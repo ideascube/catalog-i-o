@@ -135,9 +135,9 @@ all:
     version: "2014-10-26"
     size: 43415229696
     url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_en_all_10_2014.zip"
-    name: Project Gutenberg Library (en) with epub,pdf
+    name: Project Gutenberg Library (english)
     language: "eng"
-    description: "The first producer of free ebooks"
+    description: "Project Gutenberg offers free ebook (epub and pdf)"
     id: "638012a4-0930-c04e-b264-57c889045d4f"
     sha256sum: "52f8163269d7cd74211bb9c91b1c407f32922edb6afe1490ed800fb1b9cdf01a"
     langid: "gutenberg.en"
@@ -146,9 +146,9 @@ all:
     version: "2014-10-18"
     size: 2380948535
     url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_fr_all_10_2014.zip"
-    name: Project Gutenberg Library (fr) with epub,pdf
+    name: Project Gutenberg Library (french)
     language: "fra"
-    description: "The first producer of free ebooks"
+    description: "Le Projet Gutenberg offre des livres électroniques gratuits à télécharger sur votre PC"
     id: "83f7b7b1-66dd-20b8-b273-45b137bba571"
     sha256sum: "be8f2ff3c5b59ecabbc1dca224dc4a9c74e7d57bb9f010c146511543867525a6"
     langid: "gutenberg.fr"
@@ -727,8 +727,8 @@ all:
     type: zipped-zim
   e-penser.fr:
     langid: "e-penser.fr"
-    description: "e penser videos"
-    name: e penser
+    description: "Vidéos E-penser"
+    name: E-penser
     version: "2016-06-25"
     language: "fra"
     id: "e8404bd7-4205-86ac-1347-9db5ead7ca30"
@@ -882,9 +882,9 @@ all:
     version: "2016-11-21"
     size: 373688403
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ckb_all_2016-11.zip"
-    name: ویکیپیدیا
+    name: "ویکیپیدیا"
     language: "ckb"
-    description: لە ئینسایکڵۆپیدیای ئازادی ویکیپیدیاوە
+    description: "لە ئینسایکڵۆپیدیای ئازادی ویکیپیدیاوە"
     id: "6d91bb88-a3d5-cb2d-276b-b0987b051c53"
     sha256sum: "2917b60e7f92494f27554c769e57b82832fa6e0b63e3051b8c3218ed7fc20920"
     langid: "wikipedia.ckb"
@@ -893,9 +893,9 @@ all:
     version: "2016-11-15"
     size: 246571191
     url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fa_all_2016-11.zip"
-    name: ویکی‌گفتاورد
+    name: "ویکی‌گفتاورد"
     language: "fas"
-    description: از ویکی‌گفتاورد
+    description: "از ویکی‌گفتاورد"
     id: "d94c69c0-8dfc-3553-1f17-33be422c4119"
     sha256sum: "11d2aae01f34c9388e58fabc1c8ed84996f6a2bec9d8a8c9d4a77715bdd1ecb1"
     langid: "wikiquote.fa"
