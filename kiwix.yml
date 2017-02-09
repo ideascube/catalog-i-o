@@ -1,4 +1,26 @@
 all:
+  wiktionary.ti:
+    name: Wiktionary
+    description: "From Wiktionary"
+    version: "2017-01-17"
+    language: "tir"
+    id: "11e607fd-5b68-89b7-c062-4c98f8c9df33"
+    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ti_all_2017-01.zip"
+    size: 197730382
+    sha256sum: "4363f755922d1fb088835e953344d560810351606cdbdc3b1c245aa8cf1ead68"
+    type: zipped-zim
+    langid: "wiktionary.ti"
+  wikipedia.ti:
+    name: Wikipedia
+    description: "From Wikipedia"
+    version: "2017-01-17"
+    language: "tir"
+    id: "e395a3cc-629c-db91-9245-7adbc6675b89"
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ti_all_2017-01.zip"
+    size: 197682630
+    sha256sum: "75b80ae4052113ba4d53c8abb462bd954268c708db3551148500bcb874f6c4b4"
+    type: zipped-zim
+    langid: "wikipedia.ti"
   wikipedia.en:
     version: "2016-05-17"
     size: 65652955268
