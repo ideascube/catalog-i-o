@@ -385,14 +385,14 @@ all:
     langid: "gutenberg.pt"
     type: zipped-zim
   wikipedia.fa:
-    version: "2016-04-06"
-    size: 4684417156
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_fa_all_2016-04.zip"
+    version: "2016-12-01"
+    size: 5529781854
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_fa_all_2016-11.zip"
     name: ﻭیکی<200c>پﺩیﺍ
     language: "fas"
     description: "ﺍﺯ ﻭیکی<200c>پﺩیﺍ، ﺩﺎﻨﺸﻧﺎﻤﻫٔ ﺁﺯﺍﺩ"
-    id: "ab9e957d-acce-5752-2519-e6b8eb09c9ee"
-    sha256sum: "fc54c19aba56d545e7883517cbf70501e4b75fd86dda5fbd63ecd1829c78b012"
+    id: "85140813-b811-fccb-b2e7-2e046a54d4ef"
+    sha256sum: "f22a71bbc2734649a8e0ff70f9cdd3e6e89dc6633f10c433ce5840811b6d26be"
     langid: "wikipedia.fa"
     type: zipped-zim
   wikipedia.ar:
@@ -484,25 +484,25 @@ all:
     langid: "mullah-piaz-digest.fa"
     type: zipped-zim
   wiktionary.fa:
-    version: "2016-05-14"
-    size: 238587327
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_fa_all_2016-05.zip"
+    version: "2016-12-25"
+    size: 379463088
+    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_fa_all_2016-12.zip"
     name: ویکی<U+200C>واژه
     language: "fas"
     description: "از ویکی<U+200C>واژه"
-    id: "b6d92568-3ef1-cf01-04a4-5cd9a6055e74"
-    sha256sum: "2b2f2d3ef061755f9b53b424e476dd6f96c7a458ed172c935f4e78d62b340c1e"
+    id: "996fbac4-4e12-7910-1434-6e100894b412"
+    sha256sum: "323ecf6e27906ca207b102d47498d89a927d9012b70f7dacc9ea38ca8d597076"
     langid: "wiktionary.fa"
     type: zipped-zim
   wiktionary.ar:
-    version: "2016-06-07"
-    size: 232655333
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ar_all_2016-06.zip"
+    version: "2016-12-10"
+    size: 361586244
+    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ar_all_2016-12.zip"
     name: "ويكي القاموس"
     language: "ara"
     description: "من ويكي القاموس، القاموس الحر"
-    id: "9527438f-51b0-23e9-3626-954b22441c9c"
-    sha256sum: "56a459fcbc5881b61af9358209695ee5a953f0a49cd3ff974c93734a4645eab7"
+    id: "719eda56-eb5d-1cf4-d539-39dea1fefe67"
+    sha256sum: "fb6a17c93d27e247f9c9b499c992544dc6a464d70c38b5b235d71090cc943ee3"
     langid: "wiktionary.ar"
     type: zipped-zim
   wikiversity.ar:
@@ -561,14 +561,14 @@ all:
     langid: "wikipedia.de"
     type: zipped-zim
   wikibooks.ar:
-    version: "2016-06-04"
-    size: 222026364
-    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_ar_all_2016-06.zip"
+    version: "2016-12-04"
+    size: 225769695
+    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_ar_all_2016-12.zip"
     name: "ويكي المكتبة"
     language: "ara"
     description: "الموسوعة المكتبية الحرة"
-    id: "ece17dd6-1110-726f-595c-72581bd6d5f5"
-    sha256sum: "f03888b7ccfdc472c9e3abd5250c365df7c96d42808c902fef75c677a62a56f1"
+    id: "c44c2074-b111-2e83-4b27-3f697d4cd259"
+    sha256sum: "118d7654a92658ddf48096d70b21dce986953e2f386696c9802ceb41b41496f2"
     langid: "wikibooks.ar"
     type: zipped-zim
   wikisource.ar:
