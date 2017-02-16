@@ -35,7 +35,7 @@ all:
     size: 69391597
     sha256sum: '3c45f1523082b6aa47ae9fa4f0f05d2e272b5f73b1ba00a2b778d6600929a91b'
     type: 'zipped-medias'
-  literaturainfantil:
+  literaturainfantil.es:
     name: 'Literatura Infantil'
     description: 'Literatura Infantil'
     language: 'es'
@@ -44,4 +44,3 @@ all:
     size: 1627856636
     sha256sum: 22827736b0abfa4edf84212f008494d20deb719f567a9006d7fd137697d904ca
     type: zipped-medias
-
