@@ -28,7 +28,7 @@ all:
     type: zipped-medias
   literatura.es:
     name: 'Literatura'
-    description: 
+    description: 'Una selecìon de libros para todos'
     language: 'es'
     version: '2017-02-14'
     url: 'http://packages.ideascube.org/literatura.zip'
@@ -44,4 +44,13 @@ all:
     size: 1627856636
     sha256sum: 22827736b0abfa4edf84212f008494d20deb719f567a9006d7fd137697d904ca
     type: zipped-medias
+  literatura-juvenil.es:
+    name: 'Literatura juvenil'
+    description: 'Literatura juvenil'
+    language: 'es'
+    version: '2017-02-16'
+    url: 'http://packages.ideascube.org/literatura-juvenil.zip'
+    size: 25801184
+    sha256sum: 'e3aa89fab6d9173b1dfe6407a3c99a764cd7ba82e74e8f852d610f7bee5d6a3e'
+    type: 'zipped-medias'
 
