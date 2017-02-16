@@ -35,7 +35,7 @@ all:
     size: 69391597
     sha256sum: '3c45f1523082b6aa47ae9fa4f0f05d2e272b5f73b1ba00a2b778d6600929a91b'
     type: 'zipped-medias'
-  literaturainfantil:
+  literaturainfantil.es:
     name: 'Literatura Infantil'
     description: 'Literatura Infantil'
     language: 'es'
@@ -46,11 +46,10 @@ all:
     type: zipped-medias
   literatura-juvenil.es:
     name: 'Literatura juvenil'
-    description: 'Literatura juvenil'
+    description: 'Libros para jovenes'
     language: 'es'
     version: '2017-02-16'
     url: 'http://packages.ideascube.org/literatura-juvenil.zip'
     size: 25801184
     sha256sum: 'e3aa89fab6d9173b1dfe6407a3c99a764cd7ba82e74e8f852d610f7bee5d6a3e'
     type: 'zipped-medias'
-
