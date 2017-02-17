@@ -138,7 +138,7 @@ all:
     name: 'Danzas populares y nacionales'
     description: 'Danzas populares y nacionales'
     language: es
-    version: '2017-02-17'
+    version: '2017-02-18'
     url: 'http://packages.ideascube.org/danzas-populares-y-nacionales.zip'
     size: 8877142742
     sha256sum: 9664ce1a54fbd4626c85d1d7522d13f2adb24dae7ff113703f3bbc5e989b1424
