@@ -53,3 +53,12 @@ all:
     size: 25801184
     sha256sum: 'e3aa89fab6d9173b1dfe6407a3c99a764cd7ba82e74e8f852d610f7bee5d6a3e'
     type: 'zipped-medias'
+  biografias.es:
+    name: 'Biografias'
+    description: 'Biografias'
+    language: 'es'
+    version: '2017-02-17'
+    url: 'http://packages.ideascube.org/biografias.zip'
+    size: 968739341
+    sha256sum: '8c475e927a81dc9d4d8f37a5ad08f7e39b2bbe915a4b1c8808cbefa6be723529'
+    type: 'zipped-medias'
