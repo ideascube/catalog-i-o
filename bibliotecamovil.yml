@@ -3,7 +3,7 @@ all:
     name: Historia
     version: "2016-11-29"
     url: http://packages.ideascube.org/culturegenerale_histoire_espagnol_adultes-adolescents-enfants.zip
-    sha256sum: 52243cef2346b92c7c0669fe53d8a402077eaae9e974c3026f46f5af08b74e2c 
+    sha256sum: 52243cef2346b92c7c0669fe53d8a402077eaae9e974c3026f46f5af08b74e2c
     size: "192334857"
     language: "esp"
     description: este paquete contiene videos sobre las invasiones y las primeras migraciones humanas del America precolombina
@@ -62,3 +62,13 @@ all:
     size: 968739341
     sha256sum: '8c475e927a81dc9d4d8f37a5ad08f7e39b2bbe915a4b1c8808cbefa6be723529'
     type: 'zipped-medias'
+  artes.es:
+    name: 'Artes'
+    description: 'Artes'
+    language: es
+    version: '2017-02-17'
+    url: http://packages.ideascube.org/artes.zip
+    size: 608533677
+    sha256sum: 3c6aab93691de0b2ae8c84650f803ac9d91a97e0d765166c75192327d1a4d827
+    type: zipped-medias
+
