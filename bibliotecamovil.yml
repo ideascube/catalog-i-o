@@ -89,4 +89,13 @@ all:
     size: 3511587475
     sha256sum: 8352a60ee742588461401e6fdb95d895cde6b51926d2748837824fecde9f405b
     type: zipped-medias
+  ciencias-sociales.es:
+    name: 'Ciencias sociales'
+    description: 'Ciencias sociales'
+    language: es
+    version: '2017-02-17'
+    url: 'http://packages.ideascube.org/ciencias-sociales.zip'
+    size: 7850165
+    sha256sum: 67971cf277819a69f562466a1fd25cd58dc6641ac992dae0ea784d5b013b589d
+    type: zipped-medias
 
