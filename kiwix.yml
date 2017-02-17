@@ -922,3 +922,33 @@ all:
     sha256sum: "11d2aae01f34c9388e58fabc1c8ed84996f6a2bec9d8a8c9d4a77715bdd1ecb1"
     langid: "wikiquote.fa"
     type: zipped-zim
+  wikipedia.cbkzam:
+    name: "Wikipedia"
+    description: "Desde Chavacano de Zamboanga Wikipedia - El Libre Enciclopedia"
+    version: "2016-12-23"
+    language: "cbk-zam"
+    id: "e0d2ab54-ef48-760d-afa8-f9b3394c781b"
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_cbk-zam_all_2016-12.zip"
+    size: 244053355
+    sha256sum: "08f0702ea134ed23b03d3ffce06afd8b52a82c32eb0c122c24e272566932997d"
+    type: zipped-zim
+  wikipedia.ru:
+    name: "Википедия"
+    description: "Материал из Википедии — свободной энциклопедии"
+    version: "2017-01-14"
+    language: "ru"
+    id: "5bc3d450-a6ee-8080-6791-c9abfe14cd93"
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ru_all_2017-01.zip"
+    size: 21960517449
+    sha256sum: "316b2148f4c7d4edb4294968dbab7599a2e4edf585c6cc11ab3c54e8b57bee27"
+    type: zipped-zim
+  wikipedia.sr:
+    name: "Википедија
+    description: "Из Википедије, слободне енциклопедије"
+    version: "2017-01-09"
+    language: "sr"
+    id: "69157a81-5a0a-50b2-9626-f3d3e3df7c4a
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_sr_all_2017-01.zip"
+    size: 4944542501
+    sha256sum: "b56aa17a1e21b5c8e8e744fc79f67d81b7eb400ee9189a01a4aa965da71bcec6"
+    type: zipped-zim
