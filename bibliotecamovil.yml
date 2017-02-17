@@ -143,3 +143,13 @@ all:
     size: 8877142701
     sha256sum: dbbf261ba5746807f014ceb10b4f4551a560e2cee5688f2b00c6434a5611397a
     type: zipped-medias
+  religion.es:
+    name: Religion
+    description: Religion
+    language: es
+    version: '2017-02-17'
+    url: 'http://packages.ideascube.org/religion.zip'
+    size: 2135280072
+    sha256sum: cd4ff92a2cc48e1862929279ef5dabc9c2ca9d7f8c7905d36192d9dd9dd4f5ac
+    type: zipped-medias
+
