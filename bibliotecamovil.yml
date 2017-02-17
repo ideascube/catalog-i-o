@@ -107,4 +107,12 @@ all:
     size: 1836955939
     sha256sum: 3d6d2318c10fbd108c8880443bdef43b203206d157bdf96b9ddc9b7dfb9e74df
     type: zipped-medias
-
+  comercio-exterior.es:
+    name: 'Comercio exterior'
+    description: 'Comercio exterior'
+    language: es
+    version: '2017-02-17'
+    url: 'http://packages.ideascube.org/comercio-exterior.zip'
+    size: 15366212
+    sha256sum: 8e08ef6e2c7f1f28c42ec4f46774dd2b1b230ac018bdf89f41357a50f59c2391
+    type: zipped-medias
