@@ -197,3 +197,13 @@ all:
     size: 42319413
     sha256sum: dfc1227a892b3588b04750b3fa631ba5405b0e090a5add8499734d21f862279a
     type: zipped-medias
+  geografia.es:
+    name: Geografia
+    description: Geografia
+    language: es
+    version: '2017-02-17'
+    url: 'http://packages.ideascube.org/geografia.zip'
+    size: 3544583446
+    sha256sum: f938b355d3971d0db2bd36d96912c5fcb1652e9307ccca2294ad5212c615ec15
+    type: zipped-medias
+
