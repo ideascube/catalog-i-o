@@ -170,3 +170,12 @@ all:
     size: 6187705376
     sha256sum: c41f82f07aff98b7c8fbad91f03d0bd4502700b4e6a654224a8794bee95de1c8
     type: zipped-medias
+  historia-de-bogota.es:
+    name: 'Historia de Bogotá'
+    description: ''
+    language: es
+    version: '2017-02-17'
+    url: http://packages.ideascube.org/historia-de-bogota.zip
+    size: 20315812
+    sha256sum: c91e7ec43c757d1799df2a259aad467d1dd1a51d46c4728f7f8d4ab601c0cb6a
+    type: zipped-medias
