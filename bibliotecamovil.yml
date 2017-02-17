@@ -184,7 +184,7 @@ all:
     description: ''
     language: es
     version: '2017-02-17'
-    url: 'http://packages.ideascube.org/gastronomia-colombiana.es'
+    url: 'http://packages.ideascube.org/gastronomia-colombiana.zip'
     size: 6604603909
     sha256sum: cc79e1b722b6b43ac4dbe7b79ce201a148c3db0ce80442f9872ff5e5915a4aa9
     type: zipped-medias
