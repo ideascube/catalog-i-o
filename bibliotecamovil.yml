@@ -116,3 +116,13 @@ all:
     size: 15366212
     sha256sum: 8e08ef6e2c7f1f28c42ec4f46774dd2b1b230ac018bdf89f41357a50f59c2391
     type: zipped-medias
+  historia.es:
+    name: Historia
+    description: Historia
+    language: es
+    version: '2017-02-17'
+    url: 'http://packages.ideascube.org/historia.zip'
+    size: 1622799563
+    sha256sum: d920f658e09360b710b356b6a1a34d8730c0418edbe530fc352c48a98e6a8d96
+    type: zipped-medias
+
