@@ -206,4 +206,12 @@ all:
     size: 3544583446
     sha256sum: f938b355d3971d0db2bd36d96912c5fcb1652e9307ccca2294ad5212c615ec15
     type: zipped-medias
-
+  patrimonio-cultural.es:
+    name: 'Patrimonio cultural'
+    description: ''
+    language: es
+    version: '2017-02-17'
+    url: 'http://packages.ideascube.org/patrimonio-cultural.zip'
+    size: 10512362228
+    sha256sum: 957b5d84e3dc29c9f1c2bfacdec75932dc35cc9add238be6ba205ddff9bae183
+    type: zipped-medias
