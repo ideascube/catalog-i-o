@@ -179,3 +179,12 @@ all:
     size: 20315812
     sha256sum: c91e7ec43c757d1799df2a259aad467d1dd1a51d46c4728f7f8d4ab601c0cb6a
     type: zipped-medias
+  gastronomia-colombiana.es:
+    name: 'Gastronomia Colombiana'
+    description: ''
+    language: es
+    version: '2017-02-17'
+    url: 'http://packages.ideascube.org/gastronomia-colombiana.es'
+    size: 6604603909
+    sha256sum: cc79e1b722b6b43ac4dbe7b79ce201a148c3db0ce80442f9872ff5e5915a4aa9
+    type: zipped-medias
