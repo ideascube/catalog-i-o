@@ -85,7 +85,7 @@ all:
     description: 'Ciencias naturales'
     language: es
     version: '2017-02-17'
-    url: 'http://packages.ideascube.org/cienciais-naturales.zip'
+    url: 'http://packages.ideascube.org/ciencias-naturales.zip'
     size: 3511587475
     sha256sum: 8352a60ee742588461401e6fdb95d895cde6b51926d2748837824fecde9f405b
     type: zipped-medias
