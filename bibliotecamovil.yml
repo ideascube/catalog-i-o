@@ -129,10 +129,10 @@ all:
     name: 'Conflicto armado'
     description: 'Conflicto armado'
     language: es
-    version: '2017-02-17'
+    version: '2017-02-18'
     url: 'http://packages.ideascube.org/conflicto-armado.zip'
-    size: 4223407560
-    sha256sum: 17704909e7f37f9d346aead3e77139a8c4860e9fda73763c9c51782ec295aece
+    size: 1516430031
+    sha256sum: 6a09d197a758ff7b079aebac713747e046a15030a9be21f577d0149265c34f53
     type: zipped-medias
   danzas-populares-y-nacionales.es:
     name: 'Danzas populares y nacionales'
