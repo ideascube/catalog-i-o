@@ -134,3 +134,12 @@ all:
     size: 4223407560
     sha256sum: 17704909e7f37f9d346aead3e77139a8c4860e9fda73763c9c51782ec295aece
     type: zipped-medias
+  danzas-populares-y-nacionales.es:
+    name: 'Danzas populares y nacionales'
+    description: 'Danzas populares y nacionales'
+    language: es
+    version: '2017-02-17'
+    url: 'http://packages.ideascube.org/danzas-populares-y-nacionales.zip'
+    size: 8877142701
+    sha256sum: dbbf261ba5746807f014ceb10b4f4551a560e2cee5688f2b00c6434a5611397a
+    type: zipped-medias
