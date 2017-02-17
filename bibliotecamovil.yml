@@ -161,4 +161,12 @@ all:
     size: 218269320
     sha256sum: b1aba0244d53d35356260c6074e9016a4553e3897c612fa0633b376de098deb6
     type: zipped-medias
-
+  entrevista-y-relatos-personales.es:
+    name: 'Entrevistas y relatos personales'
+    description: ''
+    language: es
+    version: '2017-02-17'
+    url: 'http://packages.ideascube.org/entrevista-y-relatos-personales.zip'
+    size: 6187705376
+    sha256sum: c41f82f07aff98b7c8fbad91f03d0bd4502700b4e6a654224a8794bee95de1c8
+    type: zipped-medias
