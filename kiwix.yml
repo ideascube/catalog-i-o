@@ -943,11 +943,11 @@ all:
     sha256sum: "316b2148f4c7d4edb4294968dbab7599a2e4edf585c6cc11ab3c54e8b57bee27"
     type: zipped-zim
   wikipedia.sr:
-    name: "Википедија
+    name: "Википедија"
     description: "Из Википедије, слободне енциклопедије"
     version: "2017-01-09"
     language: "sr"
-    id: "69157a81-5a0a-50b2-9626-f3d3e3df7c4a
+    id: "69157a81-5a0a-50b2-9626-f3d3e3df7c4a"
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_sr_all_2017-01.zip"
     size: 4944542501
     sha256sum: "b56aa17a1e21b5c8e8e744fc79f67d81b7eb400ee9189a01a4aa965da71bcec6"
