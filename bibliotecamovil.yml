@@ -71,3 +71,12 @@ all:
     size: 608533677
     sha256sum: 3c6aab93691de0b2ae8c84650f803ac9d91a97e0d765166c75192327d1a4d827
     type: zipped-medias
+  ciencia-politicas.es:
+    name: 'Ciencia politicas'
+    description: 'Ciencia politicas'
+    language: es
+    version: '2017-02-17'
+    url: 'http://packages.ideascube.org/ciencia-politicas.zip'
+    size: 31210892
+    sha256sum: d8c29e849cdf3f40a71c922d4a3e84745110f4fea01102ffd8330cdf7f6ab61a
+    type: zipped-medias
