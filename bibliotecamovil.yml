@@ -188,3 +188,12 @@ all:
     size: 6604603909
     sha256sum: cc79e1b722b6b43ac4dbe7b79ce201a148c3db0ce80442f9872ff5e5915a4aa9
     type: zipped-medias
+  legislacion-colombiana.es:
+    name: "Legislación"
+    description: ''
+    language: es
+    version: '2017-02-17'
+    url: http://packages.ideascube.org/legislacion-colombiana.zip
+    size: 42319413
+    sha256sum: dfc1227a892b3588b04750b3fa631ba5405b0e090a5add8499734d21f862279a
+    type: zipped-medias
