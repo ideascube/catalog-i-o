@@ -98,7 +98,7 @@ all:
     size: 7850165
     sha256sum: 67971cf277819a69f562466a1fd25cd58dc6641ac992dae0ea784d5b013b589d
     type: zipped-medias
-  cocina-infantil.es>:
+  cocina-infantil.es:
     name: 'Cocina Infanfil'
     description: 'Cocina Infanfil'
     language: es
