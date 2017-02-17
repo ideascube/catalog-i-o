@@ -140,8 +140,8 @@ all:
     language: es
     version: '2017-02-17'
     url: 'http://packages.ideascube.org/danzas-populares-y-nacionales.zip'
-    size: 8877142701
-    sha256sum: dbbf261ba5746807f014ceb10b4f4551a560e2cee5688f2b00c6434a5611397a
+    size: 8877142742
+    sha256sum: 9664ce1a54fbd4626c85d1d7522d13f2adb24dae7ff113703f3bbc5e989b1424
     type: zipped-medias
   religion.es:
     name: Religion
