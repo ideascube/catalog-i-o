@@ -39,7 +39,7 @@ all:
     name: 'Literatura Infantil'
     description: 'Literatura Infantil'
     language: 'es'
-    version: '2017-02-16'
+    version: '2017-02-17'
     url: 'http://packages.ideascube.org/literatura_infantil.zip'
     size: 1630003137
     sha256sum: 'eee4ca8ce3a60ad9005c9a0e5680e5034a8a709e3f9e39041c836ec1046b57ef'
