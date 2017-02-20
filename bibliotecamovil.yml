@@ -57,10 +57,10 @@ all:
     name: 'Biografias'
     description: 'Biografias'
     language: 'es'
-    version: '2017-02-17'
+    version: '2017-02-20'
     url: 'http://packages.ideascube.org/biografias.zip'
-    size: 968739341
-    sha256sum: '8c475e927a81dc9d4d8f37a5ad08f7e39b2bbe915a4b1c8808cbefa6be723529'
+    size: 971225501
+    sha256sum: 'd886e00a66e6ca8f290cce8ce6bf458d8fd558735482c685b1da5fb5335f5153'
     type: 'zipped-medias'
   artes.es:
     name: 'Artes'
