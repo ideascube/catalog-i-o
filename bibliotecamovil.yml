@@ -93,10 +93,10 @@ all:
     name: 'Ciencias sociales'
     description: 'Ciencias sociales'
     language: es
-    version: '2017-02-17'
+    version: '2017-02-20'
     url: 'http://packages.ideascube.org/ciencias-sociales.zip'
-    size: 7850165
-    sha256sum: 67971cf277819a69f562466a1fd25cd58dc6641ac992dae0ea784d5b013b589d
+    size: 8523444
+    sha256sum: 571d43c11535d5f3dbe4afe7bb50b33884e507208de38ae3adc6970862c3947a
     type: zipped-medias
   cocina-infantil.es:
     name: 'Cocina Infanfil'
