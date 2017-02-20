@@ -35,6 +35,15 @@ all:
     size: 69391597
     sha256sum: '3c45f1523082b6aa47ae9fa4f0f05d2e272b5f73b1ba00a2b778d6600929a91b'
     type: 'zipped-medias'
+  literatura-colombiana.es:
+    name: 'Literatura Colombiana'
+    description: ''
+    language: 'es'
+    version: '2017-02-20'
+    url: 'http://packages.ideascube.org/literatura-colombiana.zip'
+    size: 1348008130
+    sha256sum: '41b818523374223c96f5bc27f28542c59c85def6f38c715e0a86f9ccf8265f54'
+    type: 'zipped-medias'
   literatura-infantil.es:
     name: 'Literatura Infantil'
     description: 'Literatura Infantil'
