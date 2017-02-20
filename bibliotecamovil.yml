@@ -57,10 +57,10 @@ all:
     name: 'Literatura juvenil'
     description: 'Libros para jovenes'
     language: 'es'
-    version: '2017-02-16'
+    version: '2017-02-20'
     url: 'http://packages.ideascube.org/literatura-juvenil.zip'
-    size: 25801184
-    sha256sum: 'e3aa89fab6d9173b1dfe6407a3c99a764cd7ba82e74e8f852d610f7bee5d6a3e'
+    size: 42242472
+    sha256sum: '54da9593c7be51a417146715203b48ffa478cbe239bc36b76b63deaac6902f9d'
     type: 'zipped-medias'
   biografias.es:
     name: 'Biografias'
