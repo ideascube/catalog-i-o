@@ -34,13 +34,13 @@ all:
     type: zipped-zim
   wikipedia.fr:
     version: "2016-12-23"
-    size: 23988667777
+    size: 26859482323
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_fr_all_2016-12.zip"
     name: Wikipédia
     language: "fra"
     description: L'encyclopédie libre.
     id: "0c4730ce-7a71-d237-4974-426ce1c38211"
-    sha256sum: "bd2d6c85a0ab983cc271d8175a03a32d1629ce7a344383a2911904e17e543e6c"
+    sha256sum: "90616b6f2e93c0f24dba3e74ca7f8eceb81df036ba4da78d8d63b72683987d11"
     langid: "wikipedia.fr"
     type: zipped-zim
   wikipedia.rn:
