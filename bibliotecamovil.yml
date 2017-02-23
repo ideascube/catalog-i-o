@@ -10,12 +10,12 @@ all:
     type: zipped-medias
   cuentos:
     version: "2016-11-29"
-    size: "108391498"
+    size: "108878459"
     url: http://packages.ideascube.org/fictions_contes_espagnol_enfants.zip
     name: Cuentos
     language: "esp"
     description: este paquete contiene videos de cuentos infantiles para no dormir.
-    sha256sum: 9583d490a0dae9aec9ca097d8590fa4ffc4cf7b88d527eda4e37bedbd084f504
+    sha256sum: 04bc41c13dddcff906ea52dda7cad65a832debbee0dd532a1b434dd683618bcc
     type: zipped-medias
   matematicas:
     version: "2016-12-10"
