@@ -652,12 +652,12 @@ all:
     langid: "wikibooks.fa"
     description: "ﻭیکی<200e>کﺕﺎﺑ، کﺕﺎﺒﺧﺎﻨﻫٔ ﺁﺯﺍﺩ"
     name: ﻭیکی<200c>کﺕﺎﺑ
-    version: "2016-08-03"
+    version: "2017-02-14"
     language: "fas"
-    id: "ea5ab07f-8d35-3efd-6c96-2a62aa6d6d1c"
-    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_fa_all_2016-08.zip"
-    size: 244869277
-    sha256sum: "e84e9d7fb68de7e4c141ce42476f41f032760f36b5191587ccf00d64d5f3a81e"
+    id: "45f37502-e569-90ef-e1a3-37b4b8b5926d"
+    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_fa_all_2017-02.zip"
+    size: 242842951
+    sha256sum: "542a83bdabcb1ef194bd1d79274b038860c394b2b06e6f16a4dd7e8fdce7f4c5"
     type: zipped-zim
   wikibooks.el:
     langid: "wikibooks.el"
