@@ -121,14 +121,14 @@ all:
     langid: "wikibooks.fr"
     type: zipped-zim
   wikisource.en:
-    version: "2016-08-03"
-    size: 11392234491
-    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_en_all_2016-08.zip"
+    version: "2017-02-17"
+    size: 12191748075
+    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_en_all_2017-02.zip"
     name: Wikisource
     language: "eng"
     description: Digital library of free content textual sources.
-    id: "b5962f5d-2ba8-803c-876f-b7507ad321c5"
-    sha256sum: "b1339222b582b837c71bfd4acd3fadc2942ef9de0fb6b8a69da0f0f8fc56e6b6"
+    id: "526c7395-b774-c8e5-cd8f-f661294c2561"
+    sha256sum: "9cc0878d98deb5c001df505fe6364beb97af05aad0f0192d629ca6eb4ab6abb2"
     langid: "wikisource.en"
     type: zipped-zim
   wikisource.fr:
