@@ -550,14 +550,14 @@ all:
     langid: "gutenberg.de"
     type: zipped-zim
   wikipedia.de:
-    version: "2016-05-10"
-    size: 24626756471
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_de_all_2016-05.zip"
+    version: "2017-01-08"
+    size: 30895629708
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_de_all_2017-01.zip"
     name: Wikipedia
     language: "deu"
     description: "aus Wikipedia, der freien Enzyklopädie"
-    id: "ac5b783f-1d50-a1f7-6b72-8713f868a9b8"
-    sha256sum: "c85491130bed929a5067f76fff3aff17e3e7b4b6f3ce97dcb60269b7abd3134e"
+    id: "d77159bc-3401-df82-382b-d58a49d93565"
+    sha256sum: "1b28f76ec3c1283049ebd941e68674f3137df0cd896d5dadcb6357b4b608547c"
     langid: "wikipedia.de"
     type: zipped-zim
   wikibooks.ar:
