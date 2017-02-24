@@ -583,14 +583,14 @@ all:
     langid: "wikisource.ar"
     type: zipped-zim
   wikiquote.ar:
-    version: "2016-05-06"
-    size: 205050854
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_ar_all_2016-05.zip"
+    version: "2016-12-17"
+    size: 343439641
+    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_ar_all_2016-12.zip"
     name: "ويكي الاقتباس"
     language: "ara"
     description: "ويكي للاقتباسات المختارة"
-    id: "11d992fd-bd02-ff56-95ab-19717f2ef0bc"
-    sha256sum: "fe4a816c37e0baa489c3cabac551aa6801fdeeea1f89d183662ef322db1dc4a0"
+    id: "e580d623-505f-b133-8bdd-5e61a27600b6"
+    sha256sum: "bc70a72beb3f6c210b69c9fd215034d7da7be56f6a82fd6c248ae2f9c1b14ddf"
     langid: "wikiquote.ar"
     type: zipped-zim
   wikipedia.el:
