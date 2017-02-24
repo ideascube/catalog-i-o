@@ -418,14 +418,14 @@ all:
     langid: "vikidia.fr"
     type: zipped-zim
   wikipedia.ku:
-    version: "2016-05-11"
-    size: 341703377
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ku_all_2016-05.zip"
+    version: "2016-12-30"
+    size: 371325521
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ku_all_2016-12.zip"
     name: Wîkîpediya
     language: "kur"
     description: "Ji Wîkîpediya, ensîklopediya azad."
-    id: "f2fc9334-ec5f-88c4-fe4e-9f6e7d3d5e1a"
-    sha256sum: "45f6af8c3be84da8179015edb28f9d84aabac78989dc3cb319678456088af147"
+    id: "333686f5-7c19-00c9-913c-094e0136d697"
+    sha256sum: "3d965346f8d062c019ad7361bc4bc80eec3884fda9d7f3311f8d2074cf752539"
     langid: "wikipedia.ku"
     type: zipped-zim
   wiktionary.ku:
