@@ -94,7 +94,7 @@ all:
     name: Wikiversité
     language: "fra"
     description: "Une page de Wikiversité."
-    id: "57c57119-ac45-e475-87af-f34f30a49507"
+    id: "a7800827-8fc6-ef8e-25d2-ee97d0e6cf92"
     sha256sum: "e6ff62f79b0f4cb7fb39779dd22839e4cce6d7628676375942a7d5def0e670a0"
     langid: "wikiversity.fr"
     type: zipped-zim
@@ -506,14 +506,14 @@ all:
     langid: "wiktionary.ar"
     type: zipped-zim
   wikiversity.ar:
-    version: "2016-05-07"
-    size: 208177465
-    url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_ar_all_2016-05.zip"
+    version: "2016-12-18"
+    size: 340448541
+    url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_ar_all_2016-12.zip"
     name: "ويكي الجامعة"
     language: "ara"
     description: "من ويكي الجامعة,مركز التعليم الحر"
-    id: "b6f26347-27f5-5029-57df-9f7bf688ab0c"
-    sha256sum: "629a47ef723c27a7bbd769c13307e75c8bda15c41c67caa86ef5330f3f171e18"
+    id: "f70790cb-37de-5dec-9f36-e0d5a441b22b"
+    sha256sum: "1edf25fcc60ca6b7ee17d9f9cc7ee6f7fe906233cd2d8f450f985345bf350df7"
     langid: "wikiversity.ar"
     type: zipped-zim
   wikipedia.es:
