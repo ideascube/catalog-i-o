@@ -663,12 +663,12 @@ all:
     langid: "wikibooks.el"
     description: "Από Βικιβιβλία"
     name: Βικιβιβλία
-    version: "2016-08-02"
+    version: "2017-02-13"
     language: "ell"
-    id: "b7970181-c075-8fe5-0fe5-1c64d7444d74"
-    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_el_all_2016-08.zip"
-    size: 220550561
-    sha256sum: "ca3bffd7d3e4c6e5ddf0fafa9715f853ff81a324561f9b302ccb6c67d94e21fb"
+    id: "b65faf02-e1be-3cda-bcf0-100cc0c3817d"
+    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_el_all_2017-02.zip"
+    size: 222087462
+    sha256sum: "6cdfdd332281a42cda992afa39f0d6b562fda00cebe0d54e44b514db0741b678"
     type: zipped-zim
   wikisource.el:
     langid: "wikisource.el"
