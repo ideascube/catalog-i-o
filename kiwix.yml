@@ -806,12 +806,12 @@ all:
     langid: "wiktionary.sw"
     description: "Ufafanuzi kutoka Wiktionary, kamusi iliyo huru"
     name: Wiktionary
-    version: "2016-06-01"
+    version: "2017-01-17"
     language: "swa"
-    id: "656ce451-18a0-8db9-0242-99abf4a0f583"
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_sw_all_2015-09.zip"
-    size: 207237378
-    sha256sum: "52b155cb8e66345ac5c278ac48e14f59d110b50e53f0284ebf84125d960ef970"
+    id: "247a7210-ae7d-a532-7ed4-0c055c53962d"
+    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_sw_all_2017-01.zip"
+    size: 197682630
+    sha256sum: "1d197ffdc4e5c2161376d779a3e76723563326ddbc1a236f073a9b6a11759d56"
     type: zipped-zim
   wikiquote.es:
     langid: "wikiquote.es"
