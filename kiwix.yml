@@ -594,14 +594,14 @@ all:
     langid: "wikiquote.ar"
     type: zipped-zim
   wikipedia.el:
-    version: "2016-06-09"
-    size: 2077540506
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_el_all_2016-06.zip"
+    version: "2016-12-15"
+    size: 2517236867
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_el_all_2016-12.zip
     name: Βικιπαίδεια
     language: "ell"
     description: "Από τη Βικιπαίδεια, την ελεύθερη εγκυκλοπαίδεια"
-    id: "7ffc9dbd-cf77-0123-e2cf-db1d98f51bb6"
-    sha256sum: "988015390c85d9eb2fcc9c45e4c1102a1cf39d353bff970d97dfabf02942b28b"
+    id: "9a8027bf-d92b-f8ee-12bd-ac75a804bcd9"
+    sha256sum: "dd25baef76dd33ed6185578e2d32878b6748f95f7d2e41ba1793c57f844d490a"
     langid: "wikipedia.el"
     type: zipped-zim
   wikipedia.ps:
