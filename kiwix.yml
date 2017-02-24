@@ -99,14 +99,14 @@ all:
     langid: "wikiversity.fr"
     type: zipped-zim
   wikibooks.en:
-    version: "2016-08-02"
-    size: 1472253727
-    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_en_all_2016-08.zip"
+    version: "2017-02-14"
+    size: 1470200802
+    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_en_all_2017-02.zip"
     name: Wikibooks
     language: "eng"
     description: Open books for an open world
-    id: "183ac8d5-c0bd-155c-0082-dc4e192ba62b"
-    sha256sum: "d08f09c72a5a1bb2f8f108fc51cda8ef218504bdc09deaafae5a1273d9ca1f50"
+    id: "00271ea4-adfd-fba0-d65b-a1cd75234368"
+    sha256sum: "15b71ecc0b2d74ac5b71c713cf917be537b22abd0953bf5e509ea7dd506676bf"
     langid: "wikibooks.en"
     type: zipped-zim
   wikibooks.fr:
