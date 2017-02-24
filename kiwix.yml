@@ -828,12 +828,12 @@ all:
     langid: "wikisource.es"
     description: "De Wikisource, la biblioteca libre."
     name: Wikisource
-    version: "2016-08-05"
+    version: "2017-02-22"
     language: "spa"
-    id: "480c0264-3468-75d6-b65e-054b9342862c"
-    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_es_all_2016-08.zip"
-    size: 900336552
-    sha256sum: "820f337879e5cd10524ff86e007af7d14d4f4c5398d8c304f5c2560268326611"
+    id: "dc7c40e7-37a6-bf7b-f78d-710072caf9f6"
+    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_es_all_2017-02.zip"
+    size: 980424760
+    sha256sum: "d8d3796900fb362caed4f10780328852ebfc59b1375910f0547fac0b70c64fe3"
     type: zipped-zim
   wikimooc.fr:
     langid: "wikimooc.fr"
