@@ -572,14 +572,14 @@ all:
     langid: "wikibooks.ar"
     type: zipped-zim
   wikisource.ar:
-    version: "2016-05-03"
-    size: 879336463
-    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_ar_all_2016-05.zip"
+    version: "2017-02-20"
+    size: 902340932
+    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_ar_all_2017-02.zip"
     name: "ويكي المصدر"
     language: "ara"
     description: "المكتبة الحرة التي يستطيع الجميع تحسينها"
-    id: "dc9103af-0ce0-bb86-85e9-23907f3012c0"
-    sha256sum: "76018819a8ea040a3581fbc5d939ea37b40a179ed63db1ae5454e512cf15fdff"
+    id: "89f6fcd1-243f-c929-38b2-825ed5308b49"
+    sha256sum: "8509d42c191b4de203cd8539ecc094df3936e6b5ccfa7b1bde2cf9023a86a83b"
     langid: "wikisource.ar"
     type: zipped-zim
   wikiquote.ar:
