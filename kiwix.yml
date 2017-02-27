@@ -685,12 +685,12 @@ all:
     langid: "wikisource.fa"
     description: "ﺍﺯ ﻭیکی<200c>ﻦﺒﺸﺘﻫ"
     name: ﻭیکی<200c>ﻦﺒﺸﺘﻫ
-    version: "2016-08-05"
+    version: "2017-02-23"
     language: "fas"
-    id: "a74944d0-e025-eaad-e566-84b4405a4130"
-    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_fa_all_2016-08.zip"
-    size: 447249001
-    sha256sum: "37535144b00626311fc57e2dda39234c4f9166782184b03ca8da2847fc8a4303"
+    id: "752c3432-b374-9253-d992-20c2a22f120b"
+    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_fa_all_2017-02.zip"
+    size: 448704525
+    sha256sum: "f9fd9793d76b0adaf84dd1fcf4784b9da45d07fa205dbd194317c5a8cc4f99b3"
     type: zipped-zim
   wikiquote.en:
     langid: "wikiquote.en"
