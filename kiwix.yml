@@ -674,12 +674,12 @@ all:
     langid: "wikisource.el"
     description: "Από Βικιθήκη"
     name: Βικιθήκη
-    version: "2016-08-05"
+    version: "2017-02-22"
     language: "ell"
-    id: "e0913bc7-1f0f-7353-a901-afbe608b44b1"
-    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_el_all_2016-08.zip"
-    size: 293020982
-    sha256sum: "d90da0df7c752a7c0b742a3e6741507d44eccea604349c4997e8f15400950d70"
+    id: "925f7962-fe5c-7a6f-1fb2-46be46af633b"
+    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_el_all_2017-02.zip"
+    size: 293725179
+    sha256sum: "210685ad392f7282e05332f192874b081cac93eac95ee2aaafbeabd351206c0a"
     type: zipped-zim
   wikisource.fa:
     langid: "wikisource.fa"
