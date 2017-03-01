@@ -161,12 +161,12 @@ all:
     size: 2135280072
     sha256sum: cd4ff92a2cc48e1862929279ef5dabc9c2ca9d7f8c7905d36192d9dd9dd4f5ac
     type: zipped-medias
-  educacion-llavedelsaver.es:
+  educacion-llavedelsaber.es:
     name: 'Educación'
     description: ''
     language: es
     version: '2017-02-17'
-    url: 'http://packages.ideascube.org/educacion-llavedelsaver.zip'
+    url: 'http://packages.ideascube.org/educacion-llavedelsaber.zip'
     size: 218269320
     sha256sum: b1aba0244d53d35356260c6074e9016a4553e3897c612fa0633b376de098deb6
     type: zipped-medias
