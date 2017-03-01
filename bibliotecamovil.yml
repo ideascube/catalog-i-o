@@ -21,9 +21,9 @@ all:
     version: "2016-12-10"
     size: "96871868"
     url: http://packages.ideascube.org/education_mathematiques_espagnol_enfants.zip
-    name: Matematicas
+    name: Matemáticas
     language: "esp"
-    description: Video educativa sobre las matematicas.
+    description: Video educativa sobre las matemáticas.
     sha256sum: bf9e540820610ded3ef2d91b29736d5ef149d2f94f78ad2fd98a764ee9b3dda9
     type: zipped-medias
   literatura.es:
@@ -63,8 +63,8 @@ all:
     sha256sum: '54da9593c7be51a417146715203b48ffa478cbe239bc36b76b63deaac6902f9d'
     type: 'zipped-medias'
   biografias.es:
-    name: 'Biografias'
-    description: 'Biografias'
+    name: 'Biografía'
+    description: 'Biografía'
     language: 'es'
     version: '2017-02-20'
     url: 'http://packages.ideascube.org/biografias.zip'
@@ -81,8 +81,8 @@ all:
     sha256sum: 3c6aab93691de0b2ae8c84650f803ac9d91a97e0d765166c75192327d1a4d827
     type: zipped-medias
   ciencia-politicas.es:
-    name: 'Ciencia politicas'
-    description: 'Ciencia politicas'
+    name: 'Ciencia políticas'
+    description: 'Ciencia políticas'
     language: es
     version: '2017-02-17'
     url: 'http://packages.ideascube.org/ciencia-politicas.zip'
@@ -153,8 +153,8 @@ all:
     sha256sum: 9664ce1a54fbd4626c85d1d7522d13f2adb24dae7ff113703f3bbc5e989b1424
     type: zipped-medias
   religion.es:
-    name: Religion
-    description: Religion
+    name: Religión
+    description: Religión
     language: es
     version: '2017-02-17'
     url: 'http://packages.ideascube.org/religion.zip'
@@ -189,8 +189,8 @@ all:
     sha256sum: c91e7ec43c757d1799df2a259aad467d1dd1a51d46c4728f7f8d4ab601c0cb6a
     type: zipped-medias
   gastronomia-colombiana.es:
-    name: 'Gastronomia Colombiana'
-    description: ''
+    name: 'Gastronomía Colombiana'
+    description: 'Gastronomía Colombiana'
     language: es
     version: '2017-02-17'
     url: 'http://packages.ideascube.org/gastronomia-colombiana.zip'
@@ -207,8 +207,8 @@ all:
     sha256sum: dfc1227a892b3588b04750b3fa631ba5405b0e090a5add8499734d21f862279a
     type: zipped-medias
   geografia.es:
-    name: Geografia
-    description: Geografia
+    name: Geografía
+    description: Geografía
     language: es
     version: '2017-02-17'
     url: 'http://packages.ideascube.org/geografia.zip'
