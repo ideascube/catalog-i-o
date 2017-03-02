@@ -13,20 +13,20 @@ htmlize() {
     </head>
     <body>
         <pre>
-$( cat $catalog )
+$( cat "$catalog" )
         </pre>
     </body>
-</html>" > ${catalog}.html
+</html>" > "${catalog}.html"
 
 }
 
 
-rm -f *.html
+rm -f ./*.html
 
 for i in $catalogs ; do
-    htmlize $i
-    scp $i ${i}.html $remote
-    rm ${i}.html
+    htmlize "$i"
+    scp "$i" "${i}.html" $remote
+    rm "${i}.html"
 done
 
 pandoc -f markdown -t html README.md > README.html
