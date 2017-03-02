@@ -2,7 +2,7 @@ all:
   historia-precolombiana.es:
     name: Historia
     version: "2016-11-29"
-    url: http://packages.ideascube.org/culturegenerale_histoire_espagnol_adultes-adolescents-enfants.zip
+    url: http://packages.ideascube.org/bibliotecamovil/culturegenerale_histoire_espagnol_adultes-adolescents-enfants.zip
     sha256sum: 52243cef2346b92c7c0669fe53d8a402077eaae9e974c3026f46f5af08b74e2c
     size: "192334857"
     language: "esp"
@@ -11,7 +11,7 @@ all:
   cuentos:
     version: "2016-11-29"
     size: "108878459"
-    url: http://packages.ideascube.org/fictions_contes_espagnol_enfants.zip
+    url: http://packages.ideascube.org/bibliotecamovil/fictions_contes_espagnol_enfants.zip
     name: Cuentos
     language: "esp"
     description: este paquete contiene videos de cuentos infantiles para no dormir.
@@ -20,7 +20,7 @@ all:
   matematicas:
     version: "2016-12-10"
     size: "96871868"
-    url: http://packages.ideascube.org/education_mathematiques_espagnol_enfants.zip
+    url: http://packages.ideascube.org/bibliotecamovil/education_mathematiques_espagnol_enfants.zip
     name: Matemáticas
     language: "esp"
     description: Video educativa sobre las matemáticas.
@@ -31,7 +31,7 @@ all:
     description: 'Una selecìon de libros para todos'
     language: 'es'
     version: '2017-02-20'
-    url: 'http://packages.ideascube.org/literatura.zip'
+    url: 'http://packages.ideascube.org/bibliotecamovil/literatura.zip'
     size: 90317445
     sha256sum: 'ccc062e86100df501baf88de817e31f1254a2d41fc5356d1be81e8a4bf62180f'
     type: 'zipped-medias'
@@ -40,7 +40,7 @@ all:
     description: ''
     language: 'es'
     version: '2017-02-20'
-    url: 'http://packages.ideascube.org/literatura-colombiana.zip'
+    url: 'http://packages.ideascube.org/bibliotecamovil/literatura-colombiana.zip'
     size: 1348008130
     sha256sum: '41b818523374223c96f5bc27f28542c59c85def6f38c715e0a86f9ccf8265f54'
     type: 'zipped-medias'
@@ -49,7 +49,7 @@ all:
     description: 'Literatura Infantil'
     language: 'es'
     version: '2017-02-17'
-    url: 'http://packages.ideascube.org/literatura_infantil.zip'
+    url: 'http://packages.ideascube.org/bibliotecamovil/literatura_infantil.zip'
     size: 1651616929
     sha256sum: 'dbc12774ca0bf38a879d02adc233c80c206c05c8b8001abf607e6657e6cca829'
     type: zipped-medias
@@ -58,7 +58,7 @@ all:
     description: 'Libros para jovenes'
     language: 'es'
     version: '2017-02-20'
-    url: 'http://packages.ideascube.org/literatura-juvenil.zip'
+    url: 'http://packages.ideascube.org/bibliotecamovil/literatura-juvenil.zip'
     size: 42242472
     sha256sum: '54da9593c7be51a417146715203b48ffa478cbe239bc36b76b63deaac6902f9d'
     type: 'zipped-medias'
@@ -67,7 +67,7 @@ all:
     description: 'Biografía'
     language: 'es'
     version: '2017-02-20'
-    url: 'http://packages.ideascube.org/biografias.zip'
+    url: 'http://packages.ideascube.org/bibliotecamovil/biografias.zip'
     size: 971225501
     sha256sum: 'd886e00a66e6ca8f290cce8ce6bf458d8fd558735482c685b1da5fb5335f5153'
     type: 'zipped-medias'
@@ -76,7 +76,7 @@ all:
     description: 'Artes'
     language: es
     version: '2017-02-17'
-    url: http://packages.ideascube.org/artes.zip
+    url: http://packages.ideascube.org/bibliotecamovil/artes.zip
     size: 608533677
     sha256sum: 3c6aab93691de0b2ae8c84650f803ac9d91a97e0d765166c75192327d1a4d827
     type: zipped-medias
@@ -85,7 +85,7 @@ all:
     description: 'Ciencia políticas'
     language: es
     version: '2017-02-17'
-    url: 'http://packages.ideascube.org/ciencia-politicas.zip'
+    url: 'http://packages.ideascube.org/bibliotecamovil/ciencia-politicas.zip'
     size: 31210892
     sha256sum: d8c29e849cdf3f40a71c922d4a3e84745110f4fea01102ffd8330cdf7f6ab61a
     type: zipped-medias
@@ -94,7 +94,7 @@ all:
     description: 'Ciencias naturales'
     language: es
     version: '2017-02-17'
-    url: 'http://packages.ideascube.org/ciencias-naturales.zip'
+    url: 'http://packages.ideascube.org/bibliotecamovil/ciencias-naturales.zip'
     size: 3511587475
     sha256sum: 8352a60ee742588461401e6fdb95d895cde6b51926d2748837824fecde9f405b
     type: zipped-medias
@@ -103,7 +103,7 @@ all:
     description: 'Ciencias sociales'
     language: es
     version: '2017-02-20'
-    url: 'http://packages.ideascube.org/ciencias-sociales.zip'
+    url: 'http://packages.ideascube.org/bibliotecamovil/ciencias-sociales.zip'
     size: 8523444
     sha256sum: 571d43c11535d5f3dbe4afe7bb50b33884e507208de38ae3adc6970862c3947a
     type: zipped-medias
@@ -112,7 +112,7 @@ all:
     description: 'Cocina Infanfil'
     language: es
     version: '2017-02-17'
-    url: 'http://packages.ideascube.org/cocina-infantil.zip'
+    url: 'http://packages.ideascube.org/bibliotecamovil/cocina-infantil.zip'
     size: 1836955939
     sha256sum: 3d6d2318c10fbd108c8880443bdef43b203206d157bdf96b9ddc9b7dfb9e74df
     type: zipped-medias
@@ -121,7 +121,7 @@ all:
     description: 'Comercio exterior'
     language: es
     version: '2017-02-17'
-    url: 'http://packages.ideascube.org/comercio-exterior.zip'
+    url: 'http://packages.ideascube.org/bibliotecamovil/comercio-exterior.zip'
     size: 15366212
     sha256sum: 8e08ef6e2c7f1f28c42ec4f46774dd2b1b230ac018bdf89f41357a50f59c2391
     type: zipped-medias
@@ -130,7 +130,7 @@ all:
     description: Historia
     language: es
     version: '2017-02-17'
-    url: 'http://packages.ideascube.org/historia.zip'
+    url: 'http://packages.ideascube.org/bibliotecamovil/historia.zip'
     size: 1622799563
     sha256sum: d920f658e09360b710b356b6a1a34d8730c0418edbe530fc352c48a98e6a8d96
     type: zipped-medias
@@ -139,7 +139,7 @@ all:
     description: 'Conflicto armado'
     language: es
     version: '2017-02-18'
-    url: 'http://packages.ideascube.org/conflicto-armado.zip'
+    url: 'http://packages.ideascube.org/bibliotecamovil/conflicto-armado.zip'
     size: 1516430031
     sha256sum: 6a09d197a758ff7b079aebac713747e046a15030a9be21f577d0149265c34f53
     type: zipped-medias
@@ -148,7 +148,7 @@ all:
     description: 'Danzas populares y nacionales'
     language: es
     version: '2017-02-18'
-    url: 'http://packages.ideascube.org/danzas-populares-y-nacionales.zip'
+    url: 'http://packages.ideascube.org/bibliotecamovil/danzas-populares-y-nacionales.zip'
     size: 8877142742
     sha256sum: 9664ce1a54fbd4626c85d1d7522d13f2adb24dae7ff113703f3bbc5e989b1424
     type: zipped-medias
@@ -157,7 +157,7 @@ all:
     description: Religión
     language: es
     version: '2017-02-17'
-    url: 'http://packages.ideascube.org/religion.zip'
+    url: 'http://packages.ideascube.org/bibliotecamovil/religion.zip'
     size: 2135280072
     sha256sum: cd4ff92a2cc48e1862929279ef5dabc9c2ca9d7f8c7905d36192d9dd9dd4f5ac
     type: zipped-medias
@@ -166,7 +166,7 @@ all:
     description: ''
     language: es
     version: '2017-02-17'
-    url: 'http://packages.ideascube.org/educacion-llavedelsaber.zip'
+    url: 'http://packages.ideascube.org/bibliotecamovil/educacion-llavedelsaber.zip'
     size: 218269320
     sha256sum: b1aba0244d53d35356260c6074e9016a4553e3897c612fa0633b376de098deb6
     type: zipped-medias
@@ -175,7 +175,7 @@ all:
     description: ''
     language: es
     version: '2017-02-17'
-    url: 'http://packages.ideascube.org/entrevista-y-relatos-personales.zip'
+    url: 'http://packages.ideascube.org/bibliotecamovil/entrevista-y-relatos-personales.zip'
     size: 6187705376
     sha256sum: c41f82f07aff98b7c8fbad91f03d0bd4502700b4e6a654224a8794bee95de1c8
     type: zipped-medias
@@ -184,7 +184,7 @@ all:
     description: ''
     language: es
     version: '2017-02-17'
-    url: http://packages.ideascube.org/historia-de-bogota.zip
+    url: http://packages.ideascube.org/bibliotecamovil/historia-de-bogota.zip
     size: 20315812
     sha256sum: c91e7ec43c757d1799df2a259aad467d1dd1a51d46c4728f7f8d4ab601c0cb6a
     type: zipped-medias
@@ -193,7 +193,7 @@ all:
     description: 'Gastronomía Colombiana'
     language: es
     version: '2017-02-17'
-    url: 'http://packages.ideascube.org/gastronomia-colombiana.zip'
+    url: 'http://packages.ideascube.org/bibliotecamovil/gastronomia-colombiana.zip'
     size: 6604603909
     sha256sum: cc79e1b722b6b43ac4dbe7b79ce201a148c3db0ce80442f9872ff5e5915a4aa9
     type: zipped-medias
@@ -202,7 +202,7 @@ all:
     description: ''
     language: es
     version: '2017-02-17'
-    url: http://packages.ideascube.org/legislacion-colombiana.zip
+    url: http://packages.ideascube.org/bibliotecamovil/legislacion-colombiana.zip
     size: 42319413
     sha256sum: dfc1227a892b3588b04750b3fa631ba5405b0e090a5add8499734d21f862279a
     type: zipped-medias
@@ -211,7 +211,7 @@ all:
     description: Geografía
     language: es
     version: '2017-02-17'
-    url: 'http://packages.ideascube.org/geografia.zip'
+    url: 'http://packages.ideascube.org/bibliotecamovil/geografia.zip'
     size: 3544583446
     sha256sum: f938b355d3971d0db2bd36d96912c5fcb1652e9307ccca2294ad5212c615ec15
     type: zipped-medias
@@ -220,7 +220,7 @@ all:
     description: ''
     language: es
     version: '2017-02-17'
-    url: 'http://packages.ideascube.org/patrimonio-cultural.zip'
+    url: 'http://packages.ideascube.org/bibliotecamovil/patrimonio-cultural.zip'
     size: 10512362228
     sha256sum: 957b5d84e3dc29c9f1c2bfacdec75932dc35cc9add238be6ba205ddff9bae183
     type: zipped-medias
