@@ -17,3 +17,12 @@ all:
     size: 227890658
     sha256sum: 5e127bf45cfa36b3506ac6a982a55ebc601e4abcc22b55f8575e516fd7d39591
     type: zipped-medias
+  omeka_dummy3:
+    name: Omeka export test 3
+    description: This is another test package
+    language: fr
+    version: '2017-03-10'
+    url: http://packages.ideascube.org/omeka_dummy3.zip
+    size: 158987562
+    sha256sum: 28d0d5376527e9cec73a87de6a758be7d4dfc39536cff2ffe40455c9990936c9
+    type: zipped-medias
