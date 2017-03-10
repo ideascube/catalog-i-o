@@ -1,0 +1,10 @@
+all:
+  omeka_dummy:
+    name: Omeka export test
+    description: This is a test package
+    language: fr
+    version: '2017-03-10'
+    url: http://packages.ideascube.org/omeka_dummy.zip
+    size: 703055774
+    sha256sum: 051a53650ba54b7861ca2bfee38a348ac8525f531adad02271c5949dc2207192
+    type: zipped-medias
