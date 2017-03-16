@@ -26,3 +26,12 @@ all:
     size: 158987562
     sha256sum: 28d0d5376527e9cec73a87de6a758be7d4dfc39536cff2ffe40455c9990936c9
     type: zipped-medias
+  rfi_savoirs_inde:
+    name: Geopolitique de l'Inde
+    description: Série d'article et documents sonores diffusés sur https://savoirs.rfi.fr
+    language: fr
+    version: '2017-03-16'
+    url: http://packages.ideascube.org/rfi-savoir-inde.zip
+    size: 233236241
+    sha256sum: df20c5b055ec204e2bec0a3c8afe8832b4a5ce7d63ad6e9ee1cb1fe8aad6d787
+    type: zipped-medias
