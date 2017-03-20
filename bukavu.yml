@@ -80,3 +80,12 @@ all:
     size: 125211851
     sha256sum: 3666066bf340bb79b4c1dbf8a590a8ab3d759ed7c248f98565c7db5ca96d583d
     type: zipped-medias
+  agronomie-fr-adultes:
+    name: Agronomie
+    description: "Cette collection comprend des vidéos et des articles de recherche sur les enjeux de l'agriculture en Afrique moderne, et les liens entre macroéconomie et agriculture. La culture, comme l'élevage, y sont abordés, sous une approche économique, sociologique et écologique."
+    language: fr
+    version: '2017-03-20'
+    url: http://packages.ideascube.org/bukavu/agronomie-fr-adultes.zip
+    size: 131694449
+    sha256sum: d7cedcb596f57bf18bfd3071a14ba24b5f7b45152b4ca2daf0c812d390bf8c5b
+    type: zipped-medias
