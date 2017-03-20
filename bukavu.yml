@@ -107,3 +107,12 @@ all:
     size: 880888538
     sha256sum: de98ceb393bb72872a76d1eba75191ec013e45d7245f999af6d08d4434ed8a36
     type: zipped-medias
+  environnement-fr-adultes:
+    name: Environnement
+    description: "Cette collection comprend des vidéos, des MOOC et des articles de recherche qui traitent des défis environnements africains et mondiaux. Y sont abordés les questions énergétiques, la gestion des ressources naturelles et les enjeux de la biodiversité sous un angle économique, politique et géographique."
+    language: fr
+    version: '2017-03-20'
+    url: http://packages.ideascube.org/bukavu/environnement-fr-adultes.zip
+    size: 1441737064
+    sha256sum: 35c511e4b3e2387e7bfa6807167ff40dc0612877cac13a5e882dd9518722f970
+    type: zipped-medias
