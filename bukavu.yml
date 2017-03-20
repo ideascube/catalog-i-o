@@ -53,3 +53,12 @@ all:
     size: 1099570889
     sha256sum: fbee26fa2601c209e0c517f0371ec9bbbf3f59c1a8f199719aaf0fa2c750307b
     type: zipped-medias
+  fondamentaux-economie-fr-adultes:
+    name: Fondamentaux de l’économie
+    description: "Cette collection comprend des vidéos et des articles de recherche qui reviennent sur les fondamentaux de l'économie : de la microéconomie, à la macroéconomie, en passant par les enjeux géopoliques, écologiques et sociologiques des mécanismes économiques mondiaux. Elle s'adresse aux étudiants en économie, mais également aux étudiants curieux des liens entre économie et société."
+    language: fr
+    version: '2017-03-20'
+    url: http://packages.ideascube.org/bukavu/fondamentaux-economie-fr-adultes.zip
+    size: 1131501034
+    sha256sum: 686abaa82faaf3de103ee89c408d5d3dd1fc897a8d0f99f8ab1ac637acdb4c6d
+    type: zipped-medias
