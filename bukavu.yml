@@ -1,0 +1,11 @@
+all:
+  macroeconomie-fr-adultes:
+  name: Macroéconomie
+  description: "Cette collection comprend des vidéos, des MOOC et des articles de recherche sur les enjeux modernes de la macroéconomie. Le MOOC sur la mondialisation, créé par Sciences Po, traite notamment des enjeux internationaux de la macroéonomie, à travers une approche pluridisciplinaire qui mêle droit, histoire, économie, anthropologie, sciences politiques et géographie."
+  language: fr
+  version: '2017-03-20'
+  url: http://packages.ideascube.org/macroeconomie-fr-adultes.zip
+  size: 873668571
+  sha256sum: f7dfd6e1bdf289653932900d22fc0e658dc70cd26dc2edc2c68128c228dfb448
+  type: zipped-medias
+
