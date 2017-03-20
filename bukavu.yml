@@ -1,0 +1,46 @@
+all:
+  macroeconomie-fr-adultes:
+    name: Macroéconomie
+    description: "Cette collection comprend des vidéos, des MOOC et des articles de recherche sur les enjeux modernes de la macroéconomie. Le MOOC sur la mondialisation, créé par Sciences Po, traite notamment des enjeux internationaux de la macroéonomie, à travers une approche pluridisciplinaire qui mêle droit, histoire, économie, anthropologie, sciences politiques et géographie."
+    language: fr
+    version: '2017-03-20'
+    url: http://packages.ideascube.org/bukavu/macroeconomie-fr-adultes.zip
+    size: 873668571
+    sha256sum: f7dfd6e1bdf289653932900d22fc0e658dc70cd26dc2edc2c68128c228dfb448
+    type: zipped-medias
+  agronomie-fr-adultes:
+    name: agronomie-fr-adultes
+    description: "Cette collection comprend des vidéos et des articles de recherche sur les enjeux de l'agriculture en Afrique moderne, et les liens entre macroéconomie et agriculture. La culture, comme l'élevage, y sont abordés, sous une approche économique, sociologique et écologique."
+    language: fr
+    version: '2017-03-20'
+    url: http://packages.ideascube.org/bukavu/agronomie-fr-adultes.zip
+    size: 129704251
+    sha256sum: 4611eb43c93a07a33366750eca2f40139ec01984f150662caff1ccb1ffa6c8c8
+    type: zipped-medias
+  introduction-geographie-afrique-fr-adultes:
+    name: Géographie
+    description: "Cette collection de contenus comprend des vidéos pédagogiques et des entretiens avec des chercheurs en géographie : elle traite des enjeux géopolitiques en Afrique à travers des études de cas. Elle s'adresse aux étudiants en sciences humaines et sociales."
+    language: fr
+    version: '2017-03-20'
+    url: http://packages.ideascube.org/bukavu/introduction-geographie-afrique-fr-adultes.zip
+    size: 1267688840
+    sha256sum: 35dacd66a677151b058abf18d27f5bda49df07594f9aa79b4b30a8df57c5af91
+    type: zipped-medias
+  introduction-chimie-physique-fr-adultes:
+    name: Les bases en physique-chimie
+    description: "Cette collection de contenus comprend des vidéos et des entretiens de chercheurs sur des domaines variés de la physique et de la chimie. Elle couvre des sujets variés de la mécanique à la physique quantique, dans une approche pédagogique qui rendra les enjeux scientifiques de ces doamines de recherche accessibles à tous les étudiants en sciences."
+    language: fr
+    version: '2017-03-20'
+    url: http://packages.ideascube.org/bukavu/introduction-chimie-physique-fr-adultes.zip
+    size: 2189890204
+    sha256sum: e8288d7e1c466dad42b058a2dd9e53924863f42b0e3ffd5c916e27940d5cb2d1
+    type: zipped-medias
+  introduction-biologie-chimie-fr-adultes:
+    name: Les bases en biologie et en chimie
+    description: "Cette collection de contenus comprend des vidéos et des entretiens de chercheurs sur des domaines variés de la biologie et de la chimie : de la biologie moléculaire aux neurosciences. Elle s'adresse aux étudiants en biologie, en chimie, en médecine et en soins infirmiers."
+    language: fr
+    version: '2017-03-20'
+    url: http://packages.ideascube.org/bukavu/introduction-biologie-chimie-fr-adultes.zip
+    size: 473707712
+    sha256sum: 415137f79317dbdb9d2ac4144a37ad303af1c868cb0abe6b987f7bbe5bb38d00
+    type: zipped-medias
