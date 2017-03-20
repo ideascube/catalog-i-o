@@ -53,3 +53,66 @@ all:
     size: 1099570889
     sha256sum: fbee26fa2601c209e0c517f0371ec9bbbf3f59c1a8f199719aaf0fa2c750307b
     type: zipped-medias
+  fondamentaux-economie-fr-adultes:
+    name: Fondamentaux de l’économie
+    description: "Cette collection comprend des vidéos et des articles de recherche qui reviennent sur les fondamentaux de l'économie : de la microéconomie, à la macroéconomie, en passant par les enjeux géopoliques, écologiques et sociologiques des mécanismes économiques mondiaux. Elle s'adresse aux étudiants en économie, mais également aux étudiants curieux des liens entre économie et société."
+    language: fr
+    version: '2017-03-20'
+    url: http://packages.ideascube.org/bukavu/fondamentaux-economie-fr-adultes.zip
+    size: 1131501034
+    sha256sum: 686abaa82faaf3de103ee89c408d5d3dd1fc897a8d0f99f8ab1ac637acdb4c6d
+    type: zipped-medias
+  comptabilite-fr-adultes:
+    name: Comptabilité
+    description: "Cette collection comprend des vidéos pédagogiques sur les fondamentaux de la comptabilité et de la gestion. Elle revient sur des techniques et méthodologies de base à destination principalement des étudiants en premier cycle de l'enseignement supérieur en gestion, en comptabilité et en administration des entreprises."
+    language: fr
+    version: '2017-03-20'
+    url: http://packages.ideascube.org/bukavu/comptabilite-fr-adultes.zip
+    size: 62293454
+    sha256sum: 98674216407cc74da9b81a90f83678500a5e1e767e3a00a16e83f4500596eba1
+    type: zipped-medias
+  economie-environnement-fr-adultes:
+    name: Économie de l’environnement
+    description: "Cette collection se focalise tout particulièrement sur les liens entre économie et enjeux environnementaux. Des vidéos et des articles de recherche éclairent la question des mécanismes sous-jacents aux enjeux économiques et géopolitiques de la gestion des ressources naturelles."
+    language: fr
+    version: '2017-03-20'
+    url: http://packages.ideascube.org/bukavu/economie-environnement-fr-adultes.zip
+    size: 125211851
+    sha256sum: 3666066bf340bb79b4c1dbf8a590a8ab3d759ed7c248f98565c7db5ca96d583d
+    type: zipped-medias
+  agronomie-fr-adultes:
+    name: Agronomie
+    description: "Cette collection comprend des vidéos et des articles de recherche sur les enjeux de l'agriculture en Afrique moderne, et les liens entre macroéconomie et agriculture. La culture, comme l'élevage, y sont abordés, sous une approche économique, sociologique et écologique."
+    language: fr
+    version: '2017-03-20'
+    url: http://packages.ideascube.org/bukavu/agronomie-fr-adultes.zip
+    size: 131694449
+    sha256sum: d7cedcb596f57bf18bfd3071a14ba24b5f7b45152b4ca2daf0c812d390bf8c5b
+    type: zipped-medias
+  introduction-droits-international-fr-adultes:
+    name: Droit international et droit comparé
+    description: "Ce MOOC sur le droit international et le droit comparé, créé par l'Ecole normale supérieure, permet d'introduire les étudiants en droit et en relations internationales, aux problématiques contemporaines du droit international et du droit comparé."
+    language: fr
+    version: '2017-03-20'
+    url: http://packages.ideascube.org/bukavu/introduction-droits-international-fr-adultes.zip
+    size: 2091981094
+    sha256sum: f32d3378895e45cb04d2a00044c6974a6bbb685814b076063a58a35b83b20fe2
+    type: zipped-medias
+  langue-francaise-fr-adultes:
+    name: Diffusion des langues
+    description: "Ces vidéos, à l'attention des étudiants en littérature, des futurs enseignants et éducateurs et des étudiants en journalisme, traitent des enjeux de la diffusion des langues dans un contexte de mondialisation. Plus particulièrement, cette collection s'intéresse à la francophonie avec un focus particulier sur l'Afrique."
+    language: fr
+    version: '2017-03-20'
+    url: http://packages.ideascube.org/bukavu/langue-francaise-fr-adultes.zip
+    size: 880888538
+    sha256sum: de98ceb393bb72872a76d1eba75191ec013e45d7245f999af6d08d4434ed8a36
+    type: zipped-medias
+  environnement-fr-adultes:
+    name: Environnement
+    description: "Cette collection comprend des vidéos, des MOOC et des articles de recherche qui traitent des défis environnements africains et mondiaux. Y sont abordés les questions énergétiques, la gestion des ressources naturelles et les enjeux de la biodiversité sous un angle économique, politique et géographique."
+    language: fr
+    version: '2017-03-20'
+    url: http://packages.ideascube.org/bukavu/environnement-fr-adultes.zip
+    size: 1441737064
+    sha256sum: 35c511e4b3e2387e7bfa6807167ff40dc0612877cac13a5e882dd9518722f970
+    type: zipped-medias
