@@ -98,3 +98,12 @@ all:
     size: 2091981094
     sha256sum: f32d3378895e45cb04d2a00044c6974a6bbb685814b076063a58a35b83b20fe2
     type: zipped-medias
+  langue-francaise-fr-adultes:
+    name: Diffusion des langues
+    description: "Ces vidéos, à l'attention des étudiants en littérature, des futurs enseignants et éducateurs et des étudiants en journalisme, traitent des enjeux de la diffusion des langues dans un contexte de mondialisation. Plus particulièrement, cette collection s'intéresse à la francophonie avec un focus particulier sur l'Afrique."
+    language: fr
+    version: '2017-03-20'
+    url: http://packages.ideascube.org/bukavu/langue-francaise-fr-adultes.zip
+    size: 880888538
+    sha256sum: de98ceb393bb72872a76d1eba75191ec013e45d7245f999af6d08d4434ed8a36
+    type: zipped-medias
