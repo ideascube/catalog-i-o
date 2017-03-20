@@ -44,3 +44,12 @@ all:
     size: 473707712
     sha256sum: 415137f79317dbdb9d2ac4144a37ad303af1c868cb0abe6b987f7bbe5bb38d00
     type: zipped-medias
+  introduction-droits-de-lhomme-fr-adultes:
+    name: Droits de l’homme
+    description: "Ce MOOC sur les droits de l'homme, créé par l'Université de Genève, s'adresse aux praticiens, comme aux étudiants en droit, en politique, en relations internationales et en géopolitique. Des interventions de représentants des différents organes et institutions de protection des droits de l'homme, et des spécialistes de la communauté académique, permettent également d'éclairer tous les enjeux juridiques de la protection de l'homme."
+    language: fr
+    version: '2017-03-20'
+    url: http://packages.ideascube.org/bukavu/introduction-droits-de-lhomme-fr-adultes.zip
+    size: 1099570889
+    sha256sum: fbee26fa2601c209e0c517f0371ec9bbbf3f59c1a8f199719aaf0fa2c750307b
+    type: zipped-medias
