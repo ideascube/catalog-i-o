@@ -89,3 +89,12 @@ all:
     size: 131694449
     sha256sum: d7cedcb596f57bf18bfd3071a14ba24b5f7b45152b4ca2daf0c812d390bf8c5b
     type: zipped-medias
+  introduction-droits-international-fr-adultes:
+    name: Droit international et droit comparé
+    description: "Ce MOOC sur le droit international et le droit comparé, créé par l'Ecole normale supérieure, permet d'introduire les étudiants en droit et en relations internationales, aux problématiques contemporaines du droit international et du droit comparé."
+    language: fr
+    version: '2017-03-20'
+    url: http://packages.ideascube.org/bukavu/introduction-droits-international-fr-adultes.zip
+    size: 2091981094
+    sha256sum: f32d3378895e45cb04d2a00044c6974a6bbb685814b076063a58a35b83b20fe2
+    type: zipped-medias
