@@ -71,3 +71,12 @@ all:
     size: 62293454
     sha256sum: 98674216407cc74da9b81a90f83678500a5e1e767e3a00a16e83f4500596eba1
     type: zipped-medias
+  economie-environnement-fr-adultes:
+    name: Économie de l’environnement
+    description: "Cette collection se focalise tout particulièrement sur les liens entre économie et enjeux environnementaux. Des vidéos et des articles de recherche éclairent la question des mécanismes sous-jacents aux enjeux économiques et géopolitiques de la gestion des ressources naturelles."
+    language: fr
+    version: '2017-03-20'
+    url: http://packages.ideascube.org/bukavu/economie-environnement-fr-adultes.zip
+    size: 125211851
+    sha256sum: 3666066bf340bb79b4c1dbf8a590a8ab3d759ed7c248f98565c7db5ca96d583d
+    type: zipped-medias
