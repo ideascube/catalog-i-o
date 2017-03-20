@@ -8,7 +8,6 @@ all:
     size: 873668571
     sha256sum: f7dfd6e1bdf289653932900d22fc0e658dc70cd26dc2edc2c68128c228dfb448
     type: zipped-medias
-
   agronomie-fr-adultes:
     name: agronomie-fr-adultes
     description: "Cette collection comprend des vidéos et des articles de recherche sur les enjeux de l'agriculture en Afrique moderne, et les liens entre macroéconomie et agriculture. La culture, comme l'élevage, y sont abordés, sous une approche économique, sociologique et écologique."
@@ -18,4 +17,12 @@ all:
     size: 129704251
     sha256sum: 4611eb43c93a07a33366750eca2f40139ec01984f150662caff1ccb1ffa6c8c8
     type: zipped-medias
-
+  introduction-geographie-afrique-fr-adultes:
+    name: Géographie
+    description: "Cette collection de contenus comprend des vidéos pédagogiques et des entretiens avec des chercheurs en géographie : elle traite des enjeux géopolitiques en Afrique à travers des études de cas. Elle s'adresse aux étudiants en sciences humaines et sociales."
+    language: fr
+    version: '2017-03-20'
+    url: http://packages.ideascube.org/bukavu/introduction-geographie-afrique-fr-adultes.zip
+    size: 1267688840
+    sha256sum: 35dacd66a677151b058abf18d27f5bda49df07594f9aa79b4b30a8df57c5af91
+    type: zipped-medias
