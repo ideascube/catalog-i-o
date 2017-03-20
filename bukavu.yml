@@ -26,3 +26,12 @@ all:
     size: 1267688840
     sha256sum: 35dacd66a677151b058abf18d27f5bda49df07594f9aa79b4b30a8df57c5af91
     type: zipped-medias
+  introduction-chimie-physique-fr-adultes:
+    name: Les bases en physique-chimie
+    description: "Cette collection de contenus comprend des vidéos et des entretiens de chercheurs sur des domaines variés de la physique et de la chimie. Elle couvre des sujets variés de la mécanique à la physique quantique, dans une approche pédagogique qui rendra les enjeux scientifiques de ces doamines de recherche accessibles à tous les étudiants en sciences."
+    language: fr
+    version: '2017-03-20'
+    url: http://packages.ideascube.org/bukavu/introduction-chimie-physique-fr-adultes.zip
+    size: 2189890204
+    sha256sum: e8288d7e1c466dad42b058a2dd9e53924863f42b0e3ffd5c916e27940d5cb2d1
+    type: zipped-medias
