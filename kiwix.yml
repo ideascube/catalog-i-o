@@ -616,14 +616,14 @@ all:
     langid: "wikipedia.ps"
     type: zipped-zim
   wiktionary.el:
-    version: "2016-08-09"
-    size: 409838287
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_el_all_2016-08.zip"
+    version: "2017-03-02"
+    size: 410619187
+    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_el_all_2017-03.zip"
     name: Βικιλεξικό
     language: "ell"
     description: "Από Βικιλεξικό"
-    id: "543db170-d0d8-ba58-9dac-d0d7baecef62"
-    sha256sum: "71ec5ad60376749692f62712021ac1f8b6fd9b288f4398b0a989cb2b804482e1"
+    id: "b367b394-17db-6fbd-f49b-691b42e83636"
+    sha256sum: "1815bd5185fbbfe2196052514a4b2fdfde4dda978a416c44e29ad099e1c809ef"
     langid: "wiktionary.el"
     type: zipped-zim
   wiktionary.ps:
