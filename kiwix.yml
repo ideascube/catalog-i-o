@@ -817,12 +817,12 @@ all:
     langid: "wikiquote.es"
     description: "De Wikiquote, la colección libre de citas y frases célebres."
     name: Wikiquote
-    version: "2016-08-08"
+    version: "2017-03-02"
     language: "spa"
-    id: "9a0c0b36-1135-3eab-220a-409911aabd5b"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_es_all_2016-08.zip"
-    size: 278773135
-    sha256sum: "2986f34ac75fe1abe0ce5edbb6597d9df8feed555336e00c8f6a81d994608552"
+    id: "de6acca9-930f-cec7-cd6b-216b0c3efc33"
+    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_es_all_2017-03.zip"
+    size: 275932725
+    sha256sum: "6ce59544b3c90bd4b88c7f99476b74c54f41a20679430a610c340257ef0352e0"
     type: zipped-zim
   wikisource.es:
     langid: "wikisource.es"
