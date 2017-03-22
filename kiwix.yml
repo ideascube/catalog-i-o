@@ -641,12 +641,12 @@ all:
     langid: "wikiversity.el"
     description: "Από Βικιεπιστήμιο"
     name: Βικιεπιστήμιο
-    version: "2016-08-09"
+    version: "2017-03-02"
     language: "ell"
-    id: "4fc870e7-edb7-6aaa-4997-2d686961d234"
-    url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_el_all_2016-08.zip"
-    size: 205231085
-    sha256sum: "dbdf87e6d4236d74e70a841b902c439f3f8d41c2bb3d4d90590d18ce088ff99d"
+    id: "d72cc8d9-26f1-ef5a-f473-25b6000683f6"
+    url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_el_all_2017-03.zip"
+    size: 205183815
+    sha256sum: "32289c289676e4e7d41996e413039883240b43b792e05d5022f154103d4b3e41"
     type: zipped-zim
   wikibooks.fa:
     langid: "wikibooks.fa"
