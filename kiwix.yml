@@ -707,12 +707,12 @@ all:
     langid: "wikiquote.el"
     description: "Από Βικιφθέγματα"
     name: Βικιφθέγματα
-    version: "2016-08-08"
+    version: "2017-03-01"
     language: "ell"
-    id: "5f97f10e-018a-725b-3e32-4dc01c86563e"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_el_all_2016-08.zip"
-    size: 206275707
-    sha256sum: "1cd4b3d70402b54226fc149fa444814d4769348647a12b7a752ed012575c2b08"
+    id: "d8a2a44d-2a24-dd3a-6fad-fb42942e005d"
+    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_el_all_2017-03.zip"
+    size: 204291744
+    sha256sum: "1fe50bfbea96fc6fca235a38a9ad483a650259c4e01c8856b3570f029748ed49"
     type: zipped-zim
   biologie-tout-compris.fr:
     langid: "biologie-tout-compris.fr"
