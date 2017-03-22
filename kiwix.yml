@@ -77,14 +77,14 @@ all:
     langid: "wiktionary.fr"
     type: zipped-zim
   wikiversity.en:
-    version: "2016-08-09"
-    size: 1172575403
-    url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_en_all_2016-08.zip"
+    version: "2017-03-02"
+    size: 945537777
+    url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_en_all_2017-03.zip"
     name: Wikiversity
     language: "eng"
     description: Tutorials and courses for the fostering of learning.
-    id: "7aead283-cc09-d40e-589d-e82efe1a8b6f"
-    sha256sum: "fbd3574df0be4d16afbe4e99ffd1ee05e570e28131ae37e7c67b4d24836dfbde"
+    id: "d5173a2b-1485-98d3-42f7-75b713fafef7"
+    sha256sum: "12618e57d6a2eadd1e05686051291171fae47214538238be41f6def9ff868faa"
     langid: "wikiversity.en"
     type: zipped-zim
   wikiversity.fr:
