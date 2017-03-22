@@ -696,12 +696,12 @@ all:
     langid: "wikiquote.en"
     description: The free quote compendium.
     name: Wikiquote
-    version: "2016-08-08"
+    version: "2017-03-01"
     language: "eng"
-    id: "63eb97ae-9d12-a57b-7ebe-2a5e3701d543"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_en_all_2016-08.zip"
-    size: 696647939
-    sha256sum: "ec7699400845c2485a0a6125cc1452042d975b63f1dd7f5c42749c3464adac32"
+    id: "bad5ba71-5517-e459-f782-406802628afb"
+    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_en_all_2017-03.zip"
+    size: 705725790
+    sha256sum: "79b87cc19f16cefa9ef0294f92e0d2f67f6a8cacea677a8893163f6569dd5475"
     type: zipped-zim
   wikiquote.el:
     langid: "wikiquote.el"
