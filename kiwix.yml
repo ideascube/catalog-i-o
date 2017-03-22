@@ -77,14 +77,14 @@ all:
     langid: "wiktionary.fr"
     type: zipped-zim
   wikiversity.en:
-    version: "2016-08-09"
-    size: 1172575403
-    url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_en_all_2016-08.zip"
+    version: "2017-03-02"
+    size: 945537777
+    url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_en_all_2017-03.zip"
     name: Wikiversity
     language: "eng"
     description: Tutorials and courses for the fostering of learning.
-    id: "7aead283-cc09-d40e-589d-e82efe1a8b6f"
-    sha256sum: "fbd3574df0be4d16afbe4e99ffd1ee05e570e28131ae37e7c67b4d24836dfbde"
+    id: "d5173a2b-1485-98d3-42f7-75b713fafef7"
+    sha256sum: "12618e57d6a2eadd1e05686051291171fae47214538238be41f6def9ff868faa"
     langid: "wikiversity.en"
     type: zipped-zim
   wikiversity.fr:
@@ -319,14 +319,14 @@ all:
     langid: "tedtechnology.en"
     type: zipped-zim
   wikivoyage.fr:
-    version: "2016-08-08"
-    size: 343624704
-    url: "http://download.kiwix.org/portable/wikivoyage/kiwix-0.9+wikivoyage_fr_all_2016-08.zip"
+    version: "2017-03-01"
+    size: 354276201
+    url: "http://download.kiwix.org/portable/wikivoyage/kiwix-0.9+wikivoyage_fr_all_2017-03.zip"
     name: Wikivoyage
     language: "fra"
     description: "De Wikivoyage"
-    id: "fd252c46-6f7e-a87e-071d-44fc07ca4caa"
-    sha256sum: "3b3b39998134c4c845659b38c694ed64a7573933e46e467d82430bde33576071"
+    id: "013fc37e-1ed2-75b6-17e8-2e2d79f7d26b"
+    sha256sum: "6bdf45e3d941106635f429c3a2c6d29db0ec0950f6ed806f922865ac172ad25a"
     langid: "wikivoyage.fr"
     type: zipped-zim
   wikipedia.wo:
@@ -616,14 +616,14 @@ all:
     langid: "wikipedia.ps"
     type: zipped-zim
   wiktionary.el:
-    version: "2016-08-09"
-    size: 409838287
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_el_all_2016-08.zip"
+    version: "2017-03-02"
+    size: 410619187
+    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_el_all_2017-03.zip"
     name: Βικιλεξικό
     language: "ell"
     description: "Από Βικιλεξικό"
-    id: "543db170-d0d8-ba58-9dac-d0d7baecef62"
-    sha256sum: "71ec5ad60376749692f62712021ac1f8b6fd9b288f4398b0a989cb2b804482e1"
+    id: "b367b394-17db-6fbd-f49b-691b42e83636"
+    sha256sum: "1815bd5185fbbfe2196052514a4b2fdfde4dda978a416c44e29ad099e1c809ef"
     langid: "wiktionary.el"
     type: zipped-zim
   wiktionary.ps:
@@ -641,12 +641,12 @@ all:
     langid: "wikiversity.el"
     description: "Από Βικιεπιστήμιο"
     name: Βικιεπιστήμιο
-    version: "2016-08-09"
+    version: "2017-03-02"
     language: "ell"
-    id: "4fc870e7-edb7-6aaa-4997-2d686961d234"
-    url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_el_all_2016-08.zip"
-    size: 205231085
-    sha256sum: "dbdf87e6d4236d74e70a841b902c439f3f8d41c2bb3d4d90590d18ce088ff99d"
+    id: "d72cc8d9-26f1-ef5a-f473-25b6000683f6"
+    url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_el_all_2017-03.zip"
+    size: 205183815
+    sha256sum: "32289c289676e4e7d41996e413039883240b43b792e05d5022f154103d4b3e41"
     type: zipped-zim
   wikibooks.fa:
     langid: "wikibooks.fa"
@@ -696,23 +696,23 @@ all:
     langid: "wikiquote.en"
     description: The free quote compendium.
     name: Wikiquote
-    version: "2016-08-08"
+    version: "2017-03-01"
     language: "eng"
-    id: "63eb97ae-9d12-a57b-7ebe-2a5e3701d543"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_en_all_2016-08.zip"
-    size: 696647939
-    sha256sum: "ec7699400845c2485a0a6125cc1452042d975b63f1dd7f5c42749c3464adac32"
+    id: "bad5ba71-5517-e459-f782-406802628afb"
+    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_en_all_2017-03.zip"
+    size: 705725790
+    sha256sum: "79b87cc19f16cefa9ef0294f92e0d2f67f6a8cacea677a8893163f6569dd5475"
     type: zipped-zim
   wikiquote.el:
     langid: "wikiquote.el"
     description: "Από Βικιφθέγματα"
     name: Βικιφθέγματα
-    version: "2016-08-08"
+    version: "2017-03-01"
     language: "ell"
-    id: "5f97f10e-018a-725b-3e32-4dc01c86563e"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_el_all_2016-08.zip"
-    size: 206275707
-    sha256sum: "1cd4b3d70402b54226fc149fa444814d4769348647a12b7a752ed012575c2b08"
+    id: "d8a2a44d-2a24-dd3a-6fad-fb42942e005d"
+    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_el_all_2017-03.zip"
+    size: 204291744
+    sha256sum: "1fe50bfbea96fc6fca235a38a9ad483a650259c4e01c8856b3570f029748ed49"
     type: zipped-zim
   biologie-tout-compris.fr:
     langid: "biologie-tout-compris.fr"
@@ -817,12 +817,12 @@ all:
     langid: "wikiquote.es"
     description: "De Wikiquote, la colección libre de citas y frases célebres."
     name: Wikiquote
-    version: "2016-08-08"
+    version: "2017-03-02"
     language: "spa"
-    id: "9a0c0b36-1135-3eab-220a-409911aabd5b"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_es_all_2016-08.zip"
-    size: 278773135
-    sha256sum: "2986f34ac75fe1abe0ce5edbb6597d9df8feed555336e00c8f6a81d994608552"
+    id: "de6acca9-930f-cec7-cd6b-216b0c3efc33"
+    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_es_all_2017-03.zip"
+    size: 275932725
+    sha256sum: "6ce59544b3c90bd4b88c7f99476b74c54f41a20679430a610c340257ef0352e0"
     type: zipped-zim
   wikisource.es:
     langid: "wikisource.es"
