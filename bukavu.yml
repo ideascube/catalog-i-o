@@ -4,7 +4,7 @@ all:
     description: "Cette collection comprend des vidéos, des MOOC et des articles de recherche sur les enjeux modernes de la macroéconomie. Le MOOC sur la mondialisation, créé par Sciences Po, traite notamment des enjeux internationaux de la macroéonomie, à travers une approche pluridisciplinaire qui mêle droit, histoire, économie, anthropologie, sciences politiques et géographie."
     language: fr
     version: '2017-03-20'
-    url: http://packages.ideascube.org/bukavu/macroeconomie-fr-adultes.zip
+    url: http://192.168.3.91:8000/macroeconomie-fr-adultes.zip
     size: 873668571
     sha256sum: f7dfd6e1bdf289653932900d22fc0e658dc70cd26dc2edc2c68128c228dfb448
     type: zipped-medias
@@ -13,7 +13,7 @@ all:
     description: "Cette collection de contenus comprend des vidéos pédagogiques et des entretiens avec des chercheurs en géographie : elle traite des enjeux géopolitiques en Afrique à travers des études de cas. Elle s'adresse aux étudiants en sciences humaines et sociales."
     language: fr
     version: '2017-03-20'
-    url: http://packages.ideascube.org/bukavu/introduction-geographie-afrique-fr-adultes.zip
+    url: http://192.168.3.91:8000/introduction-geographie-afrique-fr-adultes.zip
     size: 1267688840
     sha256sum: 35dacd66a677151b058abf18d27f5bda49df07594f9aa79b4b30a8df57c5af91
     type: zipped-medias
@@ -22,7 +22,7 @@ all:
     description: "Cette collection de contenus comprend des vidéos et des entretiens de chercheurs sur des domaines variés de la physique et de la chimie. Elle couvre des sujets variés de la mécanique à la physique quantique, dans une approche pédagogique qui rendra les enjeux scientifiques de ces doamines de recherche accessibles à tous les étudiants en sciences."
     language: fr
     version: '2017-03-20'
-    url: http://packages.ideascube.org/bukavu/introduction-chimie-physique-fr-adultes.zip
+    url: http://192.168.3.91:8000/introduction-chimie-physique-fr-adultes.zip
     size: 2189890204
     sha256sum: e8288d7e1c466dad42b058a2dd9e53924863f42b0e3ffd5c916e27940d5cb2d1
     type: zipped-medias
@@ -31,7 +31,7 @@ all:
     description: "Cette collection de contenus comprend des vidéos et des entretiens de chercheurs sur des domaines variés de la biologie et de la chimie : de la biologie moléculaire aux neurosciences. Elle s'adresse aux étudiants en biologie, en chimie, en médecine et en soins infirmiers."
     language: fr
     version: '2017-03-20'
-    url: http://packages.ideascube.org/bukavu/introduction-biologie-chimie-fr-adultes.zip
+    url: http://192.168.3.91:8000/introduction-biologie-chimie-fr-adultes.zip
     size: 473707712
     sha256sum: 415137f79317dbdb9d2ac4144a37ad303af1c868cb0abe6b987f7bbe5bb38d00
     type: zipped-medias
@@ -40,7 +40,7 @@ all:
     description: "Ce MOOC sur les droits de l'homme, créé par l'Université de Genève, s'adresse aux praticiens, comme aux étudiants en droit, en politique, en relations internationales et en géopolitique. Des interventions de représentants des différents organes et institutions de protection des droits de l'homme, et des spécialistes de la communauté académique, permettent également d'éclairer tous les enjeux juridiques de la protection de l'homme."
     language: fr
     version: '2017-03-20'
-    url: http://packages.ideascube.org/bukavu/introduction-droits-de-lhomme-fr-adultes.zip
+    url: http://192.168.3.91:8000/introduction-droits-de-lhomme-fr-adultes.zip
     size: 1099570889
     sha256sum: fbee26fa2601c209e0c517f0371ec9bbbf3f59c1a8f199719aaf0fa2c750307b
     type: zipped-medias
@@ -49,7 +49,7 @@ all:
     description: "Cette collection comprend des vidéos et des articles de recherche qui reviennent sur les fondamentaux de l'économie : de la microéconomie, à la macroéconomie, en passant par les enjeux géopoliques, écologiques et sociologiques des mécanismes économiques mondiaux. Elle s'adresse aux étudiants en économie, mais également aux étudiants curieux des liens entre économie et société."
     language: fr
     version: '2017-03-20'
-    url: http://packages.ideascube.org/bukavu/fondamentaux-economie-fr-adultes.zip
+    url: http://192.168.3.91:8000/fondamentaux-economie-fr-adultes.zip
     size: 1131501034
     sha256sum: 686abaa82faaf3de103ee89c408d5d3dd1fc897a8d0f99f8ab1ac637acdb4c6d
     type: zipped-medias
@@ -58,7 +58,7 @@ all:
     description: "Cette collection comprend des vidéos pédagogiques sur les fondamentaux de la comptabilité et de la gestion. Elle revient sur des techniques et méthodologies de base à destination principalement des étudiants en premier cycle de l'enseignement supérieur en gestion, en comptabilité et en administration des entreprises."
     language: fr
     version: '2017-03-20'
-    url: http://packages.ideascube.org/bukavu/comptabilite-fr-adultes.zip
+    url: http://192.168.3.91:8000/comptabilite-fr-adultes.zip
     size: 62293454
     sha256sum: 98674216407cc74da9b81a90f83678500a5e1e767e3a00a16e83f4500596eba1
     type: zipped-medias
@@ -67,7 +67,7 @@ all:
     description: "Cette collection se focalise tout particulièrement sur les liens entre économie et enjeux environnementaux. Des vidéos et des articles de recherche éclairent la question des mécanismes sous-jacents aux enjeux économiques et géopolitiques de la gestion des ressources naturelles."
     language: fr
     version: '2017-03-20'
-    url: http://packages.ideascube.org/bukavu/economie-environnement-fr-adultes.zip
+    url: http://192.168.3.91:8000/economie-environnement-fr-adultes.zip
     size: 125211851
     sha256sum: 3666066bf340bb79b4c1dbf8a590a8ab3d759ed7c248f98565c7db5ca96d583d
     type: zipped-medias
@@ -76,7 +76,7 @@ all:
     description: "Cette collection comprend des vidéos et des articles de recherche sur les enjeux de l'agriculture en Afrique moderne, et les liens entre macroéconomie et agriculture. La culture, comme l'élevage, y sont abordés, sous une approche économique, sociologique et écologique."
     language: fr
     version: '2017-03-20'
-    url: http://packages.ideascube.org/bukavu/agronomie-fr-adultes.zip
+    url: http://192.168.3.91:8000/agronomie-fr-adultes.zip
     size: 131694449
     sha256sum: d7cedcb596f57bf18bfd3071a14ba24b5f7b45152b4ca2daf0c812d390bf8c5b
     type: zipped-medias
@@ -85,7 +85,7 @@ all:
     description: "Ce MOOC sur le droit international et le droit comparé, créé par l'Ecole normale supérieure, permet d'introduire les étudiants en droit et en relations internationales, aux problématiques contemporaines du droit international et du droit comparé."
     language: fr
     version: '2017-03-20'
-    url: http://packages.ideascube.org/bukavu/introduction-droits-international-fr-adultes.zip
+    url: http://192.168.3.91:8000/introduction-droits-international-fr-adultes.zip
     size: 2091981094
     sha256sum: f32d3378895e45cb04d2a00044c6974a6bbb685814b076063a58a35b83b20fe2
     type: zipped-medias
@@ -94,7 +94,7 @@ all:
     description: "Ces vidéos, à l'attention des étudiants en littérature, des futurs enseignants et éducateurs et des étudiants en journalisme, traitent des enjeux de la diffusion des langues dans un contexte de mondialisation. Plus particulièrement, cette collection s'intéresse à la francophonie avec un focus particulier sur l'Afrique."
     language: fr
     version: '2017-03-20'
-    url: http://packages.ideascube.org/bukavu/langue-francaise-fr-adultes.zip
+    url: http://192.168.3.91:8000/langue-francaise-fr-adultes.zip
     size: 880888538
     sha256sum: de98ceb393bb72872a76d1eba75191ec013e45d7245f999af6d08d4434ed8a36
     type: zipped-medias
@@ -103,7 +103,7 @@ all:
     description: "Cette collection comprend des vidéos, des MOOC et des articles de recherche qui traitent des défis environnements africains et mondiaux. Y sont abordés les questions énergétiques, la gestion des ressources naturelles et les enjeux de la biodiversité sous un angle économique, politique et géographique."
     language: fr
     version: '2017-03-20'
-    url: http://packages.ideascube.org/bukavu/environnement-fr-adultes.zip
+    url: http://192.168.3.91:8000/environnement-fr-adultes.zip
     size: 1441737064
     sha256sum: 35c511e4b3e2387e7bfa6807167ff40dc0612877cac13a5e882dd9518722f970
     type: zipped-medias
