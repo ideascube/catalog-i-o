@@ -39,10 +39,10 @@ all:
     name: Droits de l’homme
     description: "Ce MOOC sur les droits de l'homme, créé par l'Université de Genève, s'adresse aux praticiens, comme aux étudiants en droit, en politique, en relations internationales et en géopolitique. Des interventions de représentants des différents organes et institutions de protection des droits de l'homme, et des spécialistes de la communauté académique, permettent également d'éclairer tous les enjeux juridiques de la protection de l'homme."
     language: fr
-    version: '2017-03-20'
+    version: '2017-03-28'
     url: http://192.168.3.91:8000/introduction-droits-de-lhomme-fr-adultes.zip
-    size: 1099570889
-    sha256sum: fbee26fa2601c209e0c517f0371ec9bbbf3f59c1a8f199719aaf0fa2c750307b
+    size: 1170443541
+    sha256sum: b05acc186c03dfbe710965e40b771ba263966c8f759b3e083a03a3deed472de5
     type: zipped-medias
   fondamentaux-economie-fr-adultes:
     name: Fondamentaux de l’économie
