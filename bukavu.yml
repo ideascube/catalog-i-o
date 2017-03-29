@@ -57,10 +57,10 @@ all:
     name: Comptabilité
     description: "Cette collection comprend des vidéos pédagogiques sur les fondamentaux de la comptabilité et de la gestion. Elle revient sur des techniques et méthodologies de base à destination principalement des étudiants en premier cycle de l'enseignement supérieur en gestion, en comptabilité et en administration des entreprises."
     language: fr
-    version: '2017-03-20'
+    version: '2017-03-28'
     url: http://192.168.3.91:8000/comptabilite-fr-adultes.zip
-    size: 62293454
-    sha256sum: 98674216407cc74da9b81a90f83678500a5e1e767e3a00a16e83f4500596eba1
+    size: 62293144
+    sha256sum: a8c9497633d8a2224890d9b5f45a102c9c92ad834be19031456c2fa7733b8dfe
     type: zipped-medias
   economie-environnement-fr-adultes:
     name: Économie de l’environnement
