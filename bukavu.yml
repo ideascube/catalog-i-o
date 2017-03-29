@@ -21,10 +21,10 @@ all:
     name: Les bases en physique-chimie
     description: "Cette collection de contenus comprend des vidéos et des entretiens de chercheurs sur des domaines variés de la physique et de la chimie. Elle couvre des sujets variés de la mécanique à la physique quantique, dans une approche pédagogique qui rendra les enjeux scientifiques de ces doamines de recherche accessibles à tous les étudiants en sciences."
     language: fr
-    version: '2017-03-20'
+    version: '2017-03-28'
     url: http://192.168.3.91:8000/introduction-chimie-physique-fr-adultes.zip
-    size: 2189890204
-    sha256sum: e8288d7e1c466dad42b058a2dd9e53924863f42b0e3ffd5c916e27940d5cb2d1
+    size: 2162523470
+    sha256sum: dd04997fc70fd0c39b9ceaad296b3e0b413dcc39f3519abda54fecb79d1aeb04
     type: zipped-medias
   introduction-biologie-chimie-fr-adultes:
     name: Les bases en biologie et en chimie
