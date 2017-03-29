@@ -75,10 +75,10 @@ all:
     name: Agronomie
     description: "Cette collection comprend des vidéos et des articles de recherche sur les enjeux de l'agriculture en Afrique moderne, et les liens entre macroéconomie et agriculture. La culture, comme l'élevage, y sont abordés, sous une approche économique, sociologique et écologique."
     language: fr
-    version: '2017-03-20'
+    version: '2017-03-28'
     url: http://192.168.3.91:8000/agronomie-fr-adultes.zip
-    size: 131694449
-    sha256sum: d7cedcb596f57bf18bfd3071a14ba24b5f7b45152b4ca2daf0c812d390bf8c5b
+    size: 131693687
+    sha256sum: e2409d815557af9f56109b0b9bda43dadaaa53bb610de9f55ce77ff67a0f1d83
     type: zipped-medias
   introduction-droits-international-fr-adultes:
     name: Droit international et droit comparé
