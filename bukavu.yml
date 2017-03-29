@@ -12,10 +12,10 @@ all:
     name: Géographie
     description: "Cette collection de contenus comprend des vidéos pédagogiques et des entretiens avec des chercheurs en géographie : elle traite des enjeux géopolitiques en Afrique à travers des études de cas. Elle s'adresse aux étudiants en sciences humaines et sociales."
     language: fr
-    version: '2017-03-20'
+    version: '2017-03-28'
     url: http://192.168.3.91:8000/introduction-geographie-afrique-fr-adultes.zip
-    size: 1267688840
-    sha256sum: 35dacd66a677151b058abf18d27f5bda49df07594f9aa79b4b30a8df57c5af91
+    size: 1267686995
+    sha256sum: b0762d651c582a372d863b5dac50c70b667b38e13489d544bfbad3d65f1d26d5
     type: zipped-medias
   introduction-chimie-physique-fr-adultes:
     name: Les bases en physique-chimie
