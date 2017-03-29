@@ -84,10 +84,10 @@ all:
     name: Droit international et droit comparé
     description: "Ce MOOC sur le droit international et le droit comparé, créé par l'Ecole normale supérieure, permet d'introduire les étudiants en droit et en relations internationales, aux problématiques contemporaines du droit international et du droit comparé."
     language: fr
-    version: '2017-03-20'
+    version: '2017-03-28'
     url: http://192.168.3.91:8000/introduction-droits-international-fr-adultes.zip
-    size: 2091981094
-    sha256sum: f32d3378895e45cb04d2a00044c6974a6bbb685814b076063a58a35b83b20fe2
+    size: 2091979687
+    sha256sum: 754a4601fddba1cc81935d4a6199fa8ec27ec9926e6e8265dec47231db1355c1
     type: zipped-medias
   langue-francaise-fr-adultes:
     name: Diffusion des langues
