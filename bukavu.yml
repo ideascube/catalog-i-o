@@ -30,10 +30,10 @@ all:
     name: Les bases en biologie et en chimie
     description: "Cette collection de contenus comprend des vidéos et des entretiens de chercheurs sur des domaines variés de la biologie et de la chimie : de la biologie moléculaire aux neurosciences. Elle s'adresse aux étudiants en biologie, en chimie, en médecine et en soins infirmiers."
     language: fr
-    version: '2017-03-20'
+    version: '2017-03-28'
     url: http://192.168.3.91:8000/introduction-biologie-chimie-fr-adultes.zip
-    size: 473707712
-    sha256sum: 415137f79317dbdb9d2ac4144a37ad303af1c868cb0abe6b987f7bbe5bb38d00
+    size: 454860039
+    sha256sum: 0a7675a70fc7834fa17b27a72a0e5000c15d9c87b197f275b75cfecd09f53144
     type: zipped-medias
   introduction-droits-de-lhomme-fr-adultes:
     name: Droits de l’homme
