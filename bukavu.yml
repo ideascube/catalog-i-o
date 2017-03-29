@@ -102,8 +102,8 @@ all:
     name: Environnement
     description: "Cette collection comprend des vidéos, des MOOC et des articles de recherche qui traitent des défis environnements africains et mondiaux. Y sont abordés les questions énergétiques, la gestion des ressources naturelles et les enjeux de la biodiversité sous un angle économique, politique et géographique."
     language: fr
-    version: '2017-03-20'
+    version: '2017-03-28'
     url: http://192.168.3.91:8000/environnement-fr-adultes.zip
-    size: 1441737064
-    sha256sum: 35c511e4b3e2387e7bfa6807167ff40dc0612877cac13a5e882dd9518722f970
+    size: 1441733123
+    sha256sum: 0b247d907f52910bd5a0d0936e2aaa26e093650bfe653c705a82b1670bd5ab98
     type: zipped-medias
