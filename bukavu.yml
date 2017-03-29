@@ -48,10 +48,10 @@ all:
     name: Fondamentaux de l’économie
     description: "Cette collection comprend des vidéos et des articles de recherche qui reviennent sur les fondamentaux de l'économie : de la microéconomie, à la macroéconomie, en passant par les enjeux géopoliques, écologiques et sociologiques des mécanismes économiques mondiaux. Elle s'adresse aux étudiants en économie, mais également aux étudiants curieux des liens entre économie et société."
     language: fr
-    version: '2017-03-20'
+    version: '2017-03-28'
     url: http://192.168.3.91:8000/fondamentaux-economie-fr-adultes.zip
-    size: 1131501034
-    sha256sum: 686abaa82faaf3de103ee89c408d5d3dd1fc897a8d0f99f8ab1ac637acdb4c6d
+    size: 1131500443
+    sha256sum: 228c70106f30efc9069ef65e8c0f278bb387c0517d71cc273ca0a1d0aa097d17
     type: zipped-medias
   comptabilite-fr-adultes:
     name: Comptabilité
