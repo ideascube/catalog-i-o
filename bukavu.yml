@@ -66,10 +66,10 @@ all:
     name: Économie de l’environnement
     description: "Cette collection se focalise tout particulièrement sur les liens entre économie et enjeux environnementaux. Des vidéos et des articles de recherche éclairent la question des mécanismes sous-jacents aux enjeux économiques et géopolitiques de la gestion des ressources naturelles."
     language: fr
-    version: '2017-03-28'
+    version: '2017-03-30'
     url: http://192.168.3.91:8000/economie-environnement-fr-adultes.zip
-    size: 125211063
-    sha256sum: 1a197b818da53ae5559e1cb1ef031f5d9843c2f08e455042b33aa951d676fd58
+    size: 125211062
+    sha256sum: a51a70aed9d9aa401328327f446e7da7f05b1d9e70161a8f848d4c6ad45e96b2
     type: zipped-medias
   agronomie-fr-adultes:
     name: Agronomie
