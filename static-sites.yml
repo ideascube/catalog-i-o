@@ -1,4 +1,20 @@
 all:
+  sabelotodo.es:
+    name: Sabelotodo.org, la web del saber
+    version: 2017-03-29
+    description: Ser cultos para sel libres.
+    url: http://packages.ideascube.org/static-sites/sabelotodo.zip
+    sha256sum: 9942e975e3f5c62bf942779569111b28a34b7533ace28368499e0d593cfb7092
+    size: 68706488
+    type: static-site
+  icarito.es:
+    name: Icarito
+	description: Descarga fichas de estudio, galerías de fotos, ilustraciones y videos.
+    version: 2017-03-29
+    url: http://packages.ideascube.org/static-sites/icarito.zip
+    sha256sum: 5395b9146b5f012fefd563eb49746784b1e6cf84d5ac597376401bdef99c890e
+    size: 30268090
+    type: static-site
   w2eu:
     name: Welcome to Europe refugees website
     version: 2017-01-04
