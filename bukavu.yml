@@ -107,3 +107,12 @@ all:
     size: 1441733123
     sha256sum: 0b247d907f52910bd5a0d0936e2aaa26e093650bfe653c705a82b1670bd5ab98
     type: zipped-medias
+  cam-ani:
+    name: cam-ani
+    description: Contenus CAM ANI
+    language: fr
+    version: '2017-03-31'
+    url: http://packages.ideascube.org/bukavu/cam-ani.zip
+    size: 13169942889
+    sha256sum: 125e9e158be63a85b259d2c35541415204610f904a785081bdef0f4a1fae6924
+    type: zipped-medias
