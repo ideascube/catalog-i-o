@@ -1,4 +1,15 @@
 all:
+  wikipedia.pl:
+    name: Wikipedia
+    description: "Z Wikipedii, wolnej encyklopedii"
+    version: "2016-12-25"
+    language: "pol"
+    id: "09f077ca-a8c5-1d00-a800-fd0167b32045"
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_pl_all_2016-12.zip"
+    size: 13898397777
+    sha256sum: "dfd2eeb711889d4927a3eb5b225ff2769337c79b7c75041f9949d9d0597c05d5"
+    type: zipped-zim
+    langid: "wikipedia.pl"
   wiktionary.ti:
     name: Wiktionary
     description: "From Wiktionary"
