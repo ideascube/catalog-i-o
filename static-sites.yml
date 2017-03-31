@@ -9,7 +9,7 @@ all:
     type: static-site
   icarito.es:
     name: Icarito
-	description: Descarga fichas de estudio, galerías de fotos, ilustraciones y videos.
+    description: Descarga fichas de estudio, galerías de fotos, ilustraciones y videos.
     version: 2017-03-29
     url: http://packages.ideascube.org/static-sites/icarito.zip
     sha256sum: 5395b9146b5f012fefd563eb49746784b1e6cf84d5ac597376401bdef99c890e
