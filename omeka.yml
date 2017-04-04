@@ -39,8 +39,8 @@ all:
     name: Sikana Jedzenie
     description: Pobudź swoje kubki smakowe. Gotuj zgodnie ze swoją dietą i wybierz to, co Ci smakuje. Czerp przyjmność z dzielenia się.
     language: pl
-    version: '2017-04-04'
+    version: '2017-04-05'
     url: http://packages.ideascube.org/omeka/cuisine-pl.zip
     size: 378261254
-    sha256sum: 066c56b397b24289166f29041b6b0fbceee298abfca46ae10f9b2b01248d0251
+    sha256sum: 861b6d1a06865c9285df9a9ba019f5bc20e80dbae15f285b23d3e93b52be45d2
     type: zipped-medias
