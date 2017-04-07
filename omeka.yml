@@ -35,3 +35,12 @@ all:
     size: 210641073
     sha256sum: 63b0e12fea2c56ee7e136c48daba20114d41ca8e651da3f59b06d165da6df42e
     type: zipped-medias
+  musique-fr:
+    name: Musique
+    description: Pour découvrir de nouveaux styles musicaux ou écouter quelques morceaux !
+    language: fr
+    version: '2017-04-07'
+    url: http://packages.ideascube.org/omeka/musique-fr.zip
+    size: 465550914
+    sha256sum: 96599c416e64d6a256b5e1f9481973b7e4d42e9b6d99088ebf4ef01ddfe18d0b
+    type: zipped-medias
