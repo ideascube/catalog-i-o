@@ -1,31 +1,4 @@
 all:
-  omeka_dummy:
-    name: Omeka export test
-    description: This is a test package
-    language: fr
-    version: '2017-03-10'
-    url: http://packages.ideascube.org/omeka/omeka_dummy.zip
-    size: 703055774
-    sha256sum: 051a53650ba54b7861ca2bfee38a348ac8525f531adad02271c5949dc2207192
-    type: zipped-medias
-  omeka_dummy2:
-    name: Omeka export test 2
-    description: This is another test package
-    language: fr
-    version: '2017-03-10'
-    url: http://packages.ideascube.org/omeka/omeka_dummy2.zip
-    size: 227890658
-    sha256sum: 5e127bf45cfa36b3506ac6a982a55ebc601e4abcc22b55f8575e516fd7d39591
-    type: zipped-medias
-  omeka_dummy3:
-    name: Omeka export test 3
-    description: This is another test package
-    language: fr
-    version: '2017-03-10'
-    url: http://packages.ideascube.org/omeka/omeka_dummy3.zip
-    size: 158987562
-    sha256sum: 28d0d5376527e9cec73a87de6a758be7d4dfc39536cff2ffe40455c9990936c9
-    type: zipped-medias
   rfi_savoirs_inde:
     name: Geopolitique de l'Inde
     description: Série d'article et documents sonores diffusés sur https://savoirs.rfi.fr
