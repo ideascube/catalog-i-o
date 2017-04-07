@@ -44,3 +44,12 @@ all:
     size: 465550914
     sha256sum: 96599c416e64d6a256b5e1f9481973b7e4d42e9b6d99088ebf4ef01ddfe18d0b
     type: zipped-medias
+  citoyennete-et-politique-fr:
+    name: Citoyenneté et politique
+    description: Démocratie, politique, élection, gauche, droite... On en parle ?
+    language: fr
+    version: '2017-04-07'
+    url: http://packages.ideascube.org/omeka/citoyennete-et-politique-fr.zip
+    size: 104687577
+    sha256sum: b28508f2c250eff479055dd5a4780d4302ece096c5f029a591de6f57aa0d65f2
+    type: zipped-medias
