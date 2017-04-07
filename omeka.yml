@@ -62,3 +62,12 @@ all:
     size: 240113100
     sha256sum: a894bad700bf6510b53a16ce81c0fe21e2defb58d3d9676bb5577ba0e1bb243d
     type: zipped-medias
+  cuisine-et-nutrition-fr:
+    name: Cuisine et nutrition
+    description: Qu'est ce que nous mangeons ? Qu'est ce que les autres mangent ? Et qu'est ce que "bien manger" ?
+    language: fr
+    version: '2017-04-07'
+    url: http://packages.ideascube.org/omeka/cuisine-et-nutrition-fr.zip
+    size: 2492636106
+    sha256sum: 0eac82bab8db3d9b7591be92eb003fc7b4b65e83fa034c2984ce9744a4af1e51
+    type: zipped-medias
