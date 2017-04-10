@@ -80,3 +80,14 @@ all:
     size: 1555161335
     sha256sum: 5c37d47178dc53ae938ec40b442de0cdfa3df6e18636ca314f2ef53de13e56d0
     type: zipped-medias
+  fictions-divertissements-ar:
+    name: خيال - fictions et divertissement en arabe
+    description: "مسلسل
+شعر
+قصص"
+    language: ar
+    version: '2017-04-10'
+    url: http://packages.ideascube.org/omeka/fiction-divertissements-ar.zip
+    size: 2320165632
+    sha256sum: aacac20bb6418eec9048098d90ea268ce9b02cb8a8638c68406003436da8a5c4
+    type: zipped-medias
