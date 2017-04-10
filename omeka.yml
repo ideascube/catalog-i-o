@@ -118,3 +118,13 @@ all:
     size: 115935484
     sha256sum: 4ae3f2120ecb9243e6b8eca9c3f279e6202b57bdae371e36f9acc836ad1ec364
     type: zipped-medias
+  dessin-et-origami-fr:
+    name: Dessin et origami
+    description: Détendez-vous, créez, exprimez-vous ! Il y a un artiste dans chacun, à vous de le révéler...
+    language: fr
+    version: '2017-04-10'
+    url: http://packages.ideascube.org/omeka/dessin-et-origami-fr.zip
+    size: 994393331
+    sha256sum: 2a7a842b6391497cd5f1af5c45f940052289de5f0f3a9dfb97feeec733f5995e
+    type: zipped-medias
+
