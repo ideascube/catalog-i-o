@@ -127,4 +127,12 @@ all:
     size: 994393331
     sha256sum: 2a7a842b6391497cd5f1af5c45f940052289de5f0f3a9dfb97feeec733f5995e
     type: zipped-medias
-
+  musique-ar:
+    name: موسيقى - musique en arabe
+    description: الاسترخاء والاستماع إلى الموسيقى
+    language: ar
+    version: '2017-04-10'
+    url: http://packages.ideascube.org/omeka/musique-ar.zip
+    size: 177985584
+    sha256sum: 6572d24eeeefa1233f1d10fc59704e20d647349d6c35cbcd7c1b01a782b197b3
+    type: zipped-medias
