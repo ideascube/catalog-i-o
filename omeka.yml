@@ -71,3 +71,12 @@ all:
     size: 2492636106
     sha256sum: 0eac82bab8db3d9b7591be92eb003fc7b4b65e83fa034c2984ce9744a4af1e51
     type: zipped-medias
+  discriminations-fr:
+    name: Discriminations
+    description: Handicap, genre, couleurs de peau, religion... La discrimination peut porter sur des tas de choses. Détectons les, et combattons les.
+    language: fr
+    version: '2017-04-10'
+    url: http://packages.ideascube.org/omeka/discriminations-fr.zip
+    size: 1555161335
+    sha256sum: 5c37d47178dc53ae938ec40b442de0cdfa3df6e18636ca314f2ef53de13e56d0
+    type: zipped-medias
