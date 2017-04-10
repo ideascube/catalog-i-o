@@ -154,3 +154,12 @@ all:
     size: 936231718
     sha256sum: 2111e9e567686ab239ad5605558b070ce3cb34469209f89a194d7b6a69e3ac7d
     type: zipped-medias
+  photographie-fr:
+    name: Photographie
+    description: Vous souhaitez vous lancer, faire quelques photographies, mais vous avez besoin d'aide ? C'est ici !
+    language: fr
+    version: '2017-04-10'
+    url: http://packages.ideascube.org/omeka/photographie-fr.zip
+    size: 864347075
+    sha256sum: 37ed6c1d5cfb94506836fe1f9fd2ce45cb4d9410659b46bbaba010f48031d3a4
+    type: zipped-medias
