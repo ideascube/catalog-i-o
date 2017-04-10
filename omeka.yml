@@ -145,3 +145,12 @@ all:
     size: 98487427
     sha256sum: dcb4ee227d0ebd359b3cee561177948be8d4b62841b7ee42618470326e2823b6
     type: zipped-medias
+  bien-etre-dev-perso-communication-fr:
+    name: Bien-être, développement personnel, communication avec les autres
+    description: Détendez-vous. Respirez. Accueillez vos émotions. Exprimez vos besoins. Vous serez mieux avec vous même et avec les autres !
+    language: fr
+    version: '2017-04-10'
+    url: http://packages.ideascube.org/omeka/bien-etre-dev-perso-communication-fr.zip
+    size: 936231718
+    sha256sum: 2111e9e567686ab239ad5605558b070ce3cb34469209f89a194d7b6a69e3ac7d
+    type: zipped-medias
