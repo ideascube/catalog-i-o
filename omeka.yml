@@ -8,8 +8,8 @@ all:
     size: 233236241
     sha256sum: df20c5b055ec204e2bec0a3c8afe8832b4a5ce7d63ad6e9ee1cb1fe8aad6d787
     type: zipped-medias
-  cuisine_pl:
-    name: Sikana Jedzenie
+  cuisine-pl:
+    name: Gotowanie - Cuisine en polonais
     description: Pobudź swoje kubki smakowe. Gotuj zgodnie ze swoją dietą i wybierz to, co Ci smakuje. Czerp przyjmność z dzielenia się.
     language: pl
     version: '2017-04-06'
