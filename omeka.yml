@@ -109,3 +109,12 @@ all:
     size: 1144337846
     sha256sum: fe1489ebd7d33d41dd9e766576511f521c31a3ef5f30acfd2dc1ecd35bece826
     type: zipped-medias
+  recherche-demploi-fr:
+    name: Recherche d'emploi
+    description: Vous cherchez un emploi ? Vous trouverez ici de quoi vous aider à préparer candidature et entretien d'embauche.
+    language: fr
+    version: '2017-04-10'
+    url: http://packages.ideascube.org/omeka/recherche-demploi-fr.zip
+    size: 115935484
+    sha256sum: 4ae3f2120ecb9243e6b8eca9c3f279e6202b57bdae371e36f9acc836ad1ec364
+    type: zipped-medias
