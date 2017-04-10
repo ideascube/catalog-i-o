@@ -163,3 +163,12 @@ all:
     size: 864347075
     sha256sum: 37ed6c1d5cfb94506836fe1f9fd2ce45cb4d9410659b46bbaba010f48031d3a4
     type: zipped-medias
+  cinema-et-creation-video-fr:
+    name: Cinéma et création vidéo
+    description: Initiez vous aux réflexions sur le cinéma et l'image, et lancez vous dans vos premières créations vidéos !
+    language: fr
+    version: '2017-04-10'
+    url: http://packages.ideascube.org/omeka/cinema-et-creation-video-fr.zip
+    size: 780255245
+    sha256sum: fd1953d94a2c833c9672b95eab8f811525827c8462a0b778e1082543b69f0d4b
+    type: zipped-medias
