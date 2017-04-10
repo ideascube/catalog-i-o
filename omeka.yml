@@ -136,3 +136,12 @@ all:
     size: 177985584
     sha256sum: 6572d24eeeefa1233f1d10fc59704e20d647349d6c35cbcd7c1b01a782b197b3
     type: zipped-medias
+  droits-et-demarches-administratives-fr:
+    name: Droits et démarches administratives
+    description: Retrouvez ici quelques guides pour vous aider à vous repérer dans le labyrinthe des démarches administratives. Pour défendre ses droits, il faut les connaître et les comprendre !
+    language: fr
+    version: '2017-04-10'
+    url: http://packages.ideascube.org/omeka/droits-et-demarches-administratives-fr.zip
+    size: 98487427
+    sha256sum: dcb4ee227d0ebd359b3cee561177948be8d4b62841b7ee42618470326e2823b6
+    type: zipped-medias
