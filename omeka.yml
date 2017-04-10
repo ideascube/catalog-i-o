@@ -91,3 +91,12 @@ all:
     size: 2320165632
     sha256sum: aacac20bb6418eec9048098d90ea268ce9b02cb8a8638c68406003436da8a5c4
     type: zipped-medias
+  apprentissage-francais-fr:
+    name: Apprentissage du français
+    description: Quelques bases pour progresser en français.
+    language: fr
+    version: '2017-04-10'
+    url: http://packages.ideascube.org/omeka/apprentissage-francais-fr.zip
+    size: 396689497
+    sha256sum: b6214bafc31c4e316467fdacae728f6323c3c17f8c6f750a250dc4e7715510ad
+    type: zipped-medias
