@@ -12,10 +12,10 @@ all:
     name: Gotowanie - Cuisine en polonais
     description: Pobudź swoje kubki smakowe. Gotuj zgodnie ze swoją dietą i wybierz to, co Ci smakuje. Czerp przyjmność z dzielenia się.
     language: pl
-    version: '2017-04-06'
+    version: '2017-04-13'
     url: http://packages.ideascube.org/omeka/cuisine-pl.zip
-    size: 378257048
-    sha256sum: 3b9817698c48cb1afcfd319f0982f1b7d1528e18a3dfcecb4aab7a5d3f08e47c
+    size: 403031790
+    sha256sum: 53e5bc2da9f79b27b54cd842dd478ea3d21e258e217dc9e831aa7954c938f0be
     type: zipped-medias
   sport-football-fr:
     name: Sports
