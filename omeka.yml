@@ -158,10 +158,10 @@ all:
     name: Photographie
     description: Vous souhaitez vous lancer, faire quelques photographies, mais vous avez besoin d'aide ? C'est ici !
     language: fr
-    version: '2017-04-10'
+    version: '2017-04-14'
     url: http://packages.ideascube.org/omeka/photographie-fr.zip
-    size: 864347075
-    sha256sum: 37ed6c1d5cfb94506836fe1f9fd2ce45cb4d9410659b46bbaba010f48031d3a4
+    size: 337891983
+    sha256sum: a1111c4b539e4aa52dc3e5a02c3eede62eb07807c89c1b16e198ef66fdf964df
     type: zipped-medias
   cinema-et-creation-video-fr:
     name: Cinéma et création vidéo
