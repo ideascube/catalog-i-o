@@ -1,4 +1,12 @@
 all:
+  help.unhcr.org:
+    name: Help UNHCR in Greece
+    version: 2017-03-29
+    description: website for refugees and asylum seekers in Greece.
+    url: http://packages.ideascube.org/static-sites/help.unhcr.org/help.unhcr.org.zip
+    sha256sum: 920b554617b8c94c93b02be1217836431d2808dd21ee3949da2af6df37286d6d
+    size: 2475849
+    type: static-site
   sabelotodo.es:
     name: Sabelotodo.org, la web del saber
     version: 2017-03-29
