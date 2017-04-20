@@ -25,12 +25,12 @@ all:
     type: static-site
   w2eu:
     name: Welcome to Europe refugees website
-    version: 2017-01-04
+    version: 2017-04-20
     url: http://packages.ideascube.org/w2eu/w2eu.zip
-    sha256sum: d532f686db604159e6bce3e854b16f911ab3cee8cf3f6c3d2a709ab2da35fa84
-    size: 129450802
+    sha256sum: cb803574fd5e91876603ea62fe12df0aca6f2dbccf82fc33aee9e48e7b1ccd8a
+    size: 128787858
     type: static-site
-    dump: httrack http://w2eu.info/ && cd w2eu.info && zip -r w2eu.zip .
+    dump: wget --verbose --mirror --no-clobber --page-requisites --adjust-extension --convert-links --restrict-file-names=windows --no-parent -e robots=off --wait=0 --random-wait -U mozilla --directory-prefix=/home/florian/Téléchargements/sites/ --waitretry=5  http://w2eu.info/ && cd w2eu.info && zip -r w2eu.zip .
   clickinfoado.sn:
     name: Click Info Ado
     version: 2016-04-21
