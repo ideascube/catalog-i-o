@@ -1,5 +1,5 @@
 all:
-  historia.es:
+  historia-precolombiana.es:
     name: Historia
     version: "2016-11-29"
     url: http://packages.ideascube.org/culturegenerale_histoire_espagnol_adultes-adolescents-enfants.zip
