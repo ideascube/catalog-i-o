@@ -1,4 +1,13 @@
 all:
+  impresiones-de-un-viaje.es:
+    description: "Esta edición digital de ''Impresiones de un viaje a America'' ofrece múltiples caminos para la lectura y exploración de las memorias del escritor español José María Gutiérrez de Alba, residente en Colombia entre 1870 y 1884."
+    language: "es"
+    name: "Imágenes y relatos de un viaje por Colombia"
+    sha256sum: b4b4e0dff4335686838521b2bba4ebce2d320b2ea19c9f2e3dd96f04aadaf7ed
+    size: 101887543
+    type: static-site
+    url: http://packages.ideascube.org/impresiones-de-un-viaje.zip
+    version: '2017-05-10'
   hecho-de-paz.es:
     description: "Hablar de la paz en Colombia no presupone la ausencia de conflictos ni la existencia de un modelo del que podamos copiarla. Además de la voluntad política y de los cambios sociales que se requieren para generar procesos de paz, también necesitamos palabras para nombrar esa realidad e imágenes para imaginarla. Este es el propósito del proyecto La paz se toma la palabra."
     language: "es"
