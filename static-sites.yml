@@ -1,4 +1,13 @@
 all:
+  hecho-de-paz.es:
+    description: "La línea de hechos de paz disponible en la presente página comienza con la solución al conflicto de la Guerra de los Mil Días y llega hasta las conversaciones que tienen hoy asiento en La Habana. La escogencia de estos hechos es más que una selección de tratados y conversaciones para poner fin a la larga lista de guerras y conflictos de nuestra historia. Lo que busca es generar un contexto a través de hechos específicos que nos permitan entender nuestra historia y nuestro papel como ciudadanos en el posconflicto."
+    language: "es"
+    name: "El proyecto Hechos de paz"
+    sha256sum: 64b3f7a813ac9c830df1f2c06f7f32afd8727e5a9120cdb87d9105f4eeb6669b
+    size: 171103843
+    type: static-site
+    url: http://packages.ideascube.org/hechos-de-paz.zip
+    version: '2017-05-10'
   help.unhcr.org:
     name: UNHCR - Finding Help in Greece
     version: 2017-04-19
