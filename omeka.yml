@@ -172,3 +172,15 @@ all:
     size: 780255245
     sha256sum: fd1953d94a2c833c9672b95eab8f811525827c8462a0b778e1082543b69f0d4b
     type: zipped-medias
+  manual-ideascube-all:
+    name: Ideascube Manual
+    description: |
+      - Ideascube user manual
+      - Manuel d'utilisation d'Ideascube
+      - ‫‪Ideascube‬‬ ‫ة‬ ‫ب‬ ‫ا‬ ‫و‬ ‫ب‬
+    language: en
+    version: '2017-05-11'
+    url: http://packages.ideascube.org/omeka/manual-ideascube-all.zip
+    size: 5695954
+    sha256sum: a7389ffc3a5eed068721e33279a3564847d782de49cba75c7b0f9640cab06ef1
+    type: zipped-medias
