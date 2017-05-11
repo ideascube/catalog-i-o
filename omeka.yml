@@ -175,8 +175,8 @@ all:
   manual-ideascube-all:
     name: Ideascube Manual
     description: |
-      - Ideascube user manual
-      - Manuel d'utilisation d'Ideascube
+      - Ideascube user manual.<BR>
+      - Manuel d'utilisation d'Ideascube.<BR>
       - ‫‪Ideascube‬‬ ‫ة‬ ‫ب‬ ‫ا‬ ‫و‬ ‫ب‬
     language: en
     version: '2017-05-12'
