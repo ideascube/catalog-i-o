@@ -174,10 +174,10 @@ all:
     type: zipped-medias
   manual-ideascube-all:
     name: Ideascube Manual
-    description: |
-      - Ideascube user manual.<BR>
-      - Manuel d'utilisation d'Ideascube.<BR>
-      - ‫‪Ideascube‬‬ ‫ة‬ ‫ب‬ ‫ا‬ ‫و‬ ‫ب‬
+    description: |+
+       Manuel d'utilisation d'Ideascube.
+       Ideascube user manual.
+       ‫‪Ideascube‬‬‫ة‬‫ب‬‫ا‬‫و‬‫ب‬
     language: en
     version: '2017-05-12'
     url: http://packages.ideascube.org/omeka/manual-ideascube-all.zip
