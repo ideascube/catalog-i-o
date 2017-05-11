@@ -179,8 +179,8 @@ all:
       - Manuel d'utilisation d'Ideascube
       - ‫‪Ideascube‬‬ ‫ة‬ ‫ب‬ ‫ا‬ ‫و‬ ‫ب‬
     language: en
-    version: '2017-05-11'
+    version: '2017-05-12'
     url: http://packages.ideascube.org/omeka/manual-ideascube-all.zip
-    size: 5695954
-    sha256sum: a7389ffc3a5eed068721e33279a3564847d782de49cba75c7b0f9640cab06ef1
+    size: 5733392
+    sha256sum: cd792f8b433a2ffec1503ba401eac59a977098c67e17902b74d6ecc2baf1e721
     type: zipped-medias
