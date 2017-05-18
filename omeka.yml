@@ -186,3 +186,14 @@ all:
     size: 5733392
     sha256sum: cd792f8b433a2ffec1503ba401eac59a977098c67e17902b74d6ecc2baf1e721
     type: zipped-medias
+  monter-son-projet-professionnel-fr:
+    name: Monter son projet professionnel
+    description: "Vous cherchez un emploi ou vous souhaitez vous reconvertir ? Vous\
+      \ trouverez ici de quoi vous aider \uDCC3\uDCA0 identifier vos comp\uDCC3\uDCA9\
+      tences, pr\uDCC3\uDCA9parer une candidature ou un entretien d'embauche"
+    language: fr
+    version: '2017-05-18'
+    url: http://packages.ideascube.org/omeka/monter-son-projet-professionnel.zip
+    size: 1056396631
+    sha256sum: 99dbdb08e5e55b4f569588cc5699e8249fcceb774d6c3e0253b26c72603d3d2c
+    type: zipped-medias
