@@ -68,10 +68,10 @@ all:
     name: Cuisine et nutrition
     description: Qu'est ce que nous mangeons ? Qu'est ce que les autres mangent ? Et qu'est ce que "bien manger" ?
     language: fr
-    version: '2017-04-07'
+    version: '2017-05-18'
     url: http://packages.ideascube.org/omeka/cuisine-et-nutrition-fr.zip
-    size: 2492636106
-    sha256sum: 0eac82bab8db3d9b7591be92eb003fc7b4b65e83fa034c2984ce9744a4af1e51
+    size: 2721490802
+    sha256sum: 576707baa120dc593228cc03be2df2bb771bb33c575d4a89bd99e7de1b034c25
     type: zipped-medias
   discriminations-fr:
     name: Discriminations
