@@ -60,7 +60,7 @@ all:
       \ votre corps ?" 
     language: fr
     version: '2017-05-19'
-    url: http://packages.ideascube.org/omeka/sa-relation-au-corps.zip
+    url: http://packages.ideascube.org/omeka/sa-relation-au-corps-fr.zip
     size: 240113252
     sha256sum: 3fcda100103f280ab5336b55beb11d2404559ee4340a30f469bfb009348059d8
     type: zipped-medias
