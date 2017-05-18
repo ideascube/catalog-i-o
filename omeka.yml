@@ -142,10 +142,10 @@ all:
     name: Droits et démarches administratives
     description: Retrouvez ici quelques guides pour vous aider à vous repérer dans le labyrinthe des démarches administratives. Pour défendre ses droits, il faut les connaître et les comprendre !
     language: fr
-    version: '2017-04-10'
+    version: '2017-05-18'
     url: http://packages.ideascube.org/omeka/droits-et-demarches-administratives-fr.zip
-    size: 98487427
-    sha256sum: dcb4ee227d0ebd359b3cee561177948be8d4b62841b7ee42618470326e2823b6
+    size: 98488851
+    sha256sum: 0c62cdc8bab35c35d5316727f26974ba3ec1a738ce93a95416fb9ce4c2c60493
     type: zipped-medias
   bien-etre-dev-perso-communication-fr:
     name: Bien-être, développement personnel, communication avec les autres
