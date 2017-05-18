@@ -21,10 +21,10 @@ all:
     name: Sports
     description: Vous souhaitez vous perfectionner en football ? Découvrir un nouveau sens au mot "sport" ? C'est ici !
     language: fr
-    version: '2017-04-07'
+    version: '2017-05-18'
     url: http://packages.ideascube.org/omeka/sport-football-fr.zip
-    size: 1268162562
-    sha256sum: 4527d1e89bf64f484002712f2519dcceb51248ebbc988419bc251b3ff032614e
+    size: 2331282984
+    sha256sum: 710069de344c3ad2543dced6ee4a7dd36a8aaf16e9c1fcea2d7dcc4528cf0c2a
     type: zipped-medias
   connaissance-droits-universels-fr:
     name: Connaissance des droits universels
