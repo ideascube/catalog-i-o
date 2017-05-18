@@ -231,3 +231,14 @@ all:
     size: 3543422460
     sha256sum: 0ac0868b571696cd9e42b9e8fe696c72e5eef38206a7c118f60e4a0268d435f0
     type: zipped-medias
+  hyigene-de-base-fr:
+    name: "Hyig\uDCC3\uDCA8ne de base"
+    description: "Pour r\uDCC3\uDCA9fl\uDCC3\uDCA9chir \uDCC3\uDCA0 ses r\uDCC3\uDCA9\
+      flexes de base en terme d'hygi\uDCC3\uDCA8ne et \uDCC3\uDCA9viter les maladies\
+      \ !"
+    language: fr
+    version: '2017-05-18'
+    url: http://packages.ideascube.org/omeka/hyigene-de-base.zip
+    size: 89496260
+    sha256sum: a34487e0d6899f127752e424cbaef61137d99c537e2024390187a005437f050b
+    type: zipped-medias
