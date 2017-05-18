@@ -55,7 +55,9 @@ all:
     type: zipped-medias
   sa-relation-au-corps-fr:
     name: Sa relation au corps
-    description: "\uDCC3\uDC8Atre bien dans son corps, \uDCC3\uDCA7a participe \uDCC3\ \uDCA0 \uDCC3\uDCAAtre bien dans sa t\uDCC3\uDCAAte. Et vous ? Comment voyez-vous votre corps ?"
+    description: "\uDCC3\uDC8Atre bien dans son corps, \uDCC3\uDCA7a participe \uDCC3\
+      \uDCA0 \uDCC3\uDCAAtre bien dans sa t\uDCC3\uDCAAte. Et vous ? Comment voyez-vous\
+      \ votre corps ?" 
     language: fr
     version: '2017-05-18'
     url: http://packages.ideascube.org/omeka/sa-relation-au-corps.zip
@@ -217,4 +219,15 @@ all:
     url: http://packages.ideascube.org/omeka/jardinage-et-agriculture.zip
     size: 942013540
     sha256sum: 17a08d6dfefeedb73db9ae853a66130dab2550e7ff1e65990d00ae1b96783c8f
+    type: zipped-medias
+  films-fr:
+    name: Films
+    description: "Une com\uDCC3\uDCA9die ? Un drame ? Un policier ? D\uDCC3\uDCA9\
+      couvrez ou red\uDCC3\uDCA9couvrez ici quelques films muets ou en fran\uDCC3\uDCA7\
+      ais."
+    language: fr
+    version: '2017-05-18'
+    url: http://packages.ideascube.org/omeka/films.zip
+    size: 3543422460
+    sha256sum: 0ac0868b571696cd9e42b9e8fe696c72e5eef38206a7c118f60e4a0268d435f0
     type: zipped-medias
