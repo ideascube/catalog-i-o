@@ -55,11 +55,9 @@ all:
     type: zipped-medias
   sa-relation-au-corps-fr:
     name: Sa relation au corps
-    description: "\uDCC3\uDC8Atre bien dans son corps, \uDCC3\uDCA7a participe \uDCC3\
-      \uDCA0 \uDCC3\uDCAAtre bien dans sa t\uDCC3\uDCAAte. Et vous ? Comment voyez-vous\
-      \ votre corps ?" 
+    description: "Être bien dans son corps, ça participe à être bien dans sa tête. Et vous ? Comment voyez-vous votre corps ?" 
     language: fr
-    version: '2017-05-19'
+    version: '2017-05-20'
     url: http://packages.ideascube.org/omeka/sa-relation-au-corps-fr.zip
     size: 240113252
     sha256sum: 3fcda100103f280ab5336b55beb11d2404559ee4340a30f469bfb009348059d8
@@ -75,11 +73,9 @@ all:
     type: zipped-medias
   discriminations-fr:
     name: Discriminations
-    description: "Handicap, genre, couleurs de peau, religion... La discrimination\
-      \ peut porter sur des tas de choses. D\uDCC3\uDCA9tectons les, et combattons\
-      \ les."
+    description: "Handicap, genre, couleurs de peau, religion... La discrimination peut porter sur des tas de choses. Détectons les, et combattons les."
     language: fr
-    version: '2017-05-18'
+    version: '2017-05-19'
     url: http://packages.ideascube.org/omeka/discriminations.zip
     size: 1552598740
     sha256sum: 5cfa16053ed31de05ebd2b647155f4a463cfc62b016834aab2f8df228a5feb59
@@ -190,64 +186,55 @@ all:
     type: zipped-medias
   monter-son-projet-professionnel-fr:
     name: Monter son projet professionnel
-    description: "Vous cherchez un emploi ou vous souhaitez vous reconvertir ? Vous\
-      \ trouverez ici de quoi vous aider \uDCC3\uDCA0 identifier vos comp\uDCC3\uDCA9\
-      tences, pr\uDCC3\uDCA9parer une candidature ou un entretien d'embauche"
+    description: "Vous cherchez un emploi ou vous souhaitez vous reconvertir ? Vous trouverez ici de quoi vous aider à identifier vos compétences, préparer une candidature ou un entretien d'embauche"
     language: fr
-    version: '2017-05-18'
+    version: '2017-05-19'
     url: http://packages.ideascube.org/omeka/monter-son-projet-professionnel.zip
     size: 1056396631
     sha256sum: 99dbdb08e5e55b4f569588cc5699e8249fcceb774d6c3e0253b26c72603d3d2c
     type: zipped-medias
   audiobooks-et-fictions-sonores-fr:
     name: Audiobooks et fictions sonores
-    description: "Les fictions, les romans, on peut aussi les \uDCC3\uDCA9couter !\
-      \ A vos casques !"
+    description: "Les fictions, les romans, on peut aussi les écouter ! A vos casques !"
     language: fr
-    version: '2017-05-18'
+    version: '2017-05-19'
     url: http://packages.ideascube.org/omeka/audiobooks-et-fictions-sonores.zip
     size: 1420201725
     sha256sum: 4fd20d69479ce05e7f15b7fc1440b5c255b9ed7b82144d99a4c0de7dad8d2c39
     type: zipped-medias
   jardinage-et-agriculture-fr:
     name: Jardinage et agriculture
-    description: "D\uDCC3\uDCA9couvrez ou approfondissez vos connaissances en m\uDCC3\
-      \uDCA9thodes de culture, d'irrigation, de fertilisation... Pour vous lancer\
-      \ dans le jardinage \uDCC3\uDCA0 petite ou moyenne \uDCC3\uDCA9chelle."
+    description: "Découvrez ou approfondissez vos connaissances en méthodes de culture, d'irrigation, de fertilisation... Pour vous lancer dans le jardinage à petite ou moyenne échelle."
     language: fr
-    version: '2017-05-18'
+    version: '2017-05-19'
     url: http://packages.ideascube.org/omeka/jardinage-et-agriculture.zip
     size: 942013540
     sha256sum: 17a08d6dfefeedb73db9ae853a66130dab2550e7ff1e65990d00ae1b96783c8f
     type: zipped-medias
   films-fr:
     name: Films
-    description: "Une com\uDCC3\uDCA9die ? Un drame ? Un policier ? D\uDCC3\uDCA9\
-      couvrez ou red\uDCC3\uDCA9couvrez ici quelques films muets ou en fran\uDCC3\uDCA7\
-      ais."
+    description: "Une comédie ? Un drame ? Un policier ? Découvrez ou redécouvrez ici quelques films muets ou en français."
     language: fr
-    version: '2017-05-18'
+    version: '2017-05-19'
     url: http://packages.ideascube.org/omeka/films.zip
     size: 3543422460
     sha256sum: 0ac0868b571696cd9e42b9e8fe696c72e5eef38206a7c118f60e4a0268d435f0
     type: zipped-medias
   hyigene-de-base-fr:
-    name: "Hyig\uDCC3\uDCA8ne de base"
-    description: "Pour r\uDCC3\uDCA9fl\uDCC3\uDCA9chir \uDCC3\uDCA0 ses r\uDCC3\uDCA9\
-      flexes de base en terme d'hygi\uDCC3\uDCA8ne et \uDCC3\uDCA9viter les maladies\
-      \ !"
+    name: "Hygiène de base"
+    description: "Pour réfléchir à ses réflexes de base en terme d'hygiène et éviter les maladies !"
     language: fr
-    version: '2017-05-18'
+    version: '2017-05-19'
     url: http://packages.ideascube.org/omeka/hyigene-de-base.zip
     size: 89496260
     sha256sum: a34487e0d6899f127752e424cbaef61137d99c537e2024390187a005437f050b
     type: zipped-medias
   prevention-addictions-fr:
-    name: "Pr\uDCC3\uDCA9vention addictions"
+    name: "Prévention addictions"
     description: Mieux comprendre les effets de l'alcool sur nos comportements, et
       leurs origines.
     language: fr
-    version: '2017-05-18'
+    version: '2017-05-19'
     url: http://packages.ideascube.org/omeka/prevention-addictions.zip
     size: 21601826
     sha256sum: e65add94590dceb3a93b846ee17c47f62af102c44aad2afa6ec7583dec4cd939
