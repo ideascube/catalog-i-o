@@ -205,7 +205,7 @@ all:
       \ A vos casques !"
     language: fr
     version: '2017-05-18'
-    url: http://packages.bsf-intranet.org/omeka/audiobooks-et-fictions-sonores.zip
+    url: http://packages.ideascube.org/omeka/audiobooks-et-fictions-sonores.zip
     size: 1420201725
     sha256sum: 4fd20d69479ce05e7f15b7fc1440b5c255b9ed7b82144d99a4c0de7dad8d2c39
     type: zipped-medias
