@@ -207,3 +207,14 @@ all:
     size: 1420201725
     sha256sum: 4fd20d69479ce05e7f15b7fc1440b5c255b9ed7b82144d99a4c0de7dad8d2c39
     type: zipped-medias
+  jardinage-et-agriculture-fr:
+    name: Jardinage et agriculture
+    description: "D\uDCC3\uDCA9couvrez ou approfondissez vos connaissances en m\uDCC3\
+      \uDCA9thodes de culture, d'irrigation, de fertilisation... Pour vous lancer\
+      \ dans le jardinage \uDCC3\uDCA0 petite ou moyenne \uDCC3\uDCA9chelle."
+    language: fr
+    version: '2017-05-18'
+    url: http://packages.ideascube.org/omeka/jardinage-et-agriculture.zip
+    size: 942013540
+    sha256sum: 17a08d6dfefeedb73db9ae853a66130dab2550e7ff1e65990d00ae1b96783c8f
+    type: zipped-medias
