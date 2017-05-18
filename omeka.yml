@@ -73,12 +73,14 @@ all:
     type: zipped-medias
   discriminations-fr:
     name: Discriminations
-    description: Handicap, genre, couleurs de peau, religion... La discrimination peut porter sur des tas de choses. Détectons les, et combattons les.
+    description: "Handicap, genre, couleurs de peau, religion... La discrimination\
+      \ peut porter sur des tas de choses. D\uDCC3\uDCA9tectons les, et combattons\
+      \ les."
     language: fr
-    version: '2017-04-10'
-    url: http://packages.ideascube.org/omeka/discriminations-fr.zip
-    size: 1555161335
-    sha256sum: 5c37d47178dc53ae938ec40b442de0cdfa3df6e18636ca314f2ef53de13e56d0
+    version: '2017-05-18'
+    url: http://packages.bsf-intranet.org/omeka/discriminations.zip
+    size: 1552598740
+    sha256sum: 5cfa16053ed31de05ebd2b647155f4a463cfc62b016834aab2f8df228a5feb59
     type: zipped-medias
   fictions-divertissements-ar:
     name: خيال - fictions et divertissement en arabe
