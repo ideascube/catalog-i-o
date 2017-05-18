@@ -53,7 +53,7 @@ all:
     size: 104687577
     sha256sum: b28508f2c250eff479055dd5a4780d4302ece096c5f029a591de6f57aa0d65f2
     type: zipped-medias
-  sa-relation-au-corps:
+  sa-relation-au-corps-fr:
     name: Sa relation au corps
     description: "\uDCC3\uDC8Atre bien dans son corps, \uDCC3\uDCA7a participe \uDCC3\ \uDCA0 \uDCC3\uDCAAtre bien dans sa t\uDCC3\uDCAAte. Et vous ? Comment voyez-vous votre corps ?"
     language: fr
