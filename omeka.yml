@@ -106,10 +106,10 @@ all:
     name: Programmation informatique
     description: Pour former débutant et initié à la logique de programmation, ainsi qu'à certains langages.
     language: fr
-    version: '2017-04-10'
+    version: '2017-05-18'
     url: http://packages.ideascube.org/omeka/programmation-informatique-fr.zip
-    size: 1144337846
-    sha256sum: fe1489ebd7d33d41dd9e766576511f521c31a3ef5f30acfd2dc1ecd35bece826
+    size: 1135318875
+    sha256sum: 4e56ceb4a201c8e4b19ef4db7a7ddb43ad46e71331ef882494708165484be18c
     type: zipped-medias
   recherche-demploi-fr:
     name: Recherche d'emploi
