@@ -197,3 +197,13 @@ all:
     size: 1056396631
     sha256sum: 99dbdb08e5e55b4f569588cc5699e8249fcceb774d6c3e0253b26c72603d3d2c
     type: zipped-medias
+  audiobooks-et-fictions-sonores-fr:
+    name: Audiobooks et fictions sonores
+    description: "Les fictions, les romans, on peut aussi les \uDCC3\uDCA9couter !\
+      \ A vos casques !"
+    language: fr
+    version: '2017-05-18'
+    url: http://packages.bsf-intranet.org/omeka/audiobooks-et-fictions-sonores.zip
+    size: 1420201725
+    sha256sum: 4fd20d69479ce05e7f15b7fc1440b5c255b9ed7b82144d99a4c0de7dad8d2c39
+    type: zipped-medias
