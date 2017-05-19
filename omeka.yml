@@ -240,7 +240,7 @@ all:
     sha256sum: e65add94590dceb3a93b846ee17c47f62af102c44aad2afa6ec7583dec4cd939
     type: zipped-medias
   administration-gestion-comptabilite-fr:
-    name: "Administration, gestion, comptabilit\uDCC3\uDCA9"
+    name: "Administration, gestion, comptabilité"
     description: "Vous souhaitez monter une entreprise mais vous manquez de connaissances\
       \ sur les d\uDCC3\uDCA9marches administratives, la gestion et la comptabilit\uDCC3\
       \uDCA9. Vous trouverez ici de quoi lancer sereinement son entreprise."
