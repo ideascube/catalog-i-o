@@ -48,10 +48,10 @@ all:
     name: Citoyenneté et politique
     description: Démocratie, politique, élection, gauche, droite... On en parle ?
     language: fr
-    version: '2017-04-07'
+    version: '2017-05-19'
     url: http://packages.ideascube.org/omeka/citoyennete-et-politique-fr.zip
-    size: 104687577
-    sha256sum: b28508f2c250eff479055dd5a4780d4302ece096c5f029a591de6f57aa0d65f2
+    size: 104686722
+    sha256sum: 29ed737cb70fb75a86a22191ad751688c137cd98710952bb554549751af2fa33
     type: zipped-medias
   sa-relation-au-corps-fr:
     name: Sa relation au corps
@@ -95,10 +95,10 @@ all:
     name: Apprentissage du français
     description: Quelques bases pour progresser en français.
     language: fr
-    version: '2017-04-10'
+    version: '2017-05-19'
     url: http://packages.ideascube.org/omeka/apprentissage-francais-fr.zip
     size: 396689497
-    sha256sum: b6214bafc31c4e316467fdacae728f6323c3c17f8c6f750a250dc4e7715510ad
+    sha256sum: 2ca0ebbd768e494141e80b9d76027ec811c5ae7674255bbad313665400814602
     type: zipped-medias
   programmation-informatique-fr:
     name: Programmation informatique
