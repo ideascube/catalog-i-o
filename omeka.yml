@@ -239,3 +239,14 @@ all:
     size: 21601826
     sha256sum: e65add94590dceb3a93b846ee17c47f62af102c44aad2afa6ec7583dec4cd939
     type: zipped-medias
+  administration-gestion-comptabilite-fr:
+    name: "Administration, gestion, comptabilit\uDCC3\uDCA9"
+    description: "Vous souhaitez monter une entreprise mais vous manquez de connaissances\
+      \ sur les d\uDCC3\uDCA9marches administratives, la gestion et la comptabilit\uDCC3\
+      \uDCA9. Vous trouverez ici de quoi lancer sereinement son entreprise."
+    language: fr
+    version: '2017-05-19'
+    url: http://packages.ideascube.org/omeka/administration-gestion-comptabilite-fr.zip
+    size: 3027988
+    sha256sum: c8e171864b9ef537265eb28b9c0b0b19de355c9784fc0bde322ae694919ce03b
+    type: zipped-medias
