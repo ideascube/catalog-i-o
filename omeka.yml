@@ -30,10 +30,10 @@ all:
     name: Connaissance des droits universels
     description: Connaissez vous vos droits fondamentaux et universels ? C'est le moment de les redécouvrir afin de les maitriser pour mieux vous défendre !
     language: fr
-    version: '2017-05-16'
+    version: '2017-05-19'
     url: http://packages.ideascube.org/omeka/connaissance-droits-universels-fr.zip
     size: 210641103
-    sha256sum: f90f4e37b6adbd93c2fbab0e2690ed83bec122037257c679f74cb20b6e8b20d3
+    sha256sum: 7d6cfa8e204cd5b404849373535d85800ee66128ab2c8254e9157cd05a7e1d98
     type: zipped-medias
   musique-fr:
     name: Musique
