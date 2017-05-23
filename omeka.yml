@@ -286,3 +286,12 @@ all:
     size: 144293977
     sha256sum: b73cd2660e3724efc35a4dfc8f645ab8708907af5a3c7e993fb76e3bb334c1f9
     type: zipped-medias
+  droits-de-l-enfants-fr:
+    name: Droits de l'enfants
+    description: "Tu as des droits, apprends à les connaître pour mieux les défendre."
+    language: fr
+    version: '2017-05-23'
+    url: http://packages.ideascube.org/omeka/droits-de-l-enfants.zip
+    size: 52602210
+    sha256sum: fe3cb1334772295bb7e5d51dfab3992eabd8ca22e99273e114db13a65a0e2872
+    type: zipped-medias
