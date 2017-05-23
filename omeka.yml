@@ -302,3 +302,13 @@ all:
     size: 1332960686
     sha256sum: 939d472e05cc0baf9c2f55ffde893c5db3794aab1edc2b30ac6942848f97b327
     type: zipped-medias
+  arts-afrique-fr:
+    name: Arts [Afrique]
+    description: Les arts plastiques, la danse... Les formes d'arts ne manquent pas,
+      et font partie de la richesse d'un pays et d'une culture !
+    language: fr
+    version: '2017-05-23'
+    url: http://packages.ideascube.org/omeka/arts-afrique.zip
+    size: 947959006
+    sha256sum: 2fbd31dee4b61dae937a316cdc002e630f1ea19eb94a14c2242d1074ca8f665e
+    type: zipped-medias
