@@ -312,3 +312,12 @@ all:
     size: 947959006
     sha256sum: 2fbd31dee4b61dae937a316cdc002e630f1ea19eb94a14c2242d1074ca8f665e
     type: zipped-medias
+  geographie-afrique-de-l-est-fr:
+    name: "Géographie (Afrique de l'Est"
+    description: "Focus sur l'Afrique de l'Est: quels pays, quels villes, quels contexte, quels enjeux ?"
+    language: fr
+    version: '2017-05-23'
+    url: http://packages.ideascube.org/omeka/geographie-afrique-de-l-est.zip
+    size: 208500606
+    sha256sum: 1a77c5a27a84e0aa03f6e26598247ade658f716fa95f64c26fc996a0afc267d1
+    type: zipped-medias
