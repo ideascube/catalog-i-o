@@ -241,9 +241,7 @@ all:
     type: zipped-medias
   administration-gestion-comptabilite-fr:
     name: "Administration, gestion, comptabilité"
-    description: "Vous souhaitez monter une entreprise mais vous manquez de connaissances\
-      \ sur les d\uDCC3\uDCA9marches administratives, la gestion et la comptabilit\uDCC3\
-      \uDCA9. Vous trouverez ici de quoi lancer sereinement son entreprise."
+    description: "Vous souhaitez monter une entreprise mais vous manquez de connaissances sur les démarches administratives, la gestion et la comptabilité. Vous trouverez ici de quoi lancer sereinement son entreprise."
     language: fr
     version: '2017-05-19'
     url: http://packages.ideascube.org/omeka/administration-gestion-comptabilite-fr.zip
