@@ -268,3 +268,12 @@ all:
     size: 1024181735
     sha256sum: 5605a8a61add2561695de57f962d0eeb788381b578927ed5b53387705236d9e3
     type: zipped-medias
+  ebooks-enfants-fr:
+    name: Ebooks [Enfants]
+    description: "Tu cherches de quoi lire, des livres pas trop compliqués ? C'est ici !"
+    language: fr
+    version: '2017-05-23'
+    url: http://packages.ideascube.org/omeka/ebooks-enfants.zip
+    size: 37095509
+    sha256sum: d0144b5f7400d2a0b74da317f23ab95e792ddbf6b9643b3d094760cc32319ff2
+    type: zipped-medias
