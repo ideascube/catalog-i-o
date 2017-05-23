@@ -259,3 +259,12 @@ all:
     size: 311100383
     sha256sum: b0ec61e3f70be999b8b3a7b66082b6baa9901431772d7bf3618407f419630c91
     type: zipped-medias
+  creation-d-entreprise-fr:
+    name: "Création d'entreprise"
+    description: "Créer son entreprise implique de multiples étapes : Vous trouverez ici des conseils pour formuler votre projet, rédiger votre business plan ou encore vous assurer de la faisabilité de votre projet."
+    language: fr
+    version: '2017-05-23'
+    url: http://packages.ideascube.org/omeka/creation-d-entreprise.zip
+    size: 1024181735
+    sha256sum: 5605a8a61add2561695de57f962d0eeb788381b578927ed5b53387705236d9e3
+    type: zipped-medias
