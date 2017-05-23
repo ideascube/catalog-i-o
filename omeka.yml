@@ -277,3 +277,12 @@ all:
     size: 37095509
     sha256sum: d0144b5f7400d2a0b74da317f23ab95e792ddbf6b9643b3d094760cc32319ff2
     type: zipped-medias
+  sexualite-fr:
+    name: "Sexualité"
+    description: "La sexualité, il faut en parler pour être en toute sécurité. Vous trouverez ici les informations nécessaires."
+    language: fr
+    version: '2017-05-23'
+    url: http://packages.ideascube.org/omeka/sexualite.zip
+    size: 144293977
+    sha256sum: b73cd2660e3724efc35a4dfc8f645ab8708907af5a3c7e993fb76e3bb334c1f9
+    type: zipped-medias
