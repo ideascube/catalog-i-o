@@ -293,3 +293,12 @@ all:
     size: 52602210
     sha256sum: fe3cb1334772295bb7e5d51dfab3992eabd8ca22e99273e114db13a65a0e2872
     type: zipped-medias
+  histoire-afrique-fr:
+    name: Histoire [Afrique]
+    description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre les événements du présent."
+    language: fr
+    version: '2017-05-23'
+    url: http://packages.ideascube.org/omeka/histoire-afrique.zip
+    size: 1332960686
+    sha256sum: 939d472e05cc0baf9c2f55ffde893c5db3794aab1edc2b30ac6942848f97b327
+    type: zipped-medias
