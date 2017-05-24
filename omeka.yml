@@ -76,7 +76,7 @@ all:
     description: "Handicap, genre, couleurs de peau, religion... La discrimination peut porter sur des tas de choses. Détectons les, et combattons les."
     language: fr
     version: '2017-05-19'
-    url: http://packages.ideascube.org/omeka/discriminations.zip
+    url: http://packages.ideascube.org/omeka/discriminations-fr.zip
     size: 1552598740
     sha256sum: 5cfa16053ed31de05ebd2b647155f4a463cfc62b016834aab2f8df228a5feb59
     type: zipped-medias
@@ -189,7 +189,7 @@ all:
     description: "Vous cherchez un emploi ou vous souhaitez vous reconvertir ? Vous trouverez ici de quoi vous aider à identifier vos compétences, préparer une candidature ou un entretien d'embauche"
     language: fr
     version: '2017-05-19'
-    url: http://packages.ideascube.org/omeka/monter-son-projet-professionnel.zip
+    url: http://packages.ideascube.org/omeka/monter-son-projet-professionnel-fr.zip
     size: 1056396631
     sha256sum: 99dbdb08e5e55b4f569588cc5699e8249fcceb774d6c3e0253b26c72603d3d2c
     type: zipped-medias
@@ -198,7 +198,7 @@ all:
     description: "Les fictions, les romans, on peut aussi les écouter ! A vos casques !"
     language: fr
     version: '2017-05-19'
-    url: http://packages.ideascube.org/omeka/audiobooks-et-fictions-sonores.zip
+    url: http://packages.ideascube.org/omeka/audiobooks-et-fictions-sonores-fr.zip
     size: 1420201725
     sha256sum: 4fd20d69479ce05e7f15b7fc1440b5c255b9ed7b82144d99a4c0de7dad8d2c39
     type: zipped-medias
@@ -207,7 +207,7 @@ all:
     description: "Découvrez ou approfondissez vos connaissances en méthodes de culture, d'irrigation, de fertilisation... Pour vous lancer dans le jardinage à petite ou moyenne échelle."
     language: fr
     version: '2017-05-19'
-    url: http://packages.ideascube.org/omeka/jardinage-et-agriculture.zip
+    url: http://packages.ideascube.org/omeka/jardinage-et-agriculture-fr.zip
     size: 942013540
     sha256sum: 17a08d6dfefeedb73db9ae853a66130dab2550e7ff1e65990d00ae1b96783c8f
     type: zipped-medias
@@ -216,7 +216,7 @@ all:
     description: "Une comédie ? Un drame ? Un policier ? Découvrez ou redécouvrez ici quelques films muets ou en français."
     language: fr
     version: '2017-05-23'
-    url: http://packages.ideascube.org/omeka/films.zip
+    url: http://packages.ideascube.org/omeka/films-fr.zip
     size: 3543422460
     sha256sum: 581c7f9354531ac13feb5e6915573abb81dcc89b61560c4d579278a080b63f4e
     type: zipped-medias
@@ -225,7 +225,7 @@ all:
     description: "Pour réfléchir à ses réflexes de base en terme d'hygiène et éviter les maladies !"
     language: fr
     version: '2017-05-19'
-    url: http://packages.ideascube.org/omeka/hyigene-de-base.zip
+    url: http://packages.ideascube.org/omeka/hyigene-de-base-fr.zip
     size: 89496260
     sha256sum: a34487e0d6899f127752e424cbaef61137d99c537e2024390187a005437f050b
     type: zipped-medias
@@ -235,7 +235,7 @@ all:
       leurs origines.
     language: fr
     version: '2017-05-23'
-    url: http://packages.ideascube.org/omeka/prevention-addictions.zip
+    url: http://packages.ideascube.org/omeka/prevention-addictions-fr.zip
     size: 21601826
     sha256sum: 990c28f905d382b23ed20af175d247016a28c5c56a43a884f0f0a13832a10942
     type: zipped-medias
@@ -253,7 +253,7 @@ all:
     description: "Vous trouverez ici du contenu sur des méthodes innovantes et des présentations d'innovations spécifiques au contexte économique et environnemental africain."
     language: fr
     version: '2017-05-23'
-    url: http://packages.ideascube.org/omeka/innovation-en-afrique.zip
+    url: http://packages.ideascube.org/omeka/innovation-en-afrique-fr.zip
     size: 311100383
     sha256sum: b0ec61e3f70be999b8b3a7b66082b6baa9901431772d7bf3618407f419630c91
     type: zipped-medias
@@ -262,7 +262,7 @@ all:
     description: "Créer son entreprise implique de multiples étapes : Vous trouverez ici des conseils pour formuler votre projet, rédiger votre business plan ou encore vous assurer de la faisabilité de votre projet."
     language: fr
     version: '2017-05-23'
-    url: http://packages.ideascube.org/omeka/creation-d-entreprise.zip
+    url: http://packages.ideascube.org/omeka/creation-d-entreprise-fr.zip
     size: 1024181735
     sha256sum: 5605a8a61add2561695de57f962d0eeb788381b578927ed5b53387705236d9e3
     type: zipped-medias
@@ -271,7 +271,7 @@ all:
     description: "Tu cherches de quoi lire, des livres pas trop compliqués ? C'est ici !"
     language: fr
     version: '2017-05-23'
-    url: http://packages.ideascube.org/omeka/ebooks-enfants.zip
+    url: http://packages.ideascube.org/omeka/ebooks-enfants-fr.zip
     size: 37095509
     sha256sum: d0144b5f7400d2a0b74da317f23ab95e792ddbf6b9643b3d094760cc32319ff2
     type: zipped-medias
@@ -280,7 +280,7 @@ all:
     description: "La sexualité, il faut en parler pour être en toute sécurité. Vous trouverez ici les informations nécessaires."
     language: fr
     version: '2017-05-23'
-    url: http://packages.ideascube.org/omeka/sexualite.zip
+    url: http://packages.ideascube.org/omeka/sexualite-fr.zip
     size: 144293977
     sha256sum: b73cd2660e3724efc35a4dfc8f645ab8708907af5a3c7e993fb76e3bb334c1f9
     type: zipped-medias
@@ -289,7 +289,7 @@ all:
     description: "Tu as des droits, apprends à les connaître pour mieux les défendre."
     language: fr
     version: '2017-05-23'
-    url: http://packages.ideascube.org/omeka/droits-de-l-enfants.zip
+    url: http://packages.ideascube.org/omeka/droits-de-l-enfants-fr.zip
     size: 52602210
     sha256sum: fe3cb1334772295bb7e5d51dfab3992eabd8ca22e99273e114db13a65a0e2872
     type: zipped-medias
@@ -298,7 +298,7 @@ all:
     description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre les événements du présent."
     language: fr
     version: '2017-05-23'
-    url: http://packages.ideascube.org/omeka/histoire-afrique.zip
+    url: http://packages.ideascube.org/omeka/histoire-afrique-fr.zip
     size: 1332960686
     sha256sum: 939d472e05cc0baf9c2f55ffde893c5db3794aab1edc2b30ac6942848f97b327
     type: zipped-medias
@@ -308,7 +308,7 @@ all:
       et font partie de la richesse d'un pays et d'une culture !
     language: fr
     version: '2017-05-23'
-    url: http://packages.ideascube.org/omeka/arts-afrique.zip
+    url: http://packages.ideascube.org/omeka/arts-afrique-fr.zip
     size: 947959006
     sha256sum: 2fbd31dee4b61dae937a316cdc002e630f1ea19eb94a14c2242d1074ca8f665e
     type: zipped-medias
@@ -317,7 +317,7 @@ all:
     description: "Focus sur l'Afrique de l'Est: quels pays, quels villes, quels contexte, quels enjeux ?"
     language: fr
     version: '2017-05-23'
-    url: http://packages.ideascube.org/omeka/geographie-afrique-de-l-est.zip
+    url: http://packages.ideascube.org/omeka/geographie-afrique-de-l-est-fr.zip
     size: 208500606
     sha256sum: 1a77c5a27a84e0aa03f6e26598247ade658f716fa95f64c26fc996a0afc267d1
     type: zipped-medias
@@ -326,7 +326,7 @@ all:
     description: "Vous voulez monter une radio ? Apprendre à monter de petits reportages sonores ? L'audio est un excellent moyen pour raconter des histoires ou faire passer des messages."
     language: fr
     version: '2017-05-23'
-    url: http://packages.ideascube.org/omeka/creation-audio.zip
+    url: http://packages.ideascube.org/omeka/creation-audio-fr.zip
     size: 31836225
     sha256sum: 7b3e58deb59d40f9781da2c1c4eb21afd13ef9734a060e60442a120c8d6a1396
     type: zipped-medias
@@ -335,7 +335,7 @@ all:
     description: "Qui sont les êtres vivants qui nous entourent ? Où vivent-ils ? Que mangent-ils ? Comment vivons nous ensemble ?"
     language: fr
     version: '2017-05-23'
-    url: http://packages.ideascube.org/omeka/nature.zip
+    url: http://packages.ideascube.org/omeka/nature-fr.zip
     size: 1302195607
     sha256sum: e61082d5732486085959a39825817161de06e679c976ffe7cc1bbfab286c785c
     type: zipped-medias
@@ -344,7 +344,7 @@ all:
     description: "Pars à la découverte du corps humain !"
     language: fr
     version: '2017-05-23'
-    url: http://packages.ideascube.org/omeka/biologie-adolescents.zip
+    url: http://packages.ideascube.org/omeka/biologie-adolescents-fr.zip
     size: 2728471778
     sha256sum: 7238fe2c1fd2e2b50880e3d19d07d50b29564f76eba77dea17f9a1304de305de
     type: zipped-medias
@@ -353,7 +353,7 @@ all:
     description: "Vous avez toujours rêvé de devenir écrivain ? C'est le moment de vous lancer !"
     language: fr
     version: '2017-05-23'
-    url: http://packages.ideascube.org/omeka/ecriture-et-litterature.zip
+    url: http://packages.ideascube.org/omeka/ecriture-et-litterature-fr.zip
     size: 464557697
     sha256sum: 4e6e06b5557f0d133ada3d19abe6f89609efaf5a9923a618e51adbe2f4e7e217
     type: zipped-medias
@@ -362,7 +362,7 @@ all:
     description: "Pour réfléchir à ses réflexes de base en terme d'hygiène et éviter les maladies !"
     language: fr
     version: '2017-05-23'
-    url: http://packages.ideascube.org/omeka/hygiene-afrique.zip
+    url: http://packages.ideascube.org/omeka/hygiene-afrique-fr.zip
     size: 96207029
     sha256sum: 7ebba73d67338f044dcee32fa9b2d4b9596a7ff2b5f376edc3c0a9efb3c733a1
     type: zipped-medias
@@ -371,7 +371,7 @@ all:
     description: "A quoi ça sert le sport ? Et combien il y a de sports différents ? Chacun son sport, chacun son corps !"
     language: fr
     version: '2017-05-23'
-    url: http://packages.ideascube.org/omeka/sports-enfants.zip
+    url: http://packages.ideascube.org/omeka/sports-enfants-fr.zip
     size: 615078181
     sha256sum: cc40c5fb5319e54e99eefa556aa3056f1bd716f61157362038b2f04c518eb83b
     type: zipped-medias
@@ -380,7 +380,7 @@ all:
     description: "Il n'y a pas d'âge pour faire attention à ce qu'on mange !"
     language: fr
     version: '2017-05-23'
-    url: http://packages.ideascube.org/omeka/cuisine-et-nutrition-enfants.zip
+    url: http://packages.ideascube.org/omeka/cuisine-et-nutrition-enfants-fr.zip
     size: 115443064
     sha256sum: 3a05a912fc5f346495d881ae0167ad733b8697a2e0d317e35102ddd7be6286e6
     type: zipped-medias
@@ -389,7 +389,7 @@ all:
     description: "Pourquoi il faut se laver, le corps, les mains, les dents ? Pour rester en bonne santé, et pour que ceux autour de nous le reste aussi ! Apprends à prendre les bonnes habitudes en t'amusant !"
     language: fr
     version: '2017-05-23'
-    url: http://packages.ideascube.org/omeka/hygiene-enfants.zip
+    url: http://packages.ideascube.org/omeka/hygiene-enfants-fr.zip
     size: 106790233
     sha256sum: eeb931c6fc7a8149579a0030caef64f28b4e89ec5210a4216c05686a5f39287b
     type: zipped-medias
@@ -407,7 +407,7 @@ all:
     description: "Un petit kit pour avoir les bons réflexes de premiers secours et savoir prévenir les maladies et infections... Pour soi, et pour les autres !"
     language: fr
     version: '2017-05-24'
-    url: http://packages.ideascube.org/omeka/sante.zip
+    url: http://packages.ideascube.org/omeka/sante-fr.zip
     size: 326690830
     sha256sum: 7ad28c49542e3f2a4d9f26c2e76f6fc78a33e2ecc3312dca3700e514be1e32ac
     type: zipped-medias
