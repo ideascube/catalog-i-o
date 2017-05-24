@@ -384,3 +384,12 @@ all:
     size: 115443064
     sha256sum: 3a05a912fc5f346495d881ae0167ad733b8697a2e0d317e35102ddd7be6286e6
     type: zipped-medias
+  hygiene-enfants-fr:
+    name: "Hygiène (enfants)"
+    description: "Pourquoi il faut se laver, le corps, les mains, les dents ? Pour rester en bonne santé, et pour que ceux autour de nous le reste aussi ! Apprends à prendre les bonnes habitudes en t'amusant !"
+    language: fr
+    version: '2017-05-23'
+    url: http://packages.ideascube.org/omeka/hygiene-enfants.zip
+    size: 106790233
+    sha256sum: eeb931c6fc7a8149579a0030caef64f28b4e89ec5210a4216c05686a5f39287b
+    type: zipped-medias
