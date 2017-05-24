@@ -39,10 +39,10 @@ all:
     name: Musique
     description: Pour découvrir de nouveaux styles musicaux ou écouter quelques morceaux !
     language: fr
-    version: '2017-04-07'
+    version: '2017-05-23'
     url: http://packages.ideascube.org/omeka/musique-fr.zip
-    size: 465550914
-    sha256sum: 96599c416e64d6a256b5e1f9481973b7e4d42e9b6d99088ebf4ef01ddfe18d0b
+    size: 885842919
+    sha256sum: 37a68ff54e33c96bf47cf7a0ae3520aa87ee65a51e0d2c079b2d027b71be7b8e
     type: zipped-medias
   citoyennete-et-politique-fr:
     name: Citoyenneté et politique
