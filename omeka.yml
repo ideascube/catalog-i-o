@@ -348,3 +348,12 @@ all:
     size: 2728471778
     sha256sum: 7238fe2c1fd2e2b50880e3d19d07d50b29564f76eba77dea17f9a1304de305de
     type: zipped-medias
+  ecriture-et-litterature-fr:
+    name: "Ecriture et littérature"
+    description: "Vous avez toujours rêvé de devenir écrivain ? C'est le moment de vous lancer !"
+    language: fr
+    version: '2017-05-23'
+    url: http://packages.ideascube.org/omeka/ecriture-et-litterature.zip
+    size: 464557697
+    sha256sum: 4e6e06b5557f0d133ada3d19abe6f89609efaf5a9923a618e51adbe2f4e7e217
+    type: zipped-medias
