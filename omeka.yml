@@ -402,3 +402,12 @@ all:
     size: 5390837176
     sha256sum: c643d43c553198918362d041624fa731c836a14f1a1109bda29b6c1183ed3198
     type: zipped-medias
+  sante-fr:
+    name: "Santé"
+    description: "Un petit kit pour avoir les bons réflexes de premiers secours et savoir prévenir les maladies et infections... Pour soi, et pour les autres !"
+    language: fr
+    version: '2017-05-24'
+    url: http://packages.ideascube.org/omeka/sante.zip
+    size: 326690830
+    sha256sum: 7ad28c49542e3f2a4d9f26c2e76f6fc78a33e2ecc3312dca3700e514be1e32ac
+    type: zipped-medias
