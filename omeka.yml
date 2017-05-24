@@ -357,3 +357,12 @@ all:
     size: 464557697
     sha256sum: 4e6e06b5557f0d133ada3d19abe6f89609efaf5a9923a618e51adbe2f4e7e217
     type: zipped-medias
+  hygiene-afrique-fr:
+    name: "Hygiène (Afrique)"
+    description: "Pour réfléchir à ses réflexes de base en terme d'hygiène et éviter les maladies !"
+    language: fr
+    version: '2017-05-23'
+    url: http://packages.ideascube.org/omeka/hygiene-afrique.zip
+    size: 96207029
+    sha256sum: 7ebba73d67338f044dcee32fa9b2d4b9596a7ff2b5f376edc3c0a9efb3c733a1
+    type: zipped-medias
