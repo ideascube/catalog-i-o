@@ -375,3 +375,12 @@ all:
     size: 615078181
     sha256sum: cc40c5fb5319e54e99eefa556aa3056f1bd716f61157362038b2f04c518eb83b
     type: zipped-medias
+  cuisine-et-nutrition-enfants-fr:
+    name: Cuisine et nutrition (enfants)
+    description: "Il n'y a pas d'âge pour faire attention à ce qu'on mange !"
+    language: fr
+    version: '2017-05-23'
+    url: http://packages.ideascube.org/omeka/cuisine-et-nutrition-enfants.zip
+    size: 115443064
+    sha256sum: 3a05a912fc5f346495d881ae0167ad733b8697a2e0d317e35102ddd7be6286e6
+    type: zipped-medias
