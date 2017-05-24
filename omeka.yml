@@ -420,3 +420,12 @@ all:
     size: 1629090
     sha256sum: dd37c5c66919822c788fa25aaa742be984e572c172291d64085f1786f440d795
     type: zipped-medias
+  learn-english-enfants-en:
+    name: Learn english ! (enfants)
+    description: Apprends les bases de l'anglais en t'amusant !
+    language: en
+    version: '2017-05-24'
+    url: http://packages.ideascube.org/omeka/learn-english-enfants-en.zip
+    size: 305686403
+    sha256sum: b6da1da39520b86df1436ce7f1984ab4896a2ac17c4bb11ffa7927b1d6d9c7c2
+    type: zipped-medias
