@@ -240,13 +240,15 @@ all:
     sha256sum: 990c28f905d382b23ed20af175d247016a28c5c56a43a884f0f0a13832a10942
     type: zipped-medias
   administration-gestion-comptabilite-fr:
-    name: "Administration, gestion, comptabilité"
-    description: "Vous souhaitez monter une entreprise mais vous manquez de connaissances sur les démarches administratives, la gestion et la comptabilité. Vous trouverez ici de quoi lancer sereinement son entreprise."
+    name: "Administration, gestion, comptabilit\xE9"
+    description: "Vous souhaitez monter une entreprise mais vous manquez de connaissances\
+      \ sur les d\xE9marches administratives, la gestion et la comptabilit\xE9. Vous\
+      \ trouverez ici de quoi lancer sereinement son entreprise."
     language: fr
-    version: '2017-05-19'
+    version: '2017-05-24'
     url: http://packages.ideascube.org/omeka/administration-gestion-comptabilite-fr.zip
     size: 3027988
-    sha256sum: c8e171864b9ef537265eb28b9c0b0b19de355c9784fc0bde322ae694919ce03b
+    sha256sum: 48b2534ef83a3e3d801e89592eb01c233b284fd6018cb3d53db74763cc0247f5
     type: zipped-medias
   innovation-en-afrique-fr:
     name: Innovation en Afrique
