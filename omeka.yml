@@ -21,7 +21,7 @@ all:
     name: Sports
     description: Vous souhaitez vous perfectionner en football ? Découvrir un nouveau sens au mot "sport" ? C'est ici !
     language: fr
-    version: '2017-05-18'
+    version: '2017-05-23'
     url: http://packages.ideascube.org/omeka/sport-football-fr.zip
     size: 2709131480
     sha256sum: fc1a9e15cbf5805159e93d411f3315ad3f099279c8e87321860347e9e10f87c3
