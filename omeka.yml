@@ -330,3 +330,12 @@ all:
     size: 31836225
     sha256sum: 7b3e58deb59d40f9781da2c1c4eb21afd13ef9734a060e60442a120c8d6a1396
     type: zipped-medias
+  nature-fr:
+    name: Nature
+    description: "Qui sont les êtres vivants qui nous entourent ? Où vivent-ils ? Que mangent-ils ? Comment vivons nous ensemble ?"
+    language: fr
+    version: '2017-05-23'
+    url: http://packages.ideascube.org/omeka/nature.zip
+    size: 1302195607
+    sha256sum: e61082d5732486085959a39825817161de06e679c976ffe7cc1bbfab286c785c
+    type: zipped-medias
