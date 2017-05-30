@@ -167,10 +167,10 @@ all:
     name: Cinéma et création vidéo
     description: Initiez vous aux réflexions sur le cinéma et l'image, et lancez vous dans vos premières créations vidéos !
     language: fr
-    version: '2017-05-18'
+    version: '2017-05-29'
     url: http://packages.ideascube.org/omeka/cinema-et-creation-video-fr.zip
-    size: 943353708
-    sha256sum: 9d3d018e0510add93c921cfaa159c6e0e45ee0d3ff166bcf9661b691e4241d6c
+    size: 943353786
+    sha256sum: 32015801ec004fb19eeab42820df106b87669f183395c30642365d90df5b3b70
     type: zipped-medias
   manual-ideascube-all:
     name: Ideascube Manual
@@ -197,10 +197,10 @@ all:
     name: Audiobooks et fictions sonores
     description: "Les fictions, les romans, on peut aussi les écouter ! A vos casques !"
     language: fr
-    version: '2017-05-19'
+    version: '2017-05-29'
     url: http://packages.ideascube.org/omeka/audiobooks-et-fictions-sonores-fr.zip
-    size: 1420201725
-    sha256sum: 4fd20d69479ce05e7f15b7fc1440b5c255b9ed7b82144d99a4c0de7dad8d2c39
+    size: 1420205409
+    sha256sum: 94cb6ecff2e1a4ef3a80dadb9e1e5735e477d3148c1b94f0481abe1b5904506f
     type: zipped-medias
   jardinage-et-agriculture-fr:
     name: Jardinage et agriculture
@@ -234,10 +234,10 @@ all:
     description: Mieux comprendre les effets de l'alcool sur nos comportements, et
       leurs origines.
     language: fr
-    version: '2017-05-23'
+    version: '2017-05-29'
     url: http://packages.ideascube.org/omeka/prevention-addictions-fr.zip
     size: 21601826
-    sha256sum: 990c28f905d382b23ed20af175d247016a28c5c56a43a884f0f0a13832a10942
+    sha256sum: 6627c88d1735a4b410dd03f24ab39aa64bf61ed9badcc14378437405eaa8a133
     type: zipped-medias
   administration-gestion-comptabilite-fr:
     name: "Administration, gestion, comptabilit\xE9"
@@ -254,19 +254,19 @@ all:
     name: Innovation en Afrique
     description: "Vous trouverez ici du contenu sur des méthodes innovantes et des présentations d'innovations spécifiques au contexte économique et environnemental africain."
     language: fr
-    version: '2017-05-23'
+    version: '2017-05-29'
     url: http://packages.ideascube.org/omeka/innovation-en-afrique-fr.zip
-    size: 311100383
-    sha256sum: b0ec61e3f70be999b8b3a7b66082b6baa9901431772d7bf3618407f419630c91
+    size: 311101094
+    sha256sum: 345b230fb8794a52036c72ad4085c5ddbb986dd7d51ffd5f38b7586c83b14a40
     type: zipped-medias
   creation-d-entreprise-fr:
     name: "Création d'entreprise"
     description: "Créer son entreprise implique de multiples étapes : Vous trouverez ici des conseils pour formuler votre projet, rédiger votre business plan ou encore vous assurer de la faisabilité de votre projet."
     language: fr
-    version: '2017-05-23'
+    version: '2017-05-29'
     url: http://packages.ideascube.org/omeka/creation-d-entreprise-fr.zip
     size: 1024181735
-    sha256sum: 5605a8a61add2561695de57f962d0eeb788381b578927ed5b53387705236d9e3
+    sha256sum: 8e2e8ed3efcf47c8cf98975f197d8f824c10c3b9258fe5efa94de8a6a2431909
     type: zipped-medias
   ebooks-enfants-fr:
     name: Ebooks [Enfants]
@@ -363,10 +363,10 @@ all:
     name: "Hygiène (Afrique)"
     description: "Pour réfléchir à ses réflexes de base en terme d'hygiène et éviter les maladies !"
     language: fr
-    version: '2017-05-23'
+    version: '2017-05-29'
     url: http://packages.ideascube.org/omeka/hygiene-afrique-fr.zip
-    size: 96207029
-    sha256sum: 7ebba73d67338f044dcee32fa9b2d4b9596a7ff2b5f376edc3c0a9efb3c733a1
+    size: 95163171
+    sha256sum: a4347bcecc03cdce07ada20828e4962d44835a9d5f394d8751d483943dd4e05e
     type: zipped-medias
   sports-enfants-fr:
     name: Sports (enfants)
