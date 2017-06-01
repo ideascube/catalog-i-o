@@ -502,3 +502,14 @@ all:
     size: 790705498
     sha256sum: 3f9ba929919c5ae9a311f507b7249d1cbfa2916cd8445a06c1c153bd05eb34b3
     type: zipped-medias
+  introduction-to-human-rights-for-children-en:
+    name: Introduction to Human Rights for children
+    description: What are human rights? They are the rights to which all human beings
+      are entitled to. In these videos, you will learn what they mean and how they
+      are protected.
+    language: en
+    version: '2017-06-01'
+    url: http://packages.ideascube.org/omeka/introduction-to-human-rights-for-children-en.zip
+    size: 20750144
+    sha256sum: 0df267044e5f7c5b9f305f9ef83c1b4ea0b8bdd50f93eaf088ff38c2b1e0f67e
+    type: zipped-medias
