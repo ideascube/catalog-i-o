@@ -552,3 +552,15 @@ all:
     size: 742424213
     sha256sum: 0c36a175aa435f003eb9bc85fd796466bb52453c41d0fad8f2c14751689bbdbe
     type: zipped-medias
+  women-in-african-history-en:
+    name: Women in African History
+    description: 'This series highlights some of the contributions of key women figures
+      to the history of Africa. This list is far from exhaustive but will walk the
+      reader through major events of the African continent, in which these historical
+      female characters have played a key role: from politics to environmental protection.'
+    language: en
+    version: '2017-06-01'
+    url: http://packages.ideascube.org/omeka/women-in-african-history-en.zip
+    size: 55892168
+    sha256sum: 8c511990287271b61cba1024e3fc9324876143f1c655a01043200c578b2fbef9
+    type: zipped-medias
