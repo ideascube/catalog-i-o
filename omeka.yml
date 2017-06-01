@@ -513,3 +513,14 @@ all:
     size: 20750144
     sha256sum: 0df267044e5f7c5b9f305f9ef83c1b4ea0b8bdd50f93eaf088ff38c2b1e0f67e
     type: zipped-medias
+  introduction-to-human-rights-en:
+    name: Introduction to Human Rights
+    description: Human rights are the rights to which all human beings are entitled.
+      Learn about the history of human rights and the legislation that ensure that
+      they are respected with this package.
+    language: en
+    version: '2017-06-01'
+    url: http://packages.ideascube.org/omeka/introduction-to-human-rights-en.zip
+    size: 1122964266
+    sha256sum: 438e65c270b903380b92032ba902f7fbbd49bb3300a434f2d9afee4cfa765938
+    type: zipped-medias
