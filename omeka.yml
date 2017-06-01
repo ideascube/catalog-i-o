@@ -474,3 +474,12 @@ all:
     size: 1858120936
     sha256sum: 222a3293c41e5fe178e26b20d6d869979030ffa61625e87ed8322353b946984a
     type: zipped-medias
+  cartoons-en:
+    name: Cartoons
+    description: Have fun with these cartoons featuring well-known characters!
+    language: en
+    version: '2017-06-01'
+    url: http://packages.ideascube.org/omeka/cartoons-en.zip
+    size: 644897218
+    sha256sum: 7d4476d27ff97096d61cbf18b088ee914b15aa6d01ddd48748eecf843787c7cb
+    type: zipped-medias
