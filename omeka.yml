@@ -463,3 +463,14 @@ all:
     size: 2017233304
     sha256sum: e7a052d24c84b7b368a3d9d489e0a36407e47482d712fcf29c289dd824864182
     type: zipped-medias
+  introduction-to-the-history-of-the-world-en:
+    name: Introduction to the history of the world
+    description: What do we call Mesopotamia? What about the Great March on Washington?
+      What happened in 2008? Analyse these historic events that were turning points
+      for the world.
+    language: en
+    version: '2017-06-01'
+    url: http://packages.ideascube.org/omeka/introduction-to-the-history-of-the-world-en.zip
+    size: 1858120936
+    sha256sum: 222a3293c41e5fe178e26b20d6d869979030ffa61625e87ed8322353b946984a
+    type: zipped-medias
