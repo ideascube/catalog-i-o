@@ -564,3 +564,13 @@ all:
     size: 55892168
     sha256sum: 8c511990287271b61cba1024e3fc9324876143f1c655a01043200c578b2fbef9
     type: zipped-medias
+  introduction-to-sciences-en:
+    name: Introduction to sciences
+    description: How do we produce electricity? How do bees make honey? Find the answers
+      to these science questions in this package.
+    language: en
+    version: '2017-06-01'
+    url: http://packages.ideascube.org/omeka/introduction-to-sciences-en.zip
+    size: 225553834
+    sha256sum: 47e5fd3df1ab50831fd19a12af2ee7b31f78e9973b7b615710cc31b0841564a1
+    type: zipped-medias
