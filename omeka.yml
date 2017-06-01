@@ -574,3 +574,15 @@ all:
     size: 225553834
     sha256sum: 47e5fd3df1ab50831fd19a12af2ee7b31f78e9973b7b615710cc31b0841564a1
     type: zipped-medias
+  astronomy-en:
+    name: Astronomy
+    description: What are comets made of? How was the solar system created? How does
+      gravity influence tides? How can we recognise stars in the sky? If you are curious
+      about astronomy, watch these videos and discover more about the solar system
+      and its history.
+    language: en
+    version: '2017-06-01'
+    url: http://packages.ideascube.org/omeka/astronomy-en.zip
+    size: 5151086752
+    sha256sum: a2d627d78067a51ac7ff1482911c73eec43d9ad4306e122520163956f7d1a863
+    type: zipped-medias
