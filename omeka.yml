@@ -524,3 +524,13 @@ all:
     size: 1122964266
     sha256sum: 438e65c270b903380b92032ba902f7fbbd49bb3300a434f2d9afee4cfa765938
     type: zipped-medias
+  introduction-to-healthcare-en:
+    name: Introduction to healthcare
+    description: This package contains basic information on healthcare. It provides
+      tips and scientific information about common diseases and ways to prevent them.
+    language: en
+    version: '2017-06-01'
+    url: http://packages.ideascube.org/omeka/introduction-to-healthcare-en.zip
+    size: 443411087
+    sha256sum: 229495425a291afa05085fd71ac627d0ac9163d1d862d5d9aafdddb91d006fd4
+    type: zipped-medias
