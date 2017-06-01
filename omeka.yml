@@ -440,3 +440,14 @@ all:
     size: 278167051
     sha256sum: 0e573a223d59c6c9e2d28027c04ca540b6006832da87c3ed57f6d9d70ddf389f
     type: zipped-medias
+  learning-french-en:
+    name: Learning French
+    description: You want to learn French? Here are a few videos and flashcards to
+      learn some words and everyday life expressions that will be useful to communicate
+      with your French speaking friends.
+    language: en
+    version: '2017-06-01'
+    url: http://packages.ideascube.org/omeka/learning-french-en.zip
+    size: 300235084
+    sha256sum: bbf5aebf784275a0788e090f7cb6909db62638d033e297a6c4ed5b962ff132a9
+    type: zipped-medias
