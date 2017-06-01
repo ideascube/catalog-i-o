@@ -534,3 +534,12 @@ all:
     size: 443411087
     sha256sum: 229495425a291afa05085fd71ac627d0ac9163d1d862d5d9aafdddb91d006fd4
     type: zipped-medias
+  introduction-to-ecology-en:
+    name: Introduction to ecology
+    description: What is climate change? How does our activity influence the environment? Learn about ecology with this selection of videos and articles.
+    language: en
+    version: '2017-06-01'
+    url: http://packages.ideascube.org/omeka/introduction-to-ecology-en.zip
+    size: 479735437
+    sha256sum: 84736dbfb8d7352f114efc0f2edfbaa90053df861463ac11a7fabfcbbf5ba499
+    type: zipped-medias
