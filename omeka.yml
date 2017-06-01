@@ -543,3 +543,12 @@ all:
     size: 479735437
     sha256sum: 84736dbfb8d7352f114efc0f2edfbaa90053df861463ac11a7fabfcbbf5ba499
     type: zipped-medias
+  introduction-to-journalism-en:
+    name: Introduction to journalism
+    description: You are interested in journalism? Or just curious about what a journalist's everyday life looks like? Learn about the challenges and highlights of a journalistic career with this selection of videos and tutorials. This package of contents will provide you with tips and advices to become a rigorous reporter, as well as help you uncover the different facets of journalism.
+    language: en
+    version: '2017-06-01'
+    url: http://packages.ideascube.org/omeka/introduction-to-journalism-en.zip
+    size: 742424213
+    sha256sum: 0c36a175aa435f003eb9bc85fd796466bb52453c41d0fad8f2c14751689bbdbe
+    type: zipped-medias
