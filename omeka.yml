@@ -483,3 +483,13 @@ all:
     size: 644897218
     sha256sum: 7d4476d27ff97096d61cbf18b088ee914b15aa6d01ddd48748eecf843787c7cb
     type: zipped-medias
+  greek-mythology-en:
+    name: Greek mythology
+    description: Who is Hercules? Who is Zeus? Or Athena? Discover the great stories
+      of the greek mythology with these videos.
+    language: en
+    version: '2017-06-01'
+    url: http://packages.ideascube.org/omeka/greek-mythology-en.zip
+    size: 1298270713
+    sha256sum: 09d6f65c57f40f2a42de01b3641fc8cce023c3531cdeddd25ff13767a1096e40
+    type: zipped-medias
