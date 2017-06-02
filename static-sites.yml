@@ -97,6 +97,6 @@ all:
     name: service-public.fr
     sha256sum: 600f315f17c3330b5e42ff2f8486b50af51aea894be229031388eb0480a8ed18
     size: 552814788
-    type: zipped-medias
+    type: static-site
     url: http://packages.ideascube.org/static-sites/service-public.fr.zip
     version: 2017-06-01
