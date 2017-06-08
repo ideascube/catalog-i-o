@@ -21,10 +21,10 @@ all:
     name: Sports
     description: Vous souhaitez vous perfectionner en football ? Découvrir un nouveau sens au mot "sport" ? C'est ici !
     language: fr
-    version: '2017-05-23'
-    url: http://packages.ideascube.org/omeka/sport-football-fr.zip
+    version: '2017-06-08'
+    url: http://packages.ideascube.org/omeka/sport-fr.zip
     size: 2709131480
-    sha256sum: fc1a9e15cbf5805159e93d411f3315ad3f099279c8e87321860347e9e10f87c3
+    sha256sum: 6d6f9c585b66111e4cbf7b27590d36fa9427358c4b786cd0ebdf3f97e45d2141
     type: zipped-medias
   connaissance-droits-universels-fr:
     name: Connaissance des droits universels
@@ -39,10 +39,10 @@ all:
     name: Musique
     description: Pour découvrir de nouveaux styles musicaux ou écouter quelques morceaux !
     language: fr
-    version: '2017-05-23'
+    version: '2017-06-08'
     url: http://packages.ideascube.org/omeka/musique-fr.zip
-    size: 885842919
-    sha256sum: 37a68ff54e33c96bf47cf7a0ae3520aa87ee65a51e0d2c079b2d027b71be7b8e
+    size: 1003938332
+    sha256sum: a867cfc3773154817af3fea90ab5d1552bfd34359331fb77175110dbb3bcdbbe
     type: zipped-medias
   citoyennete-et-politique-fr:
     name: Citoyenneté et politique
@@ -224,10 +224,10 @@ all:
     name: "Hygiène de base"
     description: "Pour réfléchir à ses réflexes de base en terme d'hygiène et éviter les maladies !"
     language: fr
-    version: '2017-05-19'
+    version: '2017-06-08'
     url: http://packages.ideascube.org/omeka/hyigene-de-base-fr.zip
-    size: 89496260
-    sha256sum: a34487e0d6899f127752e424cbaef61137d99c537e2024390187a005437f050b
+    size: 88452402
+    sha256sum: 7c8a8a969db5ea52b3b8f15e68ac48f4070b2757c093f60b6542ad3ca14a3248
     type: zipped-medias
   prevention-addictions-fr:
     name: "Prévention addictions"
@@ -390,10 +390,10 @@ all:
     name: "Hygiène (enfants)"
     description: "Pourquoi il faut se laver, le corps, les mains, les dents ? Pour rester en bonne santé, et pour que ceux autour de nous le reste aussi ! Apprends à prendre les bonnes habitudes en t'amusant !"
     language: fr
-    version: '2017-05-23'
+    version: '2017-06-08'
     url: http://packages.ideascube.org/omeka/hygiene-enfants-fr.zip
     size: 106790233
-    sha256sum: eeb931c6fc7a8149579a0030caef64f28b4e89ec5210a4216c05686a5f39287b
+    sha256sum: 106c9ca602042df65b51ced331d00a1de9d2dee0a6ca51c592f91eb7fba664f9
     type: zipped-medias
   contes-et-dessins-animes-fr:
     name: "Contes et dessins animés"
