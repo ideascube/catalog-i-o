@@ -19,7 +19,7 @@ exit 1
     exit 2
 }
 
-URL_LIST=$( awk ' /url:/ { print $2 } ' $1  )
+URL_LIST=$( awk ' /url:/ { print $2 } ' $1 | tr -d '"' | tr -d "'" )
 
 for i in $URL_LIST; do
 	echo $i
