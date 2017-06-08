@@ -16,7 +16,7 @@ exit 1
 
 URL_LIST=$(grep url $1 | awk '{print $2}')
 
-for i in $URL_LIST; do 
+for i in $URL_LIST; do
 	echo $i
 	HEAD -t 3 -s -d $i 2>/dev/null
 	case $? in
@@ -38,4 +38,3 @@ else
 	echo "All URL are fine."
 
 fi
-	
