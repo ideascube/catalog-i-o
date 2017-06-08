@@ -34,7 +34,8 @@ if [[ ${#BADURL[@]} -ne 0 ]]; then
 	for i in ${BADURL[@]}; do
 		echo $i
 	done
+    exit 2
 else
 	echo "All URL are fine."
-
+    exit 0
 fi
