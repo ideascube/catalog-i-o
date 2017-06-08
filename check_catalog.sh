@@ -9,7 +9,11 @@ echo "Example: $0 omeka.yml"
 exit 1
 }
 
-[[ -z "$1" ]] && help
+[[ -z "$1" ]] && {
+    help
+    exit 1
+}
+
 URL_LIST=$(grep url $1 | awk '{print $2}')
 
 for i in $URL_LIST; do 
