@@ -149,10 +149,10 @@ all:
     name: Bien-être, développement personnel, communication avec les autres
     description: Détendez-vous. Respirez. Accueillez vos émotions. Exprimez vos besoins. Vous serez mieux avec vous même et avec les autres !
     language: fr
-    version: '2017-05-18'
+    version: '2017-06-08'
     url: http://packages.ideascube.org/omeka/bien-etre-dev-perso-communication-fr.zip
-    size: 1033311168
-    sha256sum: 8dbfbe0e4a096ad1b4a34dbd3658fbf7ec53e8eefb6f35496437245b23fb4ea8
+    size: 1051306831
+    sha256sum: 538533ddd6c11281f7126d0ef0c5077616b59d38df5287db32c1073f6c7352b2
     type: zipped-medias
   photographie-fr:
     name: Photographie
