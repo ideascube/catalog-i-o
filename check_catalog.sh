@@ -14,7 +14,7 @@ exit 1
     exit 1
 }
 
-URL_LIST=$(grep url $1 | awk '{print $2}')
+URL_LIST=$( awk ' /url:/ { print $2 } ' $1  )
 
 for i in $URL_LIST; do
 	echo $i
