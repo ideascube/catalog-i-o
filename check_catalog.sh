@@ -14,6 +14,11 @@ exit 1
     exit 1
 }
 
+[[ -x /usr/bin/HEAD ]] || {
+    echo "Error: HEAD not found. apt-get install libwww-perl" >&2
+    exit 2
+}
+
 URL_LIST=$( awk ' /url:/ { print $2 } ' $1  )
 
 for i in $URL_LIST; do
@@ -23,9 +28,6 @@ for i in $URL_LIST; do
 	 1)
 		BADURL+=("$i")
 		;;
-	 127)
-		echo "Please install missing program HEAD"
-		;;
 	esac
 done
 
@@ -34,7 +36,7 @@ if [[ ${#BADURL[@]} -ne 0 ]]; then
 	for i in ${BADURL[@]}; do
 		echo $i
 	done
-    exit 2
+    exit 404
 else
 	echo "All URL are fine."
     exit 0
