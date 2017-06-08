@@ -586,3 +586,15 @@ all:
     size: 5151086752
     sha256sum: a2d627d78067a51ac7ff1482911c73eec43d9ad4306e122520163956f7d1a863
     type: zipped-medias
+  se-preparer-a-une-catastrophe-fr:
+    name: "Se pr\xE9parer \xE0 une catastrophe"
+    description: "En 10 ans, le nombre de catastrophes naturelles li\xE9es au r\xE9\
+      chauffement climatique a augment\xE9 de 60%. 1 personne sur deux est susceptible\
+      \ d\u2019y \xEAtre confront\xE9e ! Dans ce programme vous allez apprendre les\
+      \ bons gestes de s\xE9curit\xE9 \xE0 adopter face \xE0 une catastrophe majeure."
+    language: fr
+    version: '2017-06-08'
+    url: http://packages.ideascube.org/omeka/se-preparer-a-une-catastrophe-fr.zip
+    size: 76949203
+    sha256sum: 6918d93afa7d9edbf8e02edaa0b80bf3379f38975a579efd18499398b8bfea35
+    type: zipped-medias
