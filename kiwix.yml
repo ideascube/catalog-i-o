@@ -297,14 +297,14 @@ all:
     langid: "tedentertainment.en"
     type: zipped-zim
   tedglobalissues.en:
-    version: "2015-02-02"
-    size: 13064555271
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_global_issues_2015-02.zip"
+    version: "2016-06-26"
+    size: 15367797327
+    url: "https://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_global_issues_2016-06.zip"
     name: TED Global issues
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of global issues.
-    id: "0962c4a9-ea49-cbc1-29e0-7f9dd4d92535"
-    sha256sum: "1b1a87defa85f700219256f3182ad52f295ddeeb0039cc98ce94f00bd357ebd8"
+    id: "95af241b-be90-a801-ddc7-d94d0a6aa672"
+    sha256sum: "3a2c887381fe3d8eb10b401f8f239840acd39e5cc7a5dde324af49a93803a8e4"
     langid: "tedglobalissues.en"
     type: zipped-zim
   tedscience.en:
