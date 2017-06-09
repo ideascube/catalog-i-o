@@ -319,14 +319,14 @@ all:
     langid: "tedscience.en"
     type: zipped-zim
   tedtechnology.en:
-    version: "2015-02-02"
-    size: 16161925189
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_technology_2015-02.zip"
+    version: "2016-06-26"
+    size: 19281815651
+    url: "https://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_technology_2016-06.zip"
     name: TED Technology
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of technology.
-    id: "c4ce211e-4c1a-15d2-bfe1-0730f78a5111"
-    sha256sum: "d16765975e574a92ad16c702f740f80f4f17b1583ff51aa62be7807c7d3626d0"
+    id: "cbb0510d-7496-726c-6b6f-92dfe58e698f"
+    sha256sum: "1fc70981a9b6494ee9086ffba54f8fa87ba413f2bf57a03e2ac8836df082ea6c"
     langid: "tedtechnology.en"
     type: zipped-zim
   wikivoyage.fr:
