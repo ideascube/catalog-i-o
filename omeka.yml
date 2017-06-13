@@ -363,7 +363,7 @@ all:
     description: "Pars à la découverte du corps humain !"
     language: fr
     version: '2017-06-13'
-    url: http://packages.ideascube.org/omeka/biologie-adolescents.zip
+    url: http://packages.ideascube.org/omeka/biologie-adolescents-fr.zip
     size: 2728471778
     sha256sum: 9f905b21d2d14e13f8734a94d686be71d2fd14429505caa706cb3ab7d9f4e2f2
     type: zipped-medias
