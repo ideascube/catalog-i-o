@@ -26,14 +26,16 @@ all:
     size: 2709131480
     sha256sum: 6d6f9c585b66111e4cbf7b27590d36fa9427358c4b786cd0ebdf3f97e45d2141
     type: zipped-medias
-  connaissance-droits-universels-fr:
+  connaissance-des-droits-universels-fr:
     name: Connaissance des droits universels
-    description: Connaissez vous vos droits fondamentaux et universels ? C'est le moment de les redécouvrir afin de les maitriser pour mieux vous défendre !
+    description: "Connaissez vous vos droits fondamentaux et universels ? C'est le\
+      \ moment de les red\xE9couvrir afin de les maitriser pour mieux vous d\xE9fendre\
+      \ !"
     language: fr
-    version: '2017-05-19'
-    url: http://packages.ideascube.org/omeka/connaissance-droits-universels-fr.zip
+    version: '2017-06-13'
+    url: http://packages.ideascube.org/omeka/connaissance-des-droits-universels-fr.zip
     size: 210641103
-    sha256sum: 7d6cfa8e204cd5b404849373535d85800ee66128ab2c8254e9157cd05a7e1d98
+    sha256sum: 06da7a51521a956dfd0553d7f12ec4ce325abff8906af14e4b070a279479ed3b
     type: zipped-medias
   musique-fr:
     name: Musique
@@ -45,13 +47,14 @@ all:
     sha256sum: a867cfc3773154817af3fea90ab5d1552bfd34359331fb77175110dbb3bcdbbe
     type: zipped-medias
   citoyennete-et-politique-fr:
-    name: Citoyenneté et politique
-    description: Démocratie, politique, élection, gauche, droite... On en parle ?
+    name: "Citoyennet\xE9 et politique"
+    description: "D\xE9mocratie, politique, \xE9lection, gauche, droite... On en parle\
+      \ ?"
     language: fr
-    version: '2017-05-19'
+    version: '2017-06-13'
     url: http://packages.ideascube.org/omeka/citoyennete-et-politique-fr.zip
     size: 104686722
-    sha256sum: 29ed737cb70fb75a86a22191ad751688c137cd98710952bb554549751af2fa33
+    sha256sum: b510eb65af0e9eecf5b38a4a9856f4db1b06cf3b4d24dd028e79803d6a0f75e2
     type: zipped-medias
   sa-relation-au-corps-fr:
     name: Sa relation au corps
@@ -73,12 +76,13 @@ all:
     type: zipped-medias
   discriminations-fr:
     name: Discriminations
-    description: "Handicap, genre, couleurs de peau, religion... La discrimination peut porter sur des tas de choses. Détectons les, et combattons les."
+    description: "Handicap, genre, couleurs de peau, religion... La discrimination\
+      \ peut porter sur des tas de choses. D\xE9tectons les, et combattons les."
     language: fr
-    version: '2017-05-19'
+    version: '2017-06-13'
     url: http://packages.ideascube.org/omeka/discriminations-fr.zip
     size: 1552598740
-    sha256sum: 5cfa16053ed31de05ebd2b647155f4a463cfc62b016834aab2f8df228a5feb59
+    sha256sum: a163ce5345dd423464628ad032aa0bb24796fd54c427eac4610b4eccf6bed77e
     type: zipped-medias
   fictions-divertissements-ar:
     name: خيال - fictions et divertissement en arabe
@@ -92,13 +96,13 @@ all:
     sha256sum: aacac20bb6418eec9048098d90ea268ce9b02cb8a8638c68406003436da8a5c4
     type: zipped-medias
   apprentissage-francais-fr:
-    name: Apprentissage du français
-    description: Quelques bases pour progresser en français.
+    name: "Apprentissage du fran\xE7ais"
+    description: "Quelques bases pour progresser en fran\xE7ais."
     language: fr
-    version: '2017-05-19'
+    version: '2017-06-13'
     url: http://packages.ideascube.org/omeka/apprentissage-francais-fr.zip
-    size: 396689497
-    sha256sum: 2ca0ebbd768e494141e80b9d76027ec811c5ae7674255bbad313665400814602
+    size: 720808872
+    sha256sum: 11e6926e505683a304933b95f6032deab9bb5b21fb8bd3c476e0cc9c9b8737f4
     type: zipped-medias
   programmation-informatique-fr:
     name: Programmation informatique
@@ -128,13 +132,15 @@ all:
     sha256sum: 2a7a842b6391497cd5f1af5c45f940052289de5f0f3a9dfb97feeec733f5995e
     type: zipped-medias
   musique-ar:
-    name: موسيقى - musique en arabe
-    description: الاسترخاء والاستماع إلى الموسيقى
+    name: "\u0645\u0648\u0633\u064A\u0642\u0649 - musique en arabe"
+    description: "\u0627\u0644\u0627\u0633\u062A\u0631\u062E\u0627\u0621 \u0648\u0627\
+      \u0644\u0627\u0633\u062A\u0645\u0627\u0639 \u0625\u0644\u0649 \u0627\u0644\u0645\
+      \u0648\u0633\u064A\u0642\u0649"
     language: ar
-    version: '2017-04-10'
+    version: '2017-06-13'
     url: http://packages.ideascube.org/omeka/musique-ar.zip
     size: 177985584
-    sha256sum: 6572d24eeeefa1233f1d10fc59704e20d647349d6c35cbcd7c1b01a782b197b3
+    sha256sum: fc1ecebd74ea060f75bedf474a4f050651ac21f2cdcc8de15dcfed8592e60e4e
     type: zipped-medias
   droits-et-demarches-administratives-fr:
     name: "Droits et d\xE9marches administratives"
@@ -190,12 +196,14 @@ all:
     type: zipped-medias
   monter-son-projet-professionnel-fr:
     name: Monter son projet professionnel
-    description: "Vous cherchez un emploi ou vous souhaitez vous reconvertir ? Vous trouverez ici de quoi vous aider à identifier vos compétences, préparer une candidature ou un entretien d'embauche"
+    description: "Vous cherchez un emploi ou vous souhaitez vous reconvertir ? Vous\
+      \ trouverez ici de quoi vous aider \xE0 identifier vos comp\xE9tences, pr\xE9\
+      parer une candidature ou un entretien d'embauche"
     language: fr
-    version: '2017-05-19'
+    version: '2017-06-13'
     url: http://packages.ideascube.org/omeka/monter-son-projet-professionnel-fr.zip
-    size: 1056396631
-    sha256sum: 99dbdb08e5e55b4f569588cc5699e8249fcceb774d6c3e0253b26c72603d3d2c
+    size: 1056408273
+    sha256sum: 49bdba0531f23c54175b754da6577c4529f8d0d9d28f4095ae5f482629953a0d
     type: zipped-medias
   audiobooks-et-fictions-sonores-fr:
     name: Audiobooks et fictions sonores
@@ -626,4 +634,13 @@ all:
     url: http://packages.ideascube.org/omeka/arts-plastiques-fr.zip
     size: 1060030245
     sha256sum: fa49b6ae4b377f2bec3bff8e8b8501006ae5994d0368239ea84d6f727fc4a9b4
+    type: zipped-medias
+  cuisine-fr:
+    name: Cuisine
+    description: Qu'est ce que nous mangeons ? Qu'est ce que les autres mangent ?
+    language: fr
+    version: '2017-06-13'
+    url: http://packages.ideascube.org/omeka/cuisine-fr.zip
+    size: 2496902711
+    sha256sum: 4a66bedd355ecc74b1d90030c5e98109d800899102cf01521737f7d8f5e7fed9
     type: zipped-medias
