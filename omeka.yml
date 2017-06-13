@@ -598,3 +598,12 @@ all:
     size: 76949203
     sha256sum: 6918d93afa7d9edbf8e02edaa0b80bf3379f38975a579efd18499398b8bfea35
     type: zipped-medias
+  nutrition-fr:
+    name: Nutrition
+    description: qu'est ce que "bien manger" ?
+    language: fr
+    version: '2017-06-13'
+    url: http://packages.ideascube.org/omeka/nutrition-fr.zip
+    size: 305833246
+    sha256sum: 9ed8fc42e6ff51d4da19192565c4a36ef7ba6f4a9a61f81992fcd649a7670a76
+    type: zipped-medias
