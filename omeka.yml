@@ -209,10 +209,10 @@ all:
     name: Audiobooks et fictions sonores
     description: "Les fictions, les romans, on peut aussi les écouter ! A vos casques !"
     language: fr
-    version: '2017-05-29'
+    version: '2017-06-13'
     url: http://packages.ideascube.org/omeka/audiobooks-et-fictions-sonores-fr.zip
     size: 1420205409
-    sha256sum: 94cb6ecff2e1a4ef3a80dadb9e1e5735e477d3148c1b94f0481abe1b5904506f
+    sha256sum: 8e0cb25321116b9d1c21691edde4b92b844dfd6317fa2bae486f7aa350102f01
     type: zipped-medias
   jardinage-et-agriculture-fr:
     name: Jardinage et agriculture
@@ -227,10 +227,10 @@ all:
     name: Films
     description: "Une comédie ? Un drame ? Un policier ? Découvrez ou redécouvrez ici quelques films muets ou en français."
     language: fr
-    version: '2017-05-23'
+    version: '2017-06-13'
     url: http://packages.ideascube.org/omeka/films-fr.zip
     size: 3543422460
-    sha256sum: 581c7f9354531ac13feb5e6915573abb81dcc89b61560c4d579278a080b63f4e
+    sha256sum: 99172d65ed7d1ca28dfed222ea51e092296f5780c8365b38982ef5896966fd9b
     type: zipped-medias
   hyigene-de-base-fr:
     name: "Hygiène de base"
@@ -284,10 +284,10 @@ all:
     name: Ebooks [Enfants]
     description: "Tu cherches de quoi lire, des livres pas trop compliqués ? C'est ici !"
     language: fr
-    version: '2017-05-23'
+    version: '2017-06-13'
     url: http://packages.ideascube.org/omeka/ebooks-enfants-fr.zip
     size: 37095509
-    sha256sum: d0144b5f7400d2a0b74da317f23ab95e792ddbf6b9643b3d094760cc32319ff2
+    sha256sum: b3fd070f33ca17f065f097962134b8b8d3959f4f65167e27a8a59735b54ae55f
     type: zipped-medias
   sexualite-fr:
     name: "Sexualité"
@@ -313,20 +313,20 @@ all:
     name: Histoire [Afrique]
     description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre les événements du présent."
     language: fr
-    version: '2017-05-23'
+    version: '2017-06-13'
     url: http://packages.ideascube.org/omeka/histoire-afrique-fr.zip
-    size: 1332960686
-    sha256sum: 939d472e05cc0baf9c2f55ffde893c5db3794aab1edc2b30ac6942848f97b327
+    size: 1354259621
+    sha256sum: 139fc3482c72b45858820c1f8900ce66d1e66da8be51f7ca9246a09e30cce19e
     type: zipped-medias
   arts-afrique-fr:
-    name: Arts [Afrique]
+    name: Arts (Afrique)
     description: Les arts plastiques, la danse... Les formes d'arts ne manquent pas,
       et font partie de la richesse d'un pays et d'une culture !
     language: fr
-    version: '2017-05-23'
+    version: '2017-06-13'
     url: http://packages.ideascube.org/omeka/arts-afrique-fr.zip
-    size: 947959006
-    sha256sum: 2fbd31dee4b61dae937a316cdc002e630f1ea19eb94a14c2242d1074ca8f665e
+    size: 1254131761
+    sha256sum: 14e45efa698f57d6abace927012b2aea2d9298b0e84ebe3260aca8c26f9e1f79
     type: zipped-medias
   geographie-afrique-de-l-est-fr:
     name: "Géographie (Afrique de l'Est"
@@ -350,30 +350,31 @@ all:
     type: zipped-medias
   nature-fr:
     name: Nature
-    description: "Qui sont les êtres vivants qui nous entourent ? Où vivent-ils ? Que mangent-ils ? Comment vivons nous ensemble ?"
+    description: "Qui sont les \xEAtres vivants qui nous entourent ? O\xF9 vivent-ils\
+      \ ? Que mangent-ils ? Comment vivons nous ensemble ?"
     language: fr
-    version: '2017-05-23'
+    version: '2017-06-13'
     url: http://packages.ideascube.org/omeka/nature-fr.zip
     size: 1302195607
-    sha256sum: e61082d5732486085959a39825817161de06e679c976ffe7cc1bbfab286c785c
+    sha256sum: fb00a5ae463d25d1eef0a3a54dfb4b9290500156638e83a7951148340bd6d61b
     type: zipped-medias
   biologie-adolescents-fr:
     name: Biologie (adolescents)
     description: "Pars à la découverte du corps humain !"
     language: fr
-    version: '2017-05-23'
-    url: http://packages.ideascube.org/omeka/biologie-adolescents-fr.zip
+    version: '2017-06-13'
+    url: http://packages.ideascube.org/omeka/biologie-adolescents.zip
     size: 2728471778
-    sha256sum: 7238fe2c1fd2e2b50880e3d19d07d50b29564f76eba77dea17f9a1304de305de
+    sha256sum: 9f905b21d2d14e13f8734a94d686be71d2fd14429505caa706cb3ab7d9f4e2f2
     type: zipped-medias
   ecriture-et-litterature-fr:
     name: "Ecriture et littérature"
     description: "Vous avez toujours rêvé de devenir écrivain ? C'est le moment de vous lancer !"
     language: fr
-    version: '2017-05-23'
+    version: '2017-06-13'
     url: http://packages.ideascube.org/omeka/ecriture-et-litterature-fr.zip
     size: 464557697
-    sha256sum: 4e6e06b5557f0d133ada3d19abe6f89609efaf5a9923a618e51adbe2f4e7e217
+    sha256sum: 22145e8339a078bbcc5a7e0c00e9f37a765f1b699f0a8f39324f05824729b6d8
     type: zipped-medias
   hygiene-afrique-fr:
     name: "Hygiène (Afrique)"
@@ -415,10 +416,10 @@ all:
     name: "Contes et dessins animés"
     description: "Apprendre, réfléchir, débattre en s'amusant ? C'est possible !"
     language: fr
-    version: '2017-05-23'
+    version: '2017-06-13'
     url: http://packages.ideascube.org/omeka/contes-et-dessins-animes-fr.zip
     size: 5390837176
-    sha256sum: c643d43c553198918362d041624fa731c836a14f1a1109bda29b6c1183ed3198
+    sha256sum: e394acb8085195e2c1083b21f37883428dceb2aff4abf8c3f4ea3ccf0dcb6a3a
     type: zipped-medias
   sante-fr:
     name: "Santé"
@@ -643,4 +644,23 @@ all:
     url: http://packages.ideascube.org/omeka/cuisine-fr.zip
     size: 2496902711
     sha256sum: 4a66bedd355ecc74b1d90030c5e98109d800899102cf01521737f7d8f5e7fed9
+    type: zipped-medias
+  biologie-enfants-fr:
+    name: Biologie (enfants)
+    description: "Pars \xE0 la d\xE9couverte du corps humain !"
+    language: fr
+    version: '2017-06-13'
+    url: http://packages.ideascube.org/omeka/biologie-enfants-fr.zip
+    size: 2985033160
+    sha256sum: 15ddac31df8f885473651e49936561e64049a3ddf0e633c103be78d33099aa75
+    type: zipped-medias
+  geographie-afrique-fr:
+    name: "G\xE9ographie (Afrique)"
+    description: 'Focus sur l''Afrique: quels pays, quels villes, quels contexte,
+      quels enjeux ?'
+    language: fr
+    version: '2017-06-13'
+    url: http://packages.ideascube.org/omeka/geographie-afrique-fr.zip
+    size: 242490710
+    sha256sum: f97ba4ad68e63d2448853d55baf04f605318159ca21e44dc9abb896845aca68d
     type: zipped-medias
