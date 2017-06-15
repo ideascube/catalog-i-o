@@ -664,3 +664,46 @@ all:
     size: 242490710
     sha256sum: f97ba4ad68e63d2448853d55baf04f605318159ca21e44dc9abb896845aca68d
     type: zipped-medias
+  sociologie-du-travail-fr:
+    name: Sociologie du travail
+    description: "Des articles universitaires issues d'une revue sp\xE9cialis\xE9\
+      e dans la sociologie du travail."
+    language: fr
+    version: '2017-06-13'
+    url: http://packages.ideascube.org/omeka/sociologie-du-travail-fr.zip
+    size: 124205716
+    sha256sum: e02f8ca9906df7a240604dfb898bca0840e442099374434597a17ca0367a1c9e
+    type: zipped-medias
+  bien-etre-et-communication-au-travail-fr:
+    name: "Bien-\xEAtre et communication au travail"
+    description: "Vous trouverez ici diff\xE9rentes vid\xE9os pour prendre confiance\
+      \ en vous et vous affirmer au travail. Vous trouverez \xE9galement  des cl\xE9\
+      s pour d\xE9samorcer et r\xE9soudre des conflits."
+    language: fr
+    version: '2017-06-13'
+    url: http://packages.ideascube.org/omeka/bien-etre-et-communication-au-travail-fr.zip
+    size: 286574707
+    sha256sum: 62a62700e61d119e5caaaa276474b612a99733b471085e5a5b78fe09a3655d91
+    type: zipped-medias
+  management-fr:
+    name: Management
+    description: "Comment \xEAtre un bon manager ? Comment amener une \xE9quipe \xE0\
+      \ r\xE9aliser ses objectifs. Vous trouverez ici des vid\xE9os p\xE9dagogiques\
+      \ sur les bases du management et des outils pour devenir vous-m\xEAme un bon\
+      \ manager."
+    language: fr
+    version: '2017-06-13'
+    url: http://packages.ideascube.org/omeka/management-fr.zip
+    size: 186430029
+    sha256sum: 806325a476e1ffd4ab3aaba8530a17cb2eefdd2628c64af05b95ca8e71717da6
+    type: zipped-medias
+  economie-fr:
+    name: Economie
+    description: "Des vid\xE9os ludiques pour comprendre les grands concepts \xE9\
+      conomiques : march\xE9, actions, obligations, dividendes ... etc."
+    language: fr
+    version: '2017-06-13'
+    url: http://packages.ideascube.org/omeka/economie-fr.zip
+    size: 830584488
+    sha256sum: 5c8a4cec5dee1c47bda0763baa2d5ebc6304a1f234369d18ec2546ba7463da91
+    type: zipped-medias
