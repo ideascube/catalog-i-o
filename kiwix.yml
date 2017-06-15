@@ -77,14 +77,14 @@ all:
     langid: "wiktionary.en"
     type: zipped-zim
   wiktionary.fr:
-    version: "2016-05-16"
-    size: 2046925193
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_fr_all_2016-05.zip"
+    version: "2016-11-01"
+    size: 1734413612
+    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_fr_all_2016-11.zip"
     name: Wiktionnaire
     language: "fra"
     description: Définition, traduction, prononciation, anagramme et synonyme sur le dictionnaire libre Wiktionnaire.
-    id: "f2ee7738-ede8-2e6f-7879-9eb8ccddc7ca"
-    sha256sum: "47a879ac4c34eb2681e7fea7f1ba08ce3729a428680cff5df3c79c565ddafd37"
+    id: "dabba516-cbbf-f5cd-c214-dd71931b897a"
+    sha256sum: "2890accaceafe509ceffe434ad27c58bc9f0139643024891571a239ec43ef7e7"
     langid: "wiktionary.fr"
     type: zipped-zim
   wikiversity.en:
