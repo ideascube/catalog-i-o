@@ -707,3 +707,12 @@ all:
     size: 830584488
     sha256sum: 5c8a4cec5dee1c47bda0763baa2d5ebc6304a1f234369d18ec2546ba7463da91
     type: zipped-medias
+  marketing-fr:
+    name: Marketing
+    description: Les bases du marketing.
+    language: fr
+    version: '2017-06-13'
+    url: http://packages.ideascube.org/omeka/marketing-fr.zip
+    size: 355547447
+    sha256sum: 951fff11ac66e6544e2ec13fed06badd6a0b9829b5a3ed415dcbe42fb6502481
+    type: zipped-medias
