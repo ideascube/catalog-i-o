@@ -963,3 +963,13 @@ all:
     size: 4944542501
     sha256sum: "b56aa17a1e21b5c8e8e744fc79f67d81b7eb400ee9189a01a4aa965da71bcec6"
     type: zipped-zim
+  wikipedia.sq:
+    name: "Wikipedia"
+    description: "Nga Wikipedia, enciklopedia e lirë"
+    version: "2017-01-08"
+    language: "sq"
+    id: "340cd648-fcb1-ed43-8273-b43cb60864d5"
+    url: "https://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_sq_all_2017-01.zip"
+    size: 932733703
+    sha256sum: "87670948b8ca24d2a7dc16ecd2fec6f995706b0d6318c5bfa12385bf71653dca"
+    type: zipped-zim
