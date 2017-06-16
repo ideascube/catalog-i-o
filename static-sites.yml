@@ -19,7 +19,7 @@ all:
     version: '2017-05-09'
   help.unhcr.org:
     name: UNHCR - Finding Help in Greece
-    version: 2017-04-19
+    version: "2017-04-19"
     description: Website for refugees and asylum seekers in Greece.
     url: http://packages.ideascube.org/static-sites/help.unhcr.org/help.unhcr.org.zip
     sha256sum: 7b742322d8ab48d8ac6d42d7d1e5bee9ba5e2e118e3844be76a63d90dd18c530
@@ -27,7 +27,7 @@ all:
     type: static-site
   sabelotodo.es:
     name: Sabelotodo.org, la web del saber
-    version: 2017-03-29
+    version: "2017-03-29"
     description: Ser cultos para sel libres.
     url: http://packages.ideascube.org/static-sites/sabelotodo.zip
     sha256sum: 9942e975e3f5c62bf942779569111b28a34b7533ace28368499e0d593cfb7092
@@ -36,14 +36,14 @@ all:
   icarito.es:
     name: Icarito
     description: Descarga fichas de estudio, galerías de fotos, ilustraciones y videos.
-    version: 2017-03-29
+    version: "2017-03-29"
     url: http://packages.ideascube.org/static-sites/icarito.zip
     sha256sum: 5395b9146b5f012fefd563eb49746784b1e6cf84d5ac597376401bdef99c890e
     size: 30268090
     type: static-site
   w2eu:
     name: Welcome to Europe refugees website
-    version: 2017-04-20
+    version: "2017-04-20"
     url: http://packages.ideascube.org/w2eu/w2eu.zip
     sha256sum: cb803574fd5e91876603ea62fe12df0aca6f2dbccf82fc33aee9e48e7b1ccd8a
     size: 128787858
@@ -51,14 +51,14 @@ all:
     dump: wget --verbose --mirror --no-clobber --page-requisites --adjust-extension --convert-links --restrict-file-names=windows --no-parent -e robots=off --wait=0 --random-wait -U mozilla --directory-prefix=/home/florian/Téléchargements/sites/ --waitretry=5  http://w2eu.info/ && cd w2eu.info && zip -r w2eu.zip .
   clickinfoado.sn:
     name: Click Info Ado
-    version: 2016-04-21
+    version: "2016-04-21"
     url: http://packages.ideascube.org/clickinfoado/clickinfoado.sn.zip
     sha256sum: e9ff96f824c93943315eb0bf95bf6482e5d7be03120fe3f56efbc866045871aa
     size: 78473936
     type: static-site
   snap:
     name: Snap!
-    version: 2016-10-06
+    version: "2016-10-06"
     description: Programming language for kids and adults.
     url: http://packages.ideascube.org/snap/snap.zip
     sha256sum: b2a43ce9f1969ca6735eea55a11850361077b5e07f122514857f5208dfe41a08
@@ -66,7 +66,7 @@ all:
     type: static-site
   cinescuela.es:
     name: Cinescuela
-    version: 2016-10-20
+    version: "2016-10-20"
     description: Lleva el cine a tu biblioteca móvil.
     url: http://packages.ideascube.org/cinescuela/cinescuela.zip
     sha256sum: 8a3812560685096f8ba37ae9721d1296d93f263502a546540f358e9f59532771
@@ -75,7 +75,7 @@ all:
     type: static-site
   maguare.es:
     name: Maguaré
-    version: 2016-10-26
+    version: "2016-10-26"
     description: Descubre, imagina y crea, portal infantil.
     url: http://packages.ideascube.org/maguare/maguare.zip
     sha256sum: 68353fd10eea5301cd2b931c43035fdc2f6afe56d6d3fcaa05ffb126e3e8bc6a
@@ -85,7 +85,7 @@ all:
   twentyfourhoursinanewsroom:
     name: 24h in a news room
     description: The foundations of journalism in four collections
-    version: 2016-11-23
+    version: "2016-11-23"
     language: en
     url: http://packages.ideascube.org/24hinanewsroom/24hinanewsroom.en.zip
     size: 16072507
@@ -99,4 +99,4 @@ all:
     size: 552814788
     type: static-site
     url: http://packages.ideascube.org/static-sites/service-public.fr.zip
-    version: 2017-06-01
+    version: "2017-06-01"
