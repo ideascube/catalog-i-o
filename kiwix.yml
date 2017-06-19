@@ -5,7 +5,7 @@ all:
     version: "2016-12-25"
     language: "pol"
     id: "09f077ca-a8c5-1d00-a800-fd0167b32045"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_pl_all_2016-12.zip"
+    url: "https://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_pl_all_2016-12.zip"
     size: 13898397777
     sha256sum: "dfd2eeb711889d4927a3eb5b225ff2769337c79b7c75041f9949d9d0597c05d5"
     type: zipped-zim
@@ -16,7 +16,7 @@ all:
     version: "2016-06-01"
     language: "tir"
     id: "0f0e4386-c15e-2a91-65dc-319c790380b2"
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ti_all_2016-06.zip"
+    url: "https://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ti_all_2016-06.zip"
     size: 198121841
     sha256sum: "f8b5ccd812da0ed1c1de891daf7b661d7f983e729bd10b93d0b54a2b65a08448"
     type: zipped-zim
@@ -27,7 +27,7 @@ all:
     version: "2016-08-19"
     language: "tir"
     id: "b1ef260a-bcc8-2fe0-54cb-2c7bacf0b827"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ti_all_2016-08.zip"
+    url: "https://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ti_all_2016-08.zip"
     size: 199827561
     sha256sum: "9d934c61b6f5d39233e2bcfad2ca7131bc691dbd240c55b3837ec368553db67c"
     type: zipped-zim
@@ -35,7 +35,7 @@ all:
   wikipedia.en:
     version: "2016-05-17"
     size: 65652955268
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_en_all_2016-05.zip"
+    url: "https://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_en_all_2016-05.zip"
     name: Wikipedia
     language: "eng"
     description: The free encyclopedia
@@ -46,7 +46,7 @@ all:
   wikipedia.fr:
     version: "2017-05-18"
     size: 27850391560
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_fr_all_2017-05.zip"
+    url: "https://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_fr_all_2017-05.zip"
     name: Wikipédia
     language: "fra"
     description: L'encyclopédie libre.
@@ -57,7 +57,7 @@ all:
   wikipedia.rn:
     version: "2016-05-13"
     size: 201052048
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_rn_all_2016-05.zip"
+    url: "https://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_rn_all_2016-05.zip"
     name: Wikipedia
     language: "run"
     description: The free encyclopedia
@@ -67,7 +67,7 @@ all:
     type: zipped-zim
   wiktionary.en:
     version: "2016-12-18"
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_en_all_2016-12.zip"
+    url: "https://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_en_all_2016-12.zip"
     name: Wiktionary
     language: "eng"
     description: The free dictionary
@@ -79,7 +79,7 @@ all:
   wiktionary.fr:
     version: "2016-11-01"
     size: 1734413612
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_fr_all_2016-11.zip"
+    url: "https://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_fr_all_2016-11.zip"
     name: Wiktionnaire
     language: "fra"
     description: Définition, traduction, prononciation, anagramme et synonyme sur le dictionnaire libre Wiktionnaire.
@@ -90,7 +90,7 @@ all:
   wikiversity.en:
     version: "2017-03-02"
     size: 945537777
-    url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_en_all_2017-03.zip"
+    url: "https://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_en_all_2017-03.zip"
     name: Wikiversity
     language: "eng"
     description: Tutorials and courses for the fostering of learning.
@@ -101,7 +101,7 @@ all:
   wikiversity.fr:
     version: "2016-12-19"
     size: 621497756
-    url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_fr_all_2016-12.zip"
+    url: "https://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_fr_all_2016-12.zip"
     name: Wikiversité
     language: "fra"
     description: "Une page de Wikiversité."
@@ -112,7 +112,7 @@ all:
   wikibooks.en:
     version: "2017-02-14"
     size: 1470200802
-    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_en_all_2017-02.zip"
+    url: "https://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_en_all_2017-02.zip"
     name: Wikibooks
     language: "eng"
     description: Open books for an open world
@@ -123,7 +123,7 @@ all:
   wikibooks.fr:
     version: "2017-02-14"
     size: 739377803
-    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_fr_all_2017-02.zip"
+    url: "https://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_fr_all_2017-02.zip"
     name: Wikilivres
     language: "fra"
     description: Bibliothèque de livres pédagogiques libres.
@@ -134,7 +134,7 @@ all:
   wikisource.en:
     version: "2017-02-17"
     size: 12191748075
-    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_en_all_2017-02.zip"
+    url: "https://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_en_all_2017-02.zip"
     name: Wikisource
     language: "eng"
     description: Digital library of free content textual sources.
@@ -145,7 +145,7 @@ all:
   wikisource.fr:
     version: "2016-08-05"
     size: 9476949105
-    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_fr_all_2016-08.zip"
+    url: "https://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_fr_all_2016-08.zip"
     name: Wikisource
     language: "fra"
     description: "La bibliothèque libre."
@@ -156,7 +156,7 @@ all:
   cest-pas-sorcier.fr:
     version: "2015-07-08"
     size: 33058680868
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+cest-pas-sorcier_fr_all_2015-07.zip"
+    url: "https://download.kiwix.org/portable/other/kiwix-0.9+cest-pas-sorcier_fr_all_2015-07.zip"
     name: Cest pas sorcier
     language: "fra"
     description: "Cest pas sorcier videos"
@@ -167,7 +167,7 @@ all:
   gutenberg.en:
     version: "2014-10-26"
     size: 43415229696
-    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_en_all_10_2014.zip"
+    url: "https://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_en_all_10_2014.zip"
     name: Project Gutenberg Library (english)
     language: "eng"
     description: "Project Gutenberg offers free ebook (epub and pdf)"
@@ -178,7 +178,7 @@ all:
   gutenberg.fr:
     version: "2014-10-18"
     size: 2380948535
-    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_fr_all_10_2014.zip"
+    url: "https://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_fr_all_10_2014.zip"
     name: Project Gutenberg Library (french)
     language: "fra"
     description: "Le Projet Gutenberg offre des livres électroniques gratuits à télécharger sur votre PC"
@@ -189,7 +189,7 @@ all:
   ubuntudoc.fr:
     version: "2015-12-15"
     size: 680659800
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+ubuntudoc_fr_all_2015-12.zip"
+    url: "https://download.kiwix.org/portable/other/kiwix-0.9+ubuntudoc_fr_all_2015-12.zip"
     name: Documentation Ubuntu Française
     language: "fra"
     description: "Version hors ligne du wiki: doc.ubuntu-fr.org"
@@ -200,7 +200,7 @@ all:
   universcience-tv.fr:
     version: "2015-03-20"
     size: 13944351804
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+universcience-tv_fr_all_2015-03.zip"
+    url: "https://download.kiwix.org/portable/other/kiwix-0.9+universcience-tv_fr_all_2015-03.zip"
     name: universcience tv
     language: "fra"
     description: "universcience tv videos"
@@ -211,7 +211,7 @@ all:
   tedxgeneva2014.fr:
     version: "2015-03-17"
     size: 465142299
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedxgeneva-2014_fr_all_2015-03.zip"
+    url: "https://download.kiwix.org/portable/ted/kiwix-0.9+tedxgeneva-2014_fr_all_2015-03.zip"
     name: TEDxGeneva 2014
     language: "fra"
     description: "TEDxGeneva 2014 videos"
@@ -222,7 +222,7 @@ all:
   tedxlausanne2012.fr:
     version: "2015-03-17"
     size: 450040712
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedxlausanne-2012_fr_all_2015-03.zip"
+    url: "https://download.kiwix.org/portable/ted/kiwix-0.9+tedxlausanne-2012_fr_all_2015-03.zip"
     name: TEDxLausanne 2012
     language: "fra"
     description: "TEDxLausanne 2012 videos"
@@ -233,7 +233,7 @@ all:
   tedxlausanne2013.fr:
     version: "2015-03-18"
     size: 562322158
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedxlausanne-2013_fr_all_2015-03.zip"
+    url: "https://download.kiwix.org/portable/ted/kiwix-0.9+tedxlausanne-2013_fr_all_2015-03.zip"
     name: TEDxLausanne 2013
     language: "fra"
     description: "TEDxLausanne 2013 videos"
@@ -244,7 +244,7 @@ all:
   tedxlausanne2014.fr:
     version: "2015-03-18"
     size: 516471569
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedxlausanne-2014_fr_all_2015-03.zip"
+    url: "https://download.kiwix.org/portable/ted/kiwix-0.9+tedxlausanne-2014_fr_all_2015-03.zip"
     name: TEDxLausanne 2014
     language: "fra"
     description: "TEDxLausanne 2014 videos"
@@ -255,7 +255,7 @@ all:
   tedxlausannechange2013.fr:
     version: "2015-03-18"
     size: 277352035
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedxlausannechange-2013_fr_all_2015-03.zip"
+    url: "https://download.kiwix.org/portable/ted/kiwix-0.9+tedxlausannechange-2013_fr_all_2015-03.zip"
     name: TEDxLausanneChange 2013
     language: "fra"
     description: "TEDxLausanneChange 2013 videos"
@@ -266,7 +266,7 @@ all:
   tedbusiness.en:
     version: "2015-02-02"
     size: 8629637983
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_business_2015-02.zip"
+    url: "https://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_business_2015-02.zip"
     name: TED Business
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of business.
@@ -277,7 +277,7 @@ all:
   teddesign.en:
     version: "2015-02-02"
     size: 8752857912
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_design_2015-02.zip"
+    url: "https://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_design_2015-02.zip"
     name: TED Design
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of design.
@@ -288,7 +288,7 @@ all:
   tedentertainment.en:
     version: "2015-02-02"
     size: 8141433715
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_entertainment_2015-02.zip"
+    url: "https://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_entertainment_2015-02.zip"
     name: TED Entertainment
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of entertainment.
@@ -310,7 +310,7 @@ all:
   tedscience.en:
     version: "2015-02-02"
     size: 12273628956
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_science_2015-02.zip"
+    url: "https://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_science_2015-02.zip"
     name: TED Science
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of science.
@@ -332,7 +332,7 @@ all:
   wikivoyage.fr:
     version: "2017-03-01"
     size: 354276201
-    url: "http://download.kiwix.org/portable/wikivoyage/kiwix-0.9+wikivoyage_fr_all_2017-03.zip"
+    url: "https://download.kiwix.org/portable/wikivoyage/kiwix-0.9+wikivoyage_fr_all_2017-03.zip"
     name: Wikivoyage
     language: "fra"
     description: "De Wikivoyage"
@@ -343,7 +343,7 @@ all:
   wikipedia.wo:
     version: "2016-08-21"
     size: 216674180
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_wo_all_2016-08.zip"
+    url: "https://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_wo_all_2016-08.zip"
     name: Wikipedia
     language: "wol"
     description: "Jóge  Wikipedia"
@@ -354,7 +354,7 @@ all:
   wikistage.fr:
     version: "2015-07-14"
     size: 5079022901
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+wikistage_fr_all_2015-07.zip"
+    url: "https://download.kiwix.org/portable/other/kiwix-0.9+wikistage_fr_all_2015-07.zip"
     name: WikiStage
     language: "fra"
     description: "WikiStage videos"
@@ -365,7 +365,7 @@ all:
   dirtybiology.fr:
     version: "2016-03-30"
     size: 1687788558
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+dirtybiology_fr_all_2016-03.zip"
+    url: "https://download.kiwix.org/portable/other/kiwix-0.9+dirtybiology_fr_all_2016-03.zip"
     name: DirtyBiology
     language: "fra"
     description: "DirtyBiology videos"
@@ -376,7 +376,7 @@ all:
   wikipedia.pt:
     version: "2016-08-27"
     size: 10428157729
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_pt_all_2016-08.zip"
+    url: "https://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_pt_all_2016-08.zip"
     name: Wikipédia
     language: "por"
     description: "Origem: Wikipédia, a enciclopédia livre."
@@ -387,7 +387,7 @@ all:
   gutenberg.pt:
     version: "2014-10-18"
     size: 386887655
-    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_pt_all_10_2014.zip"
+    url: "https://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_pt_all_10_2014.zip"
     name: Project Gutenberg Library (pt) with epub,pdf
     language: "por"
     description: "The first producer of free ebooks"
@@ -398,7 +398,7 @@ all:
   wikipedia.fa:
     version: "2016-12-01"
     size: 5529781854
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_fa_all_2016-11.zip"
+    url: "https://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_fa_all_2016-11.zip"
     name: ﻭیکی<200c>پﺩیﺍ
     language: "fas"
     description: "ﺍﺯ ﻭیکی<200c>پﺩیﺍ، ﺩﺎﻨﺸﻧﺎﻤﻫٔ ﺁﺯﺍﺩ"
@@ -409,7 +409,7 @@ all:
   wikipedia.ar:
     version: "2017-02-16"
     size: 6780480064
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ar_all_2017-02.zip"
+    url: "https://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ar_all_2017-02.zip"
     name: "ويكيبيديا"
     language: "ara"
     description: "ويكبيديا,الموسوعه الحره"
@@ -420,7 +420,7 @@ all:
   vikidia.fr:
     version: "2017-02-13"
     size: 735440808
-    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_fr_all_2017-02.zip"
+    url: "https://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_fr_all_2017-02.zip"
     name: Vikidia
     language: "fra"
     description: "Vikidia"
@@ -431,7 +431,7 @@ all:
   wikipedia.ku:
     version: "2016-12-30"
     size: 371325521
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ku_all_2016-12.zip"
+    url: "https://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ku_all_2016-12.zip"
     name: Wîkîpediya
     language: "kur"
     description: "Ji Wîkîpediya, ensîklopediya azad."
@@ -442,7 +442,7 @@ all:
   wiktionary.ku:
     version: "2016-05-20"
     size: 421323367
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ku_all_2016-05.zip"
+    url: "https://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ku_all_2016-05.zip"
     name: Wiktionary
     language: "kur"
     description: "Ji Wiktionary"
@@ -453,7 +453,7 @@ all:
   les-fondamentaux.fr:
     version: "2016-05-22"
     size: 484496221
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+les-fondamentaux_fr_all_2016-05.zip"
+    url: "https://download.kiwix.org/portable/other/kiwix-0.9+les-fondamentaux_fr_all_2016-05.zip"
     name: Les fondamentaux
     language: "fra"
     description: "Les fondamentaux videos"
@@ -464,7 +464,7 @@ all:
   bil-tunisia.ar:
     version: "2015-03-16"
     size: 2949838231
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+bil-tunisia_ar_all_2015-03.zip"
+    url: "https://download.kiwix.org/portable/other/kiwix-0.9+bil-tunisia_ar_all_2015-03.zip"
     name: "فيديو-بالتونسي"
     language: "ara"
     description: "مقاطع فيديو باللغه التونسيه"
@@ -475,7 +475,7 @@ all:
   icd10.fr:
     version: "2012-01-09"
     size: 198835367
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+icd10_fr_all_2012-01.zip"
+    url: "https://download.kiwix.org/portable/other/kiwix-0.9+icd10_fr_all_2012-01.zip"
     name: ICD-10
     language: "fra"
     description: "Classification statistique internationale des maladies et des problème de santé connexes"
@@ -486,7 +486,7 @@ all:
   mullah-piaz-digest.fa:
     version: "2012-12-18"
     size: 244776958
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+mullah-piaz-digest_fa_all_2012-12.zip"
+    url: "https://download.kiwix.org/portable/other/kiwix-0.9+mullah-piaz-digest_fa_all_2012-12.zip"
     name: Mullah Piaz
     language: "per,eng"
     description: "Digest"
@@ -497,7 +497,7 @@ all:
   wiktionary.fa:
     version: "2016-12-25"
     size: 379463088
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_fa_all_2016-12.zip"
+    url: "https://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_fa_all_2016-12.zip"
     name: ویکی<U+200C>واژه
     language: "fas"
     description: "از ویکی<U+200C>واژه"
@@ -508,7 +508,7 @@ all:
   wiktionary.ar:
     version: "2016-12-10"
     size: 361586244
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ar_all_2016-12.zip"
+    url: "https://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ar_all_2016-12.zip"
     name: "ويكي القاموس"
     language: "ara"
     description: "من ويكي القاموس، القاموس الحر"
@@ -519,7 +519,7 @@ all:
   wikiversity.ar:
     version: "2016-12-18"
     size: 340448541
-    url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_ar_all_2016-12.zip"
+    url: "https://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_ar_all_2016-12.zip"
     name: "ويكي الجامعة"
     language: "ara"
     description: "من ويكي الجامعة,مركز التعليم الحر"
@@ -530,7 +530,7 @@ all:
   wikipedia.es:
     version: "2017-05-28"
     size: 18823025657
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_es_all_2017-05.zip"
+    url: "https://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_es_all_2017-05.zip"
     name: Wikipedia
     language: "spa"
     description: "De Wikipedia, la enciclopedia libre"
@@ -541,7 +541,7 @@ all:
   gutenberg.es:
     version: "2014-10-18"
     size: 414626333
-    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_es_all_10_2014.zip"
+    url: "https://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_es_all_10_2014.zip"
     name: Project Gutenberg
     language: "spa"
     description: Libros electrónicos gratuitos a tu disposición.
@@ -552,7 +552,7 @@ all:
   gutenberg.de:
     version: "2014-10-18"
     size: 764131978
-    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_de_all_10_2014.zip"
+    url: "https://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_de_all_10_2014.zip"
     name: Project Gutenberg
     language: "deu"
     description: "The first producer of free ebooks"
@@ -563,7 +563,7 @@ all:
   wikipedia.de:
     version: "2017-01-08"
     size: 30895629708
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_de_all_2017-01.zip"
+    url: "https://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_de_all_2017-01.zip"
     name: Wikipedia
     language: "deu"
     description: "aus Wikipedia, der freien Enzyklopädie"
@@ -574,7 +574,7 @@ all:
   wikibooks.ar:
     version: "2016-12-04"
     size: 225769695
-    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_ar_all_2016-12.zip"
+    url: "https://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_ar_all_2016-12.zip"
     name: "ويكي المكتبة"
     language: "ara"
     description: "الموسوعة المكتبية الحرة"
@@ -585,7 +585,7 @@ all:
   wikisource.ar:
     version: "2017-02-20"
     size: 902340932
-    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_ar_all_2017-02.zip"
+    url: "https://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_ar_all_2017-02.zip"
     name: "ويكي المصدر"
     language: "ara"
     description: "المكتبة الحرة التي يستطيع الجميع تحسينها"
@@ -596,7 +596,7 @@ all:
   wikiquote.ar:
     version: "2016-12-17"
     size: 343439641
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_ar_all_2016-12.zip"
+    url: "https://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_ar_all_2016-12.zip"
     name: "ويكي الاقتباس"
     language: "ara"
     description: "ويكي للاقتباسات المختارة"
@@ -607,7 +607,7 @@ all:
   wikipedia.el:
     version: "2016-12-15"
     size: 2517236867
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_el_all_2016-12.zip"
+    url: "https://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_el_all_2016-12.zip"
     name: Βικιπαίδεια
     language: "ell"
     description: "Από τη Βικιπαίδεια, την ελεύθερη εγκυκλοπαίδεια"
@@ -618,7 +618,7 @@ all:
   wikipedia.ps:
     version: "2016-05-13"
     size: 306846356
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ps_all_2016-05.zip"
+    url: "https://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ps_all_2016-05.zip"
     name: ﻮﻳکﻱپېډﻱﺍ
     language: "pus"
     description: "ﺩ ﻮﻳکﻱپېډﻱﺍ، ﻭړیﺍ پﻮﻬﻨﻏﻮﻧډ ﻞﻫ ﺥﻭﺍ"
@@ -629,7 +629,7 @@ all:
   wiktionary.el:
     version: "2017-03-02"
     size: 410619187
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_el_all_2017-03.zip"
+    url: "https://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_el_all_2017-03.zip"
     name: Βικιλεξικό
     language: "ell"
     description: "Από Βικιλεξικό"
@@ -644,7 +644,7 @@ all:
     version: "2016-05-29"
     language: "pus"
     id: "f205e339-9ab6-8cde-f470-21719d526ab0"
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ps_all_2016-05.zip"
+    url: "https://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ps_all_2016-05.zip"
     size: 209168895
     sha256sum: "3dbe61f1f0b8a7e953e7bc9efc8c0229b929173e039173a8768cb9e143275983"
     type: zipped-zim
@@ -655,7 +655,7 @@ all:
     version: "2017-03-02"
     language: "ell"
     id: "d72cc8d9-26f1-ef5a-f473-25b6000683f6"
-    url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_el_all_2017-03.zip"
+    url: "https://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_el_all_2017-03.zip"
     size: 205183815
     sha256sum: "32289c289676e4e7d41996e413039883240b43b792e05d5022f154103d4b3e41"
     type: zipped-zim
@@ -666,7 +666,7 @@ all:
     version: "2017-02-14"
     language: "fas"
     id: "45f37502-e569-90ef-e1a3-37b4b8b5926d"
-    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_fa_all_2017-02.zip"
+    url: "https://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_fa_all_2017-02.zip"
     size: 242842951
     sha256sum: "542a83bdabcb1ef194bd1d79274b038860c394b2b06e6f16a4dd7e8fdce7f4c5"
     type: zipped-zim
@@ -677,7 +677,7 @@ all:
     version: "2017-02-13"
     language: "ell"
     id: "b65faf02-e1be-3cda-bcf0-100cc0c3817d"
-    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_el_all_2017-02.zip"
+    url: "https://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_el_all_2017-02.zip"
     size: 222087462
     sha256sum: "6cdfdd332281a42cda992afa39f0d6b562fda00cebe0d54e44b514db0741b678"
     type: zipped-zim
@@ -688,7 +688,7 @@ all:
     version: "2017-02-22"
     language: "ell"
     id: "925f7962-fe5c-7a6f-1fb2-46be46af633b"
-    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_el_all_2017-02.zip"
+    url: "https://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_el_all_2017-02.zip"
     size: 293725179
     sha256sum: "210685ad392f7282e05332f192874b081cac93eac95ee2aaafbeabd351206c0a"
     type: zipped-zim
@@ -699,7 +699,7 @@ all:
     version: "2017-02-23"
     language: "fas"
     id: "752c3432-b374-9253-d992-20c2a22f120b"
-    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_fa_all_2017-02.zip"
+    url: "https://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_fa_all_2017-02.zip"
     size: 448704525
     sha256sum: "f9fd9793d76b0adaf84dd1fcf4784b9da45d07fa205dbd194317c5a8cc4f99b3"
     type: zipped-zim
@@ -710,7 +710,7 @@ all:
     version: "2017-03-01"
     language: "eng"
     id: "bad5ba71-5517-e459-f782-406802628afb"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_en_all_2017-03.zip"
+    url: "https://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_en_all_2017-03.zip"
     size: 705725790
     sha256sum: "79b87cc19f16cefa9ef0294f92e0d2f67f6a8cacea677a8893163f6569dd5475"
     type: zipped-zim
@@ -721,7 +721,7 @@ all:
     version: "2017-03-01"
     language: "ell"
     id: "d8a2a44d-2a24-dd3a-6fad-fb42942e005d"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_el_all_2017-03.zip"
+    url: "https://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_el_all_2017-03.zip"
     size: 204291744
     sha256sum: "1fe50bfbea96fc6fca235a38a9ad483a650259c4e01c8856b3570f029748ed49"
     type: zipped-zim
@@ -732,7 +732,7 @@ all:
     version: "2016-06-25"
     language: "fra"
     id: "26e41370-5f66-23a8-2468-a6fe53fda1c1"
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+biologie-tout-compris_fr_all_2016-06.zip"
+    url: "https://download.kiwix.org/portable/other/kiwix-0.9+biologie-tout-compris_fr_all_2016-06.zip"
     size: 542453851
     sha256sum: "d0dd5e9ba6a8cacd75ae13edc59da5dd981f209024ddeaa254972ba8237f25bd"
     type: zipped-zim
@@ -743,7 +743,7 @@ all:
     version: "2013-07-26"
     language: "fra"
     id: "2c1a2ab9-d579-d40f-0895-282a6b07ee05"
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+bouquineux_fr_all_2013-07.zip"
+    url: "https://download.kiwix.org/portable/other/kiwix-0.9+bouquineux_fr_all_2013-07.zip"
     size: 5703110184
     sha256sum: "d4a5a13341ce2c610865dadd1461f3b3e58a90a9b0d1b07cd1ba2f462e57d348"
     type: zipped-zim
@@ -754,7 +754,7 @@ all:
     version: "2015-03-16"
     language: "fra"
     id: "4b51a4f7-9fa2-9b97-06bc-43625c168af7"
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+deus-ex-silicium_fr_all_2015-03.zip"
+    url: "https://download.kiwix.org/portable/other/kiwix-0.9+deus-ex-silicium_fr_all_2015-03.zip"
     size: 1115449154
     sha256sum: "817c6659d52ce2db690a380c46cb803e6ce06ffd7051222ed89a7d9459e0dfcb"
     type: zipped-zim
@@ -765,7 +765,7 @@ all:
     version: "2016-06-25"
     language: "fra"
     id: "e8404bd7-4205-86ac-1347-9db5ead7ca30"
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+e-penser_fr_all_2016-06.zip"
+    url: "https://download.kiwix.org/portable/other/kiwix-0.9+e-penser_fr_all_2016-06.zip"
     size: 5760742831
     sha256sum: "6b699defeef565e1d5df3f8efe8d6ee256da7a86559209ad1a50d9df528f55eb"
     type: zipped-zim
@@ -776,7 +776,7 @@ all:
     version: "2016-04-17"
     language: "eng"
     id: "37f70600-ca38-bbcd-edb9-f97ca1ebd126"
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted-ed_en_all_2016-04.zip"
+    url: "https://download.kiwix.org/portable/ted/kiwix-0.9+ted-ed_en_all_2016-04.zip"
     size: 18985671301
     sha256sum: "77a54f839e1b7915b3d0e2519ded8b696cc844371a126662063a4b7e39d8f287"
     type: zipped-zim
@@ -787,7 +787,7 @@ all:
     version: "2014-11-17"
     language: "mul"
     id: "f50b96ac-decf-8d94-b16f-cc1f4838c32a"
-    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_mul_all_2014-11.zip"
+    url: "https://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_mul_all_2014-11.zip"
     size: 48993771883
     sha256sum: "8925f6f38a8889710eedd1e3185dd19131d29fb398a4889179ed2f11bb8805a1"
     type: zipped-zim
@@ -798,7 +798,7 @@ all:
     version: "2016-05-14"
     language: "swa"
     id: "fed64f2d-73e9-7379-dbc9-ad716f9ded3f"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_sw_all_2016-05.zip"
+    url: "https://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_sw_all_2016-05.zip"
     size: 482344267
     sha256sum: "3e54f307c7a70c04e7307679de248cbb4fd81cbe03c97f9db77e30d0cc80d500"
     type: zipped-zim
@@ -809,7 +809,7 @@ all:
     version: "2017-02-14"
     language: "spa"
     id: "497538e4-852a-a986-5c98-9dd7c43ee311"
-    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_es_all_2017-02.zip"
+    url: "https://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_es_all_2017-02.zip"
     size: 243097521
     sha256sum: "646636111a6e44b0e5ecb878462a983fa0526030c3050d8dc46cba6ccfbbcfeb"
     type: zipped-zim
@@ -820,7 +820,7 @@ all:
     version: "2016-06-01"
     language: "swa"
     id: "656ce451-18a0-8db9-0242-99abf4a0f583"
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_sw_all_2016-06.zip"
+    url: "https://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_sw_all_2016-06.zip"
     size: 207321741
     sha256sum: "9bef82e787b9165f83ce1cc9f227a48bacaf21d42689d22f2b4764e29a35c928"
     type: zipped-zim
@@ -831,7 +831,7 @@ all:
     version: "2017-03-02"
     language: "spa"
     id: "de6acca9-930f-cec7-cd6b-216b0c3efc33"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_es_all_2017-03.zip"
+    url: "https://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_es_all_2017-03.zip"
     size: 275932725
     sha256sum: "6ce59544b3c90bd4b88c7f99476b74c54f41a20679430a610c340257ef0352e0"
     type: zipped-zim
@@ -842,7 +842,7 @@ all:
     version: "2017-02-22"
     language: "spa"
     id: "dc7c40e7-37a6-bf7b-f78d-710072caf9f6"
-    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_es_all_2017-02.zip"
+    url: "https://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_es_all_2017-02.zip"
     size: 980424760
     sha256sum: "d8d3796900fb362caed4f10780328852ebfc59b1375910f0547fac0b70c64fe3"
     type: zipped-zim
@@ -853,7 +853,7 @@ all:
     version: "2016-04-17"
     language: "fra"
     id: "c73be244-51ea-da60-bee6-b93c5d37b1d7"
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+wikimooc_fr_all_2016-04.zip"
+    url: "https://download.kiwix.org/portable/other/kiwix-0.9+wikimooc_fr_all_2016-04.zip"
     size: 592581771
     sha256sum: "ec26f33a4a06bbd5cca17d0cf3f2e6ea577f6493abff73a05f9227d3040b4571"
     type: zipped-zim
@@ -864,7 +864,7 @@ all:
     version: "2016-07-30"
     language: "eng"
     id: "80d768b7-8d2b-03f1-3b10-a56fa4d16728"
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedmed_en_all_2016-07.zip"
+    url: "https://download.kiwix.org/portable/ted/kiwix-0.9+tedmed_en_all_2016-07.zip"
     size: 18389062228
     sha256sum: "2fba737ff1c0c1146a47b79f6e310be22e73310d3257fc118896549372ea5dcb"
     type: zipped-zim
@@ -875,7 +875,7 @@ all:
     version: "2016-02-16"
     language: "eng"
     id: "580162ed-f379-b1de-3918-b6009f02cdff"
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+crashcourse_en_all_2016-02.zip"
+    url: "https://download.kiwix.org/portable/other/kiwix-0.9+crashcourse_en_all_2016-02.zip"
     size: 14836363791
     sha256sum: "b651829203d4a7c55dc62230e9a99db60c3c394b6629b4354aa8c3e0fe0eb8bb"
     type: zipped-zim
@@ -886,7 +886,7 @@ all:
     version: "2016-06-19"
     language: "eng"
     id: "a60cb414-63d9-c972-62fb-5c0b09259a3d"
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+phet_en_all_2016-06.zip"
+    url: "https://download.kiwix.org/portable/other/kiwix-0.9+phet_en_all_2016-06.zip"
     size: 209942793
     sha256sum: "14b11aed688bf6a5a3cd338d5e9f2369020b9f3cfea26556461ff793a951ea4f"
     type: zipped-zim
@@ -897,7 +897,7 @@ all:
     version: "2017-02-14"
     language: "eng"
     id: "763d78e5-ca92-b263-bfc2-cf0c11701cba"
-    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_en_all_2017-02.zip"
+    url: "https://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_en_all_2017-02.zip"
     size: 243006406
     sha256sum: "3225e0b6554c48de837c45d6daa49ab33fb483a55c5a820061f6b5dfbf484dcb"
     type: zipped-zim
@@ -907,14 +907,14 @@ all:
     version: "2016-11-15"
     language: "fra"
     id: "8d3aafd9-dd6b-4c91-99a1-8c341a4a6e71"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fr_all_2016-11.zip"
+    url: "https://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fr_all_2016-11.zip"
     size: 246253671
     sha256sum: "74eedc858d8fc4ae444d535e7746b0bff4870493fbe8ece49f603223c27f8a9e"
     type: zipped-zim
   wikipedia.ckb:
     version: "2016-11-21"
     size: 373688403
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ckb_all_2016-11.zip"
+    url: "https://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ckb_all_2016-11.zip"
     name: "ویکیپیدیا"
     language: "ckb"
     description: "لە ئینسایکڵۆپیدیای ئازادی ویکیپیدیاوە"
@@ -925,7 +925,7 @@ all:
   wikiquote.fa:
     version: "2016-11-15"
     size: 246571191
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fa_all_2016-11.zip"
+    url: "https://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fa_all_2016-11.zip"
     name: "ویکی‌گفتاورد"
     language: "fas"
     description: "از ویکی‌گفتاورد"
@@ -939,7 +939,7 @@ all:
     version: "2016-12-23"
     language: "cbk-zam"
     id: "e0d2ab54-ef48-760d-afa8-f9b3394c781b"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_cbk-zam_all_2016-12.zip"
+    url: "https://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_cbk-zam_all_2016-12.zip"
     size: 244053355
     sha256sum: "08f0702ea134ed23b03d3ffce06afd8b52a82c32eb0c122c24e272566932997d"
     type: zipped-zim
@@ -949,7 +949,7 @@ all:
     version: "2017-01-14"
     language: "ru"
     id: "5bc3d450-a6ee-8080-6791-c9abfe14cd93"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ru_all_2017-01.zip"
+    url: "https://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ru_all_2017-01.zip"
     size: 21960517449
     sha256sum: "316b2148f4c7d4edb4294968dbab7599a2e4edf585c6cc11ab3c54e8b57bee27"
     type: zipped-zim
@@ -959,7 +959,7 @@ all:
     version: "2017-01-09"
     language: "sr"
     id: "69157a81-5a0a-50b2-9626-f3d3e3df7c4a"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_sr_all_2017-01.zip"
+    url: "https://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_sr_all_2017-01.zip"
     size: 4944542501
     sha256sum: "b56aa17a1e21b5c8e8e744fc79f67d81b7eb400ee9189a01a4aa965da71bcec6"
     type: zipped-zim
