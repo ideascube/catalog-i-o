@@ -24,12 +24,12 @@ all:
   wikipedia.ti:
     name: Wikipedia
     description: "From Wikipedia"
-    version: "2017-01-17"
+    version: "2016-08-19"
     language: "tir"
-    id: "e395a3cc-629c-db91-9245-7adbc6675b89"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ti_all_2017-01.zip"
-    size: 197682630
-    sha256sum: "75b80ae4052113ba4d53c8abb462bd954268c708db3551148500bcb874f6c4b4"
+    id: "b1ef260a-bcc8-2fe0-54cb-2c7bacf0b827"
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ti_all_2016-08.zip"
+    size: 199827561
+    sha256sum: "9d934c61b6f5d39233e2bcfad2ca7131bc691dbd240c55b3837ec368553db67c"
     type: zipped-zim
     langid: "wikipedia.ti"
   wikipedia.en:
