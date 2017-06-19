@@ -13,23 +13,23 @@ all:
   wiktionary.ti:
     name: Wiktionary
     description: "From Wiktionary"
-    version: "2017-01-17"
+    version: "2016-06-01"
     language: "tir"
-    id: "11e607fd-5b68-89b7-c062-4c98f8c9df33"
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ti_all_2017-01.zip"
-    size: 197730382
-    sha256sum: "4363f755922d1fb088835e953344d560810351606cdbdc3b1c245aa8cf1ead68"
+    id: "0f0e4386-c15e-2a91-65dc-319c790380b2"
+    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ti_all_2016-06.zip"
+    size: 198121841
+    sha256sum: "f8b5ccd812da0ed1c1de891daf7b661d7f983e729bd10b93d0b54a2b65a08448"
     type: zipped-zim
     langid: "wiktionary.ti"
   wikipedia.ti:
     name: Wikipedia
     description: "From Wikipedia"
-    version: "2017-01-17"
+    version: "2016-08-19"
     language: "tir"
-    id: "e395a3cc-629c-db91-9245-7adbc6675b89"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ti_all_2017-01.zip"
-    size: 197682630
-    sha256sum: "75b80ae4052113ba4d53c8abb462bd954268c708db3551148500bcb874f6c4b4"
+    id: "b1ef260a-bcc8-2fe0-54cb-2c7bacf0b827"
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ti_all_2016-08.zip"
+    size: 199827561
+    sha256sum: "9d934c61b6f5d39233e2bcfad2ca7131bc691dbd240c55b3837ec368553db67c"
     type: zipped-zim
     langid: "wikipedia.ti"
   wikipedia.en:
@@ -66,14 +66,14 @@ all:
     langid: "wikipedia.rn"
     type: zipped-zim
   wiktionary.en:
-    version: "2016-08-12"
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_en_all_2016-08.zip"
+    version: "2016-12-18"
+    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_en_all_2016-12.zip"
     name: Wiktionary
     language: "eng"
     description: The free dictionary
-    id: "10de68a8-b8ef-4da5-140c-41105b2fca27"
-    size: 2357130948
-    sha256sum: "e0f3124c1220c4672b56195884bdae7807c5c62cf3982bb04163d998bad505fa"
+    id: "199d49d6-eed1-ab2c-9265-4f23acedc5ac"
+    size: 3001359006
+    sha256sum: "103125e5b27d62bc9c2d0f00193b5d3f63c11fdc108b7d9434d2d9d213afe82d"
     langid: "wiktionary.en"
     type: zipped-zim
   wiktionary.fr:
@@ -528,14 +528,14 @@ all:
     langid: "wikiversity.ar"
     type: zipped-zim
   wikipedia.es:
-    version: "2016-05-15"
-    size: 14718442846
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_es_all_2016-05.zip"
+    version: "2017-05-28"
+    size: 18823025657
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_es_all_2017-05.zip"
     name: Wikipedia
     language: "spa"
     description: "De Wikipedia, la enciclopedia libre"
-    id: "e5f0046a-8c80-063c-f123-cd1079500313"
-    sha256sum: "4c028362ec3cd07a2c0eccc3e5fa3e42b78a1715db5328387ec6bf57d04c3d8e"
+    id: "caf07434-7b74-8a95-f0e0-3e1b53016829"
+    sha256sum: "78e94967a880d2e5995e18fb46540bd825e2046a716c9c5314e72cf3088eebc1"
     langid: "wikipedia.es"
     type: zipped-zim
   gutenberg.es:
@@ -817,12 +817,12 @@ all:
     langid: "wiktionary.sw"
     description: "Ufafanuzi kutoka Wiktionary, kamusi iliyo huru"
     name: Wiktionary
-    version: "2017-01-17"
+    version: "2016-06-01"
     language: "swa"
-    id: "247a7210-ae7d-a532-7ed4-0c055c53962d"
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_sw_all_2017-01.zip"
-    size: 197682630
-    sha256sum: "1d197ffdc4e5c2161376d779a3e76723563326ddbc1a236f073a9b6a11759d56"
+    id: "656ce451-18a0-8db9-0242-99abf4a0f583"
+    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_sw_all_2016-06.zip"
+    size: 207321741
+    sha256sum: "9bef82e787b9165f83ce1cc9f227a48bacaf21d42689d22f2b4764e29a35c928"
     type: zipped-zim
   wikiquote.es:
     langid: "wikiquote.es"
