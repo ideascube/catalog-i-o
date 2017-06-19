@@ -9,7 +9,7 @@ Example:
       twentyfourhoursinanewsroom:
         name: 24h in a news room
         description: The foundations of journalism in four collections
-        version: 2016-11-23
+        version: "2016-11-23"
         language: en
         url: http://packages.ideascube.org/24hinanewsroom/24hinanewsroom.en.zip
         size: 16072507
