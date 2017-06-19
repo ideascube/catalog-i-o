@@ -66,14 +66,14 @@ all:
     langid: "wikipedia.rn"
     type: zipped-zim
   wiktionary.en:
-    version: "2016-08-12"
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_en_all_2016-08.zip"
+    version: "2016-12-18"
+    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_en_all_2016-12.zip"
     name: Wiktionary
     language: "eng"
     description: The free dictionary
-    id: "10de68a8-b8ef-4da5-140c-41105b2fca27"
-    size: 2357130948
-    sha256sum: "e0f3124c1220c4672b56195884bdae7807c5c62cf3982bb04163d998bad505fa"
+    id: "199d49d6-eed1-ab2c-9265-4f23acedc5ac"
+    size: 3001359006
+    sha256sum: "103125e5b27d62bc9c2d0f00193b5d3f63c11fdc108b7d9434d2d9d213afe82d"
     langid: "wiktionary.en"
     type: zipped-zim
   wiktionary.fr:
