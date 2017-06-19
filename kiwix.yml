@@ -13,12 +13,12 @@ all:
   wiktionary.ti:
     name: Wiktionary
     description: "From Wiktionary"
-    version: "2017-01-17"
+    version: "2016-06-01"
     language: "tir"
-    id: "11e607fd-5b68-89b7-c062-4c98f8c9df33"
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ti_all_2017-01.zip"
-    size: 197730382
-    sha256sum: "4363f755922d1fb088835e953344d560810351606cdbdc3b1c245aa8cf1ead68"
+    id: "0f0e4386-c15e-2a91-65dc-319c790380b2"
+    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ti_all_2016-06.zip"
+    size: 198121841
+    sha256sum: "f8b5ccd812da0ed1c1de891daf7b661d7f983e729bd10b93d0b54a2b65a08448"
     type: zipped-zim
     langid: "wiktionary.ti"
   wikipedia.ti:
