@@ -750,12 +750,14 @@ all:
     size: 4017055944
     sha256sum: eb549819081aad400a6f15acc9e2d20ccfeb5e56947ad05dd24a73b4b94d2e18
     type: zipped-medias
-  droits-des-etrangers-multilingue:
-    name: "Droits des \xE9trangers (multilingue)"
-    description: Guide du dermandeur d'asile disponible en cinq langues.
+  arriver-en-france-et-connaitre-ses-droits:
+    name: "Arriver en France et conna\xEEtre ses droits"
+    description: "Vous trouverez ici des informations pour vous accompagner dans vos\
+      \ d\xE9marches administratives: demandes d'asile, acc\xE8s aux soins, regroupement\
+      \ familial...etc."
     language: fr
-    version: '2017-06-15'
-    url: http://packages.ideascube.org/omeka/droits-des-etrangers-multilingue.zip
-    size: 779567340
-    sha256sum: 454ebcbc26bf0eebd265d49519dd2765c1c9467ace1d6ff148605d77bc268679
+    version: '2017-06-21'
+    url: http://packages.ideascube.org/omeka/arriver-en-france-et-connaitre-ses-droits.zip
+    size: 778956625
+    sha256sum: a7a87d533700bde075b568f4e3d5810437ffa4e4acc7261891266032cadc7d60
     type: zipped-medias
