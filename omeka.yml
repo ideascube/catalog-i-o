@@ -98,10 +98,10 @@ all:
     name: "Apprentissage du fran\xE7ais"
     description: "Quelques bases pour progresser en fran\xE7ais."
     language: fr
-    version: '2017-06-13'
+    version: '2017-06-23'
     url: http://packages.ideascube.org/omeka/apprentissage-francais-fr.zip
     size: 720808872
-    sha256sum: 11e6926e505683a304933b95f6032deab9bb5b21fb8bd3c476e0cc9c9b8737f4
+    sha256sum: ad76f6f0f89336f82a3a8cc2287a3c3bee8df3cdc2aac95c3297f9b80781ef6c
     type: zipped-medias
   programmation-informatique-fr:
     name: Programmation informatique
