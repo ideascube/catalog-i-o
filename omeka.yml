@@ -32,10 +32,10 @@ all:
       \ moment de les red\xE9couvrir afin de les maitriser pour mieux vous d\xE9fendre\
       \ !"
     language: fr
-    version: '2017-06-13'
+    version: '2017-06-23'
     url: http://packages.ideascube.org/omeka/connaissance-des-droits-universels-fr.zip
     size: 210641103
-    sha256sum: 06da7a51521a956dfd0553d7f12ec4ce325abff8906af14e4b070a279479ed3b
+    sha256sum: 217cc01560fe8a78d7ffc293bf1a9274605ddf3216c1d9b8a0c8350a1f0fa975
     type: zipped-medias
   musique-fr:
     name: Musique
