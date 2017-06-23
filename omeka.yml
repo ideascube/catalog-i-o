@@ -66,14 +66,14 @@ all:
     size: 240113252
     sha256sum: 3fcda100103f280ab5336b55beb11d2404559ee4340a30f469bfb009348059d8
     type: zipped-medias
-  cuisine-et-nutrition-fr:
-    name: Cuisine et nutrition
-    description: Qu'est ce que nous mangeons ? Qu'est ce que les autres mangent ? Et qu'est ce que "bien manger" ?
+  cuisine-et-nutrition-enfants-fr:
+    name: Cuisine et nutrition (enfants)
+    description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
     language: fr
-    version: '2017-05-18'
-    url: http://packages.ideascube.org/omeka/cuisine-et-nutrition-fr.zip
-    size: 2721490802
-    sha256sum: 576707baa120dc593228cc03be2df2bb771bb33c575d4a89bd99e7de1b034c25
+    version: '2017-06-23'
+    url: http://packages.ideascube.org/omeka/cuisine-et-nutrition-enfants-fr.zip
+    size: 115443064
+    sha256sum: 39481a91ad9b71bb8234d80905cb5fd567bb9574d169209bdff1a088835729d6
     type: zipped-medias
   discriminations-fr:
     name: Discriminations
