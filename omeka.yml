@@ -455,10 +455,10 @@ all:
       \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
       \ \xE0 accepter les diff\xE9rences des qui nous entourent."
     language: fr
-    version: '2017-06-13'
+    version: '2017-06-23'
     url: http://packages.ideascube.org/omeka/discriminations-enfants-fr.zip
     size: 278167089
-    sha256sum: aca54aa28eb80bbf9efc0331b2d0dd65934db06657ac33cd23cb2977610efed5
+    sha256sum: d0665a5d79391a493688e3cee430b7e7d864c95f06a4e31dfc9bcfb0983b9913
     type: zipped-medias
   learning-french-en:
     name: Learning French
