@@ -641,10 +641,10 @@ all:
     name: Cuisine
     description: Qu'est ce que nous mangeons ? Qu'est ce que les autres mangent ?
     language: fr
-    version: '2017-06-13'
+    version: '2017-06-23'
     url: http://packages.ideascube.org/omeka/cuisine-fr.zip
     size: 2496902711
-    sha256sum: 4a66bedd355ecc74b1d90030c5e98109d800899102cf01521737f7d8f5e7fed9
+    sha256sum: 4a0e0fd8d22637e0370ef32e9c66ac0dbd8ec1afe44c1963ed4270dc72984ab1
     type: zipped-medias
   biologie-enfants-fr:
     name: Biologie (enfants)
