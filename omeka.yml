@@ -241,14 +241,14 @@ all:
     sha256sum: 7c8a8a969db5ea52b3b8f15e68ac48f4070b2757c093f60b6542ad3ca14a3248
     type: zipped-medias
   prevention-addictions-fr:
-    name: "Prévention addictions"
+    name: "Pr\xE9vention addictions"
     description: Mieux comprendre les effets de l'alcool sur nos comportements, et
       leurs origines.
     language: fr
-    version: '2017-05-29'
+    version: '2017-06-23'
     url: http://packages.ideascube.org/omeka/prevention-addictions-fr.zip
     size: 21602076
-    sha256sum: 6627c88d1735a4b410dd03f24ab39aa64bf61ed9badcc14378437405eaa8a133
+    sha256sum: 2114c9a1f6a00e78c32aac54a8ea6eabc4da62317b05cdfa9b357c5ca043e571
     type: zipped-medias
   administration-gestion-comptabilite-fr:
     name: "Administration, gestion, comptabilit\xE9"
