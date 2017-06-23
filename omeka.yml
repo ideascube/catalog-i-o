@@ -403,13 +403,15 @@ all:
     sha256sum: 7aa4ee136f34064d17ca07306568b3f3071441a9f6ef09a6b9021be1d7cc23c4
     type: zipped-medias
   hygiene-enfants-fr:
-    name: "Hygiène (enfants)"
-    description: "Pourquoi il faut se laver, le corps, les mains, les dents ? Pour rester en bonne santé, et pour que ceux autour de nous le reste aussi ! Apprends à prendre les bonnes habitudes en t'amusant !"
+    name: "Hygi\xE8ne (enfants)"
+    description: "Pourquoi il faut se laver, le corps, les mains, les dents ? Pour\
+      \ rester en bonne sant\xE9, et pour que ceux autour de nous le reste aussi !\
+      \ Apprends \xE0 prendre les bonnes habitudes en t'amusant !"
     language: fr
-    version: '2017-06-08'
+    version: '2017-06-23'
     url: http://packages.ideascube.org/omeka/hygiene-enfants-fr.zip
     size: 106790233
-    sha256sum: 106c9ca602042df65b51ced331d00a1de9d2dee0a6ca51c592f91eb7fba664f9
+    sha256sum: b60e2cff9f1e456afed1861c26452bdff6ad203489e024f2d796c66e38a8f220
     type: zipped-medias
   contes-et-dessins-animes-fr:
     name: "Contes et dessins animés"
