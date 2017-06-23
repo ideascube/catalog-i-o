@@ -199,10 +199,10 @@ all:
       \ trouverez ici de quoi vous aider \xE0 identifier vos comp\xE9tences, pr\xE9\
       parer une candidature ou un entretien d'embauche"
     language: fr
-    version: '2017-06-13'
+    version: '2017-06-23'
     url: http://packages.ideascube.org/omeka/monter-son-projet-professionnel-fr.zip
     size: 1056408273
-    sha256sum: 49bdba0531f23c54175b754da6577c4529f8d0d9d28f4095ae5f482629953a0d
+    sha256sum: 8266db04359dd15059ce60748d390b2358b61fc3491b0dca00cf61308680fee3
     type: zipped-medias
   audiobooks-et-fictions-sonores-fr:
     name: Audiobooks et fictions sonores
