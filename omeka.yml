@@ -762,3 +762,13 @@ all:
     size: 778956625
     sha256sum: a7a87d533700bde075b568f4e3d5810437ffa4e4acc7261891266032cadc7d60
     type: zipped-medias
+  hygiene-de-base-fr:
+    name: "Hygi\xE8ne de base"
+    description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
+      ne et \xE9viter les maladies !"
+    language: fr
+    version: '2017-06-23'
+    url: http://packages.ideascube.org/omeka/hygiene-de-base-fr.zip
+    size: 88452402
+    sha256sum: e0e1276dfe798e7b11e2c076ba990252c3f3b2e453de85b8d0f5f73ba5c26e75
+    type: zipped-medias
