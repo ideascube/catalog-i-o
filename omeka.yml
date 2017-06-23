@@ -624,10 +624,10 @@ all:
     name: Nutrition
     description: qu'est ce que "bien manger" ?
     language: fr
-    version: '2017-06-13'
+    version: '2017-06-23'
     url: http://packages.ideascube.org/omeka/nutrition-fr.zip
     size: 305833246
-    sha256sum: 9ed8fc42e6ff51d4da19192565c4a36ef7ba6f4a9a61f81992fcd649a7670a76
+    sha256sum: f3f1d5c66ca3f30b6cafaa671c965dccfc5db1795734d9380df7db9cf0dde956
     type: zipped-medias
   arts-plastiques-fr:
     name: Arts plastiques
