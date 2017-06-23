@@ -147,10 +147,10 @@ all:
       rer dans le labyrinthe des d\xE9marches administratives. Pour d\xE9fendre ses\
       \ droits, il faut les conna\xEEtre et les comprendre !"
     language: fr
-    version: '2017-06-13'
+    version: '2017-06-23'
     url: http://packages.ideascube.org/omeka/droits-et-demarches-administratives-fr.zip
     size: 98488851
-    sha256sum: 48e77c3cac8891a65cea5e735f9fe60fe844a930ad54bf96b72d7694163b1edc
+    sha256sum: a0005db1845c44fc82f9393633c3d91d2b69fbd2bdc5d8d10c409c52ad66b83d
     type: zipped-medias
   bien-etre-dev-perso-communication-fr:
     name: Bien-être, développement personnel, communication avec les autres
