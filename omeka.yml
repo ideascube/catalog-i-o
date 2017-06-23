@@ -289,14 +289,14 @@ all:
     sha256sum: b3fd070f33ca17f065f097962134b8b8d3959f4f65167e27a8a59735b54ae55f
     type: zipped-medias
   sexualite-fr:
-    name: "Sexualité"
+    name: "Sexualit\xE9"
     description: "La sexualit\xE9, il faut en parler pour \xEAtre en toute s\xE9curit\xE9\
       . Vous trouverez ici les informations n\xE9cessaires."
     language: fr
-    version: '2017-06-13'
+    version: '2017-06-23'
     url: http://packages.ideascube.org/omeka/sexualite-fr.zip
     size: 144293977
-    sha256sum: 6e4ccaf18cac8620cd562de0dfbefa78c9806b2a966213e3b1a785f7cf56f579
+    sha256sum: 7e9a3971d8ce8386502ce4367e4982225d143fd07c2b49d79b981e6ff44bc4d8
     type: zipped-medias
   droits-de-l-enfants-fr:
     name: Droits de l'enfants
