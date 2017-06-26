@@ -741,10 +741,10 @@ all:
       riences des femmes. Des exp\xE9riences les plus intimes (les r\xE8gles, les\
       \ violences) aux plus incroyables (r\xE9volution des femmes saoudiennes)."
     language: fr
-    version: '2017-06-15'
+    version: '2017-06-26'
     url: http://packages.ideascube.org/omeka/experiences-de-femmes-fr.zip
     size: 1463518306
-    sha256sum: 32d4c4faff978c4badf82c46003c09775b43d1dd9ae46ec2b8a5adcdde74f906
+    sha256sum: a023c149852d8ff52a746135b3ea43371aabfcbbfc350b79588d6940e9360a41
     type: zipped-medias
   apprendre-le-francais-enfants-adolescents:
     name: "Apprendre le fran\xE7ais (enfants, adolescents)"
