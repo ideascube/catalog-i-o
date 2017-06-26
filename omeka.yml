@@ -667,10 +667,10 @@ all:
     name: Biologie (enfants)
     description: "Pars \xE0 la d\xE9couverte du corps humain !"
     language: fr
-    version: '2017-06-13'
+    version: '2017-06-26'
     url: http://packages.ideascube.org/omeka/biologie-enfants-fr.zip
     size: 2985033160
-    sha256sum: 15ddac31df8f885473651e49936561e64049a3ddf0e633c103be78d33099aa75
+    sha256sum: 0d499efc6face205800492ba4275afb4ab3dd031f740895a662bc6c223dfdf1c
     type: zipped-medias
   geographie-afrique-fr:
     name: "G\xE9ographie (Afrique)"
