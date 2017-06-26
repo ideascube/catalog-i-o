@@ -397,12 +397,13 @@ all:
     type: zipped-medias
   sports-enfants-fr:
     name: Sports (enfants)
-    description: "A quoi ça sert le sport ? Et combien il y a de sports différents ? Chacun son sport, chacun son corps !"
+    description: "A quoi \xE7a sert le sport ? Et combien il y a de sports diff\xE9\
+      rents ? Chacun son sport, chacun son corps !"
     language: fr
-    version: '2017-05-23'
+    version: '2017-06-26'
     url: http://packages.ideascube.org/omeka/sports-enfants-fr.zip
     size: 615078181
-    sha256sum: cc40c5fb5319e54e99eefa556aa3056f1bd716f61157362038b2f04c518eb83b
+    sha256sum: 25c1f8bb099ccaba0b6f916ce9d5867df663b632fbd1dc6464541261edb07334
     type: zipped-medias
   cuisine-et-nutrition-enfants-fr:
     name: Cuisine et nutrition (enfants)
