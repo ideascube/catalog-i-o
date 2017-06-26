@@ -332,10 +332,10 @@ all:
     description: Les arts plastiques, la danse... Les formes d'arts ne manquent pas,
       et font partie de la richesse d'un pays et d'une culture !
     language: fr
-    version: '2017-06-13'
+    version: '2017-06-26'
     url: http://packages.ideascube.org/omeka/arts-afrique-fr.zip
     size: 1254131761
-    sha256sum: 14e45efa698f57d6abace927012b2aea2d9298b0e84ebe3260aca8c26f9e1f79
+    sha256sum: b73915405b2242326548cf612f612a91bf0252e188c21e3c0959cdd92bb77350
     type: zipped-medias
   geographie-afrique-de-l-est-fr:
     name: "Géographie (Afrique de l'Est"
