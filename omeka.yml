@@ -378,13 +378,14 @@ all:
     sha256sum: 9f905b21d2d14e13f8734a94d686be71d2fd14429505caa706cb3ab7d9f4e2f2
     type: zipped-medias
   ecriture-et-litterature-fr:
-    name: "Ecriture et littérature"
-    description: "Vous avez toujours rêvé de devenir écrivain ? C'est le moment de vous lancer !"
+    name: "Ecriture et litt\xE9rature"
+    description: "Vous avez toujours r\xEAv\xE9 de devenir \xE9crivain ? C'est le\
+      \ moment de vous lancer !"
     language: fr
-    version: '2017-06-13'
+    version: '2017-06-26'
     url: http://packages.ideascube.org/omeka/ecriture-et-litterature-fr.zip
     size: 464557697
-    sha256sum: 22145e8339a078bbcc5a7e0c00e9f37a765f1b699f0a8f39324f05824729b6d8
+    sha256sum: cad8b04a0cba9e011490c0f93ac48f4151124164f4d85b1993ef0b5731661462
     type: zipped-medias
   hygiene-afrique-fr:
     name: "Hygi\xE8ne (Afrique)"
