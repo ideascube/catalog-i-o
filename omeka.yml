@@ -424,13 +424,14 @@ all:
     sha256sum: b60e2cff9f1e456afed1861c26452bdff6ad203489e024f2d796c66e38a8f220
     type: zipped-medias
   contes-et-dessins-animes-fr:
-    name: "Contes et dessins animés"
-    description: "Apprendre, réfléchir, débattre en s'amusant ? C'est possible !"
+    name: "Contes et dessins anim\xE9s"
+    description: "Apprendre, r\xE9fl\xE9chir, d\xE9battre, en s'amusant ? C'est possible\
+      \ !"
     language: fr
-    version: '2017-06-13'
+    version: '2017-06-26'
     url: http://packages.ideascube.org/omeka/contes-et-dessins-animes-fr.zip
     size: 5390837176
-    sha256sum: e394acb8085195e2c1083b21f37883428dceb2aff4abf8c3f4ea3ccf0dcb6a3a
+    sha256sum: 26d2bacf08c18242bda530859718a837f4821d22b96369b5bdd60f8fb21ae42e
     type: zipped-medias
   sante-fr:
     name: "Sant\xE9"
