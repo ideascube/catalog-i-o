@@ -274,13 +274,15 @@ all:
     sha256sum: 2701f649de4fb30438b10172b64b0245546f67195ea6229d15f292e6e59dae25
     type: zipped-medias
   creation-d-entreprise-fr:
-    name: "Création d'entreprise"
-    description: "Créer son entreprise implique de multiples étapes : Vous trouverez ici des conseils pour formuler votre projet, rédiger votre business plan ou encore vous assurer de la faisabilité de votre projet."
+    name: "Cr\xE9ation d'entreprise"
+    description: "Cr\xE9er son entreprise implique de multiples \xE9tapes : Vous trouverez\
+      \ ici des conseils pour formuler votre projet, r\xE9diger votre business plan\
+      \ ou encore vous assurer de la faisabilit\xE9 de votre projet."
     language: fr
-    version: '2017-05-29'
+    version: '2017-06-26'
     url: http://packages.ideascube.org/omeka/creation-d-entreprise-fr.zip
     size: 1024181735
-    sha256sum: 8e2e8ed3efcf47c8cf98975f197d8f824c10c3b9258fe5efa94de8a6a2431909
+    sha256sum: 478bc108f117e6df4395e16e093b097fdbe953c004271bc0abfad21c7419bfbc
     type: zipped-medias
   ebooks-enfants-fr:
     name: Ebooks [Enfants]
