@@ -673,10 +673,10 @@ all:
     description: 'Focus sur l''Afrique: quels pays, quels villes, quels contexte,
       quels enjeux ?'
     language: fr
-    version: '2017-06-13'
+    version: '2017-06-26'
     url: http://packages.ideascube.org/omeka/geographie-afrique-fr.zip
     size: 242490710
-    sha256sum: f97ba4ad68e63d2448853d55baf04f605318159ca21e44dc9abb896845aca68d
+    sha256sum: 94e177f1b04b08306c5546d8dcecd5a7bacb952080961180c89ee42fd14da75d
     type: zipped-medias
   sociologie-du-travail-fr:
     name: Sociologie du travail
