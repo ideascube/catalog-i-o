@@ -774,3 +774,13 @@ all:
     size: 88452402
     sha256sum: e0e1276dfe798e7b11e2c076ba990252c3f3b2e453de85b8d0f5f73ba5c26e75
     type: zipped-medias
+  sports-fr:
+    name: Sports
+    description: "Vous souhaitez vous perfectionner en football ? D\xE9couvrir un\
+      \ nouveau sens au mot \"sport\" ? C'est ici !"
+    language: fr
+    version: '2017-06-26'
+    url: http://packages.ideascube.org/omeka/sports-fr.zip
+    size: 2709131480
+    sha256sum: 22e032723238b309567bddbfca0aedcfd1886439192f80716939aed2760d47d7
+    type: zipped-medias
