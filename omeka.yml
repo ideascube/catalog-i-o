@@ -452,10 +452,10 @@ all:
     name: Learn english ! (adults)
     description: You want to practise your english ? This package is for you !
     language: en
-    version: '2017-05-24'
+    version: '2017-06-26'
     url: http://packages.ideascube.org/omeka/learn-english-adults-en.zip
     size: 1629090
-    sha256sum: dd37c5c66919822c788fa25aaa742be984e572c172291d64085f1786f440d795
+    sha256sum: 81b7f439aba8b3ca609a75604a44ce6920b9bfdf52ece28214e2941d9ea86072
     type: zipped-medias
   learn-english-enfants-en:
     name: Learn english ! (enfants)
