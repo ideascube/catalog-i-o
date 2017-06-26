@@ -440,10 +440,10 @@ all:
       \ et savoir pr\xE9venir les maladies et infections... Pour soi, et pour les\
       \ autres !"
     language: fr
-    version: '2017-06-15'
+    version: '2017-06-26'
     url: http://packages.ideascube.org/omeka/sante-fr.zip
     size: 285822517
-    sha256sum: 4dd05ee9ad23ebf1e426e6dc58d2645c423028753e572c0a70a0b05fc83edb9b
+    sha256sum: 8d0284e58ae6cc1b103c68ff701f58ca549d5e797353f530c6c5b8fd86bb2842
     type: zipped-medias
   learn-english-adults-en:
     name: Learn english ! (adults)
