@@ -370,12 +370,12 @@ all:
     type: zipped-medias
   biologie-adolescents-fr:
     name: Biologie (adolescents)
-    description: "Pars à la découverte du corps humain !"
+    description: "Pars \xE0 la d\xE9couverte du corps humain !"
     language: fr
-    version: '2017-06-13'
+    version: '2017-06-26'
     url: http://packages.ideascube.org/omeka/biologie-adolescents-fr.zip
     size: 2728471778
-    sha256sum: 9f905b21d2d14e13f8734a94d686be71d2fd14429505caa706cb3ab7d9f4e2f2
+    sha256sum: 65b49b641d1b4810556f263dafee1683c293d49e653bd3fdc6dac715a6c79e91
     type: zipped-medias
   ecriture-et-litterature-fr:
     name: "Ecriture et litt\xE9rature"
