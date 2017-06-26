@@ -264,12 +264,14 @@ all:
     type: zipped-medias
   innovation-en-afrique-fr:
     name: Innovation en Afrique
-    description: "Vous trouverez ici du contenu sur des méthodes innovantes et des présentations d'innovations spécifiques au contexte économique et environnemental africain."
+    description: "Vous trouverez ici du contenu sur des m\xE9thodes innovantes et\
+      \ des pr\xE9sentations d'innovations sp\xE9cifiques au contexte \xE9conomique\
+      \ et environnemental africain."
     language: fr
-    version: '2017-05-29'
+    version: '2017-06-26'
     url: http://packages.ideascube.org/omeka/innovation-en-afrique-fr.zip
     size: 311101094
-    sha256sum: 345b230fb8794a52036c72ad4085c5ddbb986dd7d51ffd5f38b7586c83b14a40
+    sha256sum: 2701f649de4fb30438b10172b64b0245546f67195ea6229d15f292e6e59dae25
     type: zipped-medias
   creation-d-entreprise-fr:
     name: "Création d'entreprise"
