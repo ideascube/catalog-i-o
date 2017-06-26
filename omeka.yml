@@ -236,15 +236,6 @@ all:
     size: 3543422460
     sha256sum: 844f319decd5a8f14264f8c37e146ff8867591791687e555d61582c94a74307c
     type: zipped-medias
-  hyigene-de-base-fr:
-    name: "Hygiène de base"
-    description: "Pour réfléchir à ses réflexes de base en terme d'hygiène et éviter les maladies !"
-    language: fr
-    version: '2017-06-08'
-    url: http://packages.ideascube.org/omeka/hyigene-de-base-fr.zip
-    size: 88452402
-    sha256sum: 7c8a8a969db5ea52b3b8f15e68ac48f4070b2757c093f60b6542ad3ca14a3248
-    type: zipped-medias
   prevention-addictions-fr:
     name: "Pr\xE9vention addictions"
     description: Mieux comprendre les effets de l'alcool sur nos comportements, et
