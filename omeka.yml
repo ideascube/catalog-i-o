@@ -153,13 +153,14 @@ all:
     sha256sum: a0005db1845c44fc82f9393633c3d91d2b69fbd2bdc5d8d10c409c52ad66b83d
     type: zipped-medias
   bien-etre-dev-perso-communication-fr:
-    name: Bien-être, développement personnel, communication avec les autres
-    description: Détendez-vous. Respirez. Accueillez vos émotions. Exprimez vos besoins. Vous serez mieux avec vous même et avec les autres !
+    name: "Bien-\xEAtre, d\xE9veloppement personnel, communication avec les autres"
+    description: "D\xE9tendez-vous. Respirez. Accueillez vos \xE9motions. Exprimez\
+      \ vos besoins. Vous serez mieux avec vous m\xEAme et avec les autres !"
     language: fr
-    version: '2017-06-08'
+    version: '2017-06-26'
     url: http://packages.ideascube.org/omeka/bien-etre-dev-perso-communication-fr.zip
     size: 1051306831
-    sha256sum: 538533ddd6c11281f7126d0ef0c5077616b59d38df5287db32c1073f6c7352b2
+    sha256sum: 5f186cd33035e2a20277a563ef726350af74d5e6958dbde15c5cdfae7c9820f8
     type: zipped-medias
   photographie-fr:
     name: Photographie
@@ -773,14 +774,4 @@ all:
     url: http://packages.ideascube.org/omeka/hygiene-de-base-fr.zip
     size: 88452402
     sha256sum: e0e1276dfe798e7b11e2c076ba990252c3f3b2e453de85b8d0f5f73ba5c26e75
-    type: zipped-medias
-  sports-fr:
-    name: Sports
-    description: "Vous souhaitez vous perfectionner en football ? D\xE9couvrir un\
-      \ nouveau sens au mot \"sport\" ? C'est ici !"
-    language: fr
-    version: '2017-06-26'
-    url: http://packages.ideascube.org/omeka/sports-fr.zip
-    size: 2709131480
-    sha256sum: 22e032723238b309567bddbfca0aedcfd1886439192f80716939aed2760d47d7
     type: zipped-medias
