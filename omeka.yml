@@ -715,10 +715,10 @@ all:
     name: Marketing
     description: Les bases du marketing.
     language: fr
-    version: '2017-06-13'
+    version: '2017-06-26'
     url: http://packages.ideascube.org/omeka/marketing-fr.zip
     size: 355547447
-    sha256sum: 951fff11ac66e6544e2ec13fed06badd6a0b9829b5a3ed415dcbe42fb6502481
+    sha256sum: 451e46688da257ee31efcd1bc6f12dd6d6167a6c2aaef23f672119d2f6558fbd
     type: zipped-medias
   experiences-de-femmes-fr:
     name: "Exp\xE9riences de femmes"
