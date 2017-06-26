@@ -387,13 +387,14 @@ all:
     sha256sum: 22145e8339a078bbcc5a7e0c00e9f37a765f1b699f0a8f39324f05824729b6d8
     type: zipped-medias
   hygiene-afrique-fr:
-    name: "Hygiène (Afrique)"
-    description: "Pour réfléchir à ses réflexes de base en terme d'hygiène et éviter les maladies !"
+    name: "Hygi\xE8ne (Afrique)"
+    description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
+      ne et \xE9viter les maladies !"
     language: fr
-    version: '2017-05-29'
+    version: '2017-06-26'
     url: http://packages.ideascube.org/omeka/hygiene-afrique-fr.zip
     size: 95163171
-    sha256sum: a4347bcecc03cdce07ada20828e4962d44835a9d5f394d8751d483943dd4e05e
+    sha256sum: a31730d7a1df6678dc5c586706595b4740844a30b9354ea782a0113f5f8ce324
     type: zipped-medias
   sports-enfants-fr:
     name: Sports (enfants)
