@@ -696,10 +696,10 @@ all:
       \ sur les bases du management et des outils pour devenir vous-m\xEAme un bon\
       \ manager."
     language: fr
-    version: '2017-06-13'
+    version: '2017-06-26'
     url: http://packages.ideascube.org/omeka/management-fr.zip
     size: 186430029
-    sha256sum: 806325a476e1ffd4ab3aaba8530a17cb2eefdd2628c64af05b95ca8e71717da6
+    sha256sum: a4ac72771717a398bee1a70372a6438fd2972277a9ba6a7f016f28d8532ba194
     type: zipped-medias
   economie-fr:
     name: Economie
