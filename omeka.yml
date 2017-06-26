@@ -226,12 +226,13 @@ all:
     type: zipped-medias
   films-fr:
     name: Films
-    description: "Une comédie ? Un drame ? Un policier ? Découvrez ou redécouvrez ici quelques films muets ou en français."
+    description: "Une com\xE9die ? Un drame ? Un policier ? D\xE9couvrez ou red\xE9\
+      couvrez ici quelques films muets ou en fran\xE7ais."
     language: fr
-    version: '2017-06-13'
+    version: '2017-06-26'
     url: http://packages.ideascube.org/omeka/films-fr.zip
     size: 3543422460
-    sha256sum: 99172d65ed7d1ca28dfed222ea51e092296f5780c8365b38982ef5896966fd9b
+    sha256sum: 844f319decd5a8f14264f8c37e146ff8867591791687e555d61582c94a74307c
     type: zipped-medias
   hyigene-de-base-fr:
     name: "Hygiène de base"
