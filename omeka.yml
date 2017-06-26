@@ -217,12 +217,14 @@ all:
     type: zipped-medias
   jardinage-et-agriculture-fr:
     name: Jardinage et agriculture
-    description: "Découvrez ou approfondissez vos connaissances en méthodes de culture, d'irrigation, de fertilisation... Pour vous lancer dans le jardinage à petite ou moyenne échelle."
+    description: "D\xE9couvrez ou approfondissez vos connaissances en m\xE9thodes\
+      \ de culture, d'irrigation, de fertilisation... Pour vous lancer dans le jardinage\
+      \ \xE0 petite ou moyenne \xE9chelle."
     language: fr
-    version: '2017-05-19'
+    version: '2017-06-26'
     url: http://packages.ideascube.org/omeka/jardinage-et-agriculture-fr.zip
     size: 942013540
-    sha256sum: 17a08d6dfefeedb73db9ae853a66130dab2550e7ff1e65990d00ae1b96783c8f
+    sha256sum: f9c53d827dd741885b78fbdc807a09378840413e3d8836e309fed9032249acc4
     type: zipped-medias
   films-fr:
     name: Films
