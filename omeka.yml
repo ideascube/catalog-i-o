@@ -363,10 +363,10 @@ all:
     description: "Qui sont les \xEAtres vivants qui nous entourent ? O\xF9 vivent-ils\
       \ ? Que mangent-ils ? Comment vivons nous ensemble ?"
     language: fr
-    version: '2017-06-13'
+    version: '2017-06-26'
     url: http://packages.ideascube.org/omeka/nature-fr.zip
     size: 1302195607
-    sha256sum: fb00a5ae463d25d1eef0a3a54dfb4b9290500156638e83a7951148340bd6d61b
+    sha256sum: 3fffe6a00b10aaf8691ab68fc2d2f70a0134cca1aad466780f203bcae803a251
     type: zipped-medias
   biologie-adolescents-fr:
     name: Biologie (adolescents)
