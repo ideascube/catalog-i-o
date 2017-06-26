@@ -710,10 +710,10 @@ all:
     description: "Des vid\xE9os ludiques pour comprendre les grands concepts \xE9\
       conomiques : march\xE9, actions, obligations, dividendes ... etc."
     language: fr
-    version: '2017-06-13'
+    version: '2017-06-26'
     url: http://packages.ideascube.org/omeka/economie-fr.zip
     size: 830584488
-    sha256sum: 5c8a4cec5dee1c47bda0763baa2d5ebc6304a1f234369d18ec2546ba7463da91
+    sha256sum: 83dbf3b8628185d7273ad4ffa12f5e3fd0f24b2768cdb31960ff8c67980cdc05
     type: zipped-medias
   marketing-fr:
     name: Marketing
