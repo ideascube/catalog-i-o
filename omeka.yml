@@ -780,3 +780,88 @@ all:
     size: 88452402
     sha256sum: e0e1276dfe798e7b11e2c076ba990252c3f3b2e453de85b8d0f5f73ba5c26e75
     type: zipped-medias
+  economie-et-mondialisation:
+    name: Economie et mondialisation
+    description: "Cette collection comprend des vid\xE9os, des MOOC et des articles\
+      \ de recherche sur les enjeux modernes de la macro\xE9conomie. Le MOOC sur la\
+      \ mondialisation, cr\xE9\xE9 par Sciences Po, traite notamment des enjeux internationaux\
+      \ de la macro\xE9onomie, \xE0 travers une approche pluridisciplinaire qui m\xEA\
+      le droit, histoire, \xE9conomie, anthropologie, sciences politiques et g\xE9\
+      ographie."
+    language: fr
+    version: '2017-07-03'
+    url: http://packages.ideascube.org/omeka/economie-et-mondialisation.zip
+    size: 877314463
+  introduction-aux-sciences-cognitives-et-aux-neurosciences:
+    name: Introduction aux sciences cognitives et aux neurosciences
+    description: "Comment fonctionne le cerveau ? Comment r\xE9gule-t-il nos \xE9\
+      motions ? Qu'est-ce que l'autisme ? Les sciences cognitives ont pour objet l'\xE9\
+      tude des comportements humains. Vous trouverez dans cette s\xE9rie de vid\xE9\
+      os des expos\xE9s de chercheurs qui d\xE9crivent les m\xE9canismes sous-jacents\
+      \ \xE0 diff\xE9rents ph\xE9nom\xE8nes comportementaux humains."
+    language: fr
+    version: '2017-07-03'
+    url: http://packages.ideascube.org/omeka/introduction-aux-sciences-cognitives-et-aux-neurosciences.zip
+    size: 3314117687
+    sha256sum: 588c8249949fab86b3862e46b44351bb1b267eb6ff2a1610f883df10e9eebf58
+    type: zipped-medias
+  microbiologie-et-prevention-sante:
+    name: "Microbiologie et pr\xE9vention sant\xE9"
+    description: "Qu'est-ce qu'un microbe ? Sont-ils tous nocifs pour l'homme ? Vous\
+      \ trouverez ici \xE0 la fois des vid\xE9os sur la microbiologie et les avanc\xE9\
+      es de la recherche en biologie, et des outils pour la pr\xE9vention sant\xE9\
+      \ \xE0 destination du grand public."
+    language: fr
+    version: '2017-07-03'
+    url: http://packages.ideascube.org/omeka/microbiologie-et-prevention-sante.zip
+    size: 132599812
+    sha256sum: 2818f3d11a5a5fb27fee8eb2a6f715f98a530de07a509b19e7e65977d38b1546
+    type: zipped-medias
+  economie-et-developpement-durable:
+    name: "Economie et d\xE9veloppement durable"
+    description: "Comment allier protection de l'environnement et d\xE9veloppement\
+      \ \xE9conomique ? Quels sont les impacts des mod\xE8les \xE9conomiques actuels\
+      \ sur l'environnement ? Qu'est-ce que le d\xE9veloppement durable, et quels\
+      \ sont les possibilit\xE9s de mise en oeuvre d'une croissance soucieuse de l'environnement\
+      \ ?"
+    language: fr
+    version: '2017-07-03'
+    url: http://packages.ideascube.org/omeka/economie-et-developpement-durable.zip
+    size: 127640921
+    sha256sum: 3c25be6ac4701c4a0aeee7065b8f8db4cd1c8629c6e48b4b6b27f25cd15b7169
+    type: zipped-medias
+  l-oeil-et-la-vision:
+    name: L'oeil et la vision
+    description: "Comment voit-on ? Comment l'oeil envoie-t-il de l'information au\
+      \ cerveau et comment cette information est-elle ensuite trait\xE9e ? Vous trouverez\
+      \ ici la description de tous les m\xE9canismes qui entrent en jeu dans la vision."
+    language: fr
+    version: '2017-07-03'
+    url: http://packages.ideascube.org/omeka/l-oeil-et-la-vision.zip
+    size: 411632697
+    sha256sum: 38cb1ebb3a0e57f84b1bcabe687a742cbf9c057593a69632859cd7b97aa6a210
+    type: zipped-medias
+  introduction-a-la-biologie:
+    name: "Introduction \xE0 la biologie"
+    description: "Cette collection de contenus comprend des vid\xE9os et des entretiens\
+      \ de chercheurs sur des domaines vari\xE9s de la biologie et de la chimie :\
+      \ de la biologie mol\xE9culaire aux neurosciences. Elle s'adresse aux \xE9tudiants\
+      \ en biologie, en chimie, en m\xE9decine et en soins infirmiers."
+    language: fr
+    version: '2017-07-03'
+    url: http://packages.ideascube.org/omeka/introduction-a-la-biologie.zip
+    size: 78818995
+    sha256sum: 694d8c9af7201f020ba1da08ecdef7e99fd3cc9763cfd9294cbd91ace8be2881
+    type: zipped-medias
+  genetique-et-epigenetique:
+    name: "G\xE9n\xE9tique et \xE9pig\xE9n\xE9tique"
+    description: "Qu'est-ce que l'\xE9pig\xE9n\xE9tique ? En quoi cette discipline\
+      \ diff\xE8re-t-elle de la g\xE9n\xE9tique ? Des chercheurs expliquent ici l'histoire\
+      \ de l'\xE9pig\xE9n\xE9tique et la fa\xE7on dont les modifications de l'ADN\
+      \ peuvent influencer l'expression des g\xE8nes."
+    language: fr
+    version: '2017-07-03'
+    url: http://packages.ideascube.org/omeka/genetique-et-epigenetique.zip
+    size: 462702645
+    sha256sum: 1754c0a2ab835149ba05fabea31b24527b0eaa07cedc32b3f54c763d37cba9d7
+    type: zipped-medias
