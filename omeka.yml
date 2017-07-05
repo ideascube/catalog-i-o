@@ -865,3 +865,15 @@ all:
     size: 462702645
     sha256sum: 1754c0a2ab835149ba05fabea31b24527b0eaa07cedc32b3f54c763d37cba9d7
     type: zipped-medias
+  sensibilisation-a-la-gestion-des-epidemies-fr:
+    name: "Sensibilisation \xE0 la gestion des \xE9pid\xE9mies"
+    description: "Qu'est-ce que le virus Ebola ? Comment sensibiliser le grand public\
+      \ afin d'\xE9viter la propagation d'\xE9pid\xE9mies ? A travers les exemples\
+      \ du virus Ebola et de la l\xE8pre, ces vid\xE9os reviennent sur les principes\
+      \ fondamentaux de la pr\xE9vention des \xE9pid\xE9mies."
+    language: fr
+    version: '2017-07-05'
+    url: http://packages.ideascube.org/omeka/sensibilisation-a-la-gestion-des-epidemies-fr.zip
+    size: 368419067
+    sha256sum: 06382c1a80b48601aaf4625304b71de57e75fbc1bdc2d05d2dc95e5b6db9ca2a
+    type: zipped-medias
