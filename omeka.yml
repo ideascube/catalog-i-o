@@ -792,6 +792,8 @@ all:
     version: '2017-07-03'
     url: http://packages.ideascube.org/omeka/economie-et-mondialisation.zip
     size: 877314463
+    sha256sum: 528cd49b17b7791edb7f9341243fbef834849ab35a0af1762f41b7f0eadf5a47
+    type: zipped-medias
   introduction-aux-sciences-cognitives-et-aux-neurosciences:
     name: Introduction aux sciences cognitives et aux neurosciences
     description: "Comment fonctionne le cerveau ? Comment r\xE9gule-t-il nos \xE9\
