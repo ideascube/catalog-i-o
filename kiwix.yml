@@ -923,14 +923,14 @@ all:
     langid: "wikipedia.ckb"
     type: zipped-zim
   wikiquote.fa:
-    version: "2016-11-15"
-    size: 246571191
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fa_all_2016-11.zip"
+    version: "2017-03-02"
+    size: 249043333
+    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fa_all_2017-03.zip"
     name: "ویکی‌گفتاورد"
     language: "fas"
     description: "از ویکی‌گفتاورد"
-    id: "d94c69c0-8dfc-3553-1f17-33be422c4119"
-    sha256sum: "11d2aae01f34c9388e58fabc1c8ed84996f6a2bec9d8a8c9d4a77715bdd1ecb1"
+    id: "74e82db1-48cf-5d46-b39c-e5f64ce851ef"
+    sha256sum: "966a81abac1d2050576d0a13d44bfc5deca892a97ea4d487bae8599b768efa4b"
     langid: "wikiquote.fa"
     type: zipped-zim
   wikipedia.cbkzam:
