@@ -440,14 +440,14 @@ all:
     langid: "wikipedia.ku"
     type: zipped-zim
   wiktionary.ku:
-    version: "2016-05-20"
-    size: 421323367
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ku_all_2016-05.zip"
+    version: "2016-12-29"
+    size: 495630277
+    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ku_all_2016-12.zip"
     name: Wiktionary
     language: "kur"
     description: "Ji Wiktionary"
-    id: "d71f645c-c13e-2085-eaa5-24b6cbd4869a"
-    sha256sum: "ca3b990f2104a2b310f7f2fb82285b39208821ba80db64f1013f9a4f9d173083"
+    id: "69fa26f4-ec76-1994-9654-ec2d061ae6cf"
+    sha256sum: "c6240e14dde09dc126c190ea06ce5e9587f38177ed9aca9f8fef93bd426d8bf3"
     langid: "wiktionary.ku"
     type: zipped-zim
   les-fondamentaux.fr:
