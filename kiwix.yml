@@ -806,12 +806,12 @@ all:
     langid: "vikidia.es"
     description: "De Vikidia"
     name: Vikidia
-    version: "2017-02-14"
+    version: "2017-08-05"
     language: "spa"
-    id: "497538e4-852a-a986-5c98-9dd7c43ee311"
-    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_es_all_2017-02.zip"
-    size: 243097521
-    sha256sum: "646636111a6e44b0e5ecb878462a983fa0526030c3050d8dc46cba6ccfbbcfeb"
+    id: "ba273d14-d198-e5b2-586b-d5d4b6b4803c"
+    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_es_all_2017-08.zip"
+    size: 244206005
+    sha256sum: "9491d7ccee3e084f72e357adb388c5fb85ec2e8288a8729866fc322b5099641a"
     type: zipped-zim
   wiktionary.sw:
     langid: "wiktionary.sw"
