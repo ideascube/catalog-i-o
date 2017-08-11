@@ -616,14 +616,14 @@ all:
     langid: "wikipedia.el"
     type: zipped-zim
   wikipedia.ps:
-    version: "2016-05-13"
-    size: 306846356
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ps_all_2016-05.zip"
+    version: "2016-08-17"
+    size: 315999656
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ps_all_2016-08.zip"
     name: ﻮﻳکﻱپېډﻱﺍ
     language: "pus"
     description: "ﺩ ﻮﻳکﻱپېډﻱﺍ، ﻭړیﺍ پﻮﻬﻨﻏﻮﻧډ ﻞﻫ ﺥﻭﺍ"
-    id: "7b6048be-c7b5-0c60-ddb4-53bdf39278d9"
-    sha256sum: "b66c8f77deb3c6890cfc146116340c3b8fa4aba07d974a664212b4a4baa06479"
+    id: "4284f189-a65b-6cc7-1e7f-43a84a59fcf6"
+    sha256sum: "82d9343825e54f708a0ad27dc7a5a0a8e68757bb70bd28413de8ee8fcc3d73b6"
     langid: "wikipedia.ps"
     type: zipped-zim
   wiktionary.el:
