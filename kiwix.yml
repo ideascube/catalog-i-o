@@ -894,12 +894,12 @@ all:
     langid: "vikidia.en"
     description: The encyclopedia for 8 to 13-year-old children
     name: Vikidia
-    version: "2017-02-14"
+    version: "2017-08-05"
     language: "eng"
-    id: "763d78e5-ca92-b263-bfc2-cf0c11701cba"
-    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_en_all_2017-02.zip"
-    size: 243006406
-    sha256sum: "3225e0b6554c48de837c45d6daa49ab33fb483a55c5a820061f6b5dfbf484dcb"
+    id: "6b4f25c6-585b-32f0-96ed-d8eb93e00e0b"
+    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_en_all_2017-08.zip"
+    size: 244803134
+    sha256sum: "4c25c9a1839c0b9ab7f457c60274276678d241db0c03f3f755eae6612119314c"
     type: zipped-zim
   wikiquote.fr:
     name: "Wikiquote"
