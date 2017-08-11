@@ -418,14 +418,14 @@ all:
     langid: "wikipedia.ar"
     type: zipped-zim
   vikidia.fr:
-    version: "2017-02-13"
-    size: 735440808
-    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_fr_all_2017-02.zip"
+    version: "2017-08-04"
+    size: 818908749
+    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_fr_all_2017-08.zip"
     name: Vikidia
     language: "fra"
     description: "Vikidia"
-    id: "e6dfe541-bb23-d772-3a37-805766362590"
-    sha256sum: "e89132ea8f17dc3d1764f08aa13e5f0c52bc0e553541b0d974d687c0923c2e9a"
+    id: "a2ef73b3-462c-761b-189c-5cf868b1d2f9"
+    sha256sum: "af1ced2611dfebbc57b3aaa32e539eee442b62aa3ff6d1ea8b84f487c497008d"
     langid: "vikidia.fr"
     type: zipped-zim
   wikipedia.ku:
