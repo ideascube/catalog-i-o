@@ -55,14 +55,14 @@ all:
     langid: "wikipedia.fr"
     type: zipped-zim
   wikipedia.rn:
-    version: "2016-05-13"
-    size: 201052048
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_rn_all_2016-05.zip"
+    version: "2017-01-08"
+    size: 201213355
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_rn_all_2017-01.zip"
     name: Wikipedia
     language: "run"
     description: The free encyclopedia
-    id: "7a57f8ad-ee1e-f960-e839-87b1ac4bce1d"
-    sha256sum: "159a53672ef9cece86a62d30c8e623235c798b980b376c2b64f4e7667c16b415"
+    id: "df54c202-c225-637c-22c9-69645fa3c57f"
+    sha256sum: "9e7c57535ec9048955fc12d04f9e23fd367b62485b137a76d9c9cf65d1c86f62"
     langid: "wikipedia.rn"
     type: zipped-zim
   wiktionary.en:
@@ -143,14 +143,14 @@ all:
     langid: "wikisource.en"
     type: zipped-zim
   wikisource.fr:
-    version: "2016-08-05"
-    size: 9476949105
-    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_fr_all_2016-08.zip"
+    version: "2017-02-21"
+    size: 9405473685
+    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_fr_all_2017-02.zip"
     name: Wikisource
     language: "fra"
     description: "La bibliothèque libre."
-    id: "456e74a7-e980-d894-1c19-f70e90b2d302"
-    sha256sum: "134666262402d8687ebb9cef23f9c8de1dec8e0f053c283b1f257cd9c7f0e656"
+    id: "6412bd33-0475-ba99-8736-31d1cafe0c3f"
+    sha256sum: "a276545cbea0dd90c4dc1a495a37a5ca0cb8a50e22a8a96808208901bd4299d6"
     langid: "wikisource.fr"
     type: zipped-zim
   cest-pas-sorcier.fr:
@@ -418,14 +418,14 @@ all:
     langid: "wikipedia.ar"
     type: zipped-zim
   vikidia.fr:
-    version: "2017-02-13"
-    size: 735440808
-    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_fr_all_2017-02.zip"
+    version: "2017-08-04"
+    size: 818908749
+    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_fr_all_2017-08.zip"
     name: Vikidia
     language: "fra"
     description: "Vikidia"
-    id: "e6dfe541-bb23-d772-3a37-805766362590"
-    sha256sum: "e89132ea8f17dc3d1764f08aa13e5f0c52bc0e553541b0d974d687c0923c2e9a"
+    id: "a2ef73b3-462c-761b-189c-5cf868b1d2f9"
+    sha256sum: "af1ced2611dfebbc57b3aaa32e539eee442b62aa3ff6d1ea8b84f487c497008d"
     langid: "vikidia.fr"
     type: zipped-zim
   wikipedia.ku:
@@ -440,14 +440,14 @@ all:
     langid: "wikipedia.ku"
     type: zipped-zim
   wiktionary.ku:
-    version: "2016-05-20"
-    size: 421323367
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ku_all_2016-05.zip"
+    version: "2016-12-29"
+    size: 495630277
+    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ku_all_2016-12.zip"
     name: Wiktionary
     language: "kur"
     description: "Ji Wiktionary"
-    id: "d71f645c-c13e-2085-eaa5-24b6cbd4869a"
-    sha256sum: "ca3b990f2104a2b310f7f2fb82285b39208821ba80db64f1013f9a4f9d173083"
+    id: "69fa26f4-ec76-1994-9654-ec2d061ae6cf"
+    sha256sum: "c6240e14dde09dc126c190ea06ce5e9587f38177ed9aca9f8fef93bd426d8bf3"
     langid: "wiktionary.ku"
     type: zipped-zim
   les-fondamentaux.fr:
@@ -561,14 +561,14 @@ all:
     langid: "gutenberg.de"
     type: zipped-zim
   wikipedia.de:
-    version: "2017-01-08"
-    size: 30895629708
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_de_all_2017-01.zip"
+    version: "2017-06-11"
+    size: 32070077702
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_de_all_2017-06.zip"
     name: Wikipedia
     language: "deu"
     description: "aus Wikipedia, der freien Enzyklopädie"
-    id: "d77159bc-3401-df82-382b-d58a49d93565"
-    sha256sum: "1b28f76ec3c1283049ebd941e68674f3137df0cd896d5dadcb6357b4b608547c"
+    id: "fc126214-e478-c836-67c2-8934432e771c"
+    sha256sum: "792846414c96e840d7909df32da609139876a4c18d528dd563b4ff8b48431c94"
     langid: "wikipedia.de"
     type: zipped-zim
   wikibooks.ar:
@@ -616,14 +616,14 @@ all:
     langid: "wikipedia.el"
     type: zipped-zim
   wikipedia.ps:
-    version: "2016-05-13"
-    size: 306846356
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ps_all_2016-05.zip"
+    version: "2016-08-17"
+    size: 315999656
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ps_all_2016-08.zip"
     name: ﻮﻳکﻱپېډﻱﺍ
     language: "pus"
     description: "ﺩ ﻮﻳکﻱپېډﻱﺍ، ﻭړیﺍ پﻮﻬﻨﻏﻮﻧډ ﻞﻫ ﺥﻭﺍ"
-    id: "7b6048be-c7b5-0c60-ddb4-53bdf39278d9"
-    sha256sum: "b66c8f77deb3c6890cfc146116340c3b8fa4aba07d974a664212b4a4baa06479"
+    id: "4284f189-a65b-6cc7-1e7f-43a84a59fcf6"
+    sha256sum: "82d9343825e54f708a0ad27dc7a5a0a8e68757bb70bd28413de8ee8fcc3d73b6"
     langid: "wikipedia.ps"
     type: zipped-zim
   wiktionary.el:
@@ -795,23 +795,23 @@ all:
     langid: "wikipedia.sw"
     description: "Kutoka Wikipedia, kamusi elezo huru"
     name: Wikipedia
-    version: "2016-05-14"
+    version: "2017-01-09"
     language: "swa"
-    id: "fed64f2d-73e9-7379-dbc9-ad716f9ded3f"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_sw_all_2016-05.zip"
-    size: 482344267
-    sha256sum: "3e54f307c7a70c04e7307679de248cbb4fd81cbe03c97f9db77e30d0cc80d500"
+    id: "d951a53b-7592-cd78-5ba9-c7d2afe39eb1"
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_sw_all_2017-01.zip"
+    size: 522943674
+    sha256sum: "47955245686685ace1315e39863a75a23df977fbca4b2a098780a81a5e584146"
     type: zipped-zim
   vikidia.es:
     langid: "vikidia.es"
     description: "De Vikidia"
     name: Vikidia
-    version: "2017-02-14"
+    version: "2017-08-05"
     language: "spa"
-    id: "497538e4-852a-a986-5c98-9dd7c43ee311"
-    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_es_all_2017-02.zip"
-    size: 243097521
-    sha256sum: "646636111a6e44b0e5ecb878462a983fa0526030c3050d8dc46cba6ccfbbcfeb"
+    id: "ba273d14-d198-e5b2-586b-d5d4b6b4803c"
+    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_es_all_2017-08.zip"
+    size: 244206005
+    sha256sum: "9491d7ccee3e084f72e357adb388c5fb85ec2e8288a8729866fc322b5099641a"
     type: zipped-zim
   wiktionary.sw:
     langid: "wiktionary.sw"
@@ -894,22 +894,22 @@ all:
     langid: "vikidia.en"
     description: The encyclopedia for 8 to 13-year-old children
     name: Vikidia
-    version: "2017-02-14"
+    version: "2017-08-05"
     language: "eng"
-    id: "763d78e5-ca92-b263-bfc2-cf0c11701cba"
-    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_en_all_2017-02.zip"
-    size: 243006406
-    sha256sum: "3225e0b6554c48de837c45d6daa49ab33fb483a55c5a820061f6b5dfbf484dcb"
+    id: "6b4f25c6-585b-32f0-96ed-d8eb93e00e0b"
+    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_en_all_2017-08.zip"
+    size: 244803134
+    sha256sum: "4c25c9a1839c0b9ab7f457c60274276678d241db0c03f3f755eae6612119314c"
     type: zipped-zim
   wikiquote.fr:
     name: "Wikiquote"
     description: "La collection libre de citations"
-    version: "2016-11-15"
+    version: "2017-03-02"
     language: "fra"
-    id: "8d3aafd9-dd6b-4c91-99a1-8c341a4a6e71"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fr_all_2016-11.zip"
-    size: 246253671
-    sha256sum: "74eedc858d8fc4ae444d535e7746b0bff4870493fbe8ece49f603223c27f8a9e"
+    id: "5677cfa0-b941-dea1-9416-8b91e75bf57c"
+    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fr_all_2017-03.zip"
+    size: 247530675
+    sha256sum: "89570e53375dcbed55b8b6c5dce0aab463b9c247dfcc8630ef7e054389788969"
     type: zipped-zim
   wikipedia.ckb:
     version: "2016-11-21"
@@ -923,14 +923,14 @@ all:
     langid: "wikipedia.ckb"
     type: zipped-zim
   wikiquote.fa:
-    version: "2016-11-15"
-    size: 246571191
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fa_all_2016-11.zip"
+    version: "2017-03-02"
+    size: 249043333
+    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fa_all_2017-03.zip"
     name: "ویکی‌گفتاورد"
     language: "fas"
     description: "از ویکی‌گفتاورد"
-    id: "d94c69c0-8dfc-3553-1f17-33be422c4119"
-    sha256sum: "11d2aae01f34c9388e58fabc1c8ed84996f6a2bec9d8a8c9d4a77715bdd1ecb1"
+    id: "74e82db1-48cf-5d46-b39c-e5f64ce851ef"
+    sha256sum: "966a81abac1d2050576d0a13d44bfc5deca892a97ea4d487bae8599b768efa4b"
     langid: "wikiquote.fa"
     type: zipped-zim
   wikipedia.cbkzam:
