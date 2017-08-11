@@ -891,3 +891,13 @@ all:
     size: 245749147
     sha256sum: fd5d10f6d910a9b63481543dcacc75b2743c77716ffe2a1f446cbce495b912c8
     type: zipped-medias
+  hygiene-af-fr:
+    name: "Hygi\xE8ne (Af)"
+    description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
+      ne et \xE9viter les maladies !"
+    language: fr
+    version: '2017-08-11'
+    url: http://packages.ideascube.org/omeka/hygiene-af-fr.zip
+    size: 95163171
+    sha256sum: 999a404d7611d4e2110335cf7869f4d2096116b787e4ffc13d6dd65b9c8c4f1b
+    type: zipped-medias
