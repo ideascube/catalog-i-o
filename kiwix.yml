@@ -55,14 +55,14 @@ all:
     langid: "wikipedia.fr"
     type: zipped-zim
   wikipedia.rn:
-    version: "2016-05-13"
-    size: 201052048
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_rn_all_2016-05.zip"
+    version: "2017-01-08"
+    size: 201213355
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_rn_all_2017-01.zip"
     name: Wikipedia
     language: "run"
     description: The free encyclopedia
-    id: "7a57f8ad-ee1e-f960-e839-87b1ac4bce1d"
-    sha256sum: "159a53672ef9cece86a62d30c8e623235c798b980b376c2b64f4e7667c16b415"
+    id: "df54c202-c225-637c-22c9-69645fa3c57f"
+    sha256sum: "9e7c57535ec9048955fc12d04f9e23fd367b62485b137a76d9c9cf65d1c86f62"
     langid: "wikipedia.rn"
     type: zipped-zim
   wiktionary.en:
