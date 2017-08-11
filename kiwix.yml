@@ -904,12 +904,12 @@ all:
   wikiquote.fr:
     name: "Wikiquote"
     description: "La collection libre de citations"
-    version: "2016-11-15"
+    version: "2017-03-02"
     language: "fra"
-    id: "8d3aafd9-dd6b-4c91-99a1-8c341a4a6e71"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fr_all_2016-11.zip"
-    size: 246253671
-    sha256sum: "74eedc858d8fc4ae444d535e7746b0bff4870493fbe8ece49f603223c27f8a9e"
+    id: "5677cfa0-b941-dea1-9416-8b91e75bf57c"
+    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fr_all_2017-03.zip"
+    size: 247530675
+    sha256sum: "89570e53375dcbed55b8b6c5dce0aab463b9c247dfcc8630ef7e054389788969"
     type: zipped-zim
   wikipedia.ckb:
     version: "2016-11-21"
