@@ -23,7 +23,7 @@ URL_LIST=$( awk ' /url:/ { print $2 } ' $1 | tr -d '"' | tr -d "'" )
 
 for i in $URL_LIST; do
 	echo $i
-	HEAD -t 3 -s -d $i 2>/dev/null
+	HEAD -H 'User-Agent: catalog-i-o/check-catalog.sh' -t 3 -s -d $i 2>/dev/null
 	case $? in
 	 1)
 		BADURL+=("$i")
