@@ -6,7 +6,7 @@ all:
       \ to get, even if you don\u2019t have any papers."
     language: en
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/what-visas-are-available-for-people-who-do-not-have-any-legal-papers-in-the-united-states.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/what-visas-are-available-for-people-who-do-not-have-any-legal-papers-in-the-united-states.zip
     size: 41911085
     sha256sum: 9b95c89a6a994e928cc6b85488776df7c431fde2d4d1eedfaf58914134291c58
     type: zipped-medias
@@ -16,7 +16,7 @@ all:
     description: "Haga clic aqu\xED"
     language: es
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/hay-visas-disponibles-para-personas-que-no-tienen-papeles-legales-en-los-estados-unidos.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/hay-visas-disponibles-para-personas-que-no-tienen-papeles-legales-en-los-estados-unidos.zip
     size: 96872045
     sha256sum: 7c439bfd52bae078a56a94d013526d09a75d32e2e01c828818a08108f0f76232
     type: zipped-medias
@@ -26,7 +26,7 @@ all:
     description: Click here to read and watch videos about asylum. (demo)
     language: en
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/are-you-afraid-of-returning-to-your-home-country-what-is-asylum-and-how-do-you-apply.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/are-you-afraid-of-returning-to-your-home-country-what-is-asylum-and-how-do-you-apply.zip
     size: 1324446
     sha256sum: ea48daaf49ae31d22f6a2b4ddbd1619cdcbd1344e530121e1a57ca53b1b6f8d6
     type: zipped-medias
@@ -36,7 +36,7 @@ all:
     description: "Haga clic aqu\xED para leer y ver videos sobre asilo (demo)"
     language: es
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/tiene-miedo-de-regresar-a-su-pais-de-origen-que-es-el-asilo-y-como-se-aplica.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/tiene-miedo-de-regresar-a-su-pais-de-origen-que-es-el-asilo-y-como-se-aplica.zip
     size: 1527978
     sha256sum: b2d8f0795ab7a2b27807a03ee055ea2003e24583d732e7dc7dace5cbaadd792f
     type: zipped-medias
@@ -46,7 +46,7 @@ all:
       your family in case you are deported.
     language: en
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/i-am-worried-about-getting-deported-how-do-i-protect-myself-and-my-family.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/i-am-worried-about-getting-deported-how-do-i-protect-myself-and-my-family.zip
     size: 48092788
     sha256sum: 2e2e24e39ed4018672e157b17516fee6dc24d638593ee2dc39788fa358ecc0e6
     type: zipped-medias
@@ -57,7 +57,7 @@ all:
       mo       preparar a su familia en caso de una deportaci\xF3n."
     language: es
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/estoy-preocupado-que-me-vayan-a-deportar-como-me-protejo-a-mi-ya-mi-familia.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/estoy-preocupado-que-me-vayan-a-deportar-como-me-protejo-a-mi-ya-mi-familia.zip
     size: 96778004
     sha256sum: 7f707d2552d20e0d57f8c6d7cae34b423c7e90d369167c710fc3bfe195007c58
     type: zipped-medias
@@ -66,7 +66,7 @@ all:
     description: Click here to learn about the future of Temporary Protected Status.
     language: en
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/what-is-going-to-happen-to-tps.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/what-is-going-to-happen-to-tps.zip
     size: 326614
     sha256sum: 5b4d115f9ce2257f568749a88e0bc9867f06ebb21e6cc6635cae89ff1f56fbe1
     type: zipped-medias
@@ -75,7 +75,7 @@ all:
     description: "Haga clic aqu\xED para conocer el futuro de estatus protegido temporal."
     language: es
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/que-va-a-pasar-con-tps.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/que-va-a-pasar-con-tps.zip
     size: 39304275
     sha256sum: cb85a33f0ea29895d5f56cbc016af98ba4d7404159b0fefb583e4ae769460d32
     type: zipped-medias
@@ -85,7 +85,7 @@ all:
       people who are abused at home.
     language: en
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/i-do-not-feel-safe-around-my-partner-or-my-parents-what-can-i-do.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/i-do-not-feel-safe-around-my-partner-or-my-parents-what-can-i-do.zip
     size: 787056
     sha256sum: 488c97ebd5a72924785ba93f234e9210f99cdba4c523418d2d9f2a5b549e9cf8
     type: zipped-medias
@@ -96,7 +96,7 @@ all:
       \ refugios y servicios que ayudan a las personas que son abusadas en su hogar."
     language: es
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/no-me-siento-seguro-con-mi-pareja-o-mis-padres-en-mi-hogar-que-puedo-hacer.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/no-me-siento-seguro-con-mi-pareja-o-mis-padres-en-mi-hogar-que-puedo-hacer.zip
     size: 80069606
     sha256sum: 39b74f58b6a8bce849b2d9e97be6189b437fdf595d395bf00db83aa3409cc24e
     type: zipped-medias
@@ -105,7 +105,7 @@ all:
     description: Click here to learn about wage theft.
     language: en
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/my-employer-isn-t-paying-me-what-they-owe-me-what-can-i-do.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/my-employer-isn-t-paying-me-what-they-owe-me-what-can-i-do.zip
     size: 305473
     sha256sum: d6602f117da5a8b09ce3472cecbf221f8ab3c1f65ea8722894959ce4d2446c45
     type: zipped-medias
@@ -115,7 +115,7 @@ all:
       \ de salarios y c\xF3mo detenerlo."
     language: es
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/mi-patron-no-me-esta-pagando-lo-que-me-deben-que-puedo-hacer.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/mi-patron-no-me-esta-pagando-lo-que-me-deben-que-puedo-hacer.zip
     size: 39885597
     sha256sum: a8f272f4a1682a529e8d95c7ac86f717ac43ec72be28c465d67e296f33f09848
     type: zipped-medias
@@ -124,7 +124,7 @@ all:
     description: Click here to learn about your rights as a worker.
     language: en
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/my-employer-physically-or-verbally-mistreats-me-what-can-i-do.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/my-employer-physically-or-verbally-mistreats-me-what-can-i-do.zip
     size: 194087
     sha256sum: fe8477ca85565398c81717134f2bfb20a63b8f8e27d7a67f550d94159602b65b
     type: zipped-medias
@@ -133,7 +133,7 @@ all:
     description: "Haga clic aqu\xED para conocer sus derechos como trabajador."
     language: es
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/mi-patron-me-maltrata-fisica-o-verbalmente-que-puedo-hacer.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/mi-patron-me-maltrata-fisica-o-verbalmente-que-puedo-hacer.zip
     size: 194114
     sha256sum: fad9943a74277a59244b00214b6b98439e4ba2f96267e250c5afeb727ad860e9
     type: zipped-medias
@@ -144,7 +144,7 @@ all:
       if you do not have legal papers.
     language: en
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/my-landlord-threatens-to-get-me-deported-when-i-complain-about-the-conditions-in-my-house-what-can-i-do.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/my-landlord-threatens-to-get-me-deported-when-i-complain-about-the-conditions-in-my-house-what-can-i-do.zip
     size: 175812
     sha256sum: 2374106969142f4ab9ee625bd0b055543a24af7031d1184de2b5eb98ef095872
     type: zipped-medias
@@ -155,7 +155,7 @@ all:
       \ en la vivienda, especialmente si usted no tiene papeles legales."
     language: es
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/mi-dueno-amenaza-que-me-deporte-cuando-me-quejo-de-las-condiciones-en-mi-casa-que-puedo-hacer.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/mi-dueno-amenaza-que-me-deporte-cuando-me-quejo-de-las-condiciones-en-mi-casa-que-puedo-hacer.zip
     size: 175870
     sha256sum: 7fd6a199c56a3b21a02b47d3c07fa2cc6458308069d461321cd70d0ef2831a00
     type: zipped-medias
@@ -164,7 +164,7 @@ all:
     description: Click here to learn more about your rights as a tenant.
     language: en
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/my-house-is-unsafe-and-my-landlord-is-unwilling-to-help-what-can-i-do.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/my-house-is-unsafe-and-my-landlord-is-unwilling-to-help-what-can-i-do.zip
     size: 175812
     sha256sum: 980765a5b83c8296e3e037fd273a27d4855bfd09845e75663d237e7d277edd1f
     type: zipped-medias
@@ -175,7 +175,7 @@ all:
       \ en la vivienda."
     language: es
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/mi-casa-no-es-segura-y-mi-dueno-no-esta-dispuesto-a-ayudar-que-puedo-hacer.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/mi-casa-no-es-segura-y-mi-dueno-no-esta-dispuesto-a-ayudar-que-puedo-hacer.zip
     size: 175870
     sha256sum: 7fd6a199c56a3b21a02b47d3c07fa2cc6458308069d461321cd70d0ef2831a00
     type: zipped-medias
@@ -184,7 +184,7 @@ all:
     description: Click here to learn more about the court system in the United States.
     language: en
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/i-have-a-hearing-in-court-but-i-don-t-have-a-lawyer-what-can-i-do.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/i-have-a-hearing-in-court-but-i-don-t-have-a-lawyer-what-can-i-do.zip
     size: 93601376
     sha256sum: d9ac7fcd49ce376c8ad8c06b1805f55dc56c01d5ed20d28816aee7044cf7d719
     type: zipped-medias
@@ -194,7 +194,7 @@ all:
       \ judicial en los Estados Unidos."
     language: es
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/tengo-una-audiencia-en-la-corte-pero-no-tengo-abogado-que-puedo-hacer.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/tengo-una-audiencia-en-la-corte-pero-no-tengo-abogado-que-puedo-hacer.zip
     size: 75280265
     sha256sum: 4935c6592bdb52518dfb8bff5c35366655032aedd5cf7b50d5e83a740f06956e
     type: zipped-medias
@@ -204,7 +204,7 @@ all:
       lawyers and how you can find a licensed lawyer.
     language: en
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/how-do-i-find-an-honest-and-licensed-lawyer.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/how-do-i-find-an-honest-and-licensed-lawyer.zip
     size: 52651275
     sha256sum: d2a87b937bd6ee9390ef3ef7509819d86e16f1c8ca31b7a2888539f0ece1d9b9
     type: zipped-medias
@@ -214,7 +214,7 @@ all:
       \ entre notarios y abogados y c\xF3mo puede encontrar un abogado con licencia."
     language: es
     version: '2017-08-18'
-    url: http://packages.ideascube.org/omeka/como-puedo-encontrar-un-abogado-honesto-y-con-licencia.zip
+    url: http://packages.ideascube.org/omeka/kb-demo-usa/como-puedo-encontrar-un-abogado-honesto-y-con-licencia.zip
     size: 34472211
     sha256sum: 2e4b33107fd2c88c0d5c08470f36e51e7a91ce5b4455bcd49170435af5ac66d0
     type: zipped-medias
