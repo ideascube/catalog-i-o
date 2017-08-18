@@ -32,3 +32,6 @@ Nothing is fixed and you may find useful to have some catalogs by theme,
 language, recipient, whatever.
 
 * [Yohan has a catalog](http://catalog.yohanboniface.me/catalog.yml), too. Full of OSM maps.
+* [bibliotecamovil.yml](../bibliotecamovil.yml) is a packages collection for
+some project in Colombia.
+* [kb-demo-usa.yml](../kb-demo-usa.yml) as the name says, is a specific demo set of packages.
