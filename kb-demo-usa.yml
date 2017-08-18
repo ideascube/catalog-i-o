@@ -1,3 +1,4 @@
+all:
   what-visas-are-available-for-people-who-do-not-have-any-legal-papers-in-the-united-states:
     name: What visas are available for people who do not have any legal papers in
       the United States?
@@ -178,7 +179,6 @@
     size: 175870
     sha256sum: 7fd6a199c56a3b21a02b47d3c07fa2cc6458308069d461321cd70d0ef2831a00
     type: zipped-medias
-  ziparchive.write(filename=filename, arcname=mediaInfo['path'])
   i-have-a-hearing-in-court-but-i-don-t-have-a-lawyer-what-can-i-do:
     name: "I have a hearing in court, but I don\u2019t have a lawyer. What can I do?"
     description: Click here to learn more about the court system in the United States.
