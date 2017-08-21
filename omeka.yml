@@ -304,10 +304,10 @@ all:
     description: "Tu as des droits, apprends \xE0 les conna\xEEtre pour mieux les\
       \ d\xE9fendre."
     language: fr
-    version: '2017-06-23'
+    version: '2017-08-21'
     url: http://packages.ideascube.org/omeka/droits-de-l-enfant-fr.zip
-    size: 52602210
-    sha256sum: 9a1f012499d291e816a6669a8031c74614e660dccb820e1a9bc08d4eb4eefd20
+    size: 51293006
+    sha256sum: 29ea3f5de75ab3ab6178ba4a6115a41a1d140b7320d8def942675f9d26c5ca8e
     type: zipped-medias
   histoire-afrique-fr:
     name: Histoire (Afrique)
