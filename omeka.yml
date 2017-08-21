@@ -393,10 +393,10 @@ all:
     description: "A quoi \xE7a sert le sport ? Et combien il y a de sports diff\xE9\
       rents ? Chacun son sport, chacun son corps !"
     language: fr
-    version: '2017-06-26'
+    version: '2017-08-21'
     url: http://packages.ideascube.org/omeka/sports-enfants-fr.zip
-    size: 615078181
-    sha256sum: 25c1f8bb099ccaba0b6f916ce9d5867df663b632fbd1dc6464541261edb07334
+    size: 617149042
+    sha256sum: bb8a8e066cfc31b971d0c485175ab35a6d891724c0d148a352234874aa664451
     type: zipped-medias
   cuisine-et-nutrition-enfants-fr:
     name: Cuisine et nutrition (enfants)
