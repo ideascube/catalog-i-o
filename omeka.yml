@@ -163,15 +163,15 @@ all:
     size: 1051306831
     sha256sum: 5f186cd33035e2a20277a563ef726350af74d5e6958dbde15c5cdfae7c9820f8
     type: zipped-medias
-  photographie-fr:
-    name: Photographie
+  initiez-vous-a-la-photographie-fr:
+    name: "Initiez-vous \xE0 la photographie"
     description: Vous souhaitez vous lancer, faire quelques photographies, mais vous
       avez besoin d'aide ? C'est ici !
     language: fr
-    version: '2017-06-23'
-    url: http://packages.ideascube.org/omeka/photographie-fr.zip
+    version: '2017-08-28'
+    url: http://packages.ideascube.org/omeka/initiez-vous-a-la-photographie-fr.zip
     size: 515259815
-    sha256sum: 054f0cfab891050c06de05c1550e93bc715a301c3e9faae94184f2fd19dc3311
+    sha256sum: a47adedc8308786e8c78425acb048d0a8183e22117e20f8b6f4fb412dcb00e74
     type: zipped-medias
   cinema-et-creation-video-fr:
     name: "Cin\xE9ma et cr\xE9ation vid\xE9o"
