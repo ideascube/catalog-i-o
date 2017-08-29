@@ -57,14 +57,15 @@ all:
     size: 104686722
     sha256sum: b510eb65af0e9eecf5b38a4a9856f4db1b06cf3b4d24dd028e79803d6a0f75e2
     type: zipped-medias
-  sa-relation-au-corps-fr:
-    name: Sa relation au corps
-    description: "Être bien dans son corps, ça participe à être bien dans sa tête. Et vous ? Comment voyez-vous votre corps ?" 
+  relation-au-corps-fr:
+    name: Relation au corps
+    description: "\xCAtre bien dans son corps, \xE7a participe \xE0 \xEAtre bien dans\
+      \ sa t\xEAte. Et vous ? Comment voyez-vous votre corps ?"
     language: fr
-    version: '2017-05-20'
-    url: http://packages.ideascube.org/omeka/sa-relation-au-corps-fr.zip
+    version: '2017-08-28'
+    url: http://packages.ideascube.org/omeka/relation-au-corps-fr.zip
     size: 240113252
-    sha256sum: 3fcda100103f280ab5336b55beb11d2404559ee4340a30f469bfb009348059d8
+    sha256sum: 857e743f86b7937ae961bd1f49af644a98e0f223d8179c75a1fe754f723f65dc
     type: zipped-medias
   cuisine-et-nutrition-enfants-fr:
     name: Cuisine et nutrition (enfants)
