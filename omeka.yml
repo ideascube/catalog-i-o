@@ -636,15 +636,15 @@ all:
     size: 305833246
     sha256sum: f3f1d5c66ca3f30b6cafaa671c965dccfc5db1795734d9380df7db9cf0dde956
     type: zipped-medias
-  arts-plastiques-fr:
-    name: Arts plastiques
+  decouvrez-les-arts-plastiques-fr:
+    name: "D\xE9couvrez les arts plastiques"
     description: "D\xE9tendez-vous, exprimez-vous, cr\xE9ez ! Il y a un artiste en\
       \ chacun de nous, \xE0 vous de le r\xE9v\xE9ler..."
     language: fr
-    version: '2017-06-23'
-    url: http://packages.ideascube.org/omeka/arts-plastiques-fr.zip
+    version: '2017-08-28'
+    url: http://packages.ideascube.org/omeka/decouvrez-les-arts-plastiques-fr.zip
     size: 1060030245
-    sha256sum: 644ff02a15eb87ab638f8d270b145e79fa3cb111dd94b1be4073ca1e218c0057
+    sha256sum: 92a7b79631aa83dc953a0b790cd65e83d7f94e7b8c533121cc9831b8111fd281
     type: zipped-medias
   cuisine-fr:
     name: Cuisine
