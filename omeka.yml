@@ -95,14 +95,14 @@ all:
     size: 2320165632
     sha256sum: 72d033cb356858357ad1a16725dc925033db45499f2cec90911a07d07b23076e
     type: zipped-medias
-  apprentissage-francais-fr:
-    name: "Apprentissage du fran\xE7ais"
+  apprenez-le-francais-fr:
+    name: "Apprenez le fran\xE7ais"
     description: "Quelques bases pour progresser en fran\xE7ais."
     language: fr
-    version: '2017-06-23'
-    url: http://packages.ideascube.org/omeka/apprentissage-francais-fr.zip
+    version: '2017-08-28'
+    url: http://packages.ideascube.org/omeka/apprenez-le-francais-fr.zip
     size: 720808872
-    sha256sum: ad76f6f0f89336f82a3a8cc2287a3c3bee8df3cdc2aac95c3297f9b80781ef6c
+    sha256sum: 81d4f9ec79d223982907253f7db1b71185e2543f9e99eb3c6602f7aa8d1cc38b
     type: zipped-medias
   programmation-informatique-fr:
     name: Programmation informatique
