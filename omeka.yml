@@ -37,15 +37,15 @@ all:
     size: 210641103
     sha256sum: 217cc01560fe8a78d7ffc293bf1a9274605ddf3216c1d9b8a0c8350a1f0fa975
     type: zipped-medias
-  musique-fr:
-    name: Musique
+  decouvrez-de-nouvelles-musiques-fr:
+    name: "D\xE9couvrez de nouvelles musiques"
     description: "Pour d\xE9couvrir de nouveaux styles musicaux ou \xE9couter quelques\
       \ morceaux !"
     language: fr
-    version: '2017-06-23'
-    url: http://packages.ideascube.org/omeka/musique-fr.zip
+    version: '2017-08-28'
+    url: http://packages.ideascube.org/omeka/decouvrez-de-nouvelles-musiques-fr.zip
     size: 1003938332
-    sha256sum: 4250f20672e50ded0bdadc7e662547be0d592998b488e352530154c13b7f8e21
+    sha256sum: 89480fca247bed2bcc76faa1d5d15bfe3553e8ed9350f9126b70ed03ee40b3a0
     type: zipped-medias
   citoyennete-et-politique-fr:
     name: "Citoyennet\xE9 et politique"
