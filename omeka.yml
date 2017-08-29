@@ -76,15 +76,15 @@ all:
     size: 115443064
     sha256sum: 39481a91ad9b71bb8234d80905cb5fd567bb9574d169209bdff1a088835729d6
     type: zipped-medias
-  discriminations-fr:
-    name: Discriminations
+  combattons-les-discriminations-fr:
+    name: Combattons les discriminations
     description: "Handicap, genre, couleurs de peau, religion... La discrimination\
       \ peut porter sur des tas de choses. D\xE9tectons les, et combattons les."
     language: fr
-    version: '2017-06-23'
-    url: http://packages.ideascube.org/omeka/discriminations-fr.zip
+    version: '2017-08-28'
+    url: http://packages.ideascube.org/omeka/combattons-les-discriminations-fr.zip
     size: 1552598740
-    sha256sum: 578f223eab0e9fc4b7fec1bc3e1f470d5e92b5b52ebf8263748547dc1a4489d7
+    sha256sum: 1be5e1f447a7d5ee2fd385a577e6c2fb50f8e0a1b666905cf4dfcf4bb9741a3d
     type: zipped-medias
   fictions-divertissements-ar:
     name: "\u062E\u064A\u0627\u0644 - fictions et divertissement en arabe"
