@@ -173,15 +173,15 @@ all:
     size: 515259815
     sha256sum: a47adedc8308786e8c78425acb048d0a8183e22117e20f8b6f4fb412dcb00e74
     type: zipped-medias
-  cinema-et-creation-video-fr:
-    name: "Cin\xE9ma et cr\xE9ation vid\xE9o"
+  initiez-vous-a-la-creation-video-fr:
+    name: "Initiez-vous \xE0 la cr\xE9ation vid\xE9o"
     description: "Initiez vous aux r\xE9flexions sur le cin\xE9ma et l'image, et lancez\
       \ vous dans vos premi\xE8res cr\xE9ations vid\xE9os !"
     language: fr
-    version: '2017-06-23'
-    url: http://packages.ideascube.org/omeka/cinema-et-creation-video-fr.zip
+    version: '2017-08-28'
+    url: http://packages.ideascube.org/omeka/initiez-vous-a-la-creation-video-fr.zip
     size: 943353786
-    sha256sum: f846ab452480b5406f660af28b867984848315e2731d791099bc695192e1e83e
+    sha256sum: 28dfb812c6ff7d4dbf2fe08642eee5794b3a01179418843ce7b66e2640ab63ce
     type: zipped-medias
   manual-ideascube-all:
     name: Ideascube Manual
