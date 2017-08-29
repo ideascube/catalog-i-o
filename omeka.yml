@@ -153,15 +153,15 @@ all:
     size: 98488851
     sha256sum: a0005db1845c44fc82f9393633c3d91d2b69fbd2bdc5d8d10c409c52ad66b83d
     type: zipped-medias
-  bien-etre-dev-perso-communication-fr:
-    name: "Bien-\xEAtre, d\xE9veloppement personnel, communication avec les autres"
+  comprendre-et-exprimer-ses-emotions-fr:
+    name: "Comprendre et exprimer ses \xE9motions"
     description: "D\xE9tendez-vous. Respirez. Accueillez vos \xE9motions. Exprimez\
       \ vos besoins. Vous serez mieux avec vous m\xEAme et avec les autres !"
     language: fr
-    version: '2017-06-26'
-    url: http://packages.ideascube.org/omeka/bien-etre-dev-perso-communication-fr.zip
+    version: '2017-08-28'
+    url: http://packages.ideascube.org/omeka/comprendre-et-exprimer-ses-emotions-fr.zip
     size: 1051306831
-    sha256sum: 5f186cd33035e2a20277a563ef726350af74d5e6958dbde15c5cdfae7c9820f8
+    sha256sum: 6ab816066ce7a1807669902eb99e7fa97eb7b4072bfaeb2d18f302d2f363cac5
     type: zipped-medias
   initiez-vous-a-la-photographie-fr:
     name: "Initiez-vous \xE0 la photographie"
