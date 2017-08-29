@@ -449,14 +449,14 @@ all:
     size: 1629090
     sha256sum: 81b7f439aba8b3ca609a75604a44ce6920b9bfdf52ece28214e2941d9ea86072
     type: zipped-medias
-  learn-english-enfants-en:
-    name: Learn english ! (enfants)
+  learn-english-teenagers-en:
+    name: Learn english ! (teenagers)
     description: Apprends les bases de l'anglais en t'amusant !
     language: en
-    version: '2017-06-26'
-    url: http://packages.ideascube.org/omeka/learn-english-enfants-en.zip
+    version: '2017-08-28'
+    url: http://packages.ideascube.org/omeka/learn-english-teenagers-en.zip
     size: 305686403
-    sha256sum: deb18f1345dbb0299d639fd6a54aaabcb7c24708962036a78dab4bc7838b9a6a
+    sha256sum: b2f9c3782bacfaaba354e31c7ffe244b2d0f3c248a7ee0d18f6fc2ce7bb880f5
     type: zipped-medias
   discriminations-enfants-fr:
     name: Discriminations (enfants)
