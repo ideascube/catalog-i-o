@@ -86,14 +86,14 @@ all:
     size: 1552598740
     sha256sum: 1be5e1f447a7d5ee2fd385a577e6c2fb50f8e0a1b666905cf4dfcf4bb9741a3d
     type: zipped-medias
-  fictions-divertissements-ar:
-    name: "\u062E\u064A\u0627\u0644 - fictions et divertissement en arabe"
+  fictions-and-entertainment-in-arabic-ar:
+    name: "\u062E\u064A\u0627\u0644 - fictions and entertainment in Arabic"
     description: "\u0645\u0633\u0644\u0633\u0644 \u0634\u0639\u0631 \u0642\u0635\u0635"
     language: ar
-    version: '2017-06-15'
-    url: http://packages.ideascube.org/omeka/fictions-et-divertissement-en-arabe.zip
+    version: '2017-08-30'
+    url: http://packages.ideascube.org/omeka/fictions-and-entertainment-in-arabic-ar.zip
     size: 2320165632
-    sha256sum: 72d033cb356858357ad1a16725dc925033db45499f2cec90911a07d07b23076e
+    sha256sum: f9d108f6fe66eaa952c4a73bfacbf69af846365e2da83ce84db23a2ca949bd8e
     type: zipped-medias
   apprenez-le-francais-fr:
     name: "Apprenez le fran\xE7ais"
