@@ -901,3 +901,15 @@ all:
     size: 27214428434
     sha256sum: 6ea740015f1b184890f21287c241b6dca6133bdddc3b6355016e33823a5a909e
     type: zipped-medias
+  sports-ar:
+    name: "Sports [\u0627\u0644\u0631\u064A\u0627\u0636\u0629]"
+    description: "Follow these simple steps to a healthier body.// \u062E\u0637\u0648\
+      \u0627\u062A \u0631\u064A\u0627\u0636\u064A\u0629  .\u0633\u0647\u0644\u0629\
+      \ \u0644\u062C\u0633\u0645 \u0635\u062D\u064A \u0648\u0633\u0644\u064A\u0645\
+      \ -Teenagers, Adults"
+    language: ar
+    version: '2017-08-30'
+    url: http://packages.ideascube.org/omeka/sports-ar.zip
+    size: 169656168
+    sha256sum: b4dfc50ab2aee4dd8cfc87e0be00f7f0ba199ae3914bc7ad66273a29a3a663be
+    type: zipped-media
