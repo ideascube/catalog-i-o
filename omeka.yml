@@ -913,3 +913,15 @@ all:
     size: 169656168
     sha256sum: b4dfc50ab2aee4dd8cfc87e0be00f7f0ba199ae3914bc7ad66273a29a3a663be
     type: zipped-media
+  fashion-and-beauty-ar:
+    name: "Fashion and Beauty [\u0645\u0648\u0636\u0629 \u0648\u062C\u0645\u0627\u0644\
+      ]"
+    description: "Fashion and beauty tips, and some make up tutorials.// \u0646\u0635\
+      \u0627\u0626\u062D \u062C\u0645\u0627\u0644 \u0648 \u0645\u0648\u0636\u0629\
+      \ \u0648\u0645\u0643\u064A\u0627\u062C. Teenagers, Adults"
+    language: ar
+    version: '2017-08-30'
+    url: http://packages.ideascube.org/omeka/fashion-and-beauty-ar.zip
+    size: 234958334
+    sha256sum: f1865f22ab1393a66fbd3a60df82acca5c3dd9a5df419afa74f8c33686b42dcd
+    type: zipped-medias
