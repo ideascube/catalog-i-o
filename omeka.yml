@@ -925,3 +925,13 @@ all:
     size: 234958334
     sha256sum: f1865f22ab1393a66fbd3a60df82acca5c3dd9a5df419afa74f8c33686b42dcd
     type: zipped-medias
+  mathematics-ar:
+    name: "Mathematics [\u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0627\u062A]"
+    description: "Simple mathematics for kids.// \u0631\u064A\u0627\u0636\u064A\u0627\
+      \u062A \u0644\u0644\u0627\u0637\u0641\u0627\u0644"
+    language: ar
+    version: '2017-08-30'
+    url: http://packages.ideascube.org/omeka/mathematics-ar.zip
+    size: 64587258
+    sha256sum: e9383a44c98ed0bef958a92609e6b68d51a8b941bf72a98300dace8253748a9a
+    type: zipped-medias
