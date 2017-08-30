@@ -892,3 +892,12 @@ all:
     size: 245749147
     sha256sum: fd5d10f6d910a9b63481543dcacc75b2743c77716ffe2a1f446cbce495b912c8
     type: zipped-medias
+  kurdish-dramas-tv-shows-ckb:
+    name: "\u062F\u0631\u0627\u0645\u0627 - kurdish dramas & TV shows"
+    description: Watch kurdish shows and relax.
+    language: ckb
+    version: '2017-08-23'
+    url: http://packages.ideascube.org/omeka/kurdish-dramas-tv-shows-ckb.zip
+    size: 27214428434
+    sha256sum: 6ea740015f1b184890f21287c241b6dca6133bdddc3b6355016e33823a5a909e
+    type: zipped-medias
