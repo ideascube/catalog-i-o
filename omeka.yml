@@ -947,3 +947,15 @@ all:
     size: 33057408
     sha256sum: 6a60044e4e9562162859667da7d4df960096147933e6c76132a71559cc5adff4
     type: zipped-medias
+  let-s-speak-english-ar:
+    name: "Let's Speak English [\u0644\u0646\u062A\u0643\u0644\u0645 \u0627\u0644\u0627\
+      \u0646\u062C\u0644\u064A\u0632\u064A\u0629]"
+    description: "Learn English with these simple videos; new useful vocab and expressions.\
+      \ .// \u062A\u0639\u0644\u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\
+      \u0646\u062C\u0644\u064A\u0632\u064A\u0629   Kids, Teenagers, Adults"
+    language: ar
+    version: '2017-08-30'
+    url: http://packages.ideascube.org/omeka/let-s-speak-english-ar.zip
+    size: 174968790
+    sha256sum: e0c130966fe27cfd79888ef525914b9f35e5e78e78bb11fcc84ecf1cea598262
+    type: zipped-medias
