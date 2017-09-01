@@ -1050,3 +1050,17 @@ all:
     size: 459897592
     sha256sum: 9067b1683148f37379aae80cf34e2ea0ccb09903d024b9c15250e8db344b7fcc
     type: zipped-medias
+  motherhood-and-parenting-ar:
+    name: "Motherhood and Parenting [\u0627\u0645\u0648\u0645\u0629 \u0648\u0627\u0628\
+      \u0648\u0629]"
+    description: "Useful Motherhood and Parenting tips and information. Helping parents\
+      \ dealing with their children and having a healthy relationship.// \u0646\u0635\
+      \u0627\u0626\u062D \u0648\u0645\u0639\u0644\u0648\u0645\u0627\u062A \u0645\u0641\
+      \u064A\u062F\u0629 \u0644\u0644\u0627\u0645\u0648\u0645\u0629 \u0648\u0627\u0644\
+      \u0627\u0628\u0648\u0629"
+    language: ar
+    version: '2017-08-31'
+    url: http://packages.ideascube.org/omeka/motherhood-and-parenting-ar.zip
+    size: 304465117
+    sha256sum: 087b4e0c349a4cc2c57a98578477f040d07b1691809c1e107e3511ab8eb45166
+    type: zipped-medias
