@@ -1093,3 +1093,15 @@ all:
     size: 61116128
     sha256sum: 163c1ccdd5fa1f6357e5537244747834b77b4d3a7770f1bd7e825d8e77036a7d
     type: zipped-medias
+  let-s-be-clean-ar:
+    name: "Let's be clean [\u0647\u064A\u0627 \u0627\u0644\u0649 \u0627\u0644\u0646\
+      \u0638\u0627\u0641\u0629]"
+    description: "Simple videos on personal hygiene.// \u0641\u064A\u062F\u064A\u0648\
+      \u0647\u0627\u062A \u0639\u0646 \u0627\u0644\u0646\u0638\u0627\u0641\u0629 \u0627\
+      \u0644\u0634\u062E\u0635\u064A\u0629"
+    language: ar
+    version: '2017-08-30'
+    url: http://packages.ideascube.org/omeka/let-s-be-clean-ar.zip
+    size: 57065432
+    sha256sum: cb9cf4419c26b4b95f854a387d5ed916d03a45ef719831651432dd5e53e4372d
+    type: zipped-medias
