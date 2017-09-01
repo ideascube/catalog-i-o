@@ -1064,3 +1064,17 @@ all:
     size: 304465117
     sha256sum: 087b4e0c349a4cc2c57a98578477f040d07b1691809c1e107e3511ab8eb45166
     type: zipped-medias
+  health-and-diseases-ar:
+    name: "Health and Diseases [\u0627\u0644\u0635\u062D\u0629 \u0648\u0627\u0644\u0627\
+      \u0645\u0631\u0627\u0636]"
+    description: "Learn about certain diseases and how to prevent them.// \u0627\u0639\
+      \u0631\u0641 \u0627\u0643\u062B\u0631 \u0639\u0646 \u0628\u0639\u0636 \u0627\
+      \u0644\u0627\u0645\u0631\u0627\u0636 \u0648\u0643\u064A\u0641 \u064A\u0645\u0643\
+      \u0646\u0643 \u062D\u0645\u0627\u064A\u0629 \u0646\u0641\u0633\u0643 \u0645\u0646\
+      \u0647\u0627.  Teenagers, Adults"
+    language: ar
+    version: '2017-08-31'
+    url: http://packages.ideascube.org/omeka/health-and-diseases-ar.zip
+    size: 59854602
+    sha256sum: 4d2ee5c9f6fa077ffab7227d990915237f05f58d09a297dbec586c8163124e6d
+    type: zipped-medias
