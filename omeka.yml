@@ -1035,3 +1035,18 @@ all:
     size: 245428878
     sha256sum: 8246c74347c82a2eb66ae09d02fc23c58a054502f5b1a33e86e26c065d14adba
     type: zipped-medias
+  self-development-ar:
+    name: "Self Development [\u062A\u0637\u0648\u064A\u0631 \u0627\u0644\u0630\u0627\
+      \u062A]"
+    description: "Discover new ways of thinking that could help you improve your life\
+      \ and motivate you to be a better version of yourself.//  \u0627\u0643\u062A\
+      \u0634\u0641 \u0637\u0631\u0642 \u0644\u062A\u062D\u0633\u064A\u0646 \u0648\u062A\
+      \u0637\u0648\u064A\u0631 \u0646\u0641\u0633\u0643 \u0648\u062A\u062D\u0641\u064A\
+      \u0632\u0643 \u0644\u0627\u0646 \u062A\u0643\u0648\u0646 \u0627\u0641\u0636\u0644\
+      \ \u0643\u0644 \u064A\u0648\u0645. - Teenagers, Adults"
+    language: ar
+    version: '2017-08-31'
+    url: http://packages.ideascube.org/omeka/self-development-ar.zip
+    size: 459897592
+    sha256sum: 9067b1683148f37379aae80cf34e2ea0ccb09903d024b9c15250e8db344b7fcc
+    type: zipped-medias
