@@ -969,3 +969,20 @@ all:
     size: 1714053777
     sha256sum: b5bb2c4976fd4aa4e503bfe6cdcb18dcd9646b8a201616935ed5c9bb8b2e871d
     type: zipped-medias
+  abuse-and-harassment-ar:
+    name: "Abuse and Harassment [\u0627\u0644\u0639\u0646\u0641 \u0648\u0627\u0644\
+      \u062A\u062D\u0631\u0634]"
+    description: "This package contains contents on child harassment, women abuse\
+      \ and child marriage.//\u062A\u062E\u062A\u0635 \u0647\u0630\u0647 \u0627\u0644\
+      \u0631\u0632\u0645\u0629 \u0641\u064A \u0645\u0627 \u064A\u062A\u0643\u0644\u0645\
+      \ \u0639\u0646 \u0627\u0644\u0639\u0646\u0641 \u0627\u0644\u0627\u0633\u0631\
+      \u064A \u0627\u062A\u062C\u0627\u0647 \u0627\u0644\u0637\u0641\u0644 \u0648\u0627\
+      \u0644\u0645\u0631\u0623\u0629, \u0627\u0644\u062A\u062D\u0631\u0634 \u0627\u0644\
+      \u062C\u0646\u0633\u064A \u0648\u0627\u0644\u0632\u0648\u0627\u062C \u0627\u0644\
+      \u0645\u0628\u0643\u0631."
+    language: ar
+    version: '2017-08-31'
+    url: http://packages.ideascube.org/omeka/abuse-and-harassment-ar.zip
+    size: 175135440
+    sha256sum: 0f276313e9f31a867c866a4c0cb7a629df3b4881292a4747dbd88929f98ac509
+    type: zipped-medias
