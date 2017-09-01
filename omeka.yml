@@ -1078,3 +1078,18 @@ all:
     size: 59854602
     sha256sum: 4d2ee5c9f6fa077ffab7227d990915237f05f58d09a297dbec586c8163124e6d
     type: zipped-medias
+  girl-talk-puberty-ar:
+    name: "Girl Talk - Puberty [\u0643\u0644\u0627\u0645 \u0628\u0646\u0627\u062A\
+      \ - \u0633\u0646 \u0627\u0644\u0628\u0644\u0648\u063A]"
+    description: "Feel free and comfortable discussing puberty and any concerns a\
+      \ girl might have.// \u0627\u0634\u0639\u0631\u064A \u0628\u0627\u0644\u0631\
+      \u0627\u062D\u0629 \u0641\u064A \u0627\u0644\u062A\u0643\u0644\u0645 \u0639\u0646\
+      \ \u0627\u0644\u062F\u0648\u0631\u0629 \u0627\u0644\u0634\u0647\u0631\u064A\u0629\
+      \ \u0648\u0633\u0646 \u0627\u0644\u0628\u0644\u0648\u063A \u0641\u064A \u0643\
+      \u0644\u0627\u0645 \u0628\u0646\u0627\u062A."
+    language: ar
+    version: '2017-08-30'
+    url: http://packages.ideascube.org/omeka/girl-talk-puberty-ar.zip
+    size: 61116128
+    sha256sum: 163c1ccdd5fa1f6357e5537244747834b77b4d3a7770f1bd7e825d8e77036a7d
+    type: zipped-medias
