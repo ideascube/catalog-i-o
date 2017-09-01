@@ -1000,3 +1000,14 @@ all:
     size: 2956109116
     sha256sum: 7602ca636a13e06862721ec05e548b3dec94701e3ea52a2ab4ab04819036885d
     type: zipped-medias
+  cooking-ar:
+    name: "Cooking [\u0627\u0644\u0637\u0628\u062E]"
+    description: "Learn simple and fun cooking methods.// \u062A\u0639\u0644\u0645\
+      \ \u0637\u0631\u0642 \u0637\u0628\u062E \u0645\u0633\u0644\u064A\u0629 \u0648\
+      \u0633\u0647\u0644\u0629"
+    language: ar
+    version: '2017-08-31'
+    url: http://packages.ideascube.org/omeka/cooking-ar.zip
+    size: 172194820
+    sha256sum: 61e829b1fdedff59190f34d70cd9a677a6586e5218fe7678e0c8ed9bc8ba6b5e
+    type: zipped-medias
