@@ -986,3 +986,17 @@ all:
     size: 175135440
     sha256sum: 0f276313e9f31a867c866a4c0cb7a629df3b4881292a4747dbd88929f98ac509
     type: zipped-medias
+  arabic-alphabet-ar:
+    name: "Arabic Alphabet [\u0627\u0644\u0627\u0628\u062C\u062F\u064A\u0629 \u0627\
+      \u0644\u0639\u0631\u0628\u064A\u0629]"
+    description: "Learn the Arabic Alphabet through easy and fun videos.//\u062A\u0639\
+      \u0644\u0645 \u0627\u0644\u0627\u0628\u062C\u062F\u064A\u0629 \u0627\u0644\u0639\
+      \u0631\u0628\u064A\u0629 \u0645\u0646 \u062E\u0644\u0627\u0644 \u0627\u0644\u0641\
+      \u064A\u062F\u064A\u0648\u0647\u0627\u062A \u0627\u0644\u0633\u0647\u0644\u0629\
+      \ \u0648\u0627\u0644\u0645\u0633\u0644\u064A\u0629"
+    language: ar
+    version: '2017-08-31'
+    url: http://packages.ideascube.org/omeka/arabic-alphabet-ar.zip
+    size: 2956109116
+    sha256sum: 7602ca636a13e06862721ec05e548b3dec94701e3ea52a2ab4ab04819036885d
+    type: zipped-medias
