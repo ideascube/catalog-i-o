@@ -959,3 +959,13 @@ all:
     size: 174968790
     sha256sum: e0c130966fe27cfd79888ef525914b9f35e5e78e78bb11fcc84ecf1cea598262
     type: zipped-medias
+  music-in-kurdish-ckb:
+    name: "\u0645\u0648\u0648\u0632\u06CC\u06A9\u06CC \u0646\u0648\u06CE\u06CC \u06A9\
+      \u0648\u0631\u062F\u06CC\u060C  - music in kurdish"
+    description: Learn more about sorani kurdish songs and sing karaoke!
+    language: ckb
+    version: '2017-08-31'
+    url: http://packages.ideascube.org/omeka/music-in-kurdish-ckb.zip
+    size: 1714053777
+    sha256sum: b5bb2c4976fd4aa4e503bfe6cdcb18dcd9646b8a201616935ed5c9bb8b2e871d
+    type: zipped-medias
