@@ -912,7 +912,7 @@ all:
     url: http://packages.ideascube.org/omeka/sports-ar.zip
     size: 169656168
     sha256sum: b4dfc50ab2aee4dd8cfc87e0be00f7f0ba199ae3914bc7ad66273a29a3a663be
-    type: zipped-media
+    type: zipped-medias
   fashion-and-beauty-ar:
     name: "Fashion and Beauty [\u0645\u0648\u0636\u0629 \u0648\u062C\u0645\u0627\u0644\
       ]"
