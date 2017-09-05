@@ -224,3 +224,12 @@ all:
     size: 10512362228
     sha256sum: 957b5d84e3dc29c9f1c2bfacdec75932dc35cc9add238be6ba205ddff9bae183
     type: zipped-medias
+  viajeros:
+    name: "Viajeros Del Pentagrama"
+    description: "La nueva estrategia digital de apoyo a la formación musical creada por el Ministerio de Cultura de Colombia, “VIAJEROS DEL PENTAGRAMA”, está disponible para ser usada libremente en todas las escuelas de básica primaria del país. Este portal brinda herramientas de enseñanza musical para aplicar en el aula, aquí encontrarán didácticas, ejemplos de clase y recursos para dictar una clase de música óptima y para que los niños y las familias refuercen esas clases de forma autónoma. Vive junto a Doni, Mira y Labi un viaje lleno de aprendizajes musicales en busca de Opus, el dragón musical."
+    version: "2017-09-05"
+    language: "esp"
+    url: 'http://packages.ideascube.org/bibliotecamovil/viajeros.zip'
+    size: 2193772734
+    sha256sum: "8bd6f85d52d27c2b56e6c1127ff1f9fd6e524f4d845e2afaa73fa0a1d56ed04d"
+    type: zipped-medias
