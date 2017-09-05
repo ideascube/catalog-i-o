@@ -232,4 +232,4 @@ all:
     url: 'http://packages.ideascube.org/bibliotecamovil/viajeros.zip'
     size: 2193772734
     sha256sum: "8bd6f85d52d27c2b56e6c1127ff1f9fd6e524f4d845e2afaa73fa0a1d56ed04d"
-    type: zipped-medias
+    type: static-site
