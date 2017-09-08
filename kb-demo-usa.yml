@@ -218,13 +218,3 @@ all:
     size: 34955009
     sha256sum: 84faeed1b88335279e5e7544f051be5b8f3b905d5af891cdb245a995bde4c0ad
     type: zipped-medias
-  carprentry:
-    name: Carprentry
-    description: You want to learn or discover carpentry ? Beginner or professional,
-      you will find everything you are looking for here !
-    language: en
-    version: '2017-09-08'
-    url: http://packages.ideascube.org/omeka/kb-demo-usa/carprentry.zip
-    size: 1148249307
-    sha256sum: 69311bc99cca3796162a146769b8b6554fbbf52eeb2652805572654e4a0cd8a4
-    type: zipped-medias
