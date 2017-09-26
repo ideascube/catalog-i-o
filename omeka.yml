@@ -1258,3 +1258,12 @@ all:
     size: 717927688
     sha256sum: 7e5882100dd8b534fee7a5b1338ec7594c89b017b9eb7db9549c677a8d274ab2
     type: zipped-medias
+  drums-for-beginners-en:
+    name: Drums for beginners
+    description: Short classes to play drums quickly.
+    language: en
+    version: '2017-09-25'
+    url: http://packages.ideascube.org/omeka/drums-for-beginners-en.zip
+    size: 79443359
+    sha256sum: 47bb0c393c7b616e0d25361cafb0c8faebc2ad6dc49d558a2b98898d572d6660
+    type: zipped-medias
