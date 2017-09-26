@@ -90,10 +90,10 @@ all:
     name: "\u062E\u064A\u0627\u0644 - fictions and entertainment in Arabic"
     description: "\u0645\u0633\u0644\u0633\u0644 \u0634\u0639\u0631 \u0642\u0635\u0635"
     language: ar
-    version: '2017-08-30'
+    version: '2017-09-25'
     url: http://packages.ideascube.org/omeka/fictions-and-entertainment-in-arabic-ar.zip
     size: 2320165632
-    sha256sum: f9d108f6fe66eaa952c4a73bfacbf69af846365e2da83ce84db23a2ca949bd8e
+    sha256sum: e5923fc2ed066c45ab6cff23943cbfcab5aac173023bd64822309603de82a1f5
     type: zipped-medias
   apprenez-le-francais-fr:
     name: "Apprenez le fran\xE7ais"
