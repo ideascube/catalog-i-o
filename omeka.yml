@@ -1178,3 +1178,13 @@ all:
     size: 895103745
     sha256sum: 77d19554090b641f8226d80cfc482f213662333046d5ad941e0e7aace21a8979
     type: zipped-medias
+  introduction-to-sociology-en:
+    name: Introduction to sociology
+    description: You want to enrich your knowledge in sociology? You will find very
+      interesting resumes here !
+    language: en
+    version: '2017-09-25'
+    url: http://packages.ideascube.org/omeka/introduction-to-sociology-en.zip
+    size: 604383438
+    sha256sum: b05065c2cddce668a42b45158ffd25ce7854b7139ee0dcef88412be6da8cee84
+    type: zipped-medias
