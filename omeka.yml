@@ -1140,3 +1140,13 @@ all:
     size: 3293738537
     sha256sum: c1adac768e79e28c7c0d71911d380e4076079f596207deb15686e69029cb9b55
     type: zipped-medias
+  refugees-rights-fa:
+    name: "\u062D\u0642\u0648\u0642 \u067E\u0646\u0627\u0647\u0646\u062F\u06D5\u06AF\
+      \u0627\u0646[Refugees rights]"
+    description: Information about refugees rights in farsi.
+    language: fa
+    version: '2017-09-25'
+    url: http://packages.ideascube.org/omeka/refugees-rights-fa.zip
+    size: 147480421
+    sha256sum: 64cce674ac3890d4108af6bd3be726c6c9efe5caec7ee0d90c217462eb66e4cd
+    type: zipped-medias
