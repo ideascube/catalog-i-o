@@ -1319,3 +1319,13 @@ all:
     size: 430661835
     sha256sum: 3574fb13e9e30d0a31ffc5ff278aab530ee47d66be21951d06d95a64a2d1be98
     type: zipped-medias
+  woodcrafts-for-kids-en:
+    name: Woodcrafts for kids
+    description: This package contains woodcrafts activities for children to create
+      toys!
+    language: en
+    version: '2017-09-25'
+    url: http://packages.ideascube.org/omeka/woodcrafts-for-kids-en.zip
+    size: 59693414
+    sha256sum: 7bcca3d3d83f434afb43c3a2bf14e568c26a3c538ad0ce638edf7c13fb90696f
+    type: zipped-medias
