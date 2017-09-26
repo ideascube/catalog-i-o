@@ -1310,3 +1310,12 @@ all:
     size: 79058366
     sha256sum: 47edb23b4e7f8931c61593be3506fbdb9d1ca4216a6755615ccedf677d55470c
     type: zipped-medias
+  let-s-practise-sport-children-en:
+    name: Let's practise sport ! [children]
+    description: Learn more about different sports and about Olympic Games !
+    language: en
+    version: '2017-09-25'
+    url: http://packages.ideascube.org/omeka/let-s-practise-sport-children-en.zip
+    size: 430661835
+    sha256sum: 3574fb13e9e30d0a31ffc5ff278aab530ee47d66be21951d06d95a64a2d1be98
+    type: zipped-medias
