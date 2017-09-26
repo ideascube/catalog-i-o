@@ -453,10 +453,10 @@ all:
     name: Learn english ! (teenagers)
     description: Apprends les bases de l'anglais en t'amusant !
     language: en
-    version: '2017-08-28'
+    version: '2017-09-25'
     url: http://packages.ideascube.org/omeka/learn-english-teenagers-en.zip
     size: 305686403
-    sha256sum: b2f9c3782bacfaaba354e31c7ffe244b2d0f3c248a7ee0d18f6fc2ce7bb880f5
+    sha256sum: b319ec5ea255aab9c1b472019973890f3e73ca5c7b6da2037574da78f750314c
     type: zipped-medias
   discriminations-enfants-fr:
     name: Discriminations (enfants)
