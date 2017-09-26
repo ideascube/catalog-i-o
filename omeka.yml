@@ -1340,3 +1340,13 @@ all:
     size: 200291320
     sha256sum: a374f5ac9d63627f27aef8bef14c1d2cb405880bd0c7f466d70fc17a69574d51
     type: zipped-medias
+  learn-greek-el:
+    name: Learn greek !
+    description: Learn to speak and write in greek language, to understand information
+      and communicate with people in Greece.
+    language: el
+    version: '2017-09-25'
+    url: http://packages.ideascube.org/omeka/learn-greek-el.zip
+    size: 49891333
+    sha256sum: fbaa79f21123876b109861d62ea8b1528ea3f8dc70535b3c627ee5580040026e
+    type: zipped-medias
