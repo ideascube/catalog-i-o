@@ -548,10 +548,10 @@ all:
       Learn about the history of human rights and the legislation that ensure that
       they are respected with this package.
     language: en
-    version: '2017-06-01'
+    version: '2017-09-25'
     url: http://packages.ideascube.org/omeka/introduction-to-human-rights-en.zip
     size: 1122964266
-    sha256sum: 438e65c270b903380b92032ba902f7fbbd49bb3300a434f2d9afee4cfa765938
+    sha256sum: fbd3fa2cabb8de283451a9cfa9412109bd294c733aca96a6e2136bd36e74de39
     type: zipped-medias
   introduction-to-healthcare-en:
     name: Introduction to healthcare
