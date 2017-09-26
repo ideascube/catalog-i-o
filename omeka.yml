@@ -537,10 +537,10 @@ all:
       are entitled to. In these videos, you will learn what they mean and how they
       are protected.
     language: en
-    version: '2017-06-01'
+    version: '2017-09-25'
     url: http://packages.ideascube.org/omeka/introduction-to-human-rights-for-children-en.zip
     size: 20750144
-    sha256sum: 0df267044e5f7c5b9f305f9ef83c1b4ea0b8bdd50f93eaf088ff38c2b1e0f67e
+    sha256sum: 82b5e0c7b70eb8e76abb0eff04e8701916d939308455fdf4e6ffae76bfa7f370
     type: zipped-medias
   introduction-to-human-rights-en:
     name: Introduction to Human Rights
