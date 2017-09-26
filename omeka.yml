@@ -954,10 +954,10 @@ all:
       \ .// \u062A\u0639\u0644\u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\
       \u0646\u062C\u0644\u064A\u0632\u064A\u0629   Kids, Teenagers, Adults"
     language: ar
-    version: '2017-08-30'
+    version: '2017-09-25'
     url: http://packages.ideascube.org/omeka/let-s-speak-english-ar.zip
     size: 174968790
-    sha256sum: e0c130966fe27cfd79888ef525914b9f35e5e78e78bb11fcc84ecf1cea598262
+    sha256sum: 1d904c96466bbfc350f2c0399c391aac4695584c537f7e3b464e6aad677b835f
     type: zipped-medias
   music-in-kurdish-ckb:
     name: "\u0645\u0648\u0648\u0632\u06CC\u06A9\u06CC \u0646\u0648\u06CE\u06CC \u06A9\
@@ -1016,10 +1016,10 @@ all:
     description: "Poetry collection.//\u0623\u0639\u0645\u0627\u0644 \u0634\u0639\u0631\
       \u064A\u0629"
     language: ar
-    version: '2017-08-30'
+    version: '2017-09-25'
     url: http://packages.ideascube.org/omeka/poetry-ar.zip
     size: 117617282
-    sha256sum: baf46ca0ea56ebb5a91b4eb32bd55f72dce1393f8bb924141cfa9d668ef91582
+    sha256sum: c1e55f275466d5dbd2ddc3f5084714d293d145fe98ea3cae03ec929c99e5f473
     type: zipped-medias
   physics-ar:
     name: "Physics [\u0627\u0644\u0641\u064A\u0632\u064A\u0627\u0621]"
@@ -1059,10 +1059,10 @@ all:
       \u064A\u062F\u0629 \u0644\u0644\u0627\u0645\u0648\u0645\u0629 \u0648\u0627\u0644\
       \u0627\u0628\u0648\u0629"
     language: ar
-    version: '2017-08-31'
+    version: '2017-09-25'
     url: http://packages.ideascube.org/omeka/motherhood-and-parenting-ar.zip
     size: 304465117
-    sha256sum: 087b4e0c349a4cc2c57a98578477f040d07b1691809c1e107e3511ab8eb45166
+    sha256sum: b1584b2a39f9fd905b49fb6c4bd8962e53407513e2e6554e21d4024632328b23
     type: zipped-medias
   health-and-diseases-ar:
     name: "Health and Diseases [\u0627\u0644\u0635\u062D\u0629 \u0648\u0627\u0644\u0627\
@@ -1237,4 +1237,14 @@ all:
     url: http://packages.ideascube.org/omeka/introduction-to-geography-environmental-studies-en.zip
     size: 1384122953
     sha256sum: 5f458de0379fb08ebf60100ba3dd7f64655176d18fe642e6740dd85d43d1d33d
+    type: zipped-medias
+  carpentry-en:
+    name: Carpentry
+    description: You want to learn or discover carpentry ? Beginner or professional,
+      you will find everything you are looking for here !
+    language: en
+    version: '2017-09-25'
+    url: http://packages.ideascube.org/omeka/carpentry-en.zip
+    size: 1148249307
+    sha256sum: e598b4843d1deca7d5391b8007b515d77b7f2131d14c8791d7eb857a8f9bcaf4
     type: zipped-medias
