@@ -1329,3 +1329,14 @@ all:
     size: 59693414
     sha256sum: 7bcca3d3d83f434afb43c3a2bf14e568c26a3c538ad0ce638edf7c13fb90696f
     type: zipped-medias
+  facilitator-kit-en:
+    name: Facilitator Kit
+    description: Dear facilitators, you'll find here contents and activities guides
+      to help you managing activities in your Ideas Box. Do not hesitate to use it
+      to find ideas and inspiration !
+    language: en
+    version: '2017-09-25'
+    url: http://packages.ideascube.org/omeka/facilitator-kit-en.zip
+    size: 200291320
+    sha256sum: a374f5ac9d63627f27aef8bef14c1d2cb405880bd0c7f466d70fc17a69574d51
+    type: zipped-medias
