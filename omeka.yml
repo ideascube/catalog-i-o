@@ -1299,3 +1299,14 @@ all:
     size: 9603936338
     sha256sum: 781d21a3ca7718e35114692008745b8af43e6f4a24361ecc2e713e0f477fe759
     type: zipped-medias
+  learn-to-read-and-count-in-farsi-children:
+    name: "Learn to read and count in farsi - \u0641\u0627\u0631\u0633\u06CC [children]"
+    description: "Learn to read and count in farsi ! \u06CC\u0627\u062F\u06AF\u06CC\
+      \u0631\u06CC \u062E\u0648\u0627\u0646\u062F\u0646 \u0648 \u0634\u0645\u0627\u0631\
+      \u0634 \u062F\u0631 \u0641\u0627\u0631\u0633 !"
+    language: fa
+    version: '2017-09-25'
+    url: http://packages.ideascube.org/omeka/learn-to-read-and-count-in-farsi-children.zip
+    size: 79058366
+    sha256sum: 47edb23b4e7f8931c61593be3506fbdb9d1ca4216a6755615ccedf677d55470c
+    type: zipped-medias
