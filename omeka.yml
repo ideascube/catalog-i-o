@@ -1248,3 +1248,13 @@ all:
     size: 1148249307
     sha256sum: e598b4843d1deca7d5391b8007b515d77b7f2131d14c8791d7eb857a8f9bcaf4
     type: zipped-medias
+  learn-guitar-en:
+    name: Learn guitar
+    description: You want to learn about guitar ? Beginner or confirmed, you will
+      find what you are looking for here !
+    language: en
+    version: '2017-09-25'
+    url: http://packages.ideascube.org/omeka/learn-guitar-en.zip
+    size: 717927688
+    sha256sum: 7e5882100dd8b534fee7a5b1338ec7594c89b017b9eb7db9549c677a8d274ab2
+    type: zipped-medias
