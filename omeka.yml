@@ -1267,3 +1267,13 @@ all:
     size: 79443359
     sha256sum: 47bb0c393c7b616e0d25361cafb0c8faebc2ad6dc49d558a2b98898d572d6660
     type: zipped-medias
+  learn-photography-en:
+    name: Learn photography !
+    description: Learn how to create great pictures, acquire the basic skills to become
+      a photographer !
+    language: en
+    version: '2017-09-25'
+    url: http://packages.ideascube.org/omeka/learn-photography-en.zip
+    size: 225620053
+    sha256sum: 7daa8aeda9c6e3bddfd87a78f8bb6af527945e9c3bbf88b94b07cd5cdf67bc3a
+    type: zipped-medias
