@@ -1208,3 +1208,13 @@ all:
     size: 264294546
     sha256sum: ca97b10333d272ba167c500c74ac3092c1561166aeec0e6ee951630c5b4200e1
     type: zipped-medias
+  introduction-to-business-studies-en:
+    name: Introduction to business studies
+    description: You want to improve your knowledge in business studies ? You will
+      find very interesting resumes here !
+    language: en
+    version: '2017-09-25'
+    url: http://packages.ideascube.org/omeka/introduction-to-business-studies-en.zip
+    size: 123577203
+    sha256sum: 1b25daa08c182d72898d2db5ab3f65a16eedfa325c6d7a95ba4b82e13a3ab6c2
+    type: zipped-medias
