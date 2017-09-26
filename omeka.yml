@@ -1228,3 +1228,13 @@ all:
     size: 529005803
     sha256sum: ffb7f513c91dee517e6952b5510da9bbff78b21414181e50da5ac225020f4948
     type: zipped-medias
+  introduction-to-geography-environmental-studies-en:
+    name: Introduction to geography & environmental studies
+    description: You want to enrich your knowledge in geography & environmental studies?
+      You will find very interesting resumes here !
+    language: en
+    version: '2017-09-25'
+    url: http://packages.ideascube.org/omeka/introduction-to-geography-environmental-studies-en.zip
+    size: 1384122953
+    sha256sum: 5f458de0379fb08ebf60100ba3dd7f64655176d18fe642e6740dd85d43d1d33d
+    type: zipped-medias
