@@ -1150,3 +1150,12 @@ all:
     size: 147480421
     sha256sum: 64cce674ac3890d4108af6bd3be726c6c9efe5caec7ee0d90c217462eb66e4cd
     type: zipped-medias
+  about-drugs-and-addiction-fa:
+    name: "\u0645\u0648\u0627\u062F \u0645\u062E\u062F\u0631 [About drugs and addiction]"
+    description: Health - talk about drugs in farsi language.
+    language: fa
+    version: '2017-09-25'
+    url: http://packages.ideascube.org/omeka/about-drugs-and-addiction-fa.zip
+    size: 77314927
+    sha256sum: 6ad622d00538c49d438299ae088502745809e4bd689b313040912eb5d3b23df8
+    type: zipped-medias
