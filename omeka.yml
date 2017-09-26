@@ -1131,3 +1131,12 @@ all:
     size: 86424975
     sha256sum: 1ac8cb3721bdbfc5f987a6eef7289fd3ffd32243cd7d8f79a32bd64c5b521ee9
     type: zipped-medias
+  cartoons-and-tales-fa:
+    name: "\u06A9\u0627\u0631\u062A\u0648\u0646 [Cartoons and tales]"
+    description: Cartoons and tales for children in farsi language !
+    language: fa
+    version: '2017-09-25'
+    url: http://packages.ideascube.org/omeka/cartoons-and-tales-fa.zip
+    size: 3293738537
+    sha256sum: c1adac768e79e28c7c0d71911d380e4076079f596207deb15686e69029cb9b55
+    type: zipped-medias
