@@ -1159,12 +1159,22 @@ all:
     size: 77314927
     sha256sum: 6ad622d00538c49d438299ae088502745809e4bd689b313040912eb5d3b23df8
     type: zipped-medias
-  let-s-talk-about-sexuality:
+  let-s-talk-about-sexuality-fa:
     name: "\u0645\u0648\u0627\u062F \u0645\u062E\u062F\u0631 [Let's talk about sexuality]"
     description: Talk about sexuality in farsi language.
     language: fa
     version: '2017-09-25'
-    url: http://packages.ideascube.org/omeka/let-s-talk-about-sexuality.zip
+    url: http://packages.ideascube.org/omeka/let-s-talk-about-sexuality-fa.zip
     size: 199815434
     sha256sum: 455eeac6292157528dc1cf7217ef24123c0f8fd3a2139577a09dcf000bfcfc06
+    type: zipped-medias
+  introduction-to-psychology-en:
+    name: Introduction to psychology
+    description: You want to enrich your knowledge in psychology ? You will find very
+      interesting resumes here !
+    language: en
+    version: '2017-09-25'
+    url: http://packages.ideascube.org/omeka/introduction-to-psychology-en.zip
+    size: 895103745
+    sha256sum: 77d19554090b641f8226d80cfc482f213662333046d5ad941e0e7aace21a8979
     type: zipped-medias
