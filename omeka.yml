@@ -1188,3 +1188,13 @@ all:
     size: 604383438
     sha256sum: b05065c2cddce668a42b45158ffd25ce7854b7139ee0dcef88412be6da8cee84
     type: zipped-medias
+  introduction-to-economics-en:
+    name: Introduction to economics
+    description: You want to improve your knowledge in economics ? You will find very
+      interesting resumes here !
+    language: en
+    version: '2017-09-25'
+    url: http://packages.ideascube.org/omeka/introduction-to-economics-en.zip
+    size: 470660881
+    sha256sum: d7981104318b43bc43b403f2f706a9cd510b8ecd69d8f677a2a4caed19ae7d4c
+    type: zipped-medias
