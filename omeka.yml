@@ -1277,3 +1277,12 @@ all:
     size: 225620053
     sha256sum: 7daa8aeda9c6e3bddfd87a78f8bb6af527945e9c3bbf88b94b07cd5cdf67bc3a
     type: zipped-medias
+  vocabularies-en:
+    name: Vocabularies
+    description: Contents to help you to understand each other !
+    language: en
+    version: '2017-09-25'
+    url: http://packages.ideascube.org/omeka/vocabularies-en.zip
+    size: 22030492
+    sha256sum: f836ceba13b966c700e73c828021b7e7de11834fea74198f74eb1c8ef921389e
+    type: zipped-medias
