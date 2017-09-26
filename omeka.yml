@@ -598,10 +598,10 @@ all:
     description: How do we produce electricity? How do bees make honey? Find the answers
       to these science questions in this package.
     language: en
-    version: '2017-06-01'
+    version: '2017-09-25'
     url: http://packages.ideascube.org/omeka/introduction-to-sciences-en.zip
-    size: 225553834
-    sha256sum: 47e5fd3df1ab50831fd19a12af2ee7b31f78e9973b7b615710cc31b0841564a1
+    size: 558692224
+    sha256sum: b6f8d9cf018f494708f8acd82a8168d7a5cff48239d5afc3a685482badbb8e90
     type: zipped-medias
   astronomy-en:
     name: Astronomy
