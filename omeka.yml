@@ -1218,3 +1218,13 @@ all:
     size: 123577203
     sha256sum: 1b25daa08c182d72898d2db5ab3f65a16eedfa325c6d7a95ba4b82e13a3ab6c2
     type: zipped-medias
+  introduction-to-philosophy-en:
+    name: Introduction to philosophy
+    description: You want to enrich your knowledge in philosophy? You will find very
+      interesting resumes here !
+    language: en
+    version: '2017-09-25'
+    url: http://packages.ideascube.org/omeka/introduction-to-philosophy-en.zip
+    size: 529005803
+    sha256sum: ffb7f513c91dee517e6952b5510da9bbff78b21414181e50da5ac225020f4948
+    type: zipped-medias
