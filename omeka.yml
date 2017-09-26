@@ -558,10 +558,10 @@ all:
     description: This package contains basic information on healthcare. It provides
       tips and scientific information about common diseases and ways to prevent them.
     language: en
-    version: '2017-06-01'
+    version: '2017-09-25'
     url: http://packages.ideascube.org/omeka/introduction-to-healthcare-en.zip
-    size: 443411087
-    sha256sum: 229495425a291afa05085fd71ac627d0ac9163d1d862d5d9aafdddb91d006fd4
+    size: 450616389
+    sha256sum: 14466b03160a20a1e61394c1e9730bf91bd486490018ce5bede131f4dc65108b
     type: zipped-medias
   introduction-to-ecology-en:
     name: Introduction to ecology
