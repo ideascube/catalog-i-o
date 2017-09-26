@@ -1198,3 +1198,13 @@ all:
     size: 470660881
     sha256sum: d7981104318b43bc43b403f2f706a9cd510b8ecd69d8f677a2a4caed19ae7d4c
     type: zipped-medias
+  introduction-to-anthropology-en:
+    name: Introduction to anthropology
+    description: You want to improve your knowledge in anthropology? You will find
+      very interesting resumes here !
+    language: en
+    version: '2017-09-25'
+    url: http://packages.ideascube.org/omeka/introduction-to-anthropology-en.zip
+    size: 264294546
+    sha256sum: ca97b10333d272ba167c500c74ac3092c1561166aeec0e6ee951630c5b4200e1
+    type: zipped-medias
