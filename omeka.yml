@@ -507,10 +507,10 @@ all:
     name: Cartoons
     description: Have fun with these cartoons featuring well-known characters!
     language: en
-    version: '2017-06-01'
+    version: '2017-09-25'
     url: http://packages.ideascube.org/omeka/cartoons-en.zip
     size: 644897218
-    sha256sum: 7d4476d27ff97096d61cbf18b088ee914b15aa6d01ddd48748eecf843787c7cb
+    sha256sum: 4a993703600b510ab4d89271f299bc6f53cecca9fc898ebc8888c0862c8e4e98
     type: zipped-medias
   greek-mythology-en:
     name: Greek mythology
@@ -981,10 +981,10 @@ all:
       \u062C\u0646\u0633\u064A \u0648\u0627\u0644\u0632\u0648\u0627\u062C \u0627\u0644\
       \u0645\u0628\u0643\u0631."
     language: ar
-    version: '2017-08-31'
+    version: '2017-09-25'
     url: http://packages.ideascube.org/omeka/abuse-and-harassment-ar.zip
     size: 175135440
-    sha256sum: 0f276313e9f31a867c866a4c0cb7a629df3b4881292a4747dbd88929f98ac509
+    sha256sum: 98f71d079bec08b5ea28083e46fa04db4ca8fe98ba54ad26a168e40a255e5243
     type: zipped-medias
   arabic-alphabet-ar:
     name: "Arabic Alphabet [\u0627\u0644\u0627\u0628\u062C\u062F\u064A\u0629 \u0627\
