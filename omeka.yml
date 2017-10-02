@@ -71,10 +71,10 @@ all:
     name: Cuisine et nutrition (enfants)
     description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
     language: fr
-    version: '2017-06-23'
+    version: '2017-09-29'
     url: http://packages.ideascube.org/omeka/cuisine-et-nutrition-enfants-fr.zip
-    size: 115443064
-    sha256sum: 39481a91ad9b71bb8234d80905cb5fd567bb9574d169209bdff1a088835729d6
+    size: 118282456
+    sha256sum: 5e24ebefa5a309429d7e25b0b08396adadf60660e0be745b53bf30dfd4fb6a62
     type: zipped-medias
   combattons-les-discriminations-fr:
     name: Combattons les discriminations
