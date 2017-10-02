@@ -399,15 +399,6 @@ all:
     size: 617149042
     sha256sum: bb8a8e066cfc31b971d0c485175ab35a6d891724c0d148a352234874aa664451
     type: zipped-medias
-  cuisine-et-nutrition-enfants:
-    name: Cuisine et nutrition (enfants)
-    description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
-    language: fr
-    version: '2017-09-29'
-    url: http://packages.ideascube.org/omeka/cuisine-et-nutrition-enfants.zip
-    size: 118282456
-    sha256sum: 5e24ebefa5a309429d7e25b0b08396adadf60660e0be745b53bf30dfd4fb6a62
-    type: zipped-medias
   hygiene-enfants-fr:
     name: "Hygi\xE8ne (enfants)"
     description: "Pourquoi il faut se laver, le corps, les mains, les dents ? Pour\
