@@ -374,10 +374,10 @@ all:
     description: "Vous avez toujours r\xEAv\xE9 de devenir \xE9crivain ? C'est le\
       \ moment de vous lancer !"
     language: fr
-    version: '2017-06-26'
+    version: '2017-10-16'
     url: http://packages.ideascube.org/omeka/ecriture-et-litterature-fr.zip
     size: 464557697
-    sha256sum: cad8b04a0cba9e011490c0f93ac48f4151124164f4d85b1993ef0b5731661462
+    sha256sum: d5b84934ccf22fb04eacdee8c9d9dfff86a31c7ad7ef819125aa2b3d03189066
     type: zipped-medias
   hygiene-afrique-fr:
     name: "Hygi\xE8ne (Afrique)"
@@ -1423,4 +1423,105 @@ all:
     url: http://packages.ideascube.org/omeka/parentalite-fr.zip
     size: 50652765
     sha256sum: 41328a18e284f45c86b79e653c0100e339bd1018526acee5a8ceb2b040f0493c
+    type: zipped-medias
+  evite-les-conflits-enfants-ados-fr:
+    name: Evite les conflits ! [Enfants/Ados]
+    description: La paix, comment on fait ?
+    language: fr
+    version: '2017-10-16'
+    url: http://packages.ideascube.org/omeka/evite-les-conflits-enfants-ados-fr.zip
+    size: 34617278
+    sha256sum: 97dc50645b19e4cf7f14b9d3de1ff3754adb582ba6df8a8102b025aba42c2d5c
+    type: zipped-medias
+  les-filles-et-les-garcons-quelles-differences-fr:
+    name: "Les filles et les gar\xE7ons, quelles diff\xE9rences ?"
+    description: "Filles footballeuses, soldats, pr\xE9sidentes: les filles peuvent\
+      \ faire autant de choses que les gar\xE7ons !"
+    language: fr
+    version: '2017-10-16'
+    url: http://packages.ideascube.org/omeka/les-filles-et-les-garcons-quelles-differences-fr.zip
+    size: 368485495
+    sha256sum: b92510a44e93786848683d21ae89f0374c96b623c2de669d97dc90358f7c7ea2
+    type: zipped-medias
+  protege-la-planete-enfants-ados-fr:
+    name: "Prot\xE8ge la plan\xE8te ! [Enfants/Ados]"
+    description: "Pourquoi c'est important de prot\xE9ger la plan\xE8te ? Que peux-tu\
+      \ faire pour la prot\xE9ger, toi aussi ?"
+    language: fr
+    version: '2017-10-16'
+    url: http://packages.ideascube.org/omeka/protege-la-planete-enfants-ados-fr.zip
+    size: 1885979009
+    sha256sum: 6c0d03edf92f9e0147409a80e7a2bb1b0f3d04c08b3e60cc69b2087298468603
+    type: zipped-medias
+  prends-soin-de-toi-enfants-ado-fr:
+    name: Prends soin de toi ! [Enfants/Ado]
+    description: "Chacun a de belles choses \xE0 dire et \xE0 montrer aux autres,\
+      \ il faut apprendre \xE0 les voir et \xE0 les aimer pour se sentir bien avec\
+      \ soi et avec ceux qui nous entourent !"
+    language: fr
+    version: '2017-10-16'
+    url: http://packages.ideascube.org/omeka/prends-soin-de-toi-enfants-ado-fr.zip
+    size: 1172094562
+    sha256sum: d9354bbc304899ff966dd160ce12d57274e801f74e8e58d225302710f135e34c
+    type: zipped-medias
+  ecoute-tes-emotions-enfants-ados-fr:
+    name: "Ecoute tes \xE9motions ! [Enfants/Ados]"
+    description: "Respire, \xE9coute tes \xE9motions, es-tu en col\xE8re, joyeux,\
+      \ triste ? Tu te sentiras mieux avec toi m\xEAme et avec les autres !"
+    language: fr
+    version: '2017-10-16'
+    url: http://packages.ideascube.org/omeka/ecoute-tes-emotions-enfants-ados-fr.zip
+    size: 168667860
+    sha256sum: 96f1622e0d599c41d54e8b474fa64df66b894b74be0b7010c26b975eba9c7639
+    type: zipped-medias
+  biologie-enfants-ados-fr:
+    name: Biologie [Enfants/Ados]
+    description: "Pars \xE0 la d\xE9couverte du corps humain !"
+    language: fr
+    version: '2017-10-16'
+    url: http://packages.ideascube.org/omeka/biologie-enfants-ados-fr.zip
+    size: 2985033160
+    sha256sum: 35c8cfee108f435543ddfd1fa751d6b0fb09ed4ed79f489183f8377173eda28d
+    type: zipped-medias
+  nature-enfants-ados-fr:
+    name: Nature [Enfants/Ados]
+    description: "Qui sont les \xEAtres vivants qui nous entourent ? O\xF9 vivent-ils\
+      \ ? Que mangent-ils ? Comment vivons nous ensemble ?"
+    language: fr
+    version: '2017-10-16'
+    url: http://packages.ideascube.org/omeka/nature-enfants-ados-fr.zip
+    size: 1302195607
+    sha256sum: 3c26f48f27ac141cdf1854b5d3728c67d13236c99505037b14a0da191d6a5129
+    type: zipped-medias
+  sports-enfants-ados-fr:
+    name: Sports [Enfants/Ados]
+    description: "A quoi \xE7a sert le sport ? Combien il y a de sports diff\xE9rents\
+      \ ? Pourquoi le sport, \xE7a rime avec respect et amiti\xE9 ?"
+    language: fr
+    version: '2017-10-16'
+    url: http://packages.ideascube.org/omeka/sports-enfants-ados-fr.zip
+    size: 654167184
+    sha256sum: 995c4fad826a5f705d5ac08e2049c018ccfd59bdebd4ff9f300bea16aeee53b8
+    type: zipped-medias
+  hygiene-enfants-ados-fr:
+    name: "Hygi\xE8ne [Enfants/Ados]"
+    description: "Pourquoi il faut se laver, le corps, les mains, les dents ? Pour\
+      \ rester en bonne sant\xE9, et pour que ceux autour de nous le reste aussi !\
+      \ Apprends \xE0 prendre les bonnes habitudes en t'amusant !"
+    language: fr
+    version: '2017-10-16'
+    url: http://packages.ideascube.org/omeka/hygiene-enfants-ados-fr.zip
+    size: 106790233
+    sha256sum: 4b7966507286452a2af7b205f76c6b5ae9bea61bbd7b62fb7a6facd9c08e6cea
+    type: zipped-medias
+  discriminations-enfants-ados-fr:
+    name: Discriminations [Enfants/Ados]
+    description: "On est tous diff\xE9rents, mais tous des \xEAtres humains ! Pour\
+      \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
+      \ \xE0 accepter les diff\xE9rences des qui nous entourent."
+    language: fr
+    version: '2017-10-16'
+    url: http://packages.ideascube.org/omeka/discriminations-enfants-ados-fr.zip
+    size: 617651775
+    sha256sum: 5648a424cf362479aa788193ddf88fa7a0c398417490ee0da5cc4efc0d8ddbb8
     type: zipped-medias
