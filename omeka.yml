@@ -901,10 +901,10 @@ all:
       \ \u0644\u062C\u0633\u0645 \u0635\u062D\u064A \u0648\u0633\u0644\u064A\u0645\
       \ -Teenagers, Adults"
     language: ar
-    version: '2017-08-30'
+    version: '2017-10-17'
     url: http://packages.ideascube.org/omeka/sports-ar.zip
-    size: 169656168
-    sha256sum: b4dfc50ab2aee4dd8cfc87e0be00f7f0ba199ae3914bc7ad66273a29a3a663be
+    size: 1326502500
+    sha256sum: 913fa781f85de8407556dde1916e2e86c9e596a35804137c82e386455b832d9c
     type: zipped-medias
   fashion-and-beauty-ar:
     name: "Fashion and Beauty [\u0645\u0648\u0636\u0629 \u0648\u062C\u0645\u0627\u0644\
@@ -988,21 +988,21 @@ all:
       \u064A\u062F\u064A\u0648\u0647\u0627\u062A \u0627\u0644\u0633\u0647\u0644\u0629\
       \ \u0648\u0627\u0644\u0645\u0633\u0644\u064A\u0629"
     language: ar
-    version: '2017-08-31'
+    version: '2017-10-17'
     url: http://packages.ideascube.org/omeka/arabic-alphabet-ar.zip
-    size: 2956109116
-    sha256sum: 7602ca636a13e06862721ec05e548b3dec94701e3ea52a2ab4ab04819036885d
+    size: 3268783617
+    sha256sum: 4c91cf7dba10d0a3a6b9c6ea8197fd3cdfbc9de111c9c21933ce55eff860396d
     type: zipped-medias
   cooking-ar:
     name: "Cooking [\u0627\u0644\u0637\u0628\u062E]"
-    description: "Learn simple and fun cooking methods.// \u062A\u0639\u0644\u0645\
-      \ \u0637\u0631\u0642 \u0637\u0628\u062E \u0645\u0633\u0644\u064A\u0629 \u0648\
-      \u0633\u0647\u0644\u0629"
+    description: "Easy Cooking Recipes. \u062A\u0639\u0644\u0645 \u0627\u0644\u0637\
+      \u0628\u062E \u0641\u064A \u0647\u0630\u0647 \u0627\u0644\u0648\u0635\u0641\u0627\
+      \u062A \u0627\u0644\u0633\u0647\u0644\u0629"
     language: ar
-    version: '2017-08-31'
+    version: '2017-10-17'
     url: http://packages.ideascube.org/omeka/cooking-ar.zip
-    size: 172194820
-    sha256sum: 61e829b1fdedff59190f34d70cd9a677a6586e5218fe7678e0c8ed9bc8ba6b5e
+    size: 23588899727
+    sha256sum: 0b7cf02adab9ca11dd974fc1925fcf9d3b4c3970457afa9ada45cb5b4421c6e7
     type: zipped-medias
   poetry-ar:
     name: "Poetry [\u0623\u0639\u0645\u0627\u0644 \u0634\u0639\u0631\u064A\u0629]"
@@ -1524,4 +1524,105 @@ all:
     url: http://packages.ideascube.org/omeka/discriminations-enfants-ados-fr.zip
     size: 617651774
     sha256sum: eadbb7cd73cefe4afee7f79952306787bcbdb7cf397ae8b3fc7a73faa06d3e8b
+    type: zipped-medias
+  nervous-system-ar:
+    name: "Nervous System [\u0627\u0644\u062C\u0647\u0627\u0632 \u0627\u0644\u0639\
+      \u0635\u0628\u064A]"
+    description: "Learn about the nervous system and how it functions.// \u062A\u0639\
+      \u0644\u0645 \u0639\u0646 \u0627\u0644\u062C\u0647\u0627\u0632 \u0627\u0644\u0639\
+      \u0635\u0628\u064A."
+    language: ar
+    version: '2017-10-17'
+    url: http://packages.ideascube.org/omeka/nervous-system-ar.zip
+    size: 52016938
+    sha256sum: 96c83bc39a5e14bad0fd87b4fb1dc0997928cd73d43110c0ca1984dc6003384a
+    type: zipped-medias
+  football-matches-ar:
+    name: "Football Matches [\u0645\u0628\u0627\u0631\u064A\u0627\u062A \u0643\u0631\
+      \u0629 \u0627\u0644\u0642\u062F\u0645]"
+    description: "A collection of different football matches. \u0645\u062C\u0645\u0648\
+      \u0639\u0629 \u0645\u0646 \u0645\u0628\u0627\u0631\u064A\u0627\u062A \u0643\u0631\
+      \u0629 \u0627\u0644\u0642\u062F\u0645 \u0627\u0644\u0645\u062B\u064A\u0631\u0629\
+      .  Teenagers, Adults"
+    language: 'ar'
+    version: '2017-10-17'
+    url: http://packages.ideascube.org/omeka/football-matches-ar.zip
+    size: 6747177341
+    sha256sum: 51e92929ad5a1dedaa4fcb71a72454feb404110e234ea6862c30ebf2dbf6fd50
+    type: zipped-medias
+  the-road-zaatari-magazine-ar:
+    name: "The Road - Zaatari Magazine [\u0645\u062C\u0644\u0629 \u0627\u0644\u0637\
+      \u0631\u064A\u0642 - \u0645\u062E\u064A\u0645 \u0627\u0644\u0632\u0639\u062A\
+      \u0631\u064A]"
+    description: "Collective articles and stories written by Syrian refugees who became\
+      \ journalists inside Zaatari camp In Jordan. \u0645\u062C\u0645\u0648\u0639\u0629\
+      \ \u0645\u0646 \u0627\u0644\u0644\u0627\u062C\u0626\u064A\u0646 \u0627\u0644\
+      \u0634\u0628\u0627\u0646  \u0648\u0627\u0644\u0634\u0627\u0628\u0627\u062A \u0627\
+      \u0644\u0633\u0648\u0631\u064A\u064A\u0646 \u064A\u0631\u0648\u0648\u0646 \u0642\
+      \u0635\u0635\u0647\u0645 \u0648 \u063A\u064A\u0631\u0647\u0645 \u062F\u0627\u062E\
+      \u0644 \u0645\u062E\u064A\u0645 \u0627\u0644\u0632\u0639\u062A\u0631\u064A \u0641\
+      \u064A \u0627\u0644\u0627\u0631\u062F\u0646."
+    language: ar
+    version: '2017-10-17'
+    url: http://packages.ideascube.org/omeka/the-road-zaatari-magazine-ar.zip
+    size: 112056038
+    sha256sum: acad06dbc696bc3e9a4679fb46f0bda34e0f844d971df808d98076033b65ed67
+    type: zipped-medias
+  kids-magazine-ar:
+    name: "Kids Magazine [\u0645\u062C\u0644\u0627\u062A \u0627\u0637\u0641\u0627\u0644\
+      ]"
+    description: A collection of magazines for kids.
+    language: ar
+    version: '2017-10-17'
+    url: http://packages.ideascube.org/omeka/kids-magazine-ar.zip
+    size: 25503579
+    sha256sum: 41b6f7be872d29c61938ee7252c582a59b796881752b5e4e23f5c04176e9cd9b
+    type: zipped-medias
+  music-in-arabic:
+    name: "\u0645\u0648\u0633\u064A\u0642\u0649 \u0628\u0627\u0644\u0639\u0631\u0628\
+      \u064A [Music in Arabic]"
+    description: "\u0627\u0644\u0627\u0633\u062A\u0631\u062E\u0627\u0621 \u0648\u0627\
+      \u0644\u0627\u0633\u062A\u0645\u0627\u0639 \u0625\u0644\u0649 \u0627\u0644\u0645\
+      \u0648\u0633\u064A\u0642\u0649"
+    language: ar
+    version: '2017-10-17'
+    url: http://packages.ideascube.org/omeka/music-in-arabic.zip
+    size: 675479039
+    sha256sum: bd9794fb3f558dde994b97f62fe5f86671e5ba91a22416bdbb1d7386f87a6fe2
+    type: zipped-medias
+  diy-handcrafts-ar:
+    name: "DIY handcrafts [\u062D\u0631\u0641 \u064A\u062F\u0648\u064A\u0629]"
+    description: "Learn how to do useful objects for yourself, your kids, your friends,\
+      \ and home accessories.// \u062A\u0639\u0644\u0645 \u0643\u064A\u0641\u064A\u0629\
+      \ \u0639\u0645\u0644 \u0627\u0644\u062D\u0631\u0641 \u0627\u0644\u064A\u062F\
+      \u0648\u064A\u0629 \u0627\u0644\u0645\u0641\u064A\u062F\u0629 \u0644\u0643,\
+      \ \u0644\u0627\u0637\u0641\u0627\u0644\u0643, \u0644\u0628\u064A\u062A\u0643\
+      \ \u0648 \u0644\u0627\u0635\u062F\u0642\u0627\u0626\u0643.  Children, Teenagers,\
+      \ Adults ar, en, fr"
+    language: ar
+    version: '2017-10-17'
+    url: http://packages.ideascube.org/omeka/diy-handcrafts-ar.zip
+    size: 3146112238
+    sha256sum: 5615d3eb473a48519b55431d9d7fcddb59b753deaecb7ffb920ef32445cb70ee
+    type: zipped-medias
+  waqt-al-farah:
+    name: "Waqt Al Farah  \u0648\u0642\u062A \u0627\u0644\u0641\u0631\u062D"
+    description: "Educational videos for kids, learn through play. \u0641\u064A\u062F\
+      \u064A\u0648\u0647\u0627\u062A \u062A\u0639\u0644\u064A\u0645\u064A\u0629 \u0648\
+      \u0645\u0633\u0644\u064A\u0629"
+    language: ar
+    version: '2017-10-17'
+    url: http://packages.ideascube.org/omeka/waqt-al-farah.zip
+    size: 1021653550
+    sha256sum: e706ea362f24d8ae5db6a2720f44a82482a1e478e7997bde158e16c7df4d9cb6
+    type: zipped-medias
+  fitness-for-kids-ar:
+    name: "Fitness for Kids [\u0627\u0644\u0631\u064A\u0627\u0636\u0629 \u0644\u0644\
+      \u0627\u0637\u0641\u0627\u0644]"
+    description: Fitness and Yoga exercises for Kids
+    language: ar
+    version: '2017-10-17'
+    url: http://packages.ideascube.org/omeka/fitness-for-kids-ar.zip
+    size: 297666530
+    sha256sum: c2bfc37862d904614e922a539164cf0dda93cdd52e9506caa10be49ae761d09d
     type: zipped-medias
