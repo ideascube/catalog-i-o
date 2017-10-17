@@ -1520,8 +1520,8 @@ all:
       \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
       \ \xE0 accepter les diff\xE9rences des qui nous entourent."
     language: fr
-    version: '2017-10-16'
+    version: '2017-10-17'
     url: http://packages.ideascube.org/omeka/discriminations-enfants-ados-fr.zip
-    size: 617651775
-    sha256sum: 5648a424cf362479aa788193ddf88fa7a0c398417490ee0da5cc4efc0d8ddbb8
+    size: 617651774
+    sha256sum: eadbb7cd73cefe4afee7f79952306787bcbdb7cf397ae8b3fc7a73faa06d3e8b
     type: zipped-medias
