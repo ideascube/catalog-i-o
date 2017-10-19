@@ -1081,10 +1081,10 @@ all:
       \ \u0648\u0633\u0646 \u0627\u0644\u0628\u0644\u0648\u063A \u0641\u064A \u0643\
       \u0644\u0627\u0645 \u0628\u0646\u0627\u062A."
     language: ar
-    version: '2017-08-30'
+    version: '2017-10-17'
     url: http://packages.ideascube.org/omeka/girl-talk-puberty-ar.zip
     size: 61116128
-    sha256sum: 163c1ccdd5fa1f6357e5537244747834b77b4d3a7770f1bd7e825d8e77036a7d
+    sha256sum: 6d7d08af1874ccd622e7d918c4487d3b45aa5ceceee5f057df589d400e4ff503
     type: zipped-medias
   let-s-be-clean-ar:
     name: "Let's be clean [\u0647\u064A\u0627 \u0627\u0644\u0649 \u0627\u0644\u0646\
