@@ -415,10 +415,10 @@ all:
     description: "Apprendre, r\xE9fl\xE9chir, d\xE9battre, en s'amusant ? C'est possible\
       \ !"
     language: fr
-    version: '2017-09-29'
+    version: '2017-10-16'
     url: http://packages.ideascube.org/omeka/contes-et-dessins-animes-fr.zip
     size: 4797894608
-    sha256sum: fa7ca760c507e1b8f18633a6c67d9680b803b845d30ec18d59a636148c4cbbd0
+    sha256sum: 3a835b53c48ae9a354a1ac1c2caae32c6429a0424be892aaa1b78cf35bdb1278
     type: zipped-medias
   sante-fr:
     name: "Sant\xE9"
