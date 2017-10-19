@@ -913,20 +913,20 @@ all:
       \u0627\u0626\u062D \u062C\u0645\u0627\u0644 \u0648 \u0645\u0648\u0636\u0629\
       \ \u0648\u0645\u0643\u064A\u0627\u062C. Teenagers, Adults"
     language: ar
-    version: '2017-08-30'
+    version: '2017-10-17'
     url: http://packages.ideascube.org/omeka/fashion-and-beauty-ar.zip
     size: 234958334
-    sha256sum: f1865f22ab1393a66fbd3a60df82acca5c3dd9a5df419afa74f8c33686b42dcd
+    sha256sum: 8d3cb67b30573a0fe4dbad536aef0fed8a2e559a6913de3f27588c277d8f91c3
     type: zipped-medias
   mathematics-ar:
     name: "Mathematics [\u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0627\u062A]"
     description: "Simple mathematics for kids.// \u0631\u064A\u0627\u0636\u064A\u0627\
       \u062A \u0644\u0644\u0627\u0637\u0641\u0627\u0644"
     language: ar
-    version: '2017-08-30'
+    version: '2017-10-17'
     url: http://packages.ideascube.org/omeka/mathematics-ar.zip
     size: 64587258
-    sha256sum: e9383a44c98ed0bef958a92609e6b68d51a8b941bf72a98300dace8253748a9a
+    sha256sum: 712fa5a24cc823cab83b8906b69aa8f9eda2dfa5755459887520e54cd823ee95
     type: zipped-medias
   philosophy-of-language-ar:
     name: "Philosophy of Language [\u0641\u0644\u0633\u0641\u0629 \u0627\u0644\u0644\
@@ -1023,10 +1023,10 @@ all:
       \ \u062A\u0633\u062A\u062E\u062F\u0645 \u0628\u062D\u064A\u0627\u062A\u0646\u0627\
       \  \u0627\u0644\u064A\u0648\u0645\u064A\u0629."
     language: ar
-    version: '2017-08-30'
+    version: '2017-10-17'
     url: http://packages.ideascube.org/omeka/physics-ar.zip
     size: 245428878
-    sha256sum: 8246c74347c82a2eb66ae09d02fc23c58a054502f5b1a33e86e26c065d14adba
+    sha256sum: 83909337a46c83a61a5bb0be9e30107fba25a688968e71789f7922bddc674be1
     type: zipped-medias
   self-development-ar:
     name: "Self Development [\u062A\u0637\u0648\u064A\u0631 \u0627\u0644\u0630\u0627\
@@ -1038,10 +1038,10 @@ all:
       \u0632\u0643 \u0644\u0627\u0646 \u062A\u0643\u0648\u0646 \u0627\u0641\u0636\u0644\
       \ \u0643\u0644 \u064A\u0648\u0645. - Teenagers, Adults"
     language: ar
-    version: '2017-08-31'
+    version: '2017-10-17'
     url: http://packages.ideascube.org/omeka/self-development-ar.zip
     size: 459897592
-    sha256sum: 9067b1683148f37379aae80cf34e2ea0ccb09903d024b9c15250e8db344b7fcc
+    sha256sum: 11dec0cd931f24c40f13ee6832179ad8b4c19d8d042cafb89ba4cc5a5f3ca27a
     type: zipped-medias
   motherhood-and-parenting-ar:
     name: "Motherhood and Parenting [\u0627\u0645\u0648\u0645\u0629 \u0648\u0627\u0628\
@@ -1066,10 +1066,10 @@ all:
       \u0646\u0643 \u062D\u0645\u0627\u064A\u0629 \u0646\u0641\u0633\u0643 \u0645\u0646\
       \u0647\u0627.  Teenagers, Adults"
     language: ar
-    version: '2017-08-31'
+    version: '2017-10-17'
     url: http://packages.ideascube.org/omeka/health-and-diseases-ar.zip
     size: 59854602
-    sha256sum: 4d2ee5c9f6fa077ffab7227d990915237f05f58d09a297dbec586c8163124e6d
+    sha256sum: ea558863cda880bb36fc6a50c15514379975cb936fb67eadb49e5c08834c057b
     type: zipped-medias
   girl-talk-puberty-ar:
     name: "Girl Talk - Puberty [\u0643\u0644\u0627\u0645 \u0628\u0646\u0627\u062A\
@@ -1093,10 +1093,10 @@ all:
       \u0647\u0627\u062A \u0639\u0646 \u0627\u0644\u0646\u0638\u0627\u0641\u0629 \u0627\
       \u0644\u0634\u062E\u0635\u064A\u0629"
     language: ar
-    version: '2017-08-30'
+    version: '2017-10-17'
     url: http://packages.ideascube.org/omeka/let-s-be-clean-ar.zip
     size: 57065432
-    sha256sum: cb9cf4419c26b4b95f854a387d5ed916d03a45ef719831651432dd5e53e4372d
+    sha256sum: 2e8b330116fda530e4648a548d7a108d850b3fb0de6afb259ebf18821e743bc4
     type: zipped-medias
   let-s-speak-arabic-ar:
     name: "Let's Speak Arabic [\u0644\u0646\u062A\u0643\u0644\u0645 \u0627\u0644\u0639\
@@ -1107,10 +1107,10 @@ all:
       \ \u0628\u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0639\u0631\u0628\u064A\u0629\
       ."
     language: ar
-    version: '2017-08-31'
+    version: '2017-10-17'
     url: http://packages.ideascube.org/omeka/let-s-speak-arabic-ar.zip
     size: 83924175
-    sha256sum: 48a334ef734045e0f0509d0d937c5c286e65a924ed01db64fd91b42ba027ae64
+    sha256sum: e5b10140c10dac7c4474e3e568a4dfc151fc10e8deddb83b5fc4c4cc04fb38c5
     type: zipped-medias
   biology-ar:
     name: "Biology [\u0628\u064A\u0648\u0644\u0648\u062C\u064A\u0627]"
@@ -1119,10 +1119,10 @@ all:
       \u0646  \u0627\u0644\u0628\u064A\u0648\u0644\u0648\u062C\u064A\u0627 Kids, Teenagers,\
       \ Adults"
     language: ar
-    version: '2017-08-31'
+    version: '2017-10-17'
     url: http://packages.ideascube.org/omeka/biology-ar.zip
     size: 86424975
-    sha256sum: 1ac8cb3721bdbfc5f987a6eef7289fd3ffd32243cd7d8f79a32bd64c5b521ee9
+    sha256sum: 639ecbb0cc9976251f2d0f8c7599e26098d6b79ae78ef2bfbc1b71dc94d55e85
     type: zipped-medias
   cartoons-and-tales-fa:
     name: "\u06A9\u0627\u0631\u062A\u0648\u0646 [Cartoons and tales]"
