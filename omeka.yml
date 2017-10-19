@@ -1626,3 +1626,123 @@ all:
     size: 297666530
     sha256sum: c2bfc37862d904614e922a539164cf0dda93cdd52e9506caa10be49ae761d09d
     type: zipped-medias
+  german-for-arabic-and-persian-speakers:
+    name: German for arabic and persian speakers
+    description: "Lean German, \u06CC\u0627\u062F\u06AF\u06CC\u0631\u06CC \u0622\u0644\
+      \u0645\u0627\u0646\u06CC, \u062A\u0639\u0644\u0645 \u0627\u0644\u0627\u0644\u0645\
+      \u0627\u0646\u064A\u0629 !"
+    language: de
+    version: '2017-10-19'
+    url: http://packages.ideascube.org/omeka/german-for-arabic-and-persian-speakers.zip
+    size: 314376488
+    sha256sum: 91d968c7afd84fd5fd3523a77697671763d47f5cf02691a0bbea3bc39224fb6f
+    type: zipped-medias
+  introduction-to-geography-en:
+    name: Introduction to geography
+    description: Learn in english the basics of world geography, discover the main
+      places and the countries'diversity !
+    language: en
+    version: '2017-10-19'
+    url: http://packages.ideascube.org/omeka/introduction-to-geography-en.zip
+    size: 58057966
+    sha256sum: 783b8971d66cd0c1e2e0c2bfee9f42b50296b4804e5eb0d262ff2fcb9a4f9cd1
+    type: zipped-medias
+  fight-against-discriminations-and-live-together-en:
+    name: Fight against discriminations and live together
+    description: Let's debate and discuss about the videos, to be able to detect discriminative
+      acts and to face them, to build a community harmony.
+    language: en
+    version: '2017-10-19'
+    url: http://packages.ideascube.org/omeka/fight-against-discriminations-and-live-together-en.zip
+    size: 289911136
+    sha256sum: a0fbe384fc22c6a5ce8c8434d9159598e582f2cddb416d60ca5787c17021ef3a
+    type: zipped-medias
+  agriculture-gardening-en:
+    name: Agriculture & gardening
+    description: Discover your green fingers and create a living environment that
+      lets you live in harmony with nature.
+    language: en
+    version: '2017-10-19'
+    url: http://packages.ideascube.org/omeka/agriculture-gardening-en.zip
+    size: 612682992
+    sha256sum: 00e3f7f2a99c491183a398bfc9283fabfe9b95475b611db6be1c21a27e1c1aaf
+    type: zipped-medias
+  hancraft-origami-en:
+    name: Hancraft - origami
+    description: Learn to create and build things by yourself ! Learn the art of origami,
+      which is all about folding a single sheet paper in order to create different
+      shapes and forms.
+    language: en
+    version: '2017-10-19'
+    url: http://packages.ideascube.org/omeka/hancraft-origami-en.zip
+    size: 357101066
+    sha256sum: fe9bb356dfc6aa309a4d7af9d588c2398b3b4159be360eb4892522fa59a7ff34
+    type: zipped-medias
+  yoga-en:
+    name: Yoga
+    description: The yoga educational video program aims to inspire beginners to learn
+      and practice a range of different asanas and breathing techniques that can help
+      you lead a healthy and happy life.
+    language: en
+    version: '2017-10-19'
+    url: http://packages.ideascube.org/omeka/yoga-en.zip
+    size: 1176599188
+    sha256sum: 430f4ccbcc7feacde2899b67c885f49a2c6efb7258669719bdf375c4fdff8e80
+    type: zipped-medias
+  drawing-colouring-en:
+    name: Drawing & colouring !
+    description: Learn how to draw, colour, make graffiti, become an artist !
+    language: en
+    version: '2017-10-19'
+    url: http://packages.ideascube.org/omeka/drawing-colouring-en.zip
+    size: 74104995
+    sha256sum: ed5a1c0d7e75971e89adfe0bcfeebe95af67860e12bf1ba2099073b100cb3345
+    type: zipped-medias
+  health-and-hygiene-en:
+    name: Health and hygiene
+    description: Learn how to have a safe behavior and prevent contagious situations
+      !   To complete this package, you will find a lot of other videos in the application
+      TEDed !
+    language: en
+    version: '2017-10-19'
+    url: http://packages.ideascube.org/omeka/health-and-hygiene-en.zip
+    size: 285329688
+    sha256sum: 35398c8215143b16274e8b32562bc34d9c6875cd886febfe7906019485499061
+    type: zipped-medias
+  learn-to-know-and-manage-your-feelings-en:
+    name: Learn to know and manage your feelings
+    description: Identify, observe, express your feelings to feel it better.  To complete
+      this package, you will find a lot of other videos in the application TEDed !
+    language: en
+    version: '2017-10-19'
+    url: http://packages.ideascube.org/omeka/learn-to-know-and-manage-your-feelings-en.zip
+    size: 4212274
+    sha256sum: 1f3fa5677d91f602edc087dbfbf9ef4fdda1caed134d4dec21721d6b63747f53
+    type: zipped-medias
+  introduction-to-biology-en:
+    name: Introduction to biology
+    description: Recognise and identify each part of your body !
+    language: en
+    version: '2017-10-19'
+    url: http://packages.ideascube.org/omeka/introduction-to-biology-en.zip
+    size: 30462591
+    sha256sum: 083902465bb4aa3ac0d27a3b8de9be5f797416d32d5f3b3a695f291efbc5b7e8
+    type: zipped-medias
+  make-you-own-radio-en:
+    name: Make you own radio !
+    description: Learn how to make your own radio shows !
+    language: en
+    version: '2017-10-19'
+    url: http://packages.ideascube.org/omeka/make-you-own-radio-en.zip
+    size: 46986861
+    sha256sum: 9882b45f13db213186ccc4ba4099b19e257f22ec127c670d27ca3103a27bf589
+    type: zipped-medias
+  revolutionary-women-en:
+    name: Revolutionary women
+    description: Learn about incredible women's history
+    language: en
+    version: '2017-10-19'
+    url: http://packages.ideascube.org/omeka/revolutionary-women-en.zip
+    size: 68540474
+    sha256sum: 3a822481b58c07dbde0dc24e1660f8662417e2d381c26d2291a120e5665a7309
+    type: zipped-medias
