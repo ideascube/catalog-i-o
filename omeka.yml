@@ -759,10 +759,10 @@ all:
       \ d\xE9marches administratives: demandes d'asile, acc\xE8s aux soins, regroupement\
       \ familial...etc."
     language: fr
-    version: '2017-06-21'
+    version: '2017-09-29'
     url: http://packages.ideascube.org/omeka/arriver-en-france-et-connaitre-ses-droits.zip
     size: 778956625
-    sha256sum: a7a87d533700bde075b568f4e3d5810437ffa4e4acc7261891266032cadc7d60
+    sha256sum: 18d9af6df7c2e39a6ffc974d25b941620c2d7cdbc08976413f7f6e06d1dd830a
     type: zipped-medias
   hygiene-de-base-fr:
     name: "Hygi\xE8ne de base"
