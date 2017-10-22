@@ -501,7 +501,7 @@ all:
     version: '2017-09-25'
     url: http://packages.ideascube.org/omeka/cartoons-en.zip
     size: 644897218
-    sha256sum: 4a993703600b510ab4d89271f299bc6f53cecca9fc898ebc8888c0862c8e4e98
+    sha256sum: 7d4476d27ff97096d61cbf18b088ee914b15aa6d01ddd48748eecf843787c7cb
     type: zipped-medias
   greek-mythology-en:
     name: Greek mythology
