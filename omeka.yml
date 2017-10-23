@@ -1758,3 +1758,12 @@ all:
     size: 560597053
     sha256sum: 398e5f9edb1682a77fdd531f5c1c5962f8aed94d1d996d41fd653ea30e219414
     type: zipped-medias
+  comment-faire-face-a-la-violence-et-aux-conflits-enfants-ados-fr:
+    name: "Comment faire face \xE0 la violence et aux conflits ?[Enfants/Ados]"
+    description: La paix, comment on fait ?
+    language: fr
+    version: '2017-10-23'
+    url: http://packages.ideascube.org/omeka/comment-faire-face-a-la-violence-et-aux-conflits-enfants-ados-fr.zip
+    size: 34617278
+    sha256sum: 4f7a3a1611e221673f59c0c04bcdbdbb2e126fe814d6026c19d448ace9d9fd44
+    type: zipped-medias
