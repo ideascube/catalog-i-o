@@ -726,10 +726,10 @@ all:
       riences des femmes. Des exp\xE9riences les plus intimes (les r\xE8gles, les\
       \ violences) aux plus incroyables (r\xE9volution des femmes saoudiennes)."
     language: fr
-    version: '2017-06-26'
+    version: '2017-10-26'
     url: http://packages.ideascube.org/omeka/experiences-de-femmes-fr.zip
-    size: 1463518306
-    sha256sum: a023c149852d8ff52a746135b3ea43371aabfcbbfc350b79588d6940e9360a41
+    size: 1710199919
+    sha256sum: d1c95166c8cb8a2f40906db4b90b278ee59dd7ba672db2c255093af43bc2ea33
     type: zipped-medias
   apprendre-le-francais-enfants-adolescents:
     name: "Apprendre le fran\xE7ais (enfants, adolescents)"
@@ -1786,4 +1786,14 @@ all:
     url: http://packages.ideascube.org/omeka/maladies-endemiques-en-afrique-fr.zip
     size: 303374713
     sha256sum: 7955ec350b3de24a0df7d5fc0d922a9f5862c51df72714edd45aba0489a12796
+    type: zipped-medias
+  prevention-et-sexualite-fr:
+    name: "Pr\xE9vention et sexualit\xE9"
+    description: "La sexualit\xE9, il faut en parler pour \xEAtre en toute s\xE9curit\xE9\
+      . Vous trouverez ici les informations n\xE9cessaires."
+    language: fr
+    version: '2017-10-26'
+    url: http://packages.ideascube.org/omeka/prevention-et-sexualite-fr.zip
+    size: 170709497
+    sha256sum: 06d7517e59d379433c61677aa84a0c0ac1d59600e4be957cece5580be1f3a5dd
     type: zipped-medias
