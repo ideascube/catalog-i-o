@@ -1767,3 +1767,23 @@ all:
     size: 34617278
     sha256sum: 4f7a3a1611e221673f59c0c04bcdbdbb2e126fe814d6026c19d448ace9d9fd44
     type: zipped-medias
+  creation-d-association-fr:
+    name: "Cr\xE9ation d'association"
+    description: "Quelques \xE9lements-cl\xE9s pour comprendre et cr\xE9er une association,\
+      \ en France ou au Burundi !"
+    language: fr
+    version: '2017-10-26'
+    url: http://packages.ideascube.org/omeka/creation-d-association-fr.zip
+    size: 161088111
+    sha256sum: b0409123ccf5845522b1858163ac4ae81641336d7e5edc782cde7c304765c60b
+    type: zipped-medias
+  maladies-endemiques-en-afrique-fr:
+    name: "Maladies end\xE9miques en Afrique"
+    description: "Connaitre les maladies end\xE9miques les plus pr\xE9sentes en Afrique\
+      \ et savoir comment lutter contre avec quelques courtes vid\xE9os."
+    language: fr
+    version: '2017-10-26'
+    url: http://packages.ideascube.org/omeka/maladies-endemiques-en-afrique-fr.zip
+    size: 303374713
+    sha256sum: 7955ec350b3de24a0df7d5fc0d922a9f5862c51df72714edd45aba0489a12796
+    type: zipped-medias
