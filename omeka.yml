@@ -880,10 +880,10 @@ all:
       \ votre Ideas Box. N'h\xE9sitez pas \xE0 les utiliser pour trouver des id\xE9\
       es et d\xE9velopper de nouvelles animations !"
     language: fr
-    version: '2017-10-06'
+    version: '2017-10-27'
     url: http://packages.ideascube.org/omeka/kit-de-l-animateur-fr.zip
-    size: 263101940
-    sha256sum: 2154f24def0d7641a87b4b6653b63436dc462771e7bec2a9b1ec0fac793655d3
+    size: 293208949
+    sha256sum: d6e3cdb2cc343ece43a2c35d6b28a391aebbeb5d164c77068537e0a1a4f71d84
     type: zipped-medias
   kurdish-dramas-tv-shows-ckb:
     name: "\u062F\u0631\u0627\u0645\u0627 - kurdish dramas & TV shows"
@@ -1863,4 +1863,38 @@ all:
     url: http://packages.ideascube.org/omeka/decouvrir-et-pratiquer-la-riziculture-fr.zip
     size: 458363152
     sha256sum: ba91ef88227e59cf3d3a4b5a6057e274b2b1f03d5d7178b557e6ef042534b3cb
+    type: zipped-medias
+  apprenez-le-francais-niveau-b2-fr:
+    name: "Apprenez le fran\xE7ais - Niveau B2"
+    description: "Le niveau B2 en fran\xE7ais, c'est pouvoir comprendre  le contenu\
+      \ essentiel des sujets concrets ou abstraits dans un texte complexe, y compris\
+      \ une discussion technique dans sa sp\xE9cialit\xE9. Vous pouvez communiquer\
+      \ avec un degr\xE9 de spontan\xE9it\xE9 et d\u2019aisance tel qu\u2019une conversation\
+      \ avec un locuteur natif ne comporte de tension ni pour l\u2019un ni pour l\u2019\
+      autre. Vous pouvez vous exprimer de fa\xE7on claire et d\xE9taill\xE9e sur une\
+      \ grande gamme de sujets, \xE9mettre un avis sur un sujet d\u2019actualit\xE9\
+      \ et exposer les avantages et inconv\xE9nients de diff\xE9rentes possibilit\xE9\
+      s."
+    language: fr
+    version: '2017-10-27'
+    url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-b2-fr.zip
+    size: 231815224
+    sha256sum: 32c70927c9d9144e2e5553a6f3c0e6f21338d9cf2013554baefacb2459d894f9
+    type: zipped-medias
+  apprenez-le-francais-niveau-b1-fr:
+    name: "Apprenez le fran\xE7ais - Niveau B1"
+    description: "Le niveau B1 en fran\xE7ais, c'est pouvoir comprendre les points\
+      \ essentiels quand un langage clair et standard est utilis\xE9 et s\u2019il\
+      \ s\u2019agit de choses famili\xE8res dans le travail, \xE0 l\u2019\xE9cole,\
+      \ les loisirs, etc. Vous pouvez vous d\xE9brouiller dans la plupart des situations\
+      \ rencontr\xE9es en voyage dans une r\xE9gion o\xF9 la langue est parl\xE9e.\
+      \ Vous pouvez produire un discours simple et coh\xE9rent sur des sujets familiers\
+      \ et dans ses domaines d\u2019int\xE9r\xEAt. Vous pouvez raconter un \xE9v\xE9\
+      nement, une exp\xE9rience ou un r\xEAve, d\xE9crire un espoir ou un but et exposer\
+      \ bri\xE8vement des raisons ou explications pour un projet ou une id\xE9e."
+    language: fr
+    version: '2017-10-27'
+    url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-b1-fr.zip
+    size: 157327158
+    sha256sum: b76f5150cb970b18fcd68e2f88144cad9f9d08d964e25302ab5a35bbbacb8d89
     type: zipped-medias
