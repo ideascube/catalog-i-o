@@ -316,7 +316,7 @@ all:
     description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
       \ les \xE9v\xE8nements du pr\xE9sent."
     language: fr
-    version: '2017-06-26'
+    version: '2017-10-27'
     url: http://packages.ideascube.org/omeka/histoire-afrique-fr.zip
     size: 1354259621
     sha256sum: aa7e45ad0b44beab50b800731ec9cc8b2f5c0fa5899f899c37d1d16229d33ad4
@@ -326,7 +326,7 @@ all:
     description: Les arts plastiques, la danse... Les formes d'arts ne manquent pas,
       et font partie de la richesse d'un pays et d'une culture !
     language: fr
-    version: '2017-10-27'
+    version: '2017-06-26'
     url: http://packages.ideascube.org/omeka/arts-afrique-fr.zip
     size: 1354259621
     sha256sum: 3df342b925a5995ffe5224ccc536e6baae11259f4aa3dae81f9222eac833a17f
