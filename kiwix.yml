@@ -5,7 +5,7 @@ all:
     version: "2017-01-04"
     language: "mlg"
     id: "84db6e8c-5306-6f85-2463-15ee18f2d1dc"
-    url: "https://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_mg_all_2017-01.zip"
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_mg_all_2017-01.zip"
     size: 711842158
     sha256sum: "fa873bc1f6bd409ea4ee445ec1a2fe68146d42a12fd22abaf682247d8184517e"
     type: zipped-zim
