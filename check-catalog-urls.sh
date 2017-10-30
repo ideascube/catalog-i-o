@@ -54,7 +54,7 @@ function check_catalog_urls()
 	    exit 2
 	}
 	
-	 Getting list of URL from catalog
+	 #Getting list of URL from catalog
 	URL_LIST=$( awk ' /url:/ { print $2 } ' $1 | tr -d '"' | tr -d "'" )
 	
 	for i in $URL_LIST; do
