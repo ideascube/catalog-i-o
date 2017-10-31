@@ -1898,3 +1898,12 @@ all:
     size: 157327158
     sha256sum: b76f5150cb970b18fcd68e2f88144cad9f9d08d964e25302ab5a35bbbacb8d89
     type: zipped-medias
+  histoire-occidentale-fr:
+    name: Histoire occidentale
+    description: Connaitre l'histoire et la culture occidentale
+    language: fr
+    version: '2017-10-31'
+    url: http://packages.ideascube.org/omeka/histoire-occidentale-fr.zip
+    size: 17484535116
+    sha256sum: c28b6be43bd9ffec5f3ede1071c351a5ef28a657c17fbdaa4f56623d0fbae466
+    type: zipped-medias
