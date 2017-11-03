@@ -990,7 +990,7 @@ all:
     version: "2017-04-26"
     language: "fr"
     id: "a3a5dcef-e050-ec4b-e284-9748fb312170"
-    url: "https://download.kiwix.org/portable/wikinews/kiwix-0.9+wikinews_fr_all_2017-04.zip"
+    url: "http://download.kiwix.org/portable/wikinews/kiwix-0.9+wikinews_fr_all_2017-04.zip"
     size: 374688269
     sha256sum: "379fd27f4a024138fb13de95f6a2bca9f60f08f94a4aae72ea4502469e04012c"
     type: zipped-zim
