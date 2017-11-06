@@ -1469,10 +1469,10 @@ all:
     description: "Respire, \xE9coute tes \xE9motions, es-tu en col\xE8re, joyeux,\
       \ triste ? Tu te sentiras mieux avec toi m\xEAme et avec les autres !"
     language: fr
-    version: '2017-10-16'
+    version: '2017-10-27'
     url: http://packages.ideascube.org/omeka/ecoute-tes-emotions-enfants-ados-fr.zip
-    size: 168667860
-    sha256sum: 96f1622e0d599c41d54e8b474fa64df66b894b74be0b7010c26b975eba9c7639
+    size: 169504437
+    sha256sum: 04b372fe1369279f4974de248dc0643f865c66541f3e2dbf00ac59680c3cf512
     type: zipped-medias
   biologie-enfants-ados-fr:
     name: Biologie [Enfants/Ados]
