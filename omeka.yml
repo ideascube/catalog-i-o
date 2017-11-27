@@ -159,10 +159,10 @@ all:
     description: "D\xE9tendez-vous. Respirez. Accueillez vos \xE9motions. Exprimez\
       \ vos besoins. Vous serez mieux avec vous m\xEAme et avec les autres !"
     language: fr
-    version: '2017-08-28'
+    version: '2017-11-27'
     url: http://packages.ideascube.org/omeka/comprendre-et-exprimer-ses-emotions-fr.zip
-    size: 1051306831
-    sha256sum: 6ab816066ce7a1807669902eb99e7fa97eb7b4072bfaeb2d18f302d2f363cac5
+    size: 905686084
+    sha256sum: cbe1cbb94e31b6be76655260111fcbf2a5663f96ebc5a74d4b81d8390300fec9
     type: zipped-medias
   initiez-vous-a-la-photographie-fr:
     name: "Initiez-vous \xE0 la photographie"
@@ -625,10 +625,10 @@ all:
       \ ses r\xE9flexes d'alimentation pour se sentir mieux et prendre soin de sa\
       \ sant\xE9 ?"
     language: fr
-    version: '2017-09-29'
+    version: '2017-11-27'
     url: http://packages.ideascube.org/omeka/nutrition-fr.zip
-    size: 308672638
-    sha256sum: 87ad264855991c00d5811632aa80e8a384747ea0ae7f7725dadd1ff8a052c07f
+    size: 351516680
+    sha256sum: d08547d1ff660c6d03f411391acd002b1e1324be056da53cb6921c3ae48c3364
     type: zipped-medias
   decouvrez-les-arts-plastiques-fr:
     name: "D\xE9couvrez les arts plastiques"
@@ -653,10 +653,10 @@ all:
     name: Biologie (enfants)
     description: "Pars \xE0 la d\xE9couverte du corps humain !"
     language: fr
-    version: '2017-06-26'
+    version: '2017-11-27'
     url: http://packages.ideascube.org/omeka/biologie-enfants-fr.zip
-    size: 2985033160
-    sha256sum: 0d499efc6face205800492ba4275afb4ab3dd031f740895a662bc6c223dfdf1c
+    size: 2987698208
+    sha256sum: 851d4b6bcdf37bc1982788161109b013afd23cce2a2bc63dc20719d829af2fb3
     type: zipped-medias
   geographie-afrique-fr:
     name: "G\xE9ographie (Afrique)"
@@ -727,10 +727,10 @@ all:
       riences des femmes. Des exp\xE9riences les plus intimes (les r\xE8gles, les\
       \ violences) aux plus incroyables (r\xE9volution des femmes saoudiennes)."
     language: fr
-    version: '2017-10-26'
+    version: '2017-11-27'
     url: http://packages.ideascube.org/omeka/experiences-de-femmes-fr.zip
-    size: 1710199919
-    sha256sum: d1c95166c8cb8a2f40906db4b90b278ee59dd7ba672db2c255093af43bc2ea33
+    size: 721825158
+    sha256sum: f08bb9e38bc6358001638eb3d883a746c8e0c5d9c5b0da7680c92b9597757061
     type: zipped-medias
   apprends-le-francais-a1-enfants-adolescents:
     name: "Apprends le fran\xE7ais ! A1 [Enfants, Adolescents]"
@@ -1438,10 +1438,10 @@ all:
     description: "Filles footballeuses, soldats, pr\xE9sidentes: les filles peuvent\
       \ faire autant de choses que les gar\xE7ons !"
     language: fr
-    version: '2017-10-16'
+    version: '2017-11-27'
     url: http://packages.ideascube.org/omeka/les-filles-et-les-garcons-quelles-differences-fr.zip
     size: 368485495
-    sha256sum: b92510a44e93786848683d21ae89f0374c96b623c2de669d97dc90358f7c7ea2
+    sha256sum: 518cc0bc2cfacdcc2b25f80e9b375edf6401c4b0800a9026456ea4da095a9470
     type: zipped-medias
   protege-la-planete-enfants-ados-fr:
     name: "Prot\xE8ge la plan\xE8te ! [Enfants/Ados]"
@@ -1459,20 +1459,20 @@ all:
       \ il faut apprendre \xE0 les voir et \xE0 les aimer pour se sentir bien avec\
       \ soi et avec ceux qui nous entourent !"
     language: fr
-    version: '2017-10-16'
+    version: '2017-11-27'
     url: http://packages.ideascube.org/omeka/prends-soin-de-toi-enfants-ado-fr.zip
-    size: 1172094562
-    sha256sum: d9354bbc304899ff966dd160ce12d57274e801f74e8e58d225302710f135e34c
+    size: 1172094565
+    sha256sum: e247366d512c05fba4fd72bc6a2c8a2b5dbc0216c8fb4e772079a61ead8414e2
     type: zipped-medias
   ecoute-tes-emotions-enfants-ados-fr:
     name: "Ecoute tes \xE9motions ! [Enfants/Ados]"
     description: "Respire, \xE9coute tes \xE9motions, es-tu en col\xE8re, joyeux,\
       \ triste ? Tu te sentiras mieux avec toi m\xEAme et avec les autres !"
     language: fr
-    version: '2017-10-27'
+    version: '2017-11-27'
     url: http://packages.ideascube.org/omeka/ecoute-tes-emotions-enfants-ados-fr.zip
-    size: 169504437
-    sha256sum: 04b372fe1369279f4974de248dc0643f865c66541f3e2dbf00ac59680c3cf512
+    size: 169504857
+    sha256sum: 5ef8148456e1477abda66da3c4ebf2b422af040273be04ac28cfea7f57b17dce
     type: zipped-medias
   biologie-enfants-ados-fr:
     name: Biologie [Enfants/Ados]
@@ -1509,10 +1509,10 @@ all:
       \ rester en bonne sant\xE9, et pour que ceux autour de nous le reste aussi !\
       \ Apprends \xE0 prendre les bonnes habitudes en t'amusant !"
     language: fr
-    version: '2017-10-16'
+    version: '2017-11-27'
     url: http://packages.ideascube.org/omeka/hygiene-enfants-ados-fr.zip
     size: 106790233
-    sha256sum: 4b7966507286452a2af7b205f76c6b5ae9bea61bbd7b62fb7a6facd9c08e6cea
+    sha256sum: d4983c8975f267d3fd7efb7dee0282331263d4a50f09fc4fc341d39621c29c1f
     type: zipped-medias
   discriminations-enfants-ados-fr:
     name: Discriminations [Enfants/Ados]
@@ -1792,10 +1792,10 @@ all:
     description: "La sexualit\xE9, il faut en parler pour \xEAtre en toute s\xE9curit\xE9\
       . Vous trouverez ici les informations n\xE9cessaires."
     language: fr
-    version: '2017-10-26'
+    version: '2017-11-27'
     url: http://packages.ideascube.org/omeka/prevention-et-sexualite-fr.zip
-    size: 170709497
-    sha256sum: 06d7517e59d379433c61677aa84a0c0ac1d59600e4be957cece5580be1f3a5dd
+    size: 176060784
+    sha256sum: 9931ba261956dfc1fcb1b3da376dfb83a472ce84583cdc23d4eef704b1fea435
     type: zipped-medias
   apprenez-le-francais-niveau-c1-c2-fr:
     name: "Apprenez le fran\xE7ais - Niveau C1-C2"
@@ -1906,4 +1906,148 @@ all:
     url: http://packages.ideascube.org/omeka/histoire-occidentale-fr.zip
     size: 17484535116
     sha256sum: c28b6be43bd9ffec5f3ede1071c351a5ef28a657c17fbdaa4f56623d0fbae466
+    type: zipped-medias
+  violences-faites-aux-femmes-fr:
+    name: Violences faites aux femmes
+    description: "Conna\xEEtre et combattre les violences sp\xE9cifiques aux femmes"
+    language: fr
+    version: '2017-11-24'
+    url: http://packages.ideascube.org/omeka/violences-faites-aux-femmes-fr.zip
+    size: 172663126
+    sha256sum: db8f824f0b04e78be5f8a10178e8ec0671f848881ac3dab4b2bf5b61d7aaa689
+    type: zipped-medias
+  filles-garcons-quelle-place-pour-qui-fr:
+    name: "Filles, gar\xE7ons, quelle place pour qui?"
+    description: "Quelles sont les diff\xE9rences quand on parle des filles et des\
+      \ gar\xE7ons?"
+    language: fr
+    version: '2017-11-24'
+    url: http://packages.ideascube.org/omeka/filles-garcons-quelle-place-pour-qui-fr.zip
+    size: 146760683
+    sha256sum: c65a6351d2b04f55794a8fdedeed16c90bdc0a8a7cc64fb51dac7c8c179182bf
+    type: zipped-medias
+  vih-sida-fr:
+    name: VIH sida
+    description: "Conna\xEEtre le vih sida, les risques de contamination, les moyens\
+      \ de pr\xE9vention et de protection"
+    language: fr
+    version: '2017-11-24'
+    url: http://packages.ideascube.org/omeka/vih-sida-fr.zip
+    size: 74104381
+    sha256sum: 753a08701bad346fb23b7c6bbd53e3d95aabe279e5eb6a385ffd10661b7e9715
+    type: zipped-medias
+  anatomie-feminine-fr:
+    name: "Anatomie f\xE9minine"
+    description: "Des contenus autour de de l'anatomie f\xE9minine"
+    language: fr
+    version: '2017-11-24'
+    url: http://packages.ideascube.org/omeka/anatomie-feminine-fr.zip
+    size: 101116894
+    sha256sum: 00ffebf5f258220cd218d0d62f86f691a2b5cc317c6a7f0340eda14c7733c31f
+    type: zipped-medias
+  sommeil-enfants-fr:
+    name: Sommeil (enfants)
+    description: "Comprendre \xE0 quoi sert le sommeil, pourquoi on r\xEAve?"
+    language: fr
+    version: '2017-11-24'
+    url: http://packages.ideascube.org/omeka/sommeil-enfants-fr.zip
+    size: 237867856
+    sha256sum: 24b4a33cf1e88ac353c6f96e03577f3e6fff20d80e0321fb06023274193790af
+    type: zipped-medias
+  la-sante-enfants-ado-fr:
+    name: "La sant\xE9 (enfants/ado)"
+    description: "Des informations autour de la sant\xE9"
+    language: fr
+    version: '2017-11-24'
+    url: http://packages.ideascube.org/omeka/la-sante-enfants-ado-fr.zip
+    size: 246058142
+    sha256sum: 8074720d427807d1cdfeae41df883037f0964f6d17db8ac714d2173b42e7ce4c
+    type: zipped-medias
+  grossesse-a-l-adolescence-fr:
+    name: "Grossesse \xE0 l'adolescence"
+    description: "Des contenus autour des grossesse \xE0 l'adolescence"
+    language: fr
+    version: '2017-11-24'
+    url: http://packages.ideascube.org/omeka/grossesse-a-l-adolescence-fr.zip
+    size: 600175191
+    sha256sum: 55265cb4f0db19408bbaa409b08586d61b1e25bf72f6f85176f36c565986ae1b
+    type: zipped-medias
+  premiere-fois-ado-adultes-fr:
+    name: "Premi\xE8re fois (ado-adultes)"
+    description: "La vie est une s\xE9rie de premi\xE8res fois, voici quelques contenus\
+      \ qui abordent certains de ces moments"
+    language: fr
+    version: '2017-11-24'
+    url: http://packages.ideascube.org/omeka/premiere-fois-ado-adultes-fr.zip
+    size: 331075022
+    sha256sum: 65dc873e1936827e5b22e74d10e540681cc54f6d390f76e89b3afab302f78f0d
+    type: zipped-medias
+  harcelement-enfants-fr:
+    name: "Harc\xE8lement (enfants)"
+    description: "Des contenus autour des questions de harc\xE8lement"
+    language: fr
+    version: '2017-11-24'
+    url: http://packages.ideascube.org/omeka/harcelement-enfants-fr.zip
+    size: 43890679
+    sha256sum: b87cc81a5555e8f3855db3e97f73a72947471acf8d4b87fc9ac966a93f4c3909
+    type: zipped-medias
+
+  harcelement-ado-fr:
+    name: "Harc\xE8lement (ado)"
+    description: "Des contenus autour du harc\xE8lement, pour l'identifier, ne pas\
+      \ sentir isol\xE9.e, et savoir r\xE9agir et vers qui se tourner"
+    language: fr
+    version: '2017-11-24'
+    url: http://packages.ideascube.org/omeka/harcelement-ado-fr.zip
+    size: 19177174
+    sha256sum: ce597674e088ee1953709cd9b450e32a8493fc78505249522316b7432bf6ff31
+    type: zipped-medias
+  risques-numeriques-fr:
+    name: "Risques num\xE9riques"
+    description: "Des contenus pour identifier les usages et les risques en lien avec\
+      \ le num\xE9rique"
+    language: fr
+    version: '2017-11-24'
+    url: http://packages.ideascube.org/omeka/risques-numeriques-fr.zip
+    size: 17518901
+    sha256sum: bc1157dde8da975d8e504110cab6fb3611fc5afc217cdcac6ac9e696a76ed47f
+    type: zipped-medias
+  alcool-drogues-fr:
+    name: Alcool, drogues
+    description: "Identifier les effets de l'alcool, des drogues et pr\xE9venir les\
+      \ risques"
+    language: fr
+    version: '2017-11-24'
+    url: http://packages.ideascube.org/omeka/alcool-drogues-fr.zip
+    size: 46178134
+    sha256sum: 0b6bd2b4b3b6afeb467bc0257e0dbd4bd27223c7cb0471a607ec14f38dd840e5
+    type: zipped-medias
+  premiers-secours-enfants-adolescents-fr:
+    name: Premiers secours enfants/adolescents
+    description: "Conna\xEEtre les gestes de premiers secours"
+    language: fr
+    version: '2017-11-24'
+    url: http://packages.ideascube.org/omeka/premiers-secours-enfants-adolescents-fr.zip
+    size: 255370504
+    sha256sum: 71d77766cb842e337f65ebc1d5c1204f28a7212de0e59f69d6173fb1132a7b0c
+    type: zipped-medias
+  moyens-de-contraception-fr:
+    name: Moyens de contraception
+    description: "La contraception c'est quoi? quels sont les diff\xE9rents moyens\
+      \ de protection et de contraception pour filles et gar\xE7ons?"
+    language: fr
+    version: '2017-11-24'
+    url: http://packages.ideascube.org/omeka/moyens-de-contraception-fr.zip
+    size: 71554336
+    sha256sum: f6d23e1a7bb2d7b054bf46dbaabaf78cd2038019b73a281826594a131476d9b8
+    type: zipped-medias
+  risques-auditifs-fr:
+    name: Risques auditifs
+    description: "Comprendre ce qu'est le bruit, les gestes \xE0 adopter pour pr\xE9\
+      server son audition"
+    language: fr
+    version: '2017-11-24'
+    url: http://packages.ideascube.org/omeka/risques-auditifs-fr.zip
+    size: 199399826
+    sha256sum: 6365f1f686c1cb56976754e49ac5c0d3413a8bf01d78c4ce47af76c90ed87ccf
     type: zipped-medias
