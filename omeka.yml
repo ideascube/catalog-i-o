@@ -1991,7 +1991,6 @@ all:
     size: 43890679
     sha256sum: b87cc81a5555e8f3855db3e97f73a72947471acf8d4b87fc9ac966a93f4c3909
     type: zipped-medias
-
   harcelement-ado-fr:
     name: "Harc\xE8lement (ado)"
     description: "Des contenus autour du harc\xE8lement, pour l'identifier, ne pas\
