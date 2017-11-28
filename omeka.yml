@@ -2060,3 +2060,21 @@ all:
     size: 1157114569
     sha256sum: 5afe9eb6c52e21e93f831a0f2acb3c0f6a4743e67364916cc5c01231a4cf3902
     type: zipped-medias
+  apprenez-le-francais-fos-fr:
+    name: "Apprenez le fran\xE7ais FOS"
+    description: .
+    language: fr
+    version: '2017-11-17'
+    url: http://packages.ideascube.org/omeka/apprenez-le-francais-fos-fr.zip
+    size: 54760794
+    sha256sum: 5422973966f19ff1714aa15d81ba46a5cd69c08d4899d97e5e0175ccbb3b0dc6
+    type: zipped-medias
+  apprenez-le-francais-alphabetisation-fr:
+    name: "Apprenez le fran\xE7ais - Alphab\xE9tisation"
+    description: .
+    language: fr
+    version: '2017-11-28'
+    url: http://packages.ideascube.org/omeka/apprenez-le-francais-alphabetisation-fr.zip
+    size: 427652
+    sha256sum: d0f3c0e9f67e4afc10cd475e48a823c0672acbc119be88d388c75b38a34fd1c4
+    type: zipped-medias
