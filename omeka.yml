@@ -2050,3 +2050,13 @@ all:
     size: 199399826
     sha256sum: 6365f1f686c1cb56976754e49ac5c0d3413a8bf01d78c4ce47af76c90ed87ccf
     type: zipped-medias
+  nutrition-enfants-fr:
+    name: Nutrition (enfants)
+    description: "Bien manger \xE7a veut dire quoi? quels sont les fruits et les l\xE9\
+      gumes?"
+    language: fr
+    version: '2017-11-27'
+    url: http://packages.ideascube.org/omeka/nutrition-enfants-fr.zip
+    size: 1157114569
+    sha256sum: 5afe9eb6c52e21e93f831a0f2acb3c0f6a4743e67364916cc5c01231a4cf3902
+    type: zipped-medias
