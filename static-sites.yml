@@ -145,3 +145,12 @@ all:
     type: static-site
     url: http://packages.ideascube.org/static-sites/etsicamarrivait.fr.zip
     version: "2017-12-22"
+  sida-info-service.org:
+    description: Site de l'association Sida Info Service
+    language: fr
+    name: sida-info-service.org
+    sha256sum: 3c5e297f47e2c7766c0578360e467e471d470bd8cecdd36f7e23af0528e013fd
+    size: 1212739688
+    type: static-site
+    url: http://packages.ideascube.org/static-sites/sida-info-service.org.zip
+    version: "2017-12-22"
