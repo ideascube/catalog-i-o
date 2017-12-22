@@ -100,3 +100,12 @@ all:
     type: static-site
     url: http://packages.ideascube.org/static-sites/service-public.fr.zip
     version: "2017-06-01"
+  choisirsacontraception.fr:
+    description: Choisir sa contraception.
+    language: fr
+    name: choisirsacontraception.fr
+    sha256sum: e2b974457211d2e652e190588bf3bb696bda669ef058af938a64f07e87bb56e4
+    size: 6201046
+    type: static-site
+    url: http://packages.ideascube.org/static-sites/choisirsacontraception.fr.zip
+    version: "2017-06-01"
