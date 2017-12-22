@@ -136,3 +136,12 @@ all:
     type: static-site
     url: http://packages.ideascube.org/static-sites/planning-familial.org.zip
     version: "2017-12-22"
+  etsicamarrivait.fr:
+    description: Tout savoir sur la contraception.
+    language: fr
+    name: etsicamarrivait.fr
+    sha256sum: 5c0a0a59d7932360188a5d531fcc3ab67565c5ee8345b9f49fc1c97d0c972c8b
+    size: 135520146
+    type: static-site
+    url: http://packages.ideascube.org/static-sites/etsicamarrivait.fr.zip
+    version: "2017-12-22"
