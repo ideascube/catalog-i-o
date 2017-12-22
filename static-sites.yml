@@ -127,3 +127,12 @@ all:
     type: static-site
     url: http://packages.ideascube.org/static-sites/onsexprime.fr.zip
     version: "2017-12-22"
+  planning-familial.org:
+    description: Liberté, égalité, sexualités.
+    language: fr
+    name: planning-familial.org
+    sha256sum: 0632a813e332fd7513daa1a642148c1446195c8d69f3226a0dff4bed19830844
+    size: 285644924
+    type: static-site
+    url: http://packages.ideascube.org/static-sites/planning-familial.org.zip
+    version: "2017-12-22"
