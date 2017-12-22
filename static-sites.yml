@@ -108,4 +108,13 @@ all:
     size: 6201046
     type: static-site
     url: http://packages.ideascube.org/static-sites/choisirsacontraception.fr.zip
-    version: "2017-06-01"
+    version: "2017-12-22"
+  ivg.net:
+    description:  Toutes les infos sur l'IVG dont vous avez besoin : médicales, psychologiques, juridiques ou sociales. 
+    language: fr
+    name: ivg.net
+    sha256sum: b6fd884fd82c8f7fa4da93415000b06ca472b11d46da62b6695cc47b06540325
+    size: 36507277
+    type: static-site
+    url: http://packages.ideascube.org/static-sites/ivg.net.zip
+    version: "2017-12-22"
