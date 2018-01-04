@@ -635,10 +635,10 @@ all:
     description: "D\xE9tendez-vous, exprimez-vous, cr\xE9ez ! Il y a un artiste en\
       \ chacun de nous, \xE0 vous de le r\xE9v\xE9ler..."
     language: fr
-    version: '2017-08-28'
+    version: '2017-01-04'
     url: http://packages.ideascube.org/omeka/decouvrez-les-arts-plastiques-fr.zip
-    size: 1060030245
-    sha256sum: 92a7b79631aa83dc953a0b790cd65e83d7f94e7b8c533121cc9831b8111fd281
+    size: 1060030222
+    sha256sum: ae14b8dca99565f9d9d1c72fbfad60bb9eff7752434bb6b705e317a2ae568bd5
     type: zipped-medias
   cuisine-fr:
     name: Cuisine
