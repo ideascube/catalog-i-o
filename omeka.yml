@@ -169,10 +169,10 @@ all:
     description: Vous souhaitez vous lancer, faire quelques photographies, mais vous
       avez besoin d'aide ? C'est ici !
     language: fr
-    version: '2017-08-28'
+    version: '2017-01-04'
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-photographie-fr.zip
-    size: 515259815
-    sha256sum: a47adedc8308786e8c78425acb048d0a8183e22117e20f8b6f4fb412dcb00e74
+    size: 515259703
+    sha256sum: 62ad72c4780360e85af78fb77d7051398eb7290db90fad80dc4f57aa8b8570e5
     type: zipped-medias
   initiez-vous-a-la-creation-video-fr:
     name: "Initiez-vous \xE0 la cr\xE9ation vid\xE9o"
