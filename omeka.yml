@@ -880,10 +880,10 @@ all:
       \ votre Ideas Box. N'h\xE9sitez pas \xE0 les utiliser pour trouver des id\xE9\
       es et d\xE9velopper de nouvelles animations !"
     language: fr
-    version: '2017-10-27'
+    version: '2017-01-04'
     url: http://packages.ideascube.org/omeka/kit-de-l-animateur-fr.zip
-    size: 293208949
-    sha256sum: d6e3cdb2cc343ece43a2c35d6b28a391aebbeb5d164c77068537e0a1a4f71d84
+    size: 293208806
+    sha256sum: 1dea73944bd238d003c7ced5610ed521dd6abe380572a3f6b059963a576760ce
     type: zipped-medias
   kurdish-dramas-tv-shows-ckb:
     name: "\u062F\u0631\u0627\u0645\u0627 - kurdish dramas & TV shows"
