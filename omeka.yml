@@ -1459,10 +1459,10 @@ all:
       \ il faut apprendre \xE0 les voir et \xE0 les aimer pour se sentir bien avec\
       \ soi et avec ceux qui nous entourent !"
     language: fr
-    version: '2017-11-27'
+    version: '2017-01-04'
     url: http://packages.ideascube.org/omeka/prends-soin-de-toi-enfants-ado-fr.zip
     size: 1172094565
-    sha256sum: e247366d512c05fba4fd72bc6a2c8a2b5dbc0216c8fb4e772079a61ead8414e2
+    sha256sum: 020be8a14cf9503f25cf238a1ee218c9c2fcc3dbbbab9c23c7cec2f7a9b12a14
     type: zipped-medias
   ecoute-tes-emotions-enfants-ados-fr:
     name: "Ecoute tes \xE9motions ! [Enfants/Ados]"
