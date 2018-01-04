@@ -1509,10 +1509,10 @@ all:
       \ rester en bonne sant\xE9, et pour que ceux autour de nous le reste aussi !\
       \ Apprends \xE0 prendre les bonnes habitudes en t'amusant !"
     language: fr
-    version: '2017-11-27'
+    version: '2017-01-04'
     url: http://packages.ideascube.org/omeka/hygiene-enfants-ados-fr.zip
-    size: 106790233
-    sha256sum: d4983c8975f267d3fd7efb7dee0282331263d4a50f09fc4fc341d39621c29c1f
+    size: 106790212
+    sha256sum: 48e7bc96786c54d5c7ff5e071b573729d04735f514c75f6f840a8f111e5bb9cf
     type: zipped-medias
   discriminations-enfants-ados-fr:
     name: Discriminations [Enfants/Ados]
