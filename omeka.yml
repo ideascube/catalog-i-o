@@ -1438,10 +1438,10 @@ all:
     description: "Filles footballeuses, soldats, pr\xE9sidentes: les filles peuvent\
       \ faire autant de choses que les gar\xE7ons !"
     language: fr
-    version: '2017-11-27'
+    version: '2017-01-04'
     url: http://packages.ideascube.org/omeka/les-filles-et-les-garcons-quelles-differences-fr.zip
-    size: 368485495
-    sha256sum: 518cc0bc2cfacdcc2b25f80e9b375edf6401c4b0800a9026456ea4da095a9470
+    size: 368485489
+    sha256sum: 5039c52f4b659f23cf0f16dd76695d403b571ca27ce1eb236bdfe5cb40077c8b
     type: zipped-medias
   protege-la-planete-enfants-ados-fr:
     name: "Prot\xE8ge la plan\xE8te ! [Enfants/Ados]"
@@ -1469,7 +1469,7 @@ all:
     description: "Respire, \xE9coute tes \xE9motions, es-tu en col\xE8re, joyeux,\
       \ triste ? Tu te sentiras mieux avec toi m\xEAme et avec les autres !"
     language: fr
-    version: '2017-11-27'
+    version: '2017-01-05'
     url: http://packages.ideascube.org/omeka/ecoute-tes-emotions-enfants-ados-fr.zip
     size: 169504857
     sha256sum: d442e0a70a1be6019dab3e4692f2a9b68c532acbf17ef956ecb3fe175b223eb9
@@ -1762,10 +1762,10 @@ all:
     name: "Comment faire face \xE0 la violence et aux conflits ?[Enfants/Ados]"
     description: La paix, comment on fait ?
     language: fr
-    version: '2017-10-23'
+    version: '2017-01-04'
     url: http://packages.ideascube.org/omeka/comment-faire-face-a-la-violence-et-aux-conflits-enfants-ados-fr.zip
     size: 34617278
-    sha256sum: 4f7a3a1611e221673f59c0c04bcdbdbb2e126fe814d6026c19d448ace9d9fd44
+    sha256sum: c20a8748ef4e765c798010cfacad91b842b7ece2ba36fb724df1c040d1eee3a3
     type: zipped-medias
   creation-d-association-fr:
     name: "Cr\xE9ation d'association"
