@@ -638,7 +638,7 @@ all:
     version: '2017-01-04'
     url: http://packages.ideascube.org/omeka/decouvrez-les-arts-plastiques-fr.zip
     size: 1060030222
-    sha256sum: ae14b8dca99565f9d9d1c72fbfad60bb9eff7752434bb6b705e317a2ae568bd5
+    sha256sum: 86da7f199b7bec2649889cce35da52a899864e3203c4d59d65a2eb7ccb747213
     type: zipped-medias
   cuisine-fr:
     name: Cuisine
