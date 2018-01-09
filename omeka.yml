@@ -1440,8 +1440,8 @@ all:
     language: fr
     version: '2017-01-04'
     url: http://packages.ideascube.org/omeka/les-filles-et-les-garcons-quelles-differences-fr.zip
-    size: 368485489
-    sha256sum: 5039c52f4b659f23cf0f16dd76695d403b571ca27ce1eb236bdfe5cb40077c8b
+    size: 368485495
+    sha256sum: 518cc0bc2cfacdcc2b25f80e9b375edf6401c4b0800a9026456ea4da095a9470
     type: zipped-medias
   protege-la-planete-enfants-ados-fr:
     name: "Prot\xE8ge la plan\xE8te ! [Enfants/Ados]"
