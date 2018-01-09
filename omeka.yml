@@ -214,8 +214,8 @@ all:
     language: fr
     version: '2017-01-04'
     url: http://packages.ideascube.org/omeka/audiobooks-et-fictions-sonores-fr.zip
-    size: 1420205386
-    sha256sum: 8f2f4999c9376d74a934fc4932de1262f73622aaf26ab4777b774dde9d231a09
+    size: 1420205409
+    sha256sum: 80954459e9996f29590ac8287809fbe2df94c2f64300e6b1fb96d9ad2bdd27a2
     type: zipped-medias
   jardinage-et-agriculture-fr:
     name: Jardinage et agriculture
