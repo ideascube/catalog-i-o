@@ -1490,8 +1490,8 @@ all:
     language: fr
     version: '2017-01-04'
     url: http://packages.ideascube.org/omeka/nature-enfants-ados-fr.zip
-    size: 1302195599
-    sha256sum: 9b5b2ba0b98aeb3345b4af937bb26ae3b0dd0c9e44645642125c776c16c0a973
+    size: 1302195607
+    sha256sum: 3c26f48f27ac141cdf1854b5d3728c67d13236c99505037b14a0da191d6a5129
     type: zipped-medias
   sports-enfants-ados-fr:
     name: Sports [Enfants/Ados]
