@@ -378,7 +378,7 @@ all:
     version: '2017-01-04'
     url: http://packages.ideascube.org/omeka/ecriture-et-litterature-fr.zip
     size: 464557697
-    sha256sum: dec1a29f53b6673ecd911f87b3c95c44d262cc44cbca01817ee1dffb60ba9a54
+    sha256sum: d5b84934ccf22fb04eacdee8c9d9dfff86a31c7ad7ef819125aa2b3d03189066
     type: zipped-medias
   hygiene-afrique-fr:
     name: "Hygi\xE8ne (Afrique)"
