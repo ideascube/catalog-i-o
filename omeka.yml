@@ -1472,7 +1472,7 @@ all:
     version: '2017-01-05'
     url: http://packages.ideascube.org/omeka/ecoute-tes-emotions-enfants-ados-fr.zip
     size: 169504857
-    sha256sum: d442e0a70a1be6019dab3e4692f2a9b68c532acbf17ef956ecb3fe175b223eb9
+    sha256sum: 5ef8148456e1477abda66da3c4ebf2b422af040273be04ac28cfea7f57b17dce
     type: zipped-medias
   biologie-enfants-ados-fr:
     name: Biologie [Enfants/Ados]
