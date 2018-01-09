@@ -1451,7 +1451,7 @@ all:
     version: '2017-01-04'
     url: http://packages.ideascube.org/omeka/protege-la-planete-enfants-ados-fr.zip
     size: 1885979009
-    sha256sum: d1cc0035e67086e213d29463eb0bb3c4d323cf4a3e6e9f707a10bf360e8a8382
+    sha256sum: 6c0d03edf92f9e0147409a80e7a2bb1b0f3d04c08b3e60cc69b2087298468603
     type: zipped-medias
   prends-soin-de-toi-enfants-ado-fr:
     name: Prends soin de toi ! [Enfants/Ado]
