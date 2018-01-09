@@ -348,8 +348,8 @@ all:
     language: fr
     version: '2017-01-04'
     url: http://packages.ideascube.org/omeka/creation-audio-fr.zip
-    size: 31836207
-    sha256sum: 04758d0ce189d7472629632e9e8b376527f8f8229bb995127ce457095bc8023d
+    size: 31836225
+    sha256sum: 6d0ad2fcdd145d325f1feb8887ec37f9b6a3e3d1e73d9484d9a94c990554d184
     type: zipped-medias
   nature-fr:
     name: Nature
