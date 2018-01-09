@@ -1765,7 +1765,7 @@ all:
     version: '2017-01-04'
     url: http://packages.ideascube.org/omeka/comment-faire-face-a-la-violence-et-aux-conflits-enfants-ados-fr.zip
     size: 34617278
-    sha256sum: c20a8748ef4e765c798010cfacad91b842b7ece2ba36fb724df1c040d1eee3a3
+    sha256sum: 4f7a3a1611e221673f59c0c04bcdbdbb2e126fe814d6026c19d448ace9d9fd44
     type: zipped-medias
   creation-d-association-fr:
     name: "Cr\xE9ation d'association"
