@@ -181,8 +181,8 @@ all:
     language: fr
     version: '2017-01-04'
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-creation-video-fr.zip
-    size: 943353779
-    sha256sum: 6714f98fa6648c00b3a75522ae8d13d7dd75ac607c6ebf81f5b283b501d50336
+    size: 943353786
+    sha256sum: 28dfb812c6ff7d4dbf2fe08642eee5794b3a01179418843ce7b66e2640ab63ce
     type: zipped-medias
   manual-ideascube-all:
     name: Ideascube Manual
