@@ -308,8 +308,8 @@ all:
     language: fr
     version: '2017-01-04'
     url: http://packages.ideascube.org/omeka/droits-de-l-enfant-fr.zip
-    size: 109557859
-    sha256sum: 5ccc73722a3996c5510b2514a3daa5fa98e44e64b698a36d40499b69757004b4
+    size: 109557871
+    sha256sum: c95eac311ba8fca24f7b485616b83207e99621775fd354a2f6de22a10f4e1f61
     type: zipped-medias
   histoire-afrique-fr:
     name: Histoire (Afrique)
