@@ -14,7 +14,6 @@ echo "	check_catalog"
 echo "	list_unused"
 echo 
 echo "INFO : For now, this script only works for packages that are in omeka folder on remote server."
-exit 1
 }
 
 function get_unused_pkg()
