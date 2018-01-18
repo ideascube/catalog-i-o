@@ -109,10 +109,10 @@ all:
     description: "Pour former d\xE9butant et initi\xE9 \xE0 la logique de programmation,\
       \ ainsi qu'\xE0 certains langages."
     language: fr
-    version: '2017-10-27'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/apprenez-le-code-informatique-fr.zip
     size: 1135318875
-    sha256sum: 29276448fb15e83e4c16e7f9cd2edec5225b4b0b03e08b42e93dc39044a1c551
+    sha256sum: 062ee4f0e81a836d8e44a8787bfa77214850452e22e3cf6d76b4466f5da5f726
     type: zipped-medias
   recherche-demploi-fr:
     name: Recherche d'emploi
@@ -788,7 +788,7 @@ all:
     size: 877314463
     sha256sum: 528cd49b17b7791edb7f9341243fbef834849ab35a0af1762f41b7f0eadf5a47
     type: zipped-medias
-  introduction-aux-sciences-cognitives-et-aux-neurosciences:
+  introduction-aux-sciences-cognitives-et-aux-neurosciences-fr:
     name: Introduction aux sciences cognitives et aux neurosciences
     description: "Comment fonctionne le cerveau ? Comment r\xE9gule-t-il nos \xE9\
       motions ? Qu'est-ce que l'autisme ? Les sciences cognitives ont pour objet l'\xE9\
@@ -796,10 +796,10 @@ all:
       os des expos\xE9s de chercheurs qui d\xE9crivent les m\xE9canismes sous-jacents\
       \ \xE0 diff\xE9rents ph\xE9nom\xE8nes comportementaux humains."
     language: fr
-    version: '2017-07-03'
-    url: http://packages.ideascube.org/omeka/introduction-aux-sciences-cognitives-et-aux-neurosciences.zip
-    size: 3314117687
-    sha256sum: 588c8249949fab86b3862e46b44351bb1b267eb6ff2a1610f883df10e9eebf58
+    version: '2018-01-18'
+    url: http://packages.ideascube.org/omeka/introduction-aux-sciences-cognitives-et-aux-neurosciences-fr.zip
+    size: 3314117554
+    sha256sum: 851435399fc2e4e4216b814f76733e99c5b23346c7c9e95eb9ab292681f8fcad
     type: zipped-medias
   microbiologie-et-prevention-sante:
     name: "Microbiologie et pr\xE9vention sant\xE9"
@@ -826,40 +826,40 @@ all:
     size: 127640921
     sha256sum: 3c25be6ac4701c4a0aeee7065b8f8db4cd1c8629c6e48b4b6b27f25cd15b7169
     type: zipped-medias
-  l-oeil-et-la-vision:
+  l-oeil-et-la-vision-fr:
     name: L'oeil et la vision
     description: "Comment voit-on ? Comment l'oeil envoie-t-il de l'information au\
       \ cerveau et comment cette information est-elle ensuite trait\xE9e ? Vous trouverez\
       \ ici la description de tous les m\xE9canismes qui entrent en jeu dans la vision."
     language: fr
-    version: '2017-07-03'
-    url: http://packages.ideascube.org/omeka/l-oeil-et-la-vision.zip
-    size: 411632697
-    sha256sum: 38cb1ebb3a0e57f84b1bcabe687a742cbf9c057593a69632859cd7b97aa6a210
+    version: '2018-01-18'
+    url: http://packages.ideascube.org/omeka/l-oeil-et-la-vision-fr.zip
+    size: 411632688
+    sha256sum: afc7183c07c19b64249dfb7e2a1fd228a8bf3d17f95c133c8d401452a4c2c4d2
     type: zipped-medias
-  introduction-a-la-biologie:
+  introduction-a-la-biologie-fr:
     name: "Introduction \xE0 la biologie"
     description: "Cette collection de contenus comprend des vid\xE9os et des entretiens\
       \ de chercheurs sur des domaines vari\xE9s de la biologie et de la chimie :\
       \ de la biologie mol\xE9culaire aux neurosciences. Elle s'adresse aux \xE9tudiants\
       \ en biologie, en chimie, en m\xE9decine et en soins infirmiers."
     language: fr
-    version: '2017-07-03'
-    url: http://packages.ideascube.org/omeka/introduction-a-la-biologie.zip
+    version: '2018-01-18'
+    url: http://packages.ideascube.org/omeka/introduction-a-la-biologie-fr.zip
     size: 78818995
-    sha256sum: 694d8c9af7201f020ba1da08ecdef7e99fd3cc9763cfd9294cbd91ace8be2881
+    sha256sum: 984ed834dcd4405b66272e49d7b8952925621bda9a6b94bf2bafc4fdcb651790
     type: zipped-medias
-  genetique-et-epigenetique:
+  genetique-et-epigenetique-fr:
     name: "G\xE9n\xE9tique et \xE9pig\xE9n\xE9tique"
     description: "Qu'est-ce que l'\xE9pig\xE9n\xE9tique ? En quoi cette discipline\
       \ diff\xE8re-t-elle de la g\xE9n\xE9tique ? Des chercheurs expliquent ici l'histoire\
       \ de l'\xE9pig\xE9n\xE9tique et la fa\xE7on dont les modifications de l'ADN\
       \ peuvent influencer l'expression des g\xE8nes."
     language: fr
-    version: '2017-07-03'
-    url: http://packages.ideascube.org/omeka/genetique-et-epigenetique.zip
-    size: 462702645
-    sha256sum: 1754c0a2ab835149ba05fabea31b24527b0eaa07cedc32b3f54c763d37cba9d7
+    version: '2018-01-18'
+    url: http://packages.ideascube.org/omeka/genetique-et-epigenetique-fr.zip
+    size: 462702633
+    sha256sum: 8a74ea590da1ca7e828af1ab0fa3172a2aa14b024c2a54bf9d7a218c54a05ae4
     type: zipped-medias
   sensibilisation-a-la-gestion-des-epidemies-fr:
     name: "Sensibilisation \xE0 la gestion des \xE9pid\xE9mies"
@@ -1398,10 +1398,10 @@ all:
       \ en toute s\xE9curit\xE9, et \xE0 comprendre comment avoir du recul sur les\
       \ informations que l'on trouve sur la toile !"
     language: fr
-    version: '2017-09-29'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/utilisez-internet-en-toute-securite-fr.zip
-    size: 473574931
-    sha256sum: 8dca59bde5ce482c6a7afd8424363b5ba7c35520446e11c804e971f714fd5f81
+    size: 473574875
+    sha256sum: d941be39346e0bb0d36ddc89da13bb466ae92ea886565e2ef2f17239d9b74720
     type: zipped-medias
   decouvrez-ou-redecouvrez-l-histoire-de-france-fr:
     name: "D\xE9couvrez ou red\xE9couvrez l'histoire de France !"
@@ -1488,10 +1488,10 @@ all:
     description: "Qui sont les \xEAtres vivants qui nous entourent ? O\xF9 vivent-ils\
       \ ? Que mangent-ils ? Comment vivons nous ensemble ?"
     language: fr
-    version: '2017-01-04'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/nature-enfants-ados-fr.zip
-    size: 1302195607
-    sha256sum: 3c26f48f27ac141cdf1854b5d3728c67d13236c99505037b14a0da191d6a5129
+    size: 1302195599
+    sha256sum: de692ae84fb40e3d7acfc8b30108e1073bc2122eb87857cd0182d751eba37d57
     type: zipped-medias
   sports-enfants-ados-fr:
     name: Sports [Enfants/Ados]
@@ -1902,10 +1902,10 @@ all:
     name: Histoire occidentale
     description: Connaitre l'histoire et la culture occidentale
     language: fr
-    version: '2017-10-31'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/histoire-occidentale-fr.zip
     size: 17484535116
-    sha256sum: c28b6be43bd9ffec5f3ede1071c351a5ef28a657c17fbdaa4f56623d0fbae466
+    sha256sum: 68ec2fa4ee7cc4eb18d9b095fff18f4041a389369e986edd6905f4dceaa08d0a
     type: zipped-medias
   violences-faites-aux-femmes-fr:
     name: Violences faites aux femmes
@@ -2077,4 +2077,14 @@ all:
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-alphabetisation-fr.zip
     size: 427652
     sha256sum: d0f3c0e9f67e4afc10cd475e48a823c0672acbc119be88d388c75b38a34fd1c4
+    type: zipped-medias
+  comprendre-l-autisme-fr:
+    name: Comprendre l'autisme
+    description: "- Etre en capacit\xE9 de se comporter de mani\xE8re appropri\xE9\
+      \ avec une personne autiste"
+    language: fr
+    version: '2018-01-18'
+    url: http://packages.ideascube.org/omeka/comprendre-l-autisme-fr.zip
+    size: 180865284
+    sha256sum: 89b49bba002177b0903d653f7e5ca9125bbded30ff7a823b6c68f54010981cc4
     type: zipped-medias
