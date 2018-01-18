@@ -110,7 +110,7 @@ all:
     url: http://packages.ideascube.org/static-sites/choisirsacontraception.fr.zip
     version: "2017-12-22"
   ivg.net:
-    description: Toutes les infos sur l'IVG dont vous avez besoin - médicales, psychologiques, juridiques ou sociales.
+    description: Toutes les infos sur l'IVG dont vous avez besoin : médicales, psychologiques, juridiques ou sociales. 
     language: fr
     name: ivg.net
     sha256sum: b6fd884fd82c8f7fa4da93415000b06ca472b11d46da62b6695cc47b06540325
@@ -154,3 +154,12 @@ all:
     type: static-site
     url: http://packages.ideascube.org/static-sites/sida-info-service.org.zip
     version: "2017-12-22"
+  droguesinfoservice.fr:
+    description: Drogues Info Service
+    language: fr
+    name: droguesinfoservice.fr
+    sha256sum: 05775c9cbfada3089bd67de65748685aaf48982a900e3c913cd338a9ec920368
+    size: 487454301
+    type: static-site
+    url: http://packages.ideascube.org/static-sites/droguesinfoservice.fr.zip
+    version: "2018-01-18"
