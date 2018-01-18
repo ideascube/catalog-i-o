@@ -42,10 +42,10 @@ all:
     description: "Pour d\xE9couvrir de nouveaux styles musicaux ou \xE9couter quelques\
       \ morceaux !"
     language: fr
-    version: '2017-09-29'
+    version: '2018-01-12'
     url: http://packages.ideascube.org/omeka/decouvrez-de-nouvelles-musiques-fr.zip
-    size: 1003938332
-    sha256sum: 11714c06afc8b0f9316586da9d86c31afce018cc1b46f0903dfd3067545a4362
+    size: 3443379292
+    sha256sum: 3d7972927dff4d3eec502706a3805b0ce51bb485744387bd1300b47607f0bebc
     type: zipped-medias
   citoyennete-et-politique-fr:
     name: "Citoyennet\xE9 et politique"
@@ -81,10 +81,10 @@ all:
     description: "Handicap, genre, couleurs de peau, religion... La discrimination\
       \ peut porter sur des tas de choses. D\xE9tectons les, et combattons les."
     language: fr
-    version: '2017-08-28'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/combattons-les-discriminations-fr.zip
     size: 1552598740
-    sha256sum: 1be5e1f447a7d5ee2fd385a577e6c2fb50f8e0a1b666905cf4dfcf4bb9741a3d
+    sha256sum: d9cd1d116cf128d3873cd4445655ca263c398454e948c739b409889ae9c8de0d
     type: zipped-medias
   fictions-and-entertainment-in-arabic-ar:
     name: "\u062E\u064A\u0627\u0644 - fictions and entertainment in Arabic"
@@ -169,10 +169,10 @@ all:
     description: Vous souhaitez vous lancer, faire quelques photographies, mais vous
       avez besoin d'aide ? C'est ici !
     language: fr
-    version: '2017-01-04'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-photographie-fr.zip
-    size: 515259815
-    sha256sum: a47adedc8308786e8c78425acb048d0a8183e22117e20f8b6f4fb412dcb00e74
+    size: 515259703
+    sha256sum: ccb032bf00a6eb565429f0e10ac0dde6e8fc71508b844ba5444cd61c74ff3483
     type: zipped-medias
   initiez-vous-a-la-creation-video-fr:
     name: "Initiez-vous \xE0 la cr\xE9ation vid\xE9o"
@@ -265,10 +265,10 @@ all:
       \ des pr\xE9sentations d'innovations sp\xE9cifiques au contexte \xE9conomique\
       \ et environnemental africain."
     language: fr
-    version: '2017-06-26'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/innovation-en-afrique-fr.zip
-    size: 311101094
-    sha256sum: 2701f649de4fb30438b10172b64b0245546f67195ea6229d15f292e6e59dae25
+    size: 311100960
+    sha256sum: 3dc2d7ee51f083e0265414617281311024abd6505f97f93a0899c4fad71e6017
     type: zipped-medias
   creation-d-entreprise-fr:
     name: "Cr\xE9ation d'entreprise"
@@ -276,20 +276,20 @@ all:
       \ ici des conseils pour formuler votre projet, r\xE9diger votre business plan\
       \ ou encore vous assurer de la faisabilit\xE9 de votre projet."
     language: fr
-    version: '2017-10-27'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/creation-d-entreprise-fr.zip
-    size: 1024186260
-    sha256sum: afa2cf7ab3afc6dec536c474462dd67f2715bff018030983248a1cd27ae97c3a
+    size: 1024185826
+    sha256sum: d8a92089d12c380a503082da0790d424160e420ba55c34d8e5f615e73d64e038
     type: zipped-medias
   ebooks-enfants-fr:
     name: Ebooks (enfants)
     description: "Tu cherches de quoi lire, des livres pas trop compliqu\xE9s ? C'est\
       \ ici !"
     language: fr
-    version: '2017-06-26'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/ebooks-enfants-fr.zip
-    size: 37095509
-    sha256sum: 3e51471b3b3ddf5f998009c1566c148e8542d32f50b0a126546ead034478c08a
+    size: 37095496
+    sha256sum: 8e7d81f5c5fb562b71a39984f135cde57a0d692f560050d41dbb2a3cef963c46
     type: zipped-medias
   sexualite-fr:
     name: "Sexualit\xE9"
@@ -326,10 +326,10 @@ all:
     description: Les arts plastiques, la danse... Les formes d'arts ne manquent pas,
       et font partie de la richesse d'un pays et d'une culture !
     language: fr
-    version: '2017-10-30'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/arts-afrique-fr.zip
-    size: 1254131761
-    sha256sum: a5f44a41bebac52d846ac787c258aec9befd1130d910ae2ca7b1ecef751812a3
+    size: 1254131705
+    sha256sum: cc7d06a23ef9e5c394e1e47b79bda53c3143345f33e00245dc5b61ca28aa434b
     type: zipped-medias
   geographie-afrique-de-l-est-fr:
     name: "Géographie (Afrique de l'Est"
@@ -416,10 +416,10 @@ all:
     description: "Apprendre, r\xE9fl\xE9chir, d\xE9battre, en s'amusant ? C'est possible\
       \ !"
     language: fr
-    version: '2017-01-04'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/contes-et-dessins-animes-fr.zip
-    size: 4797894626
-    sha256sum: 40e6dfc12a68cacc6fb3a31ce3c23f93bd2c79b24050c65eca8bae1348576a2e
+    size: 4797894477
+    sha256sum: 7b81f5c9d5986514014cd517033760de350b50deab3f29c892dd8b20f858f421
     type: zipped-medias
   sante-fr:
     name: "Sant\xE9"
@@ -732,14 +732,14 @@ all:
     size: 721825158
     sha256sum: f08bb9e38bc6358001638eb3d883a746c8e0c5d9c5b0da7680c92b9597757061
     type: zipped-medias
-  apprends-le-francais-a1-enfants-adolescents:
+  apprends-le-francais-a1-enfants-adolescents-fr:
     name: "Apprends le fran\xE7ais ! A1 [Enfants, Adolescents]"
     description: "Pars \xE0 la d\xE9couverte de la langue fran\xE7aise, en image !"
     language: fr
-    version: '2017-10-27'
-    url: http://packages.ideascube.org/omeka/apprends-le-francais-a1-enfants-adolescents.zip
+    version: '2018-01-18'
+    url: http://packages.ideascube.org/omeka/apprends-le-francais-a1-enfants-adolescents-fr.zip
     size: 13573811
-    sha256sum: af74b02651e176b06d54d95b91dc2b938d1450ce40365abbf6e10da7c0e51260
+    sha256sum: 6cadf1c63340c7c4adb2312907e01805096a158e4242cc3c1d800cf78a085591
     type: zipped-medias
   connaitre-la-france-et-paris:
     name: "Conna\xEEtre la France et Paris"
@@ -1348,10 +1348,10 @@ all:
     description: Vous souhaitez vous perfectionner en football ? Vous initier au yoga
       ou faire un exercice physique quotidien ?  C'est ici !
     language: fr
-    version: '2017-09-29'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/decouvrez-differents-sports-fr.zip
-    size: 2709131480
-    sha256sum: 86fb698b890c0df2de56cab768369025febc362bbb2c5157f479f67a407336b5
+    size: 2709131385
+    sha256sum: 98e332a66b449c866def20dec509f56e8cc2ae68cffa354df7ecf3e759f099a0
     type: zipped-medias
   faites-le-tour-des-notions-de-citoyennete-et-politique:
     name: "Faites le tour des notions de \"citoyennet\xE9\" et \"politique\""
@@ -1469,10 +1469,10 @@ all:
     description: "Respire, \xE9coute tes \xE9motions, es-tu en col\xE8re, joyeux,\
       \ triste ? Tu te sentiras mieux avec toi m\xEAme et avec les autres !"
     language: fr
-    version: '2017-01-05'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/ecoute-tes-emotions-enfants-ados-fr.zip
     size: 169504857
-    sha256sum: 5ef8148456e1477abda66da3c4ebf2b422af040273be04ac28cfea7f57b17dce
+    sha256sum: 3d3553d226cfc412bc66377b6f4ed2a0d9de2b9174a3633055b066c49722abb9
     type: zipped-medias
   biologie-enfants-ados-fr:
     name: Biologie [Enfants/Ados]
@@ -1498,10 +1498,10 @@ all:
     description: "A quoi \xE7a sert le sport ? Combien il y a de sports diff\xE9rents\
       \ ? Pourquoi le sport, \xE7a rime avec respect et amiti\xE9 ?"
     language: fr
-    version: '2017-10-16'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/sports-enfants-ados-fr.zip
     size: 654167184
-    sha256sum: 995c4fad826a5f705d5ac08e2049c018ccfd59bdebd4ff9f300bea16aeee53b8
+    sha256sum: 1db07c4f632e43c236f78d653a106118e2e28cce73bdc02ca3ac4096f4398d47
     type: zipped-medias
   hygiene-enfants-ados-fr:
     name: "Hygi\xE8ne [Enfants/Ados]"
@@ -1792,10 +1792,10 @@ all:
     description: "La sexualit\xE9, il faut en parler pour \xEAtre en toute s\xE9curit\xE9\
       . Vous trouverez ici les informations n\xE9cessaires."
     language: fr
-    version: '2017-11-27'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/prevention-et-sexualite-fr.zip
     size: 176060784
-    sha256sum: 9931ba261956dfc1fcb1b3da376dfb83a472ce84583cdc23d4eef704b1fea435
+    sha256sum: 9858b0aeeec11ba4975dc447440b2d630c74805291b4eaddd630b2fe78c9657c
     type: zipped-medias
   apprenez-le-francais-niveau-c1-c2-fr:
     name: "Apprenez le fran\xE7ais - Niveau C1-C2"
@@ -1820,10 +1820,10 @@ all:
     name: "Apprends le fran\xE7ais ! A2 [Enfants, Adolescents]"
     description: "Apprends \xE0 faire des phrases en fran\xE7ais !"
     language: fr
-    version: '2017-10-27'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/apprends-le-francais-a2-enfants-adolescents-fr.zip
     size: 159159046
-    sha256sum: 69d45618728613e7901e5b335ef535234d1f7ae127b339e6e84861178279ea38
+    sha256sum: cf6a6355ca5b286b9c73dd24f3d9c3ec321df7b1ace528ff91a8270f778b8c4f
     type: zipped-medias
   apprenez-le-francais-niveau-a2-fr:
     name: "Apprenez le fran\xE7ais - Niveau A2"
