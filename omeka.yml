@@ -179,10 +179,10 @@ all:
     description: "Initiez vous aux r\xE9flexions sur le cin\xE9ma et l'image, et lancez\
       \ vous dans vos premi\xE8res cr\xE9ations vid\xE9os !"
     language: fr
-    version: '2017-01-04'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-creation-video-fr.zip
-    size: 943353786
-    sha256sum: 28dfb812c6ff7d4dbf2fe08642eee5794b3a01179418843ce7b66e2640ab63ce
+    size: 943353779
+    sha256sum: 9e5189c86deadf708c1f8dced2af99977aa78f57b9245e28f1eb07949d5bf0c9
     type: zipped-medias
   manual-ideascube-all:
     name: Ideascube Manual
@@ -212,10 +212,10 @@ all:
     description: "Les fictions, les romans, on peut aussi les \xE9couter ! A vos casques\
       \ !"
     language: fr
-    version: '2017-01-04'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/audiobooks-et-fictions-sonores-fr.zip
-    size: 1420205409
-    sha256sum: 80954459e9996f29590ac8287809fbe2df94c2f64300e6b1fb96d9ad2bdd27a2
+    size: 1420205386
+    sha256sum: 6ebacbf51b03d9d6d0b99a1d31e509da31bdef5c8ecd911a5069f2b8d6a45bff
     type: zipped-medias
   jardinage-et-agriculture-fr:
     name: Jardinage et agriculture
@@ -233,20 +233,20 @@ all:
     description: "Une com\xE9die ? Un drame ? Un policier ? D\xE9couvrez ou red\xE9\
       couvrez ici quelques films muets ou en fran\xE7ais."
     language: fr
-    version: '2017-06-26'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/films-fr.zip
-    size: 3543422460
-    sha256sum: 844f319decd5a8f14264f8c37e146ff8867591791687e555d61582c94a74307c
+    size: 3543422398
+    sha256sum: d683367fc17916cf71d626199de3f20a043ff8861dcdfe918ad80ce2ff4fe8a9
     type: zipped-medias
   prevention-addictions-fr:
     name: "Pr\xE9vention addictions"
     description: Mieux comprendre les effets de l'alcool sur nos comportements, et
       leurs origines.
     language: fr
-    version: '2017-06-23'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/prevention-addictions-fr.zip
-    size: 21602076
-    sha256sum: 2114c9a1f6a00e78c32aac54a8ea6eabc4da62317b05cdfa9b357c5ca043e571
+    size: 21602070
+    sha256sum: d8ece12b7fb317ee84c86e698a3603413a11122947cb453335e0db584ef45484
     type: zipped-medias
   administration-gestion-comptabilite-fr:
     name: "Administration, gestion, comptabilit\xE9"
@@ -306,10 +306,10 @@ all:
     description: "Tu as des droits, apprends \xE0 les conna\xEEtre pour mieux les\
       \ d\xE9fendre."
     language: fr
-    version: '2017-01-04'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/droits-de-l-enfant-fr.zip
-    size: 109557871
-    sha256sum: c95eac311ba8fca24f7b485616b83207e99621775fd354a2f6de22a10f4e1f61
+    size: 109557859
+    sha256sum: 3c0bb6f694feada576415e73abe2f3ec90cb758d2fb0ccd60187942a79dbf806
     type: zipped-medias
   histoire-afrique-fr:
     name: Histoire (Afrique)
@@ -1509,10 +1509,10 @@ all:
       \ rester en bonne sant\xE9, et pour que ceux autour de nous le reste aussi !\
       \ Apprends \xE0 prendre les bonnes habitudes en t'amusant !"
     language: fr
-    version: '2017-01-04'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/hygiene-enfants-ados-fr.zip
-    size: 106790233
-    sha256sum: d4983c8975f267d3fd7efb7dee0282331263d4a50f09fc4fc341d39621c29c1f
+    size: 106790212
+    sha256sum: d1a72735791a251c503f21c7fcd25bb92143c556c927a89969a0e523f50d36af
     type: zipped-medias
   discriminations-enfants-ados-fr:
     name: Discriminations [Enfants/Ados]
@@ -1520,10 +1520,10 @@ all:
       \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
       \ \xE0 accepter les diff\xE9rences des qui nous entourent."
     language: fr
-    version: '2017-01-04'
+    version: '2018-01-18'
     url: http://packages.ideascube.org/omeka/discriminations-enfants-ados-fr.zip
-    size: 617651774
-    sha256sum: eadbb7cd73cefe4afee7f79952306787bcbdb7cf397ae8b3fc7a73faa06d3e8b
+    size: 617651728
+    sha256sum: e7741afef07a30cf24cb2689d3589db1d12cdb2d956bf47ae4572357cd37ca37
     type: zipped-medias
   nervous-system-ar:
     name: "Nervous System [\u0627\u0644\u062C\u0647\u0627\u0632 \u0627\u0644\u0639\
