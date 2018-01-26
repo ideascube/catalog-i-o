@@ -2,7 +2,7 @@ cest-pas-sorcier.fr:
     version: "2015-07-09"
     size: 33058680868
     url: "http://download.kiwix.org/portable/other/kiwix-0.9+cest-pas-sorcier_fr_all_2015-07.zip"
-    name: "C'est pas sorcier"
+    name: C'est pas sorcier
     language: "fra"
     description: "Cest pas sorcier videos"
     id: "8df38284-2a51-9dd1-7861-b46a240163d0"
