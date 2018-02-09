@@ -2088,3 +2088,133 @@ all:
     size: 180865284
     sha256sum: 89b49bba002177b0903d653f7e5ca9125bbded30ff7a823b6c68f54010981cc4
     type: zipped-medias
+  what-are-some-easy-diets-i-can-use-en:
+    name: What are some easy diets I can use?
+    description: a package containing text pdfs describing easy diets to use and dieting
+      tips.
+    language: en
+    version: '2018-02-09'
+    url: http://packages.ideascube.org/omeka/what-are-some-easy-diets-i-can-use-en.zip
+    size: 729785
+    sha256sum: 4866f489683fd964ecff4a077f483c75612cdb508efa271975ca22919220b299
+    type: zipped-medias
+  choosing-a-doctor-that-is-right-for-you-en:
+    name: Choosing a doctor that is right for you
+    description: A package of pdf text files describing how to choose the best doctor
+      that is right for you.
+    language: en
+    version: '2018-02-09'
+    url: http://packages.ideascube.org/omeka/choosing-a-doctor-that-is-right-for-you-en.zip
+    size: 411284
+    sha256sum: e611c51291ed27dc24f46cb9f90138a5ba08cd68a488774e8889e23ba8839331
+    type: zipped-medias
+  health-insurance-basics-en:
+    name: Health Insurance basics
+    description: A package of PDFs describing the basic concepts of health care and
+      insurance
+    language: en
+    version: '2018-02-09'
+    url: http://packages.ideascube.org/omeka/health-insurance-basics-en.zip
+    size: 876965
+    sha256sum: ea3b29de705624aeb7b6dbd3ac8f01e3f56f4e29a3e1716ef1a4369090c7eb28
+    type: zipped-medias
+  how-does-drinking-affect-my-diet-en:
+    name: How does drinking affect my diet?
+    description: Describing how drinking alcohol affects your diet and nutrition
+    language: en
+    version: '2018-02-09'
+    url: http://packages.ideascube.org/omeka/how-does-drinking-affect-my-diet-en.zip
+    size: 752072
+    sha256sum: 8a2d00ae8619ee9c7e53080156a7c74c482c12298a02fb128c6689eca512b83e
+    type: zipped-medias
+  i-m-worried-my-child-is-drinking-what-can-i-do-en:
+    name: I'm worried my child is drinking.  What can I do?
+    description: A package describing how to talk to your child about alcohol and
+      drug use, as well tips for prevention.
+    language: en
+    version: '2018-02-09'
+    url: http://packages.ideascube.org/omeka/i-m-worried-my-child-is-drinking-what-can-i-do-en.zip
+    size: 2295679
+    sha256sum: 6dfe29b172c426b67befbe8d90da25465183224a649d54edc3e6958c8e0798ec
+    type: zipped-medias
+  if-i-m-pregnant-how-do-drugs-and-alcohol-affect-me-en:
+    name: If I'm pregnant, how do drugs and alcohol affect me?
+    description: If you are pregnant and have questions about drug, tobacco, or alcohol
+      use, click here
+    language: en
+    version: '2018-02-09'
+    url: http://packages.ideascube.org/omeka/if-i-m-pregnant-how-do-drugs-and-alcohol-affect-me-en.zip
+    size: 1540248
+    sha256sum: 5bee8e87a45c559b0d8c9be1ba126ce44b2d2266acaa90e0c424e998569467f7
+    type: zipped-medias
+  how-does-alcohol-affect-my-body-en:
+    name: How does alcohol affect my body?
+    description: A package detailing the effects, both longterm and shot, that alcohol
+      has on the body
+    language: en
+    version: '2018-02-09'
+    url: http://packages.ideascube.org/omeka/how-does-alcohol-affect-my-body-en.zip
+    size: 758030
+    sha256sum: 59b147a8838d87babdbf689e60cdcabc32e75223a96d24acda3b2efceb71d1ed
+    type: zipped-medias
+  what-does-addiction-look-like-en:
+    name: What does addiction look like?
+    description: A package outlining the the signs of addiction and how to deal with
+      it
+    language: en
+    version: '2018-02-09'
+    url: http://packages.ideascube.org/omeka/what-does-addiction-look-like-en.zip
+    size: 911819
+    sha256sum: 22b43b95a9122db6971e78f03b0a3e5ab0b11ce0acbb3825b8cf5eb2ac19591a
+    type: zipped-medias
+  how-do-i-control-my-weight-en:
+    name: How do I control m weight?
+    description: A package detailing how you can use healthy eating and exercise to
+      reduce your weight.  Includes info on exercise, nutrition, calories counting,
+      and supplements.
+    language: en
+    version: '2018-02-09'
+    url: http://packages.ideascube.org/omeka/how-do-i-control-my-weight-en.zip
+    size: 4429164
+    sha256sum: f4132f085a24fead48b05f959cc2f4ebe29c763c10c0f65bdd50a9a0e2254a7b
+    type: zipped-medias
+  what-do-the-different-types-of-diabetes-mean-for-me-en:
+    name: What do the different types of diabetes mean for me?
+    description: Curious about the different types of diabetes and what they mean
+      for you?  click here
+    language: en
+    version: '2018-02-09'
+    url: http://packages.ideascube.org/omeka/what-do-the-different-types-of-diabetes-mean-for-me-en.zip
+    size: 423226
+    sha256sum: 1696324ec792867732735c5845752ddcacdad041f5e72b38ca64ecf96244860e
+    type: zipped-medias
+  how-do-i-stay-healthy-with-diabetes-en:
+    name: How do I stay healthy with diabetes?
+    description: If you or a loved one have diabetes and are curious about how to
+      stay healthy, click here
+    language: en
+    version: '2018-02-09'
+    url: http://packages.ideascube.org/omeka/how-do-i-stay-healthy-with-diabetes-en.zip
+    size: 1354102
+    sha256sum: 7876b86c34e339e9c82270eb90852884971268da241cffd2218973685d2bd361
+    type: zipped-medias
+  i-have-diabetes-how-should-i-take-care-of-myself-en:
+    name: I have diabetes, how should I take care of myself?
+    description: If you have diabetes and have questions about how to take care of
+      yourself, click here
+    language: en
+    version: '2018-02-09'
+    url: http://packages.ideascube.org/omeka/i-have-diabetes-how-should-i-take-care-of-myself-en.zip
+    size: 799503
+    sha256sum: 0c715d4c003aaaa85040b1e20e371ac73d4943316d03647f18f42bf04e7e1311
+    type: zipped-medias
+  what-are-the-basics-of-diabetes-en:
+    name: What are the basics of diabetes?
+    description: A package containing the basic information about diabetes
+    language: en
+    version: '2018-02-09'
+    url: http://packages.ideascube.org/omeka/what-are-the-basics-of-diabetes-en.zip
+    size: 1022058
+    sha256sum: b96b9dd7d05ba9adfc70758424907065153284c1393cb1dcae94c1c4a9fb08ee
+    type: zipped-medias
+
