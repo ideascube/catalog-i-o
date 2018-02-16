@@ -346,11 +346,11 @@ all:
       \ passer des messages."
     language: fr
     name: "Cr\xE9ation audio"
-    sha256sum: c55f28fdcd6655f4de521caebcde33e76ff2e066c188a801601dc40541593d91
-    size: 31836215
+    sha256sum: b51b65ddc169ccafcaacb6c4c23b1b5ad1007c6c629ff30c9e8f7107e6d19aa5
+    size: 31836148
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creation-audio-fr.zip
-    version: '2018-02-17'
+    version: '2018-02-18'
   nature-fr:
     name: Nature
     description: "Qui sont les \xEAtres vivants qui nous entourent ? O\xF9 vivent-ils\
