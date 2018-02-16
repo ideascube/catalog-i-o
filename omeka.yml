@@ -635,11 +635,11 @@ all:
       \ chacun de nous, \xE0 vous de le r\xE9v\xE9ler..."
     language: fr
     name: "D\xE9couvrez les arts plastiques"
-    sha256sum: f3ed1e80f22974686550dd72c03dea874c794cf04c4d84c2e7b8a6f2b54028af
-    size: 1060030224
+    sha256sum: 1618a7c85a3856e0714962a75ad884d5b0cd2f8a20768cc256a8fe9810a83156
+    size: 1060030222
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/decouvrez-les-arts-plastiques-fr.zip
-    version: '2018-02-15'
+    version: '2018-02-16'
   cuisine-fr:
     name: Cuisine
     description: Qu'est ce que nous mangeons ? Qu'est ce que les autres mangent ?
@@ -834,11 +834,11 @@ all:
       \ ?"
     language: fr
     name: "Economie et d\xE9veloppement durable"
-    sha256sum: f1c575ddf18f8be051d5c7276a74ec82f08661cfceb8964420073286769b4e69
-    size: 127893752
+    sha256sum: c676cb6aff98cb46717f09dc696d6b416b0c2af5b546235ad55dc64e418fa9ae
+    size: 127893807
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/economie-et-developpement-durable-fr.zip
-    version: '2018-02-15'
+    version: '2018-02-16'
   l-oeil-et-la-vision-fr:
     name: L'oeil et la vision
     description: "Comment voit-on ? Comment l'oeil envoie-t-il de l'information au\
@@ -1461,11 +1461,11 @@ all:
       \ faire pour la prot\xE9ger, toi aussi ?"
     language: fr
     name: "Prot\xE8ge la plan\xE8te ! [Enfants/Ados]"
-    sha256sum: 127f5a2889a6e0e454b4fa7859514245e6707c4b04db4b61ecb92c4f6accf5a8
-    size: 1885979020
+    sha256sum: 66add4b017ad884bf809417e37adbd419f576cf8c9522ca99af503c8cd5d1b44
+    size: 1885979009
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/protege-la-planete-enfants-ados-fr.zip
-    version: '2018-02-15'
+    version: '2018-02-16'
   prends-soin-de-toi-enfants-ado-fr:
     name: Prends soin de toi ! [Enfants/Ado]
     description: "Chacun a de belles choses \xE0 dire et \xE0 montrer aux autres,\
