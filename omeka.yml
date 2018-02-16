@@ -893,11 +893,11 @@ all:
       es et d\xE9velopper de nouvelles animations !"
     language: fr
     name: Kit de l'animateur
-    sha256sum: 72466a1683035692f76238a1deccca61b0ffc7eb80302bd2cb093f78185bf1e4
+    sha256sum: 1fc01229f395b2d212dd672eb2ec6134f39e18897005ad5552235f5650d451c7
     size: 294853141
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/kit-de-l-animateur-fr.zip
-    version: '2018-02-15'
+    version: '2018-02-16'
   kurdish-dramas-tv-shows-ckb:
     name: "\u062F\u0631\u0627\u0645\u0627 - kurdish dramas & TV shows"
     description: Watch kurdish shows and relax.
