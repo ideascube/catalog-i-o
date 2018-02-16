@@ -163,3 +163,12 @@ all:
     type: static-site
     url: http://packages.ideascube.org/static-sites/droguesinfoservice.fr.zip
     version: "2018-01-18"
+  films-pour-enfants-fr:
+    name: Films pour enfants
+    description: Films pour enfants
+    language: fr
+    version: '2018-02-16'
+    url: http://packages.ideascube.org/static-sites/films-pour-enfants-fr.zip
+    size: 9812386111
+    sha256sum: 417a60ab5f9cec27d1473e88c2041a6611c051a22c17d60cd5373a0cff4c515e
+    type: static-site
