@@ -994,3 +994,13 @@ all:
     size: 374688269
     sha256sum: "379fd27f4a024138fb13de95f6a2bca9f60f08f94a4aae72ea4502469e04012c"
     type: zipped-zim
+  wikipedia.it:
+    name: "Wikipedia"
+    description: "L'enciclopedia libera e collaborativa"
+    version: "2017-02-03"
+    language: "it"
+    id: "none_not-found-in-library.xml"
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_it_all_2017-01.zip"
+    size: 17488861672
+    sha256sum: "5e225a1ec74717ade22639e1ce791fa20b85dcf9c09ffb3d8f038bb9d8910063"
+    type: zipped-zim
