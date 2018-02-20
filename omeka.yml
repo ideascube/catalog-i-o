@@ -2317,3 +2317,12 @@ all:
     size: 140037240
     sha256sum: d15ca614e7ac975e33e1d8f19703aa1b69ccb84536fc5f1658bf166d1004cad2
     type: zipped-medias
+  scopri-la-storia-del-europa-e-dell-italia-it:
+    name: Scopri la storia del Europa e dell'Italia
+    description: Mappe e video di alcuni eventi storici importanti
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/scopri-la-storia-del-europa-e-dell-italia-it.zip
+    size: 634237187
+    sha256sum: e6aa6a65d69c9ae363f9cad5cc68718e1bde8898713a03bbd694d3e3b9f6bbc0
+    type: zipped-medias
