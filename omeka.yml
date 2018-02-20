@@ -2230,4 +2230,13 @@ all:
     size: 1022058
     sha256sum: b96b9dd7d05ba9adfc70758424907065153284c1393cb1dcae94c1c4a9fb08ee
     type: zipped-medias
-
+  ascolta-un-po-di-musica-italiana-it:
+    name: Ascolta un po di musica italiana
+    description: Una selezione di canzone di artisti italiani fra classico, popolare
+      o attuali.
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/ascolta-un-po-di-musica-italiana-it.zip
+    size: 255503678
+    sha256sum: addab5f30debafca6e5445c7b51a09dc7acacf9b7467466e8fc979b90fdc842e
+    type: zipped-medias
