@@ -2381,6 +2381,6 @@ all:
     language: fr
     version: '2018-02-20'
     url: http://packages.ideascube.org/omeka/films-adavision-fr.zip
-    size: 11063041169
-    sha256sum: aa08eece36c5af8110ac528cdabb4e3a482ca8f1833c996d37b5ac582b3e6017
+    size: 11063041197
+    sha256sum: b2c51b03f01d9e8ad7fad3814590716defab5adfa1981b32d3ccbf93a72a52d7
     type: zipped-medias
