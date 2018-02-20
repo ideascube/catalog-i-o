@@ -2259,3 +2259,13 @@ all:
     size: 127056153
     sha256sum: 4762ee9338dba5e1cd840d33552aeea56b12b4f1a8fe5877650c8d3c2a4816fc
     type: zipped-medias
+  diventa-un-scrittore-it:
+    name: Diventa un scrittore
+    description: Corsi e consigli  per accompagnarti nella redazione di scritture
+      diverse
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/diventa-un-scrittore-it.zip
+    size: 208363111
+    sha256sum: 3b237e9c03451101921dd864c934d7db666b7727bcb5b91dec897fd462f16837
+    type: zipped-medias
