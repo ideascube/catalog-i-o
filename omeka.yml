@@ -2279,3 +2279,13 @@ all:
     size: 63500180
     sha256sum: 8faedf8ab2197081a5f26eb6b62db0ecc545fb9f46670e91d13049ee34d0fe0b
     type: zipped-medias
+  combatti-le-discriminazioni-it:
+    name: Combatti le discriminazioni
+    description: Spot e informazioni per riconoscere le forme di discriminiazioni
+      come il razzismo e avere strumenti per combatterle
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/combatti-le-discriminazioni-it.zip
+    size: 71046622
+    sha256sum: 9f79cea70c87c6aa0d34bf0db7d060db51bea99a2ebd844338c070281c40691e
+    type: zipped-medias
