@@ -2269,3 +2269,13 @@ all:
     size: 208363111
     sha256sum: 3b237e9c03451101921dd864c934d7db666b7727bcb5b91dec897fd462f16837
     type: zipped-medias
+  come-trovare-un-lavoro-in-italia-it:
+    name: Come trovare un lavoro in Italia
+    description: 'Dalla redazione del tuo CV al intervista : alcuni suggerimenti per
+      aiutarti a prepararti bene'
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/come-trovare-un-lavoro-in-italia-it.zip
+    size: 63500180
+    sha256sum: 8faedf8ab2197081a5f26eb6b62db0ecc545fb9f46670e91d13049ee34d0fe0b
+    type: zipped-medias
