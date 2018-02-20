@@ -2240,3 +2240,12 @@ all:
     size: 255503678
     sha256sum: addab5f30debafca6e5445c7b51a09dc7acacf9b7467466e8fc979b90fdc842e
     type: zipped-medias
+  impara-le-basi-in-italiano-it:
+    name: Impara le basi in italiano
+    description: Vocabolario, esercizi e metodi per fare i primi passi in lingua italiana
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/impara-le-basi-in-italiano-it.zip
+    size: 610946106
+    sha256sum: c0cd014b1ffea976dd6de4251e431c3c4d6f514edb839b8f36b7395bbea5e488
+    type: zipped-medias
