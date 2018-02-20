@@ -2249,3 +2249,13 @@ all:
     size: 610946106
     sha256sum: c0cd014b1ffea976dd6de4251e431c3c4d6f514edb839b8f36b7395bbea5e488
     type: zipped-medias
+  informati-su-quale-sono-i-tuoi-diritti-in-italia-it:
+    name: Informati su quale sono i tuoi diritti in Italia
+    description: Portali informativi per conoscere permessi, diritti, assistenza che
+      puoi avere in Italia
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/informati-su-quale-sono-i-tuoi-diritti-in-italia-it.zip
+    size: 127056153
+    sha256sum: 4762ee9338dba5e1cd840d33552aeea56b12b4f1a8fe5877650c8d3c2a4816fc
+    type: zipped-medias
