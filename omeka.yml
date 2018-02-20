@@ -2344,3 +2344,13 @@ all:
     size: 58543676
     sha256sum: 8d0495e5972a98c910348a30112e60a020e3d64c68ac6cc3de4fa1ecdc98bf5e
     type: zipped-medias
+  allenati-al-codice-stradale-it:
+    name: Allenati al codice stradale
+    description: Troverai quizz e video per imparare a riconescere la signaletica
+      stradale e aiutarti a ottenere l'esame del codice
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/allenati-al-codice-stradale-it.zip
+    size: 631102035
+    sha256sum: 2931c48398474f5222c2e130a2ba1239b7d4304c9b5c6614873ea1a63cb6a807
+    type: zipped-medias
