@@ -2230,4 +2230,157 @@ all:
     size: 1022058
     sha256sum: b96b9dd7d05ba9adfc70758424907065153284c1393cb1dcae94c1c4a9fb08ee
     type: zipped-medias
-
+  ascolta-un-po-di-musica-italiana-it:
+    name: Ascolta un po di musica italiana
+    description: Una selezione di canzone di artisti italiani fra classico, popolare
+      o attuali.
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/ascolta-un-po-di-musica-italiana-it.zip
+    size: 255503678
+    sha256sum: addab5f30debafca6e5445c7b51a09dc7acacf9b7467466e8fc979b90fdc842e
+    type: zipped-medias
+  impara-le-basi-in-italiano-it:
+    name: Impara le basi in italiano
+    description: Vocabolario, esercizi e metodi per fare i primi passi in lingua italiana
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/impara-le-basi-in-italiano-it.zip
+    size: 610946106
+    sha256sum: c0cd014b1ffea976dd6de4251e431c3c4d6f514edb839b8f36b7395bbea5e488
+    type: zipped-medias
+  informati-su-quale-sono-i-tuoi-diritti-in-italia-it:
+    name: Informati su quale sono i tuoi diritti in Italia
+    description: Portali informativi per conoscere permessi, diritti, assistenza che
+      puoi avere in Italia
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/informati-su-quale-sono-i-tuoi-diritti-in-italia-it.zip
+    size: 127056153
+    sha256sum: 4762ee9338dba5e1cd840d33552aeea56b12b4f1a8fe5877650c8d3c2a4816fc
+    type: zipped-medias
+  diventa-un-scrittore-it:
+    name: Diventa un scrittore
+    description: Corsi e consigli  per accompagnarti nella redazione di scritture
+      diverse
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/diventa-un-scrittore-it.zip
+    size: 208363111
+    sha256sum: 3b237e9c03451101921dd864c934d7db666b7727bcb5b91dec897fd462f16837
+    type: zipped-medias
+  come-trovare-un-lavoro-in-italia-it:
+    name: Come trovare un lavoro in Italia
+    description: 'Dalla redazione del tuo CV al intervista : alcuni suggerimenti per
+      aiutarti a prepararti bene'
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/come-trovare-un-lavoro-in-italia-it.zip
+    size: 63500180
+    sha256sum: 8faedf8ab2197081a5f26eb6b62db0ecc545fb9f46670e91d13049ee34d0fe0b
+    type: zipped-medias
+  combatti-le-discriminazioni-it:
+    name: Combatti le discriminazioni
+    description: Spot e informazioni per riconoscere le forme di discriminiazioni
+      come il razzismo e avere strumenti per combatterle
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/combatti-le-discriminazioni-it.zip
+    size: 71046622
+    sha256sum: 9f79cea70c87c6aa0d34bf0db7d060db51bea99a2ebd844338c070281c40691e
+    type: zipped-medias
+  pratica-un-po-di-sport-it:
+    name: Pratica un po di sport
+    description: "Esercizi e fondamentali per praticare alcune attivit\xE0"
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/pratica-un-po-di-sport-it.zip
+    size: 331224507
+    sha256sum: e55ea811a0c8400837862765bd9d55869e3ea207b7c386a06b7b05104133174c
+    type: zipped-medias
+  scopri-la-base-della-cultura-italiana-it:
+    name: Scopri la base della cultura italiana
+    description: Video e documentari che permettono di capire meglio l'Italia
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/scopri-la-base-della-cultura-italiana-it.zip
+    size: 1027397455
+    sha256sum: 869ca7a769a0c256c1b03718e4d1382fddd53de29b41ee2983b5c96d8f50b87f
+    type: zipped-medias
+  iniziati-al-cinema-e-alla-realizzazione-di-video-it:
+    name: Iniziati al cinema e alla realizzazione di video
+    description: "Sceneggiaturra, planning, montaggio: tutto quello che c'\xE8 da\
+      \ sapere per  fare video come professionisti"
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/iniziati-al-cinema-e-alla-realizzazione-di-video-it.zip
+    size: 140037240
+    sha256sum: d15ca614e7ac975e33e1d8f19703aa1b69ccb84536fc5f1658bf166d1004cad2
+    type: zipped-medias
+  scopri-la-storia-del-europa-e-dell-italia-it:
+    name: Scopri la storia del Europa e dell'Italia
+    description: Mappe e video di alcuni eventi storici importanti
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/scopri-la-storia-del-europa-e-dell-italia-it.zip
+    size: 634237187
+    sha256sum: e6aa6a65d69c9ae363f9cad5cc68718e1bde8898713a03bbd694d3e3b9f6bbc0
+    type: zipped-medias
+  parti-a-la-scoperta-del-arte-italiana-it:
+    name: Parti a la scoperta del arte italiana
+    description: Correnti artistiche e grande figure della storia dell'arte italiana
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/parti-a-la-scoperta-del-arte-italiana-it.zip
+    size: 70120386
+    sha256sum: c47c8bcecc2ebd584e7ccb12f44a18a407525d8bdd524cde5ea9e66203adc622
+    type: zipped-medias
+  scopri-i-secreti-della-cucina-italiana-it:
+    name: Scopri i secreti della cucina italiana
+    description: Ricetti e documentari sulla cucina italiana
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/scopri-i-secreti-della-cucina-italiana-it.zip
+    size: 58543676
+    sha256sum: 8d0495e5972a98c910348a30112e60a020e3d64c68ac6cc3de4fa1ecdc98bf5e
+    type: zipped-medias
+  allenati-al-codice-stradale-it:
+    name: Allenati al codice stradale
+    description: Troverai quizz e video per imparare a riconescere la signaletica
+      stradale e aiutarti a ottenere l'esame del codice
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/allenati-al-codice-stradale-it.zip
+    size: 631102035
+    sha256sum: 2931c48398474f5222c2e130a2ba1239b7d4304c9b5c6614873ea1a63cb6a807
+    type: zipped-medias
+  informati-su-alcune-malattie-it:
+    name: informati su alcune malattie
+    description: Una serie di informazioni su certe malattie
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/informati-su-alcune-malattie-it.zip
+    size: 42097685
+    sha256sum: db1d846df1351f76558ab87407cd3a0aadb4a8be880f57038b4467c8c97eac40
+    type: zipped-medias
+  familiarizzati-col-disegno-it:
+    name: Familiarizzati col disegno
+    description: 'Tutoriali per conoscere le diverse tecniche di disegno : perspective,
+      proporzione, l''uso della mattita...'
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/familiarizzati-col-disegno-it.zip
+    size: 710298537
+    sha256sum: bb50e550b3d166c88a56a84f0015f7f638b1ed6fb0a34e1c63a0da99831b2f43
+    type: zipped-medias
+  films-adavision-fr:
+    name: Films
+    description: "Tous les films sont en fran\xE7ais ou en langue \xE9trang\xE8re\
+      \ sous titr\xE9s fran\xE7ais.  Il y en a un petit nombre adapt\xE9 pour un public\
+      \ sourd ou malentendants."
+    language: fr
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/films-adavision-fr.zip
+    size: 11063041169
+    sha256sum: aa08eece36c5af8110ac528cdabb4e3a482ca8f1833c996d37b5ac582b3e6017
+    type: zipped-medias
