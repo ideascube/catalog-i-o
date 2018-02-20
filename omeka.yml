@@ -2373,3 +2373,14 @@ all:
     size: 710298537
     sha256sum: bb50e550b3d166c88a56a84f0015f7f638b1ed6fb0a34e1c63a0da99831b2f43
     type: zipped-medias
+  films-adavision-fr:
+    name: Films
+    description: "Tous les films sont en fran\xE7ais ou en langue \xE9trang\xE8re\
+      \ sous titr\xE9s fran\xE7ais.  Il y en a un petit nombre adapt\xE9 pour un public\
+      \ sourd ou malentendants."
+    language: fr
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/films-adavision-fr.zip
+    size: 11063041169
+    sha256sum: aa08eece36c5af8110ac528cdabb4e3a482ca8f1833c996d37b5ac582b3e6017
+    type: zipped-medias
