@@ -2289,3 +2289,12 @@ all:
     size: 71046622
     sha256sum: 9f79cea70c87c6aa0d34bf0db7d060db51bea99a2ebd844338c070281c40691e
     type: zipped-medias
+  pratica-un-po-di-sport-it:
+    name: Pratica un po di sport
+    description: "Esercizi e fondamentali per praticare alcune attivit\xE0"
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/pratica-un-po-di-sport-it.zip
+    size: 331224507
+    sha256sum: e55ea811a0c8400837862765bd9d55869e3ea207b7c386a06b7b05104133174c
+    type: zipped-medias
