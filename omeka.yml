@@ -2307,3 +2307,13 @@ all:
     size: 1027397455
     sha256sum: 869ca7a769a0c256c1b03718e4d1382fddd53de29b41ee2983b5c96d8f50b87f
     type: zipped-medias
+  iniziati-al-cinema-e-alla-realizzazione-di-video-it:
+    name: Iniziati al cinema e alla realizzazione di video
+    description: "Sceneggiaturra, planning, montaggio: tutto quello che c'\xE8 da\
+      \ sapere per  fare video come professionisti"
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/iniziati-al-cinema-e-alla-realizzazione-di-video-it.zip
+    size: 140037240
+    sha256sum: d15ca614e7ac975e33e1d8f19703aa1b69ccb84536fc5f1658bf166d1004cad2
+    type: zipped-medias
