@@ -2335,3 +2335,12 @@ all:
     size: 70120386
     sha256sum: c47c8bcecc2ebd584e7ccb12f44a18a407525d8bdd524cde5ea9e66203adc622
     type: zipped-medias
+  scopri-i-secreti-della-cucina-italiana-it:
+    name: Scopri i secreti della cucina italiana
+    description: Ricetti e documentari sulla cucina italiana
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/scopri-i-secreti-della-cucina-italiana-it.zip
+    size: 58543676
+    sha256sum: 8d0495e5972a98c910348a30112e60a020e3d64c68ac6cc3de4fa1ecdc98bf5e
+    type: zipped-medias
