@@ -2298,3 +2298,12 @@ all:
     size: 331224507
     sha256sum: e55ea811a0c8400837862765bd9d55869e3ea207b7c386a06b7b05104133174c
     type: zipped-medias
+  scopri-la-base-della-cultura-italiana-it:
+    name: Scopri la base della cultura italiana
+    description: Video e documentari che permettono di capire meglio l'Italia
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/scopri-la-base-della-cultura-italiana-it.zip
+    size: 1027397455
+    sha256sum: 869ca7a769a0c256c1b03718e4d1382fddd53de29b41ee2983b5c96d8f50b87f
+    type: zipped-medias
