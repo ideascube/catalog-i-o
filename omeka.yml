@@ -2363,3 +2363,13 @@ all:
     size: 42097685
     sha256sum: db1d846df1351f76558ab87407cd3a0aadb4a8be880f57038b4467c8c97eac40
     type: zipped-medias
+  familiarizzati-col-disegno-it:
+    name: Familiarizzati col disegno
+    description: 'Tutoriali per conoscere le diverse tecniche di disegno : perspective,
+      proporzione, l''uso della mattita...'
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/familiarizzati-col-disegno-it.zip
+    size: 710298537
+    sha256sum: bb50e550b3d166c88a56a84f0015f7f638b1ed6fb0a34e1c63a0da99831b2f43
+    type: zipped-medias
