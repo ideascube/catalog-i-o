@@ -2354,3 +2354,12 @@ all:
     size: 631102035
     sha256sum: 2931c48398474f5222c2e130a2ba1239b7d4304c9b5c6614873ea1a63cb6a807
     type: zipped-medias
+  informati-su-alcune-malattie-it:
+    name: informati su alcune malattie
+    description: Una serie di informazioni su certe malattie
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/informati-su-alcune-malattie-it.zip
+    size: 42097685
+    sha256sum: db1d846df1351f76558ab87407cd3a0aadb4a8be880f57038b4467c8c97eac40
+    type: zipped-medias
