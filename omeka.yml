@@ -1680,14 +1680,14 @@ all:
     size: 612682992
     sha256sum: 00e3f7f2a99c491183a398bfc9283fabfe9b95475b611db6be1c21a27e1c1aaf
     type: zipped-medias
-  hancraft-origami-en:
-    name: Hancraft - origami
+  handcraft-origami-en:
+    name: Handcraft - origami
     description: Learn to create and build things by yourself ! Learn the art of origami,
       which is all about folding a single sheet paper in order to create different
       shapes and forms.
     language: en
     version: '2017-10-19'
-    url: http://packages.ideascube.org/omeka/hancraft-origami-en.zip
+    url: http://packages.ideascube.org/omeka/handcraft-origami-en.zip
     size: 357101066
     sha256sum: fe9bb356dfc6aa309a4d7af9d588c2398b3b4159be360eb4892522fa59a7ff34
     type: zipped-medias
