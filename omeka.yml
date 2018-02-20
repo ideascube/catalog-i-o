@@ -2326,3 +2326,12 @@ all:
     size: 634237187
     sha256sum: e6aa6a65d69c9ae363f9cad5cc68718e1bde8898713a03bbd694d3e3b9f6bbc0
     type: zipped-medias
+  parti-a-la-scoperta-del-arte-italiana-it:
+    name: Parti a la scoperta del arte italiana
+    description: Correnti artistiche e grande figure della storia dell'arte italiana
+    language: it
+    version: '2018-02-20'
+    url: http://packages.ideascube.org/omeka/parti-a-la-scoperta-del-arte-italiana-it.zip
+    size: 70120386
+    sha256sum: c47c8bcecc2ebd584e7ccb12f44a18a407525d8bdd524cde5ea9e66203adc622
+    type: zipped-medias
