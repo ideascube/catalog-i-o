@@ -2,70 +2,70 @@ all:
   lesvos.map:
     name: Map of Lesvos Island
     version: "2016-03-04"
-    url: http://catalog.yohanboniface.me/lesvos.map.zip
+    url: http://packages.ideascube.org/osm/lesvos.map.zip
     sha256sum: 24bfdd58d0a2530cfcdfed034b5eeecff8f5145be98d9c77928778f9a709f701
     size: 196702162
     type: static-site
   athens.map:
     name: Map of Athens
     version: "2016-03-04.2"
-    url: http://catalog.yohanboniface.me/athens.map.zip
+    url: http://packages.ideascube.org/osm/athens.map.zip
     sha256sum: cc5e8c53d0d969668017a989e4d9521620df1aeef71f49f30f99cd958a5b95d8
     size: 287325597
     type: static-site
   world.map:
     name: World map
     version: "2016-03-04"
-    url: http://catalog.yohanboniface.me/world.map.zip
+    url: http://packages.ideascube.org/osm/world.map.zip
     sha256sum: c24f4e5242c6c918a6164898734764ee0c0f9e1a44418f252dc319ef6b1937ea
     size: 1782524904
     type: static-site
   iraq.map:
     name: Map of Iraq
     version: "2016-07-22"
-    url: http://catalog.yohanboniface.me/iraq.map.zip
+    url: http://packages.ideascube.org/osm/iraq.map.zip
     sha256sum: ed639f9fbe88630b56f7737ea69ecd458b747c5bfae5b4282aed160482860cda
     size: 3389887919
     type: static-site
   burundi.map:
     name: Map of Burundi
     version: "2016-03-30"
-    url: http://catalog.yohanboniface.me/burundi.map.zip
+    url: http://packages.ideascube.org/osm/burundi.map.zip
     sha256sum: 92b923172396726d806eacc66c5cd3f6d253fdc91349331830d565a960ac7801
     size: 1992614768
     type: static-site
   guinea.map:
     name: Map of Guinea
     version: "2016-04-11"
-    url: http://catalog.yohanboniface.me/guinea.map.zip
+    url: http://packages.ideascube.org/osm/guinea.map.zip
     sha256sum: f13dc0c5f22dbfceadade727a3d42564ae279b19a8b9f5259676c6913ff2140e
     size: 279767639
     type: static-site
   senegal.map:
     name: Map of Senegal
     version: "2016-04-14"
-    url: http://catalog.yohanboniface.me/senegal.map.zip
+    url: http://packages.ideascube.org/osm/senegal.map.zip
     sha256sum: 4c12a9382a7ac80a6a8a11e007ebe2c31c71791cf0b89dd25f348bce3edc43a5
     size: 533276214
     type: static-site
   lebanon.map:
     name: Map of Lebanon
     version: "2016-07-27"
-    url: http://catalog.yohanboniface.me/lebanon.map.zip
+    url: http://packages.ideascube.org/osm/lebanon.map.zip
     sha256sum: d8178f38579cb6285cdd974b8241d2c90379ff665bdc59aeecb11d91fd33dbc8
     size: 327518678
     type: static-site
   jordan.map:
     name: Map of Jordan
     version: "2016-09-01"
-    url: http://catalog.yohanboniface.me/jordan.map.zip
+    url: http://packages.ideascube.org/osm/jordan.map.zip
     sha256sum: 47f16d4c04fb3909e886688ad9a87b8766b444b5dbdff955f938740762635652
     size: 1558637274
     type: static-site
   syria.map:
     name: Map of Syria
     version: "2016-09-01"
-    url: http://catalog.yohanboniface.me/syria.map.zip
+    url: http://packages.ideascube.org/osm/syria.map.zip
     sha256sum: 7e37cd6bd6f932e863c67c68a19d1165469051ebc55244d0dccb48de6d55614d
     size: 1137247294
     type: static-site
@@ -73,7 +73,7 @@ all:
     name: Mapa de Colombia
     description: Map de Colombia
     version: "2016-10-22"
-    url: http://catalog.yohanboniface.me/colombia.map.zip
+    url: http://packages.ideascube.org/osm/colombia.map.zip
     sha256sum: 1bfa614ea405270d6909e0b4decd881ecf5d54c3f8dbe8f33401a443010bffae
     size: 814270486
     type: static-site
