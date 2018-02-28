@@ -91,6 +91,27 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/anatomie-feminine-fr.zip
     version: '2017-11-24'
+  apprendre-le-yoga-sikana-fr:
+    description: "\"Ce programme \xE9ducatif sur le yoga a pour objectif de motiver\
+      \ les d\xE9butants \xE0 apprendre et pratiquer une s\xE9lection de postures\
+      \ et de techniques de respiration diff\xE9rentes, qui peuvent vous aider \xE0\
+      \ mener une vie plus saine.\r\n\r\nLe yoga aide \xE0 renforcer le corps et le\
+      \ syst\xE8me immunitaire, am\xE9liore la souplesse, calme l'esprit, r\xE9duit\
+      \ le stress, aide \xE0 se concentrer, \xE0 avoir confiance en soi et apporte\
+      \ des sensations d'apaisement et de bien-\xEAtre.\r\nLes vid\xE9os de ce programme\
+      \ ont \xE9t\xE9 tourn\xE9es en Inde dans la r\xE9gion de Pondicherry, \xE0 Alamparai\
+      \ Fort, Gingee Fort, Chinna Veerampattinam Beach et dans des fermes. \r\nLes\
+      \ d\xE9cors, les experts en yoga et la musique traditionnelle Indienne, interpr\xE9\
+      t\xE9e par le joueur de sitar Shri Basab Sen, vous transporteront dans le monde\
+      \ du yoga, qui est un cadeau inestimable de la culture Indienne au reste du\
+      \ monde.\""
+    language: fr
+    name: '"Apprendre le yoga"'
+    sha256sum: f41f7afa8553ea0b539aeb2853c10a0be0abfe9b7f5fba91263fab9fe14a0a73
+    size: 793916091
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprendre-le-yoga-sikana-fr.zip
+    version: '2018-02-28'
   apprends-le-francais-a1-enfants-adolescents-fr:
     description: "Pars \xE0 la d\xE9couverte de la langue fran\xE7aise, en image !"
     language: fr
@@ -315,14 +336,14 @@ all:
     url: http://packages.ideascube.org/omeka/biologie-enfants-ados-fr.zip
     version: '2017-10-16'
   biologie-enfants-fr:
-    description: "Pars \xE0 la d\xE9couverte du corps humain !"
+    description: "\"Pars \xE0 la d\xE9couverte du corps humain !\""
     language: fr
-    name: Biologie (enfants)
-    sha256sum: b56cb668cf0050cf160a6f97218b79409946aa7527a83164c4e3834a8c0baa01
-    size: 2987698193
+    name: '"Biologie [Enfants]"'
+    sha256sum: f50c7f3a665cd64ec989caad3a5ff30441fed04d4e21a662f0c01ec83c867c3d
+    size: 2987698098
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/biologie-enfants-fr.zip
-    version: '2017-01-04'
+    version: '2018-02-28'
   biology-ar:
     description: "\"Learn general information about Biology.// \u062A\u0639\u0644\u0645\
       \ \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u0639\u0627\u0645\u0629 \u0639\
@@ -1021,6 +1042,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/filles-garcons-quelle-place-pour-qui-fr.zip
     version: '2017-11-24'
+  films-et-videos-libres-de-droit-fr:
+    description: "\"A regarder ! De tous genre et pour tous les \xE2ges!\""
+    language: fr
+    name: "\"Films et vid\xE9os - libres de droit\""
+    sha256sum: 5b695157b83bc3258c86559689192eb17243c29314f1b1dc94ac5b59ea89de02
+    size: 7395483503
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/films-et-videos-libres-de-droit-fr.zip
+    version: '2018-02-28'
   films-fr:
     description: "Une com\xE9die ? Un drame ? Un policier ? D\xE9couvrez ou red\xE9\
       couvrez ici quelques films muets ou en fran\xE7ais."
@@ -1229,15 +1259,15 @@ all:
     url: http://packages.ideascube.org/omeka/hygiene-afrique-fr.zip
     version: '2017-06-26'
   hygiene-de-base-fr:
-    description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
-      ne et \xE9viter les maladies !"
+    description: "\"Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
+      ne et \xE9viter les maladies !\""
     language: fr
-    name: "Hygi\xE8ne de base"
-    sha256sum: e0e1276dfe798e7b11e2c076ba990252c3f3b2e453de85b8d0f5f73ba5c26e75
-    size: 88452402
+    name: "\"Hygi\xE8ne de base\""
+    sha256sum: b81ce2112c4124d1d74e3c51e493a23860007fd039efbb1a0dce84c9e3a1dd00
+    size: 88452377
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/hygiene-de-base-fr.zip
-    version: '2017-06-23'
+    version: '2018-02-28'
   hygiene-enfants-ados-fr:
     description: "Pourquoi il faut se laver, le corps, les mains, les dents ? Pour\
       \ rester en bonne sant\xE9, et pour que ceux autour de nous le reste aussi !\
@@ -1494,16 +1524,16 @@ all:
     url: http://packages.ideascube.org/omeka/introduction-to-the-history-of-the-world-en.zip
     version: '2017-06-01'
   jardinage-et-agriculture-fr:
-    description: "D\xE9couvrez ou approfondissez vos connaissances en m\xE9thodes\
+    description: "\"D\xE9couvrez ou approfondissez vos connaissances en m\xE9thodes\
       \ de culture, d'irrigation, de fertilisation... Pour vous lancer dans le jardinage\
-      \ \xE0 petite ou moyenne \xE9chelle."
+      \ \xE0 petite ou moyenne \xE9chelle.\""
     language: fr
-    name: Jardinage et agriculture
-    sha256sum: f9c53d827dd741885b78fbdc807a09378840413e3d8836e309fed9032249acc4
-    size: 942013540
+    name: '"Jardinage et agriculture"'
+    sha256sum: 9433176f37856d8c0af414915834cad67fa9e77852ba91539eb803595b842a93
+    size: 942013419
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/jardinage-et-agriculture-fr.zip
-    version: '2017-06-26'
+    version: '2018-02-28'
   journalism-ar:
     description: "\"Learn about journalism and freedom of speech./ \u062A\u0639\u0644\
       \u0645 \u0639\u0646 \u0627\u0644\u0635\u062D\u0627\u0641\u0629 \u0648\u062D\u0631\
@@ -1612,14 +1642,14 @@ all:
     url: http://packages.ideascube.org/omeka/learn-english-adults-en.zip
     version: '2017-09-25'
   learn-english-teenagers-en:
-    description: Apprends les bases de l'anglais en t'amusant !
+    description: '"Learn basics in english language to communicate with others !"'
     language: en
-    name: Learn english ! (teenagers)
-    sha256sum: b319ec5ea255aab9c1b472019973890f3e73ca5c7b6da2037574da78f750314c
+    name: '"Learn english ! (teenagers)"'
+    sha256sum: bb62e23bfc12b57ac90b2ecb5980352efadc6278c09dfe059766b030e8f757f9
     size: 305686403
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-teenagers-en.zip
-    version: '2017-01-04'
+    version: '2018-02-28'
   learn-greek-el:
     description: Learn to speak and write in greek language, to understand information
       and communicate with people in Greece.
@@ -1922,6 +1952,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/musique-en-arabe-ar.zip
     version: '2017-08-30'
+  musique-libres-de-droit-en:
+    description: "\"Musiques libres de droit! \r\nA \xE9couter encore et encore dans\
+      \ toutes les langues.\""
+    language: en
+    name: '"Musiques libres de droit"'
+    sha256sum: 1b724d0b25c9f48e761975c362195ee749e9cd7c48d9e61e4c9bc77766e195c0
+    size: 1115883753
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/musique-libres-de-droit-en.zip
+    version: '2018-02-28'
   musiques-du-monde-rfi-fr:
     description: "\"\xC9mission RFI : \"Musiques du monde\"\""
     language: fr
@@ -2076,16 +2116,16 @@ all:
     url: http://packages.ideascube.org/omeka/premiers-secours-enfants-adolescents-fr.zip
     version: '2017-11-24'
   prends-soin-de-toi-enfants-ado-fr:
-    description: "Chacun a de belles choses \xE0 dire et \xE0 montrer aux autres,\
+    description: "\"Chacun a de belles choses \xE0 dire et \xE0 montrer aux autres,\
       \ il faut apprendre \xE0 les voir et \xE0 les aimer pour se sentir bien avec\
-      \ soi et avec ceux qui nous entourent !"
+      \ soi et avec ceux qui nous entourent !\""
     language: fr
-    name: Prends soin de toi ! [Enfants/Ado]
-    sha256sum: e247366d512c05fba4fd72bc6a2c8a2b5dbc0216c8fb4e772079a61ead8414e2
+    name: '"Prends soin de toi ! [Enfants/Ado]"'
+    sha256sum: 31783492159fcd24d0a6309792e6029437cc9c262a62f3a4aa125d999fefafcf
     size: 1172094565
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/prends-soin-de-toi-enfants-ado-fr.zip
-    version: '2017-01-04'
+    version: '2018-02-28'
   prevention-addictions-fr:
     description: Mieux comprendre les effets de l'alcool sur nos comportements, et
       leurs origines.
@@ -2185,15 +2225,15 @@ all:
     url: http://packages.ideascube.org/omeka/rfi-savoir-inde.zip
     version: '2017-03-16'
   risques-auditifs-fr:
-    description: "Comprendre ce qu'est le bruit, les gestes \xE0 adopter pour pr\xE9\
-      server son audition"
+    description: "\"Comprendre ce qu'est le bruit, les gestes \xE0 adopter pour pr\xE9\
+      server son audition\""
     language: fr
-    name: Risques auditifs
-    sha256sum: 6365f1f686c1cb56976754e49ac5c0d3413a8bf01d78c4ce47af76c90ed87ccf
-    size: 199399826
+    name: '"Risques auditifs"'
+    sha256sum: 1cb8332d6cd91eadd09464035bf7d9bba12cf2bc39f4b4720e12c08293232141
+    size: 199399821
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/risques-auditifs-fr.zip
-    version: '2017-11-24'
+    version: '2018-02-28'
   risques-numeriques-fr:
     description: "Des contenus pour identifier les usages et les risques en lien avec\
       \ le num\xE9rique"
