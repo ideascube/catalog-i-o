@@ -1014,3 +1014,13 @@ all:
     size: 229300909
     sha256sum: "186cb9b4ac3cb7e705c359dc9cf9d983e8993875f8b6f0ccd3116120f9ea27d4"
     type: zipped-zim
+  wiktioonary.ln:
+    name: "Wiktionary"
+    description: "Útá Wiktionary."
+    version: "2016-08-24"
+    language: "lin"
+    id: "31b0e346-9ef4-a34d-1b85-37e65f157122"
+    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ln_all_2016-08.zip"
+    size: 198013082
+    sha256sum: "92e891142a75f05c381ecd7846b40e2e64e94c47a5658986eff08940ea4f695a"
+    type: zipped-zim
