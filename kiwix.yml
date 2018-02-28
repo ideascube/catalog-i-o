@@ -1014,7 +1014,7 @@ all:
     size: 229300909
     sha256sum: "186cb9b4ac3cb7e705c359dc9cf9d983e8993875f8b6f0ccd3116120f9ea27d4"
     type: zipped-zim
-  wiktioonary.ln:
+  wiktionary.ln:
     name: "Wiktionary"
     description: "Útá Wiktionary."
     version: "2016-08-24"
