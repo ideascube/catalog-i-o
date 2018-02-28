@@ -1,4 +1,13 @@
 all:
+  7-milliards-de-voisins-rfi-fr:
+    description: "\"\xC9mission RFI : \"7 Milliards de voisins\"\""
+    language: fr
+    name: "\"Soci\xE9t\xE9\""
+    sha256sum: cdc89e69b2a09dee00f1031af9ab58b0b3bcc2aa9be3c23859d942ab64d4af6b
+    size: 769521807
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/7-milliards-de-voisins-rfi-fr.zip
+    version: '2018-02-28'
   about-drugs-and-addiction-fa:
     description: Health - talk about drugs in farsi language.
     language: fa
@@ -343,6 +352,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/business-management-ar.zip
     version: '2018-02-23'
+  c-est-pas-du-vent-rfi-fr:
+    description: "\"\xC9mission RFI : \"C'est pas du vent\"\""
+    language: fr
+    name: '"Environnement"'
+    sha256sum: 4c69b9171961bc80cd4a4e05f60ac12ac930a9897e4df48373ccf1792d7889ce
+    size: 1238762635
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/c-est-pas-du-vent-rfi-fr.zip
+    version: '2018-02-28'
   carpentry-en:
     description: You want to learn or discover carpentry ? Beginner or professional,
       you will find everything you are looking for here !
@@ -440,24 +458,24 @@ all:
     url: http://packages.ideascube.org/omeka/classical-music-en.zip
     version: '2018-02-23'
   combattons-les-discriminations-fr:
-    description: "Handicap, genre, couleurs de peau, religion... La discrimination\
-      \ peut porter sur des tas de choses. D\xE9tectons les, et combattons les."
+    description: "\"Handicap, genre, couleurs de peau, religion... La discrimination\
+      \ peut porter sur des tas de choses. D\xE9tectons les, et combattons les.\""
     language: fr
-    name: Combattons les discriminations
-    sha256sum: d9cd1d116cf128d3873cd4445655ca263c398454e948c739b409889ae9c8de0d
-    size: 1552598740
+    name: '"Combattons les discriminations"'
+    sha256sum: 40d99a5651d52ee6e2257f077f489a9fa880e3f83419d3299ab88cb6b0e61c32
+    size: 1537449963
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/combattons-les-discriminations-fr.zip
-    version: '2018-01-18'
+    version: '2018-02-28'
   comment-faire-face-a-la-violence-et-aux-conflits-enfants-ados-fr:
-    description: La paix, comment on fait ?
+    description: '"La paix, comment on fait ?"'
     language: fr
-    name: "Comment faire face \xE0 la violence et aux conflits ?[Enfants/Ados]"
-    sha256sum: 4f7a3a1611e221673f59c0c04bcdbdbb2e126fe814d6026c19d448ace9d9fd44
-    size: 34617278
+    name: "\"Comment faire face \xE0 la violence et aux conflits ?[Enfants/Ados]\""
+    sha256sum: f6d7c92addbdd744b1fb958362c30dc13dd88df6a8a9b9dfce7511a29e46427d
+    size: 34617274
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comment-faire-face-a-la-violence-et-aux-conflits-enfants-ados-fr.zip
-    version: '2017-01-04'
+    version: '2018-02-28'
   comprendre-et-exprimer-ses-emotions-fr:
     description: "D\xE9tendez-vous. Respirez. Accueillez vos \xE9motions. Exprimez\
       \ vos besoins. Vous serez mieux avec vous m\xEAme et avec les autres !"
@@ -523,16 +541,16 @@ all:
     url: http://packages.ideascube.org/omeka/cooking-ar.zip
     version: '2017-10-17'
   creation-audio-fr:
-    description: "Vous voulez monter une radio ? Apprendre \xE0 monter de petits reportages\
-      \ sonores ? L'audio est un excellent moyen pour raconter des histoires ou faire\
-      \ passer des messages."
+    description: "\"Vous voulez monter une radio ? Apprendre \xE0 monter de petits\
+      \ reportages sonores ? L'audio est un excellent moyen pour raconter des histoires\
+      \ ou faire passer des messages.\""
     language: fr
-    name: "Cr\xE9ation audio"
-    sha256sum: 6d0ad2fcdd145d325f1feb8887ec37f9b6a3e3d1e73d9484d9a94c990554d184
-    size: 31836225
+    name: "\"Cr\xE9ation audio\""
+    sha256sum: c4315192edcdd8c90d1a13cad1eef118f87464ce5d316391eb7b168db1d2d782
+    size: 31851899
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creation-audio-fr.zip
-    version: '2017-01-04'
+    version: '2018-02-28'
   creation-d-association-fr:
     description: "Quelques \xE9lements-cl\xE9s pour comprendre et cr\xE9er une association,\
       \ en France ou au Burundi !"
@@ -583,6 +601,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cuisine-pl.zip
     version: '2017-04-14'
+  danse-des-mots-rfi-fr:
+    description: "\"\xC9mission RFI : \"Danse des mots\"\""
+    language: fr
+    name: "\"Mise en sc\xE8ne du langage\""
+    sha256sum: f9a2be4dcf1a2b0a4e4a97234df359ba0d4d103d7db9a52cc5c3467aebdc31ea
+    size: 190866718
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/danse-des-mots-rfi-fr.zip
+    version: '2018-02-28'
   decouvrez-de-nouvelles-musiques-fr:
     description: "Pour d\xE9couvrir de nouveaux styles musicaux ou \xE9couter quelques\
       \ morceaux !"
@@ -622,6 +649,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/decouvrez-ou-re-decouvrez-la-cuisine-de-differents-pays.zip
     version: '2017-09-29'
+  decouvrez-ou-re-decouvrez-la-cuisine-de-differents-pays-fr:
+    description: '"Qu''est ce que nous mangeons ? Qu''est ce que les autres mangent
+      ?"'
+    language: fr
+    name: "\"D\xE9couvrez ou re-d\xE9couvrez la cuisine de diff\xE9rents pays\""
+    sha256sum: d4c03a4ba71ed6e4de6a863ebdfaf0329a562951cd20ab458ff008e015308f20
+    size: 2498592601
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/decouvrez-ou-re-decouvrez-la-cuisine-de-differents-pays-fr.zip
+    version: '2018-02-28'
   decouvrez-ou-redecouvrez-l-histoire-de-france-fr:
     description: "... Et \xE9clairez le pr\xE9sent \xE0 la lumi\xE8re du pass\xE9\
       \ !"
@@ -633,15 +670,15 @@ all:
     url: http://packages.ideascube.org/omeka/decouvrez-ou-redecouvrez-l-histoire-de-france-fr.zip
     version: '2017-09-29'
   decouvrir-et-pratiquer-la-riziculture-fr:
-    description: Apprenez les techniques de base pour la riziculture intensive et
-      quelques notions d'agriculture bio.
+    description: '"Apprenez les techniques de base pour la riziculture intensive et
+      quelques notions d''agriculture bio."'
     language: fr
-    name: "D\xE9couvrir et pratiquer la riziculture"
-    sha256sum: ba91ef88227e59cf3d3a4b5a6057e274b2b1f03d5d7178b557e6ef042534b3cb
+    name: "\"D\xE9couvrir et pratiquer la riziculture\""
+    sha256sum: 6674b4580a392284e35bb968447eecaa401ae4b696c0016c6968b256c0841890
     size: 458363152
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/decouvrir-et-pratiquer-la-riziculture-fr.zip
-    version: '2017-10-27'
+    version: '2018-02-28'
   dessin-et-origami-fr:
     description: "D\xE9tendez-vous, cr\xE9ez, exprimez-vous ! Il y a un artiste dans\
       \ chacun, \xE0 vous de le r\xE9v\xE9ler..."
@@ -652,6 +689,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/dessin-et-origami-fr.zip
     version: '2017-04-10'
+  dessins-animes-pour-enfants-sw:
+    description: '"----"'
+    language: sw
+    name: '"----"'
+    sha256sum: 7b3a6aeda2db8a8581be5d0ef4e023e933522c2718f26ee4ecdae287edbd6b8b
+    size: 1037284881
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/dessins-animes-pour-enfants-sw.zip
+    version: '2018-02-28'
   discriminations-enfants-ados-fr:
     description: "On est tous diff\xE9rents, mais tous des \xEAtres humains ! Pour\
       \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
@@ -705,6 +751,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/diy-handcrafts-ar.zip
     version: '2017-10-17'
+  documents-methodologiques-rfi-fr:
+    description: "\"Documents m\xE9thodologiques\""
+    language: fr
+    name: '"Guides et conseils pour les radios"'
+    sha256sum: a561b18ac418dfa8ac24c637f09e4876dea75a203e089609c5053a63d2ad765b
+    size: 53037953
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/documents-methodologiques-rfi-fr.zip
+    version: '2018-02-28'
   drawing-colouring-en:
     description: Learn how to draw, colour, make graffiti, become an artist !
     language: en
@@ -754,6 +809,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ebooks-enfants-fr.zip
     version: '2018-01-18'
+  eco-d-ici-eco-d-ailleurs-rfi-fr:
+    description: "\"\xC9mission RFI : \"Eco d'ici \xE9co d'ailleurs\"\""
+    language: fr
+    name: '"Economie"'
+    sha256sum: 7528c7cac15f35f25aaf53302ba5ea09ad1d9ebd8e60770e1d8d760ff168b216
+    size: 242929433
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/eco-d-ici-eco-d-ailleurs-rfi-fr.zip
+    version: '2018-02-28'
   economie-et-developpement-durable:
     description: "Comment allier protection de l'environnement et d\xE9veloppement\
       \ \xE9conomique ? Quels sont les impacts des mod\xE8les \xE9conomiques actuels\
@@ -767,6 +831,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/economie-et-developpement-durable.zip
     version: '2017-07-03'
+  economie-et-developpement-durable-fr:
+    description: "\"Comment allier protection de l'environnement et d\xE9veloppement\
+      \ \xE9conomique ? Quels sont les impacts des mod\xE8les \xE9conomiques actuels\
+      \ sur l'environnement ? Qu'est-ce que le d\xE9veloppement durable, et quels\
+      \ sont les possibilit\xE9s de mise en oeuvre d'une croissance soucieuse de l'environnement\
+      \ ?\""
+    language: fr
+    name: "\"Economie et d\xE9veloppement durable\""
+    sha256sum: fee52393ef985bb7d46c19a9f11ca456b1f2bad5717743a5028a94cde8e82f8b
+    size: 127893807
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/economie-et-developpement-durable-fr.zip
+    version: '2018-02-28'
   economie-et-mondialisation:
     description: "Cette collection comprend des vid\xE9os, des MOOC et des articles\
       \ de recherche sur les enjeux modernes de la macro\xE9conomie. Le MOOC sur la\
@@ -781,16 +858,30 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/economie-et-mondialisation.zip
     version: '2017-07-03'
-  economie-fr:
-    description: "Des vid\xE9os ludiques pour comprendre les grands concepts \xE9\
-      conomiques : march\xE9, actions, obligations, dividendes ... etc."
+  economie-et-mondialisation-fr:
+    description: "\"Cette collection comprend des vid\xE9os, des MOOC et des articles\
+      \ de recherche sur les enjeux modernes de la macro\xE9conomie. Le MOOC sur la\
+      \ mondialisation, cr\xE9\xE9 par Sciences Po, traite notamment des enjeux internationaux\
+      \ de la macro\xE9onomie, \xE0 travers une approche pluridisciplinaire qui m\xEA\
+      le droit, histoire, \xE9conomie, anthropologie, sciences politiques et g\xE9\
+      ographie.\""
     language: fr
-    name: Economie
-    sha256sum: 806effbfa86d941147788c2957dc04902fb9f47a6520a559666e8cac336470dd
-    size: 830588026
+    name: '"Economie et mondialisation"'
+    sha256sum: 0d5e2f8e18191a93f760f074a2f89c92ddc2f572cd52cbbab5ea44b0fb563e08
+    size: 877314463
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/economie-et-mondialisation-fr.zip
+    version: '2018-02-28'
+  economie-fr:
+    description: "\"Des vid\xE9os ludiques pour comprendre les grands concepts \xE9\
+      conomiques : march\xE9, actions, obligations, dividendes ... etc.\""
+    language: fr
+    name: '"Economie"'
+    sha256sum: 113d76a19efa81a1a281825ef7376cccdb55e728077b035dc6d4272f703f186d
+    size: 830587844
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/economie-fr.zip
-    version: '2017-10-27'
+    version: '2018-02-28'
   economy-ar:
     description: "\"Learn about the history of economy and other definitions./ \u0627\
       \u0639\u0631\u0641 \u0627\u0643\u062B\u0631 \u0639\u0646 \u062A\u0627\u0631\u064A\
@@ -814,15 +905,15 @@ all:
     url: http://packages.ideascube.org/omeka/ecoute-tes-emotions-enfants-ados-fr.zip
     version: '2018-01-18'
   ecriture-et-litterature-fr:
-    description: "Vous avez toujours r\xEAv\xE9 de devenir \xE9crivain ? C'est le\
-      \ moment de vous lancer !"
+    description: "\"Vous avez toujours r\xEAv\xE9 de devenir \xE9crivain ? C'est le\
+      \ moment de vous lancer !\""
     language: fr
-    name: "Ecriture et litt\xE9rature"
-    sha256sum: d5b84934ccf22fb04eacdee8c9d9dfff86a31c7ad7ef819125aa2b3d03189066
+    name: "\"Ecriture et litt\xE9rature\""
+    sha256sum: 5965d9259c5684f6c18f95bb888ddb4097160cbb8ed686f882a6b126ec4a9451
     size: 464557697
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ecriture-et-litterature-fr.zip
-    version: '2017-01-04'
+    version: '2018-02-28'
   english-for-adults-ar:
     description: "\"Learn English through these easy to follow videos. \u062A\u0639\
       \u0644\u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\u0646\u062C\u0644\
@@ -999,15 +1090,15 @@ all:
     url: http://packages.ideascube.org/omeka/geographie-afrique-de-l-est-fr.zip
     version: '2017-05-23'
   geographie-afrique-fr:
-    description: 'Focus sur l''Afrique: quels pays, quels villes, quels contexte,
-      quels enjeux ?'
+    description: '"Focus sur l''Afrique: quels pays, quels villes, quels contexte,
+      quels enjeux ?"'
     language: fr
-    name: "G\xE9ographie (Afrique)"
-    sha256sum: 3b80d3761b89a6cc37b484586ced2dd3668c9eefa90d8ad2017841e52c8cc433
-    size: 930097498
+    name: "\"G\xE9ographie (Afrique)\""
+    sha256sum: 706cdb26a6ad2dbace0b182f72ace7f621827cc819fcddd922be0a72ccfaad56
+    size: 930097374
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/geographie-afrique-fr.zip
-    version: '2017-10-27'
+    version: '2018-02-28'
   german-for-arabic-and-persian-speakers:
     description: "Lean German, \u06CC\u0627\u062F\u06AF\u06CC\u0631\u06CC \u0622\u0644\
       \u0645\u0627\u0646\u06CC, \u062A\u0639\u0644\u0645 \u0627\u0644\u0627\u0644\u0645\
@@ -1109,15 +1200,15 @@ all:
     url: http://packages.ideascube.org/omeka/health-and-hygiene-en.zip
     version: '2017-10-19'
   histoire-afrique-fr:
-    description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
-      \ les \xE9v\xE8nements du pr\xE9sent."
+    description: "\"Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
+      \ les \xE9v\xE8nements du pr\xE9sent.\""
     language: fr
-    name: Histoire (Afrique)
-    sha256sum: 3df342b925a5995ffe5224ccc536e6baae11259f4aa3dae81f9222eac833a17f
-    size: 1354259621
+    name: '"Histoire (Afrique)"'
+    sha256sum: b283a5ea71130f2cf8df5675ba937e74058dc27ecccff196c053f2246dc88934
+    size: 1354259602
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-afrique-fr.zip
-    version: '2017-10-27'
+    version: '2018-02-28'
   histoire-occidentale-fr:
     description: Connaitre l'histoire et la culture occidentale
     language: fr
@@ -1339,18 +1430,18 @@ all:
     url: http://packages.ideascube.org/omeka/introduction-to-human-rights-for-children-en.zip
     version: '2017-09-25'
   introduction-to-journalism-en:
-    description: You are interested in journalism? Or just curious about what a journalist's
-      everyday life looks like? Learn about the challenges and highlights of a journalistic
-      career with this selection of videos and tutorials. This package of contents
-      will provide you with tips and advices to become a rigorous reporter, as well
-      as help you uncover the different facets of journalism.
+    description: '"You are interested in journalism? Or just curious about what a
+      journalist''s everyday life looks like? Learn about the challenges and highlights
+      of a journalistic career with this selection of videos and tutorials. This package
+      of contents will provide you with tips and advices to become a rigorous reporter,
+      as well as help you uncover the different facets of journalism."'
     language: en
-    name: Introduction to journalism
-    sha256sum: 0c36a175aa435f003eb9bc85fd796466bb52453c41d0fad8f2c14751689bbdbe
-    size: 742424213
+    name: '"Introduction to journalism"'
+    sha256sum: b7f11cc909a777fa1a2934f5ef936cb6d8a8d3afca1176df93dcabc1858063dc
+    size: 742424098
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-journalism-en.zip
-    version: '2017-06-01'
+    version: '2018-02-28'
   introduction-to-philosophy-en:
     description: You want to enrich your knowledge in philosophy? You will find very
       interesting resumes here !
@@ -1455,6 +1546,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/kurdish-dramas-tv-shows-ckb.zip
     version: '2017-08-23'
+  l-afrique-en-marche-rfi-fr:
+    description: '"Emission RFI : l''Afrique en Marche"'
+    language: fr
+    name: "\"Actualit\xE9s Afrique\""
+    sha256sum: 965eb56255e7a0eb51c882215e71821ceb951130c2f4a7935bd222bca43e7a8e
+    size: 64703015
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/l-afrique-en-marche-rfi-fr.zip
+    version: '2018-02-28'
   l-oeil-et-la-vision-fr:
     description: "Comment voit-on ? Comment l'oeil envoie-t-il de l'information au\
       \ cerveau et comment cette information est-elle ensuite trait\xE9e ? Vous trouverez\
@@ -1466,6 +1566,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/l-oeil-et-la-vision-fr.zip
     version: '2018-01-18'
+  la-marche-du-monde-rfi-fr:
+    description: '"Emission RFI : "La Marche du monde""'
+    language: fr
+    name: "\"Histoire de nos soci\xE9t\xE9s contemporaines\""
+    sha256sum: 3e9e45e97e6d17c7af2df5eb064a0c58a62dc0ffd528d7583cac6412c25f81f7
+    size: 529977791
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/la-marche-du-monde-rfi-fr.zip
+    version: '2018-02-28'
   la-sante-enfants-ado-fr:
     description: "Des informations autour de la sant\xE9"
     language: fr
@@ -1475,6 +1584,24 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-enfants-ado-fr.zip
     version: '2017-11-24'
+  le-talisman-brise-ln-rfi-ln:
+    description: "\"Du lingala au fran\xE7ais avec \"Le Talisman bris\xE9\"\""
+    language: ln
+    name: "\"Lok\xF3ta la ek\xF3lo Fransa\""
+    sha256sum: 3f77925a6113492ab424bf6e813ae5643b0c221378882c40022efeb5e6129e80
+    size: 199868965
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/le-talisman-brise-ln-rfi-ln.zip
+    version: '2018-02-28'
+  le-talisman-brise-sw-rfi-sw:
+    description: "\"Du swahili au fran\xE7ais avec \"Le Talisman bris\xE9\"\""
+    language: sw
+    name: '"Kujifunza fifaransa"'
+    sha256sum: 358e3c150ac8bd6b4ac131dde781cff90d1056f8ec773c26cd60ef01e6a9d796
+    size: 192741369
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/le-talisman-brise-sw-rfi-sw.zip
+    version: '2018-02-28'
   learn-english-adults-en:
     description: You want to practise your english ? This package is for you !
     language: en
@@ -1692,6 +1819,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mathematics-ar.zip
     version: '2017-10-17'
+  memoire-d-un-continent-rfi-fr:
+    description: "\"\xC9mission RFI : \"M\xE9moire d'un continent\"\""
+    language: fr
+    name: '"Patrimoine"'
+    sha256sum: aebaee0f748332c81fba44301fd2751f7e7de8936d0bf89bbff1faf9aeabae9f
+    size: 299692541
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/memoire-d-un-continent-rfi-fr.zip
+    version: '2018-02-28'
   microbiologie-et-prevention-sante:
     description: "Qu'est-ce qu'un microbe ? Sont-ils tous nocifs pour l'homme ? Vous\
       \ trouverez ici \xE0 la fois des vid\xE9os sur la microbiologie et les avanc\xE9\
@@ -1786,6 +1922,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/musique-en-arabe-ar.zip
     version: '2017-08-30'
+  musiques-du-monde-rfi-fr:
+    description: "\"\xC9mission RFI : \"Musiques du monde\"\""
+    language: fr
+    name: '"Musique"'
+    sha256sum: 8302617b0771f4de376ea2c8e3452e1a80c0a0007a2f1e0bffdddba0fedcbae0
+    size: 492560949
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/musiques-du-monde-rfi-fr.zip
+    version: '2018-02-28'
   nature-enfants-ados-fr:
     description: "Qui sont les \xEAtres vivants qui nous entourent ? O\xF9 vivent-ils\
       \ ? Que mangent-ils ? Comment vivons nous ensemble ?"
@@ -1961,16 +2106,25 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/prevention-et-sexualite-fr.zip
     version: '2018-01-18'
-  protege-la-planete-enfants-ados-fr:
-    description: "Pourquoi c'est important de prot\xE9ger la plan\xE8te ? Que peux-tu\
-      \ faire pour la prot\xE9ger, toi aussi ?"
+  priorite-sante-rfi-fr:
+    description: "\"\xC9mission RFI : \"Priorit\xE9 Sant\xE9\"\""
     language: fr
-    name: "Prot\xE8ge la plan\xE8te ! [Enfants/Ados]"
-    sha256sum: 6c0d03edf92f9e0147409a80e7a2bb1b0f3d04c08b3e60cc69b2087298468603
+    name: "\"Sant\xE9\""
+    sha256sum: ee87180e18fffc0fe3a35bc32b4169b19052ee0211b6e09963d360fac7bc0c49
+    size: 1501711650
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/priorite-sante-rfi-fr.zip
+    version: '2018-02-28'
+  protege-la-planete-enfants-ados-fr:
+    description: "\"Pourquoi c'est important de prot\xE9ger la plan\xE8te ? Que peux-tu\
+      \ faire pour la prot\xE9ger, toi aussi ?\""
+    language: fr
+    name: "\"Prot\xE8ge la plan\xE8te ! [Enfants/Ados]\""
+    sha256sum: 2429c7a8a4d14c8ee31c880669c4dbd75fb3bd042c5765721b6d65caee8be683
     size: 1885979009
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/protege-la-planete-enfants-ados-fr.zip
-    version: '2017-01-04'
+    version: '2018-02-28'
   recherche-demploi-fr:
     description: "Vous cherchez un emploi ? Vous trouverez ici de quoi vous aider\
       \ \xE0 pr\xE9parer candidature et entretien d'embauche."
@@ -2051,16 +2205,16 @@ all:
     url: http://packages.ideascube.org/omeka/risques-numeriques-fr.zip
     version: '2017-11-24'
   sante-fr:
-    description: "Un petit kit pour avoir les bons r\xE9flexes de premiers secours\
+    description: "\"Un petit kit pour avoir les bons r\xE9flexes de premiers secours\
       \ et savoir pr\xE9venir les maladies et infections... Pour soi, et pour les\
-      \ autres !"
+      \ autres !\""
     language: fr
-    name: "Sant\xE9"
-    sha256sum: 827c87887e8edd62e63254d72436b050e1f28d7f1c8521afe0b19dd3d28956b1
-    size: 285822529
+    name: "\"Sant\xE9\""
+    sha256sum: 0f22e1e5c57b4fc4b2e543d54ae3a6d27bb1696c367525007f3c53a2d5f279cf
+    size: 285822490
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sante-fr.zip
-    version: '2017-10-27'
+    version: '2018-02-28'
   se-preparer-a-une-catastrophe-fr:
     description: "En 10 ans, le nombre de catastrophes naturelles li\xE9es au r\xE9\
       chauffement climatique a augment\xE9 de 60%. 1 personne sur deux est susceptible\
@@ -2110,6 +2264,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sexualite-fr.zip
     version: '2017-09-29'
+  si-loin-si-proche-rfi-fr:
+    description: "\"Reportages qui explorent les facettes de la plan\xE8te avec l\u2019\
+      \u0153il et la sensibilit\xE9 d'un voyageur curieux, \xE9mission \"Si loin si\
+      \ proche\" de RFI\""
+    language: fr
+    name: '"Reportages et carnets de voyage"'
+    sha256sum: 5aed22aadc99eb06267e0da48a1b523e2d9c27cfa0b88e23f484fd7f153d1867
+    size: 1082033140
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/si-loin-si-proche-rfi-fr.zip
+    version: '2018-02-28'
   sociologie-du-travail-fr:
     description: "Des articles universitaires issues d'une revue sp\xE9cialis\xE9\
       e dans la sociologie du travail."
@@ -2313,17 +2478,17 @@ all:
     url: http://packages.ideascube.org/omeka/women-empowerment-ar.zip
     version: '2018-02-23'
   women-in-african-history-en:
-    description: 'This series highlights some of the contributions of key women figures
+    description: '"This series highlights some of the contributions of key women figures
       to the history of Africa. This list is far from exhaustive but will walk the
       reader through major events of the African continent, in which these historical
-      female characters have played a key role: from politics to environmental protection.'
+      female characters have played a key role: from politics to environmental protection."'
     language: en
-    name: Women in African History
-    sha256sum: 875ec2e890e46c4574b01b1fb974cee885f8a16b6faa2c5102cbd7f0671dda16
-    size: 55892168
+    name: '"Women in African History"'
+    sha256sum: 3dcbbe72bcd4a2f459a67cfeb1f9c37b9928cde6f1d282d77e808e04cafa66e6
+    size: 55892162
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/women-in-african-history-en.zip
-    version: '2017-06-26'
+    version: '2018-02-28'
   woodcrafts-for-kids-en:
     description: This package contains woodcrafts activities for children to create
       toys!
