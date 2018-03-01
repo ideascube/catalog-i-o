@@ -830,6 +830,28 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ebooks-enfants-fr.zip
     version: '2018-01-18'
+  eclairage-et-raccordements-sikana-fr:
+    description: "\"Avec nos vid\xE9os \xE9ducatives du programme \xAB \xC9lectricit\xE9\
+      \ pour tous \xBB, d\xE9couvrez les bases de l\u2019\xE9lectricit\xE9, quelles\
+      \ sont les diff\xE9rentes r\xE8gles de s\xE9curit\xE9, comment g\xE9rer le r\xE9\
+      seau \xE9lectrique de votre domicile, etc...\r\nAu fur et \xE0 mesure des chapitres\
+      \ vous apprendrez comment raccorder un compteur \xE9lectrique, relier des c\xE2\
+      bles \xE9lectriques, installer une prise de terre, ou encore poser un disjoncteur,\
+      \ nous mettons \xE0 votre disposition tout le savoir n\xE9cessaire pour vous\
+      \ permettre d\u2019aller de la pr\xE9paration et la r\xE9alisation d\u2019un\
+      \ chantier \xE9lectrique au simple changement d\u2019une ampoule. \r\nCe programme\
+      \ a \xE9t\xE9 \xE9labor\xE9 en collaboration avec des b\xE9n\xE9voles de l'association\
+      \ Electriciens sans fronti\xE8res. Avoir acc\xE8s l'\xE9lectricit\xE9 est indispensable\
+      \ au d\xE9veloppement \xE9conomique et social. Il permet d'\xE9clairer les \xE9\
+      coles, les h\xF4pitaux mais aussi de s\xE9curiser les rues ou encore de donner\
+      \ acc\xE8s \xE0 l'eau potable.\""
+    language: fr
+    name: '"Eclairage et raccordements"'
+    sha256sum: a3f5a387ca9fdfe42019cf99c32036a4d6b7af112ca811d34891b5a99287af79
+    size: 1412116389
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/eclairage-et-raccordements-sikana-fr.zip
+    version: '2018-03-01'
   eco-d-ici-eco-d-ailleurs-rfi-fr:
     description: "\"\xC9mission RFI : \"Eco d'ici \xE9co d'ailleurs\"\""
     language: fr
@@ -1321,6 +1343,48 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/innovation-en-afrique-fr.zip
     version: '2018-01-18'
+  installer-et-entretenir-des-panneaux-solaires-sikana-fr:
+    description: "\"Vous d\xE9couvrirez dans ce programme d'\xE9lectricit\xE9, comment\
+      \ exploiter les \xE9nergies renouvelables. Chaque vid\xE9o propose une \xE9\
+      tape pour comprendre comment g\xE9n\xE9rer et utiliser l'\xE9nergie solaire\
+      \ . Suivez pas \xE0 pas les diff\xE9rentes \xE9tapes pour installer et entretenir\
+      \ un panneau solaire. Le contenu de chaque vid\xE9o est accessible \xE0 un d\xE9\
+      butant accompagn\xE9 d'un expert et adapt\xE9 \xE0 une utilisation sur le terrain.\
+      \ Ce programme a \xE9t\xE9 \xE9labor\xE9 en collaboration avec des b\xE9n\xE9\
+      voles de l'association Electriciens sans fronti\xE8res. Installer l'\xE9lectricit\xE9\
+      \ est indispensable au d\xE9veloppement \xE9conomique et social. Il permet d'\xE9\
+      clairer les \xE9coles, les h\xF4pitaux mais aussi de s\xE9curiser les rues ou\
+      \ encore de donner acc\xE8s \xE0 l'eau potable. L'\xE9nergie solaire est renouvelable\
+      \ et durable, particuli\xE8rement adapt\xE9e dans les zones rurales.\""
+    language: fr
+    name: '"Installer et entretenir des panneaux solaires"'
+    sha256sum: f66c169e46aa3f683f98726f2dc761c923608543efa38298444b2b01c1990970
+    size: 392259207
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/installer-et-entretenir-des-panneaux-solaires-sikana-fr.zip
+    version: '2018-03-01'
+  introduction-a-l-electricite-sikana-fr:
+    description: "\"Avec nos vid\xE9os \xE9ducatives du programme \xAB \xC9lectricit\xE9\
+      \ pour tous \xBB, d\xE9couvrez les bases de l\u2019\xE9lectricit\xE9, quelles\
+      \ sont les diff\xE9rentes r\xE8gles de s\xE9curit\xE9, comment g\xE9rer le r\xE9\
+      seau \xE9lectrique de votre domicile, etc...\r\nAu fur et \xE0 mesure des chapitres\
+      \ vous apprendrez comment raccorder un compteur \xE9lectrique, relier des c\xE2\
+      bles \xE9lectriques, installer une prise de terre, ou encore poser un disjoncteur,\
+      \ nous mettons \xE0 votre disposition tout le savoir n\xE9cessaire pour vous\
+      \ permettre d\u2019aller de la pr\xE9paration et la r\xE9alisation d\u2019un\
+      \ chantier \xE9lectrique au simple changement d\u2019une ampoule. \r\nCe programme\
+      \ a \xE9t\xE9 \xE9labor\xE9 en collaboration avec des b\xE9n\xE9voles de l'association\
+      \ Electriciens sans fronti\xE8res. Avoir acc\xE8s l'\xE9lectricit\xE9 est indispensable\
+      \ au d\xE9veloppement \xE9conomique et social. Il permet d'\xE9clairer les \xE9\
+      coles, les h\xF4pitaux mais aussi de s\xE9curiser les rues ou encore de donner\
+      \ acc\xE8s \xE0 l'eau potable.\""
+    language: fr
+    name: "\"Introduction \xE0 l'\xE9lectricit\xE9\""
+    sha256sum: 3bfb16d5dc228037de40923352183285fc457589245aff20fd84467edaf82144
+    size: 1363789870
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/introduction-a-l-electricite-sikana-fr.zip
+    version: '2018-03-01'
   introduction-a-la-biologie-fr:
     description: "Cette collection de contenus comprend des vid\xE9os et des entretiens\
       \ de chercheurs sur des domaines vari\xE9s de la biologie et de la chimie :\
@@ -1614,6 +1678,28 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-enfants-ado-fr.zip
     version: '2017-11-24'
+  le-tableau-electrique-sikana-fr:
+    description: "\"Avec nos vid\xE9os \xE9ducatives du programme \xAB \xC9lectricit\xE9\
+      \ pour tous \xBB, d\xE9couvrez les bases de l\u2019\xE9lectricit\xE9, quelles\
+      \ sont les diff\xE9rentes r\xE8gles de s\xE9curit\xE9, comment g\xE9rer le r\xE9\
+      seau \xE9lectrique de votre domicile, etc...\r\nAu fur et \xE0 mesure des chapitres\
+      \ vous apprendrez comment raccorder un compteur \xE9lectrique, relier des c\xE2\
+      bles \xE9lectriques, installer une prise de terre, ou encore poser un disjoncteur,\
+      \ nous mettons \xE0 votre disposition tout le savoir n\xE9cessaire pour vous\
+      \ permettre d\u2019aller de la pr\xE9paration et la r\xE9alisation d\u2019un\
+      \ chantier \xE9lectrique au simple changement d\u2019une ampoule. \r\nCe programme\
+      \ a \xE9t\xE9 \xE9labor\xE9 en collaboration avec des b\xE9n\xE9voles de l'association\
+      \ Electriciens sans fronti\xE8res. Avoir acc\xE8s l'\xE9lectricit\xE9 est indispensable\
+      \ au d\xE9veloppement \xE9conomique et social. Il permet d'\xE9clairer les \xE9\
+      coles, les h\xF4pitaux mais aussi de s\xE9curiser les rues ou encore de donner\
+      \ acc\xE8s \xE0 l'eau potable.\""
+    language: fr
+    name: "\"Le tableau \xE9lectrique\""
+    sha256sum: e50230f7a2580e73aca528ebb5fbbfda011b00612e737d7b6ad42e5038b77ecf
+    size: 1860797158
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/le-tableau-electrique-sikana-fr.zip
+    version: '2018-03-01'
   le-talisman-brise-ln-rfi-ln:
     description: "\"Du lingala au fran\xE7ais avec \"Le Talisman bris\xE9\"\""
     language: ln
@@ -2126,6 +2212,28 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/prends-soin-de-toi-enfants-ado-fr.zip
     version: '2018-02-28'
+  preparer-son-chantier-electrique-sikana-fr:
+    description: "\"Avec nos vid\xE9os \xE9ducatives du programme \xAB \xC9lectricit\xE9\
+      \ pour tous \xBB, d\xE9couvrez les bases de l\u2019\xE9lectricit\xE9, quelles\
+      \ sont les diff\xE9rentes r\xE8gles de s\xE9curit\xE9, comment g\xE9rer le r\xE9\
+      seau \xE9lectrique de votre domicile, etc...\r\nAu fur et \xE0 mesure des chapitres\
+      \ vous apprendrez comment raccorder un compteur \xE9lectrique, relier des c\xE2\
+      bles \xE9lectriques, installer une prise de terre, ou encore poser un disjoncteur,\
+      \ nous mettons \xE0 votre disposition tout le savoir n\xE9cessaire pour vous\
+      \ permettre d\u2019aller de la pr\xE9paration et la r\xE9alisation d\u2019un\
+      \ chantier \xE9lectrique au simple changement d\u2019une ampoule. \r\nCe programme\
+      \ a \xE9t\xE9 \xE9labor\xE9 en collaboration avec des b\xE9n\xE9voles de l'association\
+      \ Electriciens sans fronti\xE8res. Avoir acc\xE8s l'\xE9lectricit\xE9 est indispensable\
+      \ au d\xE9veloppement \xE9conomique et social. Il permet d'\xE9clairer les \xE9\
+      coles, les h\xF4pitaux mais aussi de s\xE9curiser les rues ou encore de donner\
+      \ acc\xE8s \xE0 l'eau potable.\""
+    language: fr
+    name: "\"Pr\xE9parer son chantier \xE9lectrique\""
+    sha256sum: cbea0e77162fa2e4e7475bd204dbb3d4323d3bbd94c15a586a783c772e9c7d28
+    size: 286078085
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/preparer-son-chantier-electrique-sikana-fr.zip
+    version: '2018-03-01'
   prevention-addictions-fr:
     description: Mieux comprendre les effets de l'alcool sur nos comportements, et
       leurs origines.
