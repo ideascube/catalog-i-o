@@ -999,11 +999,11 @@ all:
       \ violences) aux plus incroyables (r\xE9volution des femmes saoudiennes)."
     language: fr
     name: "Exp\xE9riences de femmes"
-    sha256sum: f08bb9e38bc6358001638eb3d883a746c8e0c5d9c5b0da7680c92b9597757061
-    size: 721825158
+    sha256sum: 221abae9d0b7322af59cbe6cc3b8e0f4492eff3bef53b426ae36bf02ef77026b
+    size: 721825119
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/experiences-de-femmes-fr.zip
-    version: '2017-11-27'
+    version: '2018-03-06'
   facilitator-kit-en:
     description: Dear facilitators, you'll find here contents and activities guides
       to help you managing activities in your Ideas Box. Do not hesitate to use it
