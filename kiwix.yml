@@ -142,6 +142,17 @@ all:
     sha256sum: "8fed999e2fe0a181b450096ad08d03f6ceaeb507e0911fb85cab999b3c73d464"
     langid: "wikibooks.fr"
     type: zipped-zim
+  wikibooks.es:
+    version: "2017-07-04"
+    size: 460658027
+    url: "https://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_es_all_2017-02.zip"
+    name: Wikilibros
+    language: "esp"
+    description: De Wikilibros, la colección de libros de texto de contenido libre.
+    id: "dc5339bd-ab31-7f25-d20e-ce8a6fd31f2f"
+    sha256sum: "67ff486311c33673dfa237aef1160c51a59b1c9c77e07da0e38c36df15eedff6"
+    langid: "wikibooks.es"
+    type: zipped-zim
   wikisource.en:
     version: "2017-02-17"
     size: 12191748075
