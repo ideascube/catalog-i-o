@@ -1037,6 +1037,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fashion-and-beauty-ar.zip
     version: '2017-10-17'
+  fiches-d-activites-sante-fr:
+    name: "Fiches d'activit\xE9s Sant\xE9"
+    description: "Vous trouverez des fiches d'activit\xE9s pour mener vos actions\
+      \ en sant\xE9"
+    language: fr
+    version: '2018-03-06'
+    url: http://packages.ideascube.org/omeka/fiches-d-activites-sante-fr.zip
+    size: 14527564
+    sha256sum: f3ac77c4d14202e4a5447821a907bd646a5a847f494f397d9c97ea46dee628e8
+    type: zipped-medias
   fictions-and-entertainment-in-arabic-ar:
     description: "\"\u0645\u0633\u0644\u0633\u0644\r\n\u0634\u0639\u0631\r\n\u0642\
       \u0635\u0635\""
