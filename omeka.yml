@@ -741,14 +741,14 @@ all:
     url: http://packages.ideascube.org/omeka/dessin-et-origami-fr.zip
     version: '2017-04-10'
   dessins-animes-pour-enfants-sw:
-    description: '"----"'
+    name: Ubongo Kids
+    description: "Tu veux regarder des dessins anim\xE9s en swahili ? C'est ici !"
     language: sw
-    name: '"----"'
-    sha256sum: 7b3a6aeda2db8a8581be5d0ef4e023e933522c2718f26ee4ecdae287edbd6b8b
-    size: 1037284881
-    type: zipped-medias
+    version: '2018-03-07'
     url: http://packages.ideascube.org/omeka/dessins-animes-pour-enfants-sw.zip
-    version: '2018-02-28'
+    size: 1037284881
+    sha256sum: ebf12840b05db19b103dcd08721f063d59a9a52a6b2753e9a13bd31b4debdf89
+    type: zipped-medias
   discriminations-enfants-ados-fr:
     description: "On est tous diff\xE9rents, mais tous des \xEAtres humains ! Pour\
       \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
