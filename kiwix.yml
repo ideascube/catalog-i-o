@@ -27,7 +27,7 @@ all:
     version: "2017-08-24"
     language: "esp"
     id: "571264d0-c03f-fc14-075b-33d587a37c6e"
-    url: "https://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_es_all_2016-12.zip"
+    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_es_all_2016-12.zip"
     size: 747112777
     sha256sum: "bd1ef1554b61c5fd5959ebc6b2c7622ec94de2e642050dd9a4b149a4c2b9fd8"
     type: zipped-zim
@@ -156,7 +156,7 @@ all:
   wikibooks.es:
     version: "2017-07-04"
     size: 460658027
-    url: "https://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_es_all_2017-02.zip"
+    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_es_all_2017-02.zip"
     name: Wikilibros
     language: "esp"
     description: De Wikilibros, la colección de libros de texto de contenido libre.
