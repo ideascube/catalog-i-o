@@ -2657,6 +2657,9 @@ all:
     url: http://packages.ideascube.org/omeka/technology-ar.zip
     version: '2018-02-23'
   the-road-zaatari-magazine-ar:
+    name: "The Road - Zaatari Magazine [\u0645\u062C\u0644\u0629 \u0627\u0644\u0637\
+      \u0631\u064A\u0642 - \u0645\u062E\u064A\u0645 \u0627\u0644\u0632\u0639\u062A\
+      \u0631\u064A]"
     description: "Collective articles and stories written by Syrian refugees who became\
       \ journalists inside Zaatari camp In Jordan. \u0645\u062C\u0645\u0648\u0639\u0629\
       \ \u0645\u0646 \u0627\u0644\u0644\u0627\u062C\u0626\u064A\u0646 \u0627\u0644\
@@ -2666,14 +2669,11 @@ all:
       \u0644 \u0645\u062E\u064A\u0645 \u0627\u0644\u0632\u0639\u062A\u0631\u064A \u0641\
       \u064A \u0627\u0644\u0627\u0631\u062F\u0646."
     language: ar
-    name: "The Road - Zaatari Magazine [\u0645\u062C\u0644\u0629 \u0627\u0644\u0637\
-      \u0631\u064A\u0642 - \u0645\u062E\u064A\u0645 \u0627\u0644\u0632\u0639\u062A\
-      \u0631\u064A]"
-    sha256sum: acad06dbc696bc3e9a4679fb46f0bda34e0f844d971df808d98076033b65ed67
-    size: 112056038
-    type: zipped-medias
+    version: '2018-03-12'
     url: http://packages.ideascube.org/omeka/the-road-zaatari-magazine-ar.zip
-    version: '2017-10-17'
+    size: 112056038
+    sha256sum: c674caf226cba59064b5f7945ae980d502e82590fd7c74b720e15543e63cd9da
+    type: zipped-medias
   utilisez-internet-en-toute-securite-fr:
     description: "Des contenus pour accompagner petits et grands \xE0 utiliser internet\
       \ en toute s\xE9curit\xE9, et \xE0 comprendre comment avoir du recul sur les\
