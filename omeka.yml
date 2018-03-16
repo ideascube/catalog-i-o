@@ -67,11 +67,11 @@ all:
       lets you live in harmony with nature.
     language: en
     name: Agriculture & gardening
-    sha256sum: 00e3f7f2a99c491183a398bfc9283fabfe9b95475b611db6be1c21a27e1c1aaf
+    sha256sum: 50f4b7035c3189e2ad8a0a9c5bb93697c966368112b60de6a6fe76f0ee87a993
     size: 612682992
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-gardening-en.zip
-    version: '2017-10-19'
+    version: '2018-03-16'
   alcool-drogues-fr:
     description: "Identifier les effets de l'alcool, des drogues et pr\xE9venir les\
       \ risques"
@@ -2835,16 +2835,16 @@ all:
     url: http://packages.ideascube.org/omeka/waqt-al-farah-ar.zip
     version: '2018-02-23'
   women-empowerment-ar:
-    description: "\"Women Empowerment [\u062A\u0639\u0632\u064A\u0632 \u0627\u0644\
-      \u0645\u0631\u0627\u0629]\""
+    description: "Women Empowerment [\u062A\u0639\u0632\u064A\u0632 \u0627\u0644\u0645\
+      \u0631\u0627\u0629]"
     language: ar
-    name: "\"Women Empowerment [\u062A\u0639\u0632\u064A\u0632 \u0627\u0644\u0645\u0631\
-      \u0627\u0629]\""
-    sha256sum: 0d372cd33f12b1e7dc61bb9e798b418e097367725f9f909b52b091e7a261fcb4
-    size: 115957785
+    name: "Women Empowerment [\u062A\u0639\u0632\u064A\u0632 \u0627\u0644\u0645\u0631\
+      \u0627\u0629]"
+    sha256sum: a72340c5dfd070b787286ef7bd763bd8673b79f632fa41343fed130bea7a4773
+    size: 133081275
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/women-empowerment-ar.zip
-    version: '2018-02-23'
+    version: '2018-03-16'
   women-in-african-history-en:
     description: '"This series highlights some of the contributions of key women figures
       to the history of Africa. This list is far from exhaustive but will walk the
