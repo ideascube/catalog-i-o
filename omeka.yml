@@ -605,15 +605,33 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creation-d-entreprise-fr.zip
     version: '2018-01-18'
-  creatividad-colsubsidio-es:
-    description: "-"
+  creation-sikana-es:
+    description: '-'
     language: es
-    name: "creatividad"
+    name: Creation sikana
+    sha256sum: 8e47a2ab3deb5ecfd2c41608206c6ebaadeecb03699d1a6a328f952c5b1b51ac
+    size: 378204198
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/creation-sikana-es.zip
+    version: '2018-03-15'
+  creatividad-colsubsidio-es:
+    description: '-'
+    language: es
+    name: creatividad
     sha256sum: 0558101cd1af4c918b71203f80c76801cc33d69adf3ae85652c03d550dd92fac
     size: 2263514735
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creatividad-colsubsidio-es.zip
     version: '2018-03-06'
+  creatividad-cucuta-video-es:
+    description: '-'
+    language: es
+    name: creatividad video
+    sha256sum: 5f459c3924ef94ea56d04c66603f4b37e04f46298a36234028a76468243e3338
+    size: 4928411661
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/creatividad-cucuta-video-es.zip
+    version: '2018-03-15'
   cuisine-et-nutrition-enfants-fr:
     description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
     language: fr
@@ -643,10 +661,37 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cuisine-pl.zip
     version: '2017-04-14'
-  culture-colsubsidio-es:
-    description: "-"
+  cultura-ebook-es:
+    description: '-'
     language: es
-    name: "Cultura general"
+    name: cultura ebook
+    sha256sum: 5508ee2131efa4a65a34a81c974d788ad7c3f1911a91fe7dde8bcce7b04c5056
+    size: 9856929
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cultura-ebook-es.zip
+    version: '2018-03-15'
+  cultura-general-cucuta-video-es:
+    description: '-'
+    language: es
+    name: cultura general video
+    sha256sum: a0781f35461cb25eeebdc64c9f1a5fa73bee24dec6ef05019dec8474ea6c2bec
+    size: 214133359
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cultura-general-cucuta-video-es.zip
+    version: '2018-03-15'
+  cultura-sikana-es:
+    description: '-'
+    language: es
+    name: cultura sikana
+    sha256sum: 01c385ef2ec48926b7fe80010c80a7b5371daccdad70f8edbd2416ffad9eb588
+    size: 152254067
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cultura-sikana-es.zip
+    version: '2018-03-15'
+  culture-colsubsidio-es:
+    description: '-'
+    language: es
+    name: Cultura general
     sha256sum: d7733c2e2bb47afd7565b73d6da04b144bac714a17b67b67e1b6248f5a57798a
     size: 22753394571
     type: zipped-medias
@@ -741,14 +786,14 @@ all:
     url: http://packages.ideascube.org/omeka/dessin-et-origami-fr.zip
     version: '2017-04-10'
   dessins-animes-pour-enfants-sw:
-    name: Ubongo Kids
     description: "Tu veux regarder des dessins anim\xE9s en swahili ? C'est ici !"
     language: sw
-    version: '2018-03-07'
-    url: http://packages.ideascube.org/omeka/dessins-animes-pour-enfants-sw.zip
-    size: 1037284881
+    name: Ubongo Kids
     sha256sum: ebf12840b05db19b103dcd08721f063d59a9a52a6b2753e9a13bd31b4debdf89
+    size: 1037284881
     type: zipped-medias
+    url: http://packages.ideascube.org/omeka/dessins-animes-pour-enfants-sw.zip
+    version: '2018-03-07'
   discriminations-enfants-ados-fr:
     description: "On est tous diff\xE9rents, mais tous des \xEAtres humains ! Pour\
       \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
@@ -988,7 +1033,7 @@ all:
     url: http://packages.ideascube.org/omeka/ecriture-et-litterature-fr.zip
     version: '2018-02-28'
   educacion-colsubsidio-es:
-    description: "-"
+    description: '-'
     language: es
     name: "educaci\xF3n"
     sha256sum: 55a798962e31a88c025c58344dd8f268117e99057c43224e9071ec48b9265fa7
@@ -996,6 +1041,24 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/educacion-colsubsidio-es.zip
     version: '2018-03-06'
+  educacion-cucuta-video-es:
+    description: '-'
+    language: es
+    name: "educaci\xF3n video"
+    sha256sum: 65843b34b7c62b4a03ceb186a308c9623c47508ad60e3be65d6d51905ba94b54
+    size: 6498158078
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/educacion-cucuta-video-es.zip
+    version: '2018-03-15'
+  educacion-ebook-es:
+    description: '-'
+    language: es
+    name: Educacion ebook
+    sha256sum: 5ff5aee6aac1ed60237e0df2ab835a1d324a2212f61cbf08737c77daef788757
+    size: 21671482
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/educacion-ebook-es.zip
+    version: '2018-03-15'
   english-for-adults-ar:
     description: "\"Learn English through these easy to follow videos. \u062A\u0639\
       \u0644\u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\u0646\u062C\u0644\
@@ -1011,9 +1074,9 @@ all:
     url: http://packages.ideascube.org/omeka/english-for-adults-ar.zip
     version: '2018-02-23'
   esparcimiento-colsubsidio-es:
-    description: "-"
+    description: '-'
     language: es
-    name: "esparcimiento"
+    name: esparcimiento
     sha256sum: 4dbb3f64f5f9c7b901a73757f5e12995cdb93e054ebc03a076f310b3297d35ce
     size: 156274955
     type: zipped-medias
@@ -1186,6 +1249,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/formacion-profesional-colsubsidio-es.zip
     version: '2018-03-06'
+  formacion-profesional-sikana-es:
+    description: '-'
+    language: es
+    name: formacion profesional sikana
+    sha256sum: 3bb8ac39083feacfa11934075de6143f0ec3b67ea7d6eaf615bf38ee87aa8866
+    size: 1248997137
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/formacion-profesional-sikana-es.zip
+    version: '2018-03-15'
   genetique-et-epigenetique-fr:
     description: "Qu'est-ce que l'\xE9pig\xE9n\xE9tique ? En quoi cette discipline\
       \ diff\xE8re-t-elle de la g\xE9n\xE9tique ? Des chercheurs expliquent ici l'histoire\
@@ -1379,8 +1451,35 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/hygiene-enfants-fr.zip
     version: '2017-06-23'
+  informacion-cucuta-video-es:
+    description: '-'
+    language: es
+    name: informacion video
+    sha256sum: b92b6e1849176abe63518119e484f0215bbc02100903591b053cd4d2392d99ab
+    size: 555007920
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/informacion-cucuta-video-es.zip
+    version: '2018-03-15'
+  informacion-ebook-es:
+    description: '-'
+    language: es
+    name: informacion ebook
+    sha256sum: 43a0df8f887c1bfbd9371417491bb045747f026c749457958957fa67bf7e2fb6
+    size: 127013994
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/informacion-ebook-es.zip
+    version: '2018-03-15'
+  informacion-sikana-es:
+    description: '-'
+    language: es
+    name: Informacion sikana
+    sha256sum: 3d7311668ffba3a4622a613d984219e478c2ea61e738a9d5e5c66b1c79bf765e
+    size: 10571180
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/informacion-sikana-es.zip
+    version: '2018-03-15'
   informacion-y-sensibilizacion-colsubsidio-es:
-    description: "-"
+    description: '-'
     language: es
     name: "informaci\xF3n y sensibilizaci\xF3n"
     sha256sum: a4076592077d7e3d575993b24facd42a0b9eabf8b470c447ac378c496c1ce190
@@ -2657,9 +2756,6 @@ all:
     url: http://packages.ideascube.org/omeka/technology-ar.zip
     version: '2018-02-23'
   the-road-zaatari-magazine-ar:
-    name: "The Road - Zaatari Magazine [\u0645\u062C\u0644\u0629 \u0627\u0644\u0637\
-      \u0631\u064A\u0642 - \u0645\u062E\u064A\u0645 \u0627\u0644\u0632\u0639\u062A\
-      \u0631\u064A]"
     description: "Collective articles and stories written by Syrian refugees who became\
       \ journalists inside Zaatari camp In Jordan. \u0645\u062C\u0645\u0648\u0639\u0629\
       \ \u0645\u0646 \u0627\u0644\u0644\u0627\u062C\u0626\u064A\u0646 \u0627\u0644\
@@ -2669,11 +2765,14 @@ all:
       \u0644 \u0645\u062E\u064A\u0645 \u0627\u0644\u0632\u0639\u062A\u0631\u064A \u0641\
       \u064A \u0627\u0644\u0627\u0631\u062F\u0646."
     language: ar
-    version: '2018-03-12'
-    url: http://packages.ideascube.org/omeka/the-road-zaatari-magazine-ar.zip
-    size: 112056038
+    name: "The Road - Zaatari Magazine [\u0645\u062C\u0644\u0629 \u0627\u0644\u0637\
+      \u0631\u064A\u0642 - \u0645\u062E\u064A\u0645 \u0627\u0644\u0632\u0639\u062A\
+      \u0631\u064A]"
     sha256sum: c674caf226cba59064b5f7945ae980d502e82590fd7c74b720e15543e63cd9da
+    size: 112056038
     type: zipped-medias
+    url: http://packages.ideascube.org/omeka/the-road-zaatari-magazine-ar.zip
+    version: '2018-03-12'
   utilisez-internet-en-toute-securite-fr:
     description: "Des contenus pour accompagner petits et grands \xE0 utiliser internet\
       \ en toute s\xE9curit\xE9, et \xE0 comprendre comment avoir du recul sur les\
