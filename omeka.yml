@@ -188,11 +188,11 @@ all:
       \ parle lentement et distinctement et se montre coop\xE9ratif."
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau A1"
-    sha256sum: 3eb969228141118d5c2589c1572b897b19dc71730d6440a65a22d862c304532f
-    size: 575687729
+    sha256sum: 4fd2ab006fa7b4546d446bd0e8f77403efc590f18c8283974af6beb4b3058798
+    size: 575687504
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-a1-fr.zip
-    version: '2017-10-27'
+    version: '2018-03-26'
   apprenez-le-francais-niveau-a2-fr:
     description: "Le niveau A2 en fran\xE7ais, c'est pouvoir comprendre des phrases\
       \ isol\xE9es et des expressions fr\xE9quemment utilis\xE9es (informations personnelles\
@@ -203,11 +203,11 @@ all:
       \ familiers et habituels."
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau A2"
-    sha256sum: 93184d957b9fb6342ef3e75d3f273fe9c5f27622d083e3bcf719e9ac9c5935ab
+    sha256sum: e2b644cece97b4bdd707a2b5529ae55f5825f538e5dcf2ca52fa7998f6c0f6a7
     size: 267911472
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-a2-fr.zip
-    version: '2017-10-27'
+    version: '2018-03-26'
   apprenez-le-francais-niveau-b1-fr:
     description: "Le niveau B1 en fran\xE7ais, c'est pouvoir comprendre les points\
       \ essentiels quand un langage clair et standard est utilis\xE9 et s\u2019il\
@@ -220,11 +220,11 @@ all:
       \ bri\xE8vement des raisons ou explications pour un projet ou une id\xE9e."
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau B1"
-    sha256sum: b76f5150cb970b18fcd68e2f88144cad9f9d08d964e25302ab5a35bbbacb8d89
+    sha256sum: 94bd9f4789cd79802f6a3286250b7b020ec64d666ac128ccc9bdbabc9a211333
     size: 157327158
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-b1-fr.zip
-    version: '2017-10-27'
+    version: '2018-03-26'
   apprenez-le-francais-niveau-b2-fr:
     description: "Le niveau B2 en fran\xE7ais, c'est pouvoir comprendre  le contenu\
       \ essentiel des sujets concrets ou abstraits dans un texte complexe, y compris\
@@ -237,11 +237,11 @@ all:
       s."
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau B2"
-    sha256sum: 32c70927c9d9144e2e5553a6f3c0e6f21338d9cf2013554baefacb2459d894f9
+    sha256sum: 470aacc5f6adff0a37bd717308be431d5d603e57a2f931ced814a2e844869d69
     size: 231815224
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-b2-fr.zip
-    version: '2017-10-27'
+    version: '2018-03-26'
   apprenez-le-francais-niveau-c1-c2-fr:
     description: "Le niveau C1 et C2 en fran\xE7ais, c'est comprendre une grande gamme\
       \ de textes longs et exigeants, ainsi que de saisir des significations implicites.\
@@ -256,11 +256,11 @@ all:
       me s\u2019ils n\u2019ont pas un esprit analytique."
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau C1-C2"
-    sha256sum: cb580fc81864cba5048c874377e2fdfc0426a93f271ace3a87bdd1003522a845
+    sha256sum: 439bd25df37352045dc65723031e7249cb4c32ff2d994e38234531151dd179ff
     size: 3610464846
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-c1-c2-fr.zip
-    version: '2017-10-27'
+    version: '2018-03-26'
   arabic-alphabet-ar:
     description: "Learn the Arabic Alphabet through easy and fun videos.//\u062A\u0639\
       \u0644\u0645 \u0627\u0644\u0627\u0628\u062C\u062F\u064A\u0629 \u0627\u0644\u0639\
@@ -333,11 +333,11 @@ all:
     description: "Pars \xE0 la d\xE9couverte du corps humain !"
     language: fr
     name: Biologie (adolescents)
-    sha256sum: 65b49b641d1b4810556f263dafee1683c293d49e653bd3fdc6dac715a6c79e91
-    size: 2728471778
+    sha256sum: 472ff53d0e4d83162c156447ccddf3632bc5b1e6a90cb26d94cf4a1e16ab0e47
+    size: 2728471673
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/biologie-adolescents-fr.zip
-    version: '2017-01-04'
+    version: '2018-03-26'
   biologie-enfants-ados-fr:
     description: "Pars \xE0 la d\xE9couverte du corps humain !"
     language: fr
@@ -731,11 +731,11 @@ all:
       \ chacun de nous, \xE0 vous de le r\xE9v\xE9ler..."
     language: fr
     name: "D\xE9couvrez les arts plastiques"
-    sha256sum: 86da7f199b7bec2649889cce35da52a899864e3203c4d59d65a2eb7ccb747213
+    sha256sum: 7f67cd3d8b148c13020ac79ee50d39bc668bac1935d95215dbbe5790ae9a1f60
     size: 1060030222
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/decouvrez-les-arts-plastiques-fr.zip
-    version: '2017-01-04'
+    version: '2018-03-26'
   decouvrez-ou-re-decouvrez-la-cuisine-de-differents-pays:
     description: Qu'est ce que nous mangeons ? Qu'est ce que les autres mangent ?
     language: fr
@@ -1186,14 +1186,14 @@ all:
     url: http://packages.ideascube.org/omeka/filles-garcons-quelle-place-pour-qui-fr.zip
     version: '2017-11-24'
   films-et-videos-libres-de-droit-fr:
-    description: "\"A regarder ! De tous genre et pour tous les \xE2ges!\""
+    description: "A regarder ! De tous genre et pour tous les \xE2ges!"
     language: fr
-    name: "\"Films et vid\xE9os - libres de droit\""
-    sha256sum: 5b695157b83bc3258c86559689192eb17243c29314f1b1dc94ac5b59ea89de02
+    name: "Films et vid\xE9os"
+    sha256sum: 34233b4fb155620d403dc1d1be06f9f1f7b8cc0d218639eb3b4265cbc8cbf8ca
     size: 7395483503
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/films-et-videos-libres-de-droit-fr.zip
-    version: '2018-02-28'
+    version: '2018-03-26'
   films-fr:
     description: "Une com\xE9die ? Un drame ? Un policier ? D\xE9couvrez ou red\xE9\
       couvrez ici quelques films muets ou en fran\xE7ais."
@@ -2214,15 +2214,15 @@ all:
     url: http://packages.ideascube.org/omeka/musique-en-arabe-ar.zip
     version: '2017-08-30'
   musique-libres-de-droit-en:
-    description: "\"Musiques libres de droit! \r\nA \xE9couter encore et encore dans\
-      \ toutes les langues.\""
+    description: "Musiques libres de droit! \r\nA \xE9couter encore et encore dans\
+      \ toutes les langues."
     language: en
-    name: '"Musiques libres de droit"'
-    sha256sum: 1b724d0b25c9f48e761975c362195ee749e9cd7c48d9e61e4c9bc77766e195c0
+    name: Musique
+    sha256sum: 9055151514a9c28d738307d25c0c99c494d3e385607468c51f62326daf233f26
     size: 1115883753
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/musique-libres-de-droit-en.zip
-    version: '2018-02-28'
+    version: '2018-03-26'
   musiques-du-monde-rfi-fr:
     description: "\"\xC9mission RFI : \"Musiques du monde\"\""
     language: fr
