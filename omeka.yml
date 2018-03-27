@@ -895,6 +895,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/drums-for-beginners-en.zip
     version: '2018-02-23'
+  ebook-enfants-libres-de-droit-fr:
+    description: Des livres et BD pour les plus jeunes!
+    language: fr
+    name: Ebook (enfants) libres de droit
+    sha256sum: 3b83baa6e04bdfe94821281d5020672eba894eea706f5f53c6a987f004c67449
+    size: 190826696
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ebook-enfants-libres-de-droit-fr.zip
+    version: '2018-03-27'
   ebooks-enfants-fr:
     description: "Tu cherches de quoi lire, des livres pas trop compliqu\xE9s ? C'est\
       \ ici !"
@@ -1136,6 +1145,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fashion-and-beauty-ar.zip
     version: '2017-10-17'
+  fiche-creativite-libres-de-droit-fr:
+    description: Pour animer
+    language: fr
+    name: "Fiche cr\xE9ativit\xE9 - libres de droit"
+    sha256sum: 72d4ceb53b1bb9d80807783a6a42b844fff5f857d1ee90dac853fdb51ee9baf0
+    size: 9451521
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/fiche-creativite-libres-de-droit-fr.zip
+    version: '2018-03-27'
   fiches-d-activites-sante-fr:
     description: "Vous trouverez des fiches d'activit\xE9s pour mener vos actions\
       \ en sant\xE9"
@@ -1146,6 +1164,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fiches-d-activites-sante-fr.zip
     version: '2018-03-06'
+  fichiers-audio-libres-de-droit-fr:
+    description: "\xE0 \xE9couter !"
+    language: fr
+    name: fichiers audio - libres de droit
+    sha256sum: bbb2921b2d6d4794f39531f391f8a63344c21991879cd3ba0a95a6838fab4cd7
+    size: 57619335
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/fichiers-audio-libres-de-droit-fr.zip
+    version: '2018-03-27'
   fictions-and-entertainment-in-arabic-ar:
     description: "\"\u0645\u0633\u0644\u0633\u0644\r\n\u0634\u0639\u0631\r\n\u0642\
       \u0635\u0635\""
@@ -1816,6 +1843,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/kit-de-l-animateur-fr.zip
     version: '2017-01-04'
+  kit-de-l-animateur-libres-de-droit-fr:
+    description: "Support de m\xE9diation pour l'animateur-trice"
+    language: fr
+    name: ebook - kit de l'animateur - libres de droit
+    sha256sum: 794a8eae942ab37c0c4b9d78b8f5ba7d7bc75101fd7dcb0a9d78f87b7abc44d5
+    size: 54793405
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/kit-de-l-animateur-libres-de-droit-fr.zip
+    version: '2018-03-27'
   kurdish-dramas-tv-shows-ckb:
     description: Watch kurdish shows and relax.
     language: ckb
