@@ -2137,11 +2137,11 @@ all:
       parer une candidature ou un entretien d'embauche."
     language: fr
     name: Montez votre projet professionnel
-    sha256sum: e443ef2983507af69e96ece60d6dbd3bfb068e063f90cea248707b74ad0dcb92
-    size: 1056408273
+    sha256sum: 43909227590af021699478e574a0d88e3728f16df90f7b3ad0dc37f2feb87519
+    size: 1056408136
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/montez-votre-projet-professionnel-fr.zip
-    version: '2017-10-27'
+    version: '2018-03-27'
   motherhood-and-parenting-ar:
     description: "\"Useful Motherhood and Parenting tips and information. Helping\
       \ parents dealing with their children and having a healthy relationship.// \u0646\
