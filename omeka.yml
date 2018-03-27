@@ -1409,6 +1409,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-occidentale-fr.zip
     version: '2018-01-18'
+  how-do-i-stay-healthy-with-diabetes-en:
+    description: If you or a loved one have diabetes and are curious about how to
+      stay healthy, click here
+    language: en
+    name: How do I stay healthy with diabetes?
+    sha256sum: db04d8546b7da9ae1ed056315979800d11cb8734bfa01895fc1ee24a5f3dec0c
+    size: 4445239
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/how-do-i-stay-healthy-with-diabetes-en.zip
+    version: '2018-03-27'
   hygiene-afrique-fr:
     description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
       ne et \xE9viter les maladies !"
@@ -2143,19 +2153,19 @@ all:
     url: http://packages.ideascube.org/omeka/montez-votre-projet-professionnel-fr.zip
     version: '2018-03-27'
   motherhood-and-parenting-ar:
-    description: "\"Useful Motherhood and Parenting tips and information. Helping\
-      \ parents dealing with their children and having a healthy relationship.// \u0646\
-      \u0635\u0627\u0626\u062D \u0648\u0645\u0639\u0644\u0648\u0645\u0627\u062A \u0645\
-      \u0641\u064A\u062F\u0629 \u0644\u0644\u0627\u0645\u0648\u0645\u0629 \u0648\u0627\
-      \u0644\u0627\u0628\u0648\u0629\""
+    description: "Useful Motherhood and Parenting tips and information. Helping parents\
+      \ dealing with their children and having a healthy relationship.// \u0646\u0635\
+      \u0627\u0626\u062D \u0648\u0645\u0639\u0644\u0648\u0645\u0627\u062A \u0645\u0641\
+      \u064A\u062F\u0629 \u0644\u0644\u0627\u0645\u0648\u0645\u0629 \u0648\u0627\u0644\
+      \u0627\u0628\u0648\u0629"
     language: ar
-    name: "\"Motherhood and Parenting [\u0627\u0645\u0648\u0645\u0629 \u0648\u0627\
-      \u0628\u0648\u0629]\""
-    sha256sum: 21994316e2239639384d0d20ab370148b1fd1bd59a2cf1138e50df64b7b9a028
-    size: 322763309
+    name: "Motherhood and Parenting [\u0627\u0645\u0648\u0645\u0629 \u0648\u0627\u0628\
+      \u0648\u0629]"
+    sha256sum: 255d8162c4fdb9b743cad064041d638c9494df8144d9c808b999136823ec0156
+    size: 1427714351
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/motherhood-and-parenting-ar.zip
-    version: '2018-02-23'
+    version: '2018-03-27'
   moyens-de-contraception-fr:
     description: "La contraception c'est quoi? quels sont les diff\xE9rents moyens\
       \ de protection et de contraception pour filles et gar\xE7ons?"
@@ -2272,11 +2282,11 @@ all:
       of one's own state of minds and honesty.
     language: en
     name: Non Violent Communication
-    sha256sum: 3f9ba929919c5ae9a311f507b7249d1cbfa2916cd8445a06c1c153bd05eb34b3
+    sha256sum: ca4ca25b5a44523aca7b9da065dcce6984e01c23dce6a55a0c625f13fb3eba45
     size: 790705498
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/non-violent-communication-en.zip
-    version: '2017-06-01'
+    version: '2018-03-27'
   novels-for-youth-ar:
     description: "\"Novels for Youth. /\u0631\u0648\u0627\u064A\u0627\u062A \u0644\
       \u0644\u064A\u0627\u0641\u0639\u064A\u0646\""
