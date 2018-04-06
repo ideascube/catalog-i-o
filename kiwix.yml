@@ -143,14 +143,14 @@ all:
     langid: "wikibooks.en"
     type: zipped-zim
   wikibooks.fr:
-    version: "2017-02-14"
-    size: 739377803
-    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_fr_all_2017-02.zip"
+    version: "2018-03-30"
+    size: 863302786
+    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_fr_all_novid_2018-03.zip"
     name: Wikilivres
     language: "fra"
     description: Bibliothèque de livres pédagogiques libres.
-    id: "77633972-03b9-d056-c2b1-682fd21694c5"
-    sha256sum: "8fed999e2fe0a181b450096ad08d03f6ceaeb507e0911fb85cab999b3c73d464"
+    id: "b199513f-d5a9-baa8-7699-00eb59e52f8c"
+    sha256sum: "d44e66a02f6913fcd423f8905d417fe0614db6b63f947e63fc88365ec1b64669"
     langid: "wikibooks.fr"
     type: zipped-zim
   wikibooks.es:
