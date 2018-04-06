@@ -491,15 +491,15 @@ all:
     url: http://packages.ideascube.org/omeka/classical-music-en.zip
     version: '2018-02-23'
   combattons-les-discriminations-fr:
-    description: "\"Handicap, genre, couleurs de peau, religion... La discrimination\
-      \ peut porter sur des tas de choses. D\xE9tectons les, et combattons les.\""
+    description: "Genre, couleur de peau, handicap, religion... La discrimination\
+      \ trouve tous les pr\xE9textes. D\xE9tectons-les, et combattons-les. (Adultes)"
     language: fr
-    name: '"Combattons les discriminations"'
-    sha256sum: 40d99a5651d52ee6e2257f077f489a9fa880e3f83419d3299ab88cb6b0e61c32
+    name: Combattons les discriminations
+    sha256sum: 0ed93dceb4667ad245d5a9c3163b34c37cd4616841f064d2003c830db2e3d087
     size: 1537449963
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/combattons-les-discriminations-fr.zip
-    version: '2018-02-28'
+    version: '2018-04-06'
   comment-faire-face-a-la-violence-et-aux-conflits-enfants-ados-fr:
     description: '"La paix, comment on fait ?"'
     language: fr
@@ -1107,11 +1107,11 @@ all:
       \ violences) aux plus incroyables (r\xE9volution des femmes saoudiennes)."
     language: fr
     name: "Exp\xE9riences de femmes"
-    sha256sum: 221abae9d0b7322af59cbe6cc3b8e0f4492eff3bef53b426ae36bf02ef77026b
-    size: 721825119
+    sha256sum: 2fac08a4808ed7bf9e94cc55e22c111353e163ed14edbe2dfaf8aadd9612b3dd
+    size: 715315724
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/experiences-de-femmes-fr.zip
-    version: '2018-03-06'
+    version: '2018-04-06'
   facilitator-kit-en:
     description: Dear facilitators, you'll find here contents and activities guides
       to help you managing activities in your Ideas Box. Do not hesitate to use it
@@ -1446,6 +1446,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/how-do-i-stay-healthy-with-diabetes-en.zip
     version: '2018-03-27'
+  hygiene-af-fr:
+    description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
+      ne et \xE9viter les maladies !"
+    language: fr
+    name: "Hygi\xE8ne (Af)"
+    sha256sum: 89dd4e8e488c64e8162e6f7608ba1f6210f0bb91d8421433d9bba2df445f0078
+    size: 95163146
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/hygiene-af-fr.zip
+    version: '2018-04-06'
   hygiene-afrique-fr:
     description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
       ne et \xE9viter les maladies !"
@@ -1838,11 +1848,11 @@ all:
       es et d\xE9velopper de nouvelles animations !"
     language: fr
     name: Kit de l'animateur
-    sha256sum: d6e3cdb2cc343ece43a2c35d6b28a391aebbeb5d164c77068537e0a1a4f71d84
-    size: 293208949
+    sha256sum: 801319f603a2f67516268eec272d49989083ff5e598fd30f2450fe6251e7b422
+    size: 294852953
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/kit-de-l-animateur-fr.zip
-    version: '2017-01-04'
+    version: '2018-04-06'
   kit-de-l-animateur-libres-de-droit-fr:
     description: "Support de m\xE9diation pour l'animateur-trice"
     language: fr
@@ -2024,11 +2034,11 @@ all:
       \ faire autant de choses que les gar\xE7ons !"
     language: fr
     name: "Les filles et les gar\xE7ons, quelles diff\xE9rences ?"
-    sha256sum: 518cc0bc2cfacdcc2b25f80e9b375edf6401c4b0800a9026456ea4da095a9470
-    size: 368485495
+    sha256sum: 45525b497a77c080694bda548e3797de99ab2329f76aec88c9279a879d1222fd
+    size: 368485488
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-filles-et-les-garcons-quelles-differences-fr.zip
-    version: '2017-01-04'
+    version: '2018-04-06'
   let-s-be-clean-ar:
     description: "Simple videos on personal hygiene.// \u0641\u064A\u062F\u064A\u0648\
       \u0647\u0627\u062A \u0639\u0646 \u0627\u0644\u0646\u0638\u0627\u0641\u0629 \u0627\
@@ -2259,6 +2269,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/musique-en-arabe-ar.zip
     version: '2017-08-30'
+  musique-fr:
+    description: "Pour d\xE9couvrir de nouveaux styles musicaux ou \xE9couter quelques\
+      \ morceaux !"
+    language: fr
+    name: "D\xE9couvrez de nouvelles musiques"
+    sha256sum: 05ef67af981c603c6e90e013c3cbacc915a505cf91295935c9fe4ef9fb39039b
+    size: 3443378845
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/musique-fr.zip
+    version: '2018-04-06'
   musique-libres-de-droit-en:
     description: "Musiques libres de droit! \r\nA \xE9couter encore et encore dans\
       \ toutes les langues."
@@ -2539,6 +2559,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/protege-la-planete-enfants-ados-fr.zip
     version: '2018-02-28'
+  protege-la-planete-fr:
+    description: "Pourquoi c'est important de prot\xE9ger la plan\xE8te ? Que peux-tu\
+      \ faire pour la prot\xE9ger, toi aussi ?"
+    language: fr
+    name: "Prot\xE8ge la plan\xE8te ! [Enfants/Ados]"
+    sha256sum: da5c6901d9c29e52821092a9d0a0ece354319f64c10bff9b04e90da62c2392cc
+    size: 1912959233
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/protege-la-planete-fr.zip
+    version: '2018-04-06'
   recherche-demploi-fr:
     description: "Vous cherchez un emploi ? Vous trouverez ici de quoi vous aider\
       \ \xE0 pr\xE9parer candidature et entretien d'embauche."
@@ -2564,11 +2594,11 @@ all:
       \ sa t\xEAte. Et vous ? Comment voyez-vous votre corps ?"
     language: fr
     name: Relation au corps
-    sha256sum: 857e743f86b7937ae961bd1f49af644a98e0f223d8179c75a1fe754f723f65dc
+    sha256sum: 179a8bf5fc29e725776c5ba207156056d2843f45b1df90387ad6ea2273143608
     size: 240113252
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/relation-au-corps-fr.zip
-    version: '2017-08-28'
+    version: '2018-04-06'
   renseignez-vous-sur-les-demarches-administratives-fr:
     description: "Retrouvez ici quelques guides pour vous aider \xE0 vous rep\xE9\
       rer dans le labyrinthe des d\xE9marches administratives. Pour d\xE9fendre ses\
