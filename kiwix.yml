@@ -828,12 +828,12 @@ all:
     langid: "wikipedia.sw"
     description: "Kutoka Wikipedia, kamusi elezo huru"
     name: Wikipedia
-    version: "2017-01-09"
+    version: "2017-08-20"
     language: "swa"
-    id: "d951a53b-7592-cd78-5ba9-c7d2afe39eb1"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_sw_all_2017-01.zip"
-    size: 522943674
-    sha256sum: "47955245686685ace1315e39863a75a23df977fbca4b2a098780a81a5e584146"
+    id: "1820cb7a-0c9e-7257-085d-87c539cb0085"
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_sw_all_novid_2017-08.zip"
+    size: 541737656
+    sha256sum: "945c2fd5e1ee0628ef6dcde0e2b852e29dce77938ee1a1e5e1b28d8b08c6608f"
     type: zipped-zim
   vikidia.es:
     langid: "vikidia.es"
