@@ -88,14 +88,14 @@ all:
     langid: "wikipedia.rn"
     type: zipped-zim
   wiktionary.en:
-    version: "2016-12-18"
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_en_all_2016-12.zip"
+    version: "2017-08-13"
+    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_en_all_novid_2017-08.zip"
     name: Wiktionary
     language: "eng"
     description: The free dictionary
-    id: "199d49d6-eed1-ab2c-9265-4f23acedc5ac"
-    size: 3001359006
-    sha256sum: "103125e5b27d62bc9c2d0f00193b5d3f63c11fdc108b7d9434d2d9d213afe82d"
+    id: "b371ea48-9194-8daa-dbd3-e127803041ec"
+    size: 3094331363
+    sha256sum: "7e4f9b3eac633cd1ea932399211986f72d4a65fa0a0e14eb684b774b383779c1"
     langid: "wiktionary.en"
     type: zipped-zim
   wiktionary.fr:
