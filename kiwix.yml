@@ -121,14 +121,14 @@ all:
     langid: "wikiversity.en"
     type: zipped-zim
   wikiversity.fr:
-    version: "2016-12-19"
-    size: 621497756
-    url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_fr_all_2016-12.zip"
+    version: "2017-07-27"
+    size: 529210858
+    url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_fr_all_novid_2017-07.zip"
     name: Wikiversité
     language: "fra"
     description: "Une page de Wikiversité."
-    id: "a7800827-8fc6-ef8e-25d2-ee97d0e6cf92"
-    sha256sum: "e6ff62f79b0f4cb7fb39779dd22839e4cce6d7628676375942a7d5def0e670a0"
+    id: "c3732002-c412-4879-1d81-8791a80b21f9"
+    sha256sum: "b692f3f98319049af714724956c4a63aebf48c1985ee163d52e00a9fc5ad5685"
     langid: "wikiversity.fr"
     type: zipped-zim
   wikibooks.en:
