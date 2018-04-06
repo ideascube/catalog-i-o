@@ -176,14 +176,14 @@ all:
     langid: "wikisource.en"
     type: zipped-zim
   wikisource.fr:
-    version: "2017-02-21"
-    size: 9405473685
-    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_fr_all_2017-02.zip"
+    version: "2018-03-13"
+    size: 12673186442
+    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_fr_all_novid_2018-03.zip"
     name: Wikisource
     language: "fra"
     description: "La bibliothèque libre."
-    id: "6412bd33-0475-ba99-8736-31d1cafe0c3f"
-    sha256sum: "a276545cbea0dd90c4dc1a495a37a5ca0cb8a50e22a8a96808208901bd4299d6"
+    id: "ba4f71a8-7bc2-4bfe-824a-570f4790283f"
+    sha256sum: "2f32cafb850bf17be4d2b57fa8b29c35b5533411fcb7dcb955c807be55de8c12"
     langid: "wikisource.fr"
     type: zipped-zim
   cest-pas-sorcier.fr:
