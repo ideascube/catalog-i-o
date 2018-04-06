@@ -55,14 +55,14 @@ all:
     type: zipped-zim
     langid: "wikipedia.ti"
   wikipedia.en:
-    version: "2016-05-17"
-    size: 65652955268
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_en_all_2016-05.zip"
+    version: "2017-08-27"
+    size: 77874429841
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_en_all_novid_2017-08.zip"
     name: Wikipedia
     language: "eng"
     description: The free encyclopedia
-    id: "5c5a3376-d3df-4bcb-7acd-ceceb1913246"
-    sha256sum: "06dce08ab7a34acb352d47748b87d96914843ba55d3544c48160090627577964"
+    id: "74af3be1-dc8e-f7da-8e62-b3e474317599"
+    sha256sum: "29f03b230a4ef6557fcc609867f0e208245d482fdc2a620db1ce7c03c7ff77dc"
     langid: "wikipedia.en"
     type: zipped-zim
   wikipedia.fr:
