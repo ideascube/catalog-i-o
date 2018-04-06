@@ -1046,3 +1046,13 @@ all:
     size: 198013082
     sha256sum: "92e891142a75f05c381ecd7846b40e2e64e94c47a5658986eff08940ea4f695a"
     type: zipped-zim
+  ekopedia.fr:
+    name: "Ekopedia"
+    description: "Un article de Ékopédia, l'encyclopédie pratique."
+    version: "2018-04-01"
+    language: "fra"
+    id: "98a4f674-98e3-74e3-ab77-650214439e01"
+    url: "http://download.kiwix.org/portable/other/kiwix-0.9+ekopedia_fr_all_2018-04.zip"
+    size: 220045208
+    sha256sum: "9b396ceaa0c5ebe613b02adc3489eadd9a84f654c4b0c1aa3f50d0cb15cc835b"
+    type: zipped-zim
