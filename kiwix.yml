@@ -451,14 +451,14 @@ all:
     langid: "wikipedia.ar"
     type: zipped-zim
   vikidia.fr:
-    version: "2017-08-04"
-    size: 818908749
-    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_fr_all_2017-08.zip"
+    version: "2018-03-09"
+    size: 885577803
+    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_fr_all_2018-03.zip"
     name: Vikidia
     language: "fra"
     description: "Vikidia"
-    id: "a2ef73b3-462c-761b-189c-5cf868b1d2f9"
-    sha256sum: "af1ced2611dfebbc57b3aaa32e539eee442b62aa3ff6d1ea8b84f487c497008d"
+    id: "0d4d758e-17e7-51e6-07db-e440d43af9c5"
+    sha256sum: "a0ab0c1188a67d4495ab3ea1bb0f1d6b08940ae505eab9329298a314a9a0f367"
     langid: "vikidia.fr"
     type: zipped-zim
   wikipedia.ku:
