@@ -1154,6 +1154,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fiche-creativite-libres-de-droit-fr.zip
     version: '2018-03-27'
+  fiches-d-activites-play-international-fr:
+    name: "Fiches d'activit\xE9s Play International"
+    description: "Dans ce paquet, vous trouverez des fiches d'activit\xE9s cr\xE9\xE9\
+      es par Play International. Il s'agit de s\xE9ances de jeux sportifs concernant\
+      \ les th\xE9matiques de l'activit\xE9 physique, du sommeil, de l'alimentation,\
+      \ et du vivre ensemble."
+    language: fr
+    version: '2018-04-09'
+    url: http://packages.ideascube.org/omeka/fiches-d-activites-play-international-fr.zip
+    size: 11774566
+    sha256sum: cd473244e58c3871946df9b95e190d05512b876e4d30e9870bf2c8a732cd6293
+    type: zipped-medias
   fiches-d-activites-sante-fr:
     description: "Vous trouverez des fiches d'activit\xE9s pour mener vos actions\
       \ en sant\xE9"
