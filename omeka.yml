@@ -491,15 +491,15 @@ all:
     url: http://packages.ideascube.org/omeka/classical-music-en.zip
     version: '2018-02-23'
   combattons-les-discriminations-fr:
+    name: Combattons les discriminations
     description: "Genre, couleur de peau, handicap, religion... La discrimination\
       \ trouve tous les pr\xE9textes. D\xE9tectons-les, et combattons-les. (Adultes)"
     language: fr
-    name: Combattons les discriminations
-    sha256sum: 0ed93dceb4667ad245d5a9c3163b34c37cd4616841f064d2003c830db2e3d087
-    size: 1537449963
-    type: zipped-medias
+    version: '2018-04-10'
     url: http://packages.ideascube.org/omeka/combattons-les-discriminations-fr.zip
-    version: '2018-04-06'
+    size: 1537449963
+    sha256sum: 554861d53906f31c52c15018077d0f2fe2108b4fadc97237319de3b8a4891c95
+    type: zipped-medias
   comment-faire-face-a-la-violence-et-aux-conflits-enfants-ados-fr:
     description: '"La paix, comment on fait ?"'
     language: fr
