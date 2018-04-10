@@ -2533,15 +2533,15 @@ all:
     url: http://packages.ideascube.org/omeka/preparer-son-chantier-electrique-sikana-fr.zip
     version: '2018-03-01'
   prevention-addictions-fr:
+    name: "Pr\xE9vention addictions"
     description: Mieux comprendre les effets de l'alcool sur nos comportements, et
       leurs origines.
     language: fr
-    name: "Pr\xE9vention addictions"
-    sha256sum: d8ece12b7fb317ee84c86e698a3603413a11122947cb453335e0db584ef45484
-    size: 21602070
-    type: zipped-medias
+    version: '2018-01-26'
     url: http://packages.ideascube.org/omeka/prevention-addictions-fr.zip
-    version: '2018-01-18'
+    size: 21602070
+    sha256sum: 1f7a37d8ea8c5da87f117fc63ba83e183a59dbc98ca8176cdfd9155223406fbf
+    type: zipped-medias
   prevention-et-sexualite-fr:
     description: "La sexualit\xE9, il faut en parler pour \xEAtre en toute s\xE9curit\xE9\
       . Vous trouverez ici les informations n\xE9cessaires."
