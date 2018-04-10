@@ -319,16 +319,16 @@ all:
     url: http://packages.ideascube.org/omeka/audiobooks-et-fictions-sonores-fr.zip
     version: '2018-01-18'
   bien-etre-et-communication-au-travail-fr:
-    description: "Vous trouverez ici diff\xE9rentes vid\xE9os pour prendre confiance\
-      \ en vous et vous affirmer au travail. Vous trouverez \xE9galement  des cl\xE9\
-      s pour d\xE9samorcer et r\xE9soudre des conflits."
+    description: "Ici, des outils pour travailler votre confiance en vous et vous\
+      \ affirmer au travail. Et des cl\xE9s pour d\xE9samorcer et r\xE9soudre des\
+      \ conflits."
     language: fr
     name: "Bien-\xEAtre et communication au travail"
-    sha256sum: 62a62700e61d119e5caaaa276474b612a99733b471085e5a5b78fe09a3655d91
-    size: 286574707
+    sha256sum: 5a3c992605b188a4d03e2e095fde1d4028a34d0880f4cbc0ec7422577e5146f2
+    size: 286575149
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/bien-etre-et-communication-au-travail-fr.zip
-    version: '2017-06-13'
+    version: '2018-04-10'
   biologie-adolescents-fr:
     description: "Pars \xE0 la d\xE9couverte du corps humain !"
     language: fr
@@ -491,15 +491,15 @@ all:
     url: http://packages.ideascube.org/omeka/classical-music-en.zip
     version: '2018-02-23'
   combattons-les-discriminations-fr:
-    name: Combattons les discriminations
     description: "Genre, couleur de peau, handicap, religion... La discrimination\
       \ trouve tous les pr\xE9textes. D\xE9tectons-les, et combattons-les. (Adultes)"
     language: fr
-    version: '2018-04-10'
-    url: http://packages.ideascube.org/omeka/combattons-les-discriminations-fr.zip
-    size: 1537449963
+    name: Combattons les discriminations
     sha256sum: 554861d53906f31c52c15018077d0f2fe2108b4fadc97237319de3b8a4891c95
+    size: 1537449963
     type: zipped-medias
+    url: http://packages.ideascube.org/omeka/combattons-les-discriminations-fr.zip
+    version: '2018-04-10'
   comment-faire-face-a-la-violence-et-aux-conflits-enfants-ados-fr:
     description: '"La paix, comment on fait ?"'
     language: fr
@@ -595,16 +595,16 @@ all:
     url: http://packages.ideascube.org/omeka/creation-d-association-fr.zip
     version: '2017-10-26'
   creation-d-entreprise-fr:
-    description: "Cr\xE9er son entreprise implique de multiples \xE9tapes : Vous trouverez\
+    description: "Cr\xE9er son entreprise implique de multiples \xE9tapes : vous trouverez\
       \ ici des conseils pour formuler votre projet, r\xE9diger votre business plan\
       \ ou encore vous assurer de la faisabilit\xE9 de votre projet."
     language: fr
     name: "Cr\xE9ation d'entreprise"
-    sha256sum: d8a92089d12c380a503082da0790d424160e420ba55c34d8e5f615e73d64e038
-    size: 1024185826
+    sha256sum: 0c760383dca3359bd65401557ca5564b5cf450dd4ce221bce7b27ed9aeaf4b4f
+    size: 1024185770
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creation-d-entreprise-fr.zip
-    version: '2018-01-18'
+    version: '2018-04-10'
   creation-sikana-es:
     description: '-'
     language: es
@@ -726,6 +726,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/decouvrez-differents-sports-fr.zip
     version: '2018-01-18'
+  decouvrez-le-street-art-fr:
+    description: "Pour comprendre les \u0153uvres qui recouvrent les murs de nos villes\
+      \ et la signification de ces graffiti, venez d\xE9couvrir le monde du street\
+      \ art !"
+    language: fr
+    name: "D\xE9couvrez le street art"
+    sha256sum: 77ef37621c2d9274748243cf3cdc8268d3951dd8cc2c21afc8cf1a812998f728
+    size: 324940633
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/decouvrez-le-street-art-fr.zip
+    version: '2018-04-10'
   decouvrez-les-arts-plastiques-fr:
     description: "D\xE9tendez-vous, exprimez-vous, cr\xE9ez ! Il y a un artiste en\
       \ chacun de nous, \xE0 vous de le r\xE9v\xE9ler..."
@@ -1154,18 +1165,27 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fiche-creativite-libres-de-droit-fr.zip
     version: '2018-03-27'
+  fiches-creativite-libre-de-droit-fr:
+    description: Pour animer
+    language: fr
+    name: "Fiche cr\xE9ativit\xE9 - libres de droit"
+    sha256sum: d2936f52e45269821294c1b6163eb1ccd80e14e2d7c1a24f1cc4bcc8f723c0f1
+    size: 9451521
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/fiches-creativite-libre-de-droit-fr.zip
+    version: '2018-04-10'
   fiches-d-activites-play-international-fr:
-    name: "Fiches d'activit\xE9s Play International"
     description: "Dans ce paquet, vous trouverez des fiches d'activit\xE9s cr\xE9\xE9\
       es par Play International. Il s'agit de s\xE9ances de jeux sportifs concernant\
       \ les th\xE9matiques de l'activit\xE9 physique, du sommeil, de l'alimentation,\
       \ et du vivre ensemble."
     language: fr
-    version: '2018-04-09'
-    url: http://packages.ideascube.org/omeka/fiches-d-activites-play-international-fr.zip
-    size: 11774566
+    name: "Fiches d'activit\xE9s Play International"
     sha256sum: cd473244e58c3871946df9b95e190d05512b876e4d30e9870bf2c8a732cd6293
+    size: 11774566
     type: zipped-medias
+    url: http://packages.ideascube.org/omeka/fiches-d-activites-play-international-fr.zip
+    version: '2018-04-09'
   fiches-d-activites-sante-fr:
     description: "Vous trouverez des fiches d'activit\xE9s pour mener vos actions\
       \ en sant\xE9"
@@ -1225,14 +1245,14 @@ all:
     url: http://packages.ideascube.org/omeka/filles-garcons-quelle-place-pour-qui-fr.zip
     version: '2017-11-24'
   films-et-videos-libres-de-droit-fr:
-    description: "A regarder ! De tous genre et pour tous les \xE2ges!"
+    description: "A regarder ! Tous les genres, pour tous les \xE2ges."
     language: fr
     name: "Films et vid\xE9os"
-    sha256sum: 34233b4fb155620d403dc1d1be06f9f1f7b8cc0d218639eb3b4265cbc8cbf8ca
+    sha256sum: d94171f41e577211c729112a03d4a66afc979bc77a540171c71ad81a870e3e07
     size: 7395483503
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/films-et-videos-libres-de-droit-fr.zip
-    version: '2018-03-26'
+    version: '2018-04-10'
   films-fr:
     description: "Une com\xE9die ? Un drame ? Un policier ? D\xE9couvrez ou red\xE9\
       couvrez ici quelques films muets ou en fran\xE7ais."
@@ -1865,6 +1885,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/kit-de-l-animateur-fr.zip
     version: '2018-04-06'
+  kit-de-l-animateur-libre-de-droit-fr:
+    description: "Support de m\xE9diation pour l'animateur-trice"
+    language: fr
+    name: ebook - kit de l'animateur - libre de droit
+    sha256sum: 1356769625427cb4ff5988e133e44f6eda09246734bf5e0565193d4cf7562f19
+    size: 54793405
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/kit-de-l-animateur-libre-de-droit-fr.zip
+    version: '2018-04-10'
   kit-de-l-animateur-libres-de-droit-fr:
     description: "Support de m\xE9diation pour l'animateur-trice"
     language: fr
@@ -2291,6 +2320,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/musique-fr.zip
     version: '2018-04-06'
+  musique-libre-de-droit-en:
+    description: "Musiques libres de droit! \r\nA \xE9couter encore et encore dans\
+      \ toutes les langues."
+    language: en
+    name: Musique
+    sha256sum: 22712caaff5ebfea60c2b9d9d60508994f744ee33b2999298550ffcc00195295
+    size: 1115883753
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/musique-libre-de-droit-en.zip
+    version: '2018-04-10'
   musique-libres-de-droit-en:
     description: "Musiques libres de droit! \r\nA \xE9couter encore et encore dans\
       \ toutes les langues."
@@ -2533,15 +2572,15 @@ all:
     url: http://packages.ideascube.org/omeka/preparer-son-chantier-electrique-sikana-fr.zip
     version: '2018-03-01'
   prevention-addictions-fr:
-    name: "Pr\xE9vention addictions"
     description: Mieux comprendre les effets de l'alcool sur nos comportements, et
       leurs origines.
     language: fr
-    version: '2018-01-26'
-    url: http://packages.ideascube.org/omeka/prevention-addictions-fr.zip
-    size: 21602070
+    name: "Pr\xE9vention addictions"
     sha256sum: 1f7a37d8ea8c5da87f117fc63ba83e183a59dbc98ca8176cdfd9155223406fbf
+    size: 21602070
     type: zipped-medias
+    url: http://packages.ideascube.org/omeka/prevention-addictions-fr.zip
+    version: '2018-01-26'
   prevention-et-sexualite-fr:
     description: "La sexualit\xE9, il faut en parler pour \xEAtre en toute s\xE9curit\xE9\
       . Vous trouverez ici les informations n\xE9cessaires."
@@ -2655,11 +2694,11 @@ all:
       \ le num\xE9rique"
     language: fr
     name: "Risques num\xE9riques"
-    sha256sum: bc1157dde8da975d8e504110cab6fb3611fc5afc217cdcac6ac9e696a76ed47f
-    size: 17518901
+    sha256sum: 21df042c0051eea03dde1e3c47622de27afa7bc564cc643d5622c7167ba667f1
+    size: 31021280
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/risques-numeriques-fr.zip
-    version: '2017-11-24'
+    version: '2018-04-10'
   sante-fr:
     description: "\"Un petit kit pour avoir les bons r\xE9flexes de premiers secours\
       \ et savoir pr\xE9venir les maladies et infections... Pour soi, et pour les\
@@ -2867,11 +2906,11 @@ all:
       \ informations que l'on trouve sur la toile !"
     language: fr
     name: "Utilisez internet en toute s\xE9curit\xE9 !"
-    sha256sum: d941be39346e0bb0d36ddc89da13bb466ae92ea886565e2ef2f17239d9b74720
-    size: 473574875
+    sha256sum: 6fd3746361bd7d601e50b674b0a503cd7110e78e84a79ec356b7681c1fdaff56
+    size: 479598281
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/utilisez-internet-en-toute-securite-fr.zip
-    version: '2018-01-18'
+    version: '2018-04-10'
   vih-sida-fr:
     description: "Conna\xEEtre le vih sida, les risques de contamination, les moyens\
       \ de pr\xE9vention et de protection"
