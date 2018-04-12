@@ -561,7 +561,7 @@ all:
     langid: "wikiversity.ar"
     type: zipped-zim
   wikipedia.es:
-    version: "2017-05-28"
+    version: "2018-08-28"
     size: 18823025657
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_es_all_novid_2017-08.zip "
     name: Wikipedia
