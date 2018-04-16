@@ -756,7 +756,7 @@ all:
     id: "970e7b1c-e2b7-cf04-5a64-77a20df3c383"
     url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_el_all_novid_2017-07.zip"
     size: 204308245
-    sha256sum: "05fa32bd4ec3e4713d3eb05022dfd9c7cc167a6ad6c38e61486c6d32928"
+    sha256sum: "05fa32bd4ec3e4713d3eb05022dfd9c7cc167a6ad6c38e61486c6d3292861cbb"
     type: zipped-zim
   biologie-tout-compris.fr:
     langid: "biologie-tout-compris.fr"
