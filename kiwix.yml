@@ -561,14 +561,14 @@ all:
     langid: "wikiversity.ar"
     type: zipped-zim
   wikipedia.es:
-    version: "2018-08-28"
-    size: 18823025657
+    version: "2018-08-10"
+    size: 19204380387
     url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_es_all_novid_2017-08.zip "
     name: Wikipedia
     language: "spa"
     description: "De Wikipedia, la enciclopedia libre"
     id: "caf07434-7b74-8a95-f0e0-3e1b53016829"
-    sha256sum: "78e94967a880d2e5995e18fb46540bd825e2046a716c9c5314e72cf3088eebc1"
+    sha256sum: "e017522db3a7a55f591492420c7421f605b0ff9bf5b415520f9afc32432a2267"
     langid: "wikipedia.es"
     type: zipped-zim
   gutenberg.es:
