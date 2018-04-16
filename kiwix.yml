@@ -751,12 +751,12 @@ all:
     langid: "wikiquote.el"
     description: "Από Βικιφθέγματα"
     name: Βικιφθέγματα
-    version: "2017-03-01"
+    version: "2017-07-26"
     language: "ell"
-    id: "d8a2a44d-2a24-dd3a-6fad-fb42942e005d"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_el_all_2017-03.zip"
-    size: 204291744
-    sha256sum: "1fe50bfbea96fc6fca235a38a9ad483a650259c4e01c8856b3570f029748ed49"
+    id: "970e7b1c-e2b7-cf04-5a64-77a20df3c383"
+    url: "https://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_el_all_novid_2017-07.zip"
+    size: 204308245
+    sha256sum: "05fa32bd4ec3e4713d3eb05022dfd9c7cc167a6ad6c38e61486c6d32928"
     type: zipped-zim
   biologie-tout-compris.fr:
     langid: "biologie-tout-compris.fr"
