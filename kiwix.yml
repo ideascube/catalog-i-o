@@ -563,7 +563,7 @@ all:
   wikipedia.es:
     version: "2018-08-10"
     size: 19204380387
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_es_all_novid_2017-08.zip "
+    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_es_all_novid_2017-08.zip"
     name: Wikipedia
     language: "spa"
     description: "De Wikipedia, la enciclopedia libre"
