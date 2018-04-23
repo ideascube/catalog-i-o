@@ -936,13 +936,13 @@ all:
     type: zipped-zim
   wikiquote.fr:
     name: "Wikiquote"
-    description: "La collection libre de citations"
-    version: "2017-03-02"
+    description: "le recueil de citations libre"
+    version: "2017-07-26"
     language: "fra"
-    id: "5677cfa0-b941-dea1-9416-8b91e75bf57c"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fr_all_2017-03.zip"
-    size: 247530675
-    sha256sum: "89570e53375dcbed55b8b6c5dce0aab463b9c247dfcc8630ef7e054389788969"
+    id: "91e8e449-0a0e-3eb3-08bd-dc1f7e3f37d4"
+    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fr_all_novid_2017-07.zip"
+    size: 249104966
+    sha256sum: "bdb0af7931609f8f171d5d8f0c07b2a661dfc7d8ee3a143d80844a80950a711b"
     type: zipped-zim
   wikipedia.ckb:
     version: "2016-11-21"
