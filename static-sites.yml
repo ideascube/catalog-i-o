@@ -20,6 +20,7 @@ all:
   help.unhcr.org:
     name: UNHCR - Finding Help in Greece
     version: "2017-04-19"
+    language: "en"
     description: Website for refugees and asylum seekers in Greece.
     url: http://packages.ideascube.org/static-sites/help.unhcr.org/help.unhcr.org.zip
     sha256sum: 7b742322d8ab48d8ac6d42d7d1e5bee9ba5e2e118e3844be76a63d90dd18c530
