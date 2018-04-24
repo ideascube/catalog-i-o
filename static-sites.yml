@@ -29,6 +29,7 @@ all:
   sabelotodo.es:
     name: Sabelotodo.org, la web del saber
     version: "2017-03-29"
+    language: "es"
     description: Ser cultos para sel libres.
     url: http://packages.ideascube.org/static-sites/sabelotodo.zip
     sha256sum: 9942e975e3f5c62bf942779569111b28a34b7533ace28368499e0d593cfb7092
@@ -38,6 +39,7 @@ all:
     name: Icarito
     description: Descarga fichas de estudio, galerías de fotos, ilustraciones y videos.
     version: "2017-03-29"
+    language: "es"
     url: http://packages.ideascube.org/static-sites/icarito.zip
     sha256sum: 5395b9146b5f012fefd563eb49746784b1e6cf84d5ac597376401bdef99c890e
     size: 30268090
@@ -46,6 +48,7 @@ all:
     name: Welcome to Europe refugees website
     version: "2017-04-20"
     url: http://packages.ideascube.org/w2eu/w2eu.zip
+    language: "en"
     sha256sum: cb803574fd5e91876603ea62fe12df0aca6f2dbccf82fc33aee9e48e7b1ccd8a
     size: 128787858
     type: static-site
@@ -54,6 +57,7 @@ all:
     name: Click Info Ado
     version: "2016-04-21"
     url: http://packages.ideascube.org/clickinfoado/clickinfoado.sn.zip
+    language: "sn"
     sha256sum: e9ff96f824c93943315eb0bf95bf6482e5d7be03120fe3f56efbc866045871aa
     size: 78473936
     type: static-site
@@ -61,6 +65,7 @@ all:
     name: Snap!
     version: "2016-10-06"
     description: Programming language for kids and adults.
+    language: "en"
     url: http://packages.ideascube.org/snap/snap.zip
     sha256sum: b2a43ce9f1969ca6735eea55a11850361077b5e07f122514857f5208dfe41a08
     size: 923096
