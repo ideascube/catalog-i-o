@@ -55,9 +55,10 @@ all:
     dump: wget --verbose --mirror --no-clobber --page-requisites --adjust-extension --convert-links --restrict-file-names=windows --no-parent -e robots=off --wait=0 --random-wait -U mozilla --directory-prefix=/home/florian/Téléchargements/sites/ --waitretry=5  http://w2eu.info/ && cd w2eu.info && zip -r w2eu.zip .
   clickinfoado.sn:
     name: Click Info Ado
+    description: Apprendre à vivre Sénégal
     version: "2016-04-21"
     url: http://packages.ideascube.org/clickinfoado/clickinfoado.sn.zip
-    language: "sn"
+    language: fr
     sha256sum: e9ff96f824c93943315eb0bf95bf6482e5d7be03120fe3f56efbc866045871aa
     size: 78473936
     type: static-site
