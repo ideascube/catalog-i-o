@@ -127,12 +127,12 @@ all:
   apprends-le-francais-a1-enfants-adolescents-fr:
     description: "Pars \xE0 la d\xE9couverte de la langue fran\xE7aise, en image !"
     language: fr
-    name: "Apprends le fran\xE7ais ! A1 [Enfants, Adolescents]"
-    sha256sum: 6cadf1c63340c7c4adb2312907e01805096a158e4242cc3c1d800cf78a085591
+    name: "Apprends le fran\xE7ais ! A1"
+    sha256sum: a5474afd7c4ef4f4669e32cbb7368ce540f428a3944401d0a84f26f6d888b08b
     size: 13573811
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprends-le-francais-a1-enfants-adolescents-fr.zip
-    version: '2018-01-18'
+    version: '2018-04-24'
   apprends-le-francais-a2-enfants-adolescents-fr:
     description: "Apprends \xE0 faire des phrases en fran\xE7ais !"
     language: fr
@@ -286,6 +286,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arriver-en-france-et-connaitre-ses-droits.zip
     version: '2017-09-29'
+  arriver-en-france-et-connaitre-ses-droits-fr:
+    description: "Vous trouverez ici des informations pour vous accompagner dans vos\
+      \ d\xE9marches administratives: demandes d'asile, acc\xE8s aux soins, regroupement\
+      \ familial...etc."
+    language: fr
+    name: "Arriver en France et conna\xEEtre ses droits"
+    sha256sum: 21aeffde25085f4e9cbe6370f115b6337a159e41d76c62a77912094d78f42131
+    size: 778956447
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/arriver-en-france-et-connaitre-ses-droits-fr.zip
+    version: '2018-04-24'
   arts-afrique-fr:
     description: Les arts plastiques, la danse... Les formes d'arts ne manquent pas,
       et font partie de la richesse d'un pays et d'une culture !
@@ -1036,12 +1047,12 @@ all:
     description: "Respire, \xE9coute tes \xE9motions, es-tu en col\xE8re, joyeux,\
       \ triste ? Tu te sentiras mieux avec toi m\xEAme et avec les autres !"
     language: fr
-    name: "Ecoute tes \xE9motions ! [Enfants/Ados]"
-    sha256sum: 3d3553d226cfc412bc66377b6f4ed2a0d9de2b9174a3633055b066c49722abb9
-    size: 169504857
+    name: "Ecoute tes \xE9motions !"
+    sha256sum: e82ff36686df34227ceb22ac447f06cb8be6c40ca9e580371fd9dc01e0f425c3
+    size: 168586582
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ecoute-tes-emotions-enfants-ados-fr.zip
-    version: '2018-01-18'
+    version: '2018-04-24'
   ecriture-et-litterature-fr:
     description: "\"Vous avez toujours r\xEAv\xE9 de devenir \xE9crivain ? C'est le\
       \ moment de vous lancer !\""
@@ -1239,11 +1250,11 @@ all:
       \ gar\xE7ons?"
     language: fr
     name: "Filles, gar\xE7ons, quelle place pour qui?"
-    sha256sum: c65a6351d2b04f55794a8fdedeed16c90bdc0a8a7cc64fb51dac7c8c179182bf
+    sha256sum: ec40f982181309ffde8b2466dc44585e8dcdc5d963de58247992701739497b69
     size: 146760683
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/filles-garcons-quelle-place-pour-qui-fr.zip
-    version: '2017-11-24'
+    version: '2018-04-24'
   films-et-videos-libres-de-droit-fr:
     description: "A regarder ! Tous les genres, pour tous les \xE2ges."
     language: fr
