@@ -154,14 +154,14 @@ all:
     langid: "wikibooks.fr"
     type: zipped-zim
   wikibooks.es:
-    version: "2017-07-04"
-    size: 460658027
-    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_es_all_2017-02.zip"
+    version: "2018-03-30"
+    size: 429850851
+    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_es_all_novid_2018-03.zip"
     name: Wikilibros
     language: "esp"
     description: De Wikilibros, la colección de libros de texto de contenido libre.
-    id: "dc5339bd-ab31-7f25-d20e-ce8a6fd31f2f"
-    sha256sum: "67ff486311c33673dfa237aef1160c51a59b1c9c77e07da0e38c36df15eedff6"
+    id: "2cf2886a-95d6-6991-0ba8-2a47371f4721"
+    sha256sum: "4715e10a8765e5803f89e431e08db1d2174cec660ac1e3fa8e8c4831f9634140"
     langid: "wikibooks.es"
     type: zipped-zim
   wikisource.en:
