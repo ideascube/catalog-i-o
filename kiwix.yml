@@ -861,12 +861,12 @@ all:
     langid: "wikiquote.es"
     description: "De Wikiquote, la colección libre de citas y frases célebres."
     name: Wikiquote
-    version: "2017-03-02"
+    version: "2017-07-26"
     language: "spa"
-    id: "de6acca9-930f-cec7-cd6b-216b0c3efc33"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_es_all_2017-03.zip"
-    size: 275932725
-    sha256sum: "6ce59544b3c90bd4b88c7f99476b74c54f41a20679430a610c340257ef0352e0"
+    id: "c0d1099a-ef75-2e05-8b56-b83bc2bb21bf"
+    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_es_all_novid_2017-07.zip"
+    size: 277372098
+    sha256sum: "a3de80b39f80d9f78de6cc01152e7c836825120bd190ebea416d899841762298"
     type: zipped-zim
   wikisource.es:
     langid: "wikisource.es"
