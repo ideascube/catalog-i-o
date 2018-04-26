@@ -24,12 +24,12 @@ all:
   wiktionary.es:
     name: Wikcionario
     description: "De Wikcionario, el diccionario libre"
-    version: "2017-08-24"
+    version: "2017-08-25"
     language: "esp"
-    id: "571264d0-c03f-fc14-075b-33d587a37c6e"
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_es_all_2016-12.zip"
-    size: 747112777
-    sha256sum: "bd1ef1554b61c5fd5959ebc6b2c7622ec94de2e642050dd9a4b149a4c2b9fd89"
+    id: "1f1acd5f-90d1-40de-fee3-fb9f62dcfe31"
+    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_es_all_novid_2017-08.zip"
+    size: 618978274
+    sha256sum: "affa2ae587e4cfa7fd908653b3ac9bb8f47ba3c63f35c16e5a784fdfb9368208"
     type: zipped-zim
     langid: "wiktionary.es"
   wiktionary.ti:
