@@ -619,12 +619,12 @@ all:
   creation-sikana-es:
     description: '-'
     language: es
-    name: Creation sikana
-    sha256sum: 8e47a2ab3deb5ecfd2c41608206c6ebaadeecb03699d1a6a328f952c5b1b51ac
+    name: Creation
+    sha256sum: 199347bb1340d0f61ee351e7f1451ff7f9acf786273172ee90b8ae7c3b8fd6a9
     size: 378204198
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creation-sikana-es.zip
-    version: '2018-03-15'
+    version: '2018-04-26'
   creatividad-colsubsidio-es:
     description: '-'
     language: es
@@ -638,11 +638,11 @@ all:
     description: '-'
     language: es
     name: creatividad video
-    sha256sum: 5f459c3924ef94ea56d04c66603f4b37e04f46298a36234028a76468243e3338
-    size: 4928411661
+    sha256sum: 240fe90c0b408697115042e01edee3d36f68a3de7a7f735853d921adddbc38f2
+    size: 4591712692
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creatividad-cucuta-video-es.zip
-    version: '2018-03-15'
+    version: '2018-04-26'
   cuisine-et-nutrition-enfants-fr:
     description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
     language: fr
@@ -685,20 +685,20 @@ all:
     description: '-'
     language: es
     name: cultura general video
-    sha256sum: a0781f35461cb25eeebdc64c9f1a5fa73bee24dec6ef05019dec8474ea6c2bec
+    sha256sum: cec5c5245359bdebd77b4d30abbe7e98e65dfbec41b7c7fb292e80c6ce5b8eee
     size: 214133359
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultura-general-cucuta-video-es.zip
-    version: '2018-03-15'
+    version: '2018-04-26'
   cultura-sikana-es:
     description: '-'
     language: es
-    name: cultura sikana
-    sha256sum: 01c385ef2ec48926b7fe80010c80a7b5371daccdad70f8edbd2416ffad9eb588
-    size: 152254067
+    name: Cultura
+    sha256sum: d4de836aa4d4b0a8a1ccf52a57781cbe2e89c540cd2f0c2aee3bc9cea1f3739c
+    size: 149139002
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultura-sikana-es.zip
-    version: '2018-03-15'
+    version: '2018-04-26'
   culture-colsubsidio-es:
     description: '-'
     language: es
@@ -1076,11 +1076,11 @@ all:
     description: '-'
     language: es
     name: "educaci\xF3n video"
-    sha256sum: 65843b34b7c62b4a03ceb186a308c9623c47508ad60e3be65d6d51905ba94b54
+    sha256sum: 4fb6dae5eee62b2011d71e7591ee14fcc9146f03cd44b6b29e526242b593436c
     size: 6498158078
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/educacion-cucuta-video-es.zip
-    version: '2018-03-15'
+    version: '2018-04-26'
   educacion-ebook-es:
     description: '-'
     language: es
@@ -1322,12 +1322,12 @@ all:
   formacion-profesional-sikana-es:
     description: '-'
     language: es
-    name: formacion profesional sikana
-    sha256sum: 3bb8ac39083feacfa11934075de6143f0ec3b67ea7d6eaf615bf38ee87aa8866
-    size: 1248997137
+    name: Formacion profesional
+    sha256sum: 544a678d678cf7aa3c164465d753464425e0a2b354cb8e4b45eaf08c3a465669
+    size: 1120963448
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/formacion-profesional-sikana-es.zip
-    version: '2018-03-15'
+    version: '2018-04-26'
   genetique-et-epigenetique-fr:
     description: "Qu'est-ce que l'\xE9pig\xE9n\xE9tique ? En quoi cette discipline\
       \ diff\xE8re-t-elle de la g\xE9n\xE9tique ? Des chercheurs expliquent ici l'histoire\
@@ -1545,11 +1545,11 @@ all:
     description: '-'
     language: es
     name: informacion video
-    sha256sum: b92b6e1849176abe63518119e484f0215bbc02100903591b053cd4d2392d99ab
-    size: 555007920
+    sha256sum: 76e52464eec6f1c140761fcc21e6496daf324d4e657096d5aef96f578a1c2f82
+    size: 555007925
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/informacion-cucuta-video-es.zip
-    version: '2018-03-15'
+    version: '2018-04-26'
   informacion-ebook-es:
     description: '-'
     language: es
