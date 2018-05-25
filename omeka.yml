@@ -51,6 +51,33 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/abuse-and-harassment-gbv-ar.zip
     version: '2018-02-23'
+  adam-wa-mishmish-ar:
+    description: "\u062A\u0639\u0631\u0641 \u0639\u0644\u0649 \u0622\u062F\u0645 \u0648\
+      \ \u0645\u0634\u0645\u0634! \u0643\u0631\u062A\u0648\u0646 \u0639\u0646 \u0637\
+      \u0641\u0644 \u0635\u063A\u064A\u0631 \u0639\u0645\u0631\u0647 \u0633\u0646\u062A\
+      \u0627\u0646\u060C \u064A\u062D\u0628 \u0627\u0644\u0645\u063A\u0627\u0645\u0631\
+      \u0629 \u0648\u0627\u0644\u0644\u0639\u0628. \u0644\u0639\u0628\u062A\u0647\
+      \ \u0627\u0644\u0645\u0641\u0636\u0644\u0629 \u0647\u064A \u062F\u0645\u064A\
+      \u0629 \u0627\u0633\u0645\u0647\u0627 \u0645\u0634\u0645\u0634 \u064A\u0623\u062E\
+      \u0630\u0647\u0627 \u0645\u0639\u0647 \u0623\u064A\u0646\u0645\u0627 \u0630\u0647\
+      \u0628. \u0639\u0646\u062F\u0645\u0627 \u064A\u0630\u0647\u0628 \u0622\u062F\
+      \u0645 \u0644\u0644\u0646\u0648\u0645 \u064A\u062D\u0644\u0645 \u0623\u0646\
+      \ \u0645\u0634\u0645\u0634 \u0642\u062F \u0623\u0635\u0628\u062D \u062D\u064A\
+      \u0627\u064B. \u062D\u064A\u0646\u0647\u0627 \u064A\u0623\u062E\u0630 \u0645\
+      \u0634\u0645\u0634 \u0622\u062F\u0645 \u0641\u064A \u0645\u063A\u0627\u0645\u0631\
+      \u0627\u062A \u064A\u062A\u0639\u0644\u0645\u0627\u0646 \u0627\u0644\u0644\u063A\
+      \u0629 \u0627\u0644\u0639\u0631\u0628\u064A\u0629! Meet Adam and Mishmish! A\
+      \ cartoon based on Adam who is a playful 2 year old boy who carries his favorite\
+      \ doll Mishmish with him everywhere he goes. At night when Adam goes to sleep,\
+      \ Mishmish comes to life, taking him on amazing adventures where they learn\
+      \ the Arabic language."
+    language: ar
+    name: "Adam Wa Mishmish [\u0627\u062F\u0645 \u0648\u0645\u0634\u0645\u0634]"
+    sha256sum: 0e23ad5ae002f9951dffcc27439461d6eebd413a3e9c98f5166ab30d2cdec181
+    size: 1476488623
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/adam-wa-mishmish-ar.zip
+    version: '2018-05-25'
   administration-gestion-comptabilite-fr:
     description: "Vous souhaitez monter une entreprise mais vous manquez de connaissances\
       \ sur les d\xE9marches administratives, la gestion et la comptabilit\xE9. Vous\
@@ -391,22 +418,22 @@ all:
     url: http://packages.ideascube.org/omeka/biology-ar.zip
     version: '2018-02-23'
   business-management-ar:
-    description: "\"This package focuses on tips and developing a creative state of\
+    description: "This package focuses on tips and developing a creative state of\
       \ mind for managing your business./ \u0645\u0639\u0644\u0648\u0645\u0627\u062A\
       \ \u0645\u0641\u064A\u062F\u0629 \u0639\u0646 \u0627\u062F\u0627\u0631\u0629\
       \ \u0627\u0644\u0627\u0639\u0645\u0627\u0644, \u0627\u0644\u062A\u062D\u062F\
       \u064A\u0627\u062A,\u0627\u0644\u062D\u0644\u0648\u0644 \u0648\u062A\u0637\u0648\
       \u064A\u0631 \u0627\u0644\u0641\u0643\u0631 \u0627\u0644\u0627\u0628\u062F\u0627\
-      \u0639\u064A \u0644\u062F\u0649 \u0627\u0644\u0634\u062E\u0635.\""
+      \u0639\u064A \u0644\u062F\u0649 \u0627\u0644\u0634\u062E\u0635."
     language: ar
-    name: "\"Business Management [\u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0627\
-      \u0639\u0645\u0627\u0644 \u0648\u0627\u0644\u0641\u0643\u0631 \u0627\u0644\u0627\
-      \u0628\u062F\u0627\u0639\u064A]\""
-    sha256sum: b980fb7a0b353ce68f2c6abc2918af262e34a1df9e25f499172f12317372f161
-    size: 203745588
+    name: "Business Management [\u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0627\u0639\
+      \u0645\u0627\u0644 \u0648\u0627\u0644\u0641\u0643\u0631 \u0627\u0644\u0627\u0628\
+      \u062F\u0627\u0639\u064A]"
+    sha256sum: 3e6ca003fc1588b256c462dd4791a5e1a89dcc7838d4596847fe7f3fed5ab7aa
+    size: 973469135
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/business-management-ar.zip
-    version: '2018-02-23'
+    version: '2018-05-25'
   c-est-pas-du-vent-rfi-fr:
     description: "\"\xC9mission RFI : \"C'est pas du vent\"\""
     language: fr
@@ -416,6 +443,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/c-est-pas-du-vent-rfi-fr.zip
     version: '2018-02-28'
+  carpentry-ar:
+    description: "\u062A\u0639\u0644\u0645 \u0639\u0646 \u0627\u0646\u0648\u0627\u0639\
+      \ \u0627\u0644\u0627\u062E\u0634\u0627\u0628, \u0637\u0631\u064A\u0642\u0629\
+      \ \u0627\u0644\u0646\u062C\u0627\u0631\u0629, \u0648\u0627\u0644\u0627\u062F\
+      \u0648\u0627\u062A \u0627\u0644\u0644\u0627\u0632\u0645\u0629"
+    language: ar
+    name: "Carpentry [\u0646\u062C\u0627\u0631\u0629]"
+    sha256sum: de95f3b88174ed2ed5b9d3d336e6478a1fe11368ce48f3cf057f3846f95ff63d
+    size: 2488928317
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/carpentry-ar.zip
+    version: '2018-05-25'
   carpentry-en:
     description: You want to learn or discover carpentry ? Beginner or professional,
       you will find everything you are looking for here !
@@ -551,6 +590,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comprendre-l-autisme-fr.zip
     version: '2018-01-18'
+  computer-and-it-ar:
+    description: "Learn about the different parts of the computer and more. // \u062A\
+      \u0639\u0644\u0645 \u0639\u0646 \u0623\u062C\u0632\u0627\u0621 \u0627\u0644\u0643\
+      \u0645\u0628\u064A\u0648\u062A\u0631 \u0627\u0644\u0645\u062E\u062A\u0644\u0641\
+      \u0629 \u0648\u0623\u0643\u062B\u0631"
+    language: ar
+    name: "Computer and IT [\u0643\u0645\u0628\u064A\u0648\u062A\u0631 \u0648\u062A\
+      \u0643\u0646\u0648\u0644\u0648\u062C\u064A\u0627]"
+    sha256sum: 6a06f78746d85d1a6a9e41ba8b13f39240b6c3c8ec93821e36d39e0219e443af
+    size: 46529994
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/computer-and-it-ar.zip
+    version: '2018-05-25'
   connaissance-des-droits-universels-fr:
     description: "Connaissez vous vos droits fondamentaux et universels ? C'est le\
       \ moment de les red\xE9couvrir afin de les maitriser pour mieux vous d\xE9fendre\
@@ -890,6 +942,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/documents-methodologiques-rfi-fr.zip
     version: '2018-02-28'
+  dpc-awareness-and-protection-ar:
+    description: "A variety of protection and awareness videos on different topics.\r\
+      \n\r\nTeenagers and Adults"
+    language: ar
+    name: "Awareness and Protection [\u0627\u0644\u0648\u0639\u064A \u0648\u0627\u0644\
+      \u062D\u0645\u0627\u064A\u0629]"
+    sha256sum: 5c3a4d9476ef91e9ea70e135299dbe973badce23a5aa2214dfdc55800a3557ec
+    size: 250739379
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/dpc-awareness-and-protection-ar.zip
+    version: '2018-05-25'
   drawing-colouring-en:
     description: Learn how to draw, colour, make graffiti, become an artist !
     language: en
@@ -1318,6 +1381,45 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/formacion-profesional-sikana-es.zip
     version: '2018-04-26'
+  fozi-mozi-ar:
+    description: "\u0642\u0646\u0627\u0629 \"\u0641\u0648\u0632\u064A \u0645\u0648\
+      \u0632\u064A \u0648\u062A\u0648\u062A\u064A\" \u062A\u0631\u062D\u0628 \u0628\
+      \u0643\u0644 \u0627\u0644\u0627\u0635\u062F\u0642\u0627\u0621 \u0645\u0646 \u062C\
+      \u0645\u064A\u0639 \u0627\u0646\u062D\u0627\u0621 \u0627\u0644\u0639\u0627\u0644\
+      \u0645. Fozi Mozi & Tutti is an entertainment/ educational YouTube channel reaching\
+      \ millions Arab speaking kids around the globe. The channel in made of 2-6 min\
+      \ clips containing songs, sketches, news and other fun and educational activities.\
+      \ The content follows Fozi Mozi and his sister Tutti and their adventures thruogh\
+      \ life . going to school, to the dentist, helping grandma cook and so forth.\
+      \ While Fozi Mozi and Tutti are the more childish, naughty and naive characters,\
+      \ their sister Mandalina is the more mature and smart little sister, that helps\
+      \ them figure out how to solve the mess they had created."
+    language: ar
+    name: "Fozi Mozi [\u0641\u0648\u0632\u064A \u0645\u0648\u0632\u064A]"
+    sha256sum: 3b8367a000199d094b79a11e53387e8d9a202682c60193413a2ab3abffa3b4cc
+    size: 2227170826
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/fozi-mozi-ar.zip
+    version: '2018-05-25'
+  fozi-mozi-diy-handcrafts-ar:
+    description: "\u0642\u0646\u0627\u0629 \"\u0641\u0648\u0632\u064A \u0645\u0648\
+      \u0632\u064A \u0648\u062A\u0648\u062A\u064A\" \u062A\u0631\u062D\u0628 \u0628\
+      \u0643\u0644 \u0627\u0644\u0627\u0635\u062F\u0642\u0627\u0621 \u0645\u0646 \u062C\
+      \u0645\u064A\u0639 \u0627\u0646\u062D\u0627\u0621 \u0627\u0644\u0639\u0627\u0644\
+      \u0645. Fozi Mozi & Tutti is an entertainment/ educational YouTube channel reaching\
+      \ millions Arab speaking kids around the    globe. Create easy and fun handcrafts\
+      \ with Mandalina \u0641\u0642\u0631\u0629 \u0627\u0644\u0627\u0639\u0645\u0627\
+      \u0644 \u0627\u0644\u064A\u062F\u0648\u064A\u0629 \u0627\u0644\u0645\u0646\u062F\
+      \u0644\u064A\u0646\u0627 \u0645\u0646 \u0639\u0627\u0644\u0645 \u0641\u0648\u0632\
+      \u064A \u0645\u0648\u0632\u064A \u0648\u062A\u0648\u062A\u064A."
+    language: ar
+    name: "Fozi Mozi DIY (Handcrafts)  [\u0641\u0648\u0632\u064A \u0645\u0648\u0632\
+      \u064A \u0623\u0639\u0645\u0627\u0644 \u064A\u062F\u0648\u064A\u0629]"
+    sha256sum: 34279093148537ae38fcb10655bac63569c0d23319af6ee3dfad18edd4cc0733
+    size: 2016783714
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/fozi-mozi-diy-handcrafts-ar.zip
+    version: '2018-05-25'
   genetique-et-epigenetique-fr:
     description: "Qu'est-ce que l'\xE9pig\xE9n\xE9tique ? En quoi cette discipline\
       \ diff\xE8re-t-elle de la g\xE9n\xE9tique ? Des chercheurs expliquent ici l'histoire\
@@ -2505,6 +2607,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/philosophy-of-language-ar.zip
     version: '2017-08-30'
+  photography-ar:
+    description: "\u062A\u0639\u0644\u0645 \u0639\u0646 \u0627\u0633\u0627\u0633\u064A\
+      \u0627\u062A \u0627\u0644\u062A\u0635\u0648\u064A\u0631 \u0648\u0643\u064A\u0641\
+      \u064A\u0629 \u0627\u0633\u062A\u0639\u0645\u0627\u0644 \u0627\u0644\u0643\u0627\
+      \u0646\u064A\u0631\u0627"
+    language: ar
+    name: "Photography [\u0627\u0644\u062A\u0635\u0648\u064A\u0631]"
+    sha256sum: 6b94b1ced262f22704309f3fc73d03ed72a884763537dea0039f56180af1ab12
+    size: 330877566
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/photography-ar.zip
+    version: '2018-05-25'
   physics-ar:
     description: "\"Learn about the basics of physics and how we use  it in our daily\
       \ life and tools.// \u062A\u0639\u0644\u0645 \u0627\u0633\u0627\u0633\u064A\u0627\
@@ -2734,20 +2848,20 @@ all:
     url: http://packages.ideascube.org/omeka/se-preparer-a-une-catastrophe-fr.zip
     version: '2017-06-08'
   self-development-ar:
-    description: "\"Discover new ways of thinking that could help you improve your\
-      \ life and motivate you to be a better version of yourself.//  \u0627\u0643\u062A\
+    description: "Discover new ways of thinking that could help you improve your life\
+      \ and motivate you to be a better version of yourself.//  \u0627\u0643\u062A\
       \u0634\u0641 \u0637\u0631\u0642 \u0644\u062A\u062D\u0633\u064A\u0646 \u0648\u062A\
       \u0637\u0648\u064A\u0631 \u0646\u0641\u0633\u0643 \u0648\u062A\u062D\u0641\u064A\
       \u0632\u0643 \u0644\u0627\u0646 \u062A\u0643\u0648\u0646 \u0627\u0641\u0636\u0644\
-      \ \u0643\u0644 \u064A\u0648\u0645. - Teenagers, Adults\""
+      \ \u0643\u0644 \u064A\u0648\u0645. - Teenagers, Adults"
     language: ar
-    name: "\"Self Development [\u062A\u0637\u0648\u064A\u0631 \u0627\u0644\u0630\u0627\
-      \u062A]\""
-    sha256sum: 1ae343ad018197c6b925e2ead41c571ef031b2af12edb3d6197b5e325174134a
-    size: 731553595
+    name: "Self Development [\u062A\u0637\u0648\u064A\u0631 \u0627\u0644\u0630\u0627\
+      \u062A]"
+    sha256sum: 1377b38b657d4bdb559727c5c1802bef59aafd5acc538c5135c74d0b7bc61b43
+    size: 3101162351
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/self-development-ar.zip
-    version: '2018-02-23'
+    version: '2018-05-25'
   sensibilisation-a-la-gestion-des-epidemies-fr:
     description: "Qu'est-ce que le virus Ebola ? Comment sensibiliser le grand public\
       \ afin d'\xE9viter la propagation d'\xE9pid\xE9mies ? A travers les exemples\
@@ -2825,6 +2939,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sommeil-enfants-fr.zip
     version: '2017-11-24'
+  space-science-ar:
+    description: "\u062A\u0639\u0644\u0645 \u0639\u0646 \u0627\u0644\u0643\u0648\u0627\
+      \u0643\u0628 \u0648\u0627\u0644\u0646\u062C\u0648\u0645 \u0648\u0627\u0644\u0641\
+      \u0636\u0627\u0621 \u0627\u0644\u0648\u0627\u0633\u0639"
+    language: ar
+    name: "Space Science [\u0639\u0644\u0645 \u0627\u0644\u0641\u0636\u0627\u0621]"
+    sha256sum: 7c66ab4f98ae3eeae37d00924abbd8bbe68c4451ebb1d76dacaed0e38f0c0c22
+    size: 385530717
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/space-science-ar.zip
+    version: '2018-05-25'
   sport-football-fr:
     description: "Vous souhaitez vous perfectionner en football ? D\xE9couvrir un\
       \ nouveau sens au mot \"sport\" ? C'est ici !"
