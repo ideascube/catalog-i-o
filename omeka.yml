@@ -174,11 +174,11 @@ all:
       \ ainsi qu'\xE0 certains langages."
     language: fr
     name: Apprenez le code informatique
-    sha256sum: fa0e74fa98f19ba92d89dfe9acac4747ed49b981c768c4947f31945ad312d495
+    sha256sum: 78e283ec6f54da111ba54a040c719fd4f8818b19889ba87cbc1190950caf2a4c
     size: 4926187788
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-code-informatique-fr.zip
-    version: '2018-05-15'
+    version: '2018-05-29'
   apprenez-le-francais-alphabetisation-fr:
     description: .
     language: fr
@@ -1674,11 +1674,11 @@ all:
       \ vous dans vos premi\xE8res cr\xE9ations vid\xE9os !"
     language: fr
     name: "Initiez-vous \xE0 la cr\xE9ation vid\xE9o"
-    sha256sum: 9e5189c86deadf708c1f8dced2af99977aa78f57b9245e28f1eb07949d5bf0c9
-    size: 943353779
+    sha256sum: 3ff253980da10b122ed24e470c76e558af91cc77dd0fb62dcc86b1f9bb9c35c5
+    size: 949757990
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-creation-video-fr.zip
-    version: '2018-01-18'
+    version: '2018-05-29'
   initiez-vous-a-la-photographie-fr:
     description: Vous souhaitez vous lancer, faire quelques photographies, mais vous
       avez besoin d'aide ? C'est ici !
@@ -1945,16 +1945,16 @@ all:
     url: http://packages.ideascube.org/omeka/introduction-to-the-history-of-the-world-en.zip
     version: '2017-06-01'
   jardinage-et-agriculture-fr:
-    description: "\"D\xE9couvrez ou approfondissez vos connaissances en m\xE9thodes\
+    description: "D\xE9couvrez ou approfondissez vos connaissances en m\xE9thodes\
       \ de culture, d'irrigation, de fertilisation... Pour vous lancer dans le jardinage\
-      \ \xE0 petite ou moyenne \xE9chelle.\""
+      \ \xE0 petite ou moyenne \xE9chelle."
     language: fr
-    name: '"Jardinage et agriculture"'
-    sha256sum: 9433176f37856d8c0af414915834cad67fa9e77852ba91539eb803595b842a93
-    size: 942013419
+    name: Jardinage et agriculture
+    sha256sum: 2fb1402a39e389d56001fae2c7f97ccd942b550441f9d98e3437e3e543a176ec
+    size: 1597161192
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/jardinage-et-agriculture-fr.zip
-    version: '2018-02-28'
+    version: '2018-05-29'
   je-cuisine-sain-fr:
     description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
     language: fr
@@ -2002,11 +2002,11 @@ all:
       es et d\xE9velopper de nouvelles animations !"
     language: fr
     name: Kit de l'animateur
-    sha256sum: d7e894818d933c6fb87ae462d85c8851ce3fd8c248d99650367bbe63b007158b
-    size: 294852953
+    sha256sum: fbe5ddf36f30b85b0f42db727d4f817632c7b0a4b06d67eed9df8168775b0e9e
+    size: 302989599
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/kit-de-l-animateur-fr.zip
-    version: '2018-05-15'
+    version: '2018-05-29'
   kit-de-l-animateur-libre-de-droit-fr:
     description: "Support de m\xE9diation pour l'animateur-trice"
     language: fr
@@ -2517,6 +2517,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/novels-for-youth-ar.zip
     version: '2018-02-23'
+  numerique-et-bidouille-informatique-fr:
+    description: "Acqu\xE9rir les bases de la programmation et de la robotique gr\xE2\
+      ce \xE0 l'utilisation d'outils."
+    language: fr
+    name: "Num\xE9rique et bidouille informatique"
+    sha256sum: 4ec4163d1207360ed580ca94dca665210c34f5e2abff8f9afe70d35eda407d42
+    size: 2360400771
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/numerique-et-bidouille-informatique-fr.zip
+    version: '2018-05-29'
   nutrition-enfants-fr:
     description: "Bien manger \xE7a veut dire quoi? quels sont les fruits et les l\xE9\
       gumes?"
@@ -3025,6 +3035,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/troubles-alimentaires-fr.zip
     version: '2018-05-15'
+  tutoriels-pour-utiliser-des-logiciels-et-des-applications-fr:
+    description: "Tutoriels pour utiliser des logiciels et des applications\r\n- \xEA\
+      tre en capacit\xE9 de prendre en mains les logiciels propos\xE9s sur les ordinateurs\r\
+      \n- \xEAtre en capacit\xE9 de prendre en mains les applications propos\xE9es\
+      \ sur les tablettes"
+    language: fr
+    name: Tutoriels pour utiliser des logiciels et des applications
+    sha256sum: 338542b3e55feac8f5710e84e8e5fa7a26409b790129d4240897edcad9a49406
+    size: 3236250632
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/tutoriels-pour-utiliser-des-logiciels-et-des-applications-fr.zip
+    version: '2018-05-29'
   utilisez-internet-en-toute-securite-fr:
     description: "Des contenus pour accompagner petits et grands \xE0 utiliser internet\
       \ en toute s\xE9curit\xE9, et \xE0 comprendre comment avoir du recul sur les\
