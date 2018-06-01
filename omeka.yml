@@ -886,7 +886,7 @@ all:
       \ \xE0 accepter les diff\xE9rences des qui nous entourent. (Enfants et ados)"
     language: fr
     name: Discriminations [Enfants/Ados]
-    sha256sum: fdee5faea94a7b22b4b695e1cdf52a0d3d6d0e7f6094f9e12cfae14e5f4d24c6
+    sha256sum: ebb3cd97c3005f531fffe2b605a24f82f71ede785eeb74cc5be5b5b137a4929d
     size: 617651709
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discriminations-enfants-ados-fr.zip
