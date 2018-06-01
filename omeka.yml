@@ -883,14 +883,14 @@ all:
   discriminations-enfants-ados-fr:
     description: "On est tous diff\xE9rents, mais tous des \xEAtres humains ! Pour\
       \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
-      \ \xE0 accepter les diff\xE9rences des qui nous entourent."
+      \ \xE0 accepter les diff\xE9rences des qui nous entourent. (Enfants et ados)"
     language: fr
     name: Discriminations [Enfants/Ados]
-    sha256sum: e7741afef07a30cf24cb2689d3589db1d12cdb2d956bf47ae4572357cd37ca37
-    size: 617651728
+    sha256sum: fdee5faea94a7b22b4b695e1cdf52a0d3d6d0e7f6094f9e12cfae14e5f4d24c6
+    size: 617651709
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discriminations-enfants-ados-fr.zip
-    version: '2018-01-18'
+    version: '2018-06-01'
   discriminations-enfants-fr:
     description: "On est tous diff\xE9rents, mais tous des \xEAtres humains ! Pour\
       \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
