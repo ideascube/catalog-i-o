@@ -334,6 +334,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arts-afrique-fr.zip
     version: '2018-01-18'
+  arts-plastiques-fr:
+    description: "D\xE9tendez-vous, exprimez-vous, cr\xE9ez ! Il y a un artiste en\
+      \ chacun de nous, \xE0 vous de le r\xE9v\xE9ler..."
+    language: fr
+    name: "Cr\xE9ez des oeuvres plastiques"
+    sha256sum: 0f86f62be1f0ab6a447546aafb5cd897ae0a2615e4fbad599e2ca878999a4b6c
+    size: 1060030222
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/arts-plastiques-fr.zip
+    version: '2018-06-05'
   astronomy-en:
     description: What are comets made of? How was the solar system created? How does
       gravity influence tides? How can we recognise stars in the sky? If you are curious
@@ -886,11 +896,11 @@ all:
       \ \xE0 accepter les diff\xE9rences des qui nous entourent. (Enfants et ados)"
     language: fr
     name: Discriminations [Enfants/Ados]
-    sha256sum: d12b923ca0461a89c5eb4a981c0c28c38e0c19fd4a71af427027a6ebe45df428
+    sha256sum: cbf65b0e1715d40040dae3185b4f497a47a3fff731e4f9166ebd5701fef74b8d
     size: 617651709
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discriminations-enfants-ados-fr.zip
-    version: '2018-06-01'
+    version: '2018-06-05'
   discriminations-enfants-fr:
     description: "On est tous diff\xE9rents, mais tous des \xEAtres humains ! Pour\
       \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
