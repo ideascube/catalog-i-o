@@ -131,7 +131,7 @@ all:
     url: http://packages.ideascube.org/omeka/apprendre-a-utiliser-des-patrons-fr.zip
     version: '2018-03-01'
   apprendre-le-yoga-sikana-fr:
-    description: "\"Ce programme \xE9ducatif sur le yoga a pour objectif de motiver\
+    description: "Ce programme \xE9ducatif sur le yoga a pour objectif de motiver\
       \ les d\xE9butants \xE0 apprendre et pratiquer une s\xE9lection de postures\
       \ et de techniques de respiration diff\xE9rentes, qui peuvent vous aider \xE0\
       \ mener une vie plus saine.\r\n\r\nLe yoga aide \xE0 renforcer le corps et le\
@@ -143,23 +143,23 @@ all:
       \ d\xE9cors, les experts en yoga et la musique traditionnelle Indienne, interpr\xE9\
       t\xE9e par le joueur de sitar Shri Basab Sen, vous transporteront dans le monde\
       \ du yoga, qui est un cadeau inestimable de la culture Indienne au reste du\
-      \ monde.\""
+      \ monde."
     language: fr
-    name: '"Apprendre le yoga"'
-    sha256sum: f41f7afa8553ea0b539aeb2853c10a0be0abfe9b7f5fba91263fab9fe14a0a73
+    name: Apprendre le yoga
+    sha256sum: d12df432ea8f79ee053159ae3830d8120c62178e2e9352393048470f03bcefb9
     size: 793916091
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-le-yoga-sikana-fr.zip
-    version: '2018-02-28'
+    version: '2018-06-07'
   apprends-le-francais-a1-enfants-adolescents-fr:
     description: "Pars \xE0 la d\xE9couverte de la langue fran\xE7aise, en image !"
     language: fr
     name: "Apprends le fran\xE7ais ! A1"
-    sha256sum: a5474afd7c4ef4f4669e32cbb7368ce540f428a3944401d0a84f26f6d888b08b
+    sha256sum: 6bc748f904fc6b22b159e9dc29d1c690f1fed816ee2c8b5e1f441e72ddd75b62
     size: 13573811
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprends-le-francais-a1-enfants-adolescents-fr.zip
-    version: '2018-04-24'
+    version: '2018-06-07'
   apprends-le-francais-a2-enfants-adolescents-fr:
     description: "Apprends \xE0 faire des phrases en fran\xE7ais !"
     language: fr
@@ -856,11 +856,11 @@ all:
       \ !"
     language: fr
     name: "D\xE9couvrez ou red\xE9couvrez l'histoire de France !"
-    sha256sum: 972a97b1fa0d1196d3ad31220dfa9de2e81ca4d3af025104a863fd3b5074a1a2
-    size: 591373821
+    sha256sum: cb318afcfa4daac9bbc2308c1d992a89725124e6c3e0359397bf126d4305aa25
+    size: 591373816
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/decouvrez-ou-redecouvrez-l-histoire-de-france-fr.zip
-    version: '2017-09-29'
+    version: '2018-06-07'
   decouvrir-et-pratiquer-la-riziculture-fr:
     description: '"Apprenez les techniques de base pour la riziculture intensive et
       quelques notions d''agriculture bio."'
@@ -943,6 +943,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/diy-handcrafts-ar.zip
     version: '2017-10-17'
+  diy-travaux-manuels-fr:
+    description: "Envie de r\xE9aliser un objet simple avec du mat\xE9riel recycl\xE9\
+      \ ? De cr\xE9er tout un univers avec du papier ? De faire un scoubidou original\
+      \ ? c'est l\xE0 !"
+    language: fr
+    name: Do It Yourself !
+    sha256sum: af162c21ef319b1617ab3bdcd354aedb57b08307e7c2f8166506f56e58ce301c
+    size: 2512748435
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/diy-travaux-manuels-fr.zip
+    version: '2018-06-07'
   documents-methodologiques-rfi-fr:
     description: "\"Documents m\xE9thodologiques\""
     language: fr
@@ -1523,11 +1534,11 @@ all:
       \ sentir isol\xE9.e, et savoir r\xE9agir et vers qui se tourner"
     language: fr
     name: "Harc\xE8lement (ado)"
-    sha256sum: ce597674e088ee1953709cd9b450e32a8493fc78505249522316b7432bf6ff31
+    sha256sum: 86bcd14b650c87a1960918c7be56847953befb64eb32e8baef16000ac36df5c1
     size: 19177174
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/harcelement-ado-fr.zip
-    version: '2017-11-24'
+    version: '2018-06-07'
   harcelement-enfants-fr:
     description: "Des contenus autour des questions de harc\xE8lement"
     language: fr
@@ -3045,6 +3056,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/the-road-zaatari-magazine-ar.zip
     version: '2018-03-12'
+  tricot-fr:
+    description: "Pas \xE0 pas, apprenez les bases du tricot et bient\xF4t vous arborerez\
+      \ fi\xE8rement votre propre \xE9charpe !"
+    language: fr
+    name: "Apprendre \xE0 tricoter"
+    sha256sum: ab4a26fbd987d5ad6f6e027e2e17fc348c786392e57472fb472218dddf62c215
+    size: 322877615
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/tricot-fr.zip
+    version: '2018-06-07'
   troubles-alimentaires-fr:
     description: Anorexie, boulimie, quels sont ces troubles de l'alimentation?
     language: fr
