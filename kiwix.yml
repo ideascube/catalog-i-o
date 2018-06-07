@@ -956,14 +956,14 @@ all:
     langid: "wikipedia.ckb"
     type: zipped-zim
   wikiquote.fa:
-    version: "2017-03-02"
-    size: 249043333
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fa_all_2017-03.zip"
+    version: "2018-04-17"
+    size: 279704022
+    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fa_all_novid_2018-04.zip"
     name: "ویکی‌گفتاورد"
     language: "fas"
     description: "از ویکی‌گفتاورد"
-    id: "74e82db1-48cf-5d46-b39c-e5f64ce851ef"
-    sha256sum: "966a81abac1d2050576d0a13d44bfc5deca892a97ea4d487bae8599b768efa4b"
+    id: "b26d4fd5-6389-0241-14c1-9a2ffda3a42e"
+    sha256sum: "c150f664319162b8fef3c2e78ae2522eacc82b0a905d16bb0b27b9e1cb2d70e8"
     langid: "wikiquote.fa"
     type: zipped-zim
   wikipedia.cbkzam:
