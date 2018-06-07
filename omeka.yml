@@ -1974,6 +1974,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/je-cuisine-sain-fr.zip
     version: '2018-05-15'
+  je-mange-bien-fr:
+    description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
+    language: fr
+    name: Cuisine et nutrition (enfants)
+    sha256sum: 26b780bff65ee8139ceafa6991e9ea413e3ceca6289929228ebb1f76f1fdc9a9
+    size: 348651018
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/je-mange-bien-fr.zip
+    version: '2018-06-07'
   je-veux-faire-du-sport-fr:
     description: "A quoi \xE7a sert le sport ? Combien il y a de sports diff\xE9rents\
       \ ? Pourquoi le sport, \xE7a rime avec respect et amiti\xE9 ?"
