@@ -366,6 +366,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/audiobooks-et-fictions-sonores-fr.zip
     version: '2018-01-18'
+  being-prepared-in-case-of-a-major-disaster-en:
+    description: In this program you will learn the correct safety precautions and
+      techniques to adopt when faced with a major disaster in order to stay calm and
+      safe, as well as how to prepare for the eventuality of an incident.
+    language: en
+    name: Being prepared in case of a major disaster
+    sha256sum: 81108d6d7eca47b4f8b05b3a27cd9ea275c2382c284adffd204e888893914443
+    size: 193184763
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/being-prepared-in-case-of-a-major-disaster-en.zip
+    version: '2018-06-14'
   bien-etre-et-communication-au-travail-fr:
     description: "Ici, des outils pour travailler votre confiance en vous et vous\
       \ affirmer au travail. Et des cl\xE9s pour d\xE9samorcer et r\xE9soudre des\
@@ -501,11 +512,11 @@ all:
     description: Have fun with these cartoons featuring well-known characters!
     language: en
     name: Cartoons
-    sha256sum: 7d4476d27ff97096d61cbf18b088ee914b15aa6d01ddd48748eecf843787c7cb
+    sha256sum: 0a83ab668779bb65bd5d2f6194395b5dea7f887166962e87d3b418e7ac00ebc4
     size: 644897218
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cartoons-en.zip
-    version: '2017-09-25'
+    version: '2018-06-14'
   chemistry-ar:
     description: "\"Learn more about Chemistry./ \u062A\u0639\u0644\u0645 \u0627\u0643\
       \u062B\u0631 \u0639\u0646 \u0627\u0644\u0643\u064A\u0645\u064A\u0627\u0621\""
@@ -2160,6 +2171,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-teenagers-en.zip
     version: '2018-02-28'
+  learn-first-aid-techniques-en:
+    description: Everyday accidents are responsible for several millions of deaths
+      per year all over the world. Here are some simple techniques, that anyone can
+      perform, which could save lives. In this programme you will learn some of these
+      basic first aid techniques.
+    language: en
+    name: Learn first aid techniques
+    sha256sum: d9fe2c5907decc23bc7e6e646c8880c86e63fca26dd2e83afeb4058514d9d383
+    size: 804490309
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learn-first-aid-techniques-en.zip
+    version: '2018-06-14'
   learn-greek-el:
     description: Learn to speak and write in greek language, to understand information
       and communicate with people in Greece.
@@ -2180,6 +2203,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-guitar-en.zip
     version: '2018-02-23'
+  learn-how-to-save-a-life-first-aid-basics-en:
+    description: 'In this series, you will learn the basic principles of first aid:
+      what is necessary in a first aid kit? How to use a defibrillator? What is the
+      recovery position?'
+    language: en
+    name: 'Learn how to save a life: first aid basics'
+    sha256sum: e447ae60b81d60bb394a54a089068913e92947fdcc3122d5d223d11b33577902
+    size: 389095383
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learn-how-to-save-a-life-first-aid-basics-en.zip
+    version: '2018-06-14'
   learn-photography-en:
     description: '"Learn how to create great pictures, acquire the basic skills to
       become a photographer !"'
@@ -2736,6 +2770,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/preparer-son-chantier-electrique-sikana-fr.zip
     version: '2018-03-01'
+  preparing-for-major-disasters-and-natural-catastrophes-en:
+    description: The sixteen simple videos in this program will take you through everything
+      you need to know to deal with a range of different scenarios and show you how
+      to act properly and safely in the case of a natural disaster. These simple step-by-step
+      tutorials will help you learn and remember everything you need to know to keep
+      yourself and your family safe in the face of a major disaster.
+    language: en
+    name: Preparing for major disasters and natural catastrophes
+    sha256sum: 2f560f2e2e1eeb2f3bd996fc377040f257ddf5d37d6c66ed49ac3d5e3ca467fc
+    size: 676020575
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/preparing-for-major-disasters-and-natural-catastrophes-en.zip
+    version: '2018-06-14'
   prevention-addictions-fr:
     description: Mieux comprendre les effets de l'alcool sur nos comportements, et
       leurs origines.
@@ -3148,6 +3195,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/waqt-al-farah-ar.zip
     version: '2018-02-23'
+  when-should-i-go-to-the-emergency-room-en:
+    description: a package containing text pdfs describing when you should seek immediate
+      medical attention for adults and children
+    language: en
+    name: When should I go to the emergency room?
+    sha256sum: f2d2f687225ff5fb10bf687c2c76427d5f262ed1bfb6464e078bc69fcdfa81b8
+    size: 366482
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/when-should-i-go-to-the-emergency-room-en.zip
+    version: '2018-06-14'
   women-empowerment-ar:
     description: "Women Empowerment [\u062A\u0639\u0632\u064A\u0632 \u0627\u0644\u0645\
       \u0631\u0627\u0629]"
@@ -3171,6 +3228,24 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/women-in-african-history-en.zip
     version: '2018-02-28'
+  women-s-experiences-en:
+    description: Learn about the great diversity of women's experiences
+    language: en
+    name: Women's experiences
+    sha256sum: ff7999fd465d696e613a15e78423267d2898fb7d4d925ffa3fa5c0e5c718eb9c
+    size: 787716026
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/women-s-experiences-en.zip
+    version: '2018-06-14'
+  women-s-rights-en:
+    description: To know your rights as a woman and fight against discrimination
+    language: en
+    name: Women's rights
+    sha256sum: 95bb131f8d2fd98adc4da88956c8f88feea13906236740b7993b428a16df0cb8
+    size: 70393904
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/women-s-rights-en.zip
+    version: '2018-06-14'
   woodcrafts-for-kids-en:
     description: This package contains woodcrafts activities for children to create
       toys!
@@ -3192,3 +3267,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/yoga-en.zip
     version: '2017-10-19'
+  yoga-for-therapy-en:
+    description: This series will guide you through easy yoga postures to fight headache,
+      back pain and other ailments. Although this sequence is meant to help agaist
+      back problems, the techniques described in this series are not meant to be prescriptive.
+      Consult your physician before trying them out.
+    language: en
+    name: Using yoga to feel better
+    sha256sum: 41368a6370c8098f51a3a188044335898684d6d6204d0097b8e92ece20412d42
+    size: 3212324720
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/yoga-for-therapy-en.zip
+    version: '2018-06-14'
