@@ -84,11 +84,11 @@ all:
       \ trouverez ici de quoi lancer sereinement son entreprise."
     language: fr
     name: "Administration, gestion, comptabilit\xE9"
-    sha256sum: 142da515f0a7fbfbe547dbc297adf5f30128e5c0fbbe208886984d0af5c16bf8
-    size: 1059346
+    sha256sum: 41166c61ac8f9dc725395761227ef568f8bc98c30d31b96935e3f964af06c309
+    size: 3027988
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/administration-gestion-comptabilite-fr.zip
-    version: '2018-06-19'
+    version: '2018-04-12'
   agriculture-gardening-en:
     description: Discover your green fingers and create a living environment that
       lets you live in harmony with nature.
