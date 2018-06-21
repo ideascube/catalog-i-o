@@ -2182,7 +2182,7 @@ all:
     size: 804490309
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-first-aid-techniques-en.zip
-    version: '2018-06-14'
+    version: '2018-05-14'
   learn-greek-el:
     description: Learn to speak and write in greek language, to understand information
       and communicate with people in Greece.
@@ -2213,7 +2213,7 @@ all:
     size: 389095383
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-how-to-save-a-life-first-aid-basics-en.zip
-    version: '2018-06-14'
+    version: '2018-05-14'
   learn-photography-en:
     description: '"Learn how to create great pictures, acquire the basic skills to
       become a photographer !"'
@@ -2782,7 +2782,7 @@ all:
     size: 676020575
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/preparing-for-major-disasters-and-natural-catastrophes-en.zip
-    version: '2018-06-14'
+    version: '2018-05-14'
   prevention-addictions-fr:
     description: Mieux comprendre les effets de l'alcool sur nos comportements, et
       leurs origines.
@@ -3278,4 +3278,4 @@ all:
     size: 3212324720
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/yoga-for-therapy-en.zip
-    version: '2018-06-14'
+    version: '2018-05-14'
