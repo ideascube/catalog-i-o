@@ -372,11 +372,11 @@ all:
       safe, as well as how to prepare for the eventuality of an incident.
     language: en
     name: Being prepared in case of a major disaster
-    sha256sum: 81108d6d7eca47b4f8b05b3a27cd9ea275c2382c284adffd204e888893914443
-    size: 193184763
+    sha256sum: 5ab0d2f87b3cd34b80c528300a27f858a68ddce0d9bd31865dfa881b65c7092d
+    size: 193296871
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/being-prepared-in-case-of-a-major-disaster-en.zip
-    version: '2018-05-14'
+    version: '2018-06-21'
   bien-etre-et-communication-au-travail-fr:
     description: "Ici, des outils pour travailler votre confiance en vous et vous\
       \ affirmer au travail. Et des cl\xE9s pour d\xE9samorcer et r\xE9soudre des\
