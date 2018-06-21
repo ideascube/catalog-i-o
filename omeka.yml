@@ -2178,11 +2178,11 @@ all:
       basic first aid techniques.
     language: en
     name: Learn first aid techniques
-    sha256sum: d9fe2c5907decc23bc7e6e646c8880c86e63fca26dd2e83afeb4058514d9d383
-    size: 804490309
+    sha256sum: 8cdb1bc33f83da3488cf1508665a3fb4b809542350b4b4521eb710ab391b2ceb
+    size: 805419235
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-first-aid-techniques-en.zip
-    version: '2018-05-14'
+    version: '2018-06-21'
   learn-greek-el:
     description: Learn to speak and write in greek language, to understand information
       and communicate with people in Greece.
@@ -2209,11 +2209,11 @@ all:
       recovery position?'
     language: en
     name: 'Learn how to save a life: first aid basics'
-    sha256sum: e447ae60b81d60bb394a54a089068913e92947fdcc3122d5d223d11b33577902
-    size: 389095383
+    sha256sum: fd5cfd0b319f593396fd95f1c89eb7a820eae95f89e8aaa57918ac6d60661884
+    size: 389444992
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-how-to-save-a-life-first-aid-basics-en.zip
-    version: '2018-05-14'
+    version: '2018-06-21'
   learn-photography-en:
     description: '"Learn how to create great pictures, acquire the basic skills to
       become a photographer !"'
@@ -2778,11 +2778,11 @@ all:
       yourself and your family safe in the face of a major disaster.
     language: en
     name: Preparing for major disasters and natural catastrophes
-    sha256sum: 2f560f2e2e1eeb2f3bd996fc377040f257ddf5d37d6c66ed49ac3d5e3ca467fc
-    size: 676020575
+    sha256sum: f58955ca8e4e7c199b371dffc19a908ba1d00410ad58c13ef11aff89215a68e0
+    size: 676471667
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/preparing-for-major-disasters-and-natural-catastrophes-en.zip
-    version: '2018-05-14'
+    version: '2018-06-21'
   prevention-addictions-fr:
     description: Mieux comprendre les effets de l'alcool sur nos comportements, et
       leurs origines.
@@ -3274,8 +3274,8 @@ all:
       Consult your physician before trying them out.
     language: en
     name: Using yoga to feel better
-    sha256sum: 41368a6370c8098f51a3a188044335898684d6d6204d0097b8e92ece20412d42
-    size: 3212324720
+    sha256sum: 20543e9af738fa546aea2f695ae162e7e3d4e6371786ef262743e038e9a4f750
+    size: 3212952285
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/yoga-for-therapy-en.zip
-    version: '2018-05-14'
+    version: '2018-06-21'
