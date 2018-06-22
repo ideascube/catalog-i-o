@@ -2358,11 +2358,11 @@ all:
       \ manager."
     language: fr
     name: Management
-    sha256sum: cc4705956d662f6d00cb4d8ffe7008ca046a314008417e500e1db8f0f9e616f4
-    size: 186431241
+    sha256sum: ec9778cee0d7be220133c37b3bbe36196f209ccc9907a9afedeb162ff21c9d4d
+    size: 186431223
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/management-fr.zip
-    version: '2017-10-27'
+    version: '2018-06-22'
   manual-ideascube-all:
     description: "Manuel d'utilisation d'Ideascube.\nIdeascube user manual.\n\u202B\
       \u202AIdeascube\u202C\u202C\u202B\u0629\u202C\u202B\u0628\u202C\u202B\u0627\u202C\
@@ -2378,11 +2378,11 @@ all:
     description: Les bases du marketing.
     language: fr
     name: Marketing
-    sha256sum: 80be5b0057ea307fa0499fa49b47c660bc7379304a9c487ca3f1963b0bb346b0
-    size: 355547576
+    sha256sum: 8d14e6bb3b702d19dc1d16ef1e6f540d23b73f4a6e1b253613c9713771519ae3
+    size: 355547549
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/marketing-fr.zip
-    version: '2017-10-27'
+    version: '2018-06-22'
   mathematics-ar:
     description: "Simple mathematics for kids.// \u0631\u064A\u0627\u0636\u064A\u0627\
       \u062A \u0644\u0644\u0627\u0637\u0641\u0627\u0644"
