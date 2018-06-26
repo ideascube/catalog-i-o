@@ -1218,6 +1218,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/evite-les-conflits-enfants-ados-fr.zip
     version: '2017-10-16'
+  experiences-de-femmes-fr:
+    description: "Femmes intellectuelles, femmes footballeuses, femmes soldats ou\
+      \ femmes geeks. Vous trouverez ici du contenu sur l'immense diversit\xE9 d'exp\xE9\
+      riences des femmes. Des exp\xE9riences les plus intimes (les r\xE8gles, les\
+      \ violences) aux plus incroyables (r\xE9volution des femmes saoudiennes)."
+    language: fr
+    name: "O\xF9 sont les femmes ?"
+    sha256sum: fae6dd41286119ec3983eb64c40282e825c215d217a9b5b4304749a4504163ec
+    size: 715315724
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/experiences-de-femmes-fr.zip
+    version: '2018-06-26'
   facilitator-kit-en:
     description: Dear facilitators, you'll find here contents and activities guides
       to help you managing activities in your Ideas Box. Do not hesitate to use it
