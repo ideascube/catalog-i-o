@@ -937,12 +937,12 @@ all:
   wikiquote.fr:
     name: "Wikiquote"
     description: "le recueil de citations libre"
-    version: "2017-07-26"
+    version: "2018-04-17"
     language: "fra"
-    id: "91e8e449-0a0e-3eb3-08bd-dc1f7e3f37d4"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fr_all_novid_2017-07.zip"
-    size: 249104966
-    sha256sum: "bdb0af7931609f8f171d5d8f0c07b2a661dfc7d8ee3a143d80844a80950a711b"
+    id: "af530b98-ba9d-68fc-b533-44662997bc7e"
+    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fr_all_novid_2018-04.zip"
+    size: 259907245
+    sha256sum: "77ad2aff2033893d1001acac7ce2235906c2df3d74c034b3f26d4570ca7e7873"
     type: zipped-zim
   wikipedia.ckb:
     version: "2016-11-21"
