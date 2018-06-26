@@ -198,9 +198,9 @@ all:
     langid: "cest-pas-sorcier.fr"
     type: zipped-zim
   gutenberg.en:
-    version: "2014-10-26"
+    version: "2014-10-31"
     size: 43415229696
-    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_en_all_10_2014.zip"
+    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_en_all_2014-10.zip"
     name: Project Gutenberg Library (english)
     language: "eng"
     description: "Project Gutenberg offers free ebook (epub and pdf)"
