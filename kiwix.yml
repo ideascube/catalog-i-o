@@ -209,9 +209,9 @@ all:
     langid: "gutenberg.en"
     type: zipped-zim
   gutenberg.fr:
-    version: "2014-10-18"
+    version: "2014-10-31"
     size: 2380948535
-    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_fr_all_10_2014.zip"
+    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_fr_all_2014-10.zip"
     name: Project Gutenberg Library (french)
     language: "fra"
     description: "Le Projet Gutenberg offre des livres électroniques gratuits à télécharger sur votre PC"
