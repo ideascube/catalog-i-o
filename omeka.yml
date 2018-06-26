@@ -856,11 +856,11 @@ all:
     description: Qu'est-ce qu'on mange aujourd'hui ?
     language: fr
     name: "D\xE9couvrez ou re-d\xE9couvrez la cuisine de diff\xE9rents pays"
-    sha256sum: 86995da4a4f06fd344dc30a29f0ee250cc4eeccf2cee03507e3f35e16ba5639b
+    sha256sum: d018c7b87dd47454a5f099715997e7d3b428b914dfdd4fb0caeb5b3b62ad6c1d
     size: 2498592601
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/decouvrez-ou-re-decouvrez-la-cuisine-de-differents-pays-fr.zip
-    version: '2018-06-22'
+    version: '2018-06-26'
   decouvrez-ou-redecouvrez-l-histoire-de-france-fr:
     description: "... Et \xE9clairez le pr\xE9sent \xE0 la lumi\xE8re du pass\xE9\
       \ !"
@@ -2261,11 +2261,11 @@ all:
       \ le fonctionnement d'un navigateur internet."
     language: fr
     name: Les bases de l'informatique
-    sha256sum: 45c5b10d4fcf489a90e0c5b2114cee310bf2d655fd3efa07c51dae5c47aab5a0
+    sha256sum: f3970014ffaeaac84bda216853fa7b34371f5fc480576a21ac050074d304a281
     size: 5343289
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-bases-de-l-informatique-fr.zip
-    version: '2018-06-22'
+    version: '2018-06-26'
   les-filles-et-les-garcons-quelles-differences-fr:
     description: "Filles footballeuses, soldats, pr\xE9sidentes: les filles peuvent\
       \ faire autant de choses que les gar\xE7ons !"
