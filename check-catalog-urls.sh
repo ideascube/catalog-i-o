@@ -19,30 +19,37 @@ echo "INFO : For now, this script only works for packages that are in omeka fold
 function get_unused_pkg()
 {
 	# Getting remote file list
-	pkg_list=$(ssh  $USER@$pkg_server "ls $omeka_pkg_dir")
-	
-	#echo $pkg_list
+	ssh $USER@$pkg_server "ls -l $omeka_pkg_dir/*.zip > pkg.list"
+        scp $USER@$pkg_server:pkg.list .
+        
 	
 	# Getting referenced urls from catalog
 	url_list=$(grep url: $1 | awk '{print $2}')
 	
-	for pkg in $pkg_list
+	total_size=0
+	cat pkg.list | while read pkg
 	do
-	is_present=0
-	 for f in $url_list
-	 do
-	  # extracting filenames from urls
-	  catalog_file_list=$(basename $f)
-	  if [ $catalog_file_list == $pkg ]
-	   then
-	    is_present=1
-	    break
-	  fi
-	 done
-	 if [ $is_present -eq 0 ]
-	 then
-	  echo "Detected unused package : $pkg"
-	 fi
+            pkg_name=$(echo $pkg | awk '{print $9}')
+            pkg_size=$(echo $pkg | awk '{print $5}')
+	    is_present=0
+
+            for f in $url_list
+	        do
+	            # extracting filenames from urls
+	            catalog_file_list=$(basename $f)
+	            if [ $catalog_file_list == $pkg_name ]
+	              then
+	               is_present=1
+	               break
+	            fi
+	        done
+	    if [ $is_present -eq 0 ]
+	     then
+                  total_size=$((total_size + pkg_size))
+                  size=$(echo $total_size | awk '{ foo = $1 / 1024 / 1024 / 1024 ; print foo "GB" }')
+                  echo "Total bytes to save : $size"
+	          echo "Detected unused package : $pkg_name"
+	    fi
 	done
 }
 
