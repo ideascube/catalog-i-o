@@ -37,7 +37,7 @@ function get_unused_pkg()
 	        do
 	            # extracting filenames from urls
 	            catalog_file_list=$(basename $f)
-	            if [ $catalog_file_list == $pkg_name ]
+	            if [ $catalog_file_list == `(basename $pkg_name)` ]
 	              then
 	               is_present=1
 	               break
