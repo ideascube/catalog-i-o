@@ -136,6 +136,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/anatomie-feminine-fr.zip
     version: '2017-11-24'
+  apprendre-a-cuisiner-sikana-fr:
+    description: "Apprendre \xE0 cuisiner gr\xE2ce \xE0 des techniques et des recettes"
+    language: fr
+    name: "Apprendre \xE0 cuisiner"
+    sha256sum: 4a95c6c97152e9b10e36e9d4c7a5c76d76c0dc7c7bdb7dce9a121358f71f610a
+    size: 1736804024
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprendre-a-cuisiner-sikana-fr.zip
+    version: '2018-07-03'
   apprendre-a-utiliser-des-patrons-fr:
     description: "\"Ce paquet de contenus r\xE9unit quelques exemples de tutoriels\
       \ qui permettent \xE0 un tailleur d'apprendre \xE0 utiliser un patron, ou de\
