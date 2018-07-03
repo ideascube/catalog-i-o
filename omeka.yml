@@ -51,6 +51,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/abuse-and-harassment-gbv-ar.zip
     version: '2018-02-23'
+  activite-physique-enabel-fr:
+    description: '-'
+    language: fr
+    name: "Activit\xE9 physique"
+    sha256sum: 0832e3d24fc550bf5bd99304075ced369f1f600b356f61d1e428fed14fc80754
+    size: 319906153
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/activite-physique-enabel-fr.zip
+    version: '2018-07-03'
   adam-wa-mishmish-ar:
     description: "\u062A\u0639\u0631\u0641 \u0639\u0644\u0649 \u0622\u062F\u0645 \u0648\
       \ \u0645\u0634\u0645\u0634! \u0643\u0631\u062A\u0648\u0646 \u0639\u0646 \u0637\
@@ -152,23 +161,33 @@ all:
     url: http://packages.ideascube.org/omeka/apprendre-le-yoga-sikana-fr.zip
     version: '2018-06-07'
   apprends-le-francais-a1-enfants-adolescents-fr:
-    description: "Pars \xE0 la d\xE9couverte de la langue fran\xE7aise, en image !"
+    description: "Pars \xE0 la d\xE9couverte de la langue fran\xE7aise, en images\
+      \ !"
     language: fr
     name: "Apprends le fran\xE7ais ! A1"
-    sha256sum: 6bc748f904fc6b22b159e9dc29d1c690f1fed816ee2c8b5e1f441e72ddd75b62
+    sha256sum: 9efb2c0bc1097f942d56f5dc64ac697a330d68a37007eaed46eab6b21ddfcf3d
     size: 13573811
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprends-le-francais-a1-enfants-adolescents-fr.zip
-    version: '2018-06-07'
+    version: '2018-07-03'
   apprends-le-francais-a2-enfants-adolescents-fr:
-    description: "Apprends \xE0 faire des phrases en fran\xE7ais !"
+    description: "Pour apprendre \xE0 faire des phrases en fran\xE7ais."
     language: fr
-    name: "Apprends le fran\xE7ais ! A2 [Enfants, Adolescents]"
-    sha256sum: cf6a6355ca5b286b9c73dd24f3d9c3ec321df7b1ace528ff91a8270f778b8c4f
+    name: "Apprends le fran\xE7ais ! A2"
+    sha256sum: b3c5f6b4005a5305c8ba83d482ed433061fb892adbd0df0b7874a13861684b38
     size: 159159046
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprends-le-francais-a2-enfants-adolescents-fr.zip
-    version: '2018-01-18'
+    version: '2018-07-03'
+  apprenez-a-renover-des-meubles-sikana-fr:
+    description: '-'
+    language: fr
+    name: "Apprenez \xE0 r\xE9nover des meubles"
+    sha256sum: 787f2bf6b00e35699e235a7637beca3e761cf4d1644114bc5588eff219bcd6a2
+    size: 220420131
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprenez-a-renover-des-meubles-sikana-fr.zip
+    version: '2018-07-03'
   apprenez-le-code-informatique-fr:
     description: "Pour former d\xE9butant et initi\xE9 \xE0 la logique de programmation,\
       \ ainsi qu'\xE0 certains langages."
@@ -538,6 +557,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/child-protection-ar.zip
     version: '2018-02-23'
+  citoyennete-enabel-fr:
+    description: '-'
+    language: fr
+    name: "Citoyennet\xE9"
+    sha256sum: 5908d17eed23e44f5e61888ffa9bd48c43caa938d33a5b64922bc41885245ef9
+    size: 164406825
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/citoyennete-enabel-fr.zip
+    version: '2018-07-03'
   citoyennete-et-politique-fr:
     description: "D\xE9mocratie, politique, \xE9lection, gauche, droite... On en parle\
       \ ?"
@@ -678,6 +706,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cooking-ar.zip
     version: '2017-10-17'
+  couture-enabel-fr:
+    description: '-'
+    language: fr
+    name: Couture
+    sha256sum: 47e78615b9173ec471bf7675fcb146da66e9e171166fd6d10f8cdf8d1641289f
+    size: 113412046
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/couture-enabel-fr.zip
+    version: '2018-07-03'
   creation-audio-fr:
     description: "\"Vous voulez monter une radio ? Apprendre \xE0 monter de petits\
       \ reportages sonores ? L'audio est un excellent moyen pour raconter des histoires\
@@ -922,6 +959,24 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discriminations-enfants-fr.zip
     version: '2017-06-23'
+  diy-basiques-sikana-fr:
+    description: Les basiques du Bricolage
+    language: fr
+    name: Do it yourself Les basiques du Bricolage
+    sha256sum: cb49661f9a99a12f251b37030c2498469d4e5b7a5dd11eb323fd4d94fd971a97
+    size: 741859945
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/diy-basiques-sikana-fr.zip
+    version: '2018-07-03'
+  diy-construire-des-installations-en-foret-sikana-fr:
+    description: '-'
+    language: fr
+    name: "DIY Construire des installations en for\xEAt"
+    sha256sum: 308674bbeb224d47d7419742a3b52c5a2342f3e85d8f10d2a5601c41489e4ba1
+    size: 387161536
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/diy-construire-des-installations-en-foret-sikana-fr.zip
+    version: '2018-07-03'
   diy-handcrafts-and-arts-ar:
     description: "\"Learn how to do useful objects for yourself, your kids, your friends,\
       \ and home accessories.// \u062A\u0639\u0644\u0645 \u0643\u064A\u0641\u064A\u0629\
@@ -1224,12 +1279,12 @@ all:
       riences des femmes. Des exp\xE9riences les plus intimes (les r\xE8gles, les\
       \ violences) aux plus incroyables (r\xE9volution des femmes saoudiennes)."
     language: fr
-    name: "O\xF9 sont les femmes ?"
-    sha256sum: 3c9196b74c3df7edfc9d86596d58e9c4ee54c7754281d33e10a736df64d5e321
+    name: "Exp\xE9riences de femmes"
+    sha256sum: da5b99f3c03bfa8489681424b56450c1166e36bc3b9776efe9f41e3fec37b3f2
     size: 715315724
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/experiences-de-femmes-fr.zip
-    version: '2018-06-28'
+    version: '2018-07-03'
   facilitator-kit-en:
     description: Dear facilitators, you'll find here contents and activities guides
       to help you managing activities in your Ideas Box. Do not hesitate to use it
@@ -1712,6 +1767,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/informacion-y-sensibilizacion-colsubsidio-es.zip
     version: '2018-03-06'
+  informatique-enabel-fr:
+    description: '-'
+    language: fr
+    name: Informatique
+    sha256sum: 4a6126b8e1a69ad94ddca6cc78f315cc116e405acce393fb41b1be886d012105
+    size: 222528251
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/informatique-enabel-fr.zip
+    version: '2018-07-03'
   initiez-vous-a-la-creation-video-fr:
     description: "Initiez vous aux r\xE9flexions sur le cin\xE9ma et l'image, et lancez\
       \ vous dans vos premi\xE8res cr\xE9ations vid\xE9os !"
@@ -2165,23 +2229,25 @@ all:
     url: http://packages.ideascube.org/omeka/le-talisman-brise-sw-rfi-sw.zip
     version: '2018-02-28'
   learn-english-adults-en:
-    description: You want to practise your english ? This package is for you !
+    description: You are an adult and want to practise your English? This package
+      is for you!
     language: en
-    name: Learn english ! (adults)
-    sha256sum: 83a9539869203e0a10de20a96e789e1122d45b88cdfed7831058f8888e6c2b38
+    name: Learn english!
+    sha256sum: fcc4324c574461eca00e807082a5eb92c4e4b689931f5a36cd826dfec51059ee
     size: 1629090
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-adults-en.zip
-    version: '2017-09-25'
+    version: '2018-07-03'
   learn-english-teenagers-en:
-    description: '"Learn basics in english language to communicate with others !"'
+    description: Learn basics in english language to communicate with others! For
+      teens.
     language: en
-    name: '"Learn english ! (teenagers)"'
-    sha256sum: bb62e23bfc12b57ac90b2ecb5980352efadc6278c09dfe059766b030e8f757f9
+    name: Learn English!
+    sha256sum: dc85da7e4aaba89ace480c1b500cc5b6674141fa93d93b94ee413a27f28d6846
     size: 305686403
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-teenagers-en.zip
-    version: '2018-02-28'
+    version: '2018-07-03'
   learn-first-aid-techniques-en:
     description: Everyday accidents are responsible for several millions of deaths
       per year all over the world. Here are some simple techniques, that anyone can
@@ -2396,6 +2462,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/manual-ideascube-all.zip
     version: '2017-05-12'
+  manuels-enabel-fr:
+    description: '-'
+    language: fr
+    name: Manuels
+    sha256sum: c0dfe095bac4a7f269c2f976172c913e3aa5794f0cb30b77cde154363b525697
+    size: 216358733
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/manuels-enabel-fr.zip
+    version: '2018-07-03'
   marketing-fr:
     description: Les bases du marketing.
     language: fr
@@ -2415,6 +2490,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mathematics-ar.zip
     version: '2017-10-17'
+  mecanique-automobile-enabel-fr:
+    description: '-'
+    language: fr
+    name: "M\xE9canique automobile"
+    sha256sum: 3de05b74436ab0987e4492efc3c787260c5109d60f962f6876aecc5d82d3e01f
+    size: 83604947
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mecanique-automobile-enabel-fr.zip
+    version: '2018-07-03'
   memoire-d-un-continent-rfi-fr:
     description: "\"\xC9mission RFI : \"M\xE9moire d'un continent\"\""
     language: fr
@@ -2623,6 +2707,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/nutrition-enfants-fr.zip
     version: '2017-11-27'
+  optimiser-un-petit-espace-sikana-fr:
+    description: '-'
+    language: fr
+    name: Optimiser un petit espace
+    sha256sum: e68920df8126f8ba6c6ec51d1eff2f118c186fe354484f9e1137602b5f0fc8f4
+    size: 389470340
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/optimiser-un-petit-espace-sikana-fr.zip
+    version: '2018-07-03'
   ou-sont-les-femmes-fr:
     description: "Femmes intellectuelles, femmes footballeuses, femmes soldats ou\
       \ femmes geeks. Vous trouverez ici du contenu sur l'immense diversit\xE9 d'exp\xE9\
@@ -2691,6 +2784,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/patrons-pour-coudre-un-top-sorbetto-femmes-fr.zip
     version: '2018-03-01'
+  pedagogie-enabel-fr:
+    description: '-'
+    language: fr
+    name: "P\xE9dagogie"
+    sha256sum: f6a0a7cf643e9c978d23d9a3d92c1beb5d337fa0f011f9e3e5abd28677bbb49e
+    size: 477687370
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/pedagogie-enabel-fr.zip
+    version: '2018-07-03'
   philosophy-of-language-ar:
     description: "Know more about language development and the philosophy behind it.//\
       \ \u062A\u0639\u0644\u0645 \u0639\u0646 \u0641\u0644\u0633\u0641\u0629 \u0648\
@@ -2874,6 +2976,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/recherche-demploi-fr.zip
     version: '2017-04-10'
+  reduire-ses-factures-d-energie-sikana-fr:
+    description: "Ecologie et \xE9conomie"
+    language: fr
+    name: "Diminuer la consommation d'\xE9nergie"
+    sha256sum: 7d7acb63d0be480c3bba23b2bc4c43708907b2808a2bb39c3a1c994c8f1b6a85
+    size: 216126927
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/reduire-ses-factures-d-energie-sikana-fr.zip
+    version: '2018-07-03'
   refugees-rights-fa:
     description: Information about refugees rights in farsi.
     language: fa
@@ -2884,6 +2995,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/refugees-rights-fa.zip
     version: '2017-09-25'
+  renover-une-maison-sikana-fr:
+    description: '-'
+    language: fr
+    name: "R\xE9nover une maison"
+    sha256sum: 10987e790d50368d12c4034ba13c172dc74d519d6ac9dddc3c9d006d77f6375f
+    size: 170906323
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/renover-une-maison-sikana-fr.zip
+    version: '2018-07-03'
   renseignez-vous-sur-les-demarches-administratives-fr:
     description: "Retrouvez ici quelques guides pour vous aider \xE0 vous rep\xE9\
       rer dans le labyrinthe des d\xE9marches administratives. Pour d\xE9fendre ses\
@@ -3125,6 +3245,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/the-road-zaatari-magazine-ar.zip
     version: '2018-03-12'
+  transformation-agro-alimentaire-enabel-fr:
+    description: '-'
+    language: fr
+    name: transformation agro-alimentaire
+    sha256sum: f4e91fb51e3511f17a463afb68f4b92de6c69b32412e2ad25561b71d3b27a1d1
+    size: 723683154
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/transformation-agro-alimentaire-enabel-fr.zip
+    version: '2018-07-03'
   tricot-fr:
     description: "Pas \xE0 pas, apprenez les bases du tricot et bient\xF4t vous arborerez\
       \ fi\xE8rement votre propre \xE9charpe !"
