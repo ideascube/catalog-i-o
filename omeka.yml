@@ -98,6 +98,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/administration-gestion-comptabilite-fr.zip
     version: '2018-04-12'
+  agriculture-enabel-fr:
+    description: '-'
+    language: fr
+    name: Agriculture
+    sha256sum: 27b7993ed3a67362a2fb9100be636dd092840b1aeb1ad519c7a3eee71117e558
+    size: 89144248
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-enabel-fr.zip
+    version: '2018-07-03'
   agriculture-gardening-en:
     description: Discover your green fingers and create a living environment that
       lets you live in harmony with nature.
