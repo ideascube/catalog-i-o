@@ -3255,6 +3255,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/technology-ar.zip
     version: '2018-02-23'
+  test-pkg2-fr:
+    description: test-pkg1
+    language: fr
+    name: test-pkg2
+    sha256sum: b59e6ef1a5115995d39a48f17e23b3bebea7e6e6a9bce01d069c3b471300f462
+    size: 14079261
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/test-pkg2-fr.zip
+    version: '2018-07-06'
   the-road-zaatari-magazine-ar:
     description: "Collective articles and stories written by Syrian refugees who became\
       \ journalists inside Zaatari camp In Jordan. \u0645\u062C\u0645\u0648\u0639\u0629\
