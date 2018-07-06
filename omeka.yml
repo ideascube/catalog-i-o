@@ -703,7 +703,7 @@ all:
     size: 1024098233
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creation-d-entreprise-fr.zip
-    version: '2018-07-06'
+    version: '2017-07-06'
   creation-sikana-es:
     description: '-'
     language: es
