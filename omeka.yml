@@ -699,11 +699,11 @@ all:
       encore vous assurer de la faisabilité de votre projet.'
     language: fr
     name: Création d'entreprise
-    sha256sum: 32accb7f5b83ce546dd14ce1a85886f87d7587d72605231b6a2cd2c2887d2325
+    sha256sum: 68242ce7cad3c1aae873e772c2ffe98c51d9dbbbd08bffb8314290de77b3391a
     size: 1024098233
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creation-d-entreprise-fr.zip
-    version: '2017-07-06'
+    version: '2018-07-06'
   creation-sikana-es:
     description: '-'
     language: es
