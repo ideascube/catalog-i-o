@@ -229,11 +229,11 @@ all:
     description: .
     language: fr
     name: "Apprenez le fran\xE7ais - Alphab\xE9tisation"
-    sha256sum: d0f3c0e9f67e4afc10cd475e48a823c0672acbc119be88d388c75b38a34fd1c4
-    size: 427652
+    sha256sum: 77857f1954244e531696463d4f75cb9e7bb82968dd210959fdf02198d7742da9
+    size: 40488905
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-alphabetisation-fr.zip
-    version: '2017-11-28'
+    version: '2018-07-06'
   apprenez-le-francais-fos-fr:
     description: .
     language: fr
