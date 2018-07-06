@@ -97,7 +97,7 @@ all:
     size: 3027988
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/administration-gestion-comptabilite-fr.zip
-    version: '2018-04-12'
+    version: '2017-04-12'
   agriculture-enabel-fr:
     description: '-'
     language: fr
@@ -233,7 +233,7 @@ all:
     size: 40488905
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-alphabetisation-fr.zip
-    version: '2018-07-06'
+    version: '2017-07-06'
   apprenez-le-francais-fos-fr:
     description: .
     language: fr
@@ -773,7 +773,7 @@ all:
     size: 1024185770
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creation-d-entreprise-fr.zip
-    version: '2018-04-10'
+    version: '2017-04-10'
   creation-sikana-es:
     description: '-'
     language: es
