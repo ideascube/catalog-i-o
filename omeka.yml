@@ -192,11 +192,11 @@ all:
       qu'à certains langages.
     language: fr
     name: Apprenez le code informatique
-    sha256sum: 78e283ec6f54da111ba54a040c719fd4f8818b19889ba87cbc1190950caf2a4c
-    size: 4926187788
+    sha256sum: a084e297bde2107049c04bd9e84892fd78d06122eb5f38dc6babfb25acca04ad
+    size: 4920707334
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-code-informatique-fr.zip
-    version: '2017-05-29'
+    version: '2018-07-06'
   apprenez-le-francais-alphabetisation-fr:
     description: .
     language: fr
@@ -1696,11 +1696,11 @@ all:
       avez besoin d'aide ? C'est ici !
     language: fr
     name: Initiez-vous à la photographie
-    sha256sum: ccb032bf00a6eb565429f0e10ac0dde6e8fc71508b844ba5444cd61c74ff3483
-    size: 515259703
+    sha256sum: 88a9ffe94cca9db598b997eb65f6bba9387c726732d8d69aeec2388d5cedddbc
+    size: 514464797
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-photographie-fr.zip
-    version: '2017-01-18'
+    version: '2018-07-06'
   innovation-en-afrique-fr:
     description: Vous trouverez ici du contenu sur des méthodes innovantes et des
       présentations d'innovations spécifiques au contexte économique et environnemental
