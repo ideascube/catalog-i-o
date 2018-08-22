@@ -3358,3 +3358,12 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/yoga-for-therapy-en.zip
     version: '2018-06-21'
+  ecuador-es:
+    name: Ecuador
+    description: '-'
+    language: es
+    version: '2018-08-20'
+    url: http://packages.ideascube.org/omeka/ecuador-es.zip
+    size: 4534231943
+    sha256sum: 378fbeca9df84a2cfe3991133cf5401125d454cfc176e6c9bdf59f75efaafd87
+    type: zipped-medias
