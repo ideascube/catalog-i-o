@@ -104,11 +104,11 @@ all:
       \ risques"
     language: fr
     name: Quels risques avec l'alcool et les drogues ?
-    sha256sum: 8abf95ba1d7088d9bba0ab09ce10c5780a62052301bd43519596484a9afb0093
-    size: 46178134
+    sha256sum: 056357db5136538efb839fe916e805fdb6ed363102b352ee77618c6623e5405c
+    size: 59414477
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/alcool-drogues-fr.zip
-    version: '2018-05-15'
+    version: '2018-08-27'
   anatomie-feminine-fr:
     description: "Des contenus autour de de l'anatomie f\xE9minine"
     language: fr
@@ -152,23 +152,24 @@ all:
     url: http://packages.ideascube.org/omeka/apprendre-le-yoga-sikana-fr.zip
     version: '2018-06-07'
   apprends-le-francais-a1-enfants-adolescents-fr:
-    description: "Pars \xE0 la d\xE9couverte de la langue fran\xE7aise, en image !"
+    description: "Pars \xE0 la d\xE9couverte de la langue fran\xE7aise, en images\
+      \ !"
     language: fr
     name: "Apprends le fran\xE7ais ! A1"
-    sha256sum: 6bc748f904fc6b22b159e9dc29d1c690f1fed816ee2c8b5e1f441e72ddd75b62
-    size: 13573811
+    sha256sum: 524a5f1ab31d5d7fc4f05906499823aaecbe0883371a1fd3fc4f2426b804dd04
+    size: 12187115
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprends-le-francais-a1-enfants-adolescents-fr.zip
-    version: '2018-06-07'
+    version: '2018-08-27'
   apprends-le-francais-a2-enfants-adolescents-fr:
-    description: "Apprends \xE0 faire des phrases en fran\xE7ais !"
+    description: "Pour apprendre \xE0 faire des phrases en fran\xE7ais."
     language: fr
-    name: "Apprends le fran\xE7ais ! A2 [Enfants, Adolescents]"
-    sha256sum: cf6a6355ca5b286b9c73dd24f3d9c3ec321df7b1ace528ff91a8270f778b8c4f
-    size: 159159046
+    name: "Apprends le fran\xE7ais ! A2"
+    sha256sum: dcf3c5aca29ff1e02db88d991429af2c6a21c7d930b0980edff82cb6eef40d7f
+    size: 158019771
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprends-le-francais-a2-enfants-adolescents-fr.zip
-    version: '2018-01-18'
+    version: '2018-08-27'
   apprenez-le-code-informatique-fr:
     description: "Pour former d\xE9butant et initi\xE9 \xE0 la logique de programmation,\
       \ ainsi qu'\xE0 certains langages."
@@ -183,11 +184,11 @@ all:
     description: .
     language: fr
     name: "Apprenez le fran\xE7ais - Alphab\xE9tisation"
-    sha256sum: d0f3c0e9f67e4afc10cd475e48a823c0672acbc119be88d388c75b38a34fd1c4
-    size: 427652
+    sha256sum: d2d3aa625189d35dd4729b7d9edcd1af9ad435b4ee80370a4bd9deef9a1c4bef
+    size: 40496892
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-alphabetisation-fr.zip
-    version: '2017-11-28'
+    version: '2018-08-27'
   apprenez-le-francais-fos-fr:
     description: .
     language: fr
@@ -657,6 +658,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/connaitre-la-france-et-paris.zip
     version: '2017-09-29'
+  connaitre-la-france-et-paris-fr:
+    description: "Comment fait-on la bise ? Pourquoi repr\xE9sente-t-on les fran\xE7\
+      ais avec une baguette de pain ? Ou encore : d'ou viennent les partis politiques\
+      \ ? Vous trouverez ici le contenu pour comprendre la France et ses traditions\
+      \ mais aussi des informations pratiques pour se d\xE9placer dans Paris."
+    language: fr
+    name: "Conna\xEEtre la France et Paris"
+    sha256sum: 8c2bfe7dad6a46c1ea35667efdc8d965558671583ec7eb39bb2d506ca1340cbd
+    size: 4015757877
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/connaitre-la-france-et-paris-fr.zip
+    version: '2018-08-27'
   contes-et-dessins-animes-fr:
     description: "Apprendre, r\xE9fl\xE9chir, d\xE9battre, en s'amusant ? C'est possible\
       \ !"
@@ -864,15 +877,14 @@ all:
     url: http://packages.ideascube.org/omeka/decouvrez-ou-re-decouvrez-la-cuisine-de-differents-pays.zip
     version: '2017-09-29'
   decouvrez-ou-re-decouvrez-la-cuisine-de-differents-pays-fr:
-    description: '"Qu''est ce que nous mangeons ? Qu''est ce que les autres mangent
-      ?"'
+    description: Qu'est-ce qu'on mange aujourd'hui ?
     language: fr
-    name: "\"D\xE9couvrez ou re-d\xE9couvrez la cuisine de diff\xE9rents pays\""
-    sha256sum: d4c03a4ba71ed6e4de6a863ebdfaf0329a562951cd20ab458ff008e015308f20
-    size: 2498592601
+    name: "D\xE9couvrez ou re-d\xE9couvrez la cuisine de diff\xE9rents pays"
+    sha256sum: 5b165bd043415cf7c74b566612551a5a0b419785d607a6a45ffc5f6d9d98e7fb
+    size: 2496583482
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/decouvrez-ou-re-decouvrez-la-cuisine-de-differents-pays-fr.zip
-    version: '2018-02-28'
+    version: '2018-08-27'
   decouvrez-ou-redecouvrez-l-histoire-de-france-fr:
     description: "... Et \xE9clairez le pr\xE9sent \xE0 la lumi\xE8re du pass\xE9\
       \ !"
@@ -917,12 +929,12 @@ all:
       \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
       \ \xE0 accepter les diff\xE9rences des qui nous entourent. (Enfants et ados)"
     language: fr
-    name: Discriminations [Enfants/Ados]
-    sha256sum: cbf65b0e1715d40040dae3185b4f497a47a3fff731e4f9166ebd5701fef74b8d
-    size: 617651709
+    name: Combattons les discriminations
+    sha256sum: 36ebb6ad38347f9cd46ef1e6bce3b7e8bec7d0f1120369f33c9460929844ce90
+    size: 616019591
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discriminations-enfants-ados-fr.zip
-    version: '2018-06-05'
+    version: '2018-08-27'
   discriminations-enfants-fr:
     description: "On est tous diff\xE9rents, mais tous des \xEAtres humains ! Pour\
       \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
@@ -1239,6 +1251,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/evite-les-conflits-enfants-ados-fr.zip
     version: '2017-10-16'
+  experiences-de-femmes-fr:
+    description: "Femmes intellectuelles, femmes footballeuses, femmes soldats ou\
+      \ femmes geeks. Vous trouverez ici du contenu sur l'immense diversit\xE9 d'exp\xE9\
+      riences des femmes. Des exp\xE9riences les plus intimes (les r\xE8gles, les\
+      \ violences) aux plus incroyables (r\xE9volution des femmes saoudiennes)."
+    language: fr
+    name: "Exp\xE9riences de femmes"
+    sha256sum: d25b4fcec6b226c6bd96b0749245e09ce2a5a1165ad7730712f2aa3108917335
+    size: 712704285
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/experiences-de-femmes-fr.zip
+    version: '2018-08-27'
   facilitator-kit-en:
     description: Dear facilitators, you'll find here contents and activities guides
       to help you managing activities in your Ideas Box. Do not hesitate to use it
@@ -1571,14 +1595,15 @@ all:
     url: http://packages.ideascube.org/omeka/harcelement-ado-fr.zip
     version: '2018-06-07'
   harcelement-enfants-fr:
-    description: "Des contenus autour des questions de harc\xE8lement"
+    description: "Des contenus autour des questions de harc\xE8lement pour l'identifier\
+      \ et apprendre \xE0 se d\xE9fendre."
     language: fr
-    name: "Harc\xE8lement (enfants)"
-    sha256sum: b87cc81a5555e8f3855db3e97f73a72947471acf8d4b87fc9ac966a93f4c3909
-    size: 43890679
+    name: "Non au harc\xE8lement !"
+    sha256sum: 11dc49faa6fc74f806aa78bfaf03729c7abd0cc7618f8b2a8fcb73aad57a2e08
+    size: 42870770
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/harcelement-enfants-fr.zip
-    version: '2017-11-24'
+    version: '2018-08-27'
   health-and-diseases-ar:
     description: "\"Learn about certain diseases and how to prevent them.// \u0627\
       \u0639\u0631\u0641 \u0627\u0643\u062B\u0631 \u0639\u0646 \u0628\u0639\u0636\
@@ -2577,14 +2602,14 @@ all:
     version: '2018-02-28'
   nature-enfants-ados-fr:
     description: "Qui sont les \xEAtres vivants qui nous entourent ? O\xF9 vivent-ils\
-      \ ? Que mangent-ils ? Comment vivons nous ensemble ?"
+      \ ? Que mangent-ils ? Comment vivons-nous ensemble ?"
     language: fr
-    name: Nature [Enfants/Ados]
-    sha256sum: de692ae84fb40e3d7acfc8b30108e1073bc2122eb87857cd0182d751eba37d57
-    size: 1302195599
+    name: Raconte-moi la nature !
+    sha256sum: 166ba951564b72c530e7809590cf745fdd584c4b92767b32b47e2a5af3c220f7
+    size: 1301009529
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/nature-enfants-ados-fr.zip
-    version: '2018-01-18'
+    version: '2018-08-27'
   nervous-system-ar:
     description: "Learn about the nervous system and how it functions.// \u062A\u0639\
       \u0644\u0645 \u0639\u0646 \u0627\u0644\u062C\u0647\u0627\u0632 \u0627\u0644\u0639\
@@ -2863,6 +2888,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/programmation-et-bidouille-fr.zip
     version: '2018-07-12'
+  protege-la-planete-enfants-ados-fr:
+    description: "Pourquoi c'est important de prot\xE9ger la plan\xE8te ? Que peut-on\
+      \ faire pour la prot\xE9ger, tous ensemble ?"
+    language: fr
+    name: "Prot\xE9geons la plan\xE8te !"
+    sha256sum: fa44bc72338fc411f52b82725243a5ace6028fafc1d9d64b416742554bad18fc
+    size: 1911478570
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/protege-la-planete-enfants-ados-fr.zip
+    version: '2018-08-27'
   protegeons-la-planete-fr:
     description: "Pourquoi c'est important de prot\xE9ger la plan\xE8te ? Que peut-on\
       \ faire pour la prot\xE9ger, tous ensemble ?"
@@ -2943,15 +2978,15 @@ all:
     url: http://packages.ideascube.org/omeka/rfi-savoir-inde.zip
     version: '2017-03-16'
   risques-auditifs-fr:
-    description: "\"Comprendre ce qu'est le bruit, les gestes \xE0 adopter pour pr\xE9\
-      server son audition\""
+    description: "Comprendre ce qu'est le bruit, les gestes \xE0 adopter pour pr\xE9\
+      server son audition."
     language: fr
-    name: '"Risques auditifs"'
-    sha256sum: 1cb8332d6cd91eadd09464035bf7d9bba12cf2bc39f4b4720e12c08293232141
-    size: 199399821
+    name: Risques auditifs
+    sha256sum: a90b5ce681930c6a2d9c6d52856181ff64ffe0eb337a552add3e9949b7516b61
+    size: 198827410
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/risques-auditifs-fr.zip
-    version: '2018-02-28'
+    version: '2018-08-27'
   risques-numeriques-fr:
     description: "Des contenus pour identifier les usages et les risques en lien avec\
       \ le num\xE9rique"
@@ -3120,6 +3155,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sports-ar.zip
     version: '2017-10-17'
+  sports-enfants-ados-fr:
+    description: "A quoi \xE7a sert le sport ? Combien il y a de sports diff\xE9rents\
+      \ ? Pourquoi le sport, \xE7a rime avec respect et amiti\xE9 ?"
+    language: fr
+    name: Les bases du sport
+    sha256sum: 4806c3e67b33e8707827e423a747b50c88965465f4fa14f66b34135e29b2b3dc
+    size: 653456800
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/sports-enfants-ados-fr.zip
+    version: '2018-08-27'
   tales-for-kids-ar:
     description: "\"A variety of fun and cultivating tales for kids. /\u0642\u0635\
       \u0635 \u0645\u0646\u0648\u0639\u0629 \u0627\u062F\u0628\u064A\u0629 \u0645\u0646\
@@ -3212,16 +3257,16 @@ all:
     version: '2018-05-15'
   tutoriels-pour-utiliser-des-logiciels-et-des-applications-fr:
     description: "Tutoriels pour utiliser des logiciels et des applications\r\n- \xEA\
-      tre en capacit\xE9 de prendre en mains les logiciels propos\xE9s sur les ordinateurs\r\
-      \n- \xEAtre en capacit\xE9 de prendre en mains les applications propos\xE9es\
-      \ sur les tablettes"
+      tre en capacit\xE9 de prendre en mains les logiciels propos\xE9s sur les ordinateurs\
+      \ (Blender, Inkscape, Gimp, Audacity, Krita, Raspberry Pi)\r\n- \xEAtre en capacit\xE9\
+      \ de prendre en mains les applications propos\xE9es sur les tablettes"
     language: fr
     name: Tutoriels pour utiliser des logiciels et des applications
-    sha256sum: 338542b3e55feac8f5710e84e8e5fa7a26409b790129d4240897edcad9a49406
-    size: 3236250632
+    sha256sum: 9f38d79da90b80c6aebeb5acfa2f11de40281222beacb1fda85bd359db97adff
+    size: 3233530930
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/tutoriels-pour-utiliser-des-logiciels-et-des-applications-fr.zip
-    version: '2018-05-29'
+    version: '2018-08-27'
   utilisez-internet-en-toute-securite-fr:
     description: "Des contenus pour accompagner petits et grands \xE0 utiliser internet\
       \ en toute s\xE9curit\xE9, et \xE0 comprendre comment avoir du recul sur les\
