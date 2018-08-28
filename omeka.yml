@@ -329,12 +329,12 @@ all:
     description: Les arts plastiques, la danse... Les formes d'arts ne manquent pas,
       et font partie de la richesse d'un pays et d'une culture !
     language: fr
-    name: Arts (Afrique)
-    sha256sum: cc7d06a23ef9e5c394e1e47b79bda53c3143345f33e00245dc5b61ca28aa434b
-    size: 1254131705
+    name: Arts
+    sha256sum: 4bf93ac1be4ec368bc6dbf09581f3f25643ffcc01a764b874a4ca35aa2235a15
+    size: 1253218740
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arts-afrique-fr.zip
-    version: '2018-01-18'
+    version: '2018-08-28'
   arts-plastiques-fr:
     description: "D\xE9tendez-vous, exprimez-vous, cr\xE9ez ! Il y a un artiste en\
       \ chacun de nous, \xE0 vous de le r\xE9v\xE9ler..."
@@ -403,12 +403,12 @@ all:
   biologie-adolescents-fr:
     description: "Pars \xE0 la d\xE9couverte du corps humain !"
     language: fr
-    name: Biologie (adolescents)
-    sha256sum: 472ff53d0e4d83162c156447ccddf3632bc5b1e6a90cb26d94cf4a1e16ab0e47
-    size: 2728471673
+    name: La biologie pour les adolescents
+    sha256sum: 66b97d08ae60dbe2ccd62db60bff96f636c5cd11c7edec61689764b20949fccf
+    size: 2727984165
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/biologie-adolescents-fr.zip
-    version: '2018-03-26'
+    version: '2018-08-28'
   biologie-enfants-ados-fr:
     description: "Pars \xE0 la d\xE9couverte du corps humain !"
     language: fr
@@ -419,14 +419,14 @@ all:
     url: http://packages.ideascube.org/omeka/biologie-enfants-ados-fr.zip
     version: '2017-10-16'
   biologie-enfants-fr:
-    description: "\"Pars \xE0 la d\xE9couverte du corps humain !\""
+    description: "Pars \xE0 la d\xE9couverte du corps humain !"
     language: fr
-    name: '"Biologie [Enfants]"'
-    sha256sum: f50c7f3a665cd64ec989caad3a5ff30441fed04d4e21a662f0c01ec83c867c3d
-    size: 2987698098
+    name: La biologie pour les enfants
+    sha256sum: 1e26eddf89b7e109da1e6c81b58d0dfcfd5a73ae2472e1198f0a572607e61a22
+    size: 2987177380
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/biologie-enfants-fr.zip
-    version: '2018-02-28'
+    version: '2018-08-28'
   biology-ar:
     description: "\"Learn general information about Biology.// \u062A\u0639\u0644\u0645\
       \ \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u0639\u0627\u0645\u0629 \u0639\
@@ -583,6 +583,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/combattons-les-discriminations-fr.zip
     version: '2018-04-10'
+  comment-faire-face-a-la-violence-et-aux-conflits-enfants-ados-fr:
+    description: La paix, comment on fait ?
+    language: fr
+    name: "Comment faire face \xE0 la violence et aux conflits ?"
+    sha256sum: de7e54d4eb4ce675486e51349e9e0b453aae6b1e3904ed8a6f69118e98ba1808
+    size: 34195630
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/comment-faire-face-a-la-violence-et-aux-conflits-enfants-ados-fr.zip
+    version: '2018-08-28'
   comment-faire-face-a-la-violence-et-aux-conflits-fr:
     description: La paix, comment on fait ?
     language: fr
@@ -750,6 +759,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creatividad-cucuta-video-es.zip
     version: '2018-04-26'
+  cuisine-et-nutrition-enfants-fr:
+    description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
+    language: fr
+    name: Je mange bien
+    sha256sum: 8873396064606ba9be2139c1e7438c879bdfd7b8022cdb335eea4d14b3defaf7
+    size: 296388020
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cuisine-et-nutrition-enfants-fr.zip
+    version: '2018-08-28'
   cuisine-fr:
     description: Qu'est ce que nous mangeons ? Qu'est ce que les autres mangent ?
     language: fr
@@ -983,11 +1001,11 @@ all:
       \ ? c'est l\xE0 !"
     language: fr
     name: Do It Yourself !
-    sha256sum: af162c21ef319b1617ab3bdcd354aedb57b08307e7c2f8166506f56e58ce301c
-    size: 2512748435
+    sha256sum: 4290648930f79a7b6259e2d376504761ca6addd6e9d450e8d6b172e78194c765
+    size: 2505276733
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/diy-travaux-manuels-fr.zip
-    version: '2018-06-07'
+    version: '2018-08-28'
   documents-methodologiques-rfi-fr:
     description: "\"Documents m\xE9thodologiques\""
     language: fr
@@ -1048,14 +1066,24 @@ all:
     url: http://packages.ideascube.org/omeka/drums-for-beginners-en.zip
     version: '2018-02-23'
   ebook-enfants-libres-de-droit-fr:
-    description: Des livres et BD pour les plus jeunes!
+    description: Des livres et BD pour les plus jeunes.
     language: fr
-    name: Ebook (enfants) libres de droit
-    sha256sum: 3b83baa6e04bdfe94821281d5020672eba894eea706f5f53c6a987f004c67449
-    size: 190826696
+    name: Raconte-moi une histoire !
+    sha256sum: a06e03744ce74877cb651a2c9f574c7d1adb4fb37ea23b04e797dcf25d6dffeb
+    size: 189254620
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ebook-enfants-libres-de-droit-fr.zip
-    version: '2018-03-27'
+    version: '2018-08-28'
+  ebooks-enfants-fr:
+    description: "Tu cherches de quoi lire, des livres pas trop compliqu\xE9s ? C'est\
+      \ ici !"
+    language: fr
+    name: Raconte-moi des histoires !
+    sha256sum: 4deacdfebdff609e4aea7d00cb82643bff86c5884f1ee81940e6f96fbc42e239
+    size: 36716267
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ebooks-enfants-fr.zip
+    version: '2018-08-28'
   eclairage-et-raccordements-sikana-fr:
     description: "\"Avec nos vid\xE9os \xE9ducatives du programme \xAB \xC9lectricit\xE9\
       \ pour tous \xBB, d\xE9couvrez les bases de l\u2019\xE9lectricit\xE9, quelles\
@@ -1693,12 +1721,12 @@ all:
       \ rester en bonne sant\xE9, et pour que ceux autour de nous le reste aussi !\
       \ Apprends \xE0 prendre les bonnes habitudes en t'amusant !"
     language: fr
-    name: "Hygi\xE8ne [Enfants/Ados]"
-    sha256sum: d1a72735791a251c503f21c7fcd25bb92143c556c927a89969a0e523f50d36af
-    size: 106790212
+    name: "Hygi\xE8ne"
+    sha256sum: 09028f0b51fc6780c0824f8b9ada64a78a118ed34b82543dabd7c5f2229c847e
+    size: 106721016
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/hygiene-enfants-ados-fr.zip
-    version: '2018-01-18'
+    version: '2018-08-28'
   hygiene-enfants-fr:
     description: "Pourquoi il faut se laver, le corps, les mains, les dents ? Pour\
       \ rester en bonne sant\xE9, et pour que ceux autour de nous le reste aussi !\
@@ -2160,14 +2188,14 @@ all:
     url: http://packages.ideascube.org/omeka/la-marche-du-monde-rfi-fr.zip
     version: '2018-02-28'
   la-sante-enfants-ado-fr:
-    description: "Des informations autour de la sant\xE9"
+    description: Comprendre son corps et en prendre soin.
     language: fr
-    name: "La sant\xE9 (enfants/ado)"
-    sha256sum: 8074720d427807d1cdfeae41df883037f0964f6d17db8ac714d2173b42e7ce4c
-    size: 246058142
+    name: "Pour \xEAtre en bonne sant\xE9 !"
+    sha256sum: 406190ddac45bb6f82cc858349f69d4668ca7dae671f8d3384a409918f54bda8
+    size: 244750580
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-enfants-ado-fr.zip
-    version: '2017-11-24'
+    version: '2018-08-28'
   le-tableau-electrique-sikana-fr:
     description: "\"Avec nos vid\xE9os \xE9ducatives du programme \xAB \xC9lectricit\xE9\
       \ pour tous \xBB, d\xE9couvrez les bases de l\u2019\xE9lectricit\xE9, quelles\
@@ -2505,15 +2533,15 @@ all:
     url: http://packages.ideascube.org/omeka/motherhood-and-parenting-ar.zip
     version: '2018-03-27'
   moyens-de-contraception-fr:
-    description: "La contraception c'est quoi? quels sont les diff\xE9rents moyens\
-      \ de protection et de contraception pour filles et gar\xE7ons?"
+    description: "La contraception c'est quoi ? Quels sont les diff\xE9rents moyens\
+      \ de protection et de contraception pour filles et gar\xE7ons ?"
     language: fr
     name: Quelle contraception pour moi, pour nous ?
-    sha256sum: c24f7bd746354c89adaa38d09ac8c67645b206508af71b0e77d3189875b0b1b7
-    size: 71554330
+    sha256sum: 30017c3f810616eb4620e0e5e822bfa8b3354b0b279578567bf78d5af2bd2d53
+    size: 70290337
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/moyens-de-contraception-fr.zip
-    version: '2018-05-15'
+    version: '2018-08-28'
   music-in-arabic:
     description: "\u0627\u0644\u0627\u0633\u062A\u0631\u062E\u0627\u0621 \u0648\u0627\
       \u0644\u0627\u0633\u062A\u0645\u0627\u0639 \u0625\u0644\u0649 \u0627\u0644\u0645\
@@ -3116,12 +3144,12 @@ all:
   sommeil-enfants-fr:
     description: "Comprendre \xE0 quoi sert le sommeil, pourquoi on r\xEAve?"
     language: fr
-    name: Sommeil (enfants)
-    sha256sum: 24b4a33cf1e88ac353c6f96e03577f3e6fff20d80e0321fb06023274193790af
-    size: 237867856
+    name: Bien dormir
+    sha256sum: aab129d2b13afd71ae5320b7c4256922496458fa534ababd95bac893609752e3
+    size: 237448006
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sommeil-enfants-fr.zip
-    version: '2017-11-24'
+    version: '2018-08-28'
   space-science-ar:
     description: "\u062A\u0639\u0644\u0645 \u0639\u0646 \u0627\u0644\u0643\u0648\u0627\
       \u0643\u0628 \u0648\u0627\u0644\u0646\u062C\u0648\u0645 \u0648\u0627\u0644\u0641\
@@ -3279,15 +3307,15 @@ all:
     url: http://packages.ideascube.org/omeka/utilisez-internet-en-toute-securite-fr.zip
     version: '2018-04-10'
   vih-sida-fr:
-    description: "Conna\xEEtre le vih sida, les risques de contamination, les moyens\
-      \ de pr\xE9vention et de protection"
+    description: "Conna\xEEtre le VIH sida, les risques de contamination, les moyens\
+      \ de pr\xE9vention et de protection."
     language: fr
-    name: VIH sida
-    sha256sum: 753a08701bad346fb23b7c6bbd53e3d95aabe279e5eb6a385ffd10661b7e9715
-    size: 74104381
+    name: "Se prot\xE9ger du VIH"
+    sha256sum: 16583414eee0132904ee5d8ffcabdc6f0026d4d3e4178c767b4e008849624589
+    size: 73751663
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/vih-sida-fr.zip
-    version: '2017-11-24'
+    version: '2018-08-28'
   violences-faites-aux-femmes-fr:
     description: "Conna\xEEtre et combattre les violences sp\xE9cifiques aux femmes"
     language: fr
