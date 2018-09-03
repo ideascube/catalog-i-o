@@ -2237,23 +2237,25 @@ all:
     url: http://packages.ideascube.org/omeka/le-talisman-brise-sw-rfi-sw.zip
     version: '2018-02-28'
   learn-english-adults-en:
-    description: You want to practise your english ? This package is for you !
+    description: You are an adult and want to practise your English? This package
+      is for you!
     language: en
-    name: Learn english ! (adults)
-    sha256sum: 83a9539869203e0a10de20a96e789e1122d45b88cdfed7831058f8888e6c2b38
-    size: 1629090
+    name: Learn english!
+    sha256sum: d68ff8167070fc87347d47b8ed82cb17baf121add8f83ae42a164f458dd42e0d
+    size: 1192802
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-adults-en.zip
-    version: '2017-09-25'
+    version: '2018-09-03'
   learn-english-teenagers-en:
-    description: '"Learn basics in english language to communicate with others !"'
+    description: Learn basics in english language to communicate with others! For
+      teens.
     language: en
-    name: '"Learn english ! (teenagers)"'
-    sha256sum: bb62e23bfc12b57ac90b2ecb5980352efadc6278c09dfe059766b030e8f757f9
-    size: 305686403
+    name: Learn English!
+    sha256sum: f8789568c8b8c92c097634e1a1b78e8ca56ce24ab1c6446afa657752e2b9237b
+    size: 301620181
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-teenagers-en.zip
-    version: '2018-02-28'
+    version: '2018-09-03'
   learn-first-aid-techniques-en:
     description: Everyday accidents are responsible for several millions of deaths
       per year all over the world. Here are some simple techniques, that anyone can
