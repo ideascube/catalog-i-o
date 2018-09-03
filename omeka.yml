@@ -1779,11 +1779,11 @@ all:
       \ vous dans vos premi\xE8res cr\xE9ations vid\xE9os !"
     language: fr
     name: "Initiez-vous \xE0 la cr\xE9ation vid\xE9o"
-    sha256sum: 3ff253980da10b122ed24e470c76e558af91cc77dd0fb62dcc86b1f9bb9c35c5
-    size: 949757990
+    sha256sum: 36ae42abf19275a29368271c3d208a674ac9d0b048602da537147cafb28afff6
+    size: 942759454
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-creation-video-fr.zip
-    version: '2018-05-29'
+    version: '2018-09-03'
   initiez-vous-a-la-photographie-fr:
     description: Vous souhaitez vous lancer, faire quelques photographies, mais vous
       avez besoin d'aide ? C'est ici !
