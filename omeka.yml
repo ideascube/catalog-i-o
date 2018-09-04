@@ -1297,11 +1297,11 @@ all:
       to find ideas and inspiration !
     language: en
     name: Facilitator Kit
-    sha256sum: a374f5ac9d63627f27aef8bef14c1d2cb405880bd0c7f466d70fc17a69574d51
-    size: 200291320
+    sha256sum: 55ddc69d91038fb0764ddf29324034e70a71b718ce16cbf0dffefc70c4f69a7e
+    size: 200291919
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/facilitator-kit-en.zip
-    version: '2017-09-25'
+    version: '2018-09-04'
   faites-le-tour-des-notions-de-citoyennete-et-politique:
     description: "D\xE9mocratie, politique, \xE9lection, gauche, droite... On en parle\
       \ ?"
@@ -1387,11 +1387,11 @@ all:
     description: Fictions & music for adults in farsi language.
     language: fa
     name: "\u062A\u062E\u06CC\u0644\u06CC [Fictions for adults]"
-    sha256sum: ba26536cdf3b56f3cd39ba4308a577c182787187e76e1c4d4bbc65eb834ca2af
-    size: 56224946
+    sha256sum: 7c5da8dc2a34ef8101d1751237e7f7de5af356202b61271e74509fe6991a8840
+    size: 56225065
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fictions-for-adults-fa.zip
-    version: '2017-09-29'
+    version: '2018-09-04'
   fight-against-discriminations-and-live-together-en:
     description: Let's debate and discuss about the videos, to be able to detect discriminative
       acts and to face them, to build a community harmony.
@@ -2003,11 +2003,11 @@ all:
       interesting resumes here !
     language: en
     name: Introduction to philosophy
-    sha256sum: ffb7f513c91dee517e6952b5510da9bbff78b21414181e50da5ac225020f4948
-    size: 529005803
+    sha256sum: 155202f0ebdce95703308af5ce278f4cc29f890c8261935c656183b3bbf43a64
+    size: 529006863
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-philosophy-en.zip
-    version: '2017-09-25'
+    version: '2018-09-04'
   introduction-to-psychology-en:
     description: You want to enrich your knowledge in psychology ? You will find very
       interesting resumes here !
@@ -2278,6 +2278,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-greek-el.zip
     version: '2017-09-25'
+  learn-greek-fa:
+    description: Learn to speak and write in greek language, to understand information
+      and communicate with people in Greece.
+    language: fa
+    name: Learn greek !
+    sha256sum: c10634683a12a54cd5e43696f529e64fbe133b5e5d43816f78a7d6c5bf50f245
+    size: 49980805
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learn-greek-fa.zip
+    version: '2018-09-04'
   learn-guitar-en:
     description: '"You want to learn about guitar ? Beginner or confirmed, you will
       find what you are looking for here !"'
@@ -2300,15 +2310,15 @@ all:
     url: http://packages.ideascube.org/omeka/learn-how-to-save-a-life-first-aid-basics-en.zip
     version: '2018-06-21'
   learn-photography-en:
-    description: '"Learn how to create great pictures, acquire the basic skills to
-      become a photographer !"'
+    description: Learn how to create great pictures, acquire the basic skills to become
+      a photographer !
     language: en
-    name: '"Learn photography !"'
-    sha256sum: 605e02b118c2cd56d313826141792063ed05da02afc9a27ed7bad650cd6b9677
-    size: 225620053
+    name: Learn photography !
+    sha256sum: cc22c59c347b97e7b7cd1db89ed6e7185c4a7b2eb9c5a62fca0dd13b38a7fc7f
+    size: 584200276
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-photography-en.zip
-    version: '2018-02-23'
+    version: '2018-09-04'
   learn-to-know-and-manage-your-feelings-en:
     description: Identify, observe, express your feelings to feel it better.  To complete
       this package, you will find a lot of other videos in the application TEDed !
@@ -2330,6 +2340,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-to-read-and-count-in-farsi-children.zip
     version: '2017-09-25'
+  learn-to-read-and-count-in-farsi-children-fa:
+    description: "Learn to read and count in farsi ! \u06CC\u0627\u062F\u06AF\u06CC\
+      \u0631\u06CC \u062E\u0648\u0627\u0646\u062F\u0646 \u0648 \u0634\u0645\u0627\u0631\
+      \u0634 \u062F\u0631 \u0641\u0627\u0631\u0633 !"
+    language: fa
+    name: "Learn to read and count in farsi - \u0641\u0627\u0631\u0633\u06CC [children]"
+    sha256sum: 7c1fbbee78a5e0829313a40492b438ac1c2c609a38a191e544d712ebf10a1e49
+    size: 79058677
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learn-to-read-and-count-in-farsi-children-fa.zip
+    version: '2018-09-04'
   learning-french-en:
     description: You want to learn French? Here are a few videos and flashcards to
       learn some words and everyday life expressions that will be useful to communicate
@@ -2374,14 +2395,14 @@ all:
     url: http://packages.ideascube.org/omeka/let-s-be-clean-ar.zip
     version: '2017-10-17'
   let-s-practise-sport-children-en:
-    description: '"Learn more about different sports and about Olympic Games !"'
+    description: Learn more about different sports and about Olympic Games !
     language: en
-    name: '"Let''s practise sport ! [children]"'
-    sha256sum: 21f055b35cb615d0f9c74c7550782c5597f6dfe6224448501ee5533f251f51f5
-    size: 430661824
+    name: Let's practise sport ! [children]
+    sha256sum: f7d4a367a708c596a79ede0e8a71efa2f589858f394a4dd984a9e28daa1d8bab
+    size: 448020842
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/let-s-practise-sport-children-en.zip
-    version: '2018-02-23'
+    version: '2018-09-04'
   let-s-speak-arabic-ar:
     description: "Learn different words and expressions in Arabic.// \u062A\u0639\u0644\
       \u0645 \u0645\u0641\u0631\u062F\u0627\u062A \u0648 \u0627\u0633\u0645\u0627\u0621\
@@ -2660,11 +2681,11 @@ all:
       of one's own state of minds and honesty.
     language: en
     name: Non Violent Communication
-    sha256sum: ca4ca25b5a44523aca7b9da065dcce6984e01c23dce6a55a0c625f13fb3eba45
-    size: 790705498
+    sha256sum: 4d653d645893e190daf283fd0c8778c7a0f52f08a9dad18f1c94d1213a8cf795
+    size: 791700355
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/non-violent-communication-en.zip
-    version: '2018-03-27'
+    version: '2018-09-04'
   novels-for-youth-ar:
     description: "\"Novels for Youth. /\u0631\u0648\u0627\u064A\u0627\u062A \u0644\
       \u0644\u064A\u0627\u0641\u0639\u064A\u0646\""
@@ -2973,11 +2994,11 @@ all:
     language: fa
     name: "\u062D\u0642\u0648\u0642 \u067E\u0646\u0627\u0647\u0646\u062F\u06D5\u06AF\
       \u0627\u0646[Refugees rights]"
-    sha256sum: 64cce674ac3890d4108af6bd3be726c6c9efe5caec7ee0d90c217462eb66e4cd
-    size: 147480421
+    sha256sum: a5f377c95272e993cdcde5c30d500baeb6cf5decbdf824ee6c52f3670d89eafe
+    size: 147480609
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/refugees-rights-fa.zip
-    version: '2017-09-25'
+    version: '2018-09-04'
   renseignez-vous-sur-les-demarches-administratives-fr:
     description: "Retrouvez ici quelques guides pour vous aider \xE0 vous rep\xE9\
       rer dans le labyrinthe des d\xE9marches administratives. Pour d\xE9fendre ses\
@@ -3070,11 +3091,11 @@ all:
     language: ar
     name: "Self Development [\u062A\u0637\u0648\u064A\u0631 \u0627\u0644\u0630\u0627\
       \u062A]"
-    sha256sum: 1377b38b657d4bdb559727c5c1802bef59aafd5acc538c5135c74d0b7bc61b43
-    size: 3101162351
+    sha256sum: 8b66da3e1c7b5efdcf6077acf6a64015663a2d2c97e7ec29cd39fd81221d9596
+    size: 3241233251
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/self-development-ar.zip
-    version: '2018-05-25'
+    version: '2018-09-04'
   sensibilisation-a-la-gestion-des-epidemies-fr:
     description: "Qu'est-ce que le virus Ebola ? Comment sensibiliser le grand public\
       \ afin d'\xE9viter la propagation d'\xE9pid\xE9mies ? A travers les exemples\
@@ -3331,11 +3352,11 @@ all:
     description: Contents to help you to understand each other !
     language: en
     name: Vocabularies
-    sha256sum: f836ceba13b966c700e73c828021b7e7de11834fea74198f74eb1c8ef921389e
-    size: 22030492
+    sha256sum: 73ac4656edacd173f65e4289e9167d1b55aca9ee950079459e1b4e7e15783f2a
+    size: 22030677
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/vocabularies-en.zip
-    version: '2017-09-25'
+    version: '2018-09-04'
   waqt-al-farah:
     description: "Educational videos for kids, learn through play. \u0641\u064A\u062F\
       \u064A\u0648\u0647\u0627\u062A \u062A\u0639\u0644\u064A\u0645\u064A\u0629 \u0648\
