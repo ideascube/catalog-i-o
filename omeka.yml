@@ -1948,11 +1948,11 @@ all:
       You will find very interesting resumes here !
     language: en
     name: Introduction to geography & environmental studies
-    sha256sum: 5f458de0379fb08ebf60100ba3dd7f64655176d18fe642e6740dd85d43d1d33d
-    size: 1384122953
+    sha256sum: 675565ce8e6bb92109962d8c211eef810a8a9d300ad574aa575d6ea79495e5a3
+    size: 1384123497
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-geography-environmental-studies-en.zip
-    version: '2017-09-25'
+    version: '2018-09-06'
   introduction-to-healthcare-en:
     description: This package contains basic information on healthcare. It provides
       tips and scientific information about common diseases and ways to prevent them.
@@ -2116,11 +2116,11 @@ all:
       es et d\xE9velopper de nouvelles animations !"
     language: fr
     name: Kit de l'animateur
-    sha256sum: fbe5ddf36f30b85b0f42db727d4f817632c7b0a4b06d67eed9df8168775b0e9e
-    size: 302989599
+    sha256sum: 2a55c597dde54f2f7b6c99324064710be8ee9e968f64c5d89e8c99bce045b78e
+    size: 302993285
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/kit-de-l-animateur-fr.zip
-    version: '2018-05-29'
+    version: '2018-09-06'
   kit-de-l-animateur-libre-de-droit-fr:
     description: "Support de m\xE9diation pour l'animateur-trice"
     language: fr
@@ -2578,19 +2578,19 @@ all:
     url: http://packages.ideascube.org/omeka/music-in-arabic.zip
     version: '2017-10-17'
   music-in-arabic-ar:
-    description: "\"\u0627\u0644\u0627\u0633\u062A\u0631\u062E\u0627\u0621 \u0648\u0627\
+    description: "\u0627\u0644\u0627\u0633\u062A\u0631\u062E\u0627\u0621 \u0648\u0627\
       \u0644\u0627\u0633\u062A\u0645\u0627\u0639 \u0625\u0644\u0649 \u0627\u0644\u0645\
       \u0648\u0633\u064A\u0642\u0649.\r\n\u0643\u0644 \u0627\u0646\u0648\u0627\u0639\
       \ \u0627\u0644\u0645\u0648\u0633\u064A\u0642\u0649 \u0627\u0644\u0634\u0631\u0642\
-      \u064A\u0629 \u0627\u0644\u062C\u0645\u064A\u0644\u0629.\""
+      \u064A\u0629 \u0627\u0644\u062C\u0645\u064A\u0644\u0629."
     language: ar
-    name: "\"\u0645\u0648\u0633\u064A\u0642\u0649 \u0628\u0627\u0644\u0639\u0631\u0628\
-      \u064A [Music in Arabic]\""
-    sha256sum: 6bf72890a0235386348998392790aedf90d99d811940aa7ab43999a40ffc46c8
-    size: 1901277757
+    name: "\u0645\u0648\u0633\u064A\u0642\u0649 \u0628\u0627\u0644\u0639\u0631\u0628\
+      \u064A [Music in Arabic]"
+    sha256sum: 47e86823b67e5c49d9464391965d1cc762728a66ee408373f306c3a7de6df3bb
+    size: 1853652778
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/music-in-arabic-ar.zip
-    version: '2018-02-23'
+    version: '2018-09-06'
   music-in-kurdish-ckb:
     description: Learn more about sorani kurdish songs and sing karaoke!
     language: ckb
