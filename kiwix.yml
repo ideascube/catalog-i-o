@@ -894,13 +894,13 @@ all:
     langid: "tedmed.en"
     description: TEDMED is the independently owned and operated health and medicine edition of the world-famous TED conference.
     name: TEDMED
-    version: "2016-07-30"
+    version: "2018-06-01"
     language: "eng"
-    id: "80d768b7-8d2b-03f1-3b10-a56fa4d16728"
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedmed_en_all_2016-07.zip"
-    size: 18389062228
-    sha256sum: "2fba737ff1c0c1146a47b79f6e310be22e73310d3257fc118896549372ea5dcb"
-    type: zipped-zim
+    id: "no-id-37a8725192ad67cbeacb18bc0aa9370d"
+    url: "http://download.kiwix.org/zim/ted/tedmed_en_all_2018-06.zim"
+    size: 17172752561
+    sha256sum: "b644490a040ffeb8e03fb8797bc22e8e33707f5db542cda03c67b9c577d6812c"
+    type: zim
   crashcourse.en:
     langid: "crashcourse.en"
     description: Educational videos about sciences, humanities…
