@@ -1948,11 +1948,11 @@ all:
       You will find very interesting resumes here !
     language: en
     name: Introduction to geography & environmental studies
-    sha256sum: 27587307dbe8bfaa1ec514552ff2fa56edebe24440953ebcb18f38025037bcbf
-    size: 1384123497
+    sha256sum: f18ef1233ae57196a82ec55d09192ffb379be4ed93d5934b7d12185257da7853
+    size: 1382848222
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-geography-environmental-studies-en.zip
-    version: '2018-09-06'
+    version: '2018-09-07'
   introduction-to-healthcare-en:
     description: This package contains basic information on healthcare. It provides
       tips and scientific information about common diseases and ways to prevent them.
@@ -2116,11 +2116,11 @@ all:
       es et d\xE9velopper de nouvelles animations !"
     language: fr
     name: Kit de l'animateur
-    sha256sum: 60fc35bbab09df635628f0afae2f9eb2ae4e43e45f85ac8735ce7d6e65dbb1b7
-    size: 302993285
+    sha256sum: 3ea64244c499bd6563eff03925ab9ebe4beb65dd5eeb4a99c2f94037159c36f0
+    size: 299331758
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/kit-de-l-animateur-fr.zip
-    version: '2018-09-06'
+    version: '2018-09-07'
   kit-de-l-animateur-libre-de-droit-fr:
     description: "Support de m\xE9diation pour l'animateur-trice"
     language: fr
@@ -2586,11 +2586,11 @@ all:
     language: ar
     name: "\u0645\u0648\u0633\u064A\u0642\u0649 \u0628\u0627\u0644\u0639\u0631\u0628\
       \u064A [Music in Arabic]"
-    sha256sum: 657dbc3fe9231df918410835e26a9a89bc2c7c5d4ece117302f46db9dca2089f
+    sha256sum: 9010210fe36d1b54b658836ccdb5721cdf2243e7a8e0a6a0aec95c811920e79d
     size: 1853652778
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/music-in-arabic-ar.zip
-    version: '2018-09-06'
+    version: '2018-09-07'
   music-in-kurdish-ckb:
     description: Learn more about sorani kurdish songs and sing karaoke!
     language: ckb
