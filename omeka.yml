@@ -2320,15 +2320,16 @@ all:
     url: http://packages.ideascube.org/omeka/learn-photography-en.zip
     version: '2018-09-04'
   learn-to-know-and-manage-your-feelings-en:
-    description: Identify, observe, express your feelings to feel it better.  To complete
-      this package, you will find a lot of other videos in the application TEDed !
+    description: "Identify, observe, express your feelings to feel it better.\r\n\
+      To complete this package, you will find a lot of other videos in the application\
+      \ TEDed !"
     language: en
     name: Learn to know and manage your feelings
-    sha256sum: 1f3fa5677d91f602edc087dbfbf9ef4fdda1caed134d4dec21721d6b63747f53
-    size: 4212274
+    sha256sum: 4e4a18d82679139467646b797db731b24806b0bd19443dcb2de7cb2d5b1859e6
+    size: 4160711
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-to-know-and-manage-your-feelings-en.zip
-    version: '2017-10-19'
+    version: '2018-09-10'
   learn-to-read-and-count-in-farsi-children:
     description: "Learn to read and count in farsi ! \u06CC\u0627\u062F\u06AF\u06CC\
       \u0631\u06CC \u062E\u0648\u0627\u0646\u062F\u0646 \u0648 \u0634\u0645\u0627\u0631\
