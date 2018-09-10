@@ -118,6 +118,36 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/anatomie-feminine-fr.zip
     version: '2017-11-24'
+  apply-for-a-job-el-el:
+    description: "\u0391\u03BD\u03B1\u03B3\u03BD\u03C9\u03C1\u03AF\u03B6\u03C9 \u03C4\
+      \u03B9\u03C2 \u03B4\u03B5\u03BE\u03B9\u03CC\u03C4\u03B7\u03C4\u03AD\u03C2 \u03BC\
+      \u03BF\u03C5 \u03BA\u03B1\u03B9 \u03BC\u03B1\u03B8\u03B1\u03AF\u03BD\u03C9 \u03C0\
+      \u03C9\u03C2 \u03BD\u03B1 \u03C4\u03B9\u03C2 \u03B1\u03BD\u03B1\u03B4\u03B5\u03B9\
+      \u03BA\u03BD\u03CD\u03C9. \r\n\u039C\u03B1\u03B8\u03B1\u03AF\u03BD\u03C9 \u03C0\
+      \u03C9\u03C2 \u03BD\u03B1 \u03C3\u03C5\u03BD\u03C4\u03AC\u03C3\u03C3\u03C9 \u03AD\
+      \u03BD\u03B1 \u03BF\u03BB\u03BF\u03BA\u03BB\u03B7\u03C1\u03C9\u03BC\u03AD\u03BD\
+      \u03BF \u03B2\u03B9\u03BF\u03B3\u03C1\u03B1\u03C6\u03B9\u03BA\u03CC \u03C3\u03B7\
+      \u03BC\u03B5\u03AF\u03C9\u03BC\u03B1.\r\nIdentify your career skills and learn\
+      \ how to bring them out! Learning how to write a powerful CV."
+    language: el
+    name: "Apply for a job \u03A0\u03C9\u03C2 \u03BD\u03B1 \u03BA\u03AC\u03BD\u03C9\
+      \ \u03B1\u03AF\u03C4\u03B7\u03C3\u03B7 \u03B3\u03B9\u03B1 \u03B5\u03C1\u03B3\
+      \u03B1\u03C3\u03AF\u03B1"
+    sha256sum: 8e310fc98e758bf089c5d3c33569fb40d97196ec17ce5b2266ed721c7f907859
+    size: 23231246
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apply-for-a-job-el-el.zip
+    version: '2018-09-10'
+  apply-for-a-job-en-urd-ur:
+    description: "Bilingual package english and urdu\r\nIdentify your career skills\
+      \ and learn how to bring them out!\r\nLearning how to write a powerful CV."
+    language: ur
+    name: Apply for a job
+    sha256sum: add8036f349bb460a4d49937c410f30357f87900de64eab7ac82c81d4c42b4db
+    size: 22023716
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apply-for-a-job-en-urd-ur.zip
+    version: '2018-09-10'
   apprendre-a-utiliser-des-patrons-fr:
     description: "\"Ce paquet de contenus r\xE9unit quelques exemples de tutoriels\
       \ qui permettent \xE0 un tailleur d'apprendre \xE0 utiliser un patron, ou de\
@@ -325,6 +355,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arriver-en-france-et-connaitre-ses-droits-fr.zip
     version: '2018-04-24'
+  art-en-en:
+    description: Get to know the works and the lives of the most important painters
+      of the previous century.
+    language: en
+    name: Art
+    sha256sum: 958af1fce80db584fa00f4deff1f445c27296edb65bf4a8204f59a265adecfc8
+    size: 701597913
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/art-en-en.zip
+    version: '2018-09-10'
   arts-afrique-fr:
     description: Les arts plastiques, la danse... Les formes d'arts ne manquent pas,
       et font partie de la richesse d'un pays et d'une culture !
@@ -732,6 +772,29 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creation-d-entreprise-fr.zip
     version: '2018-04-10'
+  creation-el-el:
+    description: "\u0394\u03B7\u03BC\u03B9\u03BF\u03CD\u03C1\u03B3\u03B7\u03C3\u03B5\
+      ! \u03A6\u03C4\u03B9\u03AC\u03BE\u03B5 \u03C4\u03BF \u03B4\u03B9\u03BA\u03CC\
+      \ \u03C3\u03BF\u03C5 \u03B2\u03AF\u03BD\u03C4\u03B5\u03BF, \u03C4\u03B1 \u03B4\
+      \u03B9\u03BA\u03AC \u03C3\u03BF\u03C5 \u03B7\u03C7\u03B7\u03C4\u03B9\u03BA\u03AC\
+      \ \u03AE \u03BC\u03BF\u03C5\u03C3\u03B9\u03BA\u03AC \u03B1\u03C1\u03C7\u03B5\
+      \u03AF\u03B1 \u03BA\u03B1\u03B9 \u03C0\u03B1\u03AF\u03BE\u03B5 \u03BC\u03B5\
+      \ \u03C4\u03B9\u03C2 \u03C6\u03C9\u03C4\u03BF\u03B3\u03C1\u03B1\u03C6\u03AF\u03B5\
+      \u03C2 \u03C3\u03BF\u03C5!\r\n\u039C\u03AC\u03B8\u03B5 \u03C0\u03C9\u03C2 \u03BD\
+      \u03B1 \u03B4\u03B7\u03BC\u03B9\u03BF\u03C5\u03C1\u03B3\u03AE\u03C3\u03B5\u03B9\
+      \u03C2 \u03AD\u03BD\u03B1 \u03C8\u03B7\u03C6\u03B9\u03B1\u03BA\u03CC \u03C0\u03B1\
+      \u03B9\u03C7\u03BD\u03AF\u03B4\u03B9,\u03C7\u03C1\u03B7\u03C3\u03B9\u03BC\u03BF\
+      \u03C0\u03BF\u03AF\u03C9\u03BD\u03C4\u03B1\u03C2 \u03B1\u03C0\u03BB\u03CC \u03BA\
+      \u03CE\u03B4\u03B9\u03BA\u03B1!\r\nBe creative! Making your own photo editing,\
+      \ video, audio or music files!\r\n                    Learning how to create\
+      \ a digital game using simple coding!"
+    language: el
+    name: "Creation \u0394\u03B7\u03BC\u03B9\u03BF\u03C5\u03C1\u03B3\u03AF\u03B1"
+    sha256sum: f8f8d150c0752ccd9efe9380eb5f3416e10937bc76b011120dba2bd150f21045
+    size: 154628130
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/creation-el-el.zip
+    version: '2018-09-10'
   creation-sikana-es:
     description: '-'
     language: es
@@ -815,6 +878,24 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultura-sikana-es.zip
     version: '2018-04-26'
+  culture-and-mentality-el-el:
+    description: "\u0395\u03BB\u03BB\u03AC\u03B4\u03B1:\u039C\u03B5 \u03C0\u03BF\u03B9\
+      \u03BF\u03BD \u03C4\u03C1\u03CC\u03C0\u03BF \u03BF \u03C0\u03BF\u03BB\u03B9\u03C4\
+      \u03B9\u03C3\u03BC\u03CC\u03C2 \u03BA\u03B1\u03B9 \u03BF\u03B9 \u03BA\u03BF\u03B9\
+      \u03BD\u03C9\u03BD\u03B9\u03BA\u03AD\u03C2 \u03C3\u03C5\u03BD\u03B8\u03AE\u03BA\
+      \u03B5\u03C2 \u03BC\u03B9\u03B1\u03C2 \u03C7\u03CE\u03C1\u03B1\u03C2 \u03B5\u03C0\
+      \u03B7\u03C1\u03B5\u03AC\u03B6\u03BF\u03C5\u03BD \u03C4\u03B7 \u03BD\u03BF\u03BF\
+      \u03C4\u03C1\u03BF\u03C0\u03AF\u03B1 \u03C4\u03C9\u03BD \u03BA\u03B1\u03C4\u03BF\
+      \u03AF\u03BA\u03C9\u03BD \u03C4\u03B7\u03C2;\r\nGreece:In which way do a country\
+      \ 's culture and social conditions affect the mentality of its people?"
+    language: el
+    name: "Culture and mentality \u03A0\u03BF\u03BB\u03B9\u03C4\u03B9\u03C3\u03BC\u03CC\
+      \u03C2 \u03BA\u03B1\u03B9 \u03BD\u03BF\u03BF\u03C4\u03C1\u03BF\u03C0\u03AF\u03B1"
+    sha256sum: 299f7333d49c1bcc30cdc9bd078ac25ea67a7076436cdf44a8d847192face2f6
+    size: 1617768206
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/culture-and-mentality-el-el.zip
+    version: '2018-09-10'
   culture-colsubsidio-es:
     description: '-'
     language: es
@@ -1261,6 +1342,46 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/english-for-adults-ar.zip
     version: '2018-02-23'
+  entertainment-fiction-el-el:
+    description: "\u0399\u03C3\u03C4\u03BF\u03C1\u03AF\u03B5\u03C2 \u03BA\u03B1\u03B9\
+      \ \u03BC\u03CD\u03B8\u03BF\u03B9 \u03B1\u03C0\u03CC \u03C4\u03B7\u03BD \u0395\
+      \u03BB\u03BB\u03B7\u03BD\u03B9\u03BA\u03AE \u03BB\u03BF\u03B3\u03BF\u03C4\u03B5\
+      \u03C7\u03BD\u03AF\u03B1.\r\nGreek literature:Tales, fictions and fantasy."
+    language: el
+    name: "Entertainment/Fiction \u03A8\u03C5\u03C7\u03B1\u03B3\u03C9\u03B3\u03AF\u03B1\
+      /\u039C\u03C5\u03B8\u03BF\u03C0\u03BB\u03B1\u03C3\u03AF\u03B1"
+    sha256sum: a0d3ba595ee89e893812d5e1498754779db08de3649f892aa9d4b123174266b0
+    size: 45550493
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/entertainment-fiction-el-el.zip
+    version: '2018-09-10'
+  entertainment-music-el-el:
+    description: "\"\u03A3\u03C5\u03BB\u03BB\u03BF\u03B3\u03AE \u03C3\u03CD\u03B3\u03C7\
+      \u03C1\u03BF\u03BD\u03B7\u03C2 \u03B5\u03BB\u03BB\u03B7\u03BD\u03B9\u03BA\u03AE\
+      \u03C2 \u03BC\u03BF\u03C5\u03C3\u03B9\u03BA\u03AE\u03C2. \u0395\u03AF\u03B4\u03B7\
+      :\u039B\u03B1\u03B9\u03BA\u03AE,\u03C1\u03BF\u03BA,\u03C7\u03B9\u03C0 \u03C7\
+      \u03BF\u03C0,\u03C0\u03B1\u03C1\u03B1\u03B4\u03BF\u03C3\u03B9\u03B1\u03BA\u03AE\
+      ,\u03B7\u03BB\u03B5\u03BA\u03C4\u03C1\u03BF\u03BD\u03B9\u03BA\u03AE,\u03C6\u03BF\
+      \u03BB\u03BA...\" \r\n\"Greek contemporary music collection.\r\nGenres:Popular\
+      \ music, rock,\u03C7\u03B9\u03C0 \u03C7\u03BF\u03C0,traditional,electronic,folk...\""
+    language: el
+    name: "Entertainment/Music \u03A8\u03C5\u03C7\u03B1\u03B3\u03C9\u03B3\u03AF\u03B1\
+      /\u039C\u03BF\u03C5\u03C3\u03B9\u03BA\u03AE"
+    sha256sum: cfe555ffdb36b4c24a0c499e30dd74937e529bbc32362df7689a99867de89545
+    size: 260151652
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/entertainment-music-el-el.zip
+    version: '2018-09-10'
+  entertainment-music-en-en:
+    description: "\"Greek contemporary music collection.\r\nGenres:Popular music,\
+      \ rock,\u03C7\u03B9\u03C0 \u03C7\u03BF\u03C0,traditional,electronic,folk...\""
+    language: en
+    name: Entertainment/Music en
+    sha256sum: 453adbb4ab113e1290019f707b1d1b1a4983688f3679587720004dd2fba68df6
+    size: 17745424
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/entertainment-music-en-en.zip
+    version: '2018-09-10'
   esparcimiento-colsubsidio-es:
     description: '-'
     language: es
@@ -1441,6 +1562,45 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fitness-for-kids-ar.zip
     version: '2017-10-17'
+  food-and-cooking-en:
+    description: Recipies and other knowledge about the food and cooking around the
+      world !
+    language: en
+    name: Food and cooking
+    sha256sum: febda533452b6713d75e0887b8da1212103781415ed484e978224df5e54b94a5
+    size: 213524368
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/food-and-cooking-en.zip
+    version: '2018-09-10'
+  food-culture-el-el:
+    description: "-\u0397 \u039C\u03B5\u03C3\u03BF\u03B3\u03B5\u03B9\u03B1\u03BA\u03AE\
+      \ \u03B4\u03B9\u03B1\u03C4\u03C1\u03BF\u03C6\u03AE \u03BA\u03B1\u03B9 \u03C4\
+      \u03B1 \u03BF\u03C6\u03AD\u03BB\u03B7 \u03C4\u03B7\u03C2 \r\n-\u039C\u03B1\u03B8\
+      \u03B1\u03AF\u03BD\u03C9 \u03C0\u03C9\u03C2 \u03BD\u03B1 \u03BC\u03B1\u03B3\u03B5\
+      \u03B9\u03C1\u03B5\u03CD\u03C9 \u03BA\u03B1\u03B9 \u03BD\u03B1 \u03C4\u03C1\u03AD\
+      \u03C6\u03BF\u03BC\u03B1\u03B9 \u03C5\u03B3\u03B9\u03B5\u03B9\u03BD\u03AC \r\
+      \n-The Mediterranean diet and its health benefits\r\n-Learning how to cook and\
+      \ eat healthy"
+    language: el
+    name: "Food culture \u039A\u03BF\u03C5\u03BB\u03C4\u03BF\u03CD\u03C1\u03B1 \u03C6\
+      \u03B1\u03B3\u03B7\u03C4\u03BF\u03CD"
+    sha256sum: 81a97dc1cad20448d1c2063929935025a4afea644dda4b56cdef204f8d1c2f07
+    size: 344648949
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/food-culture-el-el.zip
+    version: '2018-09-10'
+  food-security-en:
+    description: "\"Food security exists when all people at all times have physical\
+      \ and economic access to adequate amounts of nutritious, safe, and culturally\
+      \ appropriate food to maintain a healthy and active life.\"\r\nWhat is the situation\
+      \ ?"
+    language: en
+    name: Food security
+    sha256sum: c27a29863955f016096736bf924f35fa89400fecac7d6df8fd7b294ed915274e
+    size: 173970463
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/food-security-en.zip
+    version: '2018-09-10'
   football-matches-ar:
     description: "A collection of different football matches. \u0645\u062C\u0645\u0648\
       \u0639\u0629 \u0645\u0646 \u0645\u0628\u0627\u0631\u064A\u0627\u062A \u0643\u0631\
@@ -1567,6 +1727,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/german-for-arabic-and-persian-speakers.zip
     version: '2017-10-19'
+  german-for-arabic-and-persian-speakers-de:
+    description: "Lean German, \u06CC\u0627\u062F\u06AF\u06CC\u0631\u06CC \u0622\u0644\
+      \u0645\u0627\u0646\u06CC, \u062A\u0639\u0644\u0645 \u0627\u0644\u0627\u0644\u0645\
+      \u0627\u0646\u064A\u0629 !"
+    language: de
+    name: German for arabic and persian speakers
+    sha256sum: f0e712b5855a123e82854f9d3e702b83b73229db3d03d15eeec3cfd1ae3040f5
+    size: 314377426
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/german-for-arabic-and-persian-speakers-de.zip
+    version: '2018-09-10'
   girl-talk-puberty-ar:
     description: "Feel free and comfortable discussing puberty and any concerns a\
       \ girl might have.// \u0627\u0634\u0639\u0631\u064A \u0628\u0627\u0644\u0631\
@@ -1676,6 +1847,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-occidentale-fr.zip
     version: '2018-01-18'
+  how-do-i-control-my-weight-en:
+    description: A package detailing how you can use healthy eating and exercise to
+      reduce your weight.  Includes info on exercise, nutrition, calories counting,
+      and supplements.
+    language: en
+    name: How do I control m weight?
+    sha256sum: e0b74200fccd5aca630ce267d94dcae3643f6db5e45bc3d2969b70d58eeef800
+    size: 43542256
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/how-do-i-control-my-weight-en.zip
+    version: '2018-09-10'
   how-do-i-stay-healthy-with-diabetes-en:
     description: If you or a loved one have diabetes and are curious about how to
       stay healthy, click here
@@ -2278,6 +2460,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-greek-el.zip
     version: '2017-09-25'
+  learn-greek-english-support-en:
+    description: "You will find here the basics of greek language ! \r\nHow to speak,\
+      \ to count, to read, to pronounce..."
+    language: en
+    name: Learn Greek (english support) !
+    sha256sum: 09e3fa6f7432f3ca2c4b63541e52e60e56dade0d480d4c7897b23f720d9649de
+    size: 203372787
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learn-greek-english-support-en.zip
+    version: '2018-09-10'
   learn-greek-fa:
     description: Learn to speak and write in greek language, to understand information
       and communicate with people in Greece.
@@ -2363,6 +2555,60 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learning-french-en.zip
     version: '2017-06-01'
+  learning-languages-english-el-el:
+    description: "\u03A4\u03B1 \u03C0\u03C1\u03CE\u03C4\u03B1 \u03B2\u03AE\u03BC\u03B1\
+      \u03C4\u03B1 \u03C3\u03C4\u03B7 \u03B1\u03B3\u03B3\u03BB\u03B9\u03BA\u03AE \u03B3\
+      \u03BB\u03CE\u03C3\u03C3\u03B1: \u03BC\u03B1\u03B8\u03B1\u03AF\u03BD\u03C9 \u03BD\
+      \u03B1 \u03BC\u03B9\u03BB\u03AC\u03C9, \u03BD\u03B1 \u03B4\u03B9\u03B1\u03B2\
+      \u03AC\u03B6\u03C9, \u03BD\u03B1 \u03C0\u03C1\u03BF\u03C6\u03AD\u03C1\u03C9\
+      \ \u03BA\u03B1\u03B9 \u03BD\u03B1 \u03B3\u03C1\u03AC\u03C8\u03C9.\r\nFirst steps\
+      \ in english language:learning to speak, read, pronounce and write."
+    language: el
+    name: "Learning Languages/English \u039C\u03B1\u03B8\u03B1\u03AF\u03BD\u03BF\u03BD\
+      \u03C4\u03B1\u03C2 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B5\u03C2/\u0391\u03B3\u03B3\
+      \u03BB\u03B9\u03BA\u03AC"
+    sha256sum: 773e18fb0bc577bc4b843f4113dd5679460d688cf658e8c85645fc23c66127a3
+    size: 32730380
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learning-languages-english-el-el.zip
+    version: '2018-09-10'
+  learning-languages-french-el-el:
+    description: "\u03A4\u03B1 \u03C0\u03C1\u03CE\u03C4\u03B1 \u03B2\u03AE\u03BC\u03B1\
+      \u03C4\u03B1 \u03C3\u03C4\u03B7 \u03B3\u03B1\u03BB\u03BB\u03B9\u03BA\u03AE \u03B3\
+      \u03BB\u03CE\u03C3\u03C3\u03B1: \u03BC\u03B1\u03B8\u03B1\u03AF\u03BD\u03C9 \u03BD\
+      \u03B1 \u03BC\u03B9\u03BB\u03AC\u03C9, \u03BD\u03B1 \u03B4\u03B9\u03B1\u03B2\
+      \u03AC\u03B6\u03C9, \u03BD\u03B1 \u03C0\u03C1\u03BF\u03C6\u03AD\u03C1\u03C9\
+      \ \u03BA\u03B1\u03B9 \u03BD\u03B1 \u03B3\u03C1\u03AC\u03C8\u03C9.\r\nFirst steps\
+      \ in french language:learning to speak, read, pronounce and write."
+    language: el
+    name: "Learning languages/French \u039C\u03B1\u03B8\u03B1\u03AF\u03BD\u03BF\u03BD\
+      \u03C4\u03B1\u03C2 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B5\u03C2/\u0393\u03B1\u03BB\
+      \u03BB\u03B9\u03BA\u03AC"
+    sha256sum: 1184f5fb9e85adacc99b70cf38223ac916ab7162e1378c3ca31b104028a51162
+    size: 20101609
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learning-languages-french-el-el.zip
+    version: '2018-09-10'
+  learning-languages-greek-el-el:
+    description: "\u0397 \u03B5\u03BB\u03BB\u03B7\u03BD\u03B9\u03BA\u03AE \u03B3\u03BB\
+      \u03CE\u03C3\u03C3\u03B1 \u03B3\u03B9\u03B1 \u03B1\u03C1\u03C7\u03AC\u03C1\u03B9\
+      \u03BF\u03C5\u03C2 \u03BA\u03B1\u03B9 \u03C0\u03C1\u03BF\u03C7\u03C9\u03C1\u03B7\
+      \u03BC\u03AD\u03BD\u03BF\u03C5\u03C2: \r\n\u039C\u03B1\u03B8\u03B1\u03AF\u03BD\
+      \u03BF\u03BD\u03C4\u03B1\u03C2 \u03BD\u03B1 \u03BC\u03B9\u03BB\u03AC\u03C9,\
+      \ \u03BD\u03B1 \u03B3\u03C1\u03AC\u03C6\u03C9,\u03BD\u03B1 \u03B4\u03B9\u03B1\
+      \u03B2\u03AC\u03B6\u03C9 \u03BA\u03B1\u03B9 \u03BD\u03B1 \u03B5\u03BD\u03B7\u03BC\
+      \u03B5\u03C1\u03CE\u03BD\u03BF\u03BC\u03B1\u03B9 \u03C3\u03C4\u03B1 \u03B5\u03BB\
+      \u03BB\u03B7\u03BD\u03B9\u03BA\u03AC!\r\nGreek language for beginners and advanced:\r\
+      \nLearning to speak,write,read and be informed in greek!"
+    language: el
+    name: "Learning languages/Greek  \u039C\u03B1\u03B8\u03B1\u03AF\u03BD\u03BF\u03BD\
+      \u03C4\u03B1\u03C2 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B5\u03C2/\u0395\u03BB\u03BB\
+      \u03B7\u03BD\u03B9\u03BA\u03AC"
+    sha256sum: af08bd0e0fc4fab6497bab3c3562d04d80de62a80818f6516133e4b6077a1279
+    size: 166879485
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learning-languages-greek-el-el.zip
+    version: '2018-09-10'
   les-filles-et-les-garcons-quelles-differences-fr:
     description: "Filles footballeuses, soldats, pr\xE9sidentes: les filles peuvent\
       \ faire autant de choses que les gar\xE7ons !"
@@ -2510,6 +2756,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mathematics-ar.zip
     version: '2017-10-17'
+  maths-el-el:
+    description: "\u0391\u03BD\u03B1\u03BA\u03AC\u03BB\u03C5\u03C8\u03B5 \u03C4\u03B9\
+      \u03C2 \u03B2\u03B1\u03C3\u03B9\u03BA\u03AD\u03C2 \u03BC\u03B1\u03B8\u03B7\u03BC\
+      \u03B1\u03C4\u03B9\u03BA\u03AD\u03C2 \u03AD\u03BD\u03BD\u03BF\u03B9\u03B5\u03C2\
+      !\r\nExplore the basic mathematical concepts!"
+    language: el
+    name: "Maths \u039C\u03B1\u03B8\u03B7\u03BC\u03B1\u03C4\u03B9\u03BA\u03AC"
+    sha256sum: 607498ef4866f141ab76d734f75b392c52f858f56a1e0c43e0a6e5e0542023e9
+    size: 18247006
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/maths-el-el.zip
+    version: '2018-09-10'
   memoire-d-un-continent-rfi-fr:
     description: "\"\xC9mission RFI : \"M\xE9moire d'un continent\"\""
     language: fr
@@ -2960,6 +3218,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/protegeons-la-planete-fr.zip
     version: '2018-05-15'
+  public-speaking-en:
+    description: "How to speak in public ? How to control your nerves and/or your\
+      \ shyness ? \r\nHow your body talks for you ?"
+    language: en
+    name: Public Speaking
+    sha256sum: 1e19c1aa328c7429f69a8ddad0e64da2d4abd59ab08dea7c31291700fbeea436
+    size: 128856097
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/public-speaking-en.zip
+    version: '2018-09-10'
   raconte-moi-des-histoires-fr:
     description: "Tu cherches de quoi lire, des livres pas trop compliqu\xE9s ? C'est\
       \ ici !"
@@ -2990,6 +3258,38 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/recherche-demploi-fr.zip
     version: '2017-04-10'
+  refugees-and-migrants-el-el:
+    description: "\u03A7\u03C1\u03AE\u03C3\u03B9\u03BC\u03B5\u03C2 \u03C0\u03BB\u03B7\
+      \u03C1\u03BF\u03C6\u03BF\u03C1\u03AF\u03B5\u03C2 \u03C3\u03C7\u03B5\u03C4\u03B9\
+      \u03BA\u03AC \u03BC\u03B5 \u03C4\u03B7\u03BD \u03BD\u03BF\u03BC\u03B9\u03BA\u03AE\
+      \ \u03C0\u03C1\u03BF\u03C3\u03C4\u03B1\u03C3\u03AF\u03B1 \u03BA\u03B1\u03B9\
+      \ \u03C4\u03B1 \u03B4\u03B9\u03BA\u03B1\u03B9\u03CE\u03BC\u03B1\u03C4\u03B1\
+      \ \u03C4\u03C9\u03BD \u03C0\u03C1\u03BF\u03C3\u03C6\u03CD\u03B3\u03C9\u03BD\
+      .\r\n\u03A5\u03BB\u03B9\u03BA\u03CC \u03BA\u03B1\u03B9 \u03B4\u03C1\u03B1\u03C3\
+      \u03C4\u03B7\u03C1\u03B9\u03CC\u03C4\u03B7\u03C4\u03B5\u03C2 \u03B3\u03B9\u03B1\
+      \ \u03C3\u03C4\u03BF\u03C7\u03B1\u03C3\u03BC\u03CC, \u03B5\u03C0\u03B5\u03BE\
+      \u03B5\u03C1\u03B3\u03B1\u03C3\u03AF\u03B1 \u03BA\u03B1\u03B9 \u03C3\u03C5\u03B6\
+      \u03AE\u03C4\u03B7\u03C3\u03B7.\r\nImportant information on refugees rights\
+      \ and law protection. \r\nMaterial and activities for reflection and discussion."
+    language: el
+    name: "Refugees and migrants / \u03A0\u03C1\u03CC\u03C3\u03C6\u03C5\u03B3\u03B5\
+      \u03C2 \u03BA\u03B1\u03B9 \u03BC\u03B5\u03C4\u03B1\u03BD\u03AC\u03C3\u03C4\u03B5\
+      \u03C2"
+    sha256sum: 8d6a83e17e16797d49cf1473f8de432c70becad9e629f7f6bbf29fd5973c2d0b
+    size: 1036266685
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/refugees-and-migrants-el-el.zip
+    version: '2018-09-10'
+  refugees-and-migrants-en-en:
+    description: "Important information on refugees rights and law protection. \r\n\
+      Material and activities for reflection and discussion."
+    language: en
+    name: Refugees and migrants
+    sha256sum: 613fa1a47e3b0eccb7df3b01bf9570a8d0d43915df0e593c5bc96bed49a38886
+    size: 39156830
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/refugees-and-migrants-en-en.zip
+    version: '2018-09-10'
   refugees-rights-fa:
     description: Information about refugees rights in farsi.
     language: fa
@@ -3082,6 +3382,28 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/se-preparer-a-une-catastrophe-fr.zip
     version: '2017-06-08'
+  self-and-social-awareness-el-el:
+    description: "K\u03B9\u03BD\u03B7\u03BC\u03B1\u03C4\u03BF\u03B3\u03C1\u03AC\u03C6\
+      \u03BF\u03C2: \u039C\u03AD\u03C3\u03B1 \u03B1\u03C0\u03CC \u03C4\u03B9\u03C2\
+      \ \u03C4\u03B1\u03B9\u03BD\u03AF\u03B5\u03C2, \u03C0\u03B1\u03C1\u03B1\u03C4\
+      \u03B7\u03C1\u03BF\u03CD\u03BC\u03B5 \u03C4\u03B7\u03BD \u03BA\u03BF\u03B9\u03BD\
+      \u03C9\u03BD\u03B9\u03BA\u03AE \u03C0\u03C1\u03B1\u03B3\u03BC\u03B1\u03C4\u03B9\
+      \u03BA\u03CC\u03C4\u03B7\u03C4\u03B1 \u03B3\u03CD\u03C1\u03C9 \u03BC\u03B1\u03C2\
+      ,\u03B1\u03B9\u03C3\u03B8\u03B1\u03BD\u03CC\u03BC\u03B1\u03C3\u03C4\u03B5  \u03BA\
+      \u03B1\u03B9 \u03BA\u03C5\u03C1\u03AF\u03C9\u03C2 \u03B1\u03BD\u03B1\u03B3\u03BD\
+      \u03C9\u03C1\u03AF\u03B6\u03BF\u03C5\u03BC\u03B5 \u03C3\u03C4\u03BF\u03B9\u03C7\
+      \u03B5\u03AF\u03B1 \u03C4\u03BF\u03C5 \u03B5\u03B1\u03C5\u03C4\u03BF\u03CD \u03BC\
+      \u03B1\u03C2...\r\nCinema: Through movies, we observe the social reality, we\
+      \ feel and we recognize part of our own behaviour..."
+    language: el
+    name: "Self and social awareness \u0391\u03C4\u03BF\u03BC\u03B9\u03BA\u03AE \u03BA\
+      \u03B1\u03B9 \u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03B9\u03BA\u03AE \u03B5\u03C0\
+      \u03AF\u03B3\u03BD\u03C9\u03C3\u03B7"
+    sha256sum: 6c716439327cbe1e0282143c5cdd8073d39c98aa79645604ef92e9f4beb4fbaf
+    size: 2063966051
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/self-and-social-awareness-el-el.zip
+    version: '2018-09-10'
   self-development-ar:
     description: "Discover new ways of thinking that could help you improve your life\
       \ and motivate you to be a better version of yourself.//  \u0627\u0643\u062A\
@@ -3097,6 +3419,78 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/self-development-ar.zip
     version: '2018-09-04'
+  self-development-computers-en-urd-ur:
+    description: "Bilingual package english and urdu\r\nComputers for beginners: Learning\
+      \ the basics on hardware and software."
+    language: ur
+    name: Self development/ Computers
+    sha256sum: a70df50a5b778a946c90d343a6ac1d6a08d4ff2a6918053bca2bc3b106b526be
+    size: 167240759
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/self-development-computers-en-urd-ur.zip
+    version: '2018-09-10'
+  self-development-how-to-drive-el-el:
+    description: "\u0392\u03B1\u03C3\u03B9\u03BA\u03BF\u03AF \u03BA\u03B1\u03BD\u03CC\
+      \u03BD\u03B5\u03C2 \u03BA\u03B1\u03B9 \u03B1\u03C3\u03BA\u03AE\u03C3\u03B5\u03B9\
+      \u03C2 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\
+      \u03B5\u03C5\u03C3\u03AE \u03C3\u03BF\u03C5 \u03C9\u03C2 \u03BF\u03B4\u03B7\u03B3\
+      \u03CC\u03C2 \u03B1\u03C5\u03C4\u03BF\u03BA\u03B9\u03BD\u03AE\u03C4\u03BF\u03C5\
+      \ \u03AE \u03BC\u03B7\u03C7\u03B1\u03BD\u03AE\u03C2. \u03A0\u03C1\u03BF\u03B5\
+      \u03C4\u03BF\u03B9\u03BC\u03B1\u03C3\u03AF\u03B1 \u03B3\u03B9\u03B1 \u03B5\u03BE\
+      \u03B5\u03C4\u03AC\u03C3\u03B5\u03B9\u03C2.\r\nBasic rules and exercises for\
+      \ your driving education (cars and motorcycles): Prepare yourself for a driving\
+      \ test."
+    language: el
+    name: "Self development/How to drive \u0391\u03C4\u03BF\u03BC\u03B9\u03BA\u03AE\
+      \ \u03B1\u03BD\u03AC\u03C0\u03C4\u03C5\u03BE\u03B7/\u039C\u03B1\u03B8\u03B1\u03AF\
+      \u03BD\u03C9 \u03BD\u03B1 \u03BF\u03B4\u03B7\u03B3\u03CE"
+    sha256sum: a999665833e58497f5159b90b045f6c8d6d10e9219b8bbef510e4dbdeeee4fa2
+    size: 33027201
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/self-development-how-to-drive-el-el.zip
+    version: '2018-09-10'
+  self-development-managing-a-budget-el-el:
+    description: "\u03A0\u03C9\u03C2 \u03BD\u03B1 \u03BF\u03C1\u03B3\u03B1\u03BD\u03CE\
+      \u03C3\u03C9 \u03C4\u03B1 \u03BF\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03B9\u03BA\
+      \u03AC \u03BC\u03BF\u03C5;\r\nHow do I manage my personal and my home 's budget?"
+    language: el
+    name: "Managing a budget  \u039F\u03C1\u03B3\u03B1\u03BD\u03CE\u03BD\u03BF\u03BD\
+      \u03C4\u03B1\u03C2 \u03C4\u03B1 \u03BF\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03B9\
+      \u03BA\u03AC \u03BC\u03BF\u03C5"
+    sha256sum: 7e9886082fae3b62132e89b2f167a7838b429186bc884388256b88a1783f36aa
+    size: 4180881
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/self-development-managing-a-budget-el-el.zip
+    version: '2018-09-10'
+  self-development-managing-a-budget-en-en:
+    description: How do I manage my personal and my home 's budget?
+    language: en
+    name: Self development/Managing a budget
+    sha256sum: 1658a566bbd4dd9fa944ea97422eb42a4882ecf320217000af5d376faa321fba
+    size: 48248613
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/self-development-managing-a-budget-en-en.zip
+    version: '2018-09-10'
+  self-improvement-el-el:
+    description: "\u0392\u03B5\u03BB\u03C4\u03B9\u03CE\u03BD\u03C9 \u03C4\u03B7 \u03B4\
+      \u03B7\u03BC\u03CC\u03C3\u03B9\u03B1 \u03BF\u03BC\u03B9\u03BB\u03AF\u03B1 \u03BC\
+      \u03BF\u03C5.\r\n\u0393\u03B9\u03B1\u03C4\u03AF \u03BF\u03B9 \u03AC\u03BD\u03B8\
+      \u03C1\u03C9\u03C0\u03BF\u03B9 \u03B3\u03CD\u03C1\u03C9 \u03BC\u03BF\u03C5 \u03B4\
+      \u03B5\u03BD \u03BC\u03B5 \u03B1\u03BA\u03BF\u03CD\u03BD\u03B5 \u03C0\u03C1\u03BF\
+      \u03C3\u03B5\u03C7\u03C4\u03B9\u03BA\u03AC \u03BA\u03B1\u03B8\u03CE\u03C2 \u03BC\
+      \u03B9\u03BB\u03AC\u03C9;\r\n\u03A0\u03C9\u03C2 \u03BD\u03B1 \u03C3\u03C4\u03B1\
+      \u03BC\u03B1\u03C4\u03AE\u03C3\u03C9 \u03BD\u03B1 \u03B1\u03BD\u03B1\u03B2\u03AC\
+      \u03BB\u03BB\u03C9 \u03C4\u03B1 \u03C0\u03AC\u03BD\u03C4\u03B1;\r\nHow to speak\
+      \ in public? Why people don't listen to me carefully when I speak?\r\nHow to\
+      \ stop procrastinating?"
+    language: el
+    name: "Self improvement \u0391\u03C5\u03C4\u03BF\u03B2\u03B5\u03BB\u03C4\u03AF\
+      \u03C9\u03C3\u03B7"
+    sha256sum: 408c880b54545ef55b7bdad78a766c48e1c873e4b6cc93697b42321aec121c77
+    size: 92410894
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/self-improvement-el-el.zip
+    version: '2018-09-10'
   sensibilisation-a-la-gestion-des-epidemies-fr:
     description: "Qu'est-ce que le virus Ebola ? Comment sensibiliser le grand public\
       \ afin d'\xE9viter la propagation d'\xE9pid\xE9mies ? A travers les exemples\
@@ -3230,6 +3624,29 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/tales-for-kids-ar.zip
     version: '2018-02-23'
+  technology-and-sciences-el-el:
+    description: "\u03A0\u03B1\u03C1\u03B1\u03C4\u03B7\u03C1\u03CE \u03BA\u03B1\u03B9\
+      \ \u03BC\u03B1\u03B8\u03B1\u03AF\u03BD\u03C9 \u03B3\u03B9\u03B1 \u03C4\u03B7\
+      \u03BD \u03B9\u03C3\u03C4\u03BF\u03C1\u03AF\u03B1 \u03C4\u03B7\u03C2 \u03C4\u03B5\
+      \u03C7\u03BD\u03BF\u03BB\u03BF\u03B3\u03AF\u03B1\u03C2 \u03BC\u03B5 \u03C4\u03BF\
+      \u03BD \u03C0\u03BF\u03B9\u03BF \u03B5\u03CD\u03BA\u03BF\u03BB\u03BF \u03C4\u03C1\
+      \u03CC\u03C0\u03BF.\r\n\u039C\u03B1\u03B8\u03B1\u03AF\u03BD\u03C9 \u03B3\u03B9\
+      \u03B1 \u03C4\u03B9\u03C2 \u03C3\u03B7\u03BC\u03B1\u03BD\u03C4\u03B9\u03BA\u03CC\
+      \u03C4\u03B5\u03C1\u03B5\u03C2 \u03AD\u03BD\u03BD\u03BF\u03B9\u03B5\u03C2 \u03C4\
+      \u03B7\u03C2 \u0392\u03B9\u03BF\u03BB\u03BF\u03B3\u03AF\u03B1\u03C2, \u03C4\u03B7\
+      \u03C2 \u03A6\u03C5\u03C3\u03B9\u03BA\u03AE\u03C2 \u03BA\u03B1\u03B9 \u03C4\u03B7\
+      \u03C2 \u0393\u03B5\u03C9\u03BB\u03BF\u03B3\u03AF\u03B1\u03C2.\r\nObserve and\
+      \ learn about the history of technology in the most playful way.\r\nIdentify\
+      \ the most important concepts of biology,physics and geology."
+    language: el
+    name: "Technology and Sciences \u03A4\u03B5\u03C7\u03BD\u03BF\u03BB\u03BF\u03B3\
+      \u03AF\u03B1 \u03BA\u03B1\u03B9 \u0395\u03C0\u03B9\u03C3\u03C4\u03AE\u03BC\u03B5\
+      \u03C2"
+    sha256sum: 1fc14eb25a45c8e864cfca7a7ede4d6577a8a0b034604240b25285d6ad678735
+    size: 84631175
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/technology-and-sciences-el-el.zip
+    version: '2018-09-10'
   technology-ar:
     description: "\"Learn about different topics in technology./ \u062A\u0639\u0631\
       \u0641 \u0639\u0646 \u0645\u0648\u0627\u0636\u064A\u0639 \u0645\u062E\u062A\u0644\
@@ -3307,6 +3724,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/troubles-alimentaires-fr.zip
     version: '2018-05-15'
+  tutorials-for-using-programs-en:
+    description: It explains basic electronic components and software like inkscape
+      - gimp - blender - scribus - raspberry pi
+    language: en
+    name: Tutorials for using programs
+    sha256sum: fc92161bbf23da72b818681b5a110b800809184f2b07a55f0a937283cad1aa2f
+    size: 3345352330
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/tutorials-for-using-programs-en.zip
+    version: '2018-09-10'
   tutoriels-pour-utiliser-des-logiciels-et-des-applications-fr:
     description: "Tutoriels pour utiliser des logiciels et des applications\r\n- \xEA\
       tre en capacit\xE9 de prendre en mains les logiciels propos\xE9s sur les ordinateurs\
