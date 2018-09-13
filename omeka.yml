@@ -1533,6 +1533,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/filles-garcons-quelle-place-pour-qui-fr.zip
     version: '2018-04-24'
+  films-adavision-jrs-en:
+    description: Movies are in farsi, arabic, german, english and mute.
+    language: en
+    name: Films
+    sha256sum: 78c8d7ec3ceba085fc9dcc7eb5469eab2db0c12ef5558f766108f86f40c6df6e
+    size: 8282765484
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/films-adavision-jrs-en.zip
+    version: '2018-09-13'
   films-et-videos-libres-de-droit-fr:
     description: "A regarder ! Tous les genres, pour tous les \xE2ges."
     language: fr
@@ -3424,11 +3433,11 @@ all:
       \ Learning the basics on hardware and software."
     language: ur
     name: Self development/ Computers
-    sha256sum: eb6c3504fac5c0369d7a2a0adc435424da546daebe55c6a7a0a8af50ec2dcc44
+    sha256sum: bd68d5cf21566a2eb65733a395ad7ee3b25f2d1ca4b90d6a8ec62cb1306ac562
     size: 167241589
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/self-development-computers-en-urd-ur.zip
-    version: '2018-09-11'
+    version: '2018-09-13'
   self-development-how-to-drive-el-el:
     description: "\u0392\u03B1\u03C3\u03B9\u03BA\u03BF\u03AF \u03BA\u03B1\u03BD\u03CC\
       \u03BD\u03B5\u03C2 \u03BA\u03B1\u03B9 \u03B1\u03C3\u03BA\u03AE\u03C3\u03B5\u03B9\
