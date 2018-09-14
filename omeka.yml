@@ -232,11 +232,11 @@ all:
     description: "Quelques bases pour progresser en fran\xE7ais."
     language: fr
     name: "Apprenez le fran\xE7ais"
-    sha256sum: 42350f9a436339de4948dc5b8ccf2e9693d1a4b734117967a29e1052007b7c31
-    size: 720810334
+    sha256sum: 81d4f9ec79d223982907253f7db1b71185e2543f9e99eb3c6602f7aa8d1cc38b
+    size: 720808872
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-fr.zip
-    version: '2018-09-14'
+    version: '2017-08-28'
   apprenez-le-francais-niveau-a1-fr:
     description: "Le niveau A1 en fran\xE7ais, c'est \xEAtre capable de comprendre\
       \ et d'utiliser des expressions famili\xE8res et quotidiennes, ainsi que des\
@@ -826,11 +826,11 @@ all:
     description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
     language: fr
     name: Je mange bien
-    sha256sum: d26f57de18c25a220d807d07aedaebf74a0e9e9a02ab1ecb734e0f6617573df7
-    size: 298034942
+    sha256sum: 8873396064606ba9be2139c1e7438c879bdfd7b8022cdb335eea4d14b3defaf7
+    size: 296388020
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cuisine-et-nutrition-enfants-fr.zip
-    version: '2018-09-14'
+    version: '2018-08-28'
   cuisine-fr:
     description: Qu'est ce que nous mangeons ? Qu'est ce que les autres mangent ?
     language: fr
@@ -1004,6 +1004,26 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/decouvrir-et-pratiquer-la-riziculture-fr.zip
     version: '2018-02-28'
+  decouvrir-l-archeologie-adultes-fr:
+    description: "D\xE9couvrez les d\xE9couvertes arch\xE9ologiques nous permettant\
+      \ de comprendre nos histoires et les myst\xE8res pass\xE9s !"
+    language: fr
+    name: "D\xE9couvrir l'arch\xE9ologie [adultes] !"
+    sha256sum: bfa11dc6f3d1926b8f902a767e6e80b791d10ccf64d52ebd5a3f682abd76a958
+    size: 327714428
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/decouvrir-l-archeologie-adultes-fr.zip
+    version: '2018-09-14'
+  decouvrir-l-archeologie-fr:
+    description: "Qu'est ce que l'arch\xE9ologie ? A quoi sert-elle ? Qu'est ce que\
+      \ l'on \xE9tudie exactement ?"
+    language: fr
+    name: "D\xE9couvrir l'arch\xE9ologie !"
+    sha256sum: ccf53eec05cba54e76835f64944a425a5be96bb1cb656a91901360c6302705f0
+    size: 193877555
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/decouvrir-l-archeologie-fr.zip
+    version: '2018-09-14'
   dessin-et-origami-fr:
     description: "D\xE9tendez-vous, cr\xE9ez, exprimez-vous ! Il y a un artiste dans\
       \ chacun, \xE0 vous de le r\xE9v\xE9ler..."
@@ -1542,17 +1562,6 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/films-adavision-jrs-en.zip
     version: '2018-09-14'
-  films-adavision-palerme-fr:
-    description: "Tous les films sont en fran\xE7ais ou en langue \xE9trang\xE8re\
-      \ sous titr\xE9s fran\xE7ais. \r\nIl y en a un petit nombre adapt\xE9 pour un\
-      \ public sourd ou malentendants."
-    language: fr
-    name: Films
-    sha256sum: 1b60a812063197b19d90964106b900f8f4aa47ca0f15770ee918a83d126025c1
-    size: 11063042149
-    type: zipped-medias
-    url: http://packages.ideascube.org/omeka/films-adavision-palerme-fr.zip
-    version: '2018-09-14'
   films-et-videos-libres-de-droit-fr:
     description: "A regarder ! Tous les genres, pour tous les \xE2ges."
     language: fr
@@ -1940,6 +1949,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/hygiene-enfants-fr.zip
     version: '2017-06-23'
+  il-etait-une-fois-notre-terre-fr:
+    description: "S\xE9rie t\xE9l\xE9vis\xE9e d'animation fran\xE7aise qui explique\
+      \ aux enfants la notion de d\xE9veloppement durable, pr\xE9sent\xE9e comme un\
+      \ enjeu majeur pour l'avenir de la plan\xE8te et de l'Humanit\xE9."
+    language: fr
+    name: "Il \xE9tait une fois notre terre"
+    sha256sum: 3debe4af8d535ce07b6d854424eb9aaeb6e8bdaf3240038867c1ce0fdce69b02
+    size: 279487784
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/il-etait-une-fois-notre-terre-fr.zip
+    version: '2018-09-14'
   informacion-cucuta-video-es:
     description: '-'
     language: es
@@ -1981,7 +2001,7 @@ all:
       \ vous dans vos premi\xE8res cr\xE9ations vid\xE9os !"
     language: fr
     name: "Initiez-vous \xE0 la cr\xE9ation vid\xE9o"
-    sha256sum: 6b4de76a32a9c831993e719f58b3c82c245de5ef7689fdaaba1658ae4f17129f
+    sha256sum: 2999d1c0e87befe1fb8f6ddd3c6a6e90797ed03631ddb656f6258ab9e0647f54
     size: 943420335
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-creation-video-fr.zip
@@ -3766,6 +3786,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/tutoriels-pour-utiliser-des-logiciels-et-des-applications-fr.zip
     version: '2018-08-27'
+  utiliser-la-matiere-vinyle-fr:
+    description: "Utiliser la mati\xE8re, se servir d'une d\xE9coupeuse, r\xE9cup\xE9\
+      rer un vieux vinyle... \r\nD\xE9couvrez la mati\xE8re et ses secrets !"
+    language: fr
+    name: "Utiliser la mati\xE8re Vinyle"
+    sha256sum: 5e2d36d009d5d2920ef0941435b0862fd221239c56d664a42e8665849c418244
+    size: 271105249
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/utiliser-la-matiere-vinyle-fr.zip
+    version: '2018-09-14'
   utilisez-internet-en-toute-securite-fr:
     description: "Des contenus pour accompagner petits et grands \xE0 utiliser internet\
       \ en toute s\xE9curit\xE9, et \xE0 comprendre comment avoir du recul sur les\
