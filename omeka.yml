@@ -232,11 +232,11 @@ all:
     description: "Quelques bases pour progresser en fran\xE7ais."
     language: fr
     name: "Apprenez le fran\xE7ais"
-    sha256sum: 81d4f9ec79d223982907253f7db1b71185e2543f9e99eb3c6602f7aa8d1cc38b
-    size: 720808872
+    sha256sum: 348ca7dfb15491089264eaad2fd5f1fa8fdd296274096fa3a8895db771fd1b22
+    size: 720810334
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-fr.zip
-    version: '2017-08-28'
+    version: '2018-09-14'
   apprenez-le-francais-niveau-a1-fr:
     description: "Le niveau A1 en fran\xE7ais, c'est \xEAtre capable de comprendre\
       \ et d'utiliser des expressions famili\xE8res et quotidiennes, ainsi que des\
@@ -826,11 +826,11 @@ all:
     description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
     language: fr
     name: Je mange bien
-    sha256sum: 8873396064606ba9be2139c1e7438c879bdfd7b8022cdb335eea4d14b3defaf7
-    size: 296388020
+    sha256sum: 7dfc537f80c0c520500f1f950fd98180ab4918171637bc3962a1ae51b54f5428
+    size: 298034942
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cuisine-et-nutrition-enfants-fr.zip
-    version: '2018-08-28'
+    version: '2018-09-14'
   cuisine-fr:
     description: Qu'est ce que nous mangeons ? Qu'est ce que les autres mangent ?
     language: fr
@@ -1561,6 +1561,17 @@ all:
     size: 8282765484
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/films-adavision-jrs-en.zip
+    version: '2018-09-14'
+  films-adavision-palerme-fr:
+    description: "Tous les films sont en fran\xE7ais ou en langue \xE9trang\xE8re\
+      \ sous titr\xE9s fran\xE7ais. \r\nIl y en a un petit nombre adapt\xE9 pour un\
+      \ public sourd ou malentendants."
+    language: fr
+    name: Films
+    sha256sum: 1bdedfe6737974d1faecc0d348b1c0e7608b2cbec3add9872ddc69049d8449ac
+    size: 11063042149
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/films-adavision-palerme-fr.zip
     version: '2018-09-14'
   films-et-videos-libres-de-droit-fr:
     description: "A regarder ! Tous les genres, pour tous les \xE2ges."
