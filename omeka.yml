@@ -232,11 +232,11 @@ all:
     description: "Quelques bases pour progresser en fran\xE7ais."
     language: fr
     name: "Apprenez le fran\xE7ais"
-    sha256sum: 81d4f9ec79d223982907253f7db1b71185e2543f9e99eb3c6602f7aa8d1cc38b
-    size: 720808872
+    sha256sum: 42350f9a436339de4948dc5b8ccf2e9693d1a4b734117967a29e1052007b7c31
+    size: 720810334
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-fr.zip
-    version: '2017-08-28'
+    version: '2018-09-14'
   apprenez-le-francais-niveau-a1-fr:
     description: "Le niveau A1 en fran\xE7ais, c'est \xEAtre capable de comprendre\
       \ et d'utiliser des expressions famili\xE8res et quotidiennes, ainsi que des\
@@ -826,11 +826,11 @@ all:
     description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
     language: fr
     name: Je mange bien
-    sha256sum: 8873396064606ba9be2139c1e7438c879bdfd7b8022cdb335eea4d14b3defaf7
-    size: 296388020
+    sha256sum: d26f57de18c25a220d807d07aedaebf74a0e9e9a02ab1ecb734e0f6617573df7
+    size: 298034942
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cuisine-et-nutrition-enfants-fr.zip
-    version: '2018-08-28'
+    version: '2018-09-14'
   cuisine-fr:
     description: Qu'est ce que nous mangeons ? Qu'est ce que les autres mangent ?
     language: fr
@@ -1542,6 +1542,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/films-adavision-jrs-en.zip
     version: '2018-09-14'
+  films-adavision-palerme-fr:
+    description: "Tous les films sont en fran\xE7ais ou en langue \xE9trang\xE8re\
+      \ sous titr\xE9s fran\xE7ais. \r\nIl y en a un petit nombre adapt\xE9 pour un\
+      \ public sourd ou malentendants."
+    language: fr
+    name: Films
+    sha256sum: 1b60a812063197b19d90964106b900f8f4aa47ca0f15770ee918a83d126025c1
+    size: 11063042149
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/films-adavision-palerme-fr.zip
+    version: '2018-09-14'
   films-et-videos-libres-de-droit-fr:
     description: "A regarder ! Tous les genres, pour tous les \xE2ges."
     language: fr
@@ -1970,11 +1981,11 @@ all:
       \ vous dans vos premi\xE8res cr\xE9ations vid\xE9os !"
     language: fr
     name: "Initiez-vous \xE0 la cr\xE9ation vid\xE9o"
-    sha256sum: 36ae42abf19275a29368271c3d208a674ac9d0b048602da537147cafb28afff6
-    size: 942759454
+    sha256sum: 6b4de76a32a9c831993e719f58b3c82c245de5ef7689fdaaba1658ae4f17129f
+    size: 943420335
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-creation-video-fr.zip
-    version: '2018-09-03'
+    version: '2018-09-14'
   initiez-vous-a-la-photographie-fr:
     description: Vous souhaitez vous lancer, faire quelques photographies, mais vous
       avez besoin d'aide ? C'est ici !
