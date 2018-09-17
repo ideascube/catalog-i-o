@@ -1065,6 +1065,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discriminations-enfants-fr.zip
     version: '2017-06-23'
+  diy-basiques-sikana-fr:
+    description: "Avec ce programme accessible \xE0 tous, vous pourrez vous lancer\
+      \ facilement et rapidement dans des travaux basiques de bricolage, Il contient\
+      \ de nombreuses vid\xE9os qui vous permettront d\u2019am\xE9liorer, r\xE9nover\
+      \ ou am\xE9nager votre espace de vie tel que vous le souhaitez"
+    language: fr
+    name: Do it yourself Les basiques du Bricolage
+    sha256sum: 8a4d91f8e2f957e9c3c6f6c5ba7ec960bf37d667b49f14fa90a9082f7940af75
+    size: 746545712
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/diy-basiques-sikana-fr.zip
+    version: '2018-09-17'
   diy-handcrafts-and-arts-ar:
     description: "\"Learn how to do useful objects for yourself, your kids, your friends,\
       \ and home accessories.// \u062A\u0639\u0644\u0645 \u0643\u064A\u0641\u064A\u0629\
@@ -1216,6 +1228,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/eco-d-ici-eco-d-ailleurs-rfi-fr.zip
     version: '2018-02-28'
+  ecologie-developpement-durable-fr:
+    description: A trier
+    language: fr
+    name: "Ecologie d\xE9veloppement durable"
+    sha256sum: 07f0f1e03485fd44a2712de1faf51590105118824a3bcf4e114e95b35ac47b59
+    size: 292404127
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ecologie-developpement-durable-fr.zip
+    version: '2018-09-17'
   economie-et-developpement-durable:
     description: "Comment allier protection de l'environnement et d\xE9veloppement\
       \ \xE9conomique ? Quels sont les impacts des mod\xE8les \xE9conomiques actuels\
@@ -2092,6 +2113,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-a-la-biologie-fr.zip
     version: '2018-01-18'
+  introduction-aux-droits-de-l-homme-fr:
+    description: "Les m\xE9canismes de mise en \u0153uvre des droits de l'homme\r\n\
+      Un MOOC de l'Universit\xE9 de Gen\xE8ve"
+    language: fr
+    name: Introduction aux droits de l'homme
+    sha256sum: 3b9c3d48ceb6febe306b2e94aa71bd58b1eb5a17125ed16c39741d56cbc11aaf
+    size: 1121065034
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/introduction-aux-droits-de-l-homme-fr.zip
+    version: '2018-09-17'
   introduction-aux-sciences-cognitives-et-aux-neurosciences-fr:
     description: "Comment fonctionne le cerveau ? Comment r\xE9gule-t-il nos \xE9\
       motions ? Qu'est-ce que l'autisme ? Les sciences cognitives ont pour objet l'\xE9\
@@ -2660,6 +2691,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learning-languages-greek-el-el.zip
     version: '2018-09-10'
+  les-bases-de-l-informatique-fr:
+    description: "Ces ressources vous guideront dans l'utilisation des logiciels de\
+      \ traitement de texte, tableur, pr\xE9sentation et vous permettront de comprendre\
+      \ le fonctionnement d'un navigateur internet."
+    language: fr
+    name: Les bases de l'informatique
+    sha256sum: afeed05cc99a9ee38ffac9a9a469f555f8a202df83f81a709eb87093943c3483
+    size: 5343499
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/les-bases-de-l-informatique-fr.zip
+    version: '2018-09-17'
   les-filles-et-les-garcons-quelles-differences-fr:
     description: "Filles footballeuses, soldats, pr\xE9sidentes: les filles peuvent\
       \ faire autant de choses que les gar\xE7ons !"
@@ -3018,15 +3060,25 @@ all:
     url: http://packages.ideascube.org/omeka/numerique-et-bidouille-informatique-fr.zip
     version: '2018-05-29'
   nutrition-enfants-fr:
-    description: "Bien manger \xE7a veut dire quoi? quels sont les fruits et les l\xE9\
-      gumes?"
+    description: "Bien manger \xE7a veut dire quoi ?"
     language: fr
     name: Nutrition (enfants)
-    sha256sum: 5afe9eb6c52e21e93f831a0f2acb3c0f6a4743e67364916cc5c01231a4cf3902
-    size: 1157114569
+    sha256sum: 28c6a7edd198d77fea66e929f0436d56130ebe7be051e14ec83da57588be7541
+    size: 1161472728
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/nutrition-enfants-fr.zip
-    version: '2017-11-27'
+    version: '2018-09-17'
+  nutrition-fr:
+    description: "Qu'est ce que \xE7a veut dire \"bien manger\" ? Comment am\xE9liorer\
+      \ ses r\xE9flexes d'alimentation pour se sentir mieux et prendre soin de sa\
+      \ sant\xE9 ?"
+    language: fr
+    name: Bien se nourrir
+    sha256sum: f4e1baa713953b38a41e017b36a597f9c90e75cf53c6765e14d89e5391cd36b1
+    size: 351517274
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/nutrition-fr.zip
+    version: '2018-09-17'
   ou-sont-les-femmes-fr:
     description: "Femmes intellectuelles, femmes footballeuses, femmes soldats ou\
       \ femmes geeks. Vous trouverez ici du contenu sur l'immense diversit\xE9 d'exp\xE9\
@@ -3144,6 +3196,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/poetry-ar.zip
     version: '2018-02-23'
+  pratiques-et-usages-du-numerique-fr:
+    description: "Pratiques et usages du num\xE9rique regroupe les vid\xE9os concernant\
+      \ notamment l'\xE9conomie du num\xE9rique, les droits d'auteur, la citoyennet\xE9\
+      \ num\xE9rique et les donn\xE9es personnelles, les pratiques du selfie et du\
+      \ remix."
+    language: fr
+    name: "Pratiques et usages du num\xE9rique"
+    sha256sum: 622341780db1413862ca2dc0fd36b063809cdde4fc8d751fee9fba0f92c877b8
+    size: 5001369071
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/pratiques-et-usages-du-numerique-fr.zip
+    version: '2018-09-17'
   premiere-fois-ado-adultes-fr:
     description: "La vie est une s\xE9rie de premi\xE8res fois, voici quelques contenus\
       \ qui abordent certains de ces moments"
