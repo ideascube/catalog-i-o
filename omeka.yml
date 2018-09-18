@@ -167,7 +167,7 @@ all:
       \ mener une vie plus saine."
     language: fr
     name: Apprendre le yoga
-    sha256sum: a6fd90869d5238693c9e4cb1d9b7d225fea6016a230fe46039c0c818bbf7b61b
+    sha256sum: 97a2b57970869fbc0c25a2f59f2c74acde2ba5d97cc234ff7be42a21c7f6355a
     size: 794974135
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-le-yoga-sikana-fr.zip
@@ -196,7 +196,7 @@ all:
       \ ainsi qu'\xE0 certains langages."
     language: fr
     name: Apprenez le code informatique
-    sha256sum: 388fd0fffa9a547b6dd77e35253714f06de2bbd0c2b7b71045114923965b9f9b
+    sha256sum: ae47d97f9132041de33cd3d69c8f21d557cfa7a2887bde42b84f28c443392e80
     size: 4954690073
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-code-informatique-fr.zip
@@ -234,7 +234,7 @@ all:
       \ \xE9nonc\xE9s tr\xE8s simples !"
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau A1"
-    sha256sum: c73244b84291fb1fba53c4ab4ded1dabb04734059ed9299fdd3082ad787b66b2
+    sha256sum: 9312708de306c073934eda53087de00dd5a33db42ec56d407154368ff44516e3
     size: 575689489
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-a1-fr.zip
@@ -245,7 +245,7 @@ all:
       \ ou familiales, achats, environnement proche, travail)."
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau A2"
-    sha256sum: 01eb542f3fb2ff111e8a73a2014eef2e9c737067cdf595f9cda8d9f7a8618fdd
+    sha256sum: 6dda587e4721de6116131acc548ef69bbfd5cc07789e0437faba7e69461c9c7a
     size: 267911994
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-a2-fr.zip
@@ -257,7 +257,7 @@ all:
       \ les loisirs, etc."
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau B1"
-    sha256sum: a2ed4bc668dd9bee23594e4fe3480fc82a968a15886a11668a2a5d829c4cd327
+    sha256sum: 4ef253c6eaf65850c6fe706d8e568ed2b548ce9316229edf164aea166ab9d0f8
     size: 157327491
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-b1-fr.zip
@@ -268,7 +268,7 @@ all:
       \ une discussion technique dans sa sp\xE9cialit\xE9."
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau B2"
-    sha256sum: c768fe9029f97cd68e44a507869555a5405508edb5ca5d1324f4fd8c19b9e345
+    sha256sum: 78f966e034fb1bd8f8be41089c675ed68c075c0ed146fcdd24a01dea92fdc478
     size: 231816536
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-b2-fr.zip
@@ -323,11 +323,11 @@ all:
       \ familial...etc."
     language: fr
     name: "Arriver en France et conna\xEEtre ses droits"
-    sha256sum: 21aeffde25085f4e9cbe6370f115b6337a159e41d76c62a77912094d78f42131
-    size: 778956447
+    sha256sum: c9e814a0ad3dcce302dad880b5cd2616e9705ab0fe2ffb35e76b241d1d61e9b0
+    size: 778959107
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arriver-en-france-et-connaitre-ses-droits-fr.zip
-    version: '2018-04-24'
+    version: '2018-09-18'
   art-en-en:
     description: Get to know the works and the lives of the most important painters
       of the previous century.
@@ -2016,7 +2016,7 @@ all:
       avez besoin d'aide ? C'est ici !
     language: fr
     name: "Initiez-vous \xE0 la photographie"
-    sha256sum: 4c93cd69c7642f410e544a234aaee9ff27a5b8befb73f70b45ec1a59b0ff71ed
+    sha256sum: 6899d3db7e59f27047726e0956975e7f395851d82000d08dd96ad8f3ad703c83
     size: 515260822
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-photographie-fr.zip
