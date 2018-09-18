@@ -164,23 +164,14 @@ all:
     description: "Ce programme \xE9ducatif sur le yoga a pour objectif de motiver\
       \ les d\xE9butants \xE0 apprendre et pratiquer une s\xE9lection de postures\
       \ et de techniques de respiration diff\xE9rentes, qui peuvent vous aider \xE0\
-      \ mener une vie plus saine.\r\n\r\nLe yoga aide \xE0 renforcer le corps et le\
-      \ syst\xE8me immunitaire, am\xE9liore la souplesse, calme l'esprit, r\xE9duit\
-      \ le stress, aide \xE0 se concentrer, \xE0 avoir confiance en soi et apporte\
-      \ des sensations d'apaisement et de bien-\xEAtre.\r\nLes vid\xE9os de ce programme\
-      \ ont \xE9t\xE9 tourn\xE9es en Inde dans la r\xE9gion de Pondicherry, \xE0 Alamparai\
-      \ Fort, Gingee Fort, Chinna Veerampattinam Beach et dans des fermes. \r\nLes\
-      \ d\xE9cors, les experts en yoga et la musique traditionnelle Indienne, interpr\xE9\
-      t\xE9e par le joueur de sitar Shri Basab Sen, vous transporteront dans le monde\
-      \ du yoga, qui est un cadeau inestimable de la culture Indienne au reste du\
-      \ monde."
+      \ mener une vie plus saine."
     language: fr
     name: Apprendre le yoga
-    sha256sum: d12df432ea8f79ee053159ae3830d8120c62178e2e9352393048470f03bcefb9
-    size: 793916091
+    sha256sum: a6fd90869d5238693c9e4cb1d9b7d225fea6016a230fe46039c0c818bbf7b61b
+    size: 794974135
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-le-yoga-sikana-fr.zip
-    version: '2018-06-07'
+    version: '2018-09-18'
   apprends-le-francais-a1-enfants-adolescents-fr:
     description: "Pars \xE0 la d\xE9couverte de la langue fran\xE7aise, en images\
       \ !"
@@ -205,11 +196,11 @@ all:
       \ ainsi qu'\xE0 certains langages."
     language: fr
     name: Apprenez le code informatique
-    sha256sum: 78e283ec6f54da111ba54a040c719fd4f8818b19889ba87cbc1190950caf2a4c
-    size: 4926187788
+    sha256sum: 388fd0fffa9a547b6dd77e35253714f06de2bbd0c2b7b71045114923965b9f9b
+    size: 4954690073
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-code-informatique-fr.zip
-    version: '2018-05-29'
+    version: '2018-09-18'
   apprenez-le-francais-alphabetisation-fr:
     description: .
     language: fr
@@ -240,66 +231,48 @@ all:
   apprenez-le-francais-niveau-a1-fr:
     description: "Le niveau A1 en fran\xE7ais, c'est \xEAtre capable de comprendre\
       \ et d'utiliser des expressions famili\xE8res et quotidiennes, ainsi que des\
-      \ \xE9nonc\xE9s tr\xE8s simples ! Vous pouvez vous pr\xE9senter ou pr\xE9senter\
-      \ quelqu'un et poser des questions \xE0 une personne (o\xF9 il habite, ce qui\
-      \ lui appartient...). Vous pouvez communiquer de fa\xE7on simple si votre interlocuteur\
-      \ parle lentement et distinctement et se montre coop\xE9ratif."
+      \ \xE9nonc\xE9s tr\xE8s simples !"
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau A1"
-    sha256sum: 4fd2ab006fa7b4546d446bd0e8f77403efc590f18c8283974af6beb4b3058798
-    size: 575687504
+    sha256sum: c73244b84291fb1fba53c4ab4ded1dabb04734059ed9299fdd3082ad787b66b2
+    size: 575689489
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-a1-fr.zip
-    version: '2018-03-26'
+    version: '2018-09-18'
   apprenez-le-francais-niveau-a2-fr:
     description: "Le niveau A2 en fran\xE7ais, c'est pouvoir comprendre des phrases\
       \ isol\xE9es et des expressions fr\xE9quemment utilis\xE9es (informations personnelles\
-      \ ou familiales, achats, environnement proche, travail). Vous pouvez communiquer\
-      \ lors de t\xE2ches simples et habituelles ne demandant qu\u2019un \xE9change\
-      \ d\u2019informations simple. Vous pouvez d\xE9crire avec des moyens simples\
-      \ votre formation, votre environnement imm\xE9diat et \xE9voquer des sujets\
-      \ familiers et habituels."
+      \ ou familiales, achats, environnement proche, travail)."
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau A2"
-    sha256sum: e2b644cece97b4bdd707a2b5529ae55f5825f538e5dcf2ca52fa7998f6c0f6a7
-    size: 267911472
+    sha256sum: 01eb542f3fb2ff111e8a73a2014eef2e9c737067cdf595f9cda8d9f7a8618fdd
+    size: 267911994
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-a2-fr.zip
-    version: '2018-03-26'
+    version: '2018-09-18'
   apprenez-le-francais-niveau-b1-fr:
     description: "Le niveau B1 en fran\xE7ais, c'est pouvoir comprendre les points\
       \ essentiels quand un langage clair et standard est utilis\xE9 et s\u2019il\
       \ s\u2019agit de choses famili\xE8res dans le travail, \xE0 l\u2019\xE9cole,\
-      \ les loisirs, etc. Vous pouvez vous d\xE9brouiller dans la plupart des situations\
-      \ rencontr\xE9es en voyage dans une r\xE9gion o\xF9 la langue est parl\xE9e.\
-      \ Vous pouvez produire un discours simple et coh\xE9rent sur des sujets familiers\
-      \ et dans ses domaines d\u2019int\xE9r\xEAt. Vous pouvez raconter un \xE9v\xE9\
-      nement, une exp\xE9rience ou un r\xEAve, d\xE9crire un espoir ou un but et exposer\
-      \ bri\xE8vement des raisons ou explications pour un projet ou une id\xE9e."
+      \ les loisirs, etc."
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau B1"
-    sha256sum: 94bd9f4789cd79802f6a3286250b7b020ec64d666ac128ccc9bdbabc9a211333
-    size: 157327158
+    sha256sum: a2ed4bc668dd9bee23594e4fe3480fc82a968a15886a11668a2a5d829c4cd327
+    size: 157327491
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-b1-fr.zip
-    version: '2018-03-26'
+    version: '2018-09-18'
   apprenez-le-francais-niveau-b2-fr:
     description: "Le niveau B2 en fran\xE7ais, c'est pouvoir comprendre  le contenu\
       \ essentiel des sujets concrets ou abstraits dans un texte complexe, y compris\
-      \ une discussion technique dans sa sp\xE9cialit\xE9. Vous pouvez communiquer\
-      \ avec un degr\xE9 de spontan\xE9it\xE9 et d\u2019aisance tel qu\u2019une conversation\
-      \ avec un locuteur natif ne comporte de tension ni pour l\u2019un ni pour l\u2019\
-      autre. Vous pouvez vous exprimer de fa\xE7on claire et d\xE9taill\xE9e sur une\
-      \ grande gamme de sujets, \xE9mettre un avis sur un sujet d\u2019actualit\xE9\
-      \ et exposer les avantages et inconv\xE9nients de diff\xE9rentes possibilit\xE9\
-      s."
+      \ une discussion technique dans sa sp\xE9cialit\xE9."
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau B2"
-    sha256sum: 470aacc5f6adff0a37bd717308be431d5d603e57a2f931ced814a2e844869d69
-    size: 231815224
+    sha256sum: c768fe9029f97cd68e44a507869555a5405508edb5ca5d1324f4fd8c19b9e345
+    size: 231816536
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-b2-fr.zip
-    version: '2018-03-26'
+    version: '2018-09-18'
   apprenez-le-francais-niveau-c1-c2-fr:
     description: "Le niveau C1 et C2 en fran\xE7ais, c'est comprendre une grande gamme\
       \ de textes longs et exigeants, ainsi que de saisir des significations implicites.\
@@ -2043,11 +2016,11 @@ all:
       avez besoin d'aide ? C'est ici !
     language: fr
     name: "Initiez-vous \xE0 la photographie"
-    sha256sum: ccb032bf00a6eb565429f0e10ac0dde6e8fc71508b844ba5444cd61c74ff3483
-    size: 515259703
+    sha256sum: 4c93cd69c7642f410e544a234aaee9ff27a5b8befb73f70b45ec1a59b0ff71ed
+    size: 515260822
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-photographie-fr.zip
-    version: '2018-01-18'
+    version: '2018-09-18'
   innovation-en-afrique-fr:
     description: "Vous trouverez ici du contenu sur des m\xE9thodes innovantes et\
       \ des pr\xE9sentations d'innovations sp\xE9cifiques au contexte \xE9conomique\
