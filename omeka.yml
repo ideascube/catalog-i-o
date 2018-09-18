@@ -167,7 +167,7 @@ all:
       \ mener une vie plus saine."
     language: fr
     name: Apprendre le yoga
-    sha256sum: 97a2b57970869fbc0c25a2f59f2c74acde2ba5d97cc234ff7be42a21c7f6355a
+    sha256sum: 0fab8ddc38ded3caec6263f53ab6707f3e9813f3a8e7ad86691207e51d179c7b
     size: 794974135
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-le-yoga-sikana-fr.zip
@@ -196,7 +196,7 @@ all:
       \ ainsi qu'\xE0 certains langages."
     language: fr
     name: Apprenez le code informatique
-    sha256sum: ae47d97f9132041de33cd3d69c8f21d557cfa7a2887bde42b84f28c443392e80
+    sha256sum: 015ce1087f7b3e000998e46683956665c10605c597c40cb6466f33ba6e7cf23a
     size: 4954690073
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-code-informatique-fr.zip
@@ -234,7 +234,7 @@ all:
       \ \xE9nonc\xE9s tr\xE8s simples !"
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau A1"
-    sha256sum: 9312708de306c073934eda53087de00dd5a33db42ec56d407154368ff44516e3
+    sha256sum: 07bcea77ae908a107915b65d77e777d2293492fb32fdaaadb45fa262e36268a2
     size: 575689489
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-a1-fr.zip
@@ -245,7 +245,7 @@ all:
       \ ou familiales, achats, environnement proche, travail)."
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau A2"
-    sha256sum: 6dda587e4721de6116131acc548ef69bbfd5cc07789e0437faba7e69461c9c7a
+    sha256sum: 88db28259cf24c4f315155fbd67332f158e69fc4420efbb1965d8a87e566189e
     size: 267911994
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-a2-fr.zip
@@ -257,7 +257,7 @@ all:
       \ les loisirs, etc."
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau B1"
-    sha256sum: 4ef253c6eaf65850c6fe706d8e568ed2b548ce9316229edf164aea166ab9d0f8
+    sha256sum: 4903bf7e134e196652b36cc26d57585ee6ab371a5f9e1770c10d26a2258bfe20
     size: 157327491
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-b1-fr.zip
@@ -268,7 +268,7 @@ all:
       \ une discussion technique dans sa sp\xE9cialit\xE9."
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau B2"
-    sha256sum: 78f966e034fb1bd8f8be41089c675ed68c075c0ed146fcdd24a01dea92fdc478
+    sha256sum: 3a2d8758fd4885f86f8a77b91819c5554d86b86c68a07ffbc557eef95489f58a
     size: 231816536
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-b2-fr.zip
@@ -323,7 +323,7 @@ all:
       \ familial...etc."
     language: fr
     name: "Arriver en France et conna\xEEtre ses droits"
-    sha256sum: c9e814a0ad3dcce302dad880b5cd2616e9705ab0fe2ffb35e76b241d1d61e9b0
+    sha256sum: 191f5f573a18f4b387df390f1a0a5b205f30fa88b00ec65499d554e866071f39
     size: 778959107
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arriver-en-france-et-connaitre-ses-droits-fr.zip
@@ -2016,7 +2016,7 @@ all:
       avez besoin d'aide ? C'est ici !
     language: fr
     name: "Initiez-vous \xE0 la photographie"
-    sha256sum: 6899d3db7e59f27047726e0956975e7f395851d82000d08dd96ad8f3ad703c83
+    sha256sum: 76c1ffa9dab98a7629cc358b3feda308a0f58aeb9b0b258e3c4ba949ffe314fc
     size: 515260822
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-photographie-fr.zip
@@ -2396,14 +2396,14 @@ all:
     version: '2018-02-28'
   l-inclusion-numerique-fr:
     description: "Les vid\xE9os sur l'inclusion num\xE9rique propose une initiation\
-      \ \xE0 l'informatique"
+      \ \xE0 l'informatique."
     language: fr
     name: "L'inclusion num\xE9rique"
-    sha256sum: bd335a0a1dfb51555b8bdde0e680e9ab600dc20c110c952d51acd3b876030e2e
-    size: 696674834
+    sha256sum: 451c640b391df77841d3cf888b963d9701f34a2f6174971c43f15dd87f8b7e59
+    size: 697841883
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/l-inclusion-numerique-fr.zip
-    version: '2018-07-12'
+    version: '2018-09-18'
   l-oeil-et-la-vision-fr:
     description: "Comment voit-on ? Comment l'oeil envoie-t-il de l'information au\
       \ cerveau et comment cette information est-elle ensuite trait\xE9e ? Vous trouverez\
