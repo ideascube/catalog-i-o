@@ -167,11 +167,11 @@ all:
       \ mener une vie plus saine."
     language: fr
     name: Apprendre le yoga
-    sha256sum: 0fab8ddc38ded3caec6263f53ab6707f3e9813f3a8e7ad86691207e51d179c7b
+    sha256sum: 4fa0a4870618958a9423f74410549809b5d660c9fdc0e6105101373f4d6f0a63
     size: 794974135
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-le-yoga-sikana-fr.zip
-    version: '2018-09-18'
+    version: '2018-09-20'
   apprends-le-francais-a1-enfants-adolescents-fr:
     description: "Pars \xE0 la d\xE9couverte de la langue fran\xE7aise, en images\
       \ !"
@@ -234,22 +234,22 @@ all:
       \ \xE9nonc\xE9s tr\xE8s simples !"
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau A1"
-    sha256sum: 07bcea77ae908a107915b65d77e777d2293492fb32fdaaadb45fa262e36268a2
+    sha256sum: 144241fc29b57a5362e2ec83304b566a5be6fe1cdc67e0355d365585908c719b
     size: 575689489
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-a1-fr.zip
-    version: '2018-09-18'
+    version: '2018-09-20'
   apprenez-le-francais-niveau-a2-fr:
     description: "Le niveau A2 en fran\xE7ais, c'est pouvoir comprendre des phrases\
       \ isol\xE9es et des expressions fr\xE9quemment utilis\xE9es (informations personnelles\
       \ ou familiales, achats, environnement proche, travail)."
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau A2"
-    sha256sum: 88db28259cf24c4f315155fbd67332f158e69fc4420efbb1965d8a87e566189e
+    sha256sum: 22eaa6eb6e8a651ce04da26e9ea58ae119dec900deed84242483df2b7f3ef986
     size: 267911994
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-a2-fr.zip
-    version: '2018-09-18'
+    version: '2018-09-20'
   apprenez-le-francais-niveau-b1-fr:
     description: "Le niveau B1 en fran\xE7ais, c'est pouvoir comprendre les points\
       \ essentiels quand un langage clair et standard est utilis\xE9 et s\u2019il\
@@ -257,22 +257,22 @@ all:
       \ les loisirs, etc."
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau B1"
-    sha256sum: 4903bf7e134e196652b36cc26d57585ee6ab371a5f9e1770c10d26a2258bfe20
+    sha256sum: abdf517d397e6c22e10c840d40f575b4ff3a21c9ca240822f894250d684aae53
     size: 157327491
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-b1-fr.zip
-    version: '2018-09-18'
+    version: '2018-09-20'
   apprenez-le-francais-niveau-b2-fr:
     description: "Le niveau B2 en fran\xE7ais, c'est pouvoir comprendre  le contenu\
       \ essentiel des sujets concrets ou abstraits dans un texte complexe, y compris\
       \ une discussion technique dans sa sp\xE9cialit\xE9."
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau B2"
-    sha256sum: 3a2d8758fd4885f86f8a77b91819c5554d86b86c68a07ffbc557eef95489f58a
+    sha256sum: 775e4148a3cd477bc17f7fb460272fb69340f323d0199e3388014bd12945050b
     size: 231816536
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-b2-fr.zip
-    version: '2018-09-18'
+    version: '2018-09-20'
   apprenez-le-francais-niveau-c1-c2-fr:
     description: "Le niveau C1 et C2 en fran\xE7ais, c'est comprendre une grande gamme\
       \ de textes longs et exigeants, ainsi que de saisir des significations implicites.\
@@ -323,11 +323,11 @@ all:
       \ familial...etc."
     language: fr
     name: "Arriver en France et conna\xEEtre ses droits"
-    sha256sum: 191f5f573a18f4b387df390f1a0a5b205f30fa88b00ec65499d554e866071f39
+    sha256sum: c86b1eb623fbb395fb251e8c2099ff1f56cf194c1e40d90a55dfc3df660cf018
     size: 778959107
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arriver-en-france-et-connaitre-ses-droits-fr.zip
-    version: '2018-09-18'
+    version: '2018-09-20'
   art-en-en:
     description: Get to know the works and the lives of the most important painters
       of the previous century.
@@ -952,11 +952,11 @@ all:
     description: Qu'est-ce qu'on mange aujourd'hui ?
     language: fr
     name: "D\xE9couvrez ou re-d\xE9couvrez la cuisine de diff\xE9rents pays"
-    sha256sum: 5b165bd043415cf7c74b566612551a5a0b419785d607a6a45ffc5f6d9d98e7fb
-    size: 2496583482
+    sha256sum: ef3f9226d0034e137e4a93e4b79aaaeb60aa68f3056922be46a3896421a93150
+    size: 2665107814
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/decouvrez-ou-re-decouvrez-la-cuisine-de-differents-pays-fr.zip
-    version: '2018-08-27'
+    version: '2018-09-20'
   decouvrez-ou-redecouvrez-l-histoire-de-france-fr:
     description: "... Et \xE9clairez le pr\xE9sent \xE0 la lumi\xE8re du pass\xE9\
       \ !"
@@ -2016,11 +2016,11 @@ all:
       avez besoin d'aide ? C'est ici !
     language: fr
     name: "Initiez-vous \xE0 la photographie"
-    sha256sum: 76c1ffa9dab98a7629cc358b3feda308a0f58aeb9b0b258e3c4ba949ffe314fc
+    sha256sum: ef263c1ac401d838a9ed3a36e9ad5d667b84c925fb2b63b38e49d6bdcf0dca97
     size: 515260822
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-photographie-fr.zip
-    version: '2018-09-18'
+    version: '2018-09-20'
   innovation-en-afrique-fr:
     description: "Vous trouverez ici du contenu sur des m\xE9thodes innovantes et\
       \ des pr\xE9sentations d'innovations sp\xE9cifiques au contexte \xE9conomique\
@@ -2942,11 +2942,11 @@ all:
       \ morceaux !"
     language: fr
     name: "D\xE9couvrez de nouvelles musiques"
-    sha256sum: 05ef67af981c603c6e90e013c3cbacc915a505cf91295935c9fe4ef9fb39039b
-    size: 3443378845
+    sha256sum: ad622ec2d8237850ae3596d74d0bbae7a5c12e7b622484479ff95faa643b2101
+    size: 4144890331
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/musique-fr.zip
-    version: '2018-04-06'
+    version: '2018-09-20'
   musique-libre-de-droit-en:
     description: "Musiques libres de droit! \r\nA \xE9couter encore et encore dans\
       \ toutes les langues."
