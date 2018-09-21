@@ -2507,11 +2507,11 @@ all:
       \ \xE0 l'informatique."
     language: fr
     name: "L'inclusion num\xE9rique"
-    sha256sum: 451c640b391df77841d3cf888b963d9701f34a2f6174971c43f15dd87f8b7e59
+    sha256sum: 6ad9ee62a536661b3d9e82fdd0aca3b314606e4460f6391f2928f695eb7b0a1c
     size: 697841883
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/l-inclusion-numerique-fr.zip
-    version: '2018-09-18'
+    version: '2018-09-21'
   l-oeil-et-la-vision-fr:
     description: "Comment voit-on ? Comment l'oeil envoie-t-il de l'information au\
       \ cerveau et comment cette information est-elle ensuite trait\xE9e ? Vous trouverez\
