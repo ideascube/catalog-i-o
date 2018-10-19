@@ -129,7 +129,7 @@ all:
     id: "f04d2211-394a-d257-a809-ff73d34f2fa5"
     sha256sum: "8c78e9ecd5e179bc7211065bd231807b7a185a4e3a60b6cb6e985604641208c8"
     langid: "wikiversity.fr"
-    type: zipped-zim
+    type: zim
   wikibooks.en:
     version: "2017-07-04"
     size: 1516080648
