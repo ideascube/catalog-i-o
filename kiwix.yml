@@ -1008,13 +1008,13 @@ all:
   wikinews.fr:
     name: "Wikinews"
     description: "Une nouvelle de Wikinews, la source d'informations que vous pouvez écrire."
-    version: "2017-04-26"
+    version: "2018-10-11"
     language: "fr"
     id: "a3a5dcef-e050-ec4b-e284-9748fb312170"
-    url: "http://download.kiwix.org/portable/wikinews/kiwix-0.9+wikinews_fr_all_2017-04.zip"
-    size: 374688269
-    sha256sum: "379fd27f4a024138fb13de95f6a2bca9f60f08f94a4aae72ea4502469e04012c"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wikinews/wikinews_fr_all_novid_2018-10.zim"
+    size: 177024154
+    sha256sum: "e82db99fc788b6037c14a4e6231178e6c0c0ab0fb8abf47147b2683f408ed8ec"
+    type: zim
   wikipedia.it:
     name: "Wikipedia"
     description: "L'enciclopedia libera e collaborativa"
