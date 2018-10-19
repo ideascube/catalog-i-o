@@ -739,12 +739,12 @@ all:
     langid: "wikiquote.en"
     description: The free quote compendium.
     name: Wikiquote
-    version: "2017-03-01"
+    version: "2018-04-17"
     language: "eng"
     id: "bad5ba71-5517-e459-f782-406802628afb"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_en_all_2017-03.zip"
-    size: 705725790
-    sha256sum: "79b87cc19f16cefa9ef0294f92e0d2f67f6a8cacea677a8893163f6569dd5475"
+    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_en_all_novid_2018-04.zip"
+    size: 817794330
+    sha256sum: "b67ec179e51da44ebb95daa2823bc425bcbad6fd6bde3f3484752d78bcf7dbeb"
     type: zipped-zim
   wikiquote.el:
     langid: "wikiquote.el"
