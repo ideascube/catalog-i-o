@@ -318,14 +318,14 @@ all:
     langid: "teddesign.en"
     type: zipped-zim
   tedentertainment.en:
-    version: "2015-02-02"
-    size: 8141433715
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_entertainment_2015-02.zip"
+    version: "2016-06-26"
+    size: 9006262025
+    url: "https://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_entertainment_2016-06.zip"
     name: TED Entertainment
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of entertainment.
     id: "024c28e1-dd7c-8279-cc7f-dc04235f3d66"
-    sha256sum: "c23d738d4b90f9bc77c439d304890a4a7a3506b0ea8e47170cc92409589769a7"
+    sha256sum: "143435ca02ef294013e8d8951644930ef0281cf3886718d9ea47a9efeb253e6f"
     langid: "tedentertainment.en"
     type: zipped-zim
   tedglobalissues.en:
