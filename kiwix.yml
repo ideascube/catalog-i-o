@@ -320,7 +320,7 @@ all:
   tedentertainment.en:
     version: "2016-06-26"
     size: 9006262025
-    url: "https://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_entertainment_2016-06.zip"
+    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_entertainment_2016-06.zip"
     name: TED Entertainment
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of entertainment.
