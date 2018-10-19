@@ -904,24 +904,24 @@ all:
     langid: "crashcourse.en"
     description: Educational videos about sciences, humanities…
     name: CrashCourse
-    version: "2016-02-16"
+    version: "2018-06-24"
     language: "eng"
     id: "580162ed-f379-b1de-3918-b6009f02cdff"
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+crashcourse_en_all_2016-02.zip"
-    size: 14836363791
-    sha256sum: "b651829203d4a7c55dc62230e9a99db60c3c394b6629b4354aa8c3e0fe0eb8bb"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/other/crashcourse_en_all_2018-06.zim"
+    size: 19978762205
+    sha256sum: "ade8a2aeffa71cb9921c297c1865a9fb0aee51ec8216e0e6ae816e8598c81ac0"
+    type: zim
   phet.en:
     langid: "phet.en"
     name: PhET
     description: Physics, chemistry, biology, earth science and math simulations
-    version: "2016-06-19"
+    version: "2018-10-01"
     language: "eng"
     id: "a60cb414-63d9-c972-62fb-5c0b09259a3d"
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+phet_en_all_2016-06.zip"
-    size: 209942793
-    sha256sum: "14b11aed688bf6a5a3cd338d5e9f2369020b9f3cfea26556461ff793a951ea4f"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/phet/phet_en_2018-10.zim"
+    size: 36278957
+    sha256sum: "365d8a189bbb11e53d6a2c73b7b470506e47d4ee920707d588f8b33155e55e03"
+    type: zim
   vikidia.en:
     langid: "vikidia.en"
     description: The encyclopedia for 8 to 13-year-old children
