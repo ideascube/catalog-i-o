@@ -109,16 +109,16 @@ all:
     langid: "wiktionary.fr"
     type: zipped-zim
   wikiversity.en:
-    version: "2017-07-27"
-    size: 817192868
-    url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_en_all_novid_2017-07.zip"
+    version: "2018-06-17"
+    size: 679757876
+    url: "http://download.kiwix.org/zim/wikiversity/wikiversity_en_all_novid_2018-06.zim"
     name: Wikiversity
     language: "eng"
     description: Tutorials and courses for the fostering of learning.
-    id: "02a77e18-d58f-a067-dc4b-50f5eeccfed2"
-    sha256sum: "0bc3582ade26a81c53c5199027a5d2d89111698b69bac5df73c7fd956dacd5a0"
+    id: "4e79879e-4c35-bd62-1c4c-82a71743ea62"
+    sha256sum: "a9a569f03cae32242a970487489b236419850cd5f2636739eac1e5c02e6f3930"
     langid: "wikiversity.en"
-    type: zipped-zim
+    type: zim
   wikiversity.fr:
     version: "2017-07-27"
     size: 529210858
