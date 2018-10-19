@@ -296,14 +296,14 @@ all:
     langid: "tedxlausannechange2013.fr"
     type: zipped-zim
   tedbusiness.en:
-    version: "2015-02-02"
-    size: 8629637983
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_business_2015-02.zip"
-    name: TED Business
+    version: "2016-06-26"
+    size:  10025337594
+    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_business_2016-06.zip"
+    name: TED talks - Business
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of business.
-    id: "ed4d89cb-fea9-f9e7-78b7-4b4de3f45a18"
-    sha256sum: "355949be7ed7fb4bc071c293e0909ec0cd90b63d3047b8e95346bf71b5c7d50d"
+    id: "6b702548-b411-48ea-d18c-1b7476b70b12"
+    sha256sum: "98ac898f58d1eb75bc3441345369a78af47c806fd6b26883dcfa04979bcb03f3"
     langid: "tedbusiness.en"
     type: zipped-zim
   teddesign.en:
