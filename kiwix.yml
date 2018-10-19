@@ -98,16 +98,16 @@ all:
     langid: "wiktionary.en"
     type: zipped-zim
   wiktionary.fr:
-    version: "2018-03-18"
-    size: 4639661818
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_fr_all_2018-03.zip"
+    version: "2018-07-08"
+    size: 4582593676
+    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_fr_all_2018-07.zim"
     name: Wiktionnaire
     language: "fra"
     description: Définition, traduction, prononciation, anagramme et synonyme sur le dictionnaire libre Wiktionnaire.
-    id: "415bec0b-1331-8cd3-a061-f4234c9a8100"
-    sha256sum: "8f4144471ce8a17d9b1b30e415ef9f9f82c834f1507ce8f319dac25f1019cf92"
+    id: "no-id"
+    sha256sum: "d49c7b97f4e1eb811171f527708977291aeeaafe21ae1b49bf8d00d1a01187d8"
     langid: "wiktionary.fr"
-    type: zipped-zim
+    type: zim
   wikiversity.en:
     version: "2018-06-17"
     size: 679757876
