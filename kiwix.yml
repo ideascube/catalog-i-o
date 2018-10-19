@@ -804,14 +804,14 @@ all:
   ted-ed.en:
     langid: "ted-ed.en"
     description: Education videos from TED
-    name: TED Education
-    version: "2016-04-17"
+    name: TED talks - Education
+    version: "2017-10-01"
     language: "eng"
     id: "37f70600-ca38-bbcd-edb9-f97ca1ebd126"
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted-ed_en_all_2016-04.zip"
-    size: 18985671301
-    sha256sum: "77a54f839e1b7915b3d0e2519ded8b696cc844371a126662063a4b7e39d8f287"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/ted/teded_en_all_2017-10.zim"
+    size: 21846639167
+    sha256sum: "0921826684025a6a982b37185b660fc998e69edea19f2b82c62229e564004d27"
+    type: zim
   gutenberg.mul:
     langid: "gutenberg.mul"
     description: "The first producer of free ebooks"
