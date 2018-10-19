@@ -307,14 +307,14 @@ all:
     langid: "tedbusiness.en"
     type: zipped-zim
   teddesign.en:
-    version: "2015-02-02"
-    size: 8752857912
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_design_2015-02.zip"
-    name: TED Design
+    version: "2016-06-26"
+    size: 10473925930
+    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_design_2016-06.zip"
+    name: TED talks - Design
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of design.
-    id: "d00795d2-eba3-14db-4674-0907ad803844"
-    sha256sum: "730123f18d256517b2a18e22bb06cd2acebdcb9e29cccd5d0ca50b4147f28f83"
+    id: "bba1733e-c3dc-05ea-24ca-5a813fd2498c"
+    sha256sum: "3ca9a740d2297bdcae9839116994a0dc855e7484c3dbb00660dfa3946b5ff3b0"
     langid: "teddesign.en"
     type: zipped-zim
   tedentertainment.en:
