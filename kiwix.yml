@@ -926,13 +926,13 @@ all:
     langid: "vikidia.en"
     description: The encyclopedia for 8 to 13-year-old children
     name: Vikidia
-    version: "2017-08-05"
+    version: "2018-10-08"
     language: "eng"
-    id: "6b4f25c6-585b-32f0-96ed-d8eb93e00e0b"
-    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_en_all_2017-08.zip"
-    size: 244803134
-    sha256sum: "4c25c9a1839c0b9ab7f457c60274276678d241db0c03f3f755eae6612119314c"
-    type: zipped-zim
+    id: "no-id"
+    url: "http://download.kiwix.org/zim/vikidia/vikidia_en_all_2018-10.zim"
+    size: 53835583
+    sha256sum: "fc04ed6ec60c26ababc5f7410edba68d506f16a8d373de1c39dfcadbdb90dc88"
+    type: zim
   wikiquote.fr:
     name: "Wikiquote"
     description: "le recueil de citations libre"
