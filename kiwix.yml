@@ -1051,7 +1051,7 @@ all:
     version: "2018-04-01"
     language: "fra"
     id: "98a4f674-98e3-74e3-ab77-650214439e01"
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+ekopedia_fr_all_2018-04.zip"
-    size: 220045208
-    sha256sum: "9b396ceaa0c5ebe613b02adc3489eadd9a84f654c4b0c1aa3f50d0cb15cc835b"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/other/ekopedia_fr_all_2018-10.zim"
+    size: 17956063
+    sha256sum: "95e123960e54df5bc6f003e1c40b350535a109ae5e9b04a24083ea27487c8b18"
+    type: zim
