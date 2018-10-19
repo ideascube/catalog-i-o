@@ -340,14 +340,14 @@ all:
     langid: "tedglobalissues.en"
     type: zipped-zim
   tedscience.en:
-    version: "2015-02-02"
-    size: 12273628956
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_science_2015-02.zip"
-    name: TED Science
+    version: "2016-06-26"
+    size: 14586162991
+    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_science_2016-06.zip"
+    name: TED talks - Science
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of science.
     id: "93259e75-4b88-67ca-73f1-b48e1e0876e7"
-    sha256sum: "2796e7e256d89ab7cf0191777234a51a57083996032bbf034d906ec4566cb93f"
+    sha256sum: "64d703e485ed751ad72bdd738b481b6546fefcff4136cf821276618cba56a2ac"
     langid: "tedscience.en"
     type: zipped-zim
   tedtechnology.en:
