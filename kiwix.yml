@@ -1048,7 +1048,7 @@ all:
   ekopedia.fr:
     name: "Ekopedia"
     description: "Un article de Ékopédia, l'encyclopédie pratique."
-    version: "2018-04-01"
+    version: "2018-10-11"
     language: "fra"
     id: "98a4f674-98e3-74e3-ab77-650214439e01"
     url: "http://download.kiwix.org/zim/other/ekopedia_fr_all_2018-10.zim"
