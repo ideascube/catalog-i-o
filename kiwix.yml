@@ -573,7 +573,7 @@ all:
   gutenberg.es:
     version: "2014-10-18"
     size: 414626333
-    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_es_all_10_2014.zip"
+    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_es_all_2014-10.zip"
     name: Project Gutenberg
     language: "spa"
     description: Libros electrónicos gratuitos a tu disposición.
@@ -584,7 +584,7 @@ all:
   gutenberg.de:
     version: "2014-10-18"
     size: 764131978
-    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_de_all_10_2014.zip"
+    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_de_all_2014-10.zip"
     name: Project Gutenberg
     language: "deu"
     description: "The first producer of free ebooks"
