@@ -362,16 +362,16 @@ all:
     langid: "tedtechnology.en"
     type: zipped-zim
   wikivoyage.fr:
-    version: "2017-03-01"
-    size: 354276201
-    url: "http://download.kiwix.org/portable/wikivoyage/kiwix-0.9+wikivoyage_fr_all_2017-03.zip"
+    version: "2018-04-17"
+    size: 183845360
+    url: "http://download.kiwix.org/zim/wikivoyage/wikivoyage_fr_all_novid_2018-06.zim"
     name: Wikivoyage
     language: "fra"
     description: "De Wikivoyage"
-    id: "013fc37e-1ed2-75b6-17e8-2e2d79f7d26b"
-    sha256sum: "6bdf45e3d941106635f429c3a2c6d29db0ec0950f6ed806f922865ac172ad25a"
+    id: "57547584-5243-2a0b-77dc-87d4537e4efa"
+    sha256sum: "cfba047ff27b9ee8d1f08ba184b12a24f2fe3454ab3ec894d479e4f94f5df4d7"
     langid: "wikivoyage.fr"
-    type: zipped-zim
+    type: zim
   wikipedia.wo:
     version: "2016-08-21"
     size: 216674180
