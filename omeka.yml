@@ -35,22 +35,22 @@ all:
     url: http://packages.ideascube.org/omeka/abuse-and-harassment-ar.zip
     version: '2017-09-25'
   abuse-and-harassment-gbv-ar:
-    description: "\"This package contains contents on child harassment, women abuse\
+    description: "This package contains contents on child harassment, women abuse\
       \ and child marriage.//\u062A\u062E\u062A\u0635 \u0647\u0630\u0647 \u0627\u0644\
       \u0631\u0632\u0645\u0629 \u0641\u064A \u0645\u0627 \u064A\u062A\u0643\u0644\u0645\
       \ \u0639\u0646 \u0627\u0644\u0639\u0646\u0641 \u0627\u0644\u0627\u0633\u0631\
       \u064A \u0627\u062A\u062C\u0627\u0647 \u0627\u0644\u0637\u0641\u0644 \u0648\u0627\
       \u0644\u0645\u0631\u0623\u0629, \u0627\u0644\u062A\u062D\u0631\u0634 \u0627\u0644\
       \u062C\u0646\u0633\u064A \u0648\u0627\u0644\u0632\u0648\u0627\u062C \u0627\u0644\
-      \u0645\u0628\u0643\u0631.\""
+      \u0645\u0628\u0643\u0631."
     language: ar
-    name: "\"Abuse and Harassment [\u0627\u0644\u0639\u0646\u0641 \u0648\u0627\u0644\
-      \u062A\u062D\u0631\u0634]\""
-    sha256sum: 835edc3a6663fdbe60493d31bb3c4f12df22d0d6fd43039590d6a2ddaf4db0a7
-    size: 187967247
+    name: "Abuse and Harassment [\u0627\u0644\u0639\u0646\u0641 \u0648\u0627\u0644\
+      \u062A\u062D\u0631\u0634]"
+    sha256sum: 00e1fe1e291910907141bddb7e06a167f11f55a40858f0c4913cb8ae11d8a6a1
+    size: 195458957
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/abuse-and-harassment-gbv-ar.zip
-    version: '2018-02-23'
+    version: '2018-10-22'
   activite-physique-enabel-fr:
     description: "Documentation \xE0 propos de l'activit\xE9 physique et du sport.\
       \ Des documents sur les bienfaits et les transformations du sport, le dopage,\
@@ -594,16 +594,16 @@ all:
     url: http://packages.ideascube.org/omeka/chemistry-ar.zip
     version: '2018-02-23'
   child-protection-ar:
-    description: "\"Child Protection documents [\u062D\u0645\u0627\u064A\u0629 \u0627\
-      \u0644\u0637\u0641\u0644]\""
+    description: "Child Protection documents [\u062D\u0645\u0627\u064A\u0629 \u0627\
+      \u0644\u0637\u0641\u0644]"
     language: ar
-    name: "\"Child Protection [\u062D\u0645\u0627\u064A\u0629 \u0627\u0644\u0637\u0641\
-      \u0644]\""
-    sha256sum: d29771e59b1700dbb20884de1ddd14d667dae689400d54cc27c9d80010ba7556
-    size: 14946600
+    name: "Child Protection [\u062D\u0645\u0627\u064A\u0629 \u0627\u0644\u0637\u0641\
+      \u0644]"
+    sha256sum: 3f4aba367b0080f2c7673d670f0ee4d249783c22d2f4c8c36204e9a4849effae
+    size: 156001742
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/child-protection-ar.zip
-    version: '2018-02-23'
+    version: '2018-10-22'
   citoyennete-enabel-fr:
     description: "Documentation pour se former \xE0 la th\xE9matique de la citoyennet\xE9\
       . Vous trouvez des documents comme le \"Financement participatif\" \"Innover\
@@ -1160,21 +1160,21 @@ all:
     url: http://packages.ideascube.org/omeka/diy-construire-des-installations-en-foret-sikana-fr.zip
     version: '2018-09-20'
   diy-handcrafts-and-arts-ar:
-    description: "\"Learn how to do useful objects for yourself, your kids, your friends,\
+    description: "Learn how to do useful objects for yourself, your kids, your friends,\
       \ and home accessories.// \u062A\u0639\u0644\u0645 \u0643\u064A\u0641\u064A\u0629\
       \ \u0639\u0645\u0644 \u0627\u0644\u062D\u0631\u0641 \u0627\u0644\u064A\u062F\
       \u0648\u064A\u0629 \u0627\u0644\u0645\u0641\u064A\u062F\u0629 \u0644\u0643,\
       \ \u0644\u0627\u0637\u0641\u0627\u0644\u0643, \u0644\u0628\u064A\u062A\u0643\
       \ \u0648 \u0644\u0627\u0635\u062F\u0642\u0627\u0626\u0643.\r\n\r\nChildren,\
-      \ Teenagers, Adults\r\nar, en, fr\""
+      \ Teenagers, Adults\r\nar, en, fr"
     language: ar
-    name: "\"DIY handcrafts and Arts [\u062D\u0631\u0641 \u064A\u062F\u0648\u064A\u0629\
-      \ \u0648\u0641\u0646\u0648\u0646]\""
-    sha256sum: 8070f4ceb0b5a44da693bd8871edbc4829db9587e3ccba5fb96ea29088b7386f
-    size: 3152876263
+    name: "DIY handcrafts and Arts [\u062D\u0631\u0641 \u064A\u062F\u0648\u064A\u0629\
+      \ \u0648\u0641\u0646\u0648\u0646]"
+    sha256sum: ff3ffb80d0c29ca5e5a4ebab42e7cce7bd3ffaba766c0c18cebe5355acf72642
+    size: 3159445723
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/diy-handcrafts-and-arts-ar.zip
-    version: '2018-02-23'
+    version: '2018-10-22'
   diy-handcrafts-ar:
     description: "Learn how to do useful objects for yourself, your kids, your friends,\
       \ and home accessories.// \u062A\u0639\u0644\u0645 \u0643\u064A\u0641\u064A\u0629\
@@ -1505,6 +1505,23 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/entertainment-music-en-en.zip
     version: '2018-09-10'
+  entrepreneurship-business-management-ar:
+    description: "This package focuses on tips and developing a creative state of\
+      \ mind for managing your business./ \u0645\u0639\u0644\u0648\u0645\u0627\u062A\
+      \ \u0645\u0641\u064A\u062F\u0629 \u0639\u0646 \u0627\u062F\u0627\u0631\u0629\
+      \ \u0627\u0644\u0627\u0639\u0645\u0627\u0644, \u0627\u0644\u062A\u062D\u062F\
+      \u064A\u0627\u062A,\u0627\u0644\u062D\u0644\u0648\u0644 \u0648\u062A\u0637\u0648\
+      \u064A\u0631 \u0627\u0644\u0641\u0643\u0631 \u0627\u0644\u0627\u0628\u062F\u0627\
+      \u0639\u064A \u0644\u062F\u0649 \u0627\u0644\u0634\u062E\u0635."
+    language: ar
+    name: "Entrepreneurship & Business Management [\u0627\u062F\u0627\u0631\u0629\
+      \ \u0627\u0644\u0627\u0639\u0645\u0627\u0644 \u0648\u0627\u0644\u0641\u0643\u0631\
+      \ \u0627\u0644\u0627\u0628\u062F\u0627\u0639\u064A]"
+    sha256sum: 8e36f2e7ce7d8c8c94bf29c3596b0f7918ead74c909618e23469fd73bfe534bf
+    size: 975931435
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/entrepreneurship-business-management-ar.zip
+    version: '2018-10-22'
   esparcimiento-colsubsidio-es:
     description: '-'
     language: es
@@ -1901,11 +1918,11 @@ all:
     language: ar
     name: "Girl Talk - Puberty [\u0643\u0644\u0627\u0645 \u0628\u0646\u0627\u062A\
       \ - \u0633\u0646 \u0627\u0644\u0628\u0644\u0648\u063A]"
-    sha256sum: 6d7d08af1874ccd622e7d918c4487d3b45aa5ceceee5f057df589d400e4ff503
-    size: 61116128
+    sha256sum: cf94d8febe6230dd26b5568b74a975a35cae2c484ec122d8f61f2937b8e42ff5
+    size: 68607075
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/girl-talk-puberty-ar.zip
-    version: '2017-10-17'
+    version: '2018-10-22'
   greek-mythology-en:
     description: Who is Hercules? Who is Zeus? Or Athena? Discover the great stories
       of the greek mythology with these videos.
@@ -2864,11 +2881,11 @@ all:
     language: ar
     name: "Let's Speak Arabic [\u0644\u0646\u062A\u0643\u0644\u0645 \u0627\u0644\u0639\
       \u0631\u0628\u064A\u0629]"
-    sha256sum: e5b10140c10dac7c4474e3e568a4dfc151fc10e8deddb83b5fc4c4cc04fb38c5
-    size: 83924175
+    sha256sum: f6a686b8f46ada279bccec5e717cb517b6478b89c8e4815b75fcf006863816de
+    size: 262443750
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/let-s-speak-arabic-ar.zip
-    version: '2017-10-17'
+    version: '2018-10-22'
   let-s-speak-english-ar:
     description: "\"Learn English with these simple videos; new useful vocab and expressions.\
       \ .// \u062A\u0639\u0644\u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\
@@ -2974,11 +2991,11 @@ all:
       \u062A \u0644\u0644\u0627\u0637\u0641\u0627\u0644"
     language: ar
     name: "Mathematics [\u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0627\u062A]"
-    sha256sum: 712fa5a24cc823cab83b8906b69aa8f9eda2dfa5755459887520e54cd823ee95
-    size: 64587258
+    sha256sum: 03676b23995bbbe43150edf1463e32fcf05cc7b42a95361ba6b618c03f7cb842
+    size: 685228417
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mathematics-ar.zip
-    version: '2017-10-17'
+    version: '2018-10-22'
   maths-el-el:
     description: "\u0391\u03BD\u03B1\u03BA\u03AC\u03BB\u03C5\u03C8\u03B5 \u03C4\u03B9\
       \u03C2 \u03B2\u03B1\u03C3\u03B9\u03BA\u03AD\u03C2 \u03BC\u03B1\u03B8\u03B7\u03BC\
@@ -3180,16 +3197,16 @@ all:
     url: http://packages.ideascube.org/omeka/non-violent-communication-en.zip
     version: '2018-09-04'
   novels-for-youth-ar:
-    description: "\"Novels for Youth. /\u0631\u0648\u0627\u064A\u0627\u062A \u0644\
-      \u0644\u064A\u0627\u0641\u0639\u064A\u0646\""
+    description: "Novels for Youth. /\u0631\u0648\u0627\u064A\u0627\u062A \u0644\u0644\
+      \u064A\u0627\u0641\u0639\u064A\u0646"
     language: ar
-    name: "\"Novels for Youth [\u0631\u0648\u0627\u064A\u0627\u062A \u0644\u0644\u064A\
-      \u0627\u0641\u0639\u064A\u0646]\""
-    sha256sum: 20881d871a6645dc00757a0beab6b1a3929b95fa02d209a323a753e34adb74cc
-    size: 306372245
+    name: "Novels for Youth [\u0631\u0648\u0627\u064A\u0627\u062A \u0644\u0644\u064A\
+      \u0627\u0641\u0639\u064A\u0646]"
+    sha256sum: b2520461d5a7e506f3683ba646ac5fb8a023855b22b836d3a54e992cb1f5f884
+    size: 842343152
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/novels-for-youth-ar.zip
-    version: '2018-02-23'
+    version: '2018-10-22'
   numerique-et-bidouille-informatique-fr:
     description: "Acqu\xE9rir les bases de la programmation et de la robotique gr\xE2\
       ce \xE0 l'utilisation d'outils."
@@ -3318,11 +3335,11 @@ all:
     language: ar
     name: "Philosophy of Language [\u0641\u0644\u0633\u0641\u0629 \u0627\u0644\u0644\
       \u063A\u0629]"
-    sha256sum: 6a60044e4e9562162859667da7d4df960096147933e6c76132a71559cc5adff4
-    size: 33057408
+    sha256sum: 55022559ca3a2be34c225e4744a64eb008252cca123cc1d9cc5a65150c052897
+    size: 33057630
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/philosophy-of-language-ar.zip
-    version: '2017-08-30'
+    version: '2018-10-22'
   photography-ar:
     description: "\u062A\u0639\u0644\u0645 \u0639\u0646 \u0627\u0633\u0627\u0633\u064A\
       \u0627\u062A \u0627\u0644\u062A\u0635\u0648\u064A\u0631 \u0648\u0643\u064A\u0641\
@@ -3336,19 +3353,19 @@ all:
     url: http://packages.ideascube.org/omeka/photography-ar.zip
     version: '2018-05-25'
   physics-ar:
-    description: "\"Learn about the basics of physics and how we use  it in our daily\
+    description: "Learn about the basics of physics and how we use  it in our daily\
       \ life and tools.// \u062A\u0639\u0644\u0645 \u0627\u0633\u0627\u0633\u064A\u0627\
       \u062A \u0627\u0644\u0641\u064A\u0632\u064A\u0627\u0621 \u0648\u0645\u0627 \u0647\
       \u064A \u0627\u0641\u0627\u062F\u0627\u062A\u0647\u0627 \u0648\u0643\u064A\u0641\
       \ \u062A\u0633\u062A\u062E\u062F\u0645 \u0628\u062D\u064A\u0627\u062A\u0646\u0627\
-      \  \u0627\u0644\u064A\u0648\u0645\u064A\u0629.\""
+      \  \u0627\u0644\u064A\u0648\u0645\u064A\u0629."
     language: ar
-    name: "\"Physics [\u0627\u0644\u0641\u064A\u0632\u064A\u0627\u0621]\""
-    sha256sum: 1ccf50be71289d5b4946ade0d1f2d2566f7aa283a5e97adbe467064466f8283f
-    size: 359210320
+    name: "Physics [\u0627\u0644\u0641\u064A\u0632\u064A\u0627\u0621]"
+    sha256sum: 0f67d7d474876d3582412d5253b2895188682f400228daaed232e37e1c7fbf8a
+    size: 830718998
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/physics-ar.zip
-    version: '2018-02-23'
+    version: '2018-10-22'
   poetry-ar:
     description: "\"Poetry collection.//\u0623\u0639\u0645\u0627\u0644 \u0634\u0639\
       \u0631\u064A\u0629\""
@@ -3716,11 +3733,11 @@ all:
     language: ar
     name: "Self Development [\u062A\u0637\u0648\u064A\u0631 \u0627\u0644\u0630\u0627\
       \u062A]"
-    sha256sum: 8b66da3e1c7b5efdcf6077acf6a64015663a2d2c97e7ec29cd39fd81221d9596
-    size: 3241233251
+    sha256sum: 06a4e30d5198af64283ffb186d3971ad03abcf80eae51d0400335d16f3de32ae
+    size: 3331598799
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/self-development-ar.zip
-    version: '2018-09-04'
+    version: '2018-10-22'
   self-development-computers-en-urd-ur:
     description: "Bilingual package english and urdu.\r\nComputers for beginners:\
       \ Learning the basics on hardware and software."
@@ -3907,11 +3924,11 @@ all:
       \u0636\u0627\u0621 \u0627\u0644\u0648\u0627\u0633\u0639"
     language: ar
     name: "Space Science [\u0639\u0644\u0645 \u0627\u0644\u0641\u0636\u0627\u0621]"
-    sha256sum: 7c66ab4f98ae3eeae37d00924abbd8bbe68c4451ebb1d76dacaed0e38f0c0c22
-    size: 385530717
+    sha256sum: 3615f26a93785352b9a12dda4d9842fedf8315356c86701451ab71805990eb56
+    size: 394456466
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/space-science-ar.zip
-    version: '2018-05-25'
+    version: '2018-10-22'
   sport-football-fr:
     description: "Vous souhaitez vous perfectionner en football ? D\xE9couvrir un\
       \ nouveau sens au mot \"sport\" ? C'est ici !"
@@ -4166,11 +4183,11 @@ all:
     language: ar
     name: "Women Empowerment [\u062A\u0639\u0632\u064A\u0632 \u0627\u0644\u0645\u0631\
       \u0627\u0629]"
-    sha256sum: a72340c5dfd070b787286ef7bd763bd8673b79f632fa41343fed130bea7a4773
-    size: 133081275
+    sha256sum: 154271ce7dba031675c4601d4597e30afca5685e6d0dbad0bd879f5989032557
+    size: 203079240
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/women-empowerment-ar.zip
-    version: '2018-03-16'
+    version: '2018-10-22'
   women-in-african-history-en:
     description: '"This series highlights some of the contributions of key women figures
       to the history of Africa. This list is far from exhaustive but will walk the
