@@ -432,6 +432,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/audiobooks-et-fictions-sonores-fr.zip
     version: '2018-01-18'
+  ballet-picks-ar:
+    description: A collection of famous ballet shows.
+    language: ar
+    name: "Ballet Picks [\u0645\u062E\u062A\u0627\u0631\u0627\u062A \u0627\u0644\u0628\
+      \u0627\u0644\u064A\u0629]"
+    sha256sum: 0c28930cbf1fc6ecda354dd1a345c12d771745e9245c2b6df0bbbafa3aa97837
+    size: 219627489
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ballet-picks-ar.zip
+    version: '2018-11-05'
   being-prepared-in-case-of-a-major-disaster-en:
     description: In this program you will learn the correct safety precautions and
       techniques to adopt when faced with a major disaster in order to stay calm and
@@ -493,17 +503,17 @@ all:
     url: http://packages.ideascube.org/omeka/biologie-enfants-fr.zip
     version: '2018-08-28'
   biology-ar:
-    description: "\"Learn general information about Biology.// \u062A\u0639\u0644\u0645\
+    description: "Learn general information about Biology.// \u062A\u0639\u0644\u0645\
       \ \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u0639\u0627\u0645\u0629 \u0639\
       \u0646 \r\n\u0627\u0644\u0628\u064A\u0648\u0644\u0648\u062C\u064A\u0627\r\n\
-      Kids, Teenagers, Adults\""
+      Kids, Teenagers, Adults"
     language: ar
-    name: "\"Biology [\u0628\u064A\u0648\u0644\u0648\u062C\u064A\u0627]\""
-    sha256sum: 85f77c82fdc8eb381e34586bf459a2e6ae6670b985cbbd8c008734413677b275
-    size: 150905735
+    name: "Biology [\u0628\u064A\u0648\u0644\u0648\u062C\u064A\u0627]"
+    sha256sum: c9140aed5de639634e078179283f3a4f6783d70b563fda492ef3ee82e0be6cdd
+    size: 284683971
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/biology-ar.zip
-    version: '2018-02-23'
+    version: '2018-11-05'
   business-management-ar:
     description: "This package focuses on tips and developing a creative state of\
       \ mind for managing your business./ \u0645\u0639\u0644\u0648\u0645\u0627\u062A\
@@ -562,18 +572,18 @@ all:
     url: http://packages.ideascube.org/omeka/cartoons-and-tales-fa.zip
     version: '2017-10-04'
   cartoons-ar:
-    description: "\"Enjoy classic cartoons in arabic!// \u0634\u0627\u0647\u062F \u0627\
+    description: "Enjoy classic cartoons in arabic!// \u0634\u0627\u0647\u062F \u0627\
       \u0641\u0644\u0627\u0645 \u0643\u0631\u062A\u0648\u0646 \u0643\u0644\u0627\u0633\
       \u064A\u0643\u0633\u0629 \u0645\u0633\u0644\u064A\u0629 \u0628\u0627\u0644\u0639\
-      \u0631\u0628\u064A\""
+      \u0631\u0628\u064A"
     language: ar
-    name: "\"Cartoons [\u0627\u0641\u0644\u0627\u0645 \u0643\u0631\u062A\u0648\u0646\
-      ]\""
-    sha256sum: ec054701e5765c32e28b98f5d7f6c968f393fda2e7dc8f4f6c85fec9b9eb1465
-    size: 9603936338
+    name: "Cartoons [\u0627\u0641\u0644\u0627\u0645 \u0643\u0631\u062A\u0648\u0646\
+      ]"
+    sha256sum: 7b43fcabcb60e843d05e187ca6ed390209d3b7ce5c7e4892f12f3c5646dc9bdf
+    size: 10366433509
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cartoons-ar.zip
-    version: '2018-02-23'
+    version: '2018-11-05'
   cartoons-en:
     description: Have fun with these cartoons featuring well-known characters!
     language: en
@@ -706,11 +716,11 @@ all:
     language: ar
     name: "Computer and IT [\u0643\u0645\u0628\u064A\u0648\u062A\u0631 \u0648\u062A\
       \u0643\u0646\u0648\u0644\u0648\u062C\u064A\u0627]"
-    sha256sum: 6a06f78746d85d1a6a9e41ba8b13f39240b6c3c8ec93821e36d39e0219e443af
-    size: 46529994
+    sha256sum: 4e4ed70023ee851b9c4425da723a6f3e094ecc83bf54f3e063654cce4d09e3d0
+    size: 67539583
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/computer-and-it-ar.zip
-    version: '2018-05-25'
+    version: '2018-11-05'
   connaissance-des-droits-universels-fr:
     description: "Connaissez vous vos droits fondamentaux et universels ? C'est le\
       \ moment de les red\xE9couvrir afin de les maitriser pour mieux vous d\xE9fendre\
@@ -1216,11 +1226,11 @@ all:
     language: ar
     name: "Awareness and Protection [\u0627\u0644\u0648\u0639\u064A \u0648\u0627\u0644\
       \u062D\u0645\u0627\u064A\u0629]"
-    sha256sum: 5c3a4d9476ef91e9ea70e135299dbe973badce23a5aa2214dfdc55800a3557ec
-    size: 250739379
+    sha256sum: a9a65a56d2ad4e659cdc796c7f8b3a05e33538964256255c63f02ab37be859c7
+    size: 5474036622
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/dpc-awareness-and-protection-ar.zip
-    version: '2018-05-25'
+    version: '2018-11-05'
   drawing-colouring-en:
     description: Learn how to draw, colour, make graffiti, become an artist !
     language: en
@@ -1517,11 +1527,11 @@ all:
     name: "Entrepreneurship & Business Management [\u0627\u062F\u0627\u0631\u0629\
       \ \u0627\u0644\u0627\u0639\u0645\u0627\u0644 \u0648\u0627\u0644\u0641\u0643\u0631\
       \ \u0627\u0644\u0627\u0628\u062F\u0627\u0639\u064A]"
-    sha256sum: 8e36f2e7ce7d8c8c94bf29c3596b0f7918ead74c909618e23469fd73bfe534bf
-    size: 975931435
+    sha256sum: 45451ccd4c9f528fd667417ad84a1968693a8052c4498f3773d6441a0a479c85
+    size: 1016394611
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/entrepreneurship-business-management-ar.zip
-    version: '2018-10-22'
+    version: '2018-11-05'
   esparcimiento-colsubsidio-es:
     description: '-'
     language: es
@@ -1974,19 +1984,19 @@ all:
     url: http://packages.ideascube.org/omeka/harcelement-enfants-fr.zip
     version: '2018-08-27'
   health-and-diseases-ar:
-    description: "\"Learn about certain diseases and how to prevent them.// \u0627\
-      \u0639\u0631\u0641 \u0627\u0643\u062B\u0631 \u0639\u0646 \u0628\u0639\u0636\
-      \ \u0627\u0644\u0627\u0645\u0631\u0627\u0636 \u0648\u0643\u064A\u0641 \u064A\
-      \u0645\u0643\u0646\u0643 \u062D\u0645\u0627\u064A\u0629 \u0646\u0641\u0633\u0643\
-      \ \u0645\u0646\u0647\u0627.\r\n\r\nTeenagers, Adults\""
+    description: "Learn about certain diseases and how to prevent them.// \u0627\u0639\
+      \u0631\u0641 \u0627\u0643\u062B\u0631 \u0639\u0646 \u0628\u0639\u0636 \u0627\
+      \u0644\u0627\u0645\u0631\u0627\u0636 \u0648\u0643\u064A\u0641 \u064A\u0645\u0643\
+      \u0646\u0643 \u062D\u0645\u0627\u064A\u0629 \u0646\u0641\u0633\u0643 \u0645\u0646\
+      \u0647\u0627.\r\n\r\nTeenagers, Adults"
     language: ar
-    name: "\"Health and Diseases [\u0627\u0644\u0635\u062D\u0629 \u0648\u0627\u0644\
-      \u0627\u0645\u0631\u0627\u0636]\""
-    sha256sum: 1d94074debb8fc383cc785bf6f60ada607146a096f6fe58b7538fa7a0ac2bb57
-    size: 117279223
+    name: "Health and Diseases [\u0627\u0644\u0635\u062D\u0629 \u0648\u0627\u0644\u0627\
+      \u0645\u0631\u0627\u0636]"
+    sha256sum: 8b1b0bd93cefd018ac5f747f28a976b1174a25484c60f211533d3901d3d80328
+    size: 124925409
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-and-diseases-ar.zip
-    version: '2018-02-23'
+    version: '2018-11-05'
   health-and-hygiene-en:
     description: Learn how to have a safe behavior and prevent contagious situations
       !   To complete this package, you will find a lot of other videos in the application
@@ -2881,11 +2891,11 @@ all:
     language: ar
     name: "Let's Speak Arabic [\u0644\u0646\u062A\u0643\u0644\u0645 \u0627\u0644\u0639\
       \u0631\u0628\u064A\u0629]"
-    sha256sum: f6a686b8f46ada279bccec5e717cb517b6478b89c8e4815b75fcf006863816de
-    size: 262443750
+    sha256sum: be619d641dd454da7d39bce0f217f1f077e819607406547ad7b67e6f1ffe284e
+    size: 302355549
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/let-s-speak-arabic-ar.zip
-    version: '2018-10-22'
+    version: '2018-11-05'
   let-s-speak-english-ar:
     description: "\"Learn English with these simple videos; new useful vocab and expressions.\
       \ .// \u062A\u0639\u0644\u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\
@@ -3924,11 +3934,11 @@ all:
       \u0636\u0627\u0621 \u0627\u0644\u0648\u0627\u0633\u0639"
     language: ar
     name: "Space Science [\u0639\u0644\u0645 \u0627\u0644\u0641\u0636\u0627\u0621]"
-    sha256sum: 3615f26a93785352b9a12dda4d9842fedf8315356c86701451ab71805990eb56
-    size: 394456466
+    sha256sum: b2d6f93c311b6e27831ac87d86b9af2a8553bcaefddde90be1bfbc36e693c2ce
+    size: 467847180
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/space-science-ar.zip
-    version: '2018-10-22'
+    version: '2018-11-05'
   sport-football-fr:
     description: "Vous souhaitez vous perfectionner en football ? D\xE9couvrir un\
       \ nouveau sens au mot \"sport\" ? C'est ici !"
@@ -3961,6 +3971,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sports-enfants-ados-fr.zip
     version: '2018-08-27'
+  talented-thinker-club-en:
+    description: Short animation movies that carry a meaningful message.
+    language: en
+    name: "Talented & Thinker Club [\u0645\u0648\u0647\u0648\u0628 \u0648\u0645\u0641\
+      \u0643\u0631]"
+    sha256sum: 09ecd53dab6bbe813007ed941918f3ea685057a2097041b3fa95f6d4b03bb2de
+    size: 698742504
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/talented-thinker-club-en.zip
+    version: '2018-11-05'
   tales-for-kids-ar:
     description: "\"A variety of fun and cultivating tales for kids. /\u0642\u0635\
       \u0635 \u0645\u0646\u0648\u0639\u0629 \u0627\u062F\u0628\u064A\u0629 \u0645\u0646\
