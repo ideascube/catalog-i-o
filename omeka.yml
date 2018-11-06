@@ -2240,6 +2240,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-a-l-electricite-sikana-fr.zip
     version: '2018-03-01'
+  introduction-a-la-biologie-et-a-la-chimie-fr:
+    description: "Cette collection de contenus comprend des vid\xE9os et des entretiens\
+      \ de chercheurs sur des domaines vari\xE9s de la biologie et de la chimie :\
+      \ de la biologie mol\xE9culaire aux neurosciences. Elle s'adresse aux \xE9tudiants\
+      \ en biologie, en chimie, en m\xE9decine et en soins infirmiers."
+    language: fr
+    name: "Introduction \xE0 la biologie et \xE0 la chimie"
+    sha256sum: 5b0b00777998502eba3b22345445b0552268cda31b1331f64bad1877df6e15e7
+    size: 79212207
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/introduction-a-la-biologie-et-a-la-chimie-fr.zip
+    version: '2018-11-06'
   introduction-a-la-biologie-fr:
     description: "Cette collection de contenus comprend des vid\xE9os et des entretiens\
       \ de chercheurs sur des domaines vari\xE9s de la biologie et de la chimie :\
@@ -2252,6 +2264,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-a-la-biologie-fr.zip
     version: '2018-01-18'
+  introduction-a-la-physique-fr:
+    description: "Cette collection de contenus comprend des vid\xE9os et des entretiens\
+      \ de chercheurs sur des domaines vari\xE9s de la physique"
+    language: fr
+    name: Physique
+    sha256sum: 54a944bb38354aa0234b5403c134aab4f842b28751822c25c3f4a344381eb0b3
+    size: 1873362716
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/introduction-a-la-physique-fr.zip
+    version: '2018-11-06'
   introduction-aux-droits-de-l-homme-fr:
     description: "Les m\xE9canismes de mise en \u0153uvre des droits de l'homme\r\n\
       Un MOOC de l'Universit\xE9 de Gen\xE8ve"
