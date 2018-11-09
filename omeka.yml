@@ -566,11 +566,11 @@ all:
     description: Cartoons and tales for children in farsi language !
     language: fa
     name: "\u06A9\u0627\u0631\u062A\u0648\u0646 [Cartoons and tales]"
-    sha256sum: 8298db029d76304c2f348da740382ef960703684efe376663004ac353713afdd
-    size: 3293738039
+    sha256sum: 5dd469de506b253ab8db7fea94a63655227063d04b20c509f8de070fb6d5ae2d
+    size: 3357488269
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cartoons-and-tales-fa.zip
-    version: '2017-10-04'
+    version: '2018-11-09'
   cartoons-ar:
     description: "Enjoy classic cartoons in arabic!// \u0634\u0627\u0647\u062F \u0627\
       \u0641\u0644\u0627\u0645 \u0643\u0631\u062A\u0648\u0646 \u0643\u0644\u0627\u0633\
