@@ -1104,11 +1104,11 @@ all:
       dances!
     language: en
     name: Discovering Ballet
-    sha256sum: dc3f1b5002417ca15c9bad6022291969b54fb3e42c823cc620289e2bf8655f92
+    sha256sum: aebe8d8a9e88ae002c82bbd99a36647e0bbd046308f1b10b1cdef086f47efb9c
     size: 219627489
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discovering-ballet-en.zip
-    version: '2018-09-28'
+    version: '2018-11-09'
   discriminations-enfants-ados-fr:
     description: "On est tous diff\xE9rents, mais tous des \xEAtres humains ! Pour\
       \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
@@ -1148,11 +1148,11 @@ all:
       this without words!
     language: en
     name: DIY Cardboard Creativity
-    sha256sum: f9fadfe54e00e7f37b5a7ac86c3c85e55582e7810a91b12129a58c1f9096722c
+    sha256sum: 7552b356349c289dcb7af3c8a88c687dc48aa9c0bb4b66f3c4ef2f054538112d
     size: 1078827345
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/diy-cardboard-creativity-en.zip
-    version: '2018-09-28'
+    version: '2018-11-09'
   diy-construire-des-installations-en-foret-sikana-fr:
     description: "Une trentaine de vid\xE9os vous apprendront tout ce qu'il faut savoir\
       \ pour construire vos propres constructions de bois.\r\nVous d\xE9couvrirez\
@@ -3879,11 +3879,11 @@ all:
     description: Discover beautiful short films that tell stories without words!
     language: en
     name: Silent Animated Movies
-    sha256sum: 259d6618b587058fa90a2c5fd8841d7098bff636ed6bbcb58e7bc0e636b6df7f
+    sha256sum: eee4aa5d49795839b6c24c0a0fce5e95d850ed3ad95bfebb67b06cf9f7e3608e
     size: 197704629
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/silent-animated-movies-en.zip
-    version: '2018-09-28'
+    version: '2018-11-09'
   silent-movies-en:
     description: An image is worth a thousand words. These movies will prove the truth
       of this proverb. From Metropolis to the iconic Charlie Chaplin movies, rediscover
