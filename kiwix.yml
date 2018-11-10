@@ -396,7 +396,7 @@ all:
     name: ﻭیکی<200c>پﺩیﺍ
     language: "fas"
     description: "ﺍﺯ ﻭیکی<200c>پﺩیﺍ، ﺩﺎﻨﺸﻧﺎﻤﻫٔ ﺁﺯﺍﺩ"
-    sha256sum: "f22a71bbc2734649a8e0ff70f9cdd3e6e89dc6633f10c433ce5840811b6d26be"
+    sha256sum: "936afc3b8226860b85b5ae64a0611b41bd93c353969fbf1ac3107d858afee2b9"
     langid: "wikipedia.fa"
     type: zim
   wikipedia.ar:
@@ -586,7 +586,7 @@ all:
     name: Βικιπαίδεια
     language: "ell"
     description: "Από τη Βικιπαίδεια, την ελεύθερη εγκυκλοπαίδεια"
-    sha256sum: "dd25baef76dd33ed6185578e2d32878b6748f95f7d2e41ba1793c57f844d490a"
+    sha256sum: "77d2b8ec56f1a591d672ccf219b0eb1c652f42da33005a37329657027dbfb05d"
     langid: "wikipedia.el"
     type: zim
   wikipedia.ps:
@@ -655,9 +655,9 @@ all:
     name: Βικιθήκη
     version: "2018-06-11"
     language: "ell"
-    url: "c79f2ec806a41c2c9e690f3538912631a4c8fa906086b248215714f1030b84d0"
+    url: "http://download.kiwix.org/zim/wikisource/wikisource_el_all_novid_2018-06.zim"
     size: 152654140
-    sha256sum: "210685ad392f7282e05332f192874b081cac93eac95ee2aaafbeabd351206c0a"
+    sha256sum: "c79f2ec806a41c2c9e690f3538912631a4c8fa906086b248215714f1030b84d0"
     type: zim
   wikisource.fa:
     langid: "wikisource.fa"
