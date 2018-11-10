@@ -694,13 +694,12 @@ all:
     langid: "wikibooks.fa"
     description: "ﻭیکی<200e>کﺕﺎﺑ، کﺕﺎﺒﺧﺎﻨﻫٔ ﺁﺯﺍﺩ"
     name: ﻭیکی<200c>کﺕﺎﺑ
-    version: "2017-02-14"
+    version: "2018-06-07"
     language: "fas"
-    id: "45f37502-e569-90ef-e1a3-37b4b8b5926d"
-    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_fa_all_2017-02.zip"
-    size: 242842951
-    sha256sum: "542a83bdabcb1ef194bd1d79274b038860c394b2b06e6f16a4dd7e8fdce7f4c5"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wikibooks/wikibooks_fa_all_novid_2018-06.zim"
+    size: 53850979
+    sha256sum: "b1b979879c1548b6cf6db2d315a50a925bc0f846d48970782aee604c98707684"
+    type: zim
   wikibooks.el:
     langid: "wikibooks.el"
     description: "Από Βικιβιβλία"
