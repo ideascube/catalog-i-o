@@ -604,16 +604,15 @@ all:
     langid: "wikipedia.de"
     type: zipped-zim
   wikibooks.ar:
-    version: "2016-12-04"
-    size: 225769695
-    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_ar_all_2016-12.zip"
+    version: "2018-10-10"
+    size: 18900837
+    url: "http://download.kiwix.org/zim/wikibooks/wikibooks_ar_all_novid_2018-10.zim"
     name: "ويكي المكتبة"
     language: "ara"
     description: "الموسوعة المكتبية الحرة"
-    id: "c44c2074-b111-2e83-4b27-3f697d4cd259"
-    sha256sum: "118d7654a92658ddf48096d70b21dce986953e2f386696c9802ceb41b41496f2"
+    sha256sum: "0575c94a67debc7c177087802e28635a2630059724f08f43e0d740a758286613"
     langid: "wikibooks.ar"
-    type: zipped-zim
+    type: zim
   wikisource.ar:
     version: "2017-02-20"
     size: 902340932
