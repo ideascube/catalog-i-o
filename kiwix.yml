@@ -742,13 +742,12 @@ all:
     langid: "wikiquote.el"
     description: "Από Βικιφθέγματα"
     name: Βικιφθέγματα
-    version: "2017-07-26"
+    version: "2018-06-17"
     language: "ell"
-    id: "970e7b1c-e2b7-cf04-5a64-77a20df3c383"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_el_all_novid_2017-07.zip"
-    size: 204308245
-    sha256sum: "05fa32bd4ec3e4713d3eb05022dfd9c7cc167a6ad6c38e61486c6d3292861cbb"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wikiquote/wikiquote_el_all_novid_2018-06.zim"
+    size: 8289862
+    sha256sum: "742cb30a690ef6122cd90c66342ef90c0e289ce6c569e74aa3830067d0444e5b"
+    type: zim
   biologie-tout-compris.fr:
     langid: "biologie-tout-compris.fr"
     description: "Uploads from Tania Louis videos"
