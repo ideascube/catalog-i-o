@@ -428,16 +428,15 @@ all:
     langid: "gutenberg.pt"
     type: zipped-zim
   wikipedia.fa:
-    version: "2016-12-01"
-    size: 5529781854
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_fa_all_2016-11.zip"
+    version: "2018-07-14"
+    size: 7839199638
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_fa_all_novid_2018-07.zim"
     name: ﻭیکی<200c>پﺩیﺍ
     language: "fas"
     description: "ﺍﺯ ﻭیکی<200c>پﺩیﺍ، ﺩﺎﻨﺸﻧﺎﻤﻫٔ ﺁﺯﺍﺩ"
-    id: "85140813-b811-fccb-b2e7-2e046a54d4ef"
     sha256sum: "f22a71bbc2734649a8e0ff70f9cdd3e6e89dc6633f10c433ce5840811b6d26be"
     langid: "wikipedia.fa"
-    type: zipped-zim
+    type: zim
   wikipedia.ar:
     version: "2018-09-09"
     size: 8888226692
