@@ -649,16 +649,15 @@ all:
     langid: "wikipedia.ps"
     type: zim
   wiktionary.el:
-    version: "2017-03-02"
-    size: 410619187
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_el_all_2017-03.zip"
+    version: "2018-10-24"
+    size: 341624825
+    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_el_all_novid_2018-10.zim"
     name: Βικιλεξικό
     language: "ell"
     description: "Από Βικιλεξικό"
-    id: "b367b394-17db-6fbd-f49b-691b42e83636"
-    sha256sum: "1815bd5185fbbfe2196052514a4b2fdfde4dda978a416c44e29ad099e1c809ef"
+    sha256sum: "c34bd6536e88dbc8557e2d4692969abd24db6033c0410edf6ca1d401a6510e73"
     langid: "wiktionary.el"
-    type: zipped-zim
+    type: zim
   wiktionary.ps:
     langid: "wiktionary.ps"
     description: "ﺩ ﻮﻳکﻲﺴﻴﻧﺩ ﻞﺧﻭﺍ"
