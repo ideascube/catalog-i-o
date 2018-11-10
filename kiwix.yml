@@ -635,16 +635,15 @@ all:
     langid: "wikiquote.ar"
     type: zipped-zim
   wikipedia.el:
-    version: "2016-12-15"
-    size: 2517236867
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_el_all_2016-12.zip"
+    version: "2018-09-17"
+    size: 2990402611
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_el_all_novid_2018-10.zim"
     name: Βικιπαίδεια
     language: "ell"
     description: "Από τη Βικιπαίδεια, την ελεύθερη εγκυκλοπαίδεια"
-    id: "9a8027bf-d92b-f8ee-12bd-ac75a804bcd9"
     sha256sum: "dd25baef76dd33ed6185578e2d32878b6748f95f7d2e41ba1793c57f844d490a"
     langid: "wikipedia.el"
-    type: zipped-zim
+    type: zim
   wikipedia.ps:
     version: "2016-08-17"
     size: 315999656
