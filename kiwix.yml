@@ -717,13 +717,12 @@ all:
     langid: "wikisource.fa"
     description: "ﺍﺯ ﻭیکی<200c>ﻦﺒﺸﺘﻫ"
     name: ﻭیکی<200c>ﻦﺒﺸﺘﻫ
-    version: "2017-02-23"
+    version: "2018-06-12"
     language: "fas"
-    id: "752c3432-b374-9253-d992-20c2a22f120b"
-    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_fa_all_2017-02.zip"
-    size: 448704525
-    sha256sum: "f9fd9793d76b0adaf84dd1fcf4784b9da45d07fa205dbd194317c5a8cc4f99b3"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wikisource/wikisource_fa_all_novid_2018-06.zim"
+    size: 148323761
+    sha256sum: "53fb91fc46d9e08fded33b039bac6f44ea0255b28da5c1f394b6a0435ec88159"
+    type: zim
   wikiquote.en:
     langid: "wikiquote.en"
     description: The free quote compendium.
