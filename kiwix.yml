@@ -623,16 +623,15 @@ all:
     langid: "wikisource.ar"
     type: zipped-zim
   wikiquote.ar:
-    version: "2016-12-17"
-    size: 343439641
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_ar_all_2016-12.zip"
+    version: "2018-06-17"
+    size: 14317562
+    url: "http://download.kiwix.org/zim/wikiquote/wikiquote_ar_all_novid_2018-06.zim"
     name: "ويكي الاقتباس"
     language: "ara"
     description: "ويكي للاقتباسات المختارة"
-    id: "e580d623-505f-b133-8bdd-5e61a27600b6"
-    sha256sum: "bc70a72beb3f6c210b69c9fd215034d7da7be56f6a82fd6c248ae2f9c1b14ddf"
+    sha256sum: "e07747f1ddc8385a3e6ae5ada6665da310c1e739d6c404d4ff6b55043602247b"
     langid: "wikiquote.ar"
-    type: zipped-zim
+    type: zim
   wikipedia.el:
     version: "2018-09-17"
     size: 2990402611
