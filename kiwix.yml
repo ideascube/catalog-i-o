@@ -546,16 +546,15 @@ all:
     langid: "wiktionary.ar"
     type: zipped-zim
   wikiversity.ar:
-    version: "2016-12-18"
-    size: 340448541
-    url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_ar_all_2016-12.zip"
+    version: "2018-06-17"
+    size: 9044235
+    url: "http://download.kiwix.org/zim/wikiversity/wikiversity_ar_all_novid_2018-06.zim"
     name: "ويكي الجامعة"
     language: "ara"
     description: "من ويكي الجامعة,مركز التعليم الحر"
-    id: "f70790cb-37de-5dec-9f36-e0d5a441b22b"
-    sha256sum: "1edf25fcc60ca6b7ee17d9f9cc7ee6f7fe906233cd2d8f450f985345bf350df7"
+    sha256sum: "f932ecd80220824534c6e279e33d34f13946af8fbf642cc3fe0eba51be791462"
     langid: "wikiversity.ar"
-    type: zipped-zim
+    type: zim
   wikipedia.es:
     version: "2018-08-10"
     size: 19204380387
