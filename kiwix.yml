@@ -535,16 +535,15 @@ all:
     langid: "wiktionary.fa"
     type: zipped-zim
   wiktionary.ar:
-    version: "2016-12-10"
-    size: 361586244
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ar_all_2016-12.zip"
+    version: "2018-10-19"
+    size: 45716336
+    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_ar_all_novid_2018-10.zim"
     name: "ويكي القاموس"
     language: "ara"
     description: "من ويكي القاموس، القاموس الحر"
-    id: "719eda56-eb5d-1cf4-d539-39dea1fefe67"
-    sha256sum: "fb6a17c93d27e247f9c9b499c992544dc6a464d70c38b5b235d71090cc943ee3"
+    sha256sum: "97a8c7c0677d9bc8b589e66b6a368324bbf60c00e417dfccbd7460d3e35b91c9"
     langid: "wiktionary.ar"
-    type: zipped-zim
+    type: zim
   wikiversity.ar:
     version: "2018-06-17"
     size: 9044235
