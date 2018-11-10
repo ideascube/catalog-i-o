@@ -675,13 +675,12 @@ all:
     langid: "wikiversity.el"
     description: "Από Βικιεπιστήμιο"
     name: Βικιεπιστήμιο
-    version: "2017-03-02"
+    version: "2018-06-17"
     language: "ell"
-    id: "d72cc8d9-26f1-ef5a-f473-25b6000683f6"
-    url: "http://download.kiwix.org/portable/wikiversity/kiwix-0.9+wikiversity_el_all_2017-03.zip"
-    size: 205183815
-    sha256sum: "32289c289676e4e7d41996e413039883240b43b792e05d5022f154103d4b3e41"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wikiversity/wikiversity_el_all_novid_2018-06.zim"
+    size: 7270057
+    sha256sum: "93a484e6078c9172a697156e8570a774889219b7df92b1fd53103ccd710ba1ff"
+    type: zim
   wikibooks.fa:
     langid: "wikibooks.fa"
     description: "ﻭیکی<200e>کﺕﺎﺑ، کﺕﺎﺒﺧﺎﻨﻫٔ ﺁﺯﺍﺩ"
