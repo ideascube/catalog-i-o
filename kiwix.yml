@@ -439,16 +439,15 @@ all:
     langid: "wikipedia.fa"
     type: zipped-zim
   wikipedia.ar:
-    version: "2017-02-16"
-    size: 6780480064
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ar_all_2017-02.zip"
+    version: "2018-09-09"
+    size: 8888226692
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_ar_all_novid_2018-10.zim"
     name: "ويكيبيديا"
     language: "ara"
     description: "ويكبيديا,الموسوعه الحره"
-    id: "bae3dc65-56e5-f930-b427-d4f53ac6cd76"
-    sha256sum: "34e4998994016d79258e962f68e67cd0e080554ebb46baae406032b99d8f4c5e"
+    sha256sum: "9964079f0ac9271de92ef93bd481e1edfc9385c4f446937ceee4a0476a256ecf"
     langid: "wikipedia.ar"
-    type: zipped-zim
+    type: zim
   vikidia.fr:
     version: "2018-10-07"
     size: 724413995
