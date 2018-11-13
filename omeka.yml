@@ -1,4 +1,52 @@
 all:
+  1-timilai-school-jana-man-pardaina-ra-en:
+    description: This video is an interview with the Batase Village resident Phulmaya
+      Tamang (who was the first female student to attain a Diploma from the village).
+      She explains why she decided to stay in school and not give up, she asks students
+      to stay motivated and never give up - because education is the pathway to a
+      brighter future.
+    language: en
+    name: 1. Timilai school Jana man pardaina ra?
+    sha256sum: 55a8d47f532a74dda18eb3851caca85ce3ec82d5fb564e88997e92fd0b64a109
+    size: 543717587
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/1-timilai-school-jana-man-pardaina-ra-en.zip
+    version: '2018-11-13'
+  2-timi-lai-school-xodera-kam-garna-man-lagxa-en:
+    description: 'This video (and Video 4 and 4) was recorded by Sujan Tamang, a Batase  village
+      resident who works for Friends of Himalayan Children. In the video, Charimaya
+      Tamang (Founder of the Shakti Samuwa Organisation) explains the ways girls and
+      women get trapped into human trafficking: through education and job offers.'
+    language: en
+    name: 2. Timi lai school xodera kam garna man lagxa?
+    sha256sum: bb87f3f0c5f5a023f1375fb42e09cb7ae11a3779750b4b69ced117bf152d26ad
+    size: 347162423
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/2-timi-lai-school-xodera-kam-garna-man-lagxa-en.zip
+    version: '2018-11-13'
+  3-kt-haru-lai-hamro-gau-bata-tada-lagyo-bane-k-hunxa-en:
+    description: This video is about the effects that human trafficking has on girls
+      and women who are victims of this business.
+    language: en
+    name: 3. Kt haru lai hamro gau bata tada lagyo bane k hunxa?
+    sha256sum: ce7ef36d022afb3d8827846298fb94ec9e02f000b64d102de239e7724fda7511
+    size: 513908742
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/3-kt-haru-lai-hamro-gau-bata-tada-lagyo-bane-k-hunxa-en.zip
+    version: '2018-11-13'
+  4-timro-sathi-haru-ra-family-lai-manab-bechbikhan-huna-bata-kasari-samrachan-garna-sakinxa-en:
+    description: In this video, Charimaya Tamang talks about how people should treat
+      victims of human trafficking and accept them back into the society with care
+      and love. She explains that human trafficking not only impacts the victim, but
+      also families and the whole community.
+    language: en
+    name: 4. Timro sathi haru ra family lai manab bechbikhan huna bata kasari samrachan
+      garna sakinxa?
+    sha256sum: b33d352b0be582d4c1b3bb3c9cf4ffb356764876f3baab155687209fca99d414
+    size: 482781917
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/4-timro-sathi-haru-ra-family-lai-manab-bechbikhan-huna-bata-kasari-samrachan-garna-sakinxa-en.zip
+    version: '2018-11-13'
   7-milliards-de-voisins-rfi-fr:
     description: "\"\xC9mission RFI : \"7 Milliards de voisins\"\""
     language: fr
@@ -417,11 +465,11 @@ all:
       and its history.
     language: en
     name: Astronomy
-    sha256sum: a2d627d78067a51ac7ff1482911c73eec43d9ad4306e122520163956f7d1a863
-    size: 5151086752
+    sha256sum: 82192ee29dc1679dd40d7817f7e796bc726643f8851667080281f58491ab897e
+    size: 5126652705
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/astronomy-en.zip
-    version: '2017-06-01'
+    version: '2018-11-13'
   audiobooks-et-fictions-sonores-fr:
     description: "Les fictions, les romans, on peut aussi les \xE9couter ! A vos casques\
       \ !"
@@ -2343,11 +2391,11 @@ all:
       Learn about ecology with this selection of videos and articles.
     language: en
     name: Introduction to ecology
-    sha256sum: 84736dbfb8d7352f114efc0f2edfbaa90053df861463ac11a7fabfcbbf5ba499
-    size: 479735437
+    sha256sum: 6d636a447fc074f781c5dab60bac4929ddac65170cee40feb562d11dca641225
+    size: 479735704
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-ecology-en.zip
-    version: '2017-06-01'
+    version: '2018-11-13'
   introduction-to-economics-en:
     description: You want to improve your knowledge in economics ? You will find very
       interesting resumes here !
@@ -2469,11 +2517,11 @@ all:
       for the world.
     language: en
     name: Introduction to the history of the world
-    sha256sum: 222a3293c41e5fe178e26b20d6d869979030ffa61625e87ed8322353b946984a
-    size: 1858120936
+    sha256sum: ed1be0415a98379d2d9e210dba84b817e36ae8bf2f8334ea597c7860ad18c535
+    size: 1858121378
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-the-history-of-the-world-en.zip
-    version: '2017-06-01'
+    version: '2018-11-13'
   jardinage-et-agriculture-fr:
     description: "D\xE9couvrez ou approfondissez vos connaissances en m\xE9thodes\
       \ de culture, d'irrigation, de fertilisation... Pour vous lancer dans le jardinage\
