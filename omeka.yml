@@ -1128,6 +1128,20 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/decouvrir-l-archeologie-fr.zip
     version: '2018-09-14'
+  denis-mukwege-fr:
+    description: "Denis Mukwege, n\xE9 le 1er mars 1955 \xE0 Bukavu dans le Kivu au\
+      \ Congo belge, est un gyn\xE9cologue et militant des droits de l'homme congolais.\r\
+      \n\r\nSurnomm\xE9 \xAB l'homme qui r\xE9pare les femmes \xBB, il a re\xE7u de\
+      \ nombreuses distinctions pour son engagement contre les mutilations g\xE9nitales\
+      \ pratiqu\xE9es sur les femmes en r\xE9publique d\xE9mocratique du Congo, dont\
+      \ le prix Sakharov en 2014 et le prix Nobel de la paix en 2018."
+    language: fr
+    name: Denis Mukwege
+    sha256sum: ae00c396eafa1c06fe79305ceac04121b6966edc468d7bfbccd55ca92be9abf9
+    size: 1218024414
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/denis-mukwege-fr.zip
+    version: '2018-11-15'
   dessin-et-origami-fr:
     description: "D\xE9tendez-vous, cr\xE9ez, exprimez-vous ! Il y a un artiste dans\
       \ chacun, \xE0 vous de le r\xE9v\xE9ler..."
@@ -1372,11 +1386,11 @@ all:
     description: A trier
     language: fr
     name: "Ecologie d\xE9veloppement durable"
-    sha256sum: 07f0f1e03485fd44a2712de1faf51590105118824a3bcf4e114e95b35ac47b59
-    size: 292404127
+    sha256sum: 870ce8f3f6192cd92edb5872272952a9cd44afa01c77699deeb44866397d088d
+    size: 465772261
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ecologie-developpement-durable-fr.zip
-    version: '2018-09-17'
+    version: '2018-11-15'
   economie-et-developpement-durable:
     description: "Comment allier protection de l'environnement et d\xE9veloppement\
       \ \xE9conomique ? Quels sont les impacts des mod\xE8les \xE9conomiques actuels\
@@ -1418,19 +1432,19 @@ all:
     url: http://packages.ideascube.org/omeka/economie-et-mondialisation.zip
     version: '2017-07-03'
   economie-et-mondialisation-fr:
-    description: "\"Cette collection comprend des vid\xE9os, des MOOC et des articles\
+    description: "Cette collection comprend des vid\xE9os, des MOOC et des articles\
       \ de recherche sur les enjeux modernes de la macro\xE9conomie. Le MOOC sur la\
       \ mondialisation, cr\xE9\xE9 par Sciences Po, traite notamment des enjeux internationaux\
       \ de la macro\xE9onomie, \xE0 travers une approche pluridisciplinaire qui m\xEA\
       le droit, histoire, \xE9conomie, anthropologie, sciences politiques et g\xE9\
-      ographie.\""
+      ographie."
     language: fr
-    name: '"Economie et mondialisation"'
-    sha256sum: 0d5e2f8e18191a93f760f074a2f89c92ddc2f572cd52cbbab5ea44b0fb563e08
-    size: 877314463
+    name: Economie et mondialisation
+    sha256sum: 15b7536c5f177e24eca79d677930834aa470cfc23b351b48d3f7146382a9a368
+    size: 1196447901
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/economie-et-mondialisation-fr.zip
-    version: '2018-02-28'
+    version: '2018-11-15'
   economie-fr:
     description: "\"Des vid\xE9os ludiques pour comprendre les grands concepts \xE9\
       conomiques : march\xE9, actions, obligations, dividendes ... etc.\""
@@ -1944,6 +1958,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/geographie-afrique-fr.zip
     version: '2018-09-20'
+  geopolitique-fr:
+    description: "Les enjeux g\xE9opolitiques de l'Afrique"
+    language: fr
+    name: "G\xE9opolitique (Afrique)"
+    sha256sum: a901d023989720ad5307e36eff4739549a1997ec98279d5ebb2ace36b57c479b
+    size: 848386336
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/geopolitique-fr.zip
+    version: '2018-11-15'
   german-for-arabic-and-persian-speakers:
     description: "Lean German, \u06CC\u0627\u062F\u06AF\u06CC\u0631\u06CC \u0622\u0644\
       \u0645\u0627\u0646\u06CC, \u062A\u0639\u0644\u0645 \u0627\u0644\u0627\u0644\u0645\
@@ -2061,11 +2084,11 @@ all:
       \ les \xE9v\xE8nements du pr\xE9sent."
     language: fr
     name: Histoire (Afrique)
-    sha256sum: 4bcf6c03e78d1dc5dc25b52e7e3352fdc856765fe842458e12d0cdf6a8063a70
-    size: 1367958918
+    sha256sum: eb4569970da02b3b098c8691ac2ce801cb700b0fea66ba97231878e37e0ad01b
+    size: 1749614281
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-afrique-fr.zip
-    version: '2018-09-20'
+    version: '2018-11-15'
   histoire-occidentale-fr:
     description: Connaitre l'histoire et la culture occidentale
     language: fr
@@ -3292,11 +3315,11 @@ all:
       ce \xE0 l'utilisation d'outils."
     language: fr
     name: "Num\xE9rique et bidouille informatique"
-    sha256sum: 4ec4163d1207360ed580ca94dca665210c34f5e2abff8f9afe70d35eda407d42
-    size: 2360400771
+    sha256sum: 3600914ae329477aa0fef8ce516462619c78e7179124300e7d185f7a055d4a74
+    size: 2349906833
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/numerique-et-bidouille-informatique-fr.zip
-    version: '2018-05-29'
+    version: '2018-11-15'
   nutrition-enfants-fr:
     description: "Bien manger \xE7a veut dire quoi ?"
     language: fr
@@ -4181,11 +4204,11 @@ all:
       \ de prendre en mains les applications propos\xE9es sur les tablettes"
     language: fr
     name: Tutoriels pour utiliser des logiciels et des applications
-    sha256sum: 9f38d79da90b80c6aebeb5acfa2f11de40281222beacb1fda85bd359db97adff
-    size: 3233530930
+    sha256sum: ee2ca4fbbc4df9eef84c4ea5bd789a83fa8886f8a6e1afeb26cef5b82dc9fc6c
+    size: 3653183076
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/tutoriels-pour-utiliser-des-logiciels-et-des-applications-fr.zip
-    version: '2018-08-27'
+    version: '2018-11-15'
   utiliser-la-matiere-vinyle-fr:
     description: "Utiliser la mati\xE8re, se servir d'une d\xE9coupeuse, r\xE9cup\xE9\
       rer un vieux vinyle... \r\nD\xE9couvrez la mati\xE8re et ses secrets !"
