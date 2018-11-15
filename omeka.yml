@@ -1137,7 +1137,7 @@ all:
       \ le prix Sakharov en 2014 et le prix Nobel de la paix en 2018."
     language: fr
     name: Denis Mukwege
-    sha256sum: ae00c396eafa1c06fe79305ceac04121b6966edc468d7bfbccd55ca92be9abf9
+    sha256sum: 061fef7b2e9e912ab090eb17b8f775c03d863c9a88f210c125aa85514dc1fb9e
     size: 1218024414
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/denis-mukwege-fr.zip
@@ -1386,7 +1386,7 @@ all:
     description: A trier
     language: fr
     name: "Ecologie d\xE9veloppement durable"
-    sha256sum: 870ce8f3f6192cd92edb5872272952a9cd44afa01c77699deeb44866397d088d
+    sha256sum: b857ef473b6ed19d8d6be1938d4413679e8adff2f4c063a871966cb790bfba0f
     size: 465772261
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ecologie-developpement-durable-fr.zip
@@ -1440,7 +1440,7 @@ all:
       ographie."
     language: fr
     name: Economie et mondialisation
-    sha256sum: 15b7536c5f177e24eca79d677930834aa470cfc23b351b48d3f7146382a9a368
+    sha256sum: eb32c4351f38dbfad9e63a6e4c0db6a86c05bacb3de25af89919f0fbdd396af8
     size: 1196447901
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/economie-et-mondialisation-fr.zip
@@ -1962,7 +1962,7 @@ all:
     description: "Les enjeux g\xE9opolitiques de l'Afrique"
     language: fr
     name: "G\xE9opolitique (Afrique)"
-    sha256sum: a901d023989720ad5307e36eff4739549a1997ec98279d5ebb2ace36b57c479b
+    sha256sum: 54a3dff42ca3c0cce35c461c17bab37bed73266d89e38b1a234e17f5b0861569
     size: 848386336
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/geopolitique-fr.zip
@@ -2084,7 +2084,7 @@ all:
       \ les \xE9v\xE8nements du pr\xE9sent."
     language: fr
     name: Histoire (Afrique)
-    sha256sum: eb4569970da02b3b098c8691ac2ce801cb700b0fea66ba97231878e37e0ad01b
+    sha256sum: 704ecf30c8ca453356fb33828cebc3d6bb653811cf8e2c20a432aa664b842e0b
     size: 1749614281
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-afrique-fr.zip
@@ -3315,7 +3315,7 @@ all:
       ce \xE0 l'utilisation d'outils."
     language: fr
     name: "Num\xE9rique et bidouille informatique"
-    sha256sum: 3600914ae329477aa0fef8ce516462619c78e7179124300e7d185f7a055d4a74
+    sha256sum: a9de66b27c0b1885c4284038f6b2f6128df55566d7b7537304f55725684e695b
     size: 2349906833
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/numerique-et-bidouille-informatique-fr.zip
