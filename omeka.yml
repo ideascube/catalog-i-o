@@ -143,11 +143,11 @@ all:
       \ trouverez ici de quoi lancer sereinement son entreprise."
     language: fr
     name: "Administration, gestion, comptabilit\xE9"
-    sha256sum: 41166c61ac8f9dc725395761227ef568f8bc98c30d31b96935e3f964af06c309
-    size: 3027988
+    sha256sum: 29dc2154fa78c72163f154c2b0ccd1d618b107165350bf01bfaef777620f6eda
+    size: 85901360
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/administration-gestion-comptabilite-fr.zip
-    version: '2018-04-12'
+    version: '2018-11-16'
   agriculture-enabel-fr:
     description: "Documentation pour se former en agriculture. Des documents concernant\
       \ la construction d'une p\xE9pini\xE8re, la r\xE9g\xE9n\xE9ration naturelle\
