@@ -1137,11 +1137,11 @@ all:
       \ le prix Sakharov en 2014 et le prix Nobel de la paix en 2018."
     language: fr
     name: Denis Mukwege
-    sha256sum: 061fef7b2e9e912ab090eb17b8f775c03d863c9a88f210c125aa85514dc1fb9e
+    sha256sum: 982f06117eae3c2f6448f132cf8b997c29b493ee6c90fa2a5e7a932d90bef340
     size: 1218024414
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/denis-mukwege-fr.zip
-    version: '2018-11-15'
+    version: '2018-11-16'
   dessin-et-origami-fr:
     description: "D\xE9tendez-vous, cr\xE9ez, exprimez-vous ! Il y a un artiste dans\
       \ chacun, \xE0 vous de le r\xE9v\xE9ler..."
@@ -1386,11 +1386,11 @@ all:
     description: A trier
     language: fr
     name: "Ecologie d\xE9veloppement durable"
-    sha256sum: b857ef473b6ed19d8d6be1938d4413679e8adff2f4c063a871966cb790bfba0f
+    sha256sum: a626cbbb1d4892bef3f1fb5bfe6795039c0b881ef820e33f1827b2bdb72ed338
     size: 465772261
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ecologie-developpement-durable-fr.zip
-    version: '2018-11-15'
+    version: '2018-11-16'
   economie-et-developpement-durable:
     description: "Comment allier protection de l'environnement et d\xE9veloppement\
       \ \xE9conomique ? Quels sont les impacts des mod\xE8les \xE9conomiques actuels\
@@ -1440,11 +1440,11 @@ all:
       ographie."
     language: fr
     name: Economie et mondialisation
-    sha256sum: eb32c4351f38dbfad9e63a6e4c0db6a86c05bacb3de25af89919f0fbdd396af8
+    sha256sum: a1070b5158e6404c5320719eca817cd88d43f80ac7da3eeb37fa66db2916df60
     size: 1196447901
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/economie-et-mondialisation-fr.zip
-    version: '2018-11-15'
+    version: '2018-11-16'
   economie-fr:
     description: "\"Des vid\xE9os ludiques pour comprendre les grands concepts \xE9\
       conomiques : march\xE9, actions, obligations, dividendes ... etc.\""
@@ -1962,11 +1962,11 @@ all:
     description: "Les enjeux g\xE9opolitiques de l'Afrique"
     language: fr
     name: "G\xE9opolitique (Afrique)"
-    sha256sum: 54a3dff42ca3c0cce35c461c17bab37bed73266d89e38b1a234e17f5b0861569
+    sha256sum: 6f3aface62514c9cae951120f67160e99ceccffa4fd959787929c3532c1b76c6
     size: 848386336
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/geopolitique-fr.zip
-    version: '2018-11-15'
+    version: '2018-11-16'
   german-for-arabic-and-persian-speakers:
     description: "Lean German, \u06CC\u0627\u062F\u06AF\u06CC\u0631\u06CC \u0622\u0644\
       \u0645\u0627\u0646\u06CC, \u062A\u0639\u0644\u0645 \u0627\u0644\u0627\u0644\u0645\
@@ -2084,11 +2084,11 @@ all:
       \ les \xE9v\xE8nements du pr\xE9sent."
     language: fr
     name: Histoire (Afrique)
-    sha256sum: 704ecf30c8ca453356fb33828cebc3d6bb653811cf8e2c20a432aa664b842e0b
+    sha256sum: 492d89ff9a112c7a227072e492c054b17d18fee05e21cb774081f026ed08ecd6
     size: 1749614281
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-afrique-fr.zip
-    version: '2018-11-15'
+    version: '2018-11-16'
   histoire-occidentale-fr:
     description: Connaitre l'histoire et la culture occidentale
     language: fr
@@ -3315,11 +3315,11 @@ all:
       ce \xE0 l'utilisation d'outils."
     language: fr
     name: "Num\xE9rique et bidouille informatique"
-    sha256sum: a9de66b27c0b1885c4284038f6b2f6128df55566d7b7537304f55725684e695b
+    sha256sum: 1d0ef81abe57421f18b70eac42d0f2bbbf920188308bf6895e84746b2c837405
     size: 2349906833
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/numerique-et-bidouille-informatique-fr.zip
-    version: '2018-11-15'
+    version: '2018-11-16'
   nutrition-enfants-fr:
     description: "Bien manger \xE7a veut dire quoi ?"
     language: fr
