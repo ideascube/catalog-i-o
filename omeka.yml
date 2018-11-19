@@ -2091,15 +2091,15 @@ all:
     url: http://packages.ideascube.org/omeka/health-and-hygiene-en.zip
     version: '2017-10-19'
   histoire-afrique-fr:
+    name: Fondamentaux de l'Histoire de l'Afrique
     description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
       \ les \xE9v\xE8nements du pr\xE9sent."
     language: fr
-    name: Histoire (Afrique)
-    sha256sum: 492d89ff9a112c7a227072e492c054b17d18fee05e21cb774081f026ed08ecd6
-    size: 1749614281
-    type: zipped-medias
+    version: '2018-11-19'
     url: http://packages.ideascube.org/omeka/histoire-afrique-fr.zip
-    version: '2018-11-16'
+    size: 1749613699
+    sha256sum: f01dd493209dd5ccb7b8e621b4baa566d8721bd907edf8eb48daba455c7b9de5
+    type: zipped-medias
   histoire-occidentale-fr:
     description: Connaitre l'histoire et la culture occidentale
     language: fr
