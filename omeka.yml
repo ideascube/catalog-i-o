@@ -218,6 +218,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apply-for-a-job-en-urd-ur.zip
     version: '2018-09-10'
+  apprendre-a-programmer-en-java-fr:
+    description: "Ce MOOC est une formation compl\xE8te \xE0 la programmation en Java.\
+      \ Il revient \xE0 la fois sur les bases de la programmation et les sp\xE9cificit\xE9\
+      s du langage."
+    language: fr
+    name: "Apprendre \xE0 programmer en Java"
+    sha256sum: 5973ee4daf7d6fd5ecb121438a1c4e04af11336eec428f1bf974258d56e2306d
+    size: 363355488
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprendre-a-programmer-en-java-fr.zip
+    version: '2018-11-19'
   apprendre-a-utiliser-des-patrons-fr:
     description: "\"Ce paquet de contenus r\xE9unit quelques exemples de tutoriels\
       \ qui permettent \xE0 un tailleur d'apprendre \xE0 utiliser un patron, ou de\
@@ -2289,6 +2300,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/instrumental-music-en.zip
     version: '2018-09-28'
+  internet-les-autres-et-moi-les-bons-usages-fr:
+    description: "Le num\xE9rique est aujourd'hui omnipr\xE9sent dans notre quotidien.\
+      \ Ma\xEEtriser les usages d'Internet est devenue une comp\xE9tence essentielle\
+      \ du citoyen du 21\xE8me si\xE8cle. Ce package de contenus propose des \xE9\
+      l\xE9ments clefs pour \xEAtre \xE0 la fois un consommateur \xE9clair\xE9 des\
+      \ technologies et un acteur de la citoyennet\xE9 num\xE9rique."
+    language: fr
+    name: 'Internet, les autres et moi : les bons usages'
+    sha256sum: 70ae499901d434e0d222f57a11104cf8c4950c75c9a9b47e550fd78f582114dc
+    size: 52867796
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/internet-les-autres-et-moi-les-bons-usages-fr.zip
+    version: '2018-11-19'
   introduction-a-l-electricite-sikana-fr:
     description: "\"Avec nos vid\xE9os \xE9ducatives du programme \xAB \xC9lectricit\xE9\
       \ pour tous \xBB, d\xE9couvrez les bases de l\u2019\xE9lectricit\xE9, quelles\
@@ -2345,6 +2369,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-a-la-physique-fr.zip
     version: '2018-11-06'
+  introduction-au-do-it-youself-fr:
+    description: "Le \"Do It Yourself\" est un mouvement qui pr\xF4ne la r\xE9paration\
+      \ et la  fabrication d'objets par soi-m\xEAme, sans s'appuyer sur l'aide d'experts.\
+      \ Ce package de contenus est une introduction au mouvement et \xE0 son esprit\
+      \ : des fablabs au prototypage rapide."
+    language: fr
+    name: Introduction au Do It Youself
+    sha256sum: 27fc339a12b63414184a8fba71c0431c4801b149ba54421a3a2f67f39153cba1
+    size: 323373299
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/introduction-au-do-it-youself-fr.zip
+    version: '2018-11-19'
   introduction-aux-droits-de-l-homme-fr:
     description: "Les m\xE9canismes de mise en \u0153uvre des droits de l'homme\r\n\
       Un MOOC de l'Universit\xE9 de Gen\xE8ve"
@@ -3143,6 +3179,21 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/microbiologie-et-prevention-sante.zip
     version: '2017-07-03'
+  monter-un-laboratoire-d-innovation-publique-fr:
+    description: "L\u2019action publique se r\xE9invente. Pour sortir des m\xE9thodes\
+      \ classiques et des conceptions \xAB top down \xBB, de nouvelles approches se\
+      \ d\xE9veloppent. Regroup\xE9es sous le vocable \xAB innovation publique \xBB\
+      , ces approches placent la cr\xE9ativit\xE9 et la prise en compte de l\u2019\
+      usager au c\u0153ur de leurs logiques d\u2019action. Elles invitent \xE0 repenser\
+      \ le rapport des administrations au terrain et la conception des politiques\
+      \ publiques."
+    language: fr
+    name: Monter un laboratoire d'innovation publique
+    sha256sum: 72abb2f0b453525819caf1392cd410f05837056c0bd0cf34563839655f96f992
+    size: 226162126
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/monter-un-laboratoire-d-innovation-publique-fr.zip
+    version: '2018-11-19'
   montez-votre-projet-professionnel-fr:
     description: "Vous cherchez un emploi ou vous souhaitez vous reconvertir ? Vous\
       \ trouverez ici de quoi vous aider \xE0 identifier vos comp\xE9tences, pr\xE9\
@@ -3627,6 +3678,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/public-speaking-en.zip
     version: '2018-09-10'
+  python-3-des-fondamentaux-aux-concepts-avances-du-langage-fr:
+    description: "Ce MOOC propose une initiation compl\xE8te \xE0 la programmation\
+      \ en Python. Il revient sur les bases de l'algorithmique et les sp\xE9cificit\xE9\
+      s du langage."
+    language: fr
+    name: "Python 3 : des fondamentaux aux concepts avanc\xE9s du langage"
+    sha256sum: 897c696a6d033cfe8f494583668373fe00f18ca148883b947b3b3057f7044982
+    size: 4475585988
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/python-3-des-fondamentaux-aux-concepts-avances-du-langage-fr.zip
+    version: '2018-11-19'
   raconte-moi-des-histoires-fr:
     description: "Tu cherches de quoi lire, des livres pas trop compliqu\xE9s ? C'est\
       \ ici !"
@@ -3971,11 +4033,11 @@ all:
       e dans la sociologie du travail."
     language: fr
     name: Sociologie du travail
-    sha256sum: e02f8ca9906df7a240604dfb898bca0840e442099374434597a17ca0367a1c9e
-    size: 124205716
+    sha256sum: cb68653746530734fd132468c318dfaaefc8865542608e7f536b0982c710f977
+    size: 124206970
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sociologie-du-travail-fr.zip
-    version: '2017-06-13'
+    version: '2018-11-19'
   sociology-ar:
     description: "\"Topics addressing social differences and similarities and anything\
       \  in between./ \u0645\u0648\u0627\u0636\u064A\u0639 \u0645\u062E\u062A\u0644\
