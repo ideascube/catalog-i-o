@@ -4436,3 +4436,12 @@ all:
     size: 546600593
     sha256sum: ff492f20d1384fac8d4eb339424e8990aa3323c98ee9dbf35fc754e8ce072ca3
     type: zipped-medias
+  litterature-francophone-afrique-fr:
+    name: "Litt\xE9rature francophone"
+    description: "Rencontres avec des \xE9crivains et des artistes africains"
+    language: fr
+    version: '2018-11-19'
+    url: http://packages.ideascube.org/omeka/litterature-francophone-afrique-fr.zip
+    size: 1808442644
+    sha256sum: c48120c9b8fd37cfb6cac39187eba03dbabd6e1326bb07e951ff78b4eb479016
+    type: zipped-medias
