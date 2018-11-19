@@ -3085,17 +3085,17 @@ all:
     url: http://packages.ideascube.org/omeka/maladies-endemiques-en-afrique-fr.zip
     version: '2017-10-26'
   management-fr:
+    name: Management
     description: "Comment \xEAtre un bon manager ? Comment amener une \xE9quipe \xE0\
       \ r\xE9aliser ses objectifs. Vous trouverez ici des vid\xE9os p\xE9dagogiques\
       \ sur les bases du management et des outils pour devenir vous-m\xEAme un bon\
       \ manager."
     language: fr
-    name: Management
-    sha256sum: e05ff22e84ff6dd5557cc84ca44933a9b0ab6b102046bec5e4e881bfafe99564
-    size: 186431223
-    type: zipped-medias
+    version: '2018-11-19'
     url: http://packages.ideascube.org/omeka/management-fr.zip
-    version: '2018-06-22'
+    size: 186431223
+    sha256sum: cde9e4b7d75673a3262981bee471147c2d5cd684f3698d5afb983eb92c412973
+    type: zipped-medias
   manual-ideascube-all:
     description: "Manuel d'utilisation d'Ideascube.\nIdeascube user manual.\n\u202B\
       \u202AIdeascube\u202C\u202C\u202B\u0629\u202C\u202B\u0628\u202C\u202B\u0627\u202C\
