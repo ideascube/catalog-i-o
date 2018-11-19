@@ -867,15 +867,15 @@ all:
     url: http://packages.ideascube.org/omeka/creation-audio-fr.zip
     version: '2018-02-28'
   creation-d-association-fr:
+    name: "Cr\xE9ation d'association"
     description: "Quelques \xE9lements-cl\xE9s pour comprendre et cr\xE9er une association,\
       \ en France ou au Burundi !"
     language: fr
-    name: "Cr\xE9ation d'association"
-    sha256sum: b0409123ccf5845522b1858163ac4ae81641336d7e5edc782cde7c304765c60b
-    size: 161088111
-    type: zipped-medias
+    version: '2018-11-19'
     url: http://packages.ideascube.org/omeka/creation-d-association-fr.zip
-    version: '2017-10-26'
+    size: 161088111
+    sha256sum: cdec65585626cbee47aa206d93cd65ac519c886e0655342b00c2c37e90d0a0ba
+    type: zipped-medias
   creation-d-entreprise-fr:
     name: "Cr\xE9ation d'entreprise"
     description: "Cr\xE9er son entreprise implique de multiples \xE9tapes : vous trouverez\
@@ -4426,3 +4426,13 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/yoga-for-therapy-en.zip
     version: '2018-06-21'
+  histoire-de-la-republique-democratique-du-congo-fr:
+    name: "R\xE9publique d\xE9mocratique du Congo, Histoire"
+    description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
+      \ les \xE9v\xE8nements du pr\xE9sent"
+    language: fr
+    version: '2018-11-19'
+    url: http://packages.ideascube.org/omeka/histoire-de-la-republique-democratique-du-congo-fr.zip
+    size: 546600593
+    sha256sum: ff492f20d1384fac8d4eb339424e8990aa3323c98ee9dbf35fc754e8ce072ca3
+    type: zipped-medias
