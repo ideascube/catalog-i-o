@@ -877,16 +877,16 @@ all:
     url: http://packages.ideascube.org/omeka/creation-d-association-fr.zip
     version: '2017-10-26'
   creation-d-entreprise-fr:
+    name: "Cr\xE9ation d'entreprise"
     description: "Cr\xE9er son entreprise implique de multiples \xE9tapes : vous trouverez\
       \ ici des conseils pour formuler votre projet, r\xE9diger votre business plan\
       \ ou encore vous assurer de la faisabilit\xE9 de votre projet."
     language: fr
-    name: "Cr\xE9ation d'entreprise"
-    sha256sum: 0c760383dca3359bd65401557ca5564b5cf450dd4ce221bce7b27ed9aeaf4b4f
-    size: 1024185770
-    type: zipped-medias
+    version: '2018-11-19'
     url: http://packages.ideascube.org/omeka/creation-d-entreprise-fr.zip
-    version: '2018-04-10'
+    size: 1024185826
+    sha256sum: 332d7a8ac7174e502c68a99fdbab4e32c91a742d39df833bf40d28440695b8d7
+    type: zipped-medias
   creation-el-el:
     description: "\u0394\u03B7\u03BC\u03B9\u03BF\u03CD\u03C1\u03B3\u03B7\u03C3\u03B5\
       ! \u03A6\u03C4\u03B9\u03AC\u03BE\u03B5 \u03C4\u03BF \u03B4\u03B9\u03BA\u03CC\
