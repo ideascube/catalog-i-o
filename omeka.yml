@@ -3117,14 +3117,14 @@ all:
     url: http://packages.ideascube.org/omeka/manuels-enabel-fr.zip
     version: '2018-09-20'
   marketing-fr:
+    name: Marketing
     description: Les bases du marketing.
     language: fr
-    name: Marketing
-    sha256sum: a26bd2c4583df3e66af23ad24491cc1120ea6a62ff792d40919bf47b87898199
-    size: 355547549
-    type: zipped-medias
+    version: '2018-11-19'
     url: http://packages.ideascube.org/omeka/marketing-fr.zip
-    version: '2018-06-22'
+    size: 355547549
+    sha256sum: 2c5cf0d70847f8ebd136e203f7fc456271efcfed760de6b1de4ddc3ffb0cae13
+    type: zipped-medias
   mathematics-ar:
     description: "Simple mathematics for kids.// \u0631\u064A\u0627\u0636\u064A\u0627\
       \u062A \u0644\u0644\u0627\u0637\u0641\u0627\u0644"
