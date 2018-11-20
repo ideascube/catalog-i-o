@@ -513,16 +513,16 @@ all:
     url: http://packages.ideascube.org/omeka/being-prepared-in-case-of-a-major-disaster-en.zip
     version: '2018-06-21'
   bien-etre-et-communication-au-travail-fr:
-    name: "Bien-\xEAtre et communication au travail"
     description: "Ici, des outils pour travailler votre confiance en vous et vous\
       \ affirmer au travail. Et des cl\xE9s pour d\xE9samorcer et r\xE9soudre des\
       \ conflits."
     language: fr
-    version: '2018-11-19'
-    url: http://packages.ideascube.org/omeka/bien-etre-et-communication-au-travail-fr.zip
-    size: 286575157
+    name: "Bien-\xEAtre et communication au travail"
     sha256sum: 3f4e2e988dd17ca0756456ef60c4e5468ee704888c604e80295141389af35164
+    size: 286575157
     type: zipped-medias
+    url: http://packages.ideascube.org/omeka/bien-etre-et-communication-au-travail-fr.zip
+    version: '2018-11-19'
   bien-se-nourrir-fr:
     description: "Qu'est ce que \xE7a veut dire \"bien manger\" ? Comment am\xE9liorer\
       \ ses r\xE9flexes d'alimentation pour se sentir mieux et prendre soin de sa\
@@ -867,26 +867,26 @@ all:
     url: http://packages.ideascube.org/omeka/creation-audio-fr.zip
     version: '2018-02-28'
   creation-d-association-fr:
-    name: "Cr\xE9ation d'association"
     description: "Quelques \xE9lements-cl\xE9s pour comprendre et cr\xE9er une association,\
       \ en France ou au Burundi !"
     language: fr
-    version: '2018-11-19'
-    url: http://packages.ideascube.org/omeka/creation-d-association-fr.zip
-    size: 161088111
+    name: "Cr\xE9ation d'association"
     sha256sum: cdec65585626cbee47aa206d93cd65ac519c886e0655342b00c2c37e90d0a0ba
+    size: 161088111
     type: zipped-medias
+    url: http://packages.ideascube.org/omeka/creation-d-association-fr.zip
+    version: '2018-11-19'
   creation-d-entreprise-fr:
-    name: "Cr\xE9ation d'entreprise"
     description: "Cr\xE9er son entreprise implique de multiples \xE9tapes : vous trouverez\
       \ ici des conseils pour formuler votre projet, r\xE9diger votre business plan\
       \ ou encore vous assurer de la faisabilit\xE9 de votre projet."
     language: fr
-    version: '2018-11-19'
-    url: http://packages.ideascube.org/omeka/creation-d-entreprise-fr.zip
-    size: 1024185826
+    name: "Cr\xE9ation d'entreprise"
     sha256sum: 332d7a8ac7174e502c68a99fdbab4e32c91a742d39df833bf40d28440695b8d7
+    size: 1024185826
     type: zipped-medias
+    url: http://packages.ideascube.org/omeka/creation-d-entreprise-fr.zip
+    version: '2018-11-19'
   creation-el-el:
     description: "\u0394\u03B7\u03BC\u03B9\u03BF\u03CD\u03C1\u03B3\u03B7\u03C3\u03B5\
       ! \u03A6\u03C4\u03B9\u03AC\u03BE\u03B5 \u03C4\u03BF \u03B4\u03B9\u03BA\u03CC\
@@ -2091,15 +2091,25 @@ all:
     url: http://packages.ideascube.org/omeka/health-and-hygiene-en.zip
     version: '2017-10-19'
   histoire-afrique-fr:
-    name: Fondamentaux de l'Histoire de l'Afrique
     description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
       \ les \xE9v\xE8nements du pr\xE9sent."
     language: fr
-    version: '2018-11-19'
-    url: http://packages.ideascube.org/omeka/histoire-afrique-fr.zip
-    size: 1749613699
+    name: Fondamentaux de l'Histoire de l'Afrique
     sha256sum: f01dd493209dd5ccb7b8e621b4baa566d8721bd907edf8eb48daba455c7b9de5
+    size: 1749613699
     type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-afrique-fr.zip
+    version: '2018-11-19'
+  histoire-de-la-republique-democratique-du-congo-fr:
+    description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
+      \ les \xE9v\xE8nements du pr\xE9sent"
+    language: fr
+    name: "R\xE9publique d\xE9mocratique du Congo, Histoire"
+    sha256sum: ff492f20d1384fac8d4eb339424e8990aa3323c98ee9dbf35fc754e8ce072ca3
+    size: 546600593
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-de-la-republique-democratique-du-congo-fr.zip
+    version: '2018-11-19'
   histoire-occidentale-fr:
     description: Connaitre l'histoire et la culture occidentale
     language: fr
@@ -3056,6 +3066,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/let-s-talk-about-sexuality-fa.zip
     version: '2017-09-25'
+  litterature-francophone-afrique-fr:
+    description: "Rencontres avec des \xE9crivains et des artistes africains"
+    language: fr
+    name: "Litt\xE9rature francophone"
+    sha256sum: c48120c9b8fd37cfb6cac39187eba03dbabd6e1326bb07e951ff78b4eb479016
+    size: 1808442644
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/litterature-francophone-afrique-fr.zip
+    version: '2018-11-19'
   maconnerie-enabel-fr:
     description: '-'
     language: fr
@@ -3085,17 +3104,17 @@ all:
     url: http://packages.ideascube.org/omeka/maladies-endemiques-en-afrique-fr.zip
     version: '2017-10-26'
   management-fr:
-    name: Management
     description: "Comment \xEAtre un bon manager ? Comment amener une \xE9quipe \xE0\
       \ r\xE9aliser ses objectifs. Vous trouverez ici des vid\xE9os p\xE9dagogiques\
       \ sur les bases du management et des outils pour devenir vous-m\xEAme un bon\
       \ manager."
     language: fr
-    version: '2018-11-19'
-    url: http://packages.ideascube.org/omeka/management-fr.zip
-    size: 186431223
+    name: Management
     sha256sum: cde9e4b7d75673a3262981bee471147c2d5cd684f3698d5afb983eb92c412973
+    size: 186431223
     type: zipped-medias
+    url: http://packages.ideascube.org/omeka/management-fr.zip
+    version: '2018-11-19'
   manual-ideascube-all:
     description: "Manuel d'utilisation d'Ideascube.\nIdeascube user manual.\n\u202B\
       \u202AIdeascube\u202C\u202C\u202B\u0629\u202C\u202B\u0628\u202C\u202B\u0627\u202C\
@@ -3117,14 +3136,14 @@ all:
     url: http://packages.ideascube.org/omeka/manuels-enabel-fr.zip
     version: '2018-09-20'
   marketing-fr:
-    name: Marketing
     description: Les bases du marketing.
     language: fr
-    version: '2018-11-19'
-    url: http://packages.ideascube.org/omeka/marketing-fr.zip
-    size: 355547549
+    name: Marketing
     sha256sum: 2c5cf0d70847f8ebd136e203f7fc456271efcfed760de6b1de4ddc3ffb0cae13
+    size: 355547549
     type: zipped-medias
+    url: http://packages.ideascube.org/omeka/marketing-fr.zip
+    version: '2018-11-19'
   mathematics-ar:
     description: "Simple mathematics for kids.// \u0631\u064A\u0627\u0636\u064A\u0627\
       \u062A \u0644\u0644\u0627\u0637\u0641\u0627\u0644"
@@ -4426,22 +4445,3 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/yoga-for-therapy-en.zip
     version: '2018-06-21'
-  histoire-de-la-republique-democratique-du-congo-fr:
-    name: "R\xE9publique d\xE9mocratique du Congo, Histoire"
-    description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
-      \ les \xE9v\xE8nements du pr\xE9sent"
-    language: fr
-    version: '2018-11-19'
-    url: http://packages.ideascube.org/omeka/histoire-de-la-republique-democratique-du-congo-fr.zip
-    size: 546600593
-    sha256sum: ff492f20d1384fac8d4eb339424e8990aa3323c98ee9dbf35fc754e8ce072ca3
-    type: zipped-medias
-  litterature-francophone-afrique-fr:
-    name: "Litt\xE9rature francophone"
-    description: "Rencontres avec des \xE9crivains et des artistes africains"
-    language: fr
-    version: '2018-11-19'
-    url: http://packages.ideascube.org/omeka/litterature-francophone-afrique-fr.zip
-    size: 1808442644
-    sha256sum: c48120c9b8fd37cfb6cac39187eba03dbabd6e1326bb07e951ff78b4eb479016
-    type: zipped-medias
