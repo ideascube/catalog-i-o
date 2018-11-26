@@ -3248,6 +3248,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/moyens-de-contraception-fr.zip
     version: '2018-08-28'
+  music-burmese-mm:
+    description: '-'
+    language: mm
+    name: Music (Burmese)
+    sha256sum: b5e0a1f367beada71eafb87e8f2f4c73993e36401e733a653463e2d5ec2dc700
+    size: 34192506
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/music-burmese-mm.zip
+    version: '2018-11-26'
   music-in-arabic:
     description: "\u0627\u0644\u0627\u0633\u062A\u0631\u062E\u0627\u0621 \u0648\u0627\
       \u0644\u0627\u0633\u062A\u0645\u0627\u0639 \u0625\u0644\u0649 \u0627\u0644\u0645\
@@ -4155,6 +4164,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/talented-thinker-club-en.zip
     version: '2018-11-05'
+  tales-burmese-mm:
+    description: '-'
+    language: mm
+    name: Tales (Burmese)
+    sha256sum: d81626eb18cdda900863fc35e85ad87a0a990d7517b505eaded512000f39e2a2
+    size: 86341405
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/tales-burmese-mm.zip
+    version: '2018-11-26'
   tales-for-kids-ar:
     description: "\"A variety of fun and cultivating tales for kids. /\u0642\u0635\
       \u0635 \u0645\u0646\u0648\u0639\u0629 \u0627\u062F\u0628\u064A\u0629 \u0645\u0646\
