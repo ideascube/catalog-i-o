@@ -1937,6 +1937,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fozi-mozi-diy-handcrafts-ar.zip
     version: '2018-05-25'
+  gender-based-violence-rohingya-rhg:
+    description: '-'
+    language: rhg
+    name: Gender based violence (Rohingya)
+    sha256sum: 2cdadcee51e808aedd241bccf0b9adcf9b3519d21a878239d8cb4ee608b45a6b
+    size: 11225820
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/gender-based-violence-rohingya-rhg.zip
+    version: '2018-11-26'
   genetique-et-epigenetique-fr:
     description: "Qu'est-ce que l'\xE9pig\xE9n\xE9tique ? En quoi cette discipline\
       \ diff\xE8re-t-elle de la g\xE9n\xE9tique ? Des chercheurs expliquent ici l'histoire\
@@ -1969,6 +1978,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/geographie-afrique-fr.zip
     version: '2018-09-20'
+  geography-rohingya-rhg:
+    description: '-'
+    language: rhg
+    name: Geography (Rohingya)
+    sha256sum: 7fe26d72fdf8c4eca75feb2e93d27e4feb3c46315b4aaddf2a41126ac800eb72
+    size: 22762743
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/geography-rohingya-rhg.zip
+    version: '2018-11-26'
   geopolitique-fr:
     description: "Les enjeux g\xE9opolitiques de l'Afrique"
     language: fr
@@ -2090,6 +2108,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-and-hygiene-en.zip
     version: '2017-10-19'
+  health-promotion-rohingya-rhg:
+    description: '-'
+    language: rhg
+    name: Health promotion (Rohingya)
+    sha256sum: 08930982300fa38163b6193ed38f1e884564ebba97d025bd89ccbe55373636fe
+    size: 53116115
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/health-promotion-rohingya-rhg.zip
+    version: '2018-11-26'
   histoire-afrique-fr:
     description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
       \ les \xE9v\xE8nements du pr\xE9sent."
@@ -3248,15 +3275,6 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/moyens-de-contraception-fr.zip
     version: '2018-08-28'
-  music-burmese-mm:
-    description: '-'
-    language: mm
-    name: Music (Burmese)
-    sha256sum: b5e0a1f367beada71eafb87e8f2f4c73993e36401e733a653463e2d5ec2dc700
-    size: 34192506
-    type: zipped-medias
-    url: http://packages.ideascube.org/omeka/music-burmese-mm.zip
-    version: '2018-11-26'
   music-in-arabic:
     description: "\u0627\u0644\u0627\u0633\u062A\u0631\u062E\u0627\u0621 \u0648\u0627\
       \u0644\u0627\u0633\u062A\u0645\u0627\u0639 \u0625\u0644\u0649 \u0627\u0644\u0645\
@@ -3293,6 +3311,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/music-in-kurdish-ckb.zip
     version: '2017-08-31'
+  music-rohingya-rhg:
+    description: '-'
+    language: rhg
+    name: Music (Rohingya)
+    sha256sum: a5465ebc23a5b7233ab6116f51c247f1141dd1adc06fdb3701d2772fb4e90bca
+    size: 94831456
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/music-rohingya-rhg.zip
+    version: '2018-11-26'
   musique-en-arabe-ar:
     description: "\u0627\u0644\u0627\u0633\u062A\u0631\u062E\u0627\u0621 \u0648\u0627\
       \u0644\u0627\u0633\u062A\u0645\u0627\u0639 \u0625\u0644\u0649 \u0627\u0644\u0645\
@@ -3365,6 +3392,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/nervous-system-ar.zip
     version: '2017-10-17'
+  news-rohingya-rhg:
+    description: '-'
+    language: rhg
+    name: News (Rohingya)
+    sha256sum: bed1b0b95edef3ca6fa702cbe05d458addeb868abff68886f0121be8008afb2b
+    size: 227983241
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/news-rohingya-rhg.zip
+    version: '2018-11-26'
   non-violent-communication-en:
     description: This package is an introduction to non violent communication, a communication
       process developed by Marshall Rosenberg in the 1960s. It is based on the principle
@@ -4164,15 +4200,6 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/talented-thinker-club-en.zip
     version: '2018-11-05'
-  tales-burmese-mm:
-    description: '-'
-    language: mm
-    name: Tales (Burmese)
-    sha256sum: d81626eb18cdda900863fc35e85ad87a0a990d7517b505eaded512000f39e2a2
-    size: 86341405
-    type: zipped-medias
-    url: http://packages.ideascube.org/omeka/tales-burmese-mm.zip
-    version: '2018-11-26'
   tales-for-kids-ar:
     description: "\"A variety of fun and cultivating tales for kids. /\u0642\u0635\
       \u0635 \u0645\u0646\u0648\u0639\u0629 \u0627\u062F\u0628\u064A\u0629 \u0645\u0646\
