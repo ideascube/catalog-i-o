@@ -1941,11 +1941,11 @@ all:
     description: '-'
     language: rhg
     name: Gender based violence (Rohingya)
-    sha256sum: 2cdadcee51e808aedd241bccf0b9adcf9b3519d21a878239d8cb4ee608b45a6b
+    sha256sum: 1ec47d17ed09b2e219cc46603a7d877e58f4fb51345cb85787ef1c0676a3dbc3
     size: 11225820
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/gender-based-violence-rohingya-rhg.zip
-    version: '2018-11-26'
+    version: '2018-11-27'
   genetique-et-epigenetique-fr:
     description: "Qu'est-ce que l'\xE9pig\xE9n\xE9tique ? En quoi cette discipline\
       \ diff\xE8re-t-elle de la g\xE9n\xE9tique ? Des chercheurs expliquent ici l'histoire\
@@ -1982,11 +1982,11 @@ all:
     description: '-'
     language: rhg
     name: Geography (Rohingya)
-    sha256sum: 7fe26d72fdf8c4eca75feb2e93d27e4feb3c46315b4aaddf2a41126ac800eb72
+    sha256sum: c53f83f1a2aad9c8f230dc64fc0161b78420804cbaa146fdc7bf070e58b46a88
     size: 22762743
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/geography-rohingya-rhg.zip
-    version: '2018-11-26'
+    version: '2018-11-27'
   geopolitique-fr:
     description: "Les enjeux g\xE9opolitiques de l'Afrique"
     language: fr
@@ -2112,11 +2112,11 @@ all:
     description: '-'
     language: rhg
     name: Health promotion (Rohingya)
-    sha256sum: 08930982300fa38163b6193ed38f1e884564ebba97d025bd89ccbe55373636fe
+    sha256sum: 668677d7dfbb38b15218876b482806e03a628c6dd7c13ff7095ecc0e29a551f0
     size: 53116115
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-promotion-rohingya-rhg.zip
-    version: '2018-11-26'
+    version: '2018-11-27'
   histoire-afrique-fr:
     description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
       \ les \xE9v\xE8nements du pr\xE9sent."
@@ -3315,11 +3315,11 @@ all:
     description: '-'
     language: rhg
     name: Music (Rohingya)
-    sha256sum: a5465ebc23a5b7233ab6116f51c247f1141dd1adc06fdb3701d2772fb4e90bca
+    sha256sum: 290ae607a9fd82386e0f143dc12cf9d3f1572d20672e75e4e3093dc65e48b764
     size: 94831456
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/music-rohingya-rhg.zip
-    version: '2018-11-26'
+    version: '2018-11-27'
   musique-en-arabe-ar:
     description: "\u0627\u0644\u0627\u0633\u062A\u0631\u062E\u0627\u0621 \u0648\u0627\
       \u0644\u0627\u0633\u062A\u0645\u0627\u0639 \u0625\u0644\u0649 \u0627\u0644\u0645\
@@ -3396,11 +3396,11 @@ all:
     description: '-'
     language: rhg
     name: News (Rohingya)
-    sha256sum: bed1b0b95edef3ca6fa702cbe05d458addeb868abff68886f0121be8008afb2b
+    sha256sum: 41385bcae7fce27bca0d140293e46f6dc19d5cf7ed3a92d3f82c7ed701502eff
     size: 227983241
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/news-rohingya-rhg.zip
-    version: '2018-11-26'
+    version: '2018-11-27'
   non-violent-communication-en:
     description: This package is an introduction to non violent communication, a communication
       process developed by Marshall Rosenberg in the 1960s. It is based on the principle
@@ -4075,23 +4075,25 @@ all:
   silent-animated-movies-en:
     description: Discover beautiful short films that tell stories without words!
     language: en
-    name: Silent Animated Movies
-    sha256sum: eee4aa5d49795839b6c24c0a0fce5e95d850ed3ad95bfebb67b06cf9f7e3608e
+    name: "Silent Animated Movies [\u0623\u0641\u0644\u0627\u0645 \u0627\u0646\u064A\
+      \u0645\u064A\u0634\u0646 \u0635\u0627\u0645\u062A\u0629]"
+    sha256sum: ace154ae1f845da5add5f9b699383674601eeef20b6c3a4968c11a12754a24a3
     size: 197704629
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/silent-animated-movies-en.zip
-    version: '2018-11-09'
+    version: '2018-11-27'
   silent-movies-en:
     description: An image is worth a thousand words. These movies will prove the truth
       of this proverb. From Metropolis to the iconic Charlie Chaplin movies, rediscover
       the power of acting without words.
     language: en
-    name: Silent movies
-    sha256sum: 6482d20f6783c903834168a0d4b06f97804994d3430d5874439203590efc3896
+    name: "Silent movies [\u0623\u0641\u0644\u0627\u0645 \u0635\u0627\u0645\u062A\u0629\
+      ]"
+    sha256sum: caafd46202d301710ae0b82ddc2da7e89951c1a54c7ad6970bbe110e755af913
     size: 8629262626
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/silent-movies-en.zip
-    version: '2018-09-28'
+    version: '2018-11-27'
   sociologie-du-travail-fr:
     description: "Des articles universitaires issues d'une revue sp\xE9cialis\xE9\
       e dans la sociologie du travail."
