@@ -3275,6 +3275,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/moyens-de-contraception-fr.zip
     version: '2018-08-28'
+  music-burmese-mm:
+    description: '-'
+    language: mm
+    name: Music (Burmese)
+    sha256sum: 671727f55b9e734e6ccd1d63da816dbe6e772a14a5b1293fd3046ecebf6a9e96
+    size: 34192506
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/music-burmese-mm.zip
+    version: '2018-11-27'
   music-in-arabic:
     description: "\u0627\u0644\u0627\u0633\u062A\u0631\u062E\u0627\u0621 \u0648\u0627\
       \u0644\u0627\u0633\u062A\u0645\u0627\u0639 \u0625\u0644\u0649 \u0627\u0644\u0645\
@@ -4077,7 +4086,7 @@ all:
     language: en
     name: "Silent Animated Movies [\u0623\u0641\u0644\u0627\u0645 \u0627\u0646\u064A\
       \u0645\u064A\u0634\u0646 \u0635\u0627\u0645\u062A\u0629]"
-    sha256sum: ace154ae1f845da5add5f9b699383674601eeef20b6c3a4968c11a12754a24a3
+    sha256sum: f2938c3c0b8b134ce329df2f64b01225980e731f6680fb4699f42f78ef273df1
     size: 197704629
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/silent-animated-movies-en.zip
@@ -4089,7 +4098,7 @@ all:
     language: en
     name: "Silent movies [\u0623\u0641\u0644\u0627\u0645 \u0635\u0627\u0645\u062A\u0629\
       ]"
-    sha256sum: caafd46202d301710ae0b82ddc2da7e89951c1a54c7ad6970bbe110e755af913
+    sha256sum: a980af8cd51471156beb5fe3c68bca1bfea6c803974424cedfd393b92f313c04
     size: 8629262626
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/silent-movies-en.zip
@@ -4202,6 +4211,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/talented-thinker-club-en.zip
     version: '2018-11-05'
+  tales-burmese-mm:
+    description: '-'
+    language: mm
+    name: Tales (Burmese)
+    sha256sum: 779c38c48e19252f4419dbc2c20941cf216d7a0d2c200746444c06df7ec685e9
+    size: 86341405
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/tales-burmese-mm.zip
+    version: '2018-11-27'
   tales-for-kids-ar:
     description: "\"A variety of fun and cultivating tales for kids. /\u0642\u0635\
       \u0635 \u0645\u0646\u0648\u0639\u0629 \u0627\u062F\u0628\u064A\u0629 \u0645\u0646\
