@@ -171,14 +171,14 @@ all:
     version: '2018-03-16'
   alcool-drogues-fr:
     description: "Identifier les effets de l'alcool, des drogues et pr\xE9venir les\
-      \ risques"
+      \ risques."
     language: fr
     name: Quels risques avec l'alcool et les drogues ?
-    sha256sum: 056357db5136538efb839fe916e805fdb6ed363102b352ee77618c6623e5405c
-    size: 59414477
+    sha256sum: fdb447c8e2841b4b84febe6a7e2fc23c702fef208b11f7cda0ab4f1547617cbb
+    size: 60320200
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/alcool-drogues-fr.zip
-    version: '2018-08-27'
+    version: '2018-11-29'
   anatomie-feminine-fr:
     description: "Des contenus autour de de l'anatomie f\xE9minine"
     language: fr
