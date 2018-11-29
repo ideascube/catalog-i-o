@@ -1913,18 +1913,14 @@ all:
     url: http://packages.ideascube.org/omeka/football-matches-ar.zip
     version: '2017-10-17'
   football-matches-en:
-    description: "\"A collection of different football matches. \u0645\u062C\u0645\
-      \u0648\u0639\u0629 \u0645\u0646 \u0645\u0628\u0627\u0631\u064A\u0627\u062A \u0643\
-      \u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0627\u0644\u0645\u062B\u064A\u0631\
-      \u0629.\r\n\r\nTeenagers, Adults\""
+    description: A collection of different football matches
     language: en
-    name: "\"Football Matches [\u0645\u0628\u0627\u0631\u064A\u0627\u062A \u0643\u0631\
-      \u0629 \u0627\u0644\u0642\u062F\u0645]\""
-    sha256sum: 6fbb9315216b4fa72b9331ddfb78840e107af92eafa648fb9f05dc15ba8c09f8
-    size: 6747177341
+    name: Football Matches
+    sha256sum: f2e6eb8c5a05aea24d31b17aca9cce5f983cf87d664f9751e7fd449f78911268
+    size: 6747178133
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/football-matches-en.zip
-    version: '2018-02-23'
+    version: '2018-11-29'
   formacion-profesional-colsubsidio-es:
     description: "formaci\xF3n profesional"
     language: es
