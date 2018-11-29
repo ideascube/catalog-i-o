@@ -2020,14 +2020,14 @@ all:
     url: http://packages.ideascube.org/omeka/geographie-afrique-fr.zip
     version: '2018-09-20'
   geography-rohingya-rhg:
-    description: '-'
+    description: How do I find in the camp?
     language: rhg
     name: Geography (Rohingya)
-    sha256sum: c53f83f1a2aad9c8f230dc64fc0161b78420804cbaa146fdc7bf070e58b46a88
-    size: 22762743
+    sha256sum: 77c57b2fe2332b02c32a084e38a3f42169de068a8a39335f85f0866ac536e8a7
+    size: 22762781
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/geography-rohingya-rhg.zip
-    version: '2018-11-27'
+    version: '2018-11-29'
   geopolitique-fr:
     description: "Les enjeux g\xE9opolitiques de l'Afrique"
     language: fr
@@ -2162,14 +2162,14 @@ all:
     url: http://packages.ideascube.org/omeka/health-and-nutrition-ar.zip
     version: '2018-11-29'
   health-promotion-rohingya-rhg:
-    description: '-'
+    description: How to take care?
     language: rhg
     name: Health promotion (Rohingya)
-    sha256sum: 668677d7dfbb38b15218876b482806e03a628c6dd7c13ff7095ecc0e29a551f0
-    size: 53116115
+    sha256sum: ef1aacfbde8876e622a5638e31374cffd433341544e15e1679f8d687babbcc61
+    size: 53116190
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-promotion-rohingya-rhg.zip
-    version: '2018-11-27'
+    version: '2018-11-29'
   histoire-afrique-fr:
     description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
       \ les \xE9v\xE8nements du pr\xE9sent."
@@ -3328,6 +3328,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/moyens-de-contraception-fr.zip
     version: '2018-11-29'
+  music-and-dance-rohingya-rhg:
+    description: Collection of music and local dance
+    language: rhg
+    name: Music and Dance (Rohingya)
+    sha256sum: bc209fc7adf7d13f2a7bd4aa34331aab26aed9e4c22a3038615d20018a3aa02f
+    size: 94831611
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/music-and-dance-rohingya-rhg.zip
+    version: '2018-11-29'
   music-burmese-mm:
     description: '-'
     language: mm
@@ -3455,14 +3464,14 @@ all:
     url: http://packages.ideascube.org/omeka/nervous-system-ar.zip
     version: '2017-10-17'
   news-rohingya-rhg:
-    description: '-'
+    description: What's happen?
     language: rhg
     name: News (Rohingya)
-    sha256sum: 41385bcae7fce27bca0d140293e46f6dc19d5cf7ed3a92d3f82c7ed701502eff
-    size: 227983241
+    sha256sum: 0370fba16573d1d48066055dea0d593409c738c597b6845980792b03ae3f32f6
+    size: 227983319
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/news-rohingya-rhg.zip
-    version: '2018-11-27'
+    version: '2018-11-29'
   non-violent-communication-en:
     description: This package is an introduction to non violent communication, a communication
       process developed by Marshall Rosenberg in the 1960s. It is based on the principle
@@ -3773,6 +3782,15 @@ all:
     size: 6120536487
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/programmation-et-bidouille-fr.zip
+    version: '2018-11-29'
+  protection-rohingya-rhg:
+    description: Learn about my rights
+    language: rhg
+    name: Protection (Rohingya)
+    sha256sum: 2b37c73458a4d845f87e1d06c4b7aeca8a8bef4786d9f7580518ab844ef398b8
+    size: 11225844
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/protection-rohingya-rhg.zip
     version: '2018-11-29'
   protege-la-planete-enfants-ados-fr:
     description: "Pourquoi c'est important de prot\xE9ger la plan\xE8te ? Que peut-on\
