@@ -94,11 +94,11 @@ all:
     language: ar
     name: "Abuse and Harassment [\u0627\u0644\u0639\u0646\u0641 \u0648\u0627\u0644\
       \u062A\u062D\u0631\u0634]"
-    sha256sum: 00e1fe1e291910907141bddb7e06a167f11f55a40858f0c4913cb8ae11d8a6a1
-    size: 195458957
+    sha256sum: 2981ef48ec354abf8f7adc4837bd5f63a2e3de77b881fb5d2ae727e48d2fdf75
+    size: 200301134
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/abuse-and-harassment-gbv-ar.zip
-    version: '2018-10-22'
+    version: '2018-11-29'
   activite-physique-enabel-fr:
     description: "Documentation \xE0 propos de l'activit\xE9 physique et du sport.\
       \ Des documents sur les bienfaits et les transformations du sport, le dopage,\
@@ -188,6 +188,21 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/anatomie-feminine-fr.zip
     version: '2017-11-24'
+  animals-documentaries-ar:
+    description: "A collection of documentaries about different animals and their\
+      \ different habitats.// \u0645\u062C\u0645\u0648\u0639\u0629 \u0623\u0641\u0644\
+      \u0627\u0645 \u0648\u062B\u0627\u0626\u0642\u064A\u0629 \u0639\u0646 \u062D\u064A\
+      \u0648\u0627\u0646\u0627\u062A \u0645\u062E\u062A\u0644\u0641\u0629 \u0648\u062A\
+      \u0643\u064A\u0641\u0627\u062A\u0647\u0627."
+    language: ar
+    name: "Animals Documentaries [\u0623\u0641\u0644\u0627\u0645 \u0648\u062B\u0627\
+      \u0626\u0642\u064A\u0629 \u0639\u0646 \u0627\u0644\u062D\u064A\u0648\u0627\u0646\
+      \u0627\u062A]"
+    sha256sum: 2c7567b2247012815a4055882318a0892e376d48ddd1cee4517e28b82472b39e
+    size: 4643309570
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/animals-documentaries-ar.zip
+    version: '2018-11-29'
   apply-for-a-job-el-el:
     description: "\u0391\u03BD\u03B1\u03B3\u03BD\u03C9\u03C1\u03AF\u03B6\u03C9 \u03C4\
       \u03B9\u03C2 \u03B4\u03B5\u03BE\u03B9\u03CC\u03C4\u03B7\u03C4\u03AD\u03C2 \u03BC\
@@ -638,11 +653,11 @@ all:
     language: ar
     name: "Cartoons [\u0627\u0641\u0644\u0627\u0645 \u0643\u0631\u062A\u0648\u0646\
       ]"
-    sha256sum: 7b43fcabcb60e843d05e187ca6ed390209d3b7ce5c7e4892f12f3c5646dc9bdf
-    size: 10366433509
+    sha256sum: 7232afed26d15d2c99b58087dbb9143707db1420432fec7614cbd46e2ea97062
+    size: 12360505004
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cartoons-ar.zip
-    version: '2018-11-05'
+    version: '2018-11-29'
   cartoons-en:
     description: Have fun with these cartoons featuring well-known characters!
     language: en
@@ -707,6 +722,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/classical-music.zip
     version: '2017-10-26'
+  classical-music-ar:
+    description: "The best selection of classical music/ \u062A\u0645\u062A\u0639\
+      \ \u0628\u0623\u062C\u0645\u0644 \u0627\u0644\u0645\u0642\u0637\u0648\u0639\u0627\
+      \u062A \u0627\u0644\u0643\u0644\u0627\u0633\u064A\u0643\u064A\u0629"
+    language: ar
+    name: "Classical Music [\u0645\u0648\u0633\u064A\u0642\u0649 \u0643\u0644\u0627\
+      \u0633\u064A\u0643\u0633\u0629]"
+    sha256sum: 5ec5bc29ae0d60db4c12972daca8f79f41765b8777d9d1b8cf25f72a75b182b9
+    size: 560598184
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/classical-music-ar.zip
+    version: '2018-11-29'
   classical-music-en:
     description: "\"The best selection of classical music/ \u062A\u0645\u062A\u0639\
       \ \u0628\u0623\u062C\u0645\u0644 \u0627\u0644\u0645\u0642\u0637\u0648\u0639\u0627\
@@ -1666,6 +1693,24 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/faites-le-tour-des-notions-de-citoyennete-et-politique.zip
     version: '2017-09-29'
+  family-and-life-coaching-ar:
+    description: "\u0627\u0644\u062F\u0643\u062A\u0648\u0631 \u062E\u0644\u064A\u0644\
+      \ \u0627\u0644\u0632\u064A\u0648\u062F - \u062E\u0628\u064A\u0631 \u062A\u0631\
+      \u0628\u0648\u064A \u0627\u0633\u0631\u064A \u064A\u062A\u062D\u062F\u062B \u062E\
+      \u0644\u0627\u0644 \u0628\u0631\u0646\u0627\u0645\u062C \u062F\u0646\u064A\u0627\
+      \ \u064A\u0627 \u062F\u0646\u064A\u0627 \u0639\u0646 \u0645\u062E\u062A\u0644\
+      \u0641 \u0627\u0644\u0645\u0648\u0627\u0636\u064A\u0639 \u0627\u0644\u0627\u062C\
+      \u062A\u0645\u0627\u0639\u064A\u0629 \u0648\u0627\u0644\u0639\u0627\u0626\u0644\
+      \u064A\u0629"
+    language: ar
+    name: "Family and Life Coaching [(\u062A\u0646\u0645\u064A\u0629 \u0627\u062C\u062A\
+      \u0645\u0627\u0639\u064A\u0629 \u0648\u0646\u0641\u0633\u064A\u0629 (\u062F\
+      . \u062E\u0644\u064A\u0644 \u0627\u0644\u0632\u064A\u0648\u062F]"
+    sha256sum: 7a65194225d425804faf99cc111fd67f0c6a7e7dde2896393df1dc86cc5e9222
+    size: 3879134338
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/family-and-life-coaching-ar.zip
+    version: '2018-11-29'
   fashion-and-beauty-ar:
     description: "Fashion and beauty tips, and some make up tutorials.// \u0646\u0635\
       \u0627\u0626\u062D \u062C\u0645\u0627\u0644 \u0648 \u0645\u0648\u0636\u0629\
@@ -2092,11 +2137,11 @@ all:
     language: ar
     name: "Health and Diseases [\u0627\u0644\u0635\u062D\u0629 \u0648\u0627\u0644\u0627\
       \u0645\u0631\u0627\u0636]"
-    sha256sum: 8b1b0bd93cefd018ac5f747f28a976b1174a25484c60f211533d3901d3d80328
-    size: 124925409
+    sha256sum: 61b27cc9388c7c0821a28f603fcd3bf2e4770e2082639c93395e6a73c8cbd5e9
+    size: 2952202197
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-and-diseases-ar.zip
-    version: '2018-11-05'
+    version: '2018-11-29'
   health-and-hygiene-en:
     description: Learn how to have a safe behavior and prevent contagious situations
       !   To complete this package, you will find a lot of other videos in the application
@@ -2108,6 +2153,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-and-hygiene-en.zip
     version: '2017-10-19'
+  health-and-nutrition-ar:
+    description: "Keep a healthy diet for a healthier life.// \u0627\u0628\u0642\u064A\
+      \ \u063A\u0630\u0627\u0626\u0643 \u0635\u062D\u064A \u0644\u062D\u064A\u0627\
+      \u0629 \u0635\u062D\u064A\u0629"
+    language: ar
+    name: "Health and Nutrition [\u063A\u0630\u0627\u0621 \u0648\u0635\u062D\u0629\
+      ]"
+    sha256sum: bfb69fb4520157ceec089a96c923015b86c8efaa85213d9c5d2138fba423289a
+    size: 1291539118
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/health-and-nutrition-ar.zip
+    version: '2018-11-29'
   health-promotion-rohingya-rhg:
     description: '-'
     language: rhg
@@ -3057,11 +3114,11 @@ all:
     language: ar
     name: "Let's Speak Arabic [\u0644\u0646\u062A\u0643\u0644\u0645 \u0627\u0644\u0639\
       \u0631\u0628\u064A\u0629]"
-    sha256sum: be619d641dd454da7d39bce0f217f1f077e819607406547ad7b67e6f1ffe284e
-    size: 302355549
+    sha256sum: 294f7225c6b40085f8ff8e19bc056897cac6560133a9c4bc794aeb5bdce24517
+    size: 311110987
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/let-s-speak-arabic-ar.zip
-    version: '2018-11-05'
+    version: '2018-11-29'
   let-s-speak-english-ar:
     description: "\"Learn English with these simple videos; new useful vocab and expressions.\
       \ .// \u062A\u0639\u0644\u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\
@@ -4086,11 +4143,11 @@ all:
     language: en
     name: "Silent Animated Movies [\u0623\u0641\u0644\u0627\u0645 \u0627\u0646\u064A\
       \u0645\u064A\u0634\u0646 \u0635\u0627\u0645\u062A\u0629]"
-    sha256sum: f2938c3c0b8b134ce329df2f64b01225980e731f6680fb4699f42f78ef273df1
+    sha256sum: ce800aa5278554cfd161ae5ae51695f2b3bb4d2de672842852f9bf14381590b0
     size: 197704629
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/silent-animated-movies-en.zip
-    version: '2018-11-27'
+    version: '2018-11-29'
   silent-movies-en:
     description: An image is worth a thousand words. These movies will prove the truth
       of this proverb. From Metropolis to the iconic Charlie Chaplin movies, rediscover
@@ -4098,11 +4155,25 @@ all:
     language: en
     name: "Silent movies [\u0623\u0641\u0644\u0627\u0645 \u0635\u0627\u0645\u062A\u0629\
       ]"
-    sha256sum: a980af8cd51471156beb5fe3c68bca1bfea6c803974424cedfd393b92f313c04
+    sha256sum: c838eb98e98b76d191c8462d0a6ac7318f807fa21c2a4c87a6c2a4d88c176026
     size: 8629262626
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/silent-movies-en.zip
-    version: '2018-11-27'
+    version: '2018-11-29'
+  simple-musical-instruments-ar:
+    description: "How to play these simple musical instruments and some song ideas.\
+      \ // \u0637\u0631\u0642 \u0627\u0644\u0639\u0632\u0641 \u0639\u0644\u0649 \u0628\
+      \u0639\u0636 \u0627\u0644\u0627\u0644\u0627\u062A \u0627\u0644\u0645\u0648\u0633\
+      \u064A\u0642\u064A\u0629 \u0627\u0644\u0628\u0633\u064A\u0637\u0629 \u0648\u0627\
+      \u0641\u0643\u0627\u0631 \u0627\u063A\u0627\u0646\u064A"
+    language: ar
+    name: "Simple Musical Instruments [\u0627\u0644\u0627\u062A \u0645\u0648\u0633\
+      \u064A\u0642\u064A\u0629 \u0633\u0647\u0644\u0629]"
+    sha256sum: 8a3305b1722880a48fdf375b5a5525095af8c350bd7a7d310b27941e5211bf62
+    size: 15626576
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/simple-musical-instruments-ar.zip
+    version: '2018-11-29'
   sociologie-du-travail-fr:
     description: "Des articles universitaires issues d'une revue sp\xE9cialis\xE9\
       e dans la sociologie du travail."
@@ -4164,11 +4235,11 @@ all:
       \u0636\u0627\u0621 \u0627\u0644\u0648\u0627\u0633\u0639"
     language: ar
     name: "Space Science [\u0639\u0644\u0645 \u0627\u0644\u0641\u0636\u0627\u0621]"
-    sha256sum: b2d6f93c311b6e27831ac87d86b9af2a8553bcaefddde90be1bfbc36e693c2ce
-    size: 467847180
+    sha256sum: d3c8797c8bb179c40cf79f184a9066a8fc0c39737b874bea12aeceb2465faf5f
+    size: 470003545
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/space-science-ar.zip
-    version: '2018-11-05'
+    version: '2018-11-29'
   sport-football-fr:
     description: "Vous souhaitez vous perfectionner en football ? D\xE9couvrir un\
       \ nouveau sens au mot \"sport\" ? C'est ici !"
@@ -4201,6 +4272,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sports-enfants-ados-fr.zip
     version: '2018-08-27'
+  talented-thinker-club-ar:
+    description: Short animation movies that carry a meaningful message.
+    language: ar
+    name: "Talented & Thinker Club [\u0645\u0648\u0647\u0648\u0628 \u0648\u0645\u0641\
+      \u0643\u0631]"
+    sha256sum: 9025087d803225dee6cae492052895f55d1d58f62602534031438a04c9de5823
+    size: 698742504
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/talented-thinker-club-ar.zip
+    version: '2018-11-29'
   talented-thinker-club-en:
     description: Short animation movies that carry a meaningful message.
     language: en
@@ -4442,11 +4523,11 @@ all:
     language: ar
     name: "Women Empowerment [\u062A\u0639\u0632\u064A\u0632 \u0627\u0644\u0645\u0631\
       \u0627\u0629]"
-    sha256sum: 154271ce7dba031675c4601d4597e30afca5685e6d0dbad0bd879f5989032557
-    size: 203079240
+    sha256sum: bc0e0ba1b0ae6031b7c3773a71633db9ba6e0002c2e6c5a5504895b42bc5c506
+    size: 207921417
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/women-empowerment-ar.zip
-    version: '2018-10-22'
+    version: '2018-11-29'
   women-in-african-history-en:
     description: '"This series highlights some of the contributions of key women figures
       to the history of Africa. This list is far from exhaustive but will walk the
