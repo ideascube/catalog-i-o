@@ -174,7 +174,7 @@ all:
       \ risques."
     language: fr
     name: Quels risques avec l'alcool et les drogues ?
-    sha256sum: fdb447c8e2841b4b84febe6a7e2fc23c702fef208b11f7cda0ab4f1547617cbb
+    sha256sum: ce4f2a35607bddd8545966ebae8d7b4c33cfd87e114f7d76239c6dfd525d013e
     size: 60320200
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/alcool-drogues-fr.zip
@@ -1023,14 +1023,14 @@ all:
   culture-numerique-fr:
     description: "La culture num\xE9rique comprend des vid\xE9os \xE0 propos de  la\
       \ culture geek, la science fiction, l'histoire des jeux vid\xE9os et d'autres\
-      \ sujets d'actualit\xE9 comme la r\xE9alit\xE9 virtuelle et augment\xE9e."
+      \ sujets d'actualit\xE9 comme la r\xE9alit\xE9 virtuelle et augment\xE9e..."
     language: fr
     name: "Culture num\xE9rique"
-    sha256sum: 9d165868be2b3e1fcbce38b6bfcc43533c064666127ec4f371d52cb64aace9c9
-    size: 3428875492
+    sha256sum: 9c52dcc8074faa3cd42c33c4ff06f5d844b63059ecba17414c38c3dd5c8800d6
+    size: 3433054261
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/culture-numerique-fr.zip
-    version: '2018-07-12'
+    version: '2018-11-29'
   danse-des-mots-rfi-fr:
     description: "\"\xC9mission RFI : \"Danse des mots\"\""
     language: fr
@@ -1185,14 +1185,14 @@ all:
   discriminations-enfants-ados-fr:
     description: "On est tous diff\xE9rents, mais tous des \xEAtres humains ! Pour\
       \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
-      \ \xE0 accepter les diff\xE9rences des qui nous entourent. (Enfants et ados)"
+      \ \xE0 accepter les diff\xE9rences des qui nous entourent. (Enfants et ados)."
     language: fr
     name: Combattons les discriminations
-    sha256sum: 36ebb6ad38347f9cd46ef1e6bce3b7e8bec7d0f1120369f33c9460929844ce90
-    size: 616019591
+    sha256sum: c32bc70a576d14247ba9b20920251d494ab233efca8e6474ed28923b71520bc4
+    size: 617652623
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discriminations-enfants-ados-fr.zip
-    version: '2018-08-27'
+    version: '2018-11-29'
   discriminations-enfants-fr:
     description: "On est tous diff\xE9rents, mais tous des \xEAtres humains ! Pour\
       \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
@@ -1276,14 +1276,14 @@ all:
   diy-travaux-manuels-fr:
     description: "Envie de r\xE9aliser un objet simple avec du mat\xE9riel recycl\xE9\
       \ ? De cr\xE9er tout un univers avec du papier ? De faire un scoubidou original\
-      \ ? c'est l\xE0 !"
+      \ ? c'est l\xE0 !!"
     language: fr
     name: Do It Yourself !
-    sha256sum: 4290648930f79a7b6259e2d376504761ca6addd6e9d450e8d6b172e78194c765
-    size: 2505276733
+    sha256sum: a230ea7d79d21cddf8496dbde660ea33fc12e3a4ae3ce4f34d67e9e6f6f057cc
+    size: 2512751220
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/diy-travaux-manuels-fr.zip
-    version: '2018-08-28'
+    version: '2018-11-29'
   documents-methodologiques-rfi-fr:
     description: "\"Documents m\xE9thodologiques\""
     language: fr
@@ -1627,14 +1627,14 @@ all:
     description: "Femmes intellectuelles, femmes footballeuses, femmes soldats ou\
       \ femmes geeks. Vous trouverez ici du contenu sur l'immense diversit\xE9 d'exp\xE9\
       riences des femmes. Des exp\xE9riences les plus intimes (les r\xE8gles, les\
-      \ violences) aux plus incroyables (r\xE9volution des femmes saoudiennes)."
+      \ violences) aux plus incroyables (r\xE9volution des femmes saoudiennes)"
     language: fr
     name: "Exp\xE9riences de femmes"
-    sha256sum: d25b4fcec6b226c6bd96b0749245e09ce2a5a1165ad7730712f2aa3108917335
-    size: 712704285
+    sha256sum: 392e4ad7b1a587711d5b0e1ad56b5cc8f006bf3df128a7702729d99277e2e6ef
+    size: 715316660
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/experiences-de-femmes-fr.zip
-    version: '2018-08-27'
+    version: '2018-11-29'
   fabriquer-des-meubles-avec-des-palettes-sikana-fr:
     description: "D\xE9couvrez comment recycler des palettes en bois pour fabriquer\
       \ des meubles"
@@ -2075,14 +2075,14 @@ all:
     version: '2018-06-07'
   harcelement-enfants-fr:
     description: "Des contenus autour des questions de harc\xE8lement pour l'identifier\
-      \ et apprendre \xE0 se d\xE9fendre."
+      \ et apprendre \xE0 se d\xE9fendre..."
     language: fr
     name: "Non au harc\xE8lement !"
-    sha256sum: 11dc49faa6fc74f806aa78bfaf03729c7abd0cc7618f8b2a8fcb73aad57a2e08
-    size: 42870770
+    sha256sum: 8741973c3880ef9ea8391623c0998e40f4225ca67108d99d88ba0028b160b3ed
+    size: 43891075
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/harcelement-enfants-fr.zip
-    version: '2018-08-27'
+    version: '2018-11-29'
   health-and-diseases-ar:
     description: "Learn about certain diseases and how to prevent them.// \u0627\u0639\
       \u0631\u0641 \u0627\u0643\u062B\u0631 \u0639\u0646 \u0628\u0639\u0636 \u0627\
@@ -2682,14 +2682,14 @@ all:
     description: "Animatrices, animateurs de l'Ideas Box, vous trouverez ici des supports\
       \ pour vous aider dans la mise en place d'atelier de m\xE9diation au sein de\
       \ votre Ideas Box. N'h\xE9sitez pas \xE0 les utiliser pour trouver des id\xE9\
-      es et d\xE9velopper de nouvelles animations !"
+      es et d\xE9velopper de nouvelles animations !!"
     language: fr
     name: Kit de l'animateur
-    sha256sum: 3ea64244c499bd6563eff03925ab9ebe4beb65dd5eeb4a99c2f94037159c36f0
-    size: 299331758
+    sha256sum: 8cefe2fd73b882481482185091ae6b7a56882a5ac929b411f5343f8a019bab7b
+    size: 302993285
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/kit-de-l-animateur-fr.zip
-    version: '2018-09-07'
+    version: '2018-11-29'
   kit-de-l-animateur-libre-de-droit-fr:
     description: "Support de m\xE9diation pour l'animateur-trice"
     language: fr
@@ -2757,14 +2757,14 @@ all:
     url: http://packages.ideascube.org/omeka/la-marche-du-monde-rfi-fr.zip
     version: '2018-02-28'
   la-sante-enfants-ado-fr:
-    description: Comprendre son corps et en prendre soin.
+    description: Comprendre son corps et en prendre soin
     language: fr
     name: "Pour \xEAtre en bonne sant\xE9 !"
-    sha256sum: 406190ddac45bb6f82cc858349f69d4668ca7dae671f8d3384a409918f54bda8
-    size: 244750580
+    sha256sum: c5d852e93ab1ff40adf1446a1771277986222cb435136a5b81c5efe73af91ba6
+    size: 246058831
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-enfants-ado-fr.zip
-    version: '2018-08-28'
+    version: '2018-11-29'
   le-tableau-electrique-sikana-fr:
     description: "\"Avec nos vid\xE9os \xE9ducatives du programme \xAB \xC9lectricit\xE9\
       \ pour tous \xBB, d\xE9couvrez les bases de l\u2019\xE9lectricit\xE9, quelles\
@@ -3270,11 +3270,11 @@ all:
       \ de protection et de contraception pour filles et gar\xE7ons ?"
     language: fr
     name: Quelle contraception pour moi, pour nous ?
-    sha256sum: 30017c3f810616eb4620e0e5e822bfa8b3354b0b279578567bf78d5af2bd2d53
-    size: 70290337
+    sha256sum: afc5905444075ef3ef93c96cd56c77fcd25714bc5cb12d46c554d72fb0e79d67
+    size: 71555275
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/moyens-de-contraception-fr.zip
-    version: '2018-08-28'
+    version: '2018-11-29'
   music-burmese-mm:
     description: '-'
     language: mm
@@ -3713,24 +3713,24 @@ all:
   programmation-et-bidouille-fr:
     description: "Programmation et bidouille pr\xE9sente des vid\xE9os concernant\
       \ la d\xE9couverte et l'apprentissage de diff\xE9rents langages et des notions\
-      \ d'\xE9lectronique"
+      \ d'\xE9lectronique."
     language: fr
     name: Programmation et bidouille
-    sha256sum: 727c444f2b45946e9a2768b2a47dbb8a4ebffda8655bb373279d6ecee86883c4
-    size: 6117909776
+    sha256sum: 3d8e9b4d82569fb57b27ca8de2581a11d7fbe578c4e07e001ea93073ae463623
+    size: 6120536487
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/programmation-et-bidouille-fr.zip
-    version: '2018-07-12'
+    version: '2018-11-29'
   protege-la-planete-enfants-ados-fr:
     description: "Pourquoi c'est important de prot\xE9ger la plan\xE8te ? Que peut-on\
       \ faire pour la prot\xE9ger, tous ensemble ?"
     language: fr
     name: "Prot\xE9geons la plan\xE8te !"
-    sha256sum: fa44bc72338fc411f52b82725243a5ace6028fafc1d9d64b416742554bad18fc
-    size: 1911478570
+    sha256sum: e0cc4570717d9c45087f53fafd1e89fb3f1cfc9c1bf02b4d68c6c4b24d639dac
+    size: 1912960114
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/protege-la-planete-enfants-ados-fr.zip
-    version: '2018-08-27'
+    version: '2018-11-29'
   protegeons-la-planete-fr:
     description: "Pourquoi c'est important de prot\xE9ger la plan\xE8te ? Que peut-on\
       \ faire pour la prot\xE9ger, tous ensemble ?"
@@ -3911,11 +3911,11 @@ all:
       ducation aux m\xE9dias et \xE0 la d\xE9finition du citoyennet\xE9 num\xE9rique."
     language: fr
     name: S'informer sur internet
-    sha256sum: 4293b25aad09616477dd60a85e6d2b121c46098639860b3638ae9895dbf08a46
-    size: 3562097554
+    sha256sum: 922b0822005a55c6154f0cffa77e764562758b472fdf709b73cc3b100f843677
+    size: 3563935584
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/s-informer-sur-internet-fr.zip
-    version: '2018-07-12'
+    version: '2018-11-29'
   sante-les-bases-fr:
     description: "Un petit kit pour avoir les bons r\xE9flexes de premiers secours\
       \ et savoir pr\xE9venir les maladies et infections... Pour soi, et pour les\
@@ -4142,11 +4142,11 @@ all:
     description: "Comprendre \xE0 quoi sert le sommeil, pourquoi on r\xEAve?"
     language: fr
     name: Bien dormir
-    sha256sum: aab129d2b13afd71ae5320b7c4256922496458fa534ababd95bac893609752e3
-    size: 237448006
+    sha256sum: 2cc0e44bdf1df0ea2f56ab5d88684cbe7c3b917949dbabf8c5ecbb09d260b73e
+    size: 237868030
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sommeil-enfants-fr.zip
-    version: '2018-08-28'
+    version: '2018-11-29'
   soudure-enabel-fr:
     description: "Documentation pour se former en soudure. Des documents d\xE9crivant\
       \ l'utilisation d'un poste de soudure \xE0 l'arc, au M.I.G, la r\xE9duction\
@@ -4381,11 +4381,11 @@ all:
       \ de pr\xE9vention et de protection."
     language: fr
     name: "Se prot\xE9ger du VIH"
-    sha256sum: 16583414eee0132904ee5d8ffcabdc6f0026d4d3e4178c767b4e008849624589
-    size: 73751663
+    sha256sum: 036a11aa6ccd7c5d242d15158f0ae7b8cc127f1d8ed4bff6d11fa0d691d5d631
+    size: 74104637
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/vih-sida-fr.zip
-    version: '2018-08-28'
+    version: '2018-11-29'
   violences-faites-aux-femmes-fr:
     description: "Conna\xEEtre et combattre les violences sp\xE9cifiques aux femmes"
     language: fr
