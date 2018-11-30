@@ -180,3 +180,12 @@ all:
     size: 9812386111
     sha256sum: 417a60ab5f9cec27d1473e88c2041a6611c051a22c17d60cd5373a0cff4c515e
     type: static-site
+  audacity-manual.en:
+    name: "Audacity Tutorials"
+    description: "Learn to work on sound with Audacity"
+    version: "2018-11-30"
+    language: en
+    url: http://packages.ideascube.org/static-sites/audacity-manual-en.zip
+    size: 19446497
+    sha256sum: aa39a98aca7e59bca8ac54fdecf1c20ecaf52a581d9e4d9429eb251688a0353d
+    type: static-site
