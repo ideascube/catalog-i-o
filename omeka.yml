@@ -2257,6 +2257,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-occidentale-fr.zip
     version: '2018-01-18'
+  history-africa-en:
+    description: Learn in english the history of Africa
+    language: en
+    name: History of Africa
+    sha256sum: ebe38dc9c3cb017fd198a41afe60fbee33205d3eb619d9e36ab6511bd4367f12
+    size: 552437889
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/history-africa-en.zip
+    version: '2018-12-04'
   how-do-i-control-my-weight-en:
     description: A package detailing how you can use healthy eating and exercise to
       reduce your weight.  Includes info on exercise, nutrition, calories counting,
@@ -2278,6 +2287,36 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/how-do-i-stay-healthy-with-diabetes-en.zip
     version: '2018-03-27'
+  how-does-alcohol-affect-my-body-en:
+    description: A package detailing the effects, both longterm and shot, that alcohol
+      has on the body
+    language: en
+    name: How does alcohol affect my body?
+    sha256sum: b1bf9aa29f89a13af2c63539b560c477ea15e8b4d1823a522dfe98a28b88efb8
+    size: 758138
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/how-does-alcohol-affect-my-body-en.zip
+    version: '2018-12-04'
+  how-to-improve-your-english-skills-en:
+    description: 'You will find here videos and tutorials to improve your English
+      skills: from pronunciation to writing.'
+    language: en
+    name: How to improve your English skills
+    sha256sum: 3b9454c8c6796b06d2116f6290028da88ee20bef46b50f627aae7850c56c59e7
+    size: 440676672
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/how-to-improve-your-english-skills-en.zip
+    version: '2018-12-04'
+  how-to-write-in-a-professional-context-en:
+    description: You will find in this package videos and tutorials on how to use
+      written English in a professional environment.
+    language: en
+    name: How to write in a professional context
+    sha256sum: 5b8d8235e63c4037ea2076d6e2c8a84cd7b39ab62dfa40d435e9683051f2827c
+    size: 132540471
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/how-to-write-in-a-professional-context-en.zip
+    version: '2018-12-04'
   hygiene-af-fr:
     description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
       ne et \xE9viter les maladies !"
@@ -2330,6 +2369,36 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/hygiene-enfants-fr.zip
     version: '2017-06-23'
+  i-have-diabetes-how-should-i-take-care-of-myself-en:
+    description: If you have diabetes and have questions about how to take care of
+      yourself, click here
+    language: en
+    name: I have diabetes, how should I take care of myself?
+    sha256sum: 3bc69be9e6f7c3f5e9c3877e81b8b16cab6aef2e516bff8651391d3289e9d4ed
+    size: 1332584
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/i-have-diabetes-how-should-i-take-care-of-myself-en.zip
+    version: '2018-12-04'
+  i-m-worried-my-child-is-drinking-what-can-i-do-en:
+    description: A package describing how to talk to your child about alcohol and
+      drug use, as well tips for prevention.
+    language: en
+    name: I'm worried my child is drinking.  What can I do?
+    sha256sum: 7da3ad1a3107e3189b6a4df6d09197a24700fd259d7c3042d8ec17ff4797b606
+    size: 3112402
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/i-m-worried-my-child-is-drinking-what-can-i-do-en.zip
+    version: '2018-12-04'
+  if-i-m-pregnant-how-do-drugs-and-alcohol-affect-me-en:
+    description: If you are pregnant and have questions about drug, tobacco, or alcohol
+      use, click here
+    language: en
+    name: If I'm pregnant, how do drugs and alcohol affect me?
+    sha256sum: 6fe3d1abcbb0da60cf89ed9a0fab89786caa4829514f05fbbbbbeb443c089e0e
+    size: 4150964
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/if-i-m-pregnant-how-do-drugs-and-alcohol-affect-me-en.zip
+    version: '2018-12-04'
   il-etait-une-fois-notre-terre-fr:
     description: "S\xE9rie t\xE9l\xE9vis\xE9e d'animation fran\xE7aise qui explique\
       \ aux enfants la notion de d\xE9veloppement durable, pr\xE9sent\xE9e comme un\
@@ -2559,11 +2628,11 @@ all:
       and 3D printing.
     language: en
     name: Introduction to 3D modelling with Blender
-    sha256sum: e7a052d24c84b7b368a3d9d489e0a36407e47482d712fcf29c289dd824864182
-    size: 2017233304
+    sha256sum: fccaa20faf609e1a4e52a0b65c30ff562108e11177fb733f7f4b62d8e47e33c8
+    size: 2017235314
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-3d-modelling-with-blender-en.zip
-    version: '2017-06-01'
+    version: '2018-12-04'
   introduction-to-anthropology-en:
     description: You want to improve your knowledge in anthropology? You will find
       very interesting resumes here !
@@ -2666,18 +2735,18 @@ all:
     url: http://packages.ideascube.org/omeka/introduction-to-human-rights-for-children-en.zip
     version: '2017-09-25'
   introduction-to-journalism-en:
-    description: '"You are interested in journalism? Or just curious about what a
-      journalist''s everyday life looks like? Learn about the challenges and highlights
-      of a journalistic career with this selection of videos and tutorials. This package
-      of contents will provide you with tips and advices to become a rigorous reporter,
-      as well as help you uncover the different facets of journalism."'
+    description: You are interested in journalism? Or just curious about what a journalist's
+      everyday life looks like? Learn about the challenges and highlights of a journalistic
+      career with this selection of videos and tutorials. This package of contents
+      will provide you with tips and advices to become a rigorous reporter, as well
+      as help you uncover the different facets of journalism.
     language: en
-    name: '"Introduction to journalism"'
-    sha256sum: b7f11cc909a777fa1a2934f5ef936cb6d8a8d3afca1176df93dcabc1858063dc
-    size: 742424098
+    name: Introduction to journalism
+    sha256sum: 8552e8825a39ca82e729f46e7c11c8fe3f264164ab4416c8ebbe1b30f74893d2
+    size: 758125789
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-journalism-en.zip
-    version: '2018-02-28'
+    version: '2018-12-04'
   introduction-to-philosophy-en:
     description: You want to enrich your knowledge in philosophy? You will find very
       interesting resumes here !
@@ -3015,11 +3084,11 @@ all:
       \ TEDed !"
     language: en
     name: Learn to know and manage your feelings
-    sha256sum: 4e4a18d82679139467646b797db731b24806b0bd19443dcb2de7cb2d5b1859e6
-    size: 4160711
+    sha256sum: ba2e04d42ad460c7db8e1cd4af664f013c26438e121f4289c1413998008fd9fc
+    size: 103006324
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-to-know-and-manage-your-feelings-en.zip
-    version: '2018-09-10'
+    version: '2018-12-04'
   learn-to-read-and-count-in-farsi-children:
     description: "Learn to read and count in farsi ! \u06CC\u0627\u062F\u06AF\u06CC\
       \u0631\u06CC \u062E\u0648\u0627\u0646\u062F\u0646 \u0648 \u0634\u0645\u0627\u0631\
@@ -3048,11 +3117,11 @@ all:
       with your French speaking friends.
     language: en
     name: Learning French
-    sha256sum: bbf5aebf784275a0788e090f7cb6909db62638d033e297a6c4ed5b962ff132a9
-    size: 300235084
+    sha256sum: 6343e3e62c0728c885ed58b842464339363a8752886f3daa8b53aaa5656822de
+    size: 300236218
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learning-french-en.zip
-    version: '2017-06-01'
+    version: '2018-12-04'
   learning-languages-english-el-el:
     description: "\u03A4\u03B1 \u03C0\u03C1\u03CE\u03C4\u03B1 \u03B2\u03AE\u03BC\u03B1\
       \u03C4\u03B1 \u03C3\u03C4\u03B7 \u03B1\u03B3\u03B3\u03BB\u03B9\u03BA\u03AE \u03B3\
@@ -3107,6 +3176,26 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learning-languages-greek-el-el.zip
     version: '2018-09-10'
+  learning-to-read-and-write-level-1-en:
+    description: This package contains learning material to practice reading and writing
+      skills in English. It targets audience with beginner literacy level.
+    language: en
+    name: Learning to read and write Level 1
+    sha256sum: 2906f85fe9f371708b083038b2961633da52c2e70d60d8c81a9fc85ef0ba686b
+    size: 2553970
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learning-to-read-and-write-level-1-en.zip
+    version: '2018-12-04'
+  learning-to-read-and-write-level-2-en:
+    description: This package contains learning material to practice reading and writing
+      skills in English. It targets audience with intermediate literacy level.
+    language: en
+    name: Learning to read and write Level 2
+    sha256sum: 481db360f446834416cc5cf1578dfef6ae957aabb5d2d7e3fbb590048a01e1cb
+    size: 6731995
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learning-to-read-and-write-level-2-en.zip
+    version: '2018-12-04'
   les-bases-de-l-informatique-fr:
     description: "Ces ressources vous guideront dans l'utilisation des logiciels de\
       \ traitement de texte, tableur, pr\xE9sentation et vous permettront de comprendre\
@@ -3195,6 +3284,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/let-s-talk-about-sexuality-ar-ar.zip
     version: '2018-02-23'
+  let-s-talk-about-sexuality-en-en:
+    description: Learn more about menstruations and sexuality
+    language: en
+    name: Let's talk about sexuality
+    sha256sum: 933e2e9be31bc9cc91005d8e435ea5b191bf8f64b7cdca93e214c70b582a30a7
+    size: 178820538
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/let-s-talk-about-sexuality-en-en.zip
+    version: '2018-12-04'
   let-s-talk-about-sexuality-fa:
     description: Talk about sexuality in farsi language.
     language: fa
@@ -3933,6 +4031,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/raconte-moi-la-nature-fr.zip
     version: '2018-05-15'
+  reading-and-writing-games-en:
+    description: You will find within this package games that will enable you to exercise
+      your reading and writing abilities in an amusing way.
+    language: en
+    name: Reading and writing games
+    sha256sum: 7a19a4308f68a8218e4ac6989dd18bf3e7e774b2763d43f7d341bac76892469a
+    size: 2283471
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/reading-and-writing-games-en.zip
+    version: '2018-12-04'
   recherche-demploi-fr:
     description: "Vous cherchez un emploi ? Vous trouverez ici de quoi vous aider\
       \ \xE0 pr\xE9parer candidature et entretien d'embauche."
@@ -4520,14 +4628,14 @@ all:
     version: '2018-05-15'
   tutorials-for-using-programs-en:
     description: It explains basic electronic components and software like inkscape
-      - gimp - blender - scribus - raspberry pi
+      - gimp - blender - scribus - raspberry pi - audacity - DaVinci - krita
     language: en
     name: Tutorials for using programs
-    sha256sum: fc92161bbf23da72b818681b5a110b800809184f2b07a55f0a937283cad1aa2f
-    size: 3345352330
+    sha256sum: 375346180d97fa77cc93b842555b00e0a5fb3943d6b7b78c54d03b29033314af
+    size: 4047455091
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/tutorials-for-using-programs-en.zip
-    version: '2018-09-10'
+    version: '2018-12-04'
   tutoriels-pour-utiliser-des-logiciels-et-des-applications-fr:
     description: "Tutoriels pour utiliser des logiciels et des applications\r\n- \xEA\
       tre en capacit\xE9 de prendre en mains les logiciels propos\xE9s sur les ordinateurs\
@@ -4611,6 +4719,25 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/waqt-al-farah-ar.zip
     version: '2018-02-23'
+  what-are-the-basics-of-diabetes-en:
+    description: A package containing the basic information about diabetes
+    language: en
+    name: What are the basics of diabetes?
+    sha256sum: 0cef8cb9e28ca38391fd1a2bc5403611dd4569de43d0f9300422b9f218fb39db
+    size: 1022210
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/what-are-the-basics-of-diabetes-en.zip
+    version: '2018-12-04'
+  what-does-addiction-look-like-en:
+    description: A package outlining the the signs of addiction and how to deal with
+      it
+    language: en
+    name: What does addiction look like?
+    sha256sum: fde85ebd315cb06aeb96e4ee56ddded8b9c9f26b6771b27d19f6d2fd6dab5552
+    size: 3359685
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/what-does-addiction-look-like-en.zip
+    version: '2018-12-04'
   when-should-i-go-to-the-emergency-room-en:
     description: a package containing text pdfs describing when you should seek immediate
       medical attention for adults and children
@@ -4632,6 +4759,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/women-empowerment-ar.zip
     version: '2018-11-29'
+  women-empowerment-en:
+    description: Learn about women and empowerment
+    language: en
+    name: Women empowerment
+    sha256sum: ccc6bb8d7d02b87d74380621f4a17df8355c7eb3740d5c5fe78fc731648ec274
+    size: 659502840
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/women-empowerment-en.zip
+    version: '2018-12-04'
   women-in-african-history-en:
     description: '"This series highlights some of the contributions of key women figures
       to the history of Africa. This list is far from exhaustive but will walk the
