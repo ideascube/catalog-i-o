@@ -188,7 +188,7 @@ all:
     description: "Project Gutenberg offers free ebook (epub and pdf)"
     sha256sum: "165f3939d7a398d1cd80064d3a31a4a9b8df831d60f0b4ad5d0e3d7d85056c32"
     langid: "gutenberg.en"
-    type: zipped-zim
+    type: zim
   gutenberg.fr:
     version: "2014-10-31"
     size: 2380948535
