@@ -1557,12 +1557,12 @@ all:
     description: "Respire, \xE9coute tes \xE9motions, es-tu en col\xE8re, joyeux,\
       \ triste ? Tu te sentiras mieux avec toi-m\xEAme et avec les autres !"
     language: fr
-    name: "Comment g\xE9rer mes \xE9motions ?"
-    sha256sum: 14c1621650e1a3843e3fda9c896108ccc04fcc1549f003cd7b5424e8797f3cdf
-    size: 168586582
+    name: "Comment r\xE9guler mes \xE9motions ?"
+    sha256sum: 5fc280c7529418035ba4950adfd663c44a30ec79e3c9c00ddf60d4d52451be4f
+    size: 169453006
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ecoute-tes-emotions-enfants-ados-fr.zip
-    version: '2018-05-15'
+    version: '2018-12-05'
   ecriture-et-litterature-fr:
     description: "\"Vous avez toujours r\xEAv\xE9 de devenir \xE9crivain ? C'est le\
       \ moment de vous lancer !\""
@@ -2321,12 +2321,12 @@ all:
     description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
       ne et \xE9viter les maladies !"
     language: fr
-    name: "Hygi\xE8ne (Af)"
-    sha256sum: 89dd4e8e488c64e8162e6f7608ba1f6210f0bb91d8421433d9bba2df445f0078
-    size: 95163146
+    name: "Hygi\xE8ne"
+    sha256sum: da3a9a96e20929abb747b79f261e6cd25dd551b395a3c8576b982fc68c61f0a3
+    size: 95163408
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/hygiene-af-fr.zip
-    version: '2018-04-06'
+    version: '2018-12-05'
   hygiene-afrique-fr:
     description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
       ne et \xE9viter les maladies !"
