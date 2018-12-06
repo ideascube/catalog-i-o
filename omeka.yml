@@ -94,11 +94,11 @@ all:
     language: ar
     name: "Abuse and Harassment [\u0627\u0644\u0639\u0646\u0641 \u0648\u0627\u0644\
       \u062A\u062D\u0631\u0634]"
-    sha256sum: 2981ef48ec354abf8f7adc4837bd5f63a2e3de77b881fb5d2ae727e48d2fdf75
-    size: 200301134
+    sha256sum: b78f000437ad23592e41fc4372e83a9e07159441b44daa130035392910e10f4d
+    size: 157022417
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/abuse-and-harassment-gbv-ar.zip
-    version: '2018-11-29'
+    version: '2018-12-06'
   activite-physique-enabel-fr:
     description: "Documentation \xE0 propos de l'activit\xE9 physique et du sport.\
       \ Des documents sur les bienfaits et les transformations du sport, le dopage,\
@@ -3481,11 +3481,11 @@ all:
     language: ar
     name: "Motherhood and Parenting [\u0627\u0645\u0648\u0645\u0629 \u0648\u0627\u0628\
       \u0648\u0629]"
-    sha256sum: 255d8162c4fdb9b743cad064041d638c9494df8144d9c808b999136823ec0156
-    size: 1427714351
+    sha256sum: 4583bbad7cbb157accdd2dd2aacb43c273e1982a592dbc0ca05a6827205322dd
+    size: 1417570355
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/motherhood-and-parenting-ar.zip
-    version: '2018-03-27'
+    version: '2018-12-06'
   moyens-de-contraception-fr:
     description: "La contraception c'est quoi ? Quels sont les diff\xE9rents moyens\
       \ de protection et de contraception pour filles et gar\xE7ons ?"
@@ -4240,11 +4240,11 @@ all:
     language: ar
     name: "Self Development [\u062A\u0637\u0648\u064A\u0631 \u0627\u0644\u0630\u0627\
       \u062A]"
-    sha256sum: 06a4e30d5198af64283ffb186d3971ad03abcf80eae51d0400335d16f3de32ae
-    size: 3331598799
+    sha256sum: c92da5ca45a7d4e107d9247c0cfc75f8b81efc8024311166bbd20f6984349ca0
+    size: 3298530822
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/self-development-ar.zip
-    version: '2018-10-22'
+    version: '2018-12-06'
   self-development-computers-en-urd-ur:
     description: "Bilingual package english and urdu.\r\nComputers for beginners:\
       \ Learning the basics on hardware and software."
@@ -4355,7 +4355,7 @@ all:
     language: en
     name: "Silent Animated Movies [\u0623\u0641\u0644\u0627\u0645 \u0627\u0646\u064A\
       \u0645\u064A\u0634\u0646 \u0635\u0627\u0645\u062A\u0629]"
-    sha256sum: c12cbf317cf5f434a31c9dd62e180b5eb3027df56b47880e992aaa57ef1d1481
+    sha256sum: cf90db6f9d94ea87319637ace73681c5c15dc5193d5c236ee6fa535c216ab50c
     size: 200480303
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/silent-animated-movies-en.zip
@@ -4814,7 +4814,7 @@ all:
       you lead a healthy and happy life.
     language: en
     name: Yoga (en)
-    sha256sum: 14754dd879a91108b3d61d3b62ffe900a4bf82b4880cdb47224315986110427d
+    sha256sum: e26a132dbcd09f851aed74eef92dd9107b9a6fffa7400871c38e916cd4a4c26f
     size: 1176602402
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/yoga-en.zip
