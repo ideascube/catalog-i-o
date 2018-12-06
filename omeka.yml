@@ -477,14 +477,14 @@ all:
     url: http://packages.ideascube.org/omeka/art-en-en.zip
     version: '2018-09-10'
   arts-africa-en:
-    description: Arts are part of the wealth of a country
+    description: Arts are part of the wealth of a country.
     language: en
     name: Arts
-    sha256sum: 8e4e23723527af2053309b6b1be6b83b9b6b56e22d1047c1b362b7da5cf1d93d
-    size: 327190265
+    sha256sum: 9b45eebb8c7c1b529efe937115ac7ac452dbe39fee861e903826ea1768a21f3c
+    size: 326630080
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arts-africa-en.zip
-    version: '2018-12-04'
+    version: '2018-12-06'
   arts-afrique-fr:
     description: Les arts plastiques, la danse... Les formes d'arts ne manquent pas,
       et font partie de la richesse d'un pays et d'une culture !
@@ -4355,11 +4355,11 @@ all:
     language: en
     name: "Silent Animated Movies [\u0623\u0641\u0644\u0627\u0645 \u0627\u0646\u064A\
       \u0645\u064A\u0634\u0646 \u0635\u0627\u0645\u062A\u0629]"
-    sha256sum: ce800aa5278554cfd161ae5ae51695f2b3bb4d2de672842852f9bf14381590b0
-    size: 197704629
+    sha256sum: c12cbf317cf5f434a31c9dd62e180b5eb3027df56b47880e992aaa57ef1d1481
+    size: 200480303
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/silent-animated-movies-en.zip
-    version: '2018-11-29'
+    version: '2018-12-06'
   silent-movies-en:
     description: An image is worth a thousand words. These movies will prove the truth
       of this proverb. From Metropolis to the iconic Charlie Chaplin movies, rediscover
@@ -4631,11 +4631,11 @@ all:
       - gimp - blender - scribus - raspberry pi - audacity - DaVinci - krita
     language: en
     name: Tutorials for using programs
-    sha256sum: 375346180d97fa77cc93b842555b00e0a5fb3943d6b7b78c54d03b29033314af
+    sha256sum: 0c2cd1b219a7c82435aa1456ba02c7caf98f6778587823cde18e53424765c47f
     size: 4047455091
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/tutorials-for-using-programs-en.zip
-    version: '2018-12-04'
+    version: '2018-12-06'
   tutoriels-pour-utiliser-des-logiciels-et-des-applications-fr:
     description: "Tutoriels pour utiliser des logiciels et des applications\r\n- \xEA\
       tre en capacit\xE9 de prendre en mains les logiciels propos\xE9s sur les ordinateurs\
@@ -4813,12 +4813,12 @@ all:
       and practice a range of different asanas and breathing techniques that can help
       you lead a healthy and happy life.
     language: en
-    name: Yoga
-    sha256sum: 430f4ccbcc7feacde2899b67c885f49a2c6efb7258669719bdf375c4fdff8e80
-    size: 1176599188
+    name: Yoga (en)
+    sha256sum: 14754dd879a91108b3d61d3b62ffe900a4bf82b4880cdb47224315986110427d
+    size: 1176602402
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/yoga-en.zip
-    version: '2017-10-19'
+    version: '2018-12-06'
   yoga-for-therapy-en:
     description: This series will guide you through easy yoga postures to fight headache,
       back pain and other ailments. Although this sequence is meant to help agaist
