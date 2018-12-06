@@ -4355,7 +4355,7 @@ all:
     language: en
     name: "Silent Animated Movies [\u0623\u0641\u0644\u0627\u0645 \u0627\u0646\u064A\
       \u0645\u064A\u0634\u0646 \u0635\u0627\u0645\u062A\u0629]"
-    sha256sum: cf90db6f9d94ea87319637ace73681c5c15dc5193d5c236ee6fa535c216ab50c
+    sha256sum: 6b249c85c048cdc99d552afca21b7b3302bfbe510d9cdbacd512ccfa56e35e4c
     size: 200480303
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/silent-animated-movies-en.zip
@@ -4814,7 +4814,7 @@ all:
       you lead a healthy and happy life.
     language: en
     name: Yoga (en)
-    sha256sum: e26a132dbcd09f851aed74eef92dd9107b9a6fffa7400871c38e916cd4a4c26f
+    sha256sum: e8ee06c284ebc02825b7c99e253292537356e0bd33c379be011a3e033c40d8f8
     size: 1176602402
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/yoga-en.zip
