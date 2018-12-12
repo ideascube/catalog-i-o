@@ -1472,7 +1472,7 @@ all:
     description: '-'
     language: fr
     name: "Ecologie d\xE9veloppement durable"
-    sha256sum: 9a43926ae29d76b314c8cde4b0772ddea0b955c80713eb1b6b8957e56b006f24
+    sha256sum: 648895255852198cd61293ea487e98c092d43cd6c7cd45da574329bdd17aae46
     size: 465772261
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ecologie-developpement-durable-a-trier-fr.zip
@@ -1567,7 +1567,7 @@ all:
       \ triste ? Tu te sentiras mieux avec toi-m\xEAme et avec les autres !"
     language: fr
     name: "Comment r\xE9guler mes \xE9motions ?"
-    sha256sum: 18002cacc35523154ba45a0f84dd3a2683425cda19fc033992cad4c77e7eb707
+    sha256sum: 067e25eb1fa165036a9e7d016324ca27dbc37a4bda2d40496b79ae15a1139045
     size: 169453006
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ecoute-tes-emotions-enfants-ados-fr.zip
