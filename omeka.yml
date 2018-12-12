@@ -4249,11 +4249,11 @@ all:
     language: ar
     name: "Self Development [\u062A\u0637\u0648\u064A\u0631 \u0627\u0644\u0630\u0627\
       \u062A]"
-    sha256sum: 01bc4a36fc385fd0373669912a26485885c023a28a6902c225a160030a5ab711
+    sha256sum: 2cbcbd9ce59d4992b79f07ea80ed4631de8c9ce3fde64c68cd51fd3b2f177f22
     size: 3534089064
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/self-development-ar.zip
-    version: '2018-12-10'
+    version: '2018-12-12'
   self-development-computers-en-urd-ur:
     description: "Bilingual package english and urdu.\r\nComputers for beginners:\
       \ Learning the basics on hardware and software."
