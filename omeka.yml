@@ -1468,6 +1468,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/eco-d-ici-eco-d-ailleurs-rfi-fr.zip
     version: '2018-02-28'
+  ecologie-developpement-durable-a-trier-fr:
+    description: '-'
+    language: fr
+    name: "Ecologie d\xE9veloppement durable"
+    sha256sum: 9a43926ae29d76b314c8cde4b0772ddea0b955c80713eb1b6b8957e56b006f24
+    size: 465772261
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ecologie-developpement-durable-a-trier-fr.zip
+    version: '2018-12-12'
   ecologie-developpement-durable-fr:
     description: A trier
     language: fr
@@ -1558,11 +1567,11 @@ all:
       \ triste ? Tu te sentiras mieux avec toi-m\xEAme et avec les autres !"
     language: fr
     name: "Comment r\xE9guler mes \xE9motions ?"
-    sha256sum: 5fc280c7529418035ba4950adfd663c44a30ec79e3c9c00ddf60d4d52451be4f
+    sha256sum: 18002cacc35523154ba45a0f84dd3a2683425cda19fc033992cad4c77e7eb707
     size: 169453006
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ecoute-tes-emotions-enfants-ados-fr.zip
-    version: '2018-12-05'
+    version: '2018-12-12'
   ecriture-et-litterature-fr:
     description: "\"Vous avez toujours r\xEAv\xE9 de devenir \xE9crivain ? C'est le\
       \ moment de vous lancer !\""
