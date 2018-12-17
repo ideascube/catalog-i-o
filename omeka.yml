@@ -480,11 +480,11 @@ all:
     description: Arts are part of the wealth of a country.
     language: en
     name: Arts
-    sha256sum: 9b45eebb8c7c1b529efe937115ac7ac452dbe39fee861e903826ea1768a21f3c
+    sha256sum: 1c8b2237f02c8e8439f415b462203e165fe8a57cc0c73b82114352d5c51dc358
     size: 326630080
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arts-africa-en.zip
-    version: '2018-12-06'
+    version: '2018-12-17'
   arts-afrique-fr:
     description: Les arts plastiques, la danse... Les formes d'arts ne manquent pas,
       et font partie de la richesse d'un pays et d'une culture !
@@ -718,6 +718,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/child-protection-ar.zip
     version: '2018-10-22'
+  citizenship-democraty-and-peace-en:
+    description: Talking about democraty, power, constitution, voting
+    language: en
+    name: Citizenship, democraty and peace
+    sha256sum: 58a4a76fca4296f56ffc7da80b7ad216d4ffba31ec93fa8277822d92eefaae88
+    size: 1904279931
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/citizenship-democraty-and-peace-en.zip
+    version: '2018-12-17'
   citoyennete-enabel-fr:
     description: "Documentation pour se former \xE0 la th\xE9matique de la citoyennet\xE9\
       . Vous trouvez des documents comme le \"Financement participatif\" \"Innover\
@@ -1472,11 +1481,11 @@ all:
     description: '-'
     language: fr
     name: "Ecologie d\xE9veloppement durable"
-    sha256sum: 648895255852198cd61293ea487e98c092d43cd6c7cd45da574329bdd17aae46
+    sha256sum: c4652433af0ddb78b9d68517d285184db0c093ac567a3c67a974e3a6459111fc
     size: 465772261
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ecologie-developpement-durable-a-trier-fr.zip
-    version: '2018-12-12'
+    version: '2018-12-17'
   ecologie-developpement-durable-fr:
     description: A trier
     language: fr
@@ -1541,15 +1550,15 @@ all:
     url: http://packages.ideascube.org/omeka/economie-et-mondialisation-fr.zip
     version: '2018-11-16'
   economie-fr:
-    description: "\"Des vid\xE9os ludiques pour comprendre les grands concepts \xE9\
-      conomiques : march\xE9, actions, obligations, dividendes ... etc.\""
+    description: "Des vid\xE9os ludiques pour comprendre les grands concepts \xE9\
+      conomiques : march\xE9, actions, obligations, dividendes ... etc."
     language: fr
-    name: '"Economie"'
-    sha256sum: 113d76a19efa81a1a281825ef7376cccdb55e728077b035dc6d4272f703f186d
-    size: 830587844
+    name: Economie
+    sha256sum: 5c677d20443ac30298957da8e18df99f91870f31c7d912e3bdf1866aaca850be
+    size: 988906393
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/economie-fr.zip
-    version: '2018-02-28'
+    version: '2018-12-17'
   economy-ar:
     description: "\"Learn about the history of economy and other definitions./ \u0627\
       \u0639\u0631\u0641 \u0627\u0643\u062B\u0631 \u0639\u0646 \u062A\u0627\u0631\u064A\
@@ -2331,11 +2340,11 @@ all:
       ne et \xE9viter les maladies !"
     language: fr
     name: "Hygi\xE8ne"
-    sha256sum: da3a9a96e20929abb747b79f261e6cd25dd551b395a3c8576b982fc68c61f0a3
+    sha256sum: 8406b22a2169449944ba08a010ce2054923a8b36a555ad71ccce97a7889e0fcf
     size: 95163408
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/hygiene-af-fr.zip
-    version: '2018-12-05'
+    version: '2018-12-17'
   hygiene-afrique-fr:
     description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
       ne et \xE9viter les maladies !"
@@ -2716,33 +2725,33 @@ all:
       tips and scientific information about common diseases and ways to prevent them.
     language: en
     name: Introduction to healthcare
-    sha256sum: 14466b03160a20a1e61394c1e9730bf91bd486490018ce5bede131f4dc65108b
-    size: 450616389
+    sha256sum: 1d901b7c93b9675abbbe2b4f25e5bc0b976732272a8bdd9e273c9475cbd174a9
+    size: 545955760
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-healthcare-en.zip
-    version: '2017-09-25'
+    version: '2018-12-17'
   introduction-to-human-rights-en:
     description: Human rights are the rights to which all human beings are entitled.
       Learn about the history of human rights and the legislation that ensure that
       they are respected with this package.
     language: en
     name: Introduction to Human Rights
-    sha256sum: fbd3fa2cabb8de283451a9cfa9412109bd294c733aca96a6e2136bd36e74de39
-    size: 1122964266
+    sha256sum: bd52af9b5d6d6368b03c734f7fa435baf3087bc0ae3eb25fbcf11736032b32af
+    size: 1323755650
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-human-rights-en.zip
-    version: '2017-09-25'
+    version: '2018-12-17'
   introduction-to-human-rights-for-children-en:
     description: What are human rights? They are the rights to which all human beings
       are entitled to. In these videos, you will learn what they mean and how they
       are protected.
     language: en
     name: Introduction to Human Rights for children
-    sha256sum: 82b5e0c7b70eb8e76abb0eff04e8701916d939308455fdf4e6ffae76bfa7f370
-    size: 20750144
+    sha256sum: 8cd2b717126b3ac0088129bad66fa0fec2038266f3db38d6fede2f5f5a6320d0
+    size: 20897746
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-human-rights-for-children-en.zip
-    version: '2017-09-25'
+    version: '2018-12-17'
   introduction-to-journalism-en:
     description: You are interested in journalism? Or just curious about what a journalist's
       everyday life looks like? Learn about the challenges and highlights of a journalistic
@@ -3009,11 +3018,11 @@ all:
       teens.
     language: en
     name: Learn English!
-    sha256sum: 84c94ca29a8b84aee85d065cd75016d4b70366aade276c9e3cf608c83909be81
-    size: 332271590
+    sha256sum: 521fb92b08c9b5780d1543a9ef5a8c969120e87f3ccebcdea2251f2def003549
+    size: 582124371
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-teenagers-en.zip
-    version: '2018-12-04'
+    version: '2018-12-17'
   learn-first-aid-techniques-en:
     description: Everyday accidents are responsible for several millions of deaths
       per year all over the world. Here are some simple techniques, that anyone can
@@ -3211,11 +3220,11 @@ all:
       \ le fonctionnement d'un navigateur internet."
     language: fr
     name: Les bases de l'informatique
-    sha256sum: afeed05cc99a9ee38ffac9a9a469f555f8a202df83f81a709eb87093943c3483
-    size: 5343499
+    sha256sum: 4ed91f0aeb35b32f18419f5c0b284e5e47435b45eee988c30327fe23a87a2d9e
+    size: 345920427
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-bases-de-l-informatique-fr.zip
-    version: '2018-09-17'
+    version: '2018-12-17'
   les-filles-et-les-garcons-quelles-differences-fr:
     description: "Filles footballeuses, soldats, pr\xE9sidentes: les filles peuvent\
       \ faire autant de choses que les gar\xE7ons !"
@@ -3297,11 +3306,11 @@ all:
     description: Learn more about menstruations and sexuality
     language: en
     name: Let's talk about sexuality
-    sha256sum: 933e2e9be31bc9cc91005d8e435ea5b191bf8f64b7cdca93e214c70b582a30a7
-    size: 178820538
+    sha256sum: dabe2560b3f528486a8c0bc7cd9a6196e708e57aaf186bd0607435cb2485f647
+    size: 211431004
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/let-s-talk-about-sexuality-en-en.zip
-    version: '2018-12-04'
+    version: '2018-12-17'
   let-s-talk-about-sexuality-fa:
     description: Talk about sexuality in farsi language.
     language: fa
@@ -3338,6 +3347,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/make-you-own-radio-en.zip
     version: '2017-10-19'
+  make-your-own-radio-en:
+    description: Learn how to make your own radio shows !
+    language: en
+    name: Make your own radio !
+    sha256sum: c278ccaa9499ac87547799f0db796ebf0d086f0dfcc69da07aa542b4b7dc6161
+    size: 46987077
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/make-your-own-radio-en.zip
+    version: '2018-12-17'
   maladies-endemiques-en-afrique-fr:
     description: "Connaitre les maladies end\xE9miques les plus pr\xE9sentes en Afrique\
       \ et savoir comment lutter contre avec quelques courtes vid\xE9os."
@@ -4802,11 +4820,11 @@ all:
     description: To know your rights as a woman and fight against discrimination
     language: en
     name: Women's rights
-    sha256sum: 95bb131f8d2fd98adc4da88956c8f88feea13906236740b7993b428a16df0cb8
-    size: 70393904
+    sha256sum: 37420e816dea38f546a6b627dbe86a60f2f9ffe9db0a6fd8c16afc01cb14b60b
+    size: 652929818
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/women-s-rights-en.zip
-    version: '2018-06-14'
+    version: '2018-12-17'
   woodcrafts-for-kids-en:
     description: This package contains woodcrafts activities for children to create
       toys!
