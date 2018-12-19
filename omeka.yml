@@ -813,6 +813,24 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comment-faire-face-a-la-violence-et-aux-conflits-fr.zip
     version: '2018-05-15'
+  community-harmony-multilanguages-en:
+    description: know each other
+    language: en
+    name: Community harmony (multilanguages)
+    sha256sum: 263fa0c3fd0be834abfade256ebb2cdcaa45e68c40602f6bba0d6a823f13a159
+    size: 460673853
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/community-harmony-multilanguages-en.zip
+    version: '2018-12-19'
+  community-harmony-rohingya-rhg:
+    description: Transmission of knowledge
+    language: rhg
+    name: Community harmony (Rohingya)
+    sha256sum: 7d89c4688c7071413e5e10ca7ca6a1566dcc159d61d9036c10e26b48c2c4986c
+    size: 123337698
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/community-harmony-rohingya-rhg.zip
+    version: '2018-12-19'
   comprendre-et-exprimer-ses-emotions-fr:
     description: "D\xE9tendez-vous. Respirez. Accueillez vos \xE9motions. Exprimez\
       \ vos besoins. Vous serez mieux avec vous m\xEAme et avec les autres !"
@@ -1021,6 +1039,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creatividad-cucuta-video-es.zip
     version: '2018-04-26'
+  creativity-multi-languages-en:
+    description: Express your creativity
+    language: en
+    name: Creativity (multi languages)
+    sha256sum: 84d2354d3365f4d430cba6a37f2e77bb4cfaf1a2e00d5597f0d83b766dd6db36
+    size: 420308348
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/creativity-multi-languages-en.zip
+    version: '2018-12-19'
   cuisine-et-nutrition-enfants-fr:
     description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
     language: fr
@@ -1077,6 +1104,51 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultura-sikana-es.zip
     version: '2018-04-26'
+  cultural-blender-asia-ctg:
+    description: neighbouring cultures
+    language: ctg
+    name: Cultural blender (asia)
+    sha256sum: a4ad5a6c33ec4d4adb62bda00c2427c69464f1164695da96a2fe42e03e5c5401
+    size: 356248860
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cultural-blender-asia-ctg.zip
+    version: '2018-12-19'
+  cultural-blender-bangla-bn:
+    description: Growing our culture
+    language: bn
+    name: Cultural blender (bangla)
+    sha256sum: c2b22756c74d40615e241201e1ef15cc92c1782ade4f8fa4aaa6441805280b12
+    size: 702209887
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cultural-blender-bangla-bn.zip
+    version: '2018-12-19'
+  cultural-blender-burmese-mm:
+    description: Growing our culture
+    language: mm
+    name: Cultural blender (Burmese)
+    sha256sum: bcd950a26154a212fbba1250b6e92421eeb73ab0b85002fabbf5a1dfb599e79f
+    size: 86341426
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cultural-blender-burmese-mm.zip
+    version: '2018-12-19'
+  cultural-blender-multi-languages-en:
+    description: neighbouring cultures
+    language: en
+    name: Cultural blender (multi languages)
+    sha256sum: 328cc2043a8ac91ca90869e71dfe9eb7c67ca7435e5f3682e0a2d159778f0b91
+    size: 40657458
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cultural-blender-multi-languages-en.zip
+    version: '2018-12-19'
+  cultural-blender-rohingya-rhg:
+    description: Growing our culture
+    language: rhg
+    name: Cultural blender (Rohingya)
+    sha256sum: 6e00bfae5962f1fc5ce4bdaabe7dc0eeae782d310d6ab4068cf90660d98a58ee
+    size: 372794227
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cultural-blender-rohingya-rhg.zip
+    version: '2018-12-19'
   culture-and-mentality-el-el:
     description: "\u0395\u03BB\u03BB\u03AC\u03B4\u03B1:\u039C\u03B5 \u03C0\u03BF\u03B9\
       \u03BF\u03BD \u03C4\u03C1\u03CC\u03C0\u03BF \u03BF \u03C0\u03BF\u03BB\u03B9\u03C4\
@@ -1266,6 +1338,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discovering-ballet-en.zip
     version: '2018-11-09'
+  discovering-multilanguage-en:
+    description: Discover new activities, topics of reflection and cultures
+    language: en
+    name: Discovering (multilanguage)
+    sha256sum: 4121d7de95499c4b0d03771ea62a2b2b962abf093747ea61f586acba687315b7
+    size: 8449725
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/discovering-multilanguage-en.zip
+    version: '2018-12-19'
   discriminations-enfants-ados-fr:
     description: "On est tous diff\xE9rents, mais tous des \xEAtres humains ! Pour\
       \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
@@ -1495,6 +1576,24 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ecologie-developpement-durable-fr.zip
     version: '2018-11-16'
+  ecology-multi-languages-en:
+    description: Discover nature, animals and landscapes
+    language: en
+    name: Ecology  (multi languages)
+    sha256sum: 453cc6c4ddfd2f47cb8f1469450ffe3e7be1df66df7e3bc85a385cceda6badfc
+    size: 641486253
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ecology-multi-languages-en.zip
+    version: '2018-12-19'
+  ecology-rohingya-rhg:
+    description: Discover nature, animals and landscapes
+    language: rhg
+    name: Ecology (Rohingya)
+    sha256sum: 6419d97ffc48c46712aaeb4ae0212f76b8d523062b46a994eff27b27b00d8824
+    size: 12122318
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ecology-rohingya-rhg.zip
+    version: '2018-12-19'
   economie-et-developpement-durable:
     description: "Comment allier protection de l'environnement et d\xE9veloppement\
       \ \xE9conomique ? Quels sont les impacts des mod\xE8les \xE9conomiques actuels\
@@ -2231,11 +2330,11 @@ all:
     description: How to take care?
     language: rhg
     name: Health promotion (Rohingya)
-    sha256sum: 9f059902da1e705f248b6321212105bdabcfbcc3e10f5e4376fd13d4733232b4
-    size: 53116190
+    sha256sum: 91ca66bda391895c76d7261615f6a18885fd2baf63770500f1b9249d5784c731
+    size: 77325023
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-promotion-rohingya-rhg.zip
-    version: '2018-11-30'
+    version: '2018-12-19'
   histoire-afrique-de-l-ouest-fr:
     description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
       \ les \xE9v\xE8nements du pr\xE9sent."
@@ -2284,6 +2383,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/history-africa-en.zip
     version: '2018-12-04'
+  history-multi-language-en:
+    description: know each other
+    language: en
+    name: History (multi language)
+    sha256sum: f6fad3530b717e8172e72d07e5792a8d1f34d9bf5958da758fca4824b847f63e
+    size: 22347822
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/history-multi-language-en.zip
+    version: '2018-12-19'
   how-do-i-control-my-weight-en:
     description: A package detailing how you can use healthy eating and exercise to
       reduce your weight.  Includes info on exercise, nutrition, calories counting,
@@ -3008,11 +3116,11 @@ all:
       is for you!
     language: en
     name: Learn english!
-    sha256sum: 177b99904a2c9da467687ffff704f666472b4a51275ef2f25383092c01c28a37
-    size: 28213164
+    sha256sum: 822d7e6d97e7158e4a8ab6ee87478c27adbae7c4065471ce81609953e4ba4c85
+    size: 397726618
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-adults-en.zip
-    version: '2018-12-04'
+    version: '2018-12-19'
   learn-english-teenagers-en:
     description: Learn basics in english language to communicate with others! For
       teens.
@@ -3320,6 +3428,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/let-s-talk-about-sexuality-fa.zip
     version: '2017-09-25'
+  life-saving-rohingya-rhg:
+    description: Find supports that can help me deal with everyday problems
+    language: rhg
+    name: Life saving (Rohingya)
+    sha256sum: 73b2ee58431adba2a1d02f48e84a12b9cb0d79df727628d3b05b24749196b421
+    size: 114382060
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/life-saving-rohingya-rhg.zip
+    version: '2018-12-19'
   litterature-francophone-afrique-fr:
     description: "Rencontres avec des \xE9crivains et des artistes africains"
     language: fr
@@ -3662,11 +3779,11 @@ all:
     description: What's happen?
     language: rhg
     name: News (Rohingya)
-    sha256sum: bbc2ad325921d1877021b6cfe612524f86f1b4537ed6940643d3b44acdb45841
-    size: 227983319
+    sha256sum: cc051c5a2dba9c1cd278a60787e5b0544753ae35d58d2a11dcb785c79dc317d5
+    size: 259625586
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/news-rohingya-rhg.zip
-    version: '2018-11-30'
+    version: '2018-12-19'
   non-violent-communication-en:
     description: This package is an introduction to non violent communication, a communication
       process developed by Marshall Rosenberg in the 1960s. It is based on the principle
@@ -3989,14 +4106,14 @@ all:
     url: http://packages.ideascube.org/omeka/programmation-et-bidouille-fr.zip
     version: '2018-12-04'
   protection-rohingya-rhg:
-    description: Learn about my rights
+    description: Everyone has the right to be protected
     language: rhg
     name: Protection (Rohingya)
-    sha256sum: 43566d9e8102e6536c1e86a1332d2d24502ffc1e78f28157a37bf1b5c5c26435
-    size: 11225844
+    sha256sum: 528dd221daf2276c9af1c3bdda6d30dbbc17270962e99f39a2ba38b52c03ada2
+    size: 11225841
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/protection-rohingya-rhg.zip
-    version: '2018-11-30'
+    version: '2018-12-19'
   protege-la-planete-enfants-ados-fr:
     description: "Pourquoi c'est important de prot\xE9ger la plan\xE8te ? Que peut-on\
       \ faire pour la prot\xE9ger, tous ensemble ?"
@@ -4746,6 +4863,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/waqt-al-farah-ar.zip
     version: '2018-02-23'
+  wash-promotion-rohingya-rhg:
+    description: Learn how connect health with environment
+    language: rhg
+    name: Wash promotion (Rohingya)
+    sha256sum: fad709c441c6d0637da9882f392676ecc305a8d04835b76c868aa20679d760a0
+    size: 94545108
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/wash-promotion-rohingya-rhg.zip
+    version: '2018-12-19'
   what-are-the-basics-of-diabetes-en:
     description: A package containing the basic information about diabetes
     language: en
@@ -4858,3 +4984,12 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/yoga-for-therapy-en.zip
     version: '2018-06-21'
+  young-and-old-multilanguage-en:
+    description: Transmission of knowledge
+    language: en
+    name: Young and old (multilanguage)
+    sha256sum: e2356f210f3d71eafa8cdbafc2484d0756cc8efded4220470774a166e3c42670
+    size: 362434597
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/young-and-old-multilanguage-en.zip
+    version: '2018-12-19'
