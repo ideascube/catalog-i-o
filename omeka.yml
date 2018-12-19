@@ -813,6 +813,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comment-faire-face-a-la-violence-et-aux-conflits-fr.zip
     version: '2018-05-15'
+  community-harmony-bangla-bn:
+    description: Transmission of knowledge
+    language: bn
+    name: Community harmony (bangla)
+    sha256sum: 8dad0b99e92310007b48208a7bcc4058220048d49daaf93cbdc47d492eea2b96
+    size: 160650009
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/community-harmony-bangla-bn.zip
+    version: '2018-12-19'
   community-harmony-multilanguages-en:
     description: know each other
     language: en
@@ -1039,6 +1048,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creatividad-cucuta-video-es.zip
     version: '2018-04-26'
+  creativity-bangla-bn:
+    description: Express your creativity
+    language: bn
+    name: Creativity (bangla)
+    sha256sum: b0960897039e833396bf70240dded0a6b4381d28252e1a7f74a2edaaefe95efc
+    size: 200815202
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/creativity-bangla-bn.zip
+    version: '2018-12-19'
   creativity-multi-languages-en:
     description: Express your creativity
     language: en
@@ -3428,6 +3446,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/let-s-talk-about-sexuality-fa.zip
     version: '2017-09-25'
+  life-saving-bangla-bn:
+    description: Strenghten your life skills
+    language: bn
+    name: Life saving (bangla)
+    sha256sum: 63418041968d3ab060c0088153dd1b18e2da1f12a7adff08b62606029bbbb5dd
+    size: 208709353
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/life-saving-bangla-bn.zip
+    version: '2018-12-19'
   life-saving-rohingya-rhg:
     description: Find supports that can help me deal with everyday problems
     language: rhg
@@ -4863,6 +4890,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/waqt-al-farah-ar.zip
     version: '2018-02-23'
+  wash-promotion-bangla-en:
+    description: Learn how connect health with environment
+    language: en
+    name: Wash promotion (bangla)
+    sha256sum: 679c8614dda26b247c97a3cd4052e9a7beaf6fa7e005d65227001222f1be6390
+    size: 113052742
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/wash-promotion-bangla-en.zip
+    version: '2018-12-19'
   wash-promotion-rohingya-rhg:
     description: Learn how connect health with environment
     language: rhg
@@ -4984,6 +5020,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/yoga-for-therapy-en.zip
     version: '2018-06-21'
+  young-and-old-bangla-bn:
+    description: Transmission of knowledge
+    language: bn
+    name: Young and old (bangla)
+    sha256sum: 11ac0d5e4f3989731ae47573bdddcb8c0e88e6cddf602f8de7e67b6ce4edd2a9
+    size: 15439501
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/young-and-old-bangla-bn.zip
+    version: '2018-12-19'
   young-and-old-multilanguage-en:
     description: Transmission of knowledge
     language: en
