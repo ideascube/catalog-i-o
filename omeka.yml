@@ -1061,11 +1061,11 @@ all:
     description: Express your creativity
     language: en
     name: Creativity (multi languages)
-    sha256sum: 84d2354d3365f4d430cba6a37f2e77bb4cfaf1a2e00d5597f0d83b766dd6db36
-    size: 420308348
+    sha256sum: 3e61e478aa760a595a11e9b108680ca784fe153a6159975586d685b1bdd3676e
+    size: 1499135563
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creativity-multi-languages-en.zip
-    version: '2018-12-19'
+    version: '2019-01-08'
   cuisine-et-nutrition-enfants-fr:
     description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
     language: fr
@@ -1149,6 +1149,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultural-blender-burmese-mm.zip
     version: '2018-12-19'
+  cultural-blender-europe-en:
+    description: Ballets tell stories with music and movement. Discover iconic ballet
+      dances!
+    language: en
+    name: Cultural blender (Europe)
+    sha256sum: c38c456a3205dce380ce157095211ac3a7d1f59906f44a7d12ca9d52e1a297b8
+    size: 417331988
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cultural-blender-europe-en.zip
+    version: '2019-01-08'
   cultural-blender-multi-languages-en:
     description: neighbouring cultures
     language: en
