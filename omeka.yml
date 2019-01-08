@@ -2387,11 +2387,11 @@ all:
     description: Connaitre l'histoire et la culture occidentale
     language: fr
     name: Histoire occidentale
-    sha256sum: 68ec2fa4ee7cc4eb18d9b095fff18f4041a389369e986edd6905f4dceaa08d0a
-    size: 17484535116
+    sha256sum: 57eb7189c564bd769152176d6bc746c26e71c40b34037e40443405e3efeb8ebc
+    size: 17498241044
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-occidentale-fr.zip
-    version: '2018-01-18'
+    version: '2019-01-08'
   history-africa-en:
     description: Learn in english the history of Africa
     language: en
