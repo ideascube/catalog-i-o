@@ -180,13 +180,13 @@ all:
     langid: "cest-pas-sorcier.fr"
     type: zipped-zim
   gutenberg.en:
-    version: "2018-11-15"
-    size: 57315643174
-    url: "http://download.kiwix.org/zim/gutenberg/gutenberg_en_all_2018-10.zim"
+    version: "2019-01-08"
+    size: 56913027120
+    url: "http://download.kiwix.org/zim/gutenberg/gutenberg_en_all_2018-07.zim"
     name: Project Gutenberg Library (english)
     language: "eng"
     description: "Project Gutenberg offers free ebook (epub and pdf)"
-    sha256sum: "165f3939d7a398d1cd80064d3a31a4a9b8df831d60f0b4ad5d0e3d7d85056c32"
+    sha256sum: "a34bfda053ffc8db762795f6a1e7cabc8e4831665d7093f9bfb80a2b012ac57c"
     langid: "gutenberg.en"
     type: zim
   gutenberg.fr:
