@@ -4161,6 +4161,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/protege-la-planete-enfants-ados-fr.zip
     version: '2018-12-04'
+  protegeons-la-planete-enfants-ados-fr:
+    description: "Pourquoi c'est important de prot\xE9ger la plan\xE8te ? Que peut-on\
+      \ faire pour la prot\xE9ger, tous ensemble ?"
+    language: fr
+    name: "Prot\xE9geons la plan\xE8te !"
+    sha256sum: 5dd4e72553cf3edaa2a08387ebdecf0e70b414cfb045fc6b9f7e55687d55cf94
+    size: 1912960114
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/protegeons-la-planete-enfants-ados-fr.zip
+    version: '2019-01-21'
   protegeons-la-planete-fr:
     description: "Pourquoi c'est important de prot\xE9ger la plan\xE8te ? Que peut-on\
       \ faire pour la prot\xE9ger, tous ensemble ?"
