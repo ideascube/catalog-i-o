@@ -198,3 +198,12 @@ all:
     size: 94386771
     sha256sum: 767ffe83ae80cda80de7605dce42e0ab710fdc790536c2a7f0e734b6ca746943
     type: static-site
+  chezleperemagraine.com:
+    name: "Chez le Père Magraine"
+    description: "La bibliothèque des écosystèmes cultivés !"
+    version: "2019-01-31"
+    language: fr
+    url: http://packages.ideascube.org/static-sites/chezleperemagraine.com.zip
+    size: 318691373
+    sha256sum: b5b7289360e60bc042f1368bd8a14b6fbee361706b397d0add071af6fb7ea004
+    type: static-site
