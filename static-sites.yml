@@ -189,3 +189,12 @@ all:
     size: 19446497
     sha256sum: aa39a98aca7e59bca8ac54fdecf1c20ecaf52a581d9e4d9429eb251688a0353d
     type: static-site
+  monjardinenpermaculture.fr:
+    name: "Mon Jardin en Permaculture"
+    description: "Et si l'on cultivait en s'appuyant pleinement sur la nature ?"
+    version: "2019-01-31"
+    language: fr
+    url: http://packages.ideascube.org/static-sites/monjardinenpermaculture.fr.zip
+    size: 94386771
+    sha256sum: 767ffe83ae80cda80de7605dce42e0ab710fdc790536c2a7f0e734b6ca746943
+    type: static-site
