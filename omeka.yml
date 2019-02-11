@@ -2006,11 +2006,11 @@ all:
     description: Discover some fictions
     language: kmr
     name: Fictions for children
-    sha256sum: 12b984f0221bc91b035d37a1c60d6af6134aabfd9180fe9562fcf4db10244e5e
+    sha256sum: 1a0434b7e766ed68d134bdc6abfae386ff92422c573a652a8cd910cde84828ba
     size: 5183396975
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fictions-kmr-children-kmr.zip
-    version: '2019-02-05'
+    version: '2019-02-11'
   fictions-teenagers-ckb:
     description: Discover some fictions
     language: ckb
