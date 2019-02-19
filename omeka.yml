@@ -1347,6 +1347,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/dessin-et-origami-fr.zip
     version: '2017-04-10'
+  dessin-technique-enabel-fr:
+    description: '-'
+    language: fr
+    name: Dessin technique
+    sha256sum: 6ad80f6ede447df1f67017a1236141da2001aa6934ed2fb9791b79dec7fdab9a
+    size: 45337676
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/dessin-technique-enabel-fr.zip
+    version: '2019-02-19'
   dessins-animes-pour-enfants-sw:
     description: "Tu veux regarder des dessins anim\xE9s en swahili ? C'est ici !"
     language: sw
@@ -1565,27 +1574,16 @@ all:
     url: http://packages.ideascube.org/omeka/ebooks-enfants-fr.zip
     version: '2018-08-28'
   eclairage-et-raccordements-sikana-fr:
-    description: "\"Avec nos vid\xE9os \xE9ducatives du programme \xAB \xC9lectricit\xE9\
+    description: "Avec nos vid\xE9os \xE9ducatives du programme \xAB \xC9lectricit\xE9\
       \ pour tous \xBB, d\xE9couvrez les bases de l\u2019\xE9lectricit\xE9, quelles\
-      \ sont les diff\xE9rentes r\xE8gles de s\xE9curit\xE9, comment g\xE9rer le r\xE9\
-      seau \xE9lectrique de votre domicile, etc...\r\nAu fur et \xE0 mesure des chapitres\
-      \ vous apprendrez comment raccorder un compteur \xE9lectrique, relier des c\xE2\
-      bles \xE9lectriques, installer une prise de terre, ou encore poser un disjoncteur,\
-      \ nous mettons \xE0 votre disposition tout le savoir n\xE9cessaire pour vous\
-      \ permettre d\u2019aller de la pr\xE9paration et la r\xE9alisation d\u2019un\
-      \ chantier \xE9lectrique au simple changement d\u2019une ampoule. \r\nCe programme\
-      \ a \xE9t\xE9 \xE9labor\xE9 en collaboration avec des b\xE9n\xE9voles de l'association\
-      \ Electriciens sans fronti\xE8res. Avoir acc\xE8s l'\xE9lectricit\xE9 est indispensable\
-      \ au d\xE9veloppement \xE9conomique et social. Il permet d'\xE9clairer les \xE9\
-      coles, les h\xF4pitaux mais aussi de s\xE9curiser les rues ou encore de donner\
-      \ acc\xE8s \xE0 l'eau potable.\""
+      \ sont les diff\xE9rentes r\xE8gles de s\xE9curit\xE9, etc."
     language: fr
-    name: '"Eclairage et raccordements"'
-    sha256sum: a3f5a387ca9fdfe42019cf99c32036a4d6b7af112ca811d34891b5a99287af79
-    size: 1412116389
+    name: Eclairage et raccordements
+    sha256sum: ad86dafeacb3083779571bd11e50c263ed6d70a14c70d88b814a2fda4befb92d
+    size: 1412764895
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/eclairage-et-raccordements-sikana-fr.zip
-    version: '2018-03-01'
+    version: '2019-02-19'
   eco-d-ici-eco-d-ailleurs-rfi-fr:
     description: "\"\xC9mission RFI : \"Eco d'ici \xE9co d'ailleurs\"\""
     language: fr
@@ -1763,6 +1761,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/educacion-ebook-es.zip
     version: '2018-03-15'
+  electricite-enabel-fr:
+    description: '-'
+    language: fr
+    name: "Electricit\xE9"
+    sha256sum: b6e2e414619a83b7bc78a31df2516118623acf36eec0bf26452f2c084a6eeca8
+    size: 87405027
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/electricite-enabel-fr.zip
+    version: '2019-02-19'
   english-for-adults-ar:
     description: "\"Learn English through these easy to follow videos. \u062A\u0639\
       \u0644\u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\u0646\u062C\u0644\
@@ -2677,25 +2684,16 @@ all:
     url: http://packages.ideascube.org/omeka/innovation-en-afrique-fr.zip
     version: '2018-01-18'
   installer-et-entretenir-des-panneaux-solaires-sikana-fr:
-    description: "\"Vous d\xE9couvrirez dans ce programme d'\xE9lectricit\xE9, comment\
+    description: "Vous d\xE9couvrirez dans ce programme d'\xE9lectricit\xE9, comment\
       \ exploiter les \xE9nergies renouvelables. Chaque vid\xE9o propose une \xE9\
-      tape pour comprendre comment g\xE9n\xE9rer et utiliser l'\xE9nergie solaire\
-      \ . Suivez pas \xE0 pas les diff\xE9rentes \xE9tapes pour installer et entretenir\
-      \ un panneau solaire. Le contenu de chaque vid\xE9o est accessible \xE0 un d\xE9\
-      butant accompagn\xE9 d'un expert et adapt\xE9 \xE0 une utilisation sur le terrain.\
-      \ Ce programme a \xE9t\xE9 \xE9labor\xE9 en collaboration avec des b\xE9n\xE9\
-      voles de l'association Electriciens sans fronti\xE8res. Installer l'\xE9lectricit\xE9\
-      \ est indispensable au d\xE9veloppement \xE9conomique et social. Il permet d'\xE9\
-      clairer les \xE9coles, les h\xF4pitaux mais aussi de s\xE9curiser les rues ou\
-      \ encore de donner acc\xE8s \xE0 l'eau potable. L'\xE9nergie solaire est renouvelable\
-      \ et durable, particuli\xE8rement adapt\xE9e dans les zones rurales.\""
+      tape pour comprendre comment g\xE9n\xE9rer et utiliser l'\xE9nergie solaire."
     language: fr
-    name: '"Installer et entretenir des panneaux solaires"'
-    sha256sum: f66c169e46aa3f683f98726f2dc761c923608543efa38298444b2b01c1990970
-    size: 392259207
+    name: Installer et entretenir des panneaux solaires
+    sha256sum: 3b306b75b1fb7346f83dbae86ff66685e7b3f10d9c0b982e7f750a65f218834e
+    size: 392547070
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/installer-et-entretenir-des-panneaux-solaires-sikana-fr.zip
-    version: '2018-03-01'
+    version: '2019-02-19'
   instrumental-music-en:
     description: Music doesn't need words. This package shows musical tracks that
       carry emotions through notes and rhythms, without words. It showcases the universality
@@ -2721,27 +2719,16 @@ all:
     url: http://packages.ideascube.org/omeka/internet-les-autres-et-moi-les-bons-usages-fr.zip
     version: '2018-11-19'
   introduction-a-l-electricite-sikana-fr:
-    description: "\"Avec nos vid\xE9os \xE9ducatives du programme \xAB \xC9lectricit\xE9\
+    description: "Avec nos vid\xE9os \xE9ducatives du programme \xAB \xC9lectricit\xE9\
       \ pour tous \xBB, d\xE9couvrez les bases de l\u2019\xE9lectricit\xE9, quelles\
-      \ sont les diff\xE9rentes r\xE8gles de s\xE9curit\xE9, comment g\xE9rer le r\xE9\
-      seau \xE9lectrique de votre domicile, etc...\r\nAu fur et \xE0 mesure des chapitres\
-      \ vous apprendrez comment raccorder un compteur \xE9lectrique, relier des c\xE2\
-      bles \xE9lectriques, installer une prise de terre, ou encore poser un disjoncteur,\
-      \ nous mettons \xE0 votre disposition tout le savoir n\xE9cessaire pour vous\
-      \ permettre d\u2019aller de la pr\xE9paration et la r\xE9alisation d\u2019un\
-      \ chantier \xE9lectrique au simple changement d\u2019une ampoule. \r\nCe programme\
-      \ a \xE9t\xE9 \xE9labor\xE9 en collaboration avec des b\xE9n\xE9voles de l'association\
-      \ Electriciens sans fronti\xE8res. Avoir acc\xE8s l'\xE9lectricit\xE9 est indispensable\
-      \ au d\xE9veloppement \xE9conomique et social. Il permet d'\xE9clairer les \xE9\
-      coles, les h\xF4pitaux mais aussi de s\xE9curiser les rues ou encore de donner\
-      \ acc\xE8s \xE0 l'eau potable.\""
+      \ sont les diff\xE9rentes r\xE8gles de s\xE9curit\xE9, etc."
     language: fr
-    name: "\"Introduction \xE0 l'\xE9lectricit\xE9\""
-    sha256sum: 3bfb16d5dc228037de40923352183285fc457589245aff20fd84467edaf82144
-    size: 1363789870
+    name: "Introduction \xE0 l'\xE9lectricit\xE9"
+    sha256sum: b0b1ffde5112b97f6511cb102745fc50d7baa11f4a12c637cd6411498cefefe5
+    size: 1364570640
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-a-l-electricite-sikana-fr.zip
-    version: '2018-03-01'
+    version: '2019-02-19'
   introduction-a-la-biologie-et-a-la-chimie-fr:
     description: "Cette collection de contenus comprend des vid\xE9os et des entretiens\
       \ de chercheurs sur des domaines vari\xE9s de la biologie et de la chimie :\
@@ -3136,27 +3123,16 @@ all:
     url: http://packages.ideascube.org/omeka/la-sante-enfants-ado-fr.zip
     version: '2018-12-04'
   le-tableau-electrique-sikana-fr:
-    description: "\"Avec nos vid\xE9os \xE9ducatives du programme \xAB \xC9lectricit\xE9\
+    description: "Avec nos vid\xE9os \xE9ducatives du programme \xAB \xC9lectricit\xE9\
       \ pour tous \xBB, d\xE9couvrez les bases de l\u2019\xE9lectricit\xE9, quelles\
-      \ sont les diff\xE9rentes r\xE8gles de s\xE9curit\xE9, comment g\xE9rer le r\xE9\
-      seau \xE9lectrique de votre domicile, etc...\r\nAu fur et \xE0 mesure des chapitres\
-      \ vous apprendrez comment raccorder un compteur \xE9lectrique, relier des c\xE2\
-      bles \xE9lectriques, installer une prise de terre, ou encore poser un disjoncteur,\
-      \ nous mettons \xE0 votre disposition tout le savoir n\xE9cessaire pour vous\
-      \ permettre d\u2019aller de la pr\xE9paration et la r\xE9alisation d\u2019un\
-      \ chantier \xE9lectrique au simple changement d\u2019une ampoule. \r\nCe programme\
-      \ a \xE9t\xE9 \xE9labor\xE9 en collaboration avec des b\xE9n\xE9voles de l'association\
-      \ Electriciens sans fronti\xE8res. Avoir acc\xE8s l'\xE9lectricit\xE9 est indispensable\
-      \ au d\xE9veloppement \xE9conomique et social. Il permet d'\xE9clairer les \xE9\
-      coles, les h\xF4pitaux mais aussi de s\xE9curiser les rues ou encore de donner\
-      \ acc\xE8s \xE0 l'eau potable.\""
+      \ sont les diff\xE9rentes r\xE8gles de s\xE9curit\xE9, etc."
     language: fr
-    name: "\"Le tableau \xE9lectrique\""
-    sha256sum: e50230f7a2580e73aca528ebb5fbbfda011b00612e737d7b6ad42e5038b77ecf
-    size: 1860797158
+    name: "Le tableau \xE9lectrique"
+    sha256sum: 4cf2b97848a7558703165383ca399b6bdeb07b39403836913c122e8a8da42fb9
+    size: 1861530857
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/le-tableau-electrique-sikana-fr.zip
-    version: '2018-03-01'
+    version: '2019-02-19'
   le-talisman-brise-ln-rfi-ln:
     description: "\"Du lingala au fran\xE7ais avec \"Le Talisman bris\xE9\"\""
     language: ln
@@ -3619,6 +3595,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/maths-el-el.zip
     version: '2018-09-10'
+  mecanique-automobile-enabel-fr:
+    description: "Documentation pour se former en m\xE9canique automobile. Des documents\
+      \ d\xE9crivant comment d\xE9monter et monter le boitier de direction, le sch\xE9\
+      ma du fonctionnement d'une automobile"
+    language: fr
+    name: "M\xE9canique automobile"
+    sha256sum: 2e1b4722a2067265e14fa7d5606fa27c0ff21f305c771483875d98d81ffd9ffe
+    size: 83605595
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mecanique-automobile-enabel-fr.zip
+    version: '2019-02-19'
   memoire-d-un-continent-rfi-fr:
     description: "\"\xC9mission RFI : \"M\xE9moire d'un continent\"\""
     language: fr
@@ -4040,6 +4027,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/physics-ar.zip
     version: '2018-10-22'
+  plomberie-enabel-fr:
+    description: "Documentation pou se former en plomberie. Des documents d\xE9crivant\
+      \ les bases de la plomberie, penser et r\xE9aliser son installation ainsi que\
+      \ des catalogues de produits."
+    language: fr
+    name: Plomberie
+    sha256sum: ae8f8ed1190ca71a0149cad208837e33797c16036b93f233bbce3ea0af4b98ed
+    size: 67499286
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/plomberie-enabel-fr.zip
+    version: '2019-02-19'
   poetry-ar:
     description: "\"Poetry collection.//\u0623\u0639\u0645\u0627\u0644 \u0634\u0639\
       \u0631\u064A\u0629\""
@@ -4104,27 +4102,16 @@ all:
     url: http://packages.ideascube.org/omeka/prends-soin-de-toi-enfants-ado-fr.zip
     version: '2018-05-15'
   preparer-son-chantier-electrique-sikana-fr:
-    description: "\"Avec nos vid\xE9os \xE9ducatives du programme \xAB \xC9lectricit\xE9\
+    description: "Avec nos vid\xE9os \xE9ducatives du programme \xAB \xC9lectricit\xE9\
       \ pour tous \xBB, d\xE9couvrez les bases de l\u2019\xE9lectricit\xE9, quelles\
-      \ sont les diff\xE9rentes r\xE8gles de s\xE9curit\xE9, comment g\xE9rer le r\xE9\
-      seau \xE9lectrique de votre domicile, etc...\r\nAu fur et \xE0 mesure des chapitres\
-      \ vous apprendrez comment raccorder un compteur \xE9lectrique, relier des c\xE2\
-      bles \xE9lectriques, installer une prise de terre, ou encore poser un disjoncteur,\
-      \ nous mettons \xE0 votre disposition tout le savoir n\xE9cessaire pour vous\
-      \ permettre d\u2019aller de la pr\xE9paration et la r\xE9alisation d\u2019un\
-      \ chantier \xE9lectrique au simple changement d\u2019une ampoule. \r\nCe programme\
-      \ a \xE9t\xE9 \xE9labor\xE9 en collaboration avec des b\xE9n\xE9voles de l'association\
-      \ Electriciens sans fronti\xE8res. Avoir acc\xE8s l'\xE9lectricit\xE9 est indispensable\
-      \ au d\xE9veloppement \xE9conomique et social. Il permet d'\xE9clairer les \xE9\
-      coles, les h\xF4pitaux mais aussi de s\xE9curiser les rues ou encore de donner\
-      \ acc\xE8s \xE0 l'eau potable.\""
+      \ sont les diff\xE9rentes r\xE8gles de s\xE9curit\xE9, etc."
     language: fr
-    name: "\"Pr\xE9parer son chantier \xE9lectrique\""
-    sha256sum: cbea0e77162fa2e4e7475bd204dbb3d4323d3bbd94c15a586a783c772e9c7d28
-    size: 286078085
+    name: "Pr\xE9parer son chantier \xE9lectrique"
+    sha256sum: f007cbf337e5ed0a369aacdce6739b34de211dcf16b9cd8e06e81e86c7b7a117
+    size: 286285116
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/preparer-son-chantier-electrique-sikana-fr.zip
-    version: '2018-03-01'
+    version: '2019-02-19'
   preparing-for-major-disasters-and-natural-catastrophes-en:
     description: The sixteen simple videos in this program will take you through everything
       you need to know to deal with a range of different scenarios and show you how
@@ -4834,6 +4821,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/the-road-zaatari-magazine-ar.zip
     version: '2018-03-12'
+  transformation-agro-alimentaire-enabel-fr:
+    description: "Documentation pour se former en transformation agro-alimentaire.\
+      \ Des documents comme \"Burkina Faso : Gamme vari\xE9e de produits \xE0 base\
+      \ de moringa\", \"Kenya : De la farine de manioc sans gluten sur le march\xE9\
+      \", \"B\xE9nin : Cocktails de jus locaux\", etc."
+    language: fr
+    name: transformation agro-alimentaire
+    sha256sum: 4082c87e8fae62cffd04e103bd80b16a96fbb252960e01155f4b20fbb3904662
+    size: 723684879
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/transformation-agro-alimentaire-enabel-fr.zip
+    version: '2019-02-19'
   tricot-fr:
     description: "Pas \xE0 pas, apprenez les bases du tricot et bient\xF4t vous arborerez\
       \ fi\xE8rement votre propre \xE9charpe !"
