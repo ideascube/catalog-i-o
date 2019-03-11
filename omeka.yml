@@ -1688,11 +1688,11 @@ all:
       conomiques : march\xE9, actions, obligations, dividendes ... etc."
     language: fr
     name: Economie
-    sha256sum: 5c677d20443ac30298957da8e18df99f91870f31c7d912e3bdf1866aaca850be
-    size: 988906393
+    sha256sum: 92273f932707e79fe7fd9383202722924e8eaf0a501a4d924a6af80afe3ef1f4
+    size: 989107850
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/economie-fr.zip
-    version: '2018-12-17'
+    version: '2019-03-11'
   economy-ar:
     description: "\"Learn about the history of economy and other definitions./ \u0627\
       \u0639\u0631\u0641 \u0627\u0643\u062B\u0631 \u0639\u0646 \u062A\u0627\u0631\u064A\
@@ -2264,6 +2264,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/geography-rohingya-rhg.zip
     version: '2018-11-30'
+  geopolitique-afrique-fr:
+    description: "Les enjeux g\xE9opolitiques de l'Afrique"
+    language: fr
+    name: "G\xE9opolitique"
+    sha256sum: 0cec1f08b4698440ca33a47f72ff6010196fdeed67595c21eded92a800334f9a
+    size: 848386336
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/geopolitique-afrique-fr.zip
+    version: '2019-03-11'
   geopolitique-fr:
     description: "Les enjeux g\xE9opolitiques de l'Afrique"
     language: fr
@@ -3490,11 +3499,11 @@ all:
     description: "Rencontres avec des \xE9crivains et des artistes africains"
     language: fr
     name: "Litt\xE9rature francophone"
-    sha256sum: a8e57325a8589d9a8defe51e605bc7464ad3702bc9e57f47154c19ce79023d9e
-    size: 3135067337
+    sha256sum: bd502409e2fafc202a2f686df96db430cb82471d499fc87688a77cc126f8627b
+    size: 3135189148
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/litterature-francophone-afrique-fr.zip
-    version: '2018-12-04'
+    version: '2019-03-11'
   maconnerie-enabel-fr:
     description: '-'
     language: fr
