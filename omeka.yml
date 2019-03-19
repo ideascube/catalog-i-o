@@ -4560,17 +4560,17 @@ all:
     url: http://packages.ideascube.org/omeka/parentalite-fr.zip
     version: '2017-09-29'
   patron-pour-coudre-une-jupe-a-volants-fille-fr:
-    description: "\"Ce paquet de contenus pr\xE9sente des patrons qui peuvent \xEA\
-      tre utilis\xE9s pour coudre une jupe \xE0 volants pour fille. Les patrons sont\
+    description: "Ce paquet de contenus pr\xE9sente des patrons qui peuvent \xEAtre\
+      \ utilis\xE9s pour coudre une jupe \xE0 volants pour fille. Les patrons sont\
       \ con\xE7us pour des mod\xE8les de 2 \xE0 6 ans. Ils peuvent utiliser sur une\
-      \ grande diversit\xE9 de tissus.\""
+      \ grande diversit\xE9 de tissus..."
     language: fr
-    name: "\"Patron pour coudre une jupe \xE0 volants - Fille\""
-    sha256sum: ebbc822eb27712f148cbd5b3791a5416b047b24cbde8e2d4246f8897b4af53e7
-    size: 11281767
+    name: "Patron pour coudre une jupe \xE0 volants - Fille"
+    sha256sum: 8371545a5bb7efc1c077f1ef2d43ab3651e4f818dbd74d5eaf830e04e7a27e9b
+    size: 11282022
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/patron-pour-coudre-une-jupe-a-volants-fille-fr.zip
-    version: '2018-03-01'
+    version: '2019-03-19'
   patrons-pour-coudre-des-vetements-pour-enfants-fr:
     description: "\"Ce paquet de contenus contient diff\xE9rents patrons permettant\
       \ \xE0 un tailleur de coudre des v\xEAtements pour enfants, filles comme gar\xE7\
