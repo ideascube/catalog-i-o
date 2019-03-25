@@ -207,3 +207,12 @@ all:
     size: 318691373
     sha256sum: b5b7289360e60bc042f1368bd8a14b6fbee361706b397d0add071af6fb7ea004
     type: static-site
+  kajou-fr:
+    name: "Kajou"
+    description: "Kajou est un site accessible en offline sur lequel vous trouverez des contenus d’information, de formation et des contenus éducatifs sélectionnés sur mesure pour répondre à vos besoins et à ceux de votre communauté. De l’apprentissage des mathématiques à la prévention santé, en passant par l’agriculture, Kajou offre accès à des contenus riches, de qualité et open access."
+    version: "2019-03-25"
+    language: fr
+    url: http://packages.ideascube.org/static-sites/kajou-fr.zip
+    size: 15162761285
+    sha256sum: 504bee3b3494b8e336c26e403d82b16f92298a53eb75996b319dc07df17e3ef1
+    type: static-site
