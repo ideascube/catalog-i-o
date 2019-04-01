@@ -1314,6 +1314,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultura-historia-del-cine-es.zip
     version: '2019-03-15'
+  cultura-historia-y-geografia-es:
+    description: "Algunos aspectos del conocimiento hist\xF3rico y geogr\xE1fico"
+    language: es
+    name: "Historia - Geograf\xEDa"
+    sha256sum: c243240e8cf15717d142751824ae34d313028fd9f13b422a579a371ae9845ac7
+    size: 31091786
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cultura-historia-y-geografia-es.zip
+    version: '2019-04-01'
   cultura-literatura-universal-es:
     description: "Grandes obras de la literatura universal en espa\xF1ol"
     language: es
@@ -1841,6 +1850,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ecologie-developpement-durable-fr.zip
     version: '2018-11-16'
+  ecologie-fr:
+    description: "Paquet \xE0 trier"
+    language: fr
+    name: Ecologie
+    sha256sum: 79fee90ab3882505c72a2f2b1d8293e70e20c1610cf7f700083faa91b5078c47
+    size: 62569385
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ecologie-fr.zip
+    version: '2019-04-01'
   ecology-multi-languages-en:
     description: Discover nature, animals and landscapes
     language: en
@@ -3243,11 +3261,11 @@ all:
       \ como fuente de recursos"
     language: es
     name: "Educaci\xF3n medioambiental y desarrollo sostenible"
-    sha256sum: 81390e4350f82e4574be9d1ba12a0aface2a7d3292d812fb80c4e06740970b64
-    size: 288939798
+    sha256sum: 7ddd62ae2c7edd9557d9eb67a56d6563a9573868b3caaf8238ba1c0fbb1c5d3d
+    size: 220643128
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/informacion-y-sensibilizacion-medioambiente-es.zip
-    version: '2019-03-15'
+    version: '2019-04-01'
   informacion-y-sensibilizacion-salud-es:
     description: "Aprenda los primeros auxilios en caso de emergencia para la salud\
       \ de un beb\xE9, un ni\xF1o o un adulo"
@@ -4405,11 +4423,11 @@ all:
       \ morceaux !"
     language: fr
     name: "D\xE9couvrez de nouvelles musiques"
-    sha256sum: ad622ec2d8237850ae3596d74d0bbae7a5c12e7b622484479ff95faa643b2101
-    size: 4144890331
+    sha256sum: bfbadf758bb65a9459dd9f3fbcdced14106009c11da128f6d8d9a8c8b2545249
+    size: 4058140736
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/musique-fr.zip
-    version: '2018-09-20'
+    version: '2019-04-01'
   musique-libre-de-droit-en:
     description: "Musiques libres de droit! \r\nA \xE9couter encore et encore dans\
       \ toutes les langues."
@@ -5302,6 +5320,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sports-fr.zip
     version: '2017-06-08'
+  sport-fr:
+    description: Vous souhaitez vous perfectionner en football ? Vous initier au yoga
+      ou faire un exercice physique quotidien ?  C'est ici !
+    language: fr
+    name: "D\xE9couvrez diff\xE9rents sports"
+    sha256sum: 06871b9ecaf163811c0778b141d64a433eb3856bb1106d20d207dec08016fadc
+    size: 2693177253
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/sport-fr.zip
+    version: '2019-04-01'
   sports-ar:
     description: "Follow these simple steps to a healthier body.// \u062E\u0637\u0648\
       \u0627\u062A \u0631\u064A\u0627\u0636\u064A\u0629  .\u0633\u0647\u0644\u0629\
