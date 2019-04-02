@@ -1064,11 +1064,11 @@ all:
     description: Diversos tutoriales para  divertirse creando
     language: es
     name: "Creatividad Creaci\xF3n"
-    sha256sum: d93c2cf386bbec309f4493985fcdc90adbe4baf7fc6a8d079fa6a0e553c3fe77
-    size: 378205464
+    sha256sum: 0beb557a54d58b0f039559ba375d84e1f90e7c8cc99172f2c08899233b7d2a43
+    size: 422953046
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creatividad-creacion-sikana-es.zip
-    version: '2019-03-15'
+    version: '2019-04-02'
   creatividad-cucuta-creaciones-videos-y-fotos-es:
     description: "Tutoriales que te ese\xF1an c\xF3mo desarrollar tu creatividad dominando\
       \ la t\xE9cnica  fotogr\xE1fica y de realizaci\xF3n de videos"
@@ -1107,6 +1107,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creatividad-cucuta-video-es.zip
     version: '2018-04-26'
+  creatividad-dibujar-es:
+    description: "\xBFC\xF3mo dibujar? Tutoriales sobre las t\xE9cnicas b\xE1sicas\
+      \ del dibujo"
+    language: es
+    name: Creatividad Dibujo
+    sha256sum: a3ce631d1312affce84566e1e8a9b06dfa2a42064b3019ff0c60d464fa2a813e
+    size: 1890859732
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/creatividad-dibujar-es.zip
+    version: '2019-04-02'
   creatividad-e-inovacion-empresarial-es:
     description: "Lecturas para quienes quieren crear o desarrollar empresas o organizaciones\
       \ focalizando su proyecto en la inovaci\xF3n y la creatividad"
@@ -1128,6 +1138,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creatividad-fotografia-es.zip
     version: '2019-03-15'
+  creatividad-manualidades-es:
+    description: "Divi\xE9rtate creando objectos con tubos de cart\xF3n"
+    language: es
+    name: Creatividad Manualidades
+    sha256sum: 54d336c4b4b09d68e6a6d4c716732071cfc1848764417827cd06040d43bc95b4
+    size: 1908944544
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/creatividad-manualidades-es.zip
+    version: '2019-04-02'
   creativity-bangla-bn:
     description: Express your creativity
     language: bn
@@ -1180,11 +1199,11 @@ all:
       \ del dibujo a l\xE1piz"
     language: es
     name: Aprender a dibujar
-    sha256sum: f826a6e1938ab91f2fb5a415499dc3d538ec9658c86a3eeb0bfdd0103d72f272
-    size: 1718348088
+    sha256sum: dcfb554f780d9ec178b80c6baef66f690b922f13ae30e3797536c87f8c6af2f5
+    size: 1715042853
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultura-arte-dibujar-es.zip
-    version: '2019-03-15'
+    version: '2019-04-02'
   cultura-arte-origami-es:
     description: "Aprende a hacer animales y otros objetos art\xEDsticos con hoja\
       \ de papel"
@@ -1195,6 +1214,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultura-arte-origami-es.zip
     version: '2019-03-15'
+  cultura-cine-es:
+    description: Aprenda sobre la historia del cine viendo cortometrajes y documentales
+    language: es
+    name: Cultura Cine
+    sha256sum: 78ea973809a82a84bc209b7fff0398986270c285f0b4183aabb27c2532898f17
+    size: 8668599959
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cultura-cine-es.zip
+    version: '2019-04-02'
   cultura-cocina-es:
     description: "Recetas simples de cocina tradicional y c\xF3mo haceres en la preparaci\xF3\
       n de los alimentos"
@@ -1234,14 +1262,14 @@ all:
     url: http://packages.ideascube.org/omeka/cultura-cuentos-y-dibujos-animados-es.zip
     version: '2019-03-15'
   cultura-ebook-es:
-    description: Colombia en su historia y cultura
+    description: Colombia, su historia y cultura
     language: es
-    name: cultura ebook
-    sha256sum: c90b85e60b2c764a0e9d78622720da1303fca4b5dd8ee4ef86c6828b69684a48
-    size: 9857202
+    name: Cultura ebook
+    sha256sum: 1783e67f224abd1f5aba5667f3dc17d131d99ae1e375a7b486a913da6094a6db
+    size: 9465868
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultura-ebook-es.zip
-    version: '2019-03-15'
+    version: '2019-04-02'
   cultura-economia-es:
     description: "Videos tutoriales sobre la econom\xEDa como disciplina de las ciencias\
       \ humanas, haciendo tambi\xE9n un enfoque Am\xE9rica Latina. Colombia y Bogot\xE1\
@@ -1258,11 +1286,11 @@ all:
       \ y exitoso"
     language: es
     name: "Econom\xEDa y negocios"
-    sha256sum: 8be65869708d1fed554b6e888a4b82434befc3ffd635e295307901eff24cdac0
-    size: 341399055
+    sha256sum: 6205aad1c048ade62912d0ce07c80adaf18a57ffdabf65c82f42a598c605f361
+    size: 328137574
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultura-economia-y-negocios-es.zip
-    version: '2019-03-15'
+    version: '2019-04-02'
   cultura-general-cucuta-video-es:
     description: '-'
     language: es
@@ -1327,11 +1355,11 @@ all:
     description: "Grandes obras de la literatura universal en espa\xF1ol"
     language: es
     name: Literatura universal
-    sha256sum: 2ec5c9690e13af83f3d801e5999b4b5ae3b68e25f69ca39a63af4510ca257cc0
-    size: 137128602
+    sha256sum: 28683323732a3795b2ae8e50d5bb091865f9b7d10883e5247fc3f434f1cabe9d
+    size: 127138078
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultura-literatura-universal-es.zip
-    version: '2019-03-15'
+    version: '2019-04-02'
   cultura-musica-es:
     description: "Conocer los instrumentos musicales, aprender sobre la historia de\
       \ la m\xFAsica"
@@ -1997,21 +2025,21 @@ all:
       sica"
     language: es
     name: "Ciencias naturales y F\xEDsica"
-    sha256sum: 182cb37e878d1e7a0b31db3495415aaa616e86610c91a8336318bb72f22e9b0f
-    size: 1262846764
+    sha256sum: 416df426a5a01829714bff4e0cb81a2369431ff9a229c423986809fe4e30e176
+    size: 1009057471
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/educacion-ciencias-naturales-fisica-es.zip
-    version: '2019-03-15'
+    version: '2019-04-02'
   educacion-ciudadania-es:
     description: "Manuales y tutoriales sobre los valores que se ense\xF1an en la\
       \ educaci\xF3n para la ciudadan\xEDa;"
     language: es
     name: "Educaci\xF3n para la ciudadan\xEDa"
-    sha256sum: d73e3d1d30d3a8be30355ca51deca8ebf84f4239ff23403f95f6bc937ea89e43
-    size: 38347561
+    sha256sum: 1aea9de2aab56039b8fa61a9fa1b1fee3ba46d1f690d47d75ba9ff4a374f8e32
+    size: 8093909
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/educacion-ciudadania-es.zip
-    version: '2019-03-15'
+    version: '2019-04-02'
   educacion-civica-es:
     description: "Amplios repasos de las principales tem\xE1ticas que abarca la educaci\xF3\
       n c\xEDvica, tales como racismo, discriminaci\xF3n, dignidad y convivencia humana,\
@@ -2193,15 +2221,15 @@ all:
     url: http://packages.ideascube.org/omeka/educacion-matematicas-para-ninos-es.zip
     version: '2019-03-15'
   educacion-universo-es:
-    description: "Videos tutoriales para descubrir la ciencia y el funccionamiento\
+    description: "Videos tutoriales para descubrir la ciencia y el funcionamiento\
       \ del universo e iniciarse a sus m\xE1s grandes misterios."
     language: es
     name: "Educaci\xF3n - ciencia del universo"
-    sha256sum: d962c2dd4c87326276e542aed04f431a5a62ecd7c7f0a2197c979bef93192063
-    size: 540121980
+    sha256sum: fa9fb80b70422f9918e563b78bf1a6354072821419cdfabb77dba733909c9587
+    size: 539345296
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/educacion-universo-es.zip
-    version: '2019-03-15'
+    version: '2019-04-02'
   electricite-enabel-fr:
     description: '-'
     language: fr
@@ -2614,11 +2642,11 @@ all:
       \ en la comunidad"
     language: es
     name: Design Thinking en bibliotecas o en talleres de actividades
-    sha256sum: 868ec3f18c6e8c5aad5436d7e7e6ad53d2d024ff62573ebe7f119c08a56df41a
-    size: 14059687
+    sha256sum: 2f297668c1e882dbe3c5e502c8afc9c8c35c61abcec803265cd1dac74b8340fc
+    size: 13394415
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/formacion-profesional-bibliotecario-mediador-cultural-es.zip
-    version: '2019-03-15'
+    version: '2019-04-02'
   formacion-profesional-colsubsidio-es:
     description: "formaci\xF3n profesional"
     language: es
@@ -2643,22 +2671,22 @@ all:
       \ de vida"
     language: es
     name: "Haz lo T\xFA Mismo-  Bricolaje"
-    sha256sum: 0a216378235733747c1bc7aaa3223a3f50860d6e002cf34a58d492b9cda0a342
-    size: 1143730285
+    sha256sum: 55ca590c6fb2beb3d5be6bce33de3f438f200b6dc1cce53c5a569740c41f6b32
+    size: 1131905773
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/formacion-profesional-diy-es.zip
-    version: '2019-03-15'
+    version: '2019-04-02'
   formacion-profesional-emprendimiento-es:
     description: "Tutoriales dedicados al emprendimiento en todos sus aspectos para\
       \ tener \xE9xito en el mundo laboral. Dan muchas llaves para entender mejor\
       \ y abrir paso al trabajo"
     language: es
     name: Emprendimiento - Design Thinking
-    sha256sum: 59b5ba24166ba799839f7e6dcf184f49cf8b2dfc87b120c71d389bb2ca2270fe
-    size: 2008381835
+    sha256sum: 78a6638c1448ada89352d3f2bd17c035234dc4f360d02c1b262eee191dfa897b
+    size: 1846289857
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/formacion-profesional-emprendimiento-es.zip
-    version: '2019-03-15'
+    version: '2019-04-02'
   formacion-profesional-emprendimiento-y-desarrollo-personal-es:
     description: "Fortalezca sus conocimientos sobre el mundo de las empresas para\
       \ emprender sin miedo y con \xE9xito"
@@ -3142,11 +3170,11 @@ all:
     description: "Memoria y di\xE1logo de paz . recordarse para no repetir."
     language: es
     name: "Informaci\xF3n ebook"
-    sha256sum: cf02f6a8be39abfa7476aa76cc5d12add8cf2265e88b1a7865d481d66dc872fd
-    size: 127015365
+    sha256sum: 85eef4ecdc88a016b4942174e7560ca7cf9dbe6676514ab9e539938af9b68ace
+    size: 118602105
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/informacion-ebook-es.zip
-    version: '2019-03-15'
+    version: '2019-04-02'
   informacion-sikana-es:
     description: Conozca tu cuerpo y aprenda a cuidarlo
     language: es
@@ -3156,6 +3184,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/informacion-sikana-es.zip
     version: '2019-03-15'
+  informacion-sikana-salud-es:
+    description: Conozca tu cuerpo y aprenda a cuidarlo
+    language: es
+    name: Informacion Sikana-Salud
+    sha256sum: cb333c86eb481deff2c8d00a0687082b4395a536fcfe303243d9bb15d329242a
+    size: 10551508
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/informacion-sikana-salud-es.zip
+    version: '2019-04-02'
   informacion-y-sensibilizacion-animales-es:
     description: "Aprende sobre la clasificaci\xF3n de los animales y de las grandes\
       \ especies en el mundo"
@@ -3220,31 +3257,31 @@ all:
       \ en tu salud"
     language: es
     name: Salud Drogas
-    sha256sum: f2e78a91542eefb7caf3d572f3c89859a1187c6473a2b4f641052ff1d139188e
-    size: 433272320
+    sha256sum: d62bfb48a8cf3f45839386a5162889da9f0f28f15b5ced49afd0669a81fab80b
+    size: 358235998
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/informacion-y-sensibilizacion-drogas-es.zip
-    version: '2019-03-15'
+    version: '2019-04-02'
   informacion-y-sensibilizacion-educacion-ambiental-es:
     description: "Entienda las normas b\xE1sicas para una educaci\xF3n medioambiental\
       \ y fortalezca su emprendimiento sostenible"
     language: es
     name: "Educaci\xF3n medioambiental"
-    sha256sum: 9755136b219d54a71a378f47fb1286f60dec4b59e57ffb78175d6788ed49f3d7
-    size: 335168902
+    sha256sum: 40f938f503b1914e96ff58848794323f34f07e8d199de0a0f138003a17cf3c0a
+    size: 293889499
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/informacion-y-sensibilizacion-educacion-ambiental-es.zip
-    version: '2019-03-15'
+    version: '2019-04-02'
   informacion-y-sensibilizacion-informatica-es:
     description: "Aprende los b\xE1sicos de la inform\xE1tica y prevee los riesgos\
       \ del internet"
     language: es
     name: "Afabetizaci\xF3n inform\xE1tica y  redes sociales"
-    sha256sum: 9680cc51591564b15ab861620e0cb0a2a1cfdd1168f1c226605ba06b71b35d69
-    size: 566266166
+    sha256sum: 6afce7b1259c8a76a5a31d4a25842ec53feb609f29c1d94cdea0abadd2ddda2b
+    size: 563728153
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/informacion-y-sensibilizacion-informatica-es.zip
-    version: '2019-03-15'
+    version: '2019-04-02'
   informacion-y-sensibilizacion-interculturalidad-es:
     description: "Lecturas sobre c\xF3mo vivir juntos cuales sean nuestros or\xED\
       genes"
@@ -3266,27 +3303,38 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/informacion-y-sensibilizacion-medioambiente-es.zip
     version: '2019-04-01'
+  informacion-y-sensibilizacion-ninos-es:
+    description: "Videos tutoriales para ni\xF1os que les ense\xF1an sobre relaciones\
+      \ con amigos, padres, adultos, con enfoque sobre la prevenci\xF3n de abusos\
+      \ que pueden ocurrir y sus derechos"
+    language: es
+    name: "Informaci\xF3n y sensibilizaci\xF3n Ni\xF1os"
+    sha256sum: 6134227febea875786cb5e6fe20e70a89f5650286500eb13ac8db5f0940d6011
+    size: 555841520
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/informacion-y-sensibilizacion-ninos-es.zip
+    version: '2019-04-02'
   informacion-y-sensibilizacion-salud-es:
     description: "Aprenda los primeros auxilios en caso de emergencia para la salud\
       \ de un beb\xE9, un ni\xF1o o un adulo"
     language: es
     name: Primeros auxilios
-    sha256sum: 314cfe593d4160acbcb4626650740e6fbcf65c632eed51543a80cf4ee4319447
-    size: 711256148
+    sha256sum: 2a2cb13884d8685488eb25482e2e6d989dd63e1fc88506d4feea272d7bfd5d4c
+    size: 530334701
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/informacion-y-sensibilizacion-salud-es.zip
-    version: '2019-03-15'
+    version: '2019-04-02'
   informacion-y-sensibilizacion-sexualidad-es:
     description: "Conoce los medios de contracepci\xF3n y los recursos en caso de\
       \ enfermedades sexualmente transmisibles. Aprende a conocer tu cuerpo, dede\
       \ la pubertad hasta la sexualidad libremente aceptada,"
     language: es
     name: "Educaci\xF3n para la sexualidad"
-    sha256sum: d3ed1b3b803f8baca345b2cb657d87ce70bf837646be65ec5f44efe06688b472
-    size: 563408544
+    sha256sum: bce74c718ec3b9b314472421a8cb94938bc9788b2e845b73d3bfdf9fc2ccf333
+    size: 538330495
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/informacion-y-sensibilizacion-sexualidad-es.zip
-    version: '2019-03-15'
+    version: '2019-04-02'
   informatique-enabel-fr:
     description: '-'
     language: fr
