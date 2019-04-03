@@ -4383,15 +4383,15 @@ all:
     url: http://packages.ideascube.org/omeka/motherhood-and-parenting-ar.zip
     version: '2018-12-06'
   moyens-de-contraception-fr:
-    description: "La contraception c'est quoi ? Quels sont les diff\xE9rents moyens\
-      \ de protection et de contraception pour filles et gar\xE7ons ?"
+    description: "La contraception, qu'est-ce que c'est ? Quels sont les diff\xE9\
+      rents moyens de protection et de contraception pour filles et gar\xE7ons ?"
     language: fr
     name: Quelle contraception pour moi, pour nous ?
-    sha256sum: 678c305dff42dc4149cf37c754c80bd3d3368e59b19f04fda27ffff26ec0744d
-    size: 71555275
+    sha256sum: 873670401939b87e16e5e8449e574c4d7ecae08d328e3f78e097f8f2d05dbcc1
+    size: 71313879
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/moyens-de-contraception-fr.zip
-    version: '2018-12-04'
+    version: '2019-04-03'
   music-and-dance-rohingya-rhg:
     description: Collection of music and local dance
     language: rhg
@@ -4571,14 +4571,15 @@ all:
     url: http://packages.ideascube.org/omeka/numerique-et-bidouille-informatique-fr.zip
     version: '2018-11-16'
   nutrition-enfants-fr:
-    description: "Bien manger \xE7a veut dire quoi ?"
+    description: "Bien manger, qu'est-ce que \xE7a veut dire ? Apprends \xE0 composer\
+      \ des repas sains et nutritifs !"
     language: fr
     name: Nutrition (enfants)
-    sha256sum: 28c6a7edd198d77fea66e929f0436d56130ebe7be051e14ec83da57588be7541
-    size: 1161472728
+    sha256sum: 53aa99ad8c13d4736234058b064a1350bf27540f8acdec6635fb8070e9109c8c
+    size: 1157892995
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/nutrition-enfants-fr.zip
-    version: '2018-09-17'
+    version: '2019-04-03'
   nutrition-fr:
     description: "Qu'est ce que \xE7a veut dire \"bien manger\" ? Comment am\xE9liorer\
       \ ses r\xE9flexes d'alimentation pour se sentir mieux et prendre soin de sa\
