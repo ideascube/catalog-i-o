@@ -175,10 +175,10 @@ all:
     name: Films pour enfants
     description: Films pour enfants
     language: fr
-    version: '2018-02-16'
+    version: '2019-03-04'
     url: http://packages.ideascube.org/static-sites/films-pour-enfants-fr.zip
-    size: 9812386111
-    sha256sum: 417a60ab5f9cec27d1473e88c2041a6611c051a22c17d60cd5373a0cff4c515e
+    size: 13403758048
+    sha256sum: 736904c1339316b62f370df2f9c1e1df94988d3bec68e339dc8c57d7f12ae904
     type: static-site
   audacity-manual.en:
     name: "Audacity Tutorials"
