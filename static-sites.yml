@@ -48,7 +48,7 @@ all:
     name: Welcome to Europe refugees website
     description: "For freedom of movement: Independent information for refugees and migrants coming to Europe"
     version: "2017-04-20"
-    url: http://packages.ideascube.org/w2eu/w2eu.zip
+    url: http://packages.ideascube.org/static-sites/w2eu.zip
     language: "en"
     sha256sum: cb803574fd5e91876603ea62fe12df0aca6f2dbccf82fc33aee9e48e7b1ccd8a
     size: 128787858
