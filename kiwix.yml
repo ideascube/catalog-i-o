@@ -60,13 +60,13 @@ all:
     langid: "wikipedia.en"
     type: zim
   wikipedia.fr:
-    version: "2018-04-01"
-    size: 33271643275
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_fr_all_novid_2018-03.zip"
+    version: "2018-10-01"
+    size: 31733247252
+    url: "https://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_novid_2018-10.zim"
     name: Wikipédia
     language: "fra"
     description: L'encyclopédie libre.
-    sha256sum: "e273b0ced659774b1049c173a68d765ad32d80a7d9aa719bb97ccb187089fb1b"
+    sha256sum: "b36c3cd603d6029c5e9f29f9f01c7ba1ad9d0d3dd9d5d2765a04eb1283a572a7"
     langid: "wikipedia.fr"
     type: zipped-zim
   wikipedia.rn:
