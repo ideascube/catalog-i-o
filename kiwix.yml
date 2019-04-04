@@ -62,7 +62,7 @@ all:
   wikipedia.fr:
     version: "2018-10-01"
     size: 31733247252
-    url: "https://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_novid_2018-10.zim"
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_novid_2018-10.zim"
     name: Wikipédia
     language: "fra"
     description: L'encyclopédie libre.
