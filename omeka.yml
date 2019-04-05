@@ -4633,7 +4633,7 @@ all:
       \ grande diversit\xE9 de tissus..."
     language: fr
     name: "Patron pour coudre une jupe \xE0 volants - Fille"
-    sha256sum: 75d2cfb71abe8dade5c2a1a14226cbd77ce75de783653be26ebda4deb729cdbd
+    sha256sum: 69a7e8a3bebd2790fc8b81dc9b3693b88d0b5f12ff9ab8f2ac5ab5ba3fc8714f
     size: 11282022
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/patron-pour-coudre-une-jupe-a-volants-fille-fr.zip
