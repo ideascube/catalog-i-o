@@ -68,7 +68,7 @@ all:
     description: L'encyclopédie libre.
     sha256sum: "b36c3cd603d6029c5e9f29f9f01c7ba1ad9d0d3dd9d5d2765a04eb1283a572a7"
     langid: "wikipedia.fr"
-    type: zipped-zim
+    type: zim
   wikipedia.rn:
     version: "2017-01-08"
     size: 201213355
