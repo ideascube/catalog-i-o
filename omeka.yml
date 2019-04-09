@@ -512,11 +512,11 @@ all:
       and its history.
     language: en
     name: Astronomy
-    sha256sum: 82192ee29dc1679dd40d7817f7e796bc726643f8851667080281f58491ab897e
-    size: 5126652705
+    sha256sum: e72b75b8fa7eb80d5d0cd3c46a5463969daf329c002bfca01dd26b03b321f23c
+    size: 5097594728
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/astronomy-en.zip
-    version: '2018-11-13'
+    version: '2019-04-09'
   audiobooks-et-fictions-sonores-fr:
     description: "Les fictions, les romans, on peut aussi les \xE9couter ! A vos casques\
       \ !"
@@ -527,6 +527,28 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/audiobooks-et-fictions-sonores-fr.zip
     version: '2018-01-18'
+  audiobooks-from-radio-book-rwanda-en:
+    description: These audios are part of a large project called RadioBook Rwanda,
+      born from a collaboration of 3 publishers, Huza Press from Rwanda, Kwani Trust
+      from Kenya, and No Bindings from the UK.
+    language: en
+    name: Audiobooks from Radio Book Rwanda
+    sha256sum: 339accb81f173eb3331419f001f0c0d9af9129341bbded9f2e2f63ea6747772a
+    size: 74868707
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/audiobooks-from-radio-book-rwanda-en.zip
+    version: '2019-04-09'
+  audiobooks-from-radio-book-rwanda-rw-rw:
+    description: These audios are part of a large project called RadioBook Rwanda,
+      born from a collaboration of 3 publishers, Huza Press from Rwanda, Kwani Trust
+      from Kenya, and No Bindings from the UK.
+    language: rw
+    name: Audiobooks from Radio Book Rwanda
+    sha256sum: 20122884c8abdbd09ea39ba56645369da5ab3ec4b4beeffd1bfe16360e26e655
+    size: 101761843
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/audiobooks-from-radio-book-rwanda-rw-rw.zip
+    version: '2019-04-09'
   ballet-picks-ar:
     description: A collection of famous ballet shows.
     language: ar
@@ -1753,6 +1775,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/diy-travaux-manuels-fr.zip
     version: '2018-12-04'
+  documentaires-handicap-international-fr:
+    description: "Conna\xEEtre les actions d'Handicap International"
+    language: fr
+    name: Documentaires Handicap International
+    sha256sum: d0659d7634c9f49c71c60a9ca172bd534a54b3c5ae96d74b6fd5cf45fa1eceb6
+    size: 1493788207
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/documentaires-handicap-international-fr.zip
+    version: '2019-04-09'
   documents-methodologiques-rfi-fr:
     description: "\"Documents m\xE9thodologiques\""
     language: fr
@@ -3536,11 +3567,11 @@ all:
       Learn about ecology with this selection of videos and articles.
     language: en
     name: Introduction to ecology
-    sha256sum: 6d636a447fc074f781c5dab60bac4929ddac65170cee40feb562d11dca641225
-    size: 479735704
+    sha256sum: 9ec895b5dbc3b8bde62929c6b5a70dc0591656e204aa9eabef397816c61f8b8b
+    size: 445181610
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-ecology-en.zip
-    version: '2018-11-13'
+    version: '2019-04-09'
   introduction-to-economics-en:
     description: You want to improve your knowledge in economics ? You will find very
       interesting resumes here !
@@ -3621,11 +3652,11 @@ all:
       interesting resumes here !
     language: en
     name: Introduction to philosophy
-    sha256sum: 155202f0ebdce95703308af5ce278f4cc29f890c8261935c656183b3bbf43a64
-    size: 529006863
+    sha256sum: 1745ef0609aafbd4edeeb4f4600a0d12f7bf92d86a2db56ae3e9777cf50897a8
+    size: 527288816
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-philosophy-en.zip
-    version: '2018-09-04'
+    version: '2019-04-09'
   introduction-to-psychology-en:
     description: You want to enrich your knowledge in psychology ? You will find very
       interesting resumes here !
