@@ -882,6 +882,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comprendre-l-autisme-fr.zip
     version: '2018-01-18'
+  comprendre-les-migrations-fr:
+    description: '-'
+    language: fr
+    name: Comprendre les migrations
+    sha256sum: 87a77a7cf9ce37648e7215d220803c57b3226135f9bbe00123f209e2b4c51132
+    size: 1128550093
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/comprendre-les-migrations-fr.zip
+    version: '2019-04-10'
   computer-and-it-ar:
     description: "Learn about the different parts of the computer and more. // \u062A\
       \u0639\u0644\u0645 \u0639\u0646 \u0623\u062C\u0632\u0627\u0621 \u0627\u0644\u0643\
@@ -2997,6 +3006,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-afrique-fr.zip
     version: '2018-12-04'
+  histoire-de-l-immigration-en-france-fr:
+    description: '-'
+    language: fr
+    name: Histoire de l'immigration en France
+    sha256sum: 53921b52679a7a2f898667727b5ac94557aefb919275b903091b490c9266c1f5
+    size: 459960431
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-de-l-immigration-en-france-fr.zip
+    version: '2019-04-10'
   histoire-de-la-republique-democratique-du-congo-fr:
     description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
       \ les \xE9v\xE8nements du pr\xE9sent"
@@ -3806,6 +3824,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/l-afrique-en-marche-rfi-fr.zip
     version: '2018-02-28'
+  l-importance-des-langues-maternelles-fr:
+    description: '-'
+    language: fr
+    name: L'importance des langues maternelles
+    sha256sum: 3e83f399d21d96eb30da21d672c35a316559458b8798e6525775886dc2ceec71
+    size: 854831607
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/l-importance-des-langues-maternelles-fr.zip
+    version: '2019-04-10'
   l-inclusion-numerique-fr:
     description: "Les vid\xE9os sur l'inclusion num\xE9rique propose une initiation\
       \ \xE0 l'informatique."
@@ -4949,6 +4976,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/python-3-des-fondamentaux-aux-concepts-avances-du-langage-fr.zip
     version: '2018-11-19'
+  qu-est-ce-que-ca-veut-dire-etre-francais-fr:
+    description: '-'
+    language: fr
+    name: "Qu'est-ce que \xE7a veut dire \xEAtre fran\xE7ais ?"
+    sha256sum: abda4961c686daea217e0ebda1df8094aa057b7d9b72fa82ee263b0ed046edda
+    size: 702265379
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/qu-est-ce-que-ca-veut-dire-etre-francais-fr.zip
+    version: '2019-04-10'
   raconte-moi-des-histoires-fr:
     description: "Tu cherches de quoi lire, des livres pas trop compliqu\xE9s ? C'est\
       \ ici !"
