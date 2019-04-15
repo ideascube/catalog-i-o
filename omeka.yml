@@ -1191,11 +1191,11 @@ all:
     description: Express your creativity
     language: en
     name: Creativity (multi languages)
-    sha256sum: 3e61e478aa760a595a11e9b108680ca784fe153a6159975586d685b1bdd3676e
-    size: 1499135563
+    sha256sum: be953bc56d1868c9c9443ceaca11603810e826bdb7065d5990a0088fec9276a9
+    size: 1078252464
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creativity-multi-languages-en.zip
-    version: '2019-01-08'
+    version: '2019-04-15'
   cuisine-et-nutrition-enfants-fr:
     description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
     language: fr
@@ -3906,21 +3906,21 @@ all:
       package is for you!
     language: en
     name: Learn english!
-    sha256sum: 2f1929a9d87d3a4f92cbb70f80d585c039ddd82ffb1497c21ea91cca078ec466
-    size: 394836607
+    sha256sum: e0371ff3cec40be689dfad1b50658c546e9e994227f1c692c1aeda386e54fcaa
+    size: 429719699
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-adults-en.zip
-    version: '2019-04-03'
+    version: '2019-04-15'
   learn-english-teenagers-en:
     description: Learn basics in english language to communicate with others! For
       teens.
     language: en
     name: Learn English!
-    sha256sum: 521fb92b08c9b5780d1543a9ef5a8c969120e87f3ccebcdea2251f2def003549
-    size: 582124371
+    sha256sum: 1a64a301ff31f40cde2587354d6e9a3f9aa9058fe62364ed84a5a224ab1b415d
+    size: 451264226
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-teenagers-en.zip
-    version: '2018-12-17'
+    version: '2019-04-15'
   learn-first-aid-techniques-en:
     description: Everyday accidents are responsible for several millions of deaths
       per year all over the world. Here are some simple techniques, that anyone can
