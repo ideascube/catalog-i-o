@@ -512,11 +512,11 @@ all:
       and its history.
     language: en
     name: Astronomy
-    sha256sum: 82192ee29dc1679dd40d7817f7e796bc726643f8851667080281f58491ab897e
-    size: 5126652705
+    sha256sum: e72b75b8fa7eb80d5d0cd3c46a5463969daf329c002bfca01dd26b03b321f23c
+    size: 5097594728
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/astronomy-en.zip
-    version: '2018-11-13'
+    version: '2019-04-09'
   audiobooks-et-fictions-sonores-fr:
     description: "Les fictions, les romans, on peut aussi les \xE9couter ! A vos casques\
       \ !"
@@ -527,6 +527,28 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/audiobooks-et-fictions-sonores-fr.zip
     version: '2018-01-18'
+  audiobooks-from-radio-book-rwanda-en:
+    description: These audios are part of a large project called RadioBook Rwanda,
+      born from a collaboration of 3 publishers, Huza Press from Rwanda, Kwani Trust
+      from Kenya, and No Bindings from the UK.
+    language: en
+    name: Audiobooks from Radio Book Rwanda
+    sha256sum: 339accb81f173eb3331419f001f0c0d9af9129341bbded9f2e2f63ea6747772a
+    size: 74868707
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/audiobooks-from-radio-book-rwanda-en.zip
+    version: '2019-04-09'
+  audiobooks-from-radio-book-rwanda-rw-rw:
+    description: These audios are part of a large project called RadioBook Rwanda,
+      born from a collaboration of 3 publishers, Huza Press from Rwanda, Kwani Trust
+      from Kenya, and No Bindings from the UK.
+    language: rw
+    name: Audiobooks from Radio Book Rwanda
+    sha256sum: 20122884c8abdbd09ea39ba56645369da5ab3ec4b4beeffd1bfe16360e26e655
+    size: 101761843
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/audiobooks-from-radio-book-rwanda-rw-rw.zip
+    version: '2019-04-09'
   ballet-picks-ar:
     description: A collection of famous ballet shows.
     language: ar
@@ -860,6 +882,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comprendre-l-autisme-fr.zip
     version: '2018-01-18'
+  comprendre-les-migrations-fr:
+    description: '-'
+    language: fr
+    name: Comprendre les migrations
+    sha256sum: 87a77a7cf9ce37648e7215d220803c57b3226135f9bbe00123f209e2b4c51132
+    size: 1128550093
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/comprendre-les-migrations-fr.zip
+    version: '2019-04-10'
   computer-and-it-ar:
     description: "Learn about the different parts of the computer and more. // \u062A\
       \u0639\u0644\u0645 \u0639\u0646 \u0623\u062C\u0632\u0627\u0621 \u0627\u0644\u0643\
@@ -1160,11 +1191,11 @@ all:
     description: Express your creativity
     language: en
     name: Creativity (multi languages)
-    sha256sum: 3e61e478aa760a595a11e9b108680ca784fe153a6159975586d685b1bdd3676e
-    size: 1499135563
+    sha256sum: be953bc56d1868c9c9443ceaca11603810e826bdb7065d5990a0088fec9276a9
+    size: 1078252464
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creativity-multi-languages-en.zip
-    version: '2019-01-08'
+    version: '2019-04-15'
   cuisine-et-nutrition-enfants-fr:
     description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
     language: fr
@@ -1753,6 +1784,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/diy-travaux-manuels-fr.zip
     version: '2018-12-04'
+  documentaires-handicap-international-fr:
+    description: "Conna\xEEtre les actions d'Handicap International"
+    language: fr
+    name: Documentaires Handicap International
+    sha256sum: d0659d7634c9f49c71c60a9ca172bd534a54b3c5ae96d74b6fd5cf45fa1eceb6
+    size: 1493788207
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/documentaires-handicap-international-fr.zip
+    version: '2019-04-09'
   documents-methodologiques-rfi-fr:
     description: "\"Documents m\xE9thodologiques\""
     language: fr
@@ -2966,6 +3006,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-afrique-fr.zip
     version: '2018-12-04'
+  histoire-de-l-immigration-en-france-fr:
+    description: '-'
+    language: fr
+    name: Histoire de l'immigration en France
+    sha256sum: 53921b52679a7a2f898667727b5ac94557aefb919275b903091b490c9266c1f5
+    size: 459960431
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-de-l-immigration-en-france-fr.zip
+    version: '2019-04-10'
   histoire-de-la-republique-democratique-du-congo-fr:
     description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
       \ les \xE9v\xE8nements du pr\xE9sent"
@@ -3536,11 +3585,11 @@ all:
       Learn about ecology with this selection of videos and articles.
     language: en
     name: Introduction to ecology
-    sha256sum: 6d636a447fc074f781c5dab60bac4929ddac65170cee40feb562d11dca641225
-    size: 479735704
+    sha256sum: 9ec895b5dbc3b8bde62929c6b5a70dc0591656e204aa9eabef397816c61f8b8b
+    size: 445181610
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-ecology-en.zip
-    version: '2018-11-13'
+    version: '2019-04-09'
   introduction-to-economics-en:
     description: You want to improve your knowledge in economics ? You will find very
       interesting resumes here !
@@ -3621,11 +3670,11 @@ all:
       interesting resumes here !
     language: en
     name: Introduction to philosophy
-    sha256sum: 155202f0ebdce95703308af5ce278f4cc29f890c8261935c656183b3bbf43a64
-    size: 529006863
+    sha256sum: 1745ef0609aafbd4edeeb4f4600a0d12f7bf92d86a2db56ae3e9777cf50897a8
+    size: 527288816
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-philosophy-en.zip
-    version: '2018-09-04'
+    version: '2019-04-09'
   introduction-to-psychology-en:
     description: You want to enrich your knowledge in psychology ? You will find very
       interesting resumes here !
@@ -3775,6 +3824,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/l-afrique-en-marche-rfi-fr.zip
     version: '2018-02-28'
+  l-importance-des-langues-maternelles-fr:
+    description: '-'
+    language: fr
+    name: L'importance des langues maternelles
+    sha256sum: 3e83f399d21d96eb30da21d672c35a316559458b8798e6525775886dc2ceec71
+    size: 854831607
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/l-importance-des-langues-maternelles-fr.zip
+    version: '2019-04-10'
   l-inclusion-numerique-fr:
     description: "Les vid\xE9os sur l'inclusion num\xE9rique propose une initiation\
       \ \xE0 l'informatique."
@@ -3848,21 +3906,21 @@ all:
       package is for you!
     language: en
     name: Learn english!
-    sha256sum: 2f1929a9d87d3a4f92cbb70f80d585c039ddd82ffb1497c21ea91cca078ec466
-    size: 394836607
+    sha256sum: e0371ff3cec40be689dfad1b50658c546e9e994227f1c692c1aeda386e54fcaa
+    size: 429719699
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-adults-en.zip
-    version: '2019-04-03'
+    version: '2019-04-15'
   learn-english-teenagers-en:
     description: Learn basics in english language to communicate with others! For
       teens.
     language: en
     name: Learn English!
-    sha256sum: 521fb92b08c9b5780d1543a9ef5a8c969120e87f3ccebcdea2251f2def003549
-    size: 582124371
+    sha256sum: 1a64a301ff31f40cde2587354d6e9a3f9aa9058fe62364ed84a5a224ab1b415d
+    size: 451264226
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-teenagers-en.zip
-    version: '2018-12-17'
+    version: '2019-04-15'
   learn-first-aid-techniques-en:
     description: Everyday accidents are responsible for several millions of deaths
       per year all over the world. Here are some simple techniques, that anyone can
@@ -4918,6 +4976,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/python-3-des-fondamentaux-aux-concepts-avances-du-langage-fr.zip
     version: '2018-11-19'
+  qu-est-ce-que-ca-veut-dire-etre-francais-fr:
+    description: '-'
+    language: fr
+    name: "Qu'est-ce que \xE7a veut dire \xEAtre fran\xE7ais ?"
+    sha256sum: abda4961c686daea217e0ebda1df8094aa057b7d9b72fa82ee263b0ed046edda
+    size: 702265379
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/qu-est-ce-que-ca-veut-dire-etre-francais-fr.zip
+    version: '2019-04-10'
   raconte-moi-des-histoires-fr:
     description: "Tu cherches de quoi lire, des livres pas trop compliqu\xE9s ? C'est\
       \ ici !"
