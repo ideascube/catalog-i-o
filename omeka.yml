@@ -1191,11 +1191,11 @@ all:
     description: Express your creativity
     language: en
     name: Creativity (multi languages)
-    sha256sum: be953bc56d1868c9c9443ceaca11603810e826bdb7065d5990a0088fec9276a9
+    sha256sum: f36301cf89a6040d318c4c4e26fbe6f27844adfeac29da3b7068cea56c42e303
     size: 1078252464
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creativity-multi-languages-en.zip
-    version: '2019-04-15'
+    version: '2019-04-17'
   cuisine-et-nutrition-enfants-fr:
     description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
     language: fr
@@ -2817,15 +2817,15 @@ all:
     url: http://packages.ideascube.org/omeka/geographie-afrique-de-l-est-fr.zip
     version: '2017-05-23'
   geographie-afrique-fr:
-    description: 'Focus sur l''Afrique: quels pays, quels villes, quels contexte,
+    description: 'Focus sur l''Afrique: quels pays, quels villes, quels contextes,
       quels enjeux ?'
     language: fr
     name: "G\xE9ographie (Afrique)"
-    sha256sum: e5c610a53c28f3b17c856f7e6e719a2994f8a6ad3a1477964989e6ce70130fcf
-    size: 1431771295
+    sha256sum: 5e408304a0551f9ee2b604c0b48f3e6bd1510c6ce28d7d92e4a0f188a85cfb80
+    size: 1429215707
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/geographie-afrique-fr.zip
-    version: '2018-09-20'
+    version: '2019-04-17'
   geography-rohingya-rhg:
     description: How do I find in the camp?
     language: rhg
@@ -3906,21 +3906,21 @@ all:
       package is for you!
     language: en
     name: Learn english!
-    sha256sum: e0371ff3cec40be689dfad1b50658c546e9e994227f1c692c1aeda386e54fcaa
+    sha256sum: a9d5c046bbe113d3db6116808cbe01c3d1fa015aa6083704d2a860ffd03864fa
     size: 429719699
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-adults-en.zip
-    version: '2019-04-15'
+    version: '2019-04-17'
   learn-english-teenagers-en:
     description: Learn basics in english language to communicate with others! For
       teens.
     language: en
     name: Learn English!
-    sha256sum: 1a64a301ff31f40cde2587354d6e9a3f9aa9058fe62364ed84a5a224ab1b415d
+    sha256sum: e91eff770f1ab9889aae34b755dcd4b8f4a9cb458608d106e442da1192d2a389
     size: 451264226
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-teenagers-en.zip
-    version: '2019-04-15'
+    version: '2019-04-17'
   learn-first-aid-techniques-en:
     description: Everyday accidents are responsible for several millions of deaths
       per year all over the world. Here are some simple techniques, that anyone can
