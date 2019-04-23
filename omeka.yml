@@ -3891,6 +3891,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-enfants-ado-fr.zip
     version: '2018-12-04'
+  langue-des-signes-fr:
+    description: Se familiariser avec la langue des signes
+    language: fr
+    name: Langue des signes
+    sha256sum: 0479d4a3aa3bd517650f253c90f085726cb6ede144db329ad3d1f314a277709e
+    size: 1737211083
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/langue-des-signes-fr.zip
+    version: '2019-04-23'
   le-tableau-electrique-sikana-fr:
     description: "Avec nos vid\xE9os \xE9ducatives du programme \xAB \xC9lectricit\xE9\
       \ pour tous \xBB, d\xE9couvrez les bases de l\u2019\xE9lectricit\xE9, quelles\
@@ -4459,11 +4468,11 @@ all:
       parer une candidature ou un entretien d'embauche."
     language: fr
     name: Montez votre projet professionnel
-    sha256sum: 43909227590af021699478e574a0d88e3728f16df90f7b3ad0dc37f2feb87519
-    size: 1056408136
+    sha256sum: fb4862e9c0ad05f453a75b08c653500cd38be8cd25c3fb89adafb966f5eb0a4e
+    size: 1100701342
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/montez-votre-projet-professionnel-fr.zip
-    version: '2018-03-27'
+    version: '2019-04-23'
   motherhood-and-parenting-ar:
     description: "Useful Motherhood and Parenting tips and information. Helping parents\
       \ dealing with their children and having a healthy relationship.// \u0646\u0635\
