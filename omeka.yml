@@ -596,11 +596,11 @@ all:
     description: "Pars \xE0 la d\xE9couverte du corps humain !"
     language: fr
     name: La biologie pour les adolescents
-    sha256sum: 66b97d08ae60dbe2ccd62db60bff96f636c5cd11c7edec61689764b20949fccf
-    size: 2727984165
+    sha256sum: 19f7e093c3d604dee72a17f6cda6cc758ea9316a8a15f2b9614f14c69dba2ee2
+    size: 3260329119
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/biologie-adolescents-fr.zip
-    version: '2018-08-28'
+    version: '2019-04-23'
   biologie-enfants-ados-fr:
     description: "Pars \xE0 la d\xE9couverte du corps humain !"
     language: fr
@@ -1779,11 +1779,11 @@ all:
       \ ? c'est l\xE0 !!"
     language: fr
     name: Do It Yourself !
-    sha256sum: 49f662e8fba73f0993bc11758dacc7949d8c44f3acbdefff2bc36338af98d59a
-    size: 2512751220
+    sha256sum: 278b6b9d8ed9980106443fbe207faf7434052d3f0276c1be472f4ea18620de07
+    size: 2563854008
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/diy-travaux-manuels-fr.zip
-    version: '2018-12-04'
+    version: '2019-04-23'
   documentaires-handicap-international-fr:
     description: "Conna\xEEtre les actions d'Handicap International"
     language: fr
@@ -1904,11 +1904,11 @@ all:
     description: '-'
     language: fr
     name: "Ecologie d\xE9veloppement durable"
-    sha256sum: c4652433af0ddb78b9d68517d285184db0c093ac567a3c67a974e3a6459111fc
-    size: 465772261
+    sha256sum: f9eaa4f963b9f88856637736d67a09170c2a4124cf63f2946714e8463e24760a
+    size: 477215116
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ecologie-developpement-durable-a-trier-fr.zip
-    version: '2018-12-17'
+    version: '2019-04-23'
   ecologie-developpement-durable-fr:
     description: A trier
     language: fr
@@ -3034,6 +3034,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-occidentale-fr.zip
     version: '2019-01-08'
+  histoires-illustrees-fr:
+    description: "Profiter des histoires et se d\xE9tendre"
+    language: fr
+    name: "Histoires illustr\xE9es"
+    sha256sum: 5ea353dbb8f4352ce67fb3a84929566cd78957822092ed54266d5c0a02d6488a
+    size: 27993427
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoires-illustrees-fr.zip
+    version: '2019-04-23'
   historia-america-latina-es:
     description: "Videos tutoriales sobre la historia del continente latinoamericano,\
       \ desde la conquista espa\xF1ola hasta las guerras de las independencias."
@@ -3118,11 +3127,11 @@ all:
       ne et \xE9viter les maladies !"
     language: fr
     name: "Hygi\xE8ne"
-    sha256sum: 8406b22a2169449944ba08a010ce2054923a8b36a555ad71ccce97a7889e0fcf
-    size: 95163408
+    sha256sum: c3d198c1372eadd006a409ee160f8f4ad535fbd71347f8fc4e80998fc5ca5a01
+    size: 332556148
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/hygiene-af-fr.zip
-    version: '2018-12-17'
+    version: '2019-04-23'
   hygiene-afrique-fr:
     description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
       ne et \xE9viter les maladies !"
@@ -3499,11 +3508,11 @@ all:
       \ de chercheurs sur des domaines vari\xE9s de la physique"
     language: fr
     name: Physique
-    sha256sum: 54a944bb38354aa0234b5403c134aab4f842b28751822c25c3f4a344381eb0b3
-    size: 1873362716
+    sha256sum: 43078eb640e7bfd3c0d86d0d2d92975523f64cdefa0bff6058855a2af805503b
+    size: 1882557811
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-a-la-physique-fr.zip
-    version: '2018-11-06'
+    version: '2019-04-23'
   introduction-au-do-it-youself-fr:
     description: "Le \"Do It Yourself\" est un mouvement qui pr\xF4ne la r\xE9paration\
       \ et la  fabrication d'objets par soi-m\xEAme, sans s'appuyer sur l'aide d'experts.\
@@ -3526,6 +3535,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-aux-droits-de-l-homme-fr.zip
     version: '2018-09-17'
+  introduction-aux-mathematiques-fr:
+    description: "D\xE9couvrir les bases des math\xE9matiques arithm\xE9tique et g\xE9\
+      om\xE9trie"
+    language: fr
+    name: "Introduction aux math\xE9matiques"
+    sha256sum: 1645b73067e279a23804ef1b2f400f16392fd596df69f5b0d85f3e373b76c368
+    size: 258138398
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/introduction-aux-mathematiques-fr.zip
+    version: '2019-04-23'
   introduction-aux-sciences-cognitives-et-aux-neurosciences-fr:
     description: "Comment fonctionne le cerveau ? Comment r\xE9gule-t-il nos \xE9\
       motions ? Qu'est-ce que l'autisme ? Les sciences cognitives ont pour objet l'\xE9\
@@ -4123,6 +4142,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-bases-de-l-informatique-fr.zip
     version: '2018-12-17'
+  les-enfants-apprennent-le-francais-fr:
+    description: "Quelques bases pour progresser en fran\xE7ais."
+    language: fr
+    name: "Les enfants apprennent le fran\xE7ais"
+    sha256sum: 9bb2da22ca6cab0c5b3d14456188d84de343800f9fd97acc74301ce47263e720
+    size: 1005701010
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/les-enfants-apprennent-le-francais-fr.zip
+    version: '2019-04-23'
   les-filles-et-les-garcons-quelles-differences-fr:
     description: "Filles footballeuses, soldats, pr\xE9sidentes: les filles peuvent\
       \ faire autant de choses que les gar\xE7ons !"
@@ -4314,6 +4342,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/manuels-enabel-fr.zip
     version: '2018-09-20'
+  manuels-scolaires-cameroun-fr:
+    description: "Des manuels scolaires du Cameroun pour apprendre la g\xE9ographie,\
+      \ l'histoire, la citoyennet\xE9, la sant\xE9, le fran\xE7ais et l'anglais"
+    language: fr
+    name: Manuels scolaires du Cameroun
+    sha256sum: f74f56876a78768546baa39a3b29ca188592189110b18040e73c1feb8e755ff1
+    size: 484446898
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/manuels-scolaires-cameroun-fr.zip
+    version: '2019-04-23'
   marketing-fr:
     description: Les bases du marketing.
     language: fr
@@ -4395,11 +4433,11 @@ all:
       \ \xE0 destination du grand public."
     language: fr
     name: "Microbiologie et pr\xE9vention sant\xE9"
-    sha256sum: a850e2c16098cc0cb853efee5ba24dfba63c42be49426d2b59ea341a55c73654
-    size: 132600112
+    sha256sum: 73f78d3831a8612efe248d57b960d01717965dee977a79a5d5e73fc968725a31
+    size: 843571539
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/microbiologie-et-prevention-sante-fr.zip
-    version: '2018-12-04'
+    version: '2019-04-23'
   monter-un-laboratoire-d-innovation-publique-fr:
     description: "L\u2019action publique se r\xE9invente. Pour sortir des m\xE9thodes\
       \ classiques et des conceptions \xAB top down \xBB, de nouvelles approches se\
@@ -4891,11 +4929,11 @@ all:
       . Vous trouverez ici les informations n\xE9cessaires."
     language: fr
     name: "Pr\xE9vention et sexualit\xE9"
-    sha256sum: 9858b0aeeec11ba4975dc447440b2d630c74805291b4eaddd630b2fe78c9657c
-    size: 176060784
+    sha256sum: 9ca119711ee4aad91bb97cbb37ef279353d5e9165b2f2b6474aafc24e86d5f07
+    size: 449463956
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/prevention-et-sexualite-fr.zip
-    version: '2018-01-18'
+    version: '2019-04-23'
   priorite-sante-rfi-fr:
     description: "\"\xC9mission RFI : \"Priorit\xE9 Sant\xE9\"\""
     language: fr
@@ -4940,11 +4978,11 @@ all:
       \ faire pour la prot\xE9ger, tous ensemble ?"
     language: fr
     name: "Prot\xE9geons la plan\xE8te !"
-    sha256sum: 5dd4e72553cf3edaa2a08387ebdecf0e70b414cfb045fc6b9f7e55687d55cf94
-    size: 1912960114
+    sha256sum: d65a7a3774f15a63743c96e15105fb84fd966a63262036839f9a59b222ea5e0b
+    size: 1948160770
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/protegeons-la-planete-enfants-ados-fr.zip
-    version: '2019-01-21'
+    version: '2019-04-23'
   protegeons-la-planete-fr:
     description: "Pourquoi c'est important de prot\xE9ger la plan\xE8te ? Que peut-on\
       \ faire pour la prot\xE9ger, tous ensemble ?"
@@ -5670,11 +5708,11 @@ all:
       \ de pr\xE9vention et de protection."
     language: fr
     name: "Se prot\xE9ger du VIH"
-    sha256sum: 2fb2f119c93526b739fba5b46f2595392fc9e0ca4829028fca95ed6d4b7ad92f
-    size: 74104637
+    sha256sum: d6aefc98c273fdefde46433050b8405a40ad01a51a3c455b1f9bd30a2fe65653
+    size: 229182616
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/vih-sida-fr.zip
-    version: '2018-12-04'
+    version: '2019-04-23'
   violences-faites-aux-femmes-fr:
     description: "Conna\xEEtre et combattre les violences sp\xE9cifiques aux femmes"
     language: fr
