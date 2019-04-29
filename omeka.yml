@@ -5510,11 +5510,11 @@ all:
       \ ? Pourquoi le sport, \xE7a rime avec respect et amiti\xE9 ?"
     language: fr
     name: Les bases du sport
-    sha256sum: 4806c3e67b33e8707827e423a747b50c88965465f4fa14f66b34135e29b2b3dc
-    size: 653456800
+    sha256sum: 3bb946e35ca8d7ae8ee22a1db617caa2269e1cbcf23345b0b3afafcf0d8817fb
+    size: 660381550
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sports-enfants-ados-fr.zip
-    version: '2018-08-27'
+    version: '2019-04-29'
   talented-thinker-club-ar:
     description: Short animation movies that carry a meaningful message.
     language: ar
