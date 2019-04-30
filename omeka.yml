@@ -5726,11 +5726,11 @@ all:
     description: "Conna\xEEtre et combattre les violences sp\xE9cifiques aux femmes"
     language: fr
     name: Violences faites aux femmes
-    sha256sum: db8f824f0b04e78be5f8a10178e8ec0671f848881ac3dab4b2bf5b61d7aaa689
-    size: 172663126
+    sha256sum: 8a914555e6555bd505eb835db1b8810bc8010a5b152bdffe8b605d6935dab05c
+    size: 197043976
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/violences-faites-aux-femmes-fr.zip
-    version: '2017-11-24'
+    version: '2019-04-30'
   vocabularies-en:
     description: Contents to help you to understand each other !
     language: en
