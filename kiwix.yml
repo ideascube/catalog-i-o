@@ -713,12 +713,12 @@ all:
     langid: "deus-ex-silicium.fr"
     description: "Deus Ex Silicium videos"
     name: "Deus Ex Silicium - Deus Ex Silicium videos"
-    version: "2015-03-16"
+    version: "2018-06-01"
     language: "fra"
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+deus-ex-silicium_fr_all_2015-03.zip"
-    size: 1115449154
-    sha256sum: "817c6659d52ce2db690a380c46cb803e6ce06ffd7051222ed89a7d9459e0dfcb"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/other/deus-ex-silicium_fr_all_2018-06.zim"
+    size: 1599396021
+    sha256sum: "869ad728aacd865fde66b115d23981f6659cf889124ea6180135acd4840accbe"
+    type: zim
   e-penser.fr:
     langid: "e-penser.fr"
     description: "Vidéos E-penser"
