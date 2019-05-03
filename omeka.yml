@@ -839,11 +839,11 @@ all:
     description: Transmission of knowledge
     language: bn
     name: Community harmony (bangla)
-    sha256sum: 8dad0b99e92310007b48208a7bcc4058220048d49daaf93cbdc47d492eea2b96
-    size: 160650009
+    sha256sum: 82852e582612959c8505639d06fda1ef0e55f6678ee66c5f15c9113640d81110
+    size: 209094911
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/community-harmony-bangla-bn.zip
-    version: '2018-12-19'
+    version: '2019-05-03'
   community-harmony-english-en:
     description: Know each other and take time to share funny moment together
     language: en
@@ -1857,6 +1857,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/diy-travaux-manuels-fr.zip
     version: '2019-04-23'
+  do-it-yourself-bangla-bn:
+    description: Express your creativity, you will find a lot of video to help yourself
+      to build  things
+    language: bn
+    name: Do it yourself (Bangla)
+    sha256sum: ea1b5ca819bb0521edbacbad22fb100b4f74f168c018906a7913706cb1365c7f
+    size: 1130036519
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/do-it-yourself-bangla-bn.zip
+    version: '2019-05-03'
   do-it-yourself-mulitlanguage-en:
     description: Express your creativity, you will find a lot of video to help yourself
       to build  things
@@ -2020,6 +2030,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ecologie-fr.zip
     version: '2019-04-01'
+  ecology-bangla-bn:
+    description: Discover nature, animal, landscape and how to protect them.
+    language: bn
+    name: Ecology (bangla)
+    sha256sum: ebd21852c343eae062a4239199dae66044066d66b097626c24165a3287a1a2bb
+    size: 65124912
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ecology-bangla-bn.zip
+    version: '2019-05-03'
   ecology-english-en:
     description: Discover nature, animal, landscape and how to protect them.
     language: en
@@ -2896,6 +2915,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fozi-mozi-diy-handcrafts-ar.zip
     version: '2018-05-25'
+  from-our-community-bangla-bn:
+    description: Increase our voices, listen the people who are around you and express
+      your opinion
+    language: bn
+    name: From our community (Bangla)
+    sha256sum: 72417b09e9afbf149e298cbe1c0709b4daafdaa7489e7295bdc96a629e71501a
+    size: 517457555
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/from-our-community-bangla-bn.zip
+    version: '2019-05-03'
   from-our-community-rohingya-rhg:
     description: Increase our voices, listen the people who are around you and express
       your opinion
@@ -3098,6 +3127,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-and-nutrition-ar.zip
     version: '2018-11-29'
+  health-promotion-bangla-bn:
+    description: how to take care of me and my family?
+    language: bn
+    name: health promotion (bangla)
+    sha256sum: b0fcf100e861e8b38bd350370aa1d13dc486392be7b36a0de7bbdb1535c52493
+    size: 66414140
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/health-promotion-bangla-bn.zip
+    version: '2019-05-03'
   health-promotion-multilanguage-en:
     description: How to take care of me and my family ?
     language: en
@@ -4398,11 +4436,11 @@ all:
     description: Strenghten your life skills
     language: bn
     name: Life saving (bangla)
-    sha256sum: 63418041968d3ab060c0088153dd1b18e2da1f12a7adff08b62606029bbbb5dd
-    size: 208709353
+    sha256sum: 174e0e2f11a164fd27a64e7227b32101de7f4acd4f85c03139f0c0e9e10a3211
+    size: 528169596
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/life-saving-bangla-bn.zip
-    version: '2018-12-19'
+    version: '2019-05-03'
   life-saving-multilanguage-en:
     description: Find supports that can help me deal with everydays problems
     language: en
@@ -4420,6 +4458,16 @@ all:
     size: 750981605
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/life-saving-rohingya-rhg.zip
+    version: '2019-05-03'
+  life-skills-bangla-bn:
+    description: What is your feeling today? Strengthen your self confidence and take
+      time to speak about your emotions
+    language: bn
+    name: Life skills(bangla)
+    sha256sum: d11f03abcf26d32c407ad84b54a9a1897d87ff9406a18172e4aecc43d8469c00
+    size: 34624620
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/life-skills-bangla-bn.zip
     version: '2019-05-03'
   life-skills-english-en:
     description: What is your feeling today? Strengthen your self confidence and take
@@ -4528,6 +4576,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/marketing-fr.zip
     version: '2018-11-19'
+  mathematic-bangla-bn:
+    description: Learn about mathematics, in this basic level you can enhance your
+      knowledges in the number and various matematical operations
+    language: bn
+    name: Mathematic (bangla)
+    sha256sum: 8fbaac69503504c9349fbe43e246108e2b6c0a1beb4ee83fc70bfade13e1fd54
+    size: 335836125
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mathematic-bangla-bn.zip
+    version: '2019-05-03'
   mathematics-ar:
     description: "Simple mathematics for kids.// \u0631\u064A\u0627\u0636\u064A\u0627\
       \u062A \u0644\u0644\u0627\u0637\u0641\u0627\u0644"
@@ -4790,6 +4848,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/nervous-system-ar.zip
     version: '2017-10-17'
+  news-documentary-bangla-bn:
+    description: What's happen around me and in the world? Find clear and updated
+      informations in order to help you to take good decision
+    language: bn
+    name: News/documentary (bangla)
+    sha256sum: f95590e80d6bdf837ec3c39e5ac0223ffb990f0748145d22f7d9907fb37044f7
+    size: 52540051
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/news-documentary-bangla-bn.zip
+    version: '2019-05-03'
   news-documentary-rohingya-rhg:
     description: What's happen?
     language: rhg
@@ -5139,6 +5207,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/programmation-et-bidouille-fr.zip
     version: '2018-12-04'
+  protection-bangla-bn:
+    description: Everyone has the right to be protected
+    language: bn
+    name: Protection (bangla)
+    sha256sum: a79a949678d0511285637d2a28f8b4f912efaf61c17d4c1df968e2bfaeff7e2b
+    size: 320975057
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/protection-bangla-bn.zip
+    version: '2019-05-03'
   protection-multilanguage-en:
     description: Everyone has the right to be protected
     language: en
