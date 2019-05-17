@@ -1085,7 +1085,7 @@ all:
     description: '-'
     language: es
     name: creatividad
-    sha256sum: c4da0cd876eb1df64857c873903b305bd53b493ef415b1900531e7b50ce4bd9c
+    sha256sum: 47fee803aedb53182d00d8f19853254881e1d46725ecb7ff09c230b24dd22018
     size: 2353020939
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creatividad-colsubsidio-es.zip
