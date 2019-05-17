@@ -6102,6 +6102,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/wash-rohingya-rhg.zip
     version: '2019-05-03'
+  what-are-some-easy-diets-i-can-use-en:
+    description: a package containing text pdfs describing easy diets to use and dieting
+      tips.
+    language: en
+    name: What are some easy diets I can use?
+    sha256sum: 2a0d931cd6e9f7e2d7c55fa1f04c779e6c5df07455bd328c79e5cccba639e94f
+    size: 1790445
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/what-are-some-easy-diets-i-can-use-en.zip
+    version: '2019-05-17'
   what-are-the-basics-of-diabetes-en:
     description: A package containing the basic information about diabetes
     language: en
