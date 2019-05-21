@@ -740,6 +740,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/child-protection-ar.zip
     version: '2018-10-22'
+  citizenship-democracy-and-peace-en:
+    description: Talking about democracy, power, constitution, voting
+    language: en
+    name: Citizenship, democracy and peace
+    sha256sum: d96d573b3c98e00fbbef836830654756b0d559a2d508b837909b9b322668f7b9
+    size: 1903702620
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/citizenship-democracy-and-peace-en.zip
+    version: '2019-05-21'
   citizenship-democraty-and-peace-en:
     description: Talking about democraty, power, constitution, voting
     language: en
