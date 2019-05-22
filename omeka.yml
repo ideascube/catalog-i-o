@@ -3119,7 +3119,7 @@ all:
       \ the application TEDed !"
     language: en
     name: Health and hygiene
-    sha256sum: 2fc0f5ad7b6de87b06889583cf00b34b92ed17320f6c919d279d780eaee62eff
+    sha256sum: 251a22b285fa1149a969da4df327d4911d759d95cdf3b02ff34cae73eca884df
     size: 1316573395
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-and-hygiene-en.zip
@@ -3811,11 +3811,11 @@ all:
       You will find very interesting resumes here !
     language: en
     name: Introduction to geography & environmental studies
-    sha256sum: f18ef1233ae57196a82ec55d09192ffb379be4ed93d5934b7d12185257da7853
-    size: 1382848222
+    sha256sum: 7c97472d47d7b1051cd3948331ca3277dec61ed544a2db7ee4ad3cd37bf310cb
+    size: 1047379604
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-geography-environmental-studies-en.zip
-    version: '2018-09-07'
+    version: '2019-05-22'
   introduction-to-healthcare-en:
     description: This package contains basic information on healthcare. It provides
       tips and scientific information about common diseases and ways to prevent them.
@@ -3832,11 +3832,11 @@ all:
       they are respected with this package.
     language: en
     name: Introduction to Human Rights
-    sha256sum: bd52af9b5d6d6368b03c734f7fa435baf3087bc0ae3eb25fbcf11736032b32af
-    size: 1323755650
+    sha256sum: 65517bf94c676750bd5df74cf7508e5159397ddb6072a5880f56dc0982ad9b18
+    size: 1319893000
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-human-rights-en.zip
-    version: '2018-12-17'
+    version: '2019-05-22'
   introduction-to-human-rights-for-children-en:
     description: What are human rights? They are the rights to which all human beings
       are entitled to. In these videos, you will learn what they mean and how they
@@ -4111,11 +4111,11 @@ all:
       package is for you!
     language: en
     name: Learn english!
-    sha256sum: a9d5c046bbe113d3db6116808cbe01c3d1fa015aa6083704d2a860ffd03864fa
-    size: 429719699
+    sha256sum: e8f3348f12fe2a5ad5aa20bcf3fa909bf16ea2081468cdc417a87fb254edc0ba
+    size: 416059040
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-adults-en.zip
-    version: '2019-04-17'
+    version: '2019-05-22'
   learn-english-children-bn:
     description: Improve your english through different supports
     language: bn
