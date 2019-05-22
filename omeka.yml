@@ -3114,16 +3114,16 @@ all:
     url: http://packages.ideascube.org/omeka/health-and-diseases-ar.zip
     version: '2018-11-29'
   health-and-hygiene-en:
-    description: Learn how to have a safe behavior and prevent contagious situations
-      !   To complete this package, you will find a lot of other videos in the application
-      TEDed !
+    description: "Learn how to have a safe behavior and prevent contagious situations\
+      \ ! \r\n\r\nTo complete this package, you will find a lot of other videos in\
+      \ the application TEDed !"
     language: en
     name: Health and hygiene
-    sha256sum: 35398c8215143b16274e8b32562bc34d9c6875cd886febfe7906019485499061
-    size: 285329688
+    sha256sum: 2fc0f5ad7b6de87b06889583cf00b34b92ed17320f6c919d279d780eaee62eff
+    size: 1316573395
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-and-hygiene-en.zip
-    version: '2017-10-19'
+    version: '2019-05-22'
   health-and-nutrition-ar:
     description: "Keep a healthy diet for a healthier life.// \u0627\u0628\u0642\u064A\
       \ \u063A\u0630\u0627\u0626\u0643 \u0635\u062D\u064A \u0644\u062D\u064A\u0627\
@@ -5655,25 +5655,23 @@ all:
   silent-animated-movies-en:
     description: Discover beautiful short films that tell stories without words!
     language: en
-    name: "Silent Animated Movies [\u0623\u0641\u0644\u0627\u0645 \u0627\u0646\u064A\
-      \u0645\u064A\u0634\u0646 \u0635\u0627\u0645\u062A\u0629]"
-    sha256sum: b58b7d74184db199c63d066056e1d0296b856549c99efc22be1200554acfaf39
-    size: 200480303
+    name: Silent Animated Movies
+    sha256sum: 79886ec518aa8e92bec056d73ee16882d08a163cbb10375734e9ac889d54a725
+    size: 200144204
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/silent-animated-movies-en.zip
-    version: '2018-12-10'
+    version: '2019-05-22'
   silent-movies-en:
     description: An image is worth a thousand words. These movies will prove the truth
       of this proverb. From Metropolis to the iconic Charlie Chaplin movies, rediscover
       the power of acting without words.
     language: en
-    name: "Silent movies [\u0623\u0641\u0644\u0627\u0645 \u0635\u0627\u0645\u062A\u0629\
-      ]"
-    sha256sum: c838eb98e98b76d191c8462d0a6ac7318f807fa21c2a4c87a6c2a4d88c176026
-    size: 8629262626
+    name: Silent movies
+    sha256sum: 10d12246e667f99356d2fa5068449d6cf8d5e893c4e23cb5ed4c904edbf2fbb3
+    size: 8629244502
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/silent-movies-en.zip
-    version: '2018-11-29'
+    version: '2019-05-22'
   simple-musical-instruments-ar:
     description: "How to play these simple musical instruments and some song ideas.\
       \ // \u0637\u0631\u0642 \u0627\u0644\u0639\u0632\u0641 \u0639\u0644\u0649 \u0628\
