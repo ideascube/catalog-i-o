@@ -3512,11 +3512,11 @@ all:
       \ del internet"
     language: es
     name: "Afabetizaci\xF3n inform\xE1tica y  redes sociales"
-    sha256sum: 6afce7b1259c8a76a5a31d4a25842ec53feb609f29c1d94cdea0abadd2ddda2b
+    sha256sum: 184d4544efb8ef6dfc375c305bf25e977f848cf101f884d12b8709b26437e7ca
     size: 563728153
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/informacion-y-sensibilizacion-informatica-es.zip
-    version: '2019-04-02'
+    version: '2019-05-23'
   informacion-y-sensibilizacion-interculturalidad-es:
     description: "Lecturas sobre c\xF3mo vivir juntos cuales sean nuestros or\xED\
       genes"
