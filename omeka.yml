@@ -1469,12 +1469,12 @@ all:
     description: Ballets tell stories with music and movement. Discover iconic ballet
       dances!
     language: en
-    name: Cultural blender (Europe)
-    sha256sum: c38c456a3205dce380ce157095211ac3a7d1f59906f44a7d12ca9d52e1a297b8
-    size: 417331988
+    name: Cultural blender
+    sha256sum: b886cc46b8e9981d545096b345321a3300b40750fb89d42fbb2a595491129cb5
+    size: 416565683
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultural-blender-europe-en.zip
-    version: '2019-01-08'
+    version: '2019-06-04'
   cultural-blender-middle-east-ar:
     description: "How are the neighbourings cultures\"\r\nWest\"Discover cultures\
       \ on the other side of the world"
@@ -1506,12 +1506,12 @@ all:
   cultural-blender-west-en:
     description: Discover cultures on the other side of the world
     language: en
-    name: Cultural blender (west)
-    sha256sum: b5ff771c5f21a68414e4a451fae631591a4400682aafa942e96eb1ef4ef61b25
+    name: Cultural blender
+    sha256sum: 3583e0dafef78bbae763ec1220ba0f1c500cf4e40c5af386b07d0accf0aaeaaa
     size: 564060047
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultural-blender-west-en.zip
-    version: '2019-05-03'
+    version: '2019-06-04'
   cultural-expresion-middle-east-ar:
     description: Growing our culture, collection of stories, music and other things
     language: ar
@@ -3119,11 +3119,11 @@ all:
       \ the application TEDed !"
     language: en
     name: Health and hygiene
-    sha256sum: 251a22b285fa1149a969da4df327d4911d759d95cdf3b02ff34cae73eca884df
+    sha256sum: 1fc062a1c1977a836775a2ea34d27ffe576e1933f4ec6cbd6cf2f060bdd32fe2
     size: 1316573395
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-and-hygiene-en.zip
-    version: '2019-05-22'
+    version: '2019-06-04'
   health-and-nutrition-ar:
     description: "Keep a healthy diet for a healthier life.// \u0627\u0628\u0642\u064A\
       \ \u063A\u0630\u0627\u0626\u0643 \u0635\u062D\u064A \u0644\u062D\u064A\u0627\
@@ -4111,11 +4111,11 @@ all:
       package is for you!
     language: en
     name: Learn english!
-    sha256sum: e8f3348f12fe2a5ad5aa20bcf3fa909bf16ea2081468cdc417a87fb254edc0ba
+    sha256sum: fa0a347b4c4442d35ef011bebf37c35815cc1131eaa5b3ba64244139b0f8384c
     size: 416059040
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-adults-en.zip
-    version: '2019-05-22'
+    version: '2019-06-04'
   learn-english-children-bn:
     description: Improve your english through different supports
     language: bn
