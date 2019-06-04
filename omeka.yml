@@ -5176,6 +5176,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/preparing-for-major-disasters-and-natural-catastrophes-en.zip
     version: '2018-06-21'
+  presentation-des-actions-de-bibliotheques-sans-frontieres-fr:
+    description: "Pour en savoir davantage sur Biblioth\xE8ques Sans Fronti\xE8res"
+    language: fr
+    name: "Pr\xE9sentation des actions de Biblioth\xE8ques Sans Fronti\xE8res"
+    sha256sum: f56c30d698b85154d5ce80ab10fbc12da97328dd232a184316f2e4a52481112c
+    size: 2699147737
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/presentation-des-actions-de-bibliotheques-sans-frontieres-fr.zip
+    version: '2019-06-04'
   prevention-addictions-fr:
     description: Mieux comprendre les effets de l'alcool sur nos comportements, et
       leurs origines.
