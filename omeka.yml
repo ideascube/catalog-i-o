@@ -775,11 +775,11 @@ all:
       \ ?"
     language: fr
     name: "Qu'est-ce qu'\xEAtre \"citoyen\" ?"
-    sha256sum: 337dd6c742efa1fdd6dd6b8fb01f95681cb71fa34384e1811fe0f7d02f5ee63b
-    size: 104687200
+    sha256sum: 01a4ff2cc11d27b2d0e3395688d80f8f254b8f097e769ba7001671034fc92153
+    size: 103987094
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/citoyennete-et-politique-fr.zip
-    version: '2017-02-21'
+    version: '2019-06-05'
   classical-music:
     description: "The best selection of classical music/ \u062A\u0645\u062A\u0639\
       \ \u0628\u0623\u062C\u0645\u0644 \u0627\u0644\u0645\u0642\u0637\u0648\u0639\u0627\
