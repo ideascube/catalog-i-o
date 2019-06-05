@@ -334,11 +334,11 @@ all:
       \ ainsi qu'\xE0 certains langages."
     language: fr
     name: Apprenez le code informatique
-    sha256sum: bbdf88b5d7bca77720b27ab43c78688f9945123f3709fd5a22e93b025e30c45b
-    size: 4954690073
+    sha256sum: 4ee03ce074fdbf08f3e1c8d804c11f83c73767505db838d131e9a5f53e6c2f1a
+    size: 4953169843
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-code-informatique-fr.zip
-    version: '2017-09-20'
+    version: '2019-06-05'
   apprenez-le-francais-alphabetisation-fr:
     description: .
     language: fr
@@ -1016,16 +1016,16 @@ all:
     url: http://packages.ideascube.org/omeka/couture-enabel-fr.zip
     version: '2018-09-20'
   creation-audio-fr:
-    description: "\"Vous voulez monter une radio ? Apprendre \xE0 monter de petits\
-      \ reportages sonores ? L'audio est un excellent moyen pour raconter des histoires\
-      \ ou faire passer des messages.\""
+    description: "Vous voulez monter une radio ? Apprendre \xE0 monter de petits reportages\
+      \ sonores ? L'audio est un excellent moyen pour raconter des histoires ou faire\
+      \ passer des messages."
     language: fr
-    name: "\"Cr\xE9ation audio\""
-    sha256sum: c4315192edcdd8c90d1a13cad1eef118f87464ce5d316391eb7b168db1d2d782
-    size: 31851899
+    name: "Cr\xE9ation audio"
+    sha256sum: 46d08097e75de95f5d83d107c1ca57cfcc7c776f2b9e29f6029c68d51b9684a9
+    size: 31905031
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creation-audio-fr.zip
-    version: '2017-02-28'
+    version: '2019-06-05'
   creation-d-association-fr:
     description: "Quelques \xE9lements-cl\xE9s pour comprendre et cr\xE9er une association,\
       \ en France ou au Burundi !"
@@ -1581,11 +1581,11 @@ all:
       \ sujets d'actualit\xE9 comme la r\xE9alit\xE9 virtuelle et augment\xE9e..."
     language: fr
     name: "Culture num\xE9rique"
-    sha256sum: 9c75dba3d5c680b2388ed708fe4fbe8b59be55e5e0f6c6a297c19c1015d7bec5
-    size: 3433054261
+    sha256sum: c0381ff9ff59fe1c673e7cf6d2409a4100ae616f227b806f52c8b338d232001b
+    size: 3431044127
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/culture-numerique-fr.zip
-    version: '2017-12-04'
+    version: '2019-06-05'
   danse-des-mots-rfi-fr:
     description: "\"\xC9mission RFI : \"Danse des mots\"\""
     language: fr
@@ -3584,21 +3584,21 @@ all:
       \ vous dans vos premi\xE8res cr\xE9ations vid\xE9os !"
     language: fr
     name: "Initiez-vous \xE0 la cr\xE9ation vid\xE9o"
-    sha256sum: 2999d1c0e87befe1fb8f6ddd3c6a6e90797ed03631ddb656f6258ab9e0647f54
-    size: 943420335
+    sha256sum: 828a045fd8da2c728326269db3e262d921c7462222fcc6c4a034a545b72e07a6
+    size: 943565543
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-creation-video-fr.zip
-    version: '2017-09-14'
+    version: '2019-06-05'
   initiez-vous-a-la-photographie-fr:
     description: Vous souhaitez vous lancer, faire quelques photographies, mais vous
       avez besoin d'aide ? C'est ici !
     language: fr
     name: "Initiez-vous \xE0 la photographie"
-    sha256sum: ef263c1ac401d838a9ed3a36e9ad5d667b84c925fb2b63b38e49d6bdcf0dca97
-    size: 515260822
+    sha256sum: 86f8d99ed1c3bd89999825052e21ff5e370a3d4a3f20348aacdd4fd5a5978692
+    size: 516131016
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-photographie-fr.zip
-    version: '2017-09-20'
+    version: '2019-06-05'
   innovation-en-afrique-fr:
     description: "Vous trouverez ici du contenu sur des m\xE9thodes innovantes et\
       \ des pr\xE9sentations d'innovations sp\xE9cifiques au contexte \xE9conomique\
@@ -4914,11 +4914,11 @@ all:
       ce \xE0 l'utilisation d'outils."
     language: fr
     name: "Num\xE9rique et bidouille informatique"
-    sha256sum: 1d0ef81abe57421f18b70eac42d0f2bbbf920188308bf6895e84746b2c837405
-    size: 2349906833
+    sha256sum: 466a2011697d6fada8e640fa6968db20d5a6ee49f41ed6cb95ef2a8649109fc7
+    size: 2348561877
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/numerique-et-bidouille-informatique-fr.zip
-    version: '2017-11-16'
+    version: '2019-06-05'
   nutrition-enfants-fr:
     description: "Bien manger, qu'est-ce que \xE7a veut dire ? Apprends \xE0 composer\
       \ des repas sains et nutritifs !"
@@ -5180,11 +5180,11 @@ all:
     description: "Pour en savoir davantage sur Biblioth\xE8ques Sans Fronti\xE8res"
     language: fr
     name: "Pr\xE9sentation des actions de Biblioth\xE8ques Sans Fronti\xE8res"
-    sha256sum: 09ce52a8d7ed93eb6c972187ddf324a02f314898b480186756780d900458faa3
+    sha256sum: 138cdc9b9c507bfded250a3ca6addd9ccf97a6305ea6ead8554642c289bd33ac
     size: 2699147737
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/presentation-des-actions-de-bibliotheques-sans-frontieres-fr.zip
-    version: '2017-06-05'
+    version: '2019-06-05'
   prevention-addictions-fr:
     description: Mieux comprendre les effets de l'alcool sur nos comportements, et
       leurs origines.
