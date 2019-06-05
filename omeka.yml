@@ -338,7 +338,7 @@ all:
     size: 4954690073
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-code-informatique-fr.zip
-    version: '2018-09-20'
+    version: '2017-09-20'
   apprenez-le-francais-alphabetisation-fr:
     description: .
     language: fr
@@ -1025,7 +1025,7 @@ all:
     size: 31851899
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creation-audio-fr.zip
-    version: '2018-02-28'
+    version: '2017-02-28'
   creation-d-association-fr:
     description: "Quelques \xE9lements-cl\xE9s pour comprendre et cr\xE9er une association,\
       \ en France ou au Burundi !"
@@ -1585,7 +1585,7 @@ all:
     size: 3433054261
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/culture-numerique-fr.zip
-    version: '2018-12-04'
+    version: '2017-12-04'
   danse-des-mots-rfi-fr:
     description: "\"\xC9mission RFI : \"Danse des mots\"\""
     language: fr
@@ -3588,7 +3588,7 @@ all:
     size: 943420335
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-creation-video-fr.zip
-    version: '2018-09-14'
+    version: '2017-09-14'
   initiez-vous-a-la-photographie-fr:
     description: Vous souhaitez vous lancer, faire quelques photographies, mais vous
       avez besoin d'aide ? C'est ici !
@@ -3598,7 +3598,7 @@ all:
     size: 515260822
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-photographie-fr.zip
-    version: '2018-09-20'
+    version: '2017-09-20'
   innovation-en-afrique-fr:
     description: "Vous trouverez ici du contenu sur des m\xE9thodes innovantes et\
       \ des pr\xE9sentations d'innovations sp\xE9cifiques au contexte \xE9conomique\
@@ -4918,7 +4918,7 @@ all:
     size: 2349906833
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/numerique-et-bidouille-informatique-fr.zip
-    version: '2018-11-16'
+    version: '2017-11-16'
   nutrition-enfants-fr:
     description: "Bien manger, qu'est-ce que \xE7a veut dire ? Apprends \xE0 composer\
       \ des repas sains et nutritifs !"
@@ -5184,7 +5184,7 @@ all:
     size: 2699147737
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/presentation-des-actions-de-bibliotheques-sans-frontieres-fr.zip
-    version: '2019-06-05'
+    version: '2017-06-05'
   prevention-addictions-fr:
     description: Mieux comprendre les effets de l'alcool sur nos comportements, et
       leurs origines.
