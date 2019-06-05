@@ -5180,11 +5180,11 @@ all:
     description: "Pour en savoir davantage sur Biblioth\xE8ques Sans Fronti\xE8res"
     language: fr
     name: "Pr\xE9sentation des actions de Biblioth\xE8ques Sans Fronti\xE8res"
-    sha256sum: f56c30d698b85154d5ce80ab10fbc12da97328dd232a184316f2e4a52481112c
+    sha256sum: 09ce52a8d7ed93eb6c972187ddf324a02f314898b480186756780d900458faa3
     size: 2699147737
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/presentation-des-actions-de-bibliotheques-sans-frontieres-fr.zip
-    version: '2019-06-04'
+    version: '2019-06-05'
   prevention-addictions-fr:
     description: Mieux comprendre les effets de l'alcool sur nos comportements, et
       leurs origines.
