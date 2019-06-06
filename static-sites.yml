@@ -216,3 +216,12 @@ all:
     size: 15162761285
     sha256sum: 504bee3b3494b8e336c26e403d82b16f92298a53eb75996b319dc07df17e3ef1
     type: static-site
+  museesaintmartin.e-monsite.com:
+    name: "Musée Saint Martin"
+    description: "Musée de Saint Martin Antilles"
+    version: "2019-05-06"
+    language: fr
+    url: http://packages.ideascube.org/static-sites/museesaintmartin.zip
+    size: 13522987
+    sha256sum: 8d759eb0bcb7d0fce7a1a138dc136438f3dfa2cf009bb7f67dbe945ba7bea944
+    type: static-site
