@@ -231,6 +231,6 @@ all:
     version: "2019-06-12"
     language: fr
     url: http://packages.ideascube.org/static-sites/lemuz.org.zip
-    size: 1387981480
-    sha256sum: f6565a5bde9a3a5cb642f69360a58c75047a0c52084a96887da0256bfc613a0c
+    size: 1387980848
+    sha256sum: 4e44e9fa410560f4341ec2cbf3b836061271b987a813aa90fd37eb749831396a
     type: static-site
