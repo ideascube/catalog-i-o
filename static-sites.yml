@@ -225,3 +225,12 @@ all:
     size: 13522987
     sha256sum: 8d759eb0bcb7d0fce7a1a138dc136438f3dfa2cf009bb7f67dbe945ba7bea944
     type: static-site
+  lemuz.org:
+    name: "Le Muz"
+    description: "Musée des oeuvres des enfants"
+    version: "2019-06-12"
+    language: fr
+    url: http://packages.ideascube.org/static-sites/lemuz.org.zip
+    size: 1387981480
+    sha256sum: f6565a5bde9a3a5cb642f69360a58c75047a0c52084a96887da0256bfc613a0c
+    type: static-site
