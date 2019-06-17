@@ -1,45 +1,46 @@
-museesaintmartin.e-monsite.com:
-  name: "Musée Saint Martin"
-  description: "Musée de Saint Martin Antilles"
-  version: "2019-05-06"
-  language: fr
-  url: http://packages.ideascube.org/static-sites/museesaintmartin.zip
-  size: 100347101
-  sha256sum: 7560818d378f32953bfc470b7b82e9ea1310c76cd3719a5fbccc755212a41b42
-  type: static-site
-lemuz.org:
-  name: "Le Muz"
-  description: "Musée des oeuvres des enfants"
-  version: "2019-06-12"
-  language: fr
-  url: http://packages.ideascube.org/static-sites/lemuz.zip
-  size: 1387980848
-  sha256sum: 8a6785439ef65ce4cfb410c48baad448b7cb3d307f5d5a30f1888fb34c24e53b
-  type: static-site
-openculture.com:
-  name: "Open Culture"
-  description: "The best free cultural & educational media on the web | Open Culture"
-  version: "2019-06-12"
-  language: fr
-  url: http://packages.ideascube.org/static-sites/openculture.zip
-  size: 1196627709
-  sha256sum: c079affe329d5b7f4a889102eb374ac813811632db0052aaf6263280bfc5c872
-  type: static-site
-christophehenocq.wixsite.com:
-  name: "Culture Saint Martin"
-  description: "Ressource culture de Saint Martin"
-  version: "2019-06-17"
-  language: fr
-  url: http://packages.ideascube.org/static-sites/culturesaintmartin.zip
-  size: 705811951
-  sha256sum: 5d507107c2204bfab89f9a30c1ab6d2cfbdd3346c884c7513f52336dd0befd98
-  type: static-site
-quelle-demarche.com:
-  name: "Quelle démarche"
-  description: "Toutes les démarches expliqués en détails pour ce qui touche au domaine civil comme les naissances, la CNI, etc."
-  version: "2019-06-17"
-  language: fr
-  url: http://packages.ideascube.org/static-sites/quelle-demarche-civil.zip
-  size: 2797708980
-  sha256sum: 991142c8006ea1c02eec13dd5dfb535270d354269439136baa10c7aa510a9434
-  type: static-site
+all:
+  museesaintmartin.e-monsite.com:
+    name: "Musée Saint Martin"
+    description: "Musée de Saint Martin Antilles"
+    version: "2019-05-06"
+    language: fr
+    url: http://packages.ideascube.org/static-sites/museesaintmartin.zip
+    size: 100347101
+    sha256sum: 7560818d378f32953bfc470b7b82e9ea1310c76cd3719a5fbccc755212a41b42
+    type: static-site
+  lemuz.org:
+    name: "Le Muz"
+    description: "Musée des oeuvres des enfants"
+    version: "2019-06-12"
+    language: fr
+    url: http://packages.ideascube.org/static-sites/lemuz.zip
+    size: 1387980848
+    sha256sum: 8a6785439ef65ce4cfb410c48baad448b7cb3d307f5d5a30f1888fb34c24e53b
+    type: static-site
+  openculture.com:
+    name: "Open Culture"
+    description: "The best free cultural & educational media on the web | Open Culture"
+    version: "2019-06-12"
+    language: fr
+    url: http://packages.ideascube.org/static-sites/openculture.zip
+    size: 1196627709
+    sha256sum: c079affe329d5b7f4a889102eb374ac813811632db0052aaf6263280bfc5c872
+    type: static-site
+  christophehenocq.wixsite.com:
+    name: "Culture Saint Martin"
+    description: "Ressource culture de Saint Martin"
+    version: "2019-06-17"
+    language: fr
+    url: http://packages.ideascube.org/static-sites/culturesaintmartin.zip
+    size: 705811951
+    sha256sum: 5d507107c2204bfab89f9a30c1ab6d2cfbdd3346c884c7513f52336dd0befd98
+    type: static-site
+  quelle-demarche.com:
+    name: "Quelle démarche"
+    description: "Toutes les démarches expliqués en détails pour ce qui touche au domaine civil comme les naissances, la CNI, etc."
+    version: "2019-06-17"
+    language: fr
+    url: http://packages.ideascube.org/static-sites/quelle-demarche-civil.zip
+    size: 2797708980
+    sha256sum: 991142c8006ea1c02eec13dd5dfb535270d354269439136baa10c7aa510a9434
+    type: static-site
