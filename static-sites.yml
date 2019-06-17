@@ -118,7 +118,7 @@ all:
     url: http://packages.ideascube.org/static-sites/choisirsacontraception.fr.zip
     version: "2017-12-22"
   ivg.net:
-    description: Toutes les infos sur l'IVG dont vous avez besoin = médicales, psychologiques, juridiques ou sociales. 
+    description: Toutes les infos sur l'IVG dont vous avez besoin = médicales, psychologiques, juridiques ou sociales.
     language: fr
     name: ivg.net
     sha256sum: b6fd884fd82c8f7fa4da93415000b06ca472b11d46da62b6695cc47b06540325
@@ -216,30 +216,4 @@ all:
     size: 15162761285
     sha256sum: 504bee3b3494b8e336c26e403d82b16f92298a53eb75996b319dc07df17e3ef1
     type: static-site
-  museesaintmartin.e-monsite.com:
-    name: "Musée Saint Martin"
-    description: "Musée de Saint Martin Antilles"
-    version: "2019-05-06"
-    language: fr
-    url: http://packages.ideascube.org/static-sites/museesaintmartin.zip
-    size: 13522987
-    sha256sum: 8d759eb0bcb7d0fce7a1a138dc136438f3dfa2cf009bb7f67dbe945ba7bea944
-    type: static-site
-  lemuz.org:
-    name: "Le Muz"
-    description: "Musée des oeuvres des enfants"
-    version: "2019-06-12"
-    language: fr
-    url: http://packages.ideascube.org/static-sites/lemuz.org.zip
-    size: 1387980848
-    sha256sum: 4e44e9fa410560f4341ec2cbf3b836061271b987a813aa90fd37eb749831396a
-    type: static-site
-  openculture.com:
-    name: "Open Culture"
-    description: "The best free cultural & educational media on the web | Open Culture"
-    version: "2019-06-12"
-    language: fr
-    url: http://packages.ideascube.org/static-sites/openculture.zip
-    size: 2858842146
-    sha256sum: e6ddf10c7dfd20dae5d72ac4a301719a36c6a2dfba7aee9ee71880c618be5889
-    type: static-site
+  
