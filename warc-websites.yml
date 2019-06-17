@@ -53,3 +53,12 @@ all:
     size: 10945446199
     sha256sum: 8fbf49858ebb56d5ca454102a2121df032825591468014bd04040a3cef515008
     type: static-site
+  cite-sciences.fr:
+    name: "Cité des sciences"
+    description: "La cité des sciences et de l'industrie est un établissement public de diffusion  de la culture scientifique, technique et industrielle située à Paris"
+    version: "2019-06-17"
+    language: fr
+    url: http://packages.ideascube.org/static-sites/cite-sciences-2.zip
+    size: 1186394186
+    sha256sum: 9a9294fb6a803efbd0d0598cafafc616982987206a25b37522ef299847b8c24c
+    type: static-site
