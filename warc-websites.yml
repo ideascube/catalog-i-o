@@ -26,7 +26,7 @@ all:
     size: 1196627709
     sha256sum: c079affe329d5b7f4a889102eb374ac813811632db0052aaf6263280bfc5c872
     type: static-site
-  christophehenocq.wixsite.com:
+  christophehenocq.wixsite.com/culturesaintmartin:
     name: "Culture Saint Martin"
     description: "Ressource culture de Saint Martin"
     version: "2019-06-17"
