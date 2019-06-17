@@ -44,3 +44,12 @@ all:
     size: 2797708980
     sha256sum: 991142c8006ea1c02eec13dd5dfb535270d354269439136baa10c7aa510a9434
     type: static-site
+  lesfruitsdemer.com:
+    name: "Les fruits de mer"
+    description: "Association Les Fruits de Mer"
+    version: "2019-06-17"
+    language: fr
+    url: http://packages.ideascube.org/static-sites/lesfruitsdemer.zip
+    size: 10945446199
+    sha256sum: 8fbf49858ebb56d5ca454102a2121df032825591468014bd04040a3cef515008
+    type: static-site
