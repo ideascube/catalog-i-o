@@ -1599,7 +1599,7 @@ all:
     description: Various videos about the island of Saint Martin
     language: en
     name: Fruits de mer documentaries
-    sha256sum: 82f25a98feffc0de31f0a4d5d553452cf4876120ad997762ffddc720db26065f
+    sha256sum: 3a3d15c19fd36aa5085341c6dc030dd93429d8252669a5672f012d754f1d2553
     size: 2456373048
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultures-fruits-de-mer-documentaries-en.zip
@@ -1609,7 +1609,7 @@ all:
       of the carribean islands
     language: en
     name: Fruits de mer Nature discovery
-    sha256sum: 117995981fda4f2cb4dc0556c1cd82fe40e5accd58669dd31e0e8087a7f0af4a
+    sha256sum: a5cefa22e2ec3b450f39c04414a3e813f61acdef10e7d9d14ca2065287dfbcbf
     size: 96457452
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultures-fruits-de-mer-nature-en.zip
@@ -1619,7 +1619,7 @@ all:
       Saint-Martion, par Mark Yokohama
     language: fr
     name: Cultures Saint-Martin Reportages photos
-    sha256sum: bab7f6f90dbaaaa48e521fb0de94f1758c90840ccfad9d42cc17a7cb974d6255
+    sha256sum: f6ff788327ff88cf51f8259596fb39217726190fdad8ec53e67a49057064af65
     size: 26397107
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultures-saint-martin-photos-fr.zip
