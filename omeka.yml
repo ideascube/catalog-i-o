@@ -1205,6 +1205,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creativity-bangla-bn.zip
     version: '2018-12-19'
+  creativity-fruits-de-mer-art-creation-activities-en:
+    description: Express your creativity with coloring art creation
+    language: en
+    name: Fruits de mer Art creation acitivities
+    sha256sum: 40bc3e39f83a6e13f1342df1947e1d30c10d81bd177fe8ef3ece64514629259e
+    size: 7300248
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/creativity-fruits-de-mer-art-creation-activities-en.zip
+    version: '2019-06-19'
   creativity-multi-languages-en:
     description: Express your creativity
     language: en
