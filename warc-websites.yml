@@ -53,3 +53,12 @@ all:
     size: 10945446199
     sha256sum: 8fbf49858ebb56d5ca454102a2121df032825591468014bd04040a3cef515008
     type: static-site
+  service-public.fr:
+    name: "Le site du Service Public"
+    description: "Connaître vos droits, effectuer vos démarches"
+    version: "2019-06-20"
+    language: fr
+    url: http://packages.ideascube.org/static-sites/service-public.zip
+    size: 3001876207
+    sha256sum: d4d6166eb89db7fcfbd64998b547f07d2e84c82d36bf84e5131c2b78150d8a9e
+    type: static-site
