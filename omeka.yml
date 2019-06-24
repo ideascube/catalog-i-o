@@ -1093,12 +1093,12 @@ all:
   creatividad-colsubsidio-es:
     description: '-'
     language: es
-    name: creatividad
-    sha256sum: c4da0cd876eb1df64857c873903b305bd53b493ef415b1900531e7b50ce4bd9c
+    name: Creatividad.
+    sha256sum: 1f44f0779a62139181518a345f2ea49c8cb1a08fb79bcb422b1e8921553b4965
     size: 2353020939
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creatividad-colsubsidio-es.zip
-    version: '2019-05-17'
+    version: '2019-06-24'
   creatividad-creacion-de-videos-es:
     description: "Varios tutoriales para aprender o profundizar creaciones de videos,\
       \ adquiriendo las t\xE9cnicas indispensables en audiovisuales;"
