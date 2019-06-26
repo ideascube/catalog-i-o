@@ -3,9 +3,9 @@
 This catalog contains the metadata for the websites dump we used to ship with
 our ideasboxes.
 
-
 Example:
 
+```yaml
       twentyfourhoursinanewsroom:
         name: 24h in a news room
         description: The foundations of journalism in four collections
@@ -15,8 +15,9 @@ Example:
         size: 16072507
         sha256sum: 63fb63c86b89bc0f10d2ada6e0049853661bb95cbd8455400cbb245a2df1a864
         type: static-site
+```
 
-### `twentyfourhoursinanewsroom`
+## `twentyfourhoursinanewsroom`
 
 A key we made up.
 
@@ -26,15 +27,15 @@ an example of this gotcha.
 
 Must not start by a number, only lower-case.
 
-### `name`
+## `name`
 
 A name we made up from the website name. Clever, huh?
 
-### `description`
+## `description`
 
 A description we made up from what we could. The website slogan, the first
 sentence of the related Wikipedia entry, whatever.
 
-### `version`
+## `version`
 
 Following the `date` field from kiwix, it is the date the website was dumped.
