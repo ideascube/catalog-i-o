@@ -13,6 +13,9 @@ Turns out we save some time by editing the catalog manually ; it is not
 error-proof, but still faster than fighting with exceptions within the shell
 scripts. Seee the [Gotchas](#gotchas) section below.
 
+At some point, Kiwix stopped publishing zipped-zim files and turned to plain
+ZIM files (which now include the file index). As a result, the `library.xml`
+doesn't exist anymore, and several fields have to be built manually.
 
 ## (current) update process
 
@@ -21,28 +24,16 @@ scripts. Seee the [Gotchas](#gotchas) section below.
     $ ./update_library.sh
     $ vi kiwix.yml                  # open the catalog
     :read kiwix.yml.sample          # append a skeleton
-    $ view library.xml.flat         # copy some of the values from here
+    <keyboard stokes>               # build `name`, `description` from nowhere
+    <keyboard strokes>              # build `lang` from ISO-639-1 codes
     $ view ${ZIPPED_ZIM_URL}.meta4  # copy `size` and `sha256sum` from here
     $ git commit -a -m 'Add something.lang'
     $ ./upload_catalog.sh           # upload the catalog and generate an HTML view as well
 
 
-## library.xml
-
-This file is available from kiwix.org and contains the whole Kiwix collection.
-It is easier to get metadatas from this file than browsing the Kiwix website.
-However, XML can be hard to read, so it is flattened using `xml2(1)`.
-
-The `update_library.sh` script takes care of that: it downloads the latest
-`library.xml` file, then flattenis it to `library.xml.flat`. It also removes
-the favicon which we don't need.
-
-
 ## Fields
 
-Most of the values can be taken from Kiwix library.xml entries. However, some
-names and descriptions are poorly written, some fields can be missing from the
-`.xml` file. See the [gotchas](gotchas) section below.
+Some of the values can be taken from the `.meta4` file that goes with any ZIM file.
 
 Example:
 
@@ -65,32 +56,47 @@ Format : `name` + `.` + `lang`. Must not start by a number, only lower-case.
 
 ### `name`
 
-Taken from `library.xml`:`name` field, but sometimes has to be rewritten.
+Used to be taken from `library.xml`:`name` field.
+
+For wikipedia.bn for example, you can open https://bn.wikipedia.org/ then
+copy the `Wikipedia` word from it. Good luck spotting the right word.
 
 ### `description`
 
-Taken from `library.xml`:`description`, but most of the times has to be
-rewritten.
+Used to be taken from `library.xml`:`name` field.
+
+For wikipedia.bn for example, you can open https://bn.wikipedia.org/ then
+copy the description from it. Good luck spotting the right sentence.
+
+You might leave it in english, such as `Wikipedia in Bengali`.
 
 ### `version`
 
-Taken from `library.xml`:`version`.
+Used to be taken from `library.xml`:`version`.
+
+Use the date mentionned in the filename.
 
 ### `language`
 
-Taken from `library.xml`:`lang`.
+Used to be taken from `library.xml`:`lang`. It happened that it's not accurate.
+Example: Bil Tunisia is supposed to be in arabic but most of the talks are
+actually in french.
 
-It can happen that it's not accurate. Example: Bil Tunisia is supposed to be in
-arabic but most of the talks are actually in french.
+You can take the lang mentionned in the filename (i.e. `_bn_`), then find the
+matching 3-letters code from the
+[Wikipedia 639-1 Codes page](https://fr.wikipedia.org/wiki/Liste_des_codes_ISO_639-1).
 
 ### `id`
 
-Taken from `library.xml`:`id`. Not used by ideascube, but maybe some day...
-ideascube will silently ignore this field.
+Used to be taken from `library.xml`:`id`. Not used by ideascube, we were copying it
+expecting we would find an use for it someday. Now `library.xml` is gone, these `id`
+fields have been removed.
 
 ### `url`
 
-Taken from `library.xml`:`url`.
+Used to be taken from `library.xml`:`url`.
+
+Just copy the link from the [download page](http://download.kiwix.org/zim/).
 
 ### `size`
 
@@ -102,7 +108,10 @@ Taken from `url`.meta4 or from the `sha256sum(1)` command output.
 
 ### `type`
 
-For ZIMs from Kiwix.org, it must be `zipped-zim`.
+For ZIMs from Kiwix.org, it must be `zim`.
+
+Kiwix doesn't build `zipped-zim` files anymore. Such files should disappear from our
+`kiwix.yml` file over the time.
 
 
 ### The .meta4 file
@@ -110,15 +119,13 @@ For ZIMs from Kiwix.org, it must be `zipped-zim`.
 meta4 files embbed several informations that are useful to us.
 
 To get it, just add `.meta4` to the end of the `url`. Example:
-http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fr_all_2016-11.zip.meta4
+http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fr_all_2016-11.zim.meta4
 
 
 ## URLs
 
 Multiple URLs per ZIM :
 
-* http://download.kiwix.org/portable/other/kiwix-0.9+wikistage_fr_all_2015-07.zip
-* http://download.kiwix.org/portable/other/kiwix-0.9+wikistage_fr_all_2015-07.zip.meta4
 * http://download.kiwix.org/zim/other/wikistage_fr_all_2015-07.zim
 * http://download.kiwix.org/zim/other/wikistage_fr_all_2015-07.zim.meta4
 

@@ -3,8 +3,7 @@
     description: ""
     version: ""
     language: ""
-    id: ""
     url: ""
     size:
     sha256sum: ""
-    type: zipped-zim
+    type: zim
