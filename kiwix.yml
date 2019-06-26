@@ -959,3 +959,12 @@ all:
     size: 17956063
     sha256sum: "95e123960e54df5bc6f003e1c40b350535a109ae5e9b04a24083ea27487c8b18"
     type: zim
+  wikipedia.bn:
+    name: "প্রধান পাতা"
+    description: "Wikipedia in Bengali"
+    version: "2019-05-02"
+    language: "ben"
+    url: "https://download.kiwix.org/zim/wikipedia/wikipedia_bn_all_novid_2019-05.zim"
+    size: 1182986436
+    sha256sum: "8889e98b160b25f2ce48fbc1317dfc44888f54e46c55934a806f2d503311ddd4"
+    type: zim
