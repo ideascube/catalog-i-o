@@ -3157,11 +3157,11 @@ all:
       \ the application TEDed !"
     language: en
     name: Health and hygiene
-    sha256sum: 1fc062a1c1977a836775a2ea34d27ffe576e1933f4ec6cbd6cf2f060bdd32fe2
-    size: 1316573395
+    sha256sum: 4312d05ef187e9d1ce5433a0f1722b86b5e8c379d165bada696fa7c3bd2ed6fb
+    size: 1389010685
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-and-hygiene-en.zip
-    version: '2019-06-04'
+    version: '2019-07-02'
   health-and-nutrition-ar:
     description: "Keep a healthy diet for a healthier life.// \u0627\u0628\u0642\u064A\
       \ \u063A\u0630\u0627\u0626\u0643 \u0635\u062D\u064A \u0644\u062D\u064A\u0627\
@@ -4149,11 +4149,11 @@ all:
       package is for you!
     language: en
     name: Learn english!
-    sha256sum: fa0a347b4c4442d35ef011bebf37c35815cc1131eaa5b3ba64244139b0f8384c
-    size: 416059040
+    sha256sum: 2aec755974f2509cff0adaf87d67a2b68ef240749c507cfd6a486648a3fad459
+    size: 381175948
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-adults-en.zip
-    version: '2019-06-04'
+    version: '2019-07-02'
   learn-english-children-bn:
     description: Improve your english through different supports
     language: bn
@@ -4465,11 +4465,11 @@ all:
     description: Learn more about menstruations and sexuality
     language: en
     name: Let's talk about sexuality
-    sha256sum: dabe2560b3f528486a8c0bc7cd9a6196e708e57aaf186bd0607435cb2485f647
-    size: 211431004
+    sha256sum: 173cc9a0888a3f2ac1afa0759a35fb3825c159498ae4d4a0dc588f16735900d6
+    size: 230084794
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/let-s-talk-about-sexuality-en-en.zip
-    version: '2018-12-17'
+    version: '2019-07-02'
   let-s-talk-about-sexuality-fa:
     description: Talk about sexuality in farsi language.
     language: fa
