@@ -1,4 +1,4 @@
-all:
+alg:
   wikipedia.mg:
     name: Wikipedia
     description: "Avy amin'i Wikipedia"
@@ -190,15 +190,15 @@ all:
     langid: "gutenberg.en"
     type: zim
   gutenberg.fr:
-    version: "2014-10-31"
-    size: 2380948535
-    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_fr_all_2014-10.zip"
+    version: "2018-10-01"
+    size: 2922433683
+    url: "http://download.kiwix.org/zim/gutenberg/gutenberg_fr_all_2018-10.zim"
     name: Project Gutenberg Library (french)
     language: "fra"
     description: "Le Projet Gutenberg offre des livres électroniques gratuits à télécharger sur votre PC"
-    sha256sum: "be8f2ff3c5b59ecabbc1dca224dc4a9c74e7d57bb9f010c146511543867525a6"
+    sha256sum: "73fa886a1f6e85670dc4e815c4b06861278be34ea3231c28c889b27e9deb43da"
     langid: "gutenberg.fr"
-    type: zipped-zim
+    type: zim
   ubuntudoc.fr:
     version: "2015-12-15"
     size: 680659800
@@ -380,15 +380,15 @@ all:
     langid: "wikipedia.pt"
     type: zipped-zim
   gutenberg.pt:
-    version: "2014-10-18"
-    size: 386887655
-    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_pt_all_2014-10.zip"
+    version: "2018-10-01"
+    size: 215070156
+    url: "http://download.kiwix.org/zim/gutenberg/gutenberg_pt_all_2018-10.zim"
     name: Project Gutenberg Library (pt) with epub,pdf
-    language: "por"
+    language: "pt"
     description: "The first producer of free ebooks"
-    sha256sum: "93c24cd895b19b66b51489d5daaad3a344227d0ba2351970b9ffc6f4ca6ea264"
+    sha256sum: "342e20bf6b2a666a865e3fc8e5792796a7066435dba2a683696529bd4f533b3e"
     langid: "gutenberg.pt"
-    type: zipped-zim
+    type: zim
   wikipedia.fa:
     version: "2018-07-14"
     size: 7839199638
@@ -530,15 +530,15 @@ all:
     langid: "gutenberg.es"
     type: zim
   gutenberg.de:
-    version: "2014-10-18"
-    size: 764131978
-    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_de_all_2014-10.zip"
+    version: "2018-10-01"
+    size: 1496206612
+    url: "http://download.kiwix.org/zim/gutenberg/gutenberg_de_all_2018-10.zim"
     name: Project Gutenberg
-    language: "deu"
+    language: "de"
     description: "The first producer of free ebooks"
-    sha256sum: "41dd877a7f5fa2de8f9155c9545b90a04767a116e7280e3bda03f442b87a222b"
+    sha256sum: "50c60ff3902891b6b2460702464d7f7b5522e3aeab45e97db8c448157cd00848"
     langid: "gutenberg.de"
-    type: zipped-zim
+    type: zim
   wikipedia.de:
     version: "2017-06-11"
     size: 32070077702
@@ -964,7 +964,7 @@ all:
     description: "Wikipedia in Bengali"
     version: "2019-05-02"
     language: "ben"
-    url: "https://download.kiwix.org/zim/wikipedia/wikipedia_bn_all_novid_2019-05.zim"
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_bn_all_novid_2019-05.zim"
     size: 1182986436
     sha256sum: "8889e98b160b25f2ce48fbc1317dfc44888f54e46c55934a806f2d503311ddd4"
     type: zim
