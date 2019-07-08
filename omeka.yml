@@ -3107,16 +3107,16 @@ all:
     url: http://packages.ideascube.org/omeka/grossesse-a-l-adolescence-fr.zip
     version: '2017-11-24'
   handcraft-origami-en:
-    description: '"Learn to create and build things by yourself ! Learn the art of
-      origami, which is all about folding a single sheet paper in order to create
-      different shapes and forms."'
+    description: Learn to create and build things by yourself ! Learn the art of origami,
+      which is all about folding a single sheet paper in order to create different
+      shapes and forms.
     language: en
-    name: '"Handcraft - origami"'
-    sha256sum: c8d9fce4c6d070596d3092eb12a7e8957650114e70504e8ec5e6f9c3956fd4f8
-    size: 357101066
+    name: Handcraft - origami
+    sha256sum: 4c81f7067780ce7636ba87c22a741cdc3667aca6167d4f25309593fddc34155a
+    size: 355048925
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/handcraft-origami-en.zip
-    version: '2018-02-23'
+    version: '2019-07-08'
   harcelement-ado-fr:
     description: "Des contenus autour du harc\xE8lement, pour l'identifier, ne pas\
       \ sentir isol\xE9.e, et savoir r\xE9agir et vers qui se tourner"
