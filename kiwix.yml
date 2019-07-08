@@ -743,12 +743,12 @@ all:
     langid: "gutenberg.mul"
     description: "The first producer of free ebooks"
     name: Project Gutenberg
-    version: "2014-11-17"
+    version: "2018-10-01"
     language: "mul"
-    url: "http://download.kiwix.org/portable/gutenberg/kiwix-0.9+gutenberg_mul_all_2014-11.zip"
-    size: 48993771883
-    sha256sum: "8925f6f38a8889710eedd1e3185dd19131d29fb398a4889179ed2f11bb8805a1"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/gutenberg/gutenberg_mul_all_2018-10.zim"
+    size: 66325879001
+    sha256sum: "af84b925495de4cd22d0d4793159567ef9956ec53f3c7e25cac0a6261c62629e"
+    type: zim
   wikipedia.sw:
     langid: "wikipedia.sw"
     description: "Kutoka Wikipedia, kamusi elezo huru"
