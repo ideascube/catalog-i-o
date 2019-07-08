@@ -2,52 +2,52 @@ alg:
   wikipedia.mg:
     name: Wikipedia
     description: "Avy amin'i Wikipedia"
-    version: "2017-01-04"
+    version: "2019-05-04"
     language: "mlg"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_mg_all_2017-01.zip"
-    size: 711842158
-    sha256sum: "fa873bc1f6bd409ea4ee445ec1a2fe68146d42a12fd22abaf682247d8184517e"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_mg_all_novid_2019-05.zim"
+    size: 204820140
+    sha256sum: "ef6b6366f2f4d9cde4bdb58302067746e8005c8fc5b614da5407986cdb6bab61"
+    type: zim
     langid: "wikipedia.mg"
   wikipedia.pl:
     name: Wikipedia
     description: "Z Wikipedii, wolnej encyklopedii"
-    version: "2016-12-25"
+    version: "2018-07-01"
     language: "pol"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_pl_all_2016-12.zip"
-    size: 13898397777
-    sha256sum: "dfd2eeb711889d4927a3eb5b225ff2769337c79b7c75041f9949d9d0597c05d5"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_pl_all_novid_2018-07.zim"
+    size: 15151621435
+    sha256sum: "cb8dfdfd7735bfb7d0528fa6ed9a2e7910384e6bb5278d9f0f8e442cb84c7a45"
+    type: zim
     langid: "wikipedia.pl"
   wiktionary.es:
     name: Wikcionario
     description: "De Wikcionario, el diccionario libre"
-    version: "2017-08-25"
+    version: "2018-10-01"
     language: "esp"
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_es_all_novid_2017-08.zip"
-    size: 618978274
-    sha256sum: "affa2ae587e4cfa7fd908653b3ac9bb8f47ba3c63f35c16e5a784fdfb9368208"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_es_all_novid_2018-10.zim"
+    size: 574453676
+    sha256sum: "58e9b0ed4fb3aa37be417d3973a23dde4a50d58ddaa9fea4986afc86747ae2a3"
+    type: zim
     langid: "wiktionary.es"
   wiktionary.ti:
     name: Wiktionary
     description: "From Wiktionary"
-    version: "2016-06-01"
+    version: "2019-04-01"
     language: "tir"
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ti_all_2016-06.zip"
-    size: 198121841
-    sha256sum: "f8b5ccd812da0ed1c1de891daf7b661d7f983e729bd10b93d0b54a2b65a08448"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_ti_all_novid_2019-04.zim"
+    size: 386679
+    sha256sum: "965a31a8c39dadc467de1d5462d7239adc59c3302e31c08848747679636e4b5c"
+    type: zim
     langid: "wiktionary.ti"
   wikipedia.ti:
     name: Wikipedia
     description: "From Wikipedia"
-    version: "2016-08-19"
+    version: "2019-04-01"
     language: "tir"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ti_all_2016-08.zip"
-    size: 199827561
-    sha256sum: "9d934c61b6f5d39233e2bcfad2ca7131bc691dbd240c55b3837ec368553db67c"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_ti_all_novid_2019-04.zim"
+    size: 2346823
+    sha256sum: "bbbdb5b3c7e52598db7b56b6a2f71fd9b85e3c9e12f447cebc7dcacd41918ded"
+    type: zim
     langid: "wikipedia.ti"
   wikipedia.en:
     version: "2018-09-26"
@@ -70,25 +70,25 @@ alg:
     langid: "wikipedia.fr"
     type: zim
   wikipedia.rn:
-    version: "2017-01-08"
-    size: 201213355
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_rn_all_2017-01.zip"
+    version: "2019-04-01"
+    size: 4394703
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_rn_all_novid_2019-04.zim"
     name: Wikipedia
     language: "run"
     description: The free encyclopedia
-    sha256sum: "9e7c57535ec9048955fc12d04f9e23fd367b62485b137a76d9c9cf65d1c86f62"
+    sha256sum: "9bdaffd880ed42b22cb8b22f86b4efe112efddcd981620c1861322c44d283a3f"
     langid: "wikipedia.rn"
-    type: zipped-zim
+    type: zim
   wiktionary.en:
-    version: "2017-08-13"
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_en_all_novid_2017-08.zip"
+    version: "2018-06-01"
+    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_en_all_novid_2018-06.zim"
     name: Wiktionary
     language: "eng"
     description: The free dictionary
-    size: 3094331363
-    sha256sum: "7e4f9b3eac633cd1ea932399211986f72d4a65fa0a0e14eb684b774b383779c1"
+    size: 4408344149
+    sha256sum: "647fd52be8e415068b5a344eb62c7873a4134cc0b6b72a74cf05dad0969365a7"
     langid: "wiktionary.en"
-    type: zipped-zim
+    type: zim
   wiktionary.fr:
     version: "2018-07-08"
     size: 4582593676
@@ -120,35 +120,35 @@ alg:
     langid: "wikiversity.fr"
     type: zim
   wikibooks.en:
-    version: "2017-07-04"
-    size: 1516080648
-    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_en_all_novid_2017-07.zip"
+    version: "2019-05-01"
+    size: 1482194864
+    url: "http://download.kiwix.org/zim/wikibooks/wikibooks_en_all_novid_2019-05.zim"
     name: Wikibooks
     language: "eng"
     description: Open books for an open world
-    sha256sum: "50e5a4573102a61b284efb195875a5b16847cda2dec0c4fc5a3c874838cf0f87"
+    sha256sum: "366a58c4de8d9824e859421546f243a4a9067c8c962f798c6ba8b8a4a9b4f4f8"
     langid: "wikibooks.en"
-    type: zipped-zim
+    type: zim
   wikibooks.fr:
-    version: "2018-03-30"
-    size: 863302786
-    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_fr_all_novid_2018-03.zip"
+    version: "2019-03-01"
+    size: 878617865
+    url: "http://download.kiwix.org/zim/wikibooks/wikibooks_fr_all_novid_2019-03.zim"
     name: Wikilivres
     language: "fra"
     description: Bibliothèque de livres pédagogiques libres.
-    sha256sum: "d44e66a02f6913fcd423f8905d417fe0614db6b63f947e63fc88365ec1b64669"
+    sha256sum: "400fa8bd4325b767018bb72f1f435db7d012eeef47141fd62b9d3934c31a3ec3"
     langid: "wikibooks.fr"
-    type: zipped-zim
+    type: zim
   wikibooks.es:
-    version: "2018-03-30"
-    size: 429850851
-    url: "http://download.kiwix.org/portable/wikibooks/kiwix-0.9+wikibooks_es_all_novid_2018-03.zip"
+    version: "2019-05-01"
+    size: 263373444
+    url: "http://download.kiwix.org/zim/wikibooks/wikibooks_es_all_novid_2019-05.zim"
     name: Wikilibros
     language: "esp"
     description: De Wikilibros, la colección de libros de texto de contenido libre.
-    sha256sum: "4715e10a8765e5803f89e431e08db1d2174cec660ac1e3fa8e8c4831f9634140"
+    sha256sum: "57ce45708300124e4cccf2aa567076e0c831c14c3b39bcf7c7ffe45794c52fc7"
     langid: "wikibooks.es"
-    type: zipped-zim
+    type: zim
   wikisource.en:
     version: "2018-09-17"
     size: 15979435291
@@ -160,25 +160,25 @@ alg:
     langid: "wikisource.en"
     type: zim
   wikisource.fr:
-    version: "2018-03-13"
-    size: 12673186442
-    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_fr_all_novid_2018-03.zip"
+    version: "2018-10-01"
+    size: 11149172978
+    url: "http://download.kiwix.org/zim/wikisource/wikisource_fr_all_novid_2018-10.zim"
     name: Wikisource
     language: "fra"
     description: "La bibliothèque libre."
-    sha256sum: "2f32cafb850bf17be4d2b57fa8b29c35b5533411fcb7dcb955c807be55de8c12"
+    sha256sum: "9e7128672737c5211fc036d7e266cd89e81f3422560fe0375f40150fdc07bca1"
     langid: "wikisource.fr"
-    type: zipped-zim
+    type: zim
   cest-pas-sorcier.fr:
-    version: "2015-07-09"
-    size: 33058680868
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+cest-pas-sorcier_fr_all_2015-07.zip"
+    version: "2018-06-01"
+    size: 43947240377
+    url: "http://download.kiwix.org/zim/other/cest-pas-sorcier_fr_all_2018-06.zim"
     name: "C'est pas sorcier"
     language: "fra"
     description: "C'est pas sorcier videos"
-    sha256sum: "b28445e3ed0e30aab5fbbb36427ae515cbfd50e8494d78cf213cebcec833c02d"
+    sha256sum: "bf310a246d26dc2922d6b4580f00575045b2d8d426b6d592f94424d9e4e99de3"
     langid: "cest-pas-sorcier.fr"
-    type: zipped-zim
+    type: zim
   gutenberg.en:
     version: "2019-01-08"
     size: 56913027120
@@ -200,135 +200,135 @@ alg:
     langid: "gutenberg.fr"
     type: zim
   ubuntudoc.fr:
-    version: "2015-12-15"
-    size: 680659800
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+ubuntudoc_fr_all_2015-12.zip"
+    version: "2015-12-16"
+    size: 490016695
+    url: "http://download.kiwix.org/zim/other/ubuntudoc_fr_all_2015-12.zim"
     name: Documentation Ubuntu Française
     language: "fra"
     description: "Version hors ligne du wiki: doc.ubuntu-fr.org"
-    sha256sum: "40f69a8e14757a2d38c27a8d86a3578f85989428df5f90457569a8bb246be89f"
+    sha256sum: "700859c66e28bb248cf72f888a2b703689920a322bd50963c5d87a6feebfb67a"
     langid: "ubuntudoc.fr"
-    type: zipped-zim
+    type: zim
   universcience-tv.fr:
-    version: "2015-03-20"
-    size: 13944351804
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+universcience-tv_fr_all_2015-03.zip"
+    version: "2015-03-21"
+    size: 14036496108
+    url: "http://download.kiwix.org/zim/other/universcience-tv_fr_all_2015-03.zim"
     name: universcience tv
     language: "fra"
     description: "universcience tv videos"
-    sha256sum: "61b364c485c8100598779e35262050593f5623633278eafcaaf3d571f9761e10"
+    sha256sum: "edc3bd4db658c40b98c0d9db4008a96a0b76d172948d61f87b65a1177b85fc18"
     langid: "universcience-tv.fr"
-    type: zipped-zim
+    type: zim
   tedxgeneva2014.fr:
-    version: "2015-03-17"
-    size: 465142299
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedxgeneva-2014_fr_all_2015-03.zip"
+    version: "2015-03-18"
+    size: 274721055
+    url: "http://download.kiwix.org/zim/ted/tedxgeneva-2014_fr_all_2015-03.zim"
     name: TEDxGeneva 2014
     language: "fra"
     description: "TEDxGeneva 2014 videos"
-    sha256sum: "4d2f63d0c1c27667b7a95b0947279a0bbd04e12d4ccdf6ce74021359a4e5c403"
+    sha256sum: "ecebf5ae507a93dc6289acdf1fa57bb51cc7428f5e7d9f0bcd440fc4f0ae4717"
     langid: "tedxgeneva2014.fr"
-    type: zipped-zim
+    type: zim
   tedxlausanne2012.fr:
-    version: "2015-03-17"
-    size: 450040712
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedxlausanne-2012_fr_all_2015-03.zip"
+    version: "2015-03-18"
+    size: 260936006
+    url: "http://download.kiwix.org/zim/ted/tedxlausanne-2012_fr_all_2015-03.zim"
     name: TEDxLausanne 2012
     language: "fra"
     description: "TEDxLausanne 2012 videos"
-    sha256sum: "40ccc3d45cb0457db7ae3dee79d902e2dba78787ad78ab51d8e373ed3ef0b46c"
+    sha256sum: "99d18c8202a67116c614cb92bad1525de8443e4cfa58db944e2e7437c3825182"
     langid: "tedxlausanne2012.fr"
-    type: zipped-zim
+    type: zim
   tedxlausanne2013.fr:
-    version: "2015-03-18"
-    size: 562322158
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedxlausanne-2013_fr_all_2015-03.zip"
+    version: "2015-03-19"
+    size: 372562819
+    url: "http://download.kiwix.org/zim/ted/tedxlausanne-2013_fr_all_2015-03.zim"
     name: TEDxLausanne 2013
     language: "fra"
     description: "TEDxLausanne 2013 videos"
-    sha256sum: "983bc0f9213346357cf1ed16b26085a102fe33b1e0d719ee1c31fbf27747fd93"
+    sha256sum: "dabcf32104ecc4d158fc5cf20fbd90a90590b4337bde5a029d3aef592bb7ed4a"
     langid: "tedxlausanne2013.fr"
-    type: zipped-zim
+    type: zim
   tedxlausanne2014.fr:
-    version: "2015-03-18"
-    size: 516471569
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedxlausanne-2014_fr_all_2015-03.zip"
+    version: "2015-03-19"
+    size: 326564245
+    url: "http://download.kiwix.org/zim/ted/tedxlausanne-2014_fr_all_2015-03.zim"
     name: TEDxLausanne 2014
     language: "fra"
     description: "TEDxLausanne 2014 videos"
-    sha256sum: "670265b4376a9e30fad7bd72d954dbda6e87d1a6965e64d762227426fd803f23"
+    sha256sum: "5bf3d7cedfbfca2163b590bb41c514e82a1e6771914f26ff7e5d65aab00684a1"
     langid: "tedxlausanne2014.fr"
-    type: zipped-zim
+    type: zim
   tedxlausannechange2013.fr:
-    version: "2015-03-18"
-    size: 277352035
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+tedxlausannechange-2013_fr_all_2015-03.zip"
+    version: "2015-03-19"
+    size: 81826026
+    url: "http://download.kiwix.org/zim/ted/tedxlausannechange-2013_fr_all_2015-03.zim"
     name: TEDxLausanneChange 2013
     language: "fra"
     description: "TEDxLausanneChange 2013 videos"
-    sha256sum: "014b717054376921eadaf978d79f3c86ce220ab7333e1db01e2ec2ded044c788"
+    sha256sum: "fa41273c9788eff16b779bd4551c0dc2737db20bbad52318fd4815a2e1c781a2"
     langid: "tedxlausannechange2013.fr"
-    type: zipped-zim
+    type: zim
   tedbusiness.en:
-    version: "2016-06-26"
-    size:  10025337594
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_business_2016-06.zip"
+    version: "2018-07-01"
+    size:  8855827638
+    url: "http://download.kiwix.org/zim/ted/ted_en_business_2018-07.zim"
     name: TED talks - Business
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of business.
-    sha256sum: "98ac898f58d1eb75bc3441345369a78af47c806fd6b26883dcfa04979bcb03f3"
+    sha256sum: "276bc6b84c92e0078ed502ba0dd61c7929280cdcdc65887860143329f508b544"
     langid: "tedbusiness.en"
-    type: zipped-zim
+    type: zim
   teddesign.en:
-    version: "2016-06-26"
-    size: 10473925930
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_design_2016-06.zip"
+    version: "2018-07-01"
+    size: 9422760069
+    url: "http://download.kiwix.org/zim/ted/ted_en_design_2018-07.zim"
     name: TED talks - Design
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of design.
-    sha256sum: "3ca9a740d2297bdcae9839116994a0dc855e7484c3dbb00660dfa3946b5ff3b0"
+    sha256sum: "5dd8135a66a641d9c8e493ca32d6e9dd14edf5b6a2fd204d9a30e5e8ed02aede"
     langid: "teddesign.en"
-    type: zipped-zim
+    type: zim
   tedentertainment.en:
-    version: "2016-06-26"
-    size: 9006262025
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_entertainment_2016-06.zip"
+    version: "2018-07-01"
+    size: 7692549643
+    url: "http://download.kiwix.org/zim/ted/ted_en_entertainment_2018-07.zim"
     name: TED Entertainment
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of entertainment.
-    sha256sum: "143435ca02ef294013e8d8951644930ef0281cf3886718d9ea47a9efeb253e6f"
+    sha256sum: "79c0e0aa126f79b6a63536b7f0d811c7164fd546b37ca20331bff1be640bcd6d"
     langid: "tedentertainment.en"
-    type: zipped-zim
+    type: zim
   tedglobalissues.en:
-    version: "2016-06-26"
-    size: 15367797327
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_global_issues_2016-06.zip"
+    version: "2018-07-01"
+    size: 13152845922
+    url: "http://download.kiwix.org/zim/ted/ted_en_global_issues_2018-07.zim"
     name: TED Global issues
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of global issues.
-    sha256sum: "3a2c887381fe3d8eb10b401f8f239840acd39e5cc7a5dde324af49a93803a8e4"
+    sha256sum: "c8b1d5ce6c8fa246dd823bd675fe6cb05192e41a83c8c843115a3a3b632a2544"
     langid: "tedglobalissues.en"
-    type: zipped-zim
+    type: zim
   tedscience.en:
-    version: "2016-06-26"
-    size: 14586162991
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_science_2016-06.zip"
+    version: "2018-07-23"
+    size: 14423097016
+    url: "http://download.kiwix.org/zim/ted/ted_en_science_2018-07.zim"
     name: TED talks - Science
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of science.
-    sha256sum: "64d703e485ed751ad72bdd738b481b6546fefcff4136cf821276618cba56a2ac"
+    sha256sum: "84a0849f0410f9d3047896d6e34f007ca84c3f8e04cea1e95ee2f4e7953acdd6"
     langid: "tedscience.en"
-    type: zipped-zim
+    type: zim
   tedtechnology.en:
-    version: "2016-06-26"
-    size: 19281815651
-    url: "http://download.kiwix.org/portable/ted/kiwix-0.9+ted_en_technology_2016-06.zip"
+    version: "2018-07-23"
+    size: 17780841466
+    url: "http://download.kiwix.org/zim/ted/ted_en_technology_2018-07.zim"
     name: TED Technology
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of technology.
-    sha256sum: "1fc70981a9b6494ee9086ffba54f8fa87ba413f2bf57a03e2ac8836df082ea6c"
+    sha256sum: "7c184de62bd1e60044660ab0cc38091869f9be5f70f8deb1881b5538ad99a67b"
     langid: "tedtechnology.en"
-    type: zipped-zim
+    type: zim
   wikivoyage.fr:
     version: "2018-04-17"
     size: 183845360
@@ -340,45 +340,45 @@ alg:
     langid: "wikivoyage.fr"
     type: zim
   wikipedia.wo:
-    version: "2016-08-21"
-    size: 216674180
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_wo_all_2016-08.zip"
+    version: "2019-03-18"
+    size: 21713986
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_wo_all_novid_2019-03.zim"
     name: Wikipedia
     language: "wol"
-    description: "Jóge  Wikipedia"
-    sha256sum: "6ff9d7ac808b0dce797d0e8c8c7b13c0ecca7c14f36717076da8734b03ac5735"
+    description: "Jóge Wikipedia"
+    sha256sum: "d80545091d74c910e62275351fa0500861f2404e896fdb0f7073b10fb2d2fedf"
     langid: "wikipedia.wo"
-    type: zipped-zim
+    type: zim
   wikistage.fr:
-    version: "2015-07-14"
-    size: 5079022901
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+wikistage_fr_all_2015-07.zip"
+    version: "2018-06-24"
+    size: 8099213754
+    url: "http://download.kiwix.org/zim/other/wikistage_fr_all_2018-06.zim"
     name: WikiStage
     language: "fra"
     description: "WikiStage videos"
-    sha256sum: "f4f833374bf1e506bee08c769a298f9ff75b7015979862198f87d115936a3c04"
+    sha256sum: "a048519337a7cfe8754f40c9dfa8cd4f191f69894d8c463cb361f6858578b50d"
     langid: "wikistage.fr"
-    type: zipped-zim
+    type: zim
   dirtybiology.fr:
-    version: "2016-03-30"
-    size: 1687788558
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+dirtybiology_fr_all_2016-03.zip"
+    version: "2018-06-23"
+    size: 2563543392
+    url: "http://download.kiwix.org/zim/other/dirtybiology_fr_all_2018-06.zim"
     name: DirtyBiology
     language: "fra"
     description: "DirtyBiology videos"
-    sha256sum: "cbc482280d172340d5dc7e84c65ccf03b82a82c6f91e1a299b9e956f36aef658"
+    sha256sum: "2e48574610253e9465f186fbc78d5f88a8d791ccebe77cd3604a35ce55d1ded9"
     langid: "dirtybiology.fr"
-    type: zipped-zim
+    type: zim
   wikipedia.pt:
-    version: "2016-08-27"
-    size: 10428157729
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_pt_all_2016-08.zip"
+    version: "2019-06-11"
+    size: 12553802413
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_pt_all_novid_2019-06.zim"
     name: Wikipédia
     language: "por"
     description: "Origem: Wikipédia, a enciclopédia livre."
-    sha256sum: "ed5354c4ab9b450e666c64fe896bbe673753ec035796363578e715092d83d348"
+    sha256sum: "72d1fe3bfa546dfcf2441e149584411d0c0be7d6a05ff5539e614886f5882fb5"
     langid: "wikipedia.pt"
-    type: zipped-zim
+    type: zim
   gutenberg.pt:
     version: "2018-10-01"
     size: 215070156
@@ -420,75 +420,75 @@ alg:
     langid: "vikidia.fr"
     type: zim
   wikipedia.ku:
-    version: "2016-12-30"
-    size: 371325521
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ku_all_2016-12.zip"
+    version: "2019-05-10"
+    size: 172585353
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_ku_all_novid_2019-05.zim"
     name: Wîkîpediya
     language: "kur"
     description: "Ji Wîkîpediya, ensîklopediya azad."
-    sha256sum: "3d965346f8d062c019ad7361bc4bc80eec3884fda9d7f3311f8d2074cf752539"
+    sha256sum: "19cc9bdc18ffc547da534d04800faac06740eb44ed7470059d98f3f05c73e3a4"
     langid: "wikipedia.ku"
-    type: zipped-zim
+    type: zim
   wiktionary.ku:
-    version: "2016-12-29"
-    size: 495630277
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ku_all_2016-12.zip"
+    version: "2019-05-11"
+    size: 292710877
+    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_ku_all_novid_2019-05.zim"
     name: Wiktionary
     language: "kur"
     description: "Ji Wiktionary"
-    sha256sum: "c6240e14dde09dc126c190ea06ce5e9587f38177ed9aca9f8fef93bd426d8bf3"
+    sha256sum: "b0d5a32ad655e1ba278793cbbcd7b9e9cfe886c622e0fe47c174bc97843e6fcd"
     langid: "wiktionary.ku"
-    type: zipped-zim
+    type: zim
   les-fondamentaux.fr:
-    version: "2016-05-22"
-    size: 484496221
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+les-fondamentaux_fr_all_2016-05.zip"
+    version: "2016-05-23"
+    size: 300455443
+    url: "http://download.kiwix.org/zim/other/les-fondamentaux_fr_all_2016-05.zim"
     name: Les fondamentaux
     language: "fra"
     description: "Les fondamentaux videos"
-    sha256sum: "99b1776dad92d5f1b3a917e11a8fc7ada6026964ac621550400a351d33bb7780"
+    sha256sum: "d0a9f303c320d58aa021539d6ab329d9aee2644c5ab0993a3dad834a803993fd"
     langid: "les-fondamentaux.fr"
-    type: zipped-zim
+    type: zim
   bil-tunisia.ar:
-    version: "2015-03-16"
-    size: 2949838231
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+bil-tunisia_ar_all_2015-03.zip"
+    version: "2018-06-24"
+    size: 4594170773
+    url: "http://download.kiwix.org/zim/other/bil-tunisia_ar_all_2018-06.zim"
     name: "فيديو-بالتونسي"
     language: "ara"
     description: "مقاطع فيديو باللغه التونسيه"
-    sha256sum: "bf16b5e382546d65d55e027123945117f22fa9c1a2b06eaccb3b82e797722190"
+    sha256sum: "56890e9f27b9a7da3ae292d4e6cd3fc448fb03ca790b0b749893976ebd6c78d9"
     langid: "bil-tunisia.ar"
-    type: zipped-zim
+    type: zim
   icd10.fr:
-    version: "2012-01-09"
-    size: 198835367
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+icd10_fr_all_2012-01.zip"
+    version: "2014-10-31"
+    size: 419638
+    url: "http://download.kiwix.org/zim/other/icd10_fr_all_2012-01.zim"
     name: ICD-10
     language: "fra"
     description: "Classification statistique internationale des maladies et des problème de santé connexes"
-    sha256sum: "01820200e8e666834e154aa0e2ad7da2d088c4b922bf7570eb4904d8fb14719d"
+    sha256sum: "4eaea701458c3976191d5985e57265b1ad8fe7a69b8345f0451de7ad39ab8ea1"
     langid: "icd10.fr"
-    type: zipped-zim
+    type: zim
   mullah-piaz-digest.fa:
-    version: "2012-12-18"
-    size: 244776958
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+mullah-piaz-digest_fa_all_2012-12.zip"
+    version: "2012-12-19"
+    size: 50470643
+    url: "http://download.kiwix.org/zim/other/mullah-piaz-digest_fa_all_2012-12.zim"
     name: Mullah Piaz
     language: "per,eng"
     description: "Digest"
-    sha256sum: "27ba4f610a100dbad52e5962781d7ebc95cdb56ebf1343747add81a6f671b92a"
+    sha256sum: "949f484ebfffafba77fd243d522bbee444e700b529c0f0e8f40ecb41bcfd2cfb"
     langid: "mullah-piaz-digest.fa"
-    type: zipped-zim
+    type: zim
   wiktionary.fa:
-    version: "2016-12-25"
-    size: 379463088
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_fa_all_2016-12.zip"
+    version: "2019-06-05"
+    size: 69113478
+    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_fa_all_novid_2019-06.zim"
     name: ویکی<U+200C>واژه
     language: "fas"
     description: "از ویکی<U+200C>واژه"
-    sha256sum: "323ecf6e27906ca207b102d47498d89a927d9012b70f7dacc9ea38ca8d597076"
+    sha256sum: "58e8ca01258bed055bbab51ba82af798c48c482d82bcc38fb9fae0c84dd9b272"
     langid: "wiktionary.fa"
-    type: zipped-zim
+    type: zim
   wiktionary.ar:
     version: "2018-10-19"
     size: 45716336
@@ -510,15 +510,15 @@ alg:
     langid: "wikiversity.ar"
     type: zim
   wikipedia.es:
-    version: "2018-08-10"
-    size: 19204380387
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_es_all_novid_2017-08.zip"
+    version: "2019-06-17"
+    size: 23735161097
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_es_all_novid_2019-06.zim"
     name: Wikipedia
     language: "spa"
     description: "De Wikipedia, la enciclopedia libre"
-    sha256sum: "e017522db3a7a55f591492420c7421f605b0ff9bf5b415520f9afc32432a2267"
+    sha256sum: "2c3fb52658010b7b4326975c7bd5287d4cd22955629f4cdf447030cd9447968c"
     langid: "wikipedia.es"
-    type: zipped-zim
+    type: zim
   gutenberg.es:
     version: "2018-10-23"
     size: 450885483
@@ -540,15 +540,15 @@ alg:
     langid: "gutenberg.de"
     type: zim
   wikipedia.de:
-    version: "2017-06-11"
-    size: 32070077702
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_de_all_2017-06.zip"
+    version: "2018-11-10"
+    size: 35463705320
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_de_all_novid_2018-11.zim"
     name: Wikipedia
     language: "deu"
     description: "aus Wikipedia, der freien Enzyklopädie"
-    sha256sum: "792846414c96e840d7909df32da609139876a4c18d528dd563b4ff8b48431c94"
+    sha256sum: "e1723052dc1174aeb16547c030c8639f0225865db401c185a32ba62b7bc7d2f2"
     langid: "wikipedia.de"
-    type: zipped-zim
+    type: zim
   wikibooks.ar:
     version: "2018-10-10"
     size: 18900837
@@ -613,12 +613,12 @@ alg:
     langid: "wiktionary.ps"
     description: "ﺩ ﻮﻳکﻲﺴﻴﻧﺩ ﻞﺧﻭﺍ"
     name: ﻮﻳکﻲﺴﻴﻧﺩ
-    version: "2016-05-29"
+    version: "2019-04-29"
     language: "pus"
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ps_all_2016-05.zip"
-    size: 209168895
-    sha256sum: "3dbe61f1f0b8a7e953e7bc9efc8c0229b929173e039173a8768cb9e143275983"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_ps_all_novid_2019-04.zim"
+    size: 10872908
+    sha256sum: "7e340c2e2b0e34ac6f0ab7e499c358532eb5b6175cf9103c181a36a2f1c53202"
+    type: zim
   wikiversity.el:
     langid: "wikiversity.el"
     description: "Από Βικιεπιστήμιο"
@@ -673,12 +673,12 @@ alg:
     langid: "wikiquote.en"
     description: The free quote compendium.
     name: Wikiquote
-    version: "2018-04-17"
+    version: "2019-06-05"
     language: "eng"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_en_all_novid_2018-04.zip"
-    size: 817794330
-    sha256sum: "b67ec179e51da44ebb95daa2823bc425bcbad6fd6bde3f3484752d78bcf7dbeb"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wikiquote/wikiquote_en_all_novid_2019-06.zim"
+    size: 598263827
+    sha256sum: "bf46c6fc42621e0dd94da49ee9cb948b76ace39c835a8e402f7f7d24c336ad58"
+    type: zim
   wikiquote.el:
     langid: "wikiquote.el"
     description: "Από Βικιφθέγματα"
@@ -693,22 +693,22 @@ alg:
     langid: "biologie-tout-compris.fr"
     description: "Uploads from Tania Louis videos"
     name: Uploads from Tania Louis
-    version: "2016-06-25"
+    version: "2018-06-23"
     language: "fra"
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+biologie-tout-compris_fr_all_2016-06.zip"
-    size: 542453851
-    sha256sum: "d0dd5e9ba6a8cacd75ae13edc59da5dd981f209024ddeaa254972ba8237f25bd"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/other/biologie-tout-compris_fr_all_2018-06.zim"
+    size: 2172640041
+    sha256sum: "3e2dc94c35081a17c615f1e0ddc3edc5f303d04764c625ef9c5597edfc140ff3"
+    type: zim
   bouquineux.fr:
     langid: "bouquineux.fr"
     description: "2500 livres numériques gratuits et libres de droits"
     name: Bouquineux
-    version: "2013-07-26"
+    version: "2013-07-27"
     language: "fra"
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+bouquineux_fr_all_2013-07.zip"
-    size: 5703110184
-    sha256sum: "d4a5a13341ce2c610865dadd1461f3b3e58a90a9b0d1b07cd1ba2f462e57d348"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/other/bouquineux_fr_all_2013-07.zim"
+    size: 5510795562
+    sha256sum: "7044cb0344711366d3ffe0a4ab32e6398c6c4e292d24a63df23c2f87b684274c"
+    type: zim
   deus-ex-silicium.fr:
     langid: "deus-ex-silicium.fr"
     description: "Deus Ex Silicium videos"
@@ -723,12 +723,12 @@ alg:
     langid: "e-penser.fr"
     description: "Vidéos E-penser"
     name: E-penser
-    version: "2016-06-25"
+    version: "2018-06-24"
     language: "fra"
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+e-penser_fr_all_2016-06.zip"
-    size: 5760742831
-    sha256sum: "6b699defeef565e1d5df3f8efe8d6ee256da7a86559209ad1a50d9df528f55eb"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/other/e-penser_fr_all_2018-06.zim"
+    size: 5521463659
+    sha256sum: "f8bcb15eb781dfd88153a7afa110a36248670056872ced40758809bc3d09be99"
+    type: zim
   ted-ed.en:
     langid: "ted-ed.en"
     description: Education videos from TED
@@ -753,62 +753,62 @@ alg:
     langid: "wikipedia.sw"
     description: "Kutoka Wikipedia, kamusi elezo huru"
     name: Wikipedia
-    version: "2018-05-0"
+    version: "2019-03-18"
     language: "swa"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_sw_all_novid_2018-05.zip"
-    size: 616918517
-    sha256sum: "efac310760f6be20235c93b2a9ce58f7272bdca2d4469f52d8549e4ba8bb679c"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_sw_all_novid_2019-03.zim"
+    size: 425285559
+    sha256sum: "a8486dae536d200d6bb81f56a632725f6c274cc91b4cf68c2c78171fc38f4040"
+    type: zim
   vikidia.es:
     langid: "vikidia.es"
     description: "De Vikidia"
     name: Vikidia
-    version: "2017-08-05"
+    version: "2018-10-08"
     language: "spa"
-    url: "http://download.kiwix.org/portable/vikidia/kiwix-0.9+vikidia_es_all_2017-08.zip"
-    size: 244206005
-    sha256sum: "9491d7ccee3e084f72e357adb388c5fb85ec2e8288a8729866fc322b5099641a"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/vikidia/vikidia_es_all_2018-10.zim"
+    size: 49187709
+    sha256sum: "2b9f65fd16a7986c132154c81f01337f0e78daac83bfe9aedc39e2f63be6ad48"
+    type: zim
   wiktionary.sw:
     langid: "wiktionary.sw"
     description: "Ufafanuzi kutoka Wiktionary, kamusi iliyo huru"
     name: Wiktionary
-    version: "2016-06-01"
+    version: "2019-04-05"
     language: "swa"
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_sw_all_2016-06.zip"
-    size: 207321741
-    sha256sum: "9bef82e787b9165f83ce1cc9f227a48bacaf21d42689d22f2b4764e29a35c928"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_sw_all_novid_2019-04.zim"
+    size: 11462940
+    sha256sum: "220e33c22f41b07512c2dbc5fed610fa53bc8a0b94fc31bb49dcd77f4eb2dcc2"
+    type: zim
   wikiquote.es:
     langid: "wikiquote.es"
     description: "De Wikiquote, la colección libre de citas y frases célebres."
     name: Wikiquote
-    version: "2017-07-26"
+    version: "2019-06-05"
     language: "spa"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_es_all_novid_2017-07.zip"
-    size: 277372098
-    sha256sum: "a3de80b39f80d9f78de6cc01152e7c836825120bd190ebea416d899841762298"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wikiquote/wikiquote_es_all_novid_2019-06.zim"
+    size: 84023810
+    sha256sum: "ba276c782e4ceec9f4af6e4bfb67a4ca2f1a6c7c80569f361a33c4d27fe8e590"
+    type: zim
   wikisource.es:
     langid: "wikisource.es"
     description: "De Wikisource, la biblioteca libre."
     name: Wikisource
-    version: "2017-02-22"
+    version: "2018-06-11"
     language: "spa"
-    url: "http://download.kiwix.org/portable/wikisource/kiwix-0.9+wikisource_es_all_2017-02.zip"
-    size: 980424760
-    sha256sum: "d8d3796900fb362caed4f10780328852ebfc59b1375910f0547fac0b70c64fe3"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wikisource/wikisource_es_all_novid_2018-06.zim"
+    size: 679573493
+    sha256sum: "8e823c7fa488fa359a77100b3ded37bad304523dfd73a7d9868d94b7dc892c84"
+    type: zim
   wikimooc.fr:
     langid: "wikimooc.fr"
     description: "Uploads from WikiMOOC videos"
     name: Uploads from WikiMOOC
-    version: "2016-04-17"
+    version: "2018-06-22"
     language: "fra"
-    url: "http://download.kiwix.org/portable/other/kiwix-0.9+wikimooc_fr_all_2016-04.zip"
-    size: 592581771
-    sha256sum: "ec26f33a4a06bbd5cca17d0cf3f2e6ea577f6493abff73a05f9227d3040b4571"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/other/wikimooc_fr_all_2018-06.zim"
+    size: 642846044
+    sha256sum: "b6ae8b3523e36eb275eb7508ed5906318c9b223e02ffd59b15309562cb677fd8"
+    type: zim
   tedmed.en:
     langid: "tedmed.en"
     description: TEDMED is the independently owned and operated health and medicine edition of the world-famous TED conference.
@@ -852,68 +852,68 @@ alg:
   wikiquote.fr:
     name: "Wikiquote"
     description: "le recueil de citations libre"
-    version: "2018-04-17"
+    version: "2019-06-05"
     language: "fra"
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fr_all_novid_2018-04.zip"
-    size: 259907245
-    sha256sum: "77ad2aff2033893d1001acac7ce2235906c2df3d74c034b3f26d4570ca7e7873"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wikiquote/wikiquote_fr_all_novid_2019-06.zim"
+    size: 30494875
+    sha256sum: "3184f6390f9fb7942dbcdd45897b69fa6a136773c9a9fa5213cb8483265de6b7"
+    type: zim
   wikipedia.ckb:
-    version: "2016-11-21"
-    size: 373688403
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ckb_all_2016-11.zip"
+    version: "2019-06-04"
+    size: 226585380
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_ckb_all_novid_2019-06.zim"
     name: "ویکیپیدیا"
     language: "ckb"
     description: "لە ئینسایکڵۆپیدیای ئازادی ویکیپیدیاوە"
-    sha256sum: "2917b60e7f92494f27554c769e57b82832fa6e0b63e3051b8c3218ed7fc20920"
+    sha256sum: "464d69984ea361efb694e088dc39e54e5ccc9adb8880ac0efa917f0814639468"
     langid: "wikipedia.ckb"
-    type: zipped-zim
+    type: zim
   wikiquote.fa:
     version: "2018-04-17"
-    size: 279704022
-    url: "http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fa_all_novid_2018-04.zip"
+    size: 76334224
+    url: "http://download.kiwix.org/zim/wikiquote/wikiquote_fa_all_novid_2019-06.zim"
     name: "ویکی‌گفتاورد"
     language: "fas"
     description: "از ویکی‌گفتاورد"
-    sha256sum: "c150f664319162b8fef3c2e78ae2522eacc82b0a905d16bb0b27b9e1cb2d70e8"
+    sha256sum: "7b47116e6fddf22ea6cb487b9eaf7e0206f52344d2a10154c924ef4835b5078d"
     langid: "wikiquote.fa"
-    type: zipped-zim
+    type: zim
   wikipedia.cbkzam:
     name: "Wikipedia"
     description: "Desde Chavacano de Zamboanga Wikipedia - El Libre Enciclopedia"
-    version: "2016-12-23"
+    version: "2019-06-05"
     language: "cbk-zam"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_cbk-zam_all_2016-12.zip"
-    size: 244053355
-    sha256sum: "08f0702ea134ed23b03d3ffce06afd8b52a82c32eb0c122c24e272566932997d"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_cbk-zam_all_novid_2019-06.zim"
+    size: 47027926
+    sha256sum: "61d8a10862331b598e8ebe3d79af4ee6b2010f61169749b1783b4e8e878a1848"
+    type: zim
   wikipedia.ru:
     name: "Википедия"
     description: "Материал из Википедии — свободной энциклопедии"
-    version: "2017-01-14"
+    version: "2019-06-25"
     language: "ru"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ru_all_2017-01.zip"
-    size: 21960517449
-    sha256sum: "316b2148f4c7d4edb4294968dbab7599a2e4edf585c6cc11ab3c54e8b57bee27"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_ru_all_novid_2019-06.zim"
+    size: 27467161570
+    sha256sum: "a0d3fddb41f1016e38b78b001b60213d02a5ea033c3daadca5b4c28763ee0c6b"
+    type: zim
   wikipedia.sr:
     name: "Википедија"
     description: "Из Википедије, слободне енциклопедије"
-    version: "2017-01-09"
+    version: "2018-10-10"
     language: "sr"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_sr_all_2017-01.zip"
-    size: 4944542501
-    sha256sum: "b56aa17a1e21b5c8e8e744fc79f67d81b7eb400ee9189a01a4aa965da71bcec6"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_sr_all_novid_2018-10.zim"
+    size: 9306576032
+    sha256sum: "d0c5881ddb0531f093718d39627350b02a62f39ba9cfeea7e7e3ca16355c04a1"
+    type: zim
   wikipedia.sq:
     name: "Wikipedia"
     description: "Nga Wikipedia, enciklopedia e lirë"
-    version: "2017-01-08"
+    version: "2019-03-20"
     language: "sq"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_sq_all_2017-01.zip"
-    size: 932733703
-    sha256sum: "87670948b8ca24d2a7dc16ecd2fec6f995706b0d6318c5bfa12385bf71653dca"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_sq_all_novid_2019-03.zim"
+    size: 915057530
+    sha256sum: "fcce8fe877a92cc0da7929d59fe47b2a59cd8d16665aa1f5fd9cc7c5fce14ffb"
+    type: zim
   wikinews.fr:
     name: "Wikinews"
     description: "Une nouvelle de Wikinews, la source d'informations que vous pouvez écrire."
@@ -926,30 +926,30 @@ alg:
   wikipedia.it:
     name: "Wikipedia"
     description: "L'enciclopedia libera e collaborativa"
-    version: "2017-02-03"
+    version: "2018-06-06"
     language: "it"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_it_all_2017-01.zip"
-    size: 17488861672
-    sha256sum: "5e225a1ec74717ade22639e1ce791fa20b85dcf9c09ffb3d8f038bb9d8910063"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_it_all_novid_2018-06.zim"
+    size: 18847049533
+    sha256sum: "bb4ff27b2462001ead3133e209c71943f67ad4f71c75d1dd33165d0051311fbc"
+    type: zim
   wikipedia.ln:
     name: "Wikipedia"
     description: "Útá Wikipedia."
-    version: "2017-01-16"
+    version: "2019-05-11"
     language: "lin"
-    url: "http://download.kiwix.org/portable/wikipedia/kiwix-0.9+wikipedia_ln_all_2017-01.zip"
-    size: 229300909
-    sha256sum: "186cb9b4ac3cb7e705c359dc9cf9d983e8993875f8b6f0ccd3116120f9ea27d4"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_ln_all_novid_2019-05.zim"
+    size: 13638037
+    sha256sum: "1a3807406869fcf89bd3dfa6091a7aa9e5b529b54768d353e9daf3923e5ea4eb"
+    type: zim
   wiktionary.ln:
     name: "Wiktionary"
     description: "Útá Wiktionary."
-    version: "2016-08-24"
+    version: "2019-05-11"
     language: "lin"
-    url: "http://download.kiwix.org/portable/wiktionary/kiwix-0.9+wiktionary_ln_all_2016-08.zip"
-    size: 198013082
-    sha256sum: "92e891142a75f05c381ecd7846b40e2e64e94c47a5658986eff08940ea4f695a"
-    type: zipped-zim
+    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_ln_all_novid_2019-05.zim"
+    size: 349913
+    sha256sum: "49b6892be0348d07ecca6fba8e56841c3c8c5ed1f4a75ded5c9e6937d8d6746f"
+    type: zim
   ekopedia.fr:
     name: "Ekopedia"
     description: "Un article de Ékopédia, l'encyclopédie pratique."
