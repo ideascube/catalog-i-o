@@ -1,4 +1,4 @@
-alg:
+all:
   wikipedia.mg:
     name: Wikipedia
     description: "Avy amin'i Wikipedia"
