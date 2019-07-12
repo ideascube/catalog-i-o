@@ -5673,11 +5673,11 @@ all:
       \ fondamentaux de la pr\xE9vention des \xE9pid\xE9mies."
     language: fr
     name: "Sensibilisation \xE0 la gestion des \xE9pid\xE9mies"
-    sha256sum: 06382c1a80b48601aaf4625304b71de57e75fbc1bdc2d05d2dc95e5b6db9ca2a
-    size: 368419067
+    sha256sum: 16ca61146862eb1f39a50a0b67317110bdb0d7ab110ce5da594d2ec503141153
+    size: 391216429
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sensibilisation-a-la-gestion-des-epidemies-fr.zip
-    version: '2017-07-05'
+    version: '2019-07-12'
   sexualite-fr:
     description: "La sexualit\xE9, il faut en parler pour \xEAtre en toute s\xE9curit\xE9\
       . Vous trouverez ici les informations n\xE9cessaires."
