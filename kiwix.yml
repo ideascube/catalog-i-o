@@ -653,11 +653,11 @@ all:
     langid: "wikisource.el"
     description: "Από Βικιθήκη"
     name: Βικιθήκη
-    version: "2018-06-11"
+    version: "2019-05-07"
     language: "ell"
-    url: "http://download.kiwix.org/zim/wikisource/wikisource_el_all_novid_2018-06.zim"
-    size: 152654140
-    sha256sum: "c79f2ec806a41c2c9e690f3538912631a4c8fa906086b248215714f1030b84d0"
+    url: "http://download.kiwix.org/zim/wikisource/wikisource_el_all_novid_2019-05.zim"
+    size: 174096783
+    sha256sum: "2963eaf4ee298802996763b4f0fa39b65bf139a0a28c6ea973660be51087b4dc"
     type: zim
   wikisource.fa:
     langid: "wikisource.fa"
