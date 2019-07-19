@@ -570,13 +570,13 @@ all:
     langid: "wikisource.ar"
     type: zim
   wikiquote.ar:
-    version: "2018-06-17"
-    size: 14317562
-    url: "http://download.kiwix.org/zim/wikiquote/wikiquote_ar_all_novid_2018-06.zim"
+    version: "2019-06-03"
+    size: 11873915
+    url: "http://download.kiwix.org/zim/wikiquote/wikiquote_ar_all_novid_2019-06.zim"
     name: "ويكي الاقتباس"
     language: "ara"
     description: "ويكي للاقتباسات المختارة"
-    sha256sum: "e07747f1ddc8385a3e6ae5ada6665da310c1e739d6c404d4ff6b55043602247b"
+    sha256sum: "01b60770e2bd9e537d15098187cc4cce3958a0b08b465d3a6fcff1e6bbda89e7"
     langid: "wikiquote.ar"
     type: zim
   wikipedia.el:
