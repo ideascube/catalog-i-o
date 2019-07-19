@@ -550,13 +550,13 @@ all:
     langid: "wikipedia.de"
     type: zim
   wikibooks.ar:
-    version: "2018-10-10"
-    size: 18900837
-    url: "http://download.kiwix.org/zim/wikibooks/wikibooks_ar_all_novid_2018-10.zim"
+    version: "2019-06-03"
+    size: 16765615
+    url: "http://download.kiwix.org/zim/wikibooks/wikibooks_ar_all_novid_2019-06.zim"
     name: "ويكي المكتبة"
     language: "ara"
     description: "الموسوعة المكتبية الحرة"
-    sha256sum: "0575c94a67debc7c177087802e28635a2630059724f08f43e0d740a758286613"
+    sha256sum: "ac00553564389488f6eaace5945a1f2232102344f71e9306fc6dfb39ff4cd7c7"
     langid: "wikibooks.ar"
     type: zim
   wikisource.ar:
