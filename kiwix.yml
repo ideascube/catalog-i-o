@@ -633,11 +633,11 @@ all:
     langid: "wikibooks.fa"
     description: "ﻭیکی<200e>کﺕﺎﺑ، کﺕﺎﺒﺧﺎﻨﻫٔ ﺁﺯﺍﺩ"
     name: ﻭیکی<200c>کﺕﺎﺑ
-    version: "2018-06-07"
+    version: "2019-06-03"
     language: "fas"
-    url: "http://download.kiwix.org/zim/wikibooks/wikibooks_fa_all_novid_2018-06.zim"
-    size: 53850979
-    sha256sum: "b1b979879c1548b6cf6db2d315a50a925bc0f846d48970782aee604c98707684"
+    url: "http://download.kiwix.org/zim/wikibooks/wikibooks_fa_all_novid_2019-06.zim"
+    size: 56504409
+    sha256sum: "7cec5b2aa7152d8e5118f8af4f6537116f01823c969b9f40dfb55941ccc2b9c1"
     type: zim
   wikibooks.el:
     langid: "wikibooks.el"
