@@ -643,11 +643,11 @@ all:
     langid: "wikibooks.el"
     description: "Από Βικιβιβλία"
     name: Βικιβιβλία
-    version: "2018-10-10"
+    version: "2019-06-03"
     language: "ell"
-    url: "http://download.kiwix.org/zim/wikibooks/wikibooks_el_all_novid_2018-10.zim"
-    size: 26034608
-    sha256sum: "f26dac3c95de999bdc8e42de8e13e106658dbbaef4cb1d64fcc04deac215959d"
+    url: "http://download.kiwix.org/zim/wikibooks/wikibooks_el_all_novid_2019-06.zim"
+    size: 22884240
+    sha256sum: "fe39945c00372885dea735cc7741a4ec068e2a27146592d0072327b67471d528"
     type: zim
   wikisource.el:
     langid: "wikisource.el"
