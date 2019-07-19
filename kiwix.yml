@@ -90,13 +90,13 @@ all:
     langid: "wiktionary.en"
     type: zim
   wiktionary.fr:
-    version: "2018-07-08"
-    size: 4582593676
-    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_fr_all_2018-07.zim"
+    version: "2018-07-11"
+    size: 2497389411
+    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_fr_all_novid_2018-07.zim"
     name: Wiktionnaire
     language: "fra"
     description: Définition, traduction, prononciation, anagramme et synonyme sur le dictionnaire libre Wiktionnaire.
-    sha256sum: "d49c7b97f4e1eb811171f527708977291aeeaafe21ae1b49bf8d00d1a01187d8"
+    sha256sum: "f366f4de49bd476499231894aca1a10e74753a9635bc38acfe93fd572dc76b61"
     langid: "wiktionary.fr"
     type: zim
   wikiversity.en:
@@ -330,13 +330,13 @@ all:
     langid: "tedtechnology.en"
     type: zim
   wikivoyage.fr:
-    version: "2018-04-17"
-    size: 183845360
-    url: "http://download.kiwix.org/zim/wikivoyage/wikivoyage_fr_all_novid_2018-06.zim"
+    version: "2019-06-05"
+    size: 147402588
+    url: "http://download.kiwix.org/zim/wikivoyage/wikivoyage_fr_all_novid_2019-06.zim"
     name: Wikivoyage
     language: "fra"
     description: "De Wikivoyage"
-    sha256sum: "cfba047ff27b9ee8d1f08ba184b12a24f2fe3454ab3ec894d479e4f94f5df4d7"
+    sha256sum: "8ba1b0b8ff4e6b59167ebfce5e5cdf677964f0168dfa3e12e9af0a824b4e60b1"
     langid: "wikivoyage.fr"
     type: zim
   wikipedia.wo:
@@ -490,23 +490,23 @@ all:
     langid: "wiktionary.fa"
     type: zim
   wiktionary.ar:
-    version: "2018-10-19"
-    size: 45716336
-    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_ar_all_novid_2018-10.zim"
+    version: "2019-06-03"
+    size: 33018494
+    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_ar_all_novid_2019-06.zim"
     name: "ويكي القاموس"
     language: "ara"
     description: "من ويكي القاموس، القاموس الحر"
-    sha256sum: "97a8c7c0677d9bc8b589e66b6a368324bbf60c00e417dfccbd7460d3e35b91c9"
+    sha256sum: "fe918fd7417f3099a3fe8554644200ea632d2b4e12ca6ad4e3bf53804a5dbcb8"
     langid: "wiktionary.ar"
     type: zim
   wikiversity.ar:
-    version: "2018-06-17"
-    size: 9044235
-    url: "http://download.kiwix.org/zim/wikiversity/wikiversity_ar_all_novid_2018-06.zim"
+    version: "2019-05-01"
+    size: 5259936
+    url: "http://download.kiwix.org/zim/wikiversity/wikiversity_ar_all_nopic_2019-05.zim"
     name: "ويكي الجامعة"
     language: "ara"
     description: "من ويكي الجامعة,مركز التعليم الحر"
-    sha256sum: "f932ecd80220824534c6e279e33d34f13946af8fbf642cc3fe0eba51be791462"
+    sha256sum: "4638dd15b6172b49dd4076df4d0700c057a9e1aa01329afdde0e5a394537423c"
     langid: "wikiversity.ar"
     type: zim
   wikipedia.es:
@@ -550,63 +550,63 @@ all:
     langid: "wikipedia.de"
     type: zim
   wikibooks.ar:
-    version: "2018-10-10"
-    size: 18900837
-    url: "http://download.kiwix.org/zim/wikibooks/wikibooks_ar_all_novid_2018-10.zim"
+    version: "2019-06-03"
+    size: 16765615
+    url: "http://download.kiwix.org/zim/wikibooks/wikibooks_ar_all_novid_2019-06.zim"
     name: "ويكي المكتبة"
     language: "ara"
     description: "الموسوعة المكتبية الحرة"
-    sha256sum: "0575c94a67debc7c177087802e28635a2630059724f08f43e0d740a758286613"
+    sha256sum: "ac00553564389488f6eaace5945a1f2232102344f71e9306fc6dfb39ff4cd7c7"
     langid: "wikibooks.ar"
     type: zim
   wikisource.ar:
-    version: "2018-06-10"
-    size: 492336608
-    url: "http://download.kiwix.org/zim/wikisource/wikisource_ar_all_novid_2018-06.zim"
+    version: "2019-03-01"
+    size: 564199445
+    url: "http://download.kiwix.org/zim/wikisource/wikisource_ar_all_novid_2019-03.zim"
     name: "ويكي المصدر"
     language: "ara"
     description: "المكتبة الحرة التي يستطيع الجميع تحسينها"
-    sha256sum: "df70882868966b62d31cbd049b0e4da6979164fb5da3a08131dee15c162906ca"
+    sha256sum: "6089559f0f5e23a5d4834623786787c55b627b749208af38a9ff42ce981fc2ec"
     langid: "wikisource.ar"
     type: zim
   wikiquote.ar:
-    version: "2018-06-17"
-    size: 14317562
-    url: "http://download.kiwix.org/zim/wikiquote/wikiquote_ar_all_novid_2018-06.zim"
+    version: "2019-06-03"
+    size: 11873915
+    url: "http://download.kiwix.org/zim/wikiquote/wikiquote_ar_all_novid_2019-06.zim"
     name: "ويكي الاقتباس"
     language: "ara"
     description: "ويكي للاقتباسات المختارة"
-    sha256sum: "e07747f1ddc8385a3e6ae5ada6665da310c1e739d6c404d4ff6b55043602247b"
+    sha256sum: "01b60770e2bd9e537d15098187cc4cce3958a0b08b465d3a6fcff1e6bbda89e7"
     langid: "wikiquote.ar"
     type: zim
   wikipedia.el:
-    version: "2018-09-17"
-    size: 2990402611
-    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_el_all_novid_2018-10.zim"
+    version: "2019-05-09"
+    size: 3062803911
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_el_all_novid_2019-05.zim"
     name: Βικιπαίδεια
     language: "ell"
     description: "Από τη Βικιπαίδεια, την ελεύθερη εγκυκλοπαίδεια"
-    sha256sum: "77d2b8ec56f1a591d672ccf219b0eb1c652f42da33005a37329657027dbfb05d"
+    sha256sum: "a193b8253e981a9900c19d867492d8e8f086af18288831e67f73a41d86da264a"
     langid: "wikipedia.el"
     type: zim
   wikipedia.ps:
-    version: "2018-06-28"
-    size: 137924715
-    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_ps_all_novid_2018-06.zim"
+    version: "2019-05-07"
+    size: 125742237
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_ps_all_novid_2019-05.zim"
     name: ﻮﻳکﻱپېډﻱﺍ
     language: "pus"
     description: "ﺩ ﻮﻳکﻱپېډﻱﺍ، ﻭړیﺍ پﻮﻬﻨﻏﻮﻧډ ﻞﻫ ﺥﻭﺍ"
-    sha256sum: "0c3b072d3678160b53de1f8d9cd294721639221c243d2bb5bd39bacdd31dd645"
+    sha256sum: "3906099b82e3a4636101294aadbba452215070e88e190c0858436763749f7497"
     langid: "wikipedia.ps"
     type: zim
   wiktionary.el:
-    version: "2018-10-24"
-    size: 341624825
-    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_el_all_novid_2018-10.zim"
+    version: "2019-06-05"
+    size: 328699804
+    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_el_all_novid_2019-06.zim"
     name: Βικιλεξικό
     language: "ell"
     description: "Από Βικιλεξικό"
-    sha256sum: "c34bd6536e88dbc8557e2d4692969abd24db6033c0410edf6ca1d401a6510e73"
+    sha256sum: "d6c084191e066d9090880add193f9482afa4b61570dbefa247ff751ec1492ea6"
     langid: "wiktionary.el"
     type: zim
   wiktionary.ps:
@@ -623,51 +623,51 @@ all:
     langid: "wikiversity.el"
     description: "Από Βικιεπιστήμιο"
     name: Βικιεπιστήμιο
-    version: "2018-06-17"
+    version: "2019-06-03"
     language: "ell"
-    url: "http://download.kiwix.org/zim/wikiversity/wikiversity_el_all_novid_2018-06.zim"
-    size: 7270057
-    sha256sum: "93a484e6078c9172a697156e8570a774889219b7df92b1fd53103ccd710ba1ff"
+    url: "http://download.kiwix.org/zim/wikiversity/wikiversity_el_all_novid_2019-06.zim"
+    size: 6030713
+    sha256sum: "7661f95d736ad25314cda89001e226b7b0007510062154369e2364736a7ac04f"
     type: zim
   wikibooks.fa:
     langid: "wikibooks.fa"
     description: "ﻭیکی<200e>کﺕﺎﺑ، کﺕﺎﺒﺧﺎﻨﻫٔ ﺁﺯﺍﺩ"
     name: ﻭیکی<200c>کﺕﺎﺑ
-    version: "2018-06-07"
+    version: "2019-06-03"
     language: "fas"
-    url: "http://download.kiwix.org/zim/wikibooks/wikibooks_fa_all_novid_2018-06.zim"
-    size: 53850979
-    sha256sum: "b1b979879c1548b6cf6db2d315a50a925bc0f846d48970782aee604c98707684"
+    url: "http://download.kiwix.org/zim/wikibooks/wikibooks_fa_all_novid_2019-06.zim"
+    size: 56504409
+    sha256sum: "7cec5b2aa7152d8e5118f8af4f6537116f01823c969b9f40dfb55941ccc2b9c1"
     type: zim
   wikibooks.el:
     langid: "wikibooks.el"
     description: "Από Βικιβιβλία"
     name: Βικιβιβλία
-    version: "2018-10-10"
+    version: "2019-06-03"
     language: "ell"
-    url: "http://download.kiwix.org/zim/wikibooks/wikibooks_el_all_novid_2018-10.zim"
-    size: 26034608
-    sha256sum: "f26dac3c95de999bdc8e42de8e13e106658dbbaef4cb1d64fcc04deac215959d"
+    url: "http://download.kiwix.org/zim/wikibooks/wikibooks_el_all_novid_2019-06.zim"
+    size: 22884240
+    sha256sum: "fe39945c00372885dea735cc7741a4ec068e2a27146592d0072327b67471d528"
     type: zim
   wikisource.el:
     langid: "wikisource.el"
     description: "Από Βικιθήκη"
     name: Βικιθήκη
-    version: "2018-06-11"
+    version: "2019-05-07"
     language: "ell"
-    url: "http://download.kiwix.org/zim/wikisource/wikisource_el_all_novid_2018-06.zim"
-    size: 152654140
-    sha256sum: "c79f2ec806a41c2c9e690f3538912631a4c8fa906086b248215714f1030b84d0"
+    url: "http://download.kiwix.org/zim/wikisource/wikisource_el_all_novid_2019-05.zim"
+    size: 174096783
+    sha256sum: "2963eaf4ee298802996763b4f0fa39b65bf139a0a28c6ea973660be51087b4dc"
     type: zim
   wikisource.fa:
     langid: "wikisource.fa"
     description: "ﺍﺯ ﻭیکی<200c>ﻦﺒﺸﺘﻫ"
     name: ﻭیکی<200c>ﻦﺒﺸﺘﻫ
-    version: "2018-06-12"
+    version: "2019-06-05"
     language: "fas"
-    url: "http://download.kiwix.org/zim/wikisource/wikisource_fa_all_novid_2018-06.zim"
-    size: 148323761
-    sha256sum: "53fb91fc46d9e08fded33b039bac6f44ea0255b28da5c1f394b6a0435ec88159"
+    url: "http://download.kiwix.org/zim/wikisource/wikisource_fa_all_novid_2019-06.zim"
+    size: 136885234
+    sha256sum: "0c8fcd28244033f5c53adeabab5b9416e5537d98a9b50e54251d0986e6d932a9"
     type: zim
   wikiquote.en:
     langid: "wikiquote.en"
@@ -683,11 +683,11 @@ all:
     langid: "wikiquote.el"
     description: "Από Βικιφθέγματα"
     name: Βικιφθέγματα
-    version: "2018-06-17"
+    version: "2019-06-04"
     language: "ell"
-    url: "http://download.kiwix.org/zim/wikiquote/wikiquote_el_all_novid_2018-06.zim"
-    size: 8289862
-    sha256sum: "742cb30a690ef6122cd90c66342ef90c0e289ce6c569e74aa3830067d0444e5b"
+    url: "http://download.kiwix.org/zim/wikiquote/wikiquote_el_all_novid_2019-06.zim"
+    size: 6358294
+    sha256sum: "01e8a3995f62e61ce523adca42b4ff6a83e7ca3d9f9e90c9d613928a25c0b4fd"
     type: zim
   biologie-tout-compris.fr:
     langid: "biologie-tout-compris.fr"
@@ -833,11 +833,11 @@ all:
     langid: "phet.en"
     name: PhET
     description: Physics, chemistry, biology, earth science and math simulations
-    version: "2018-10-01"
+    version: "2019-06-05"
     language: "eng"
-    url: "http://download.kiwix.org/zim/phet/phet_en_2018-10.zim"
-    size: 36278957
-    sha256sum: "365d8a189bbb11e53d6a2c73b7b470506e47d4ee920707d588f8b33155e55e03"
+    url: "http://download.kiwix.org/zim/phet/phet_en_2019-06.zim"
+    size: 43420380
+    sha256sum: "c612d5f8cde214c6aa72f8e1576e653b117b3bb0cb0a5e3f6db33b7d2c568f7b"
     type: zim
   vikidia.en:
     langid: "vikidia.en"
@@ -917,11 +917,11 @@ all:
   wikinews.fr:
     name: "Wikinews"
     description: "Une nouvelle de Wikinews, la source d'informations que vous pouvez écrire."
-    version: "2018-10-11"
+    version: "2019-06-07"
     language: "fr"
-    url: "http://download.kiwix.org/zim/wikinews/wikinews_fr_all_novid_2018-10.zim"
-    size: 177024154
-    sha256sum: "e82db99fc788b6037c14a4e6231178e6c0c0ab0fb8abf47147b2683f408ed8ec"
+    url: "http://download.kiwix.org/zim/wikinews/wikinews_fr_all_novid_2019-06.zim"
+    size: 168784131
+    sha256sum: "2021621a6540cda436992dc68b43afe32d8a7de88bd6ae315494ee19a70971de"
     type: zim
   wikipedia.it:
     name: "Wikipedia"
