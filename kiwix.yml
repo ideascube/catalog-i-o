@@ -580,13 +580,13 @@ all:
     langid: "wikiquote.ar"
     type: zim
   wikipedia.el:
-    version: "2018-09-17"
-    size: 2990402611
-    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_el_all_novid_2018-10.zim"
+    version: "2019-05-09"
+    size: 3062803911
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_el_all_novid_2019-05.zim"
     name: Βικιπαίδεια
     language: "ell"
     description: "Από τη Βικιπαίδεια, την ελεύθερη εγκυκλοπαίδεια"
-    sha256sum: "77d2b8ec56f1a591d672ccf219b0eb1c652f42da33005a37329657027dbfb05d"
+    sha256sum: "a193b8253e981a9900c19d867492d8e8f086af18288831e67f73a41d86da264a"
     langid: "wikipedia.el"
     type: zim
   wikipedia.ps:
