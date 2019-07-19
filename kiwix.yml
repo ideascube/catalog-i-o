@@ -683,11 +683,11 @@ all:
     langid: "wikiquote.el"
     description: "Από Βικιφθέγματα"
     name: Βικιφθέγματα
-    version: "2018-06-17"
+    version: "2019-06-04"
     language: "ell"
-    url: "http://download.kiwix.org/zim/wikiquote/wikiquote_el_all_novid_2018-06.zim"
-    size: 8289862
-    sha256sum: "742cb30a690ef6122cd90c66342ef90c0e289ce6c569e74aa3830067d0444e5b"
+    url: "http://download.kiwix.org/zim/wikiquote/wikiquote_el_all_novid_2019-06.zim"
+    size: 6358294
+    sha256sum: "01e8a3995f62e61ce523adca42b4ff6a83e7ca3d9f9e90c9d613928a25c0b4fd"
     type: zim
   biologie-tout-compris.fr:
     langid: "biologie-tout-compris.fr"
