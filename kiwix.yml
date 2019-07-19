@@ -330,13 +330,13 @@ all:
     langid: "tedtechnology.en"
     type: zim
   wikivoyage.fr:
-    version: "2018-04-17"
-    size: 183845360
-    url: "http://download.kiwix.org/zim/wikivoyage/wikivoyage_fr_all_novid_2018-06.zim"
+    version: "2019-06-05"
+    size: 147402588
+    url: "http://download.kiwix.org/zim/wikivoyage/wikivoyage_fr_all_novid_2019-06.zim"
     name: Wikivoyage
     language: "fra"
     description: "De Wikivoyage"
-    sha256sum: "cfba047ff27b9ee8d1f08ba184b12a24f2fe3454ab3ec894d479e4f94f5df4d7"
+    sha256sum: "8ba1b0b8ff4e6b59167ebfce5e5cdf677964f0168dfa3e12e9af0a824b4e60b1"
     langid: "wikivoyage.fr"
     type: zim
   wikipedia.wo:
