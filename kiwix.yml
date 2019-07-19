@@ -917,11 +917,11 @@ all:
   wikinews.fr:
     name: "Wikinews"
     description: "Une nouvelle de Wikinews, la source d'informations que vous pouvez écrire."
-    version: "2018-10-11"
+    version: "2019-06-07"
     language: "fr"
-    url: "http://download.kiwix.org/zim/wikinews/wikinews_fr_all_novid_2018-10.zim"
-    size: 177024154
-    sha256sum: "e82db99fc788b6037c14a4e6231178e6c0c0ab0fb8abf47147b2683f408ed8ec"
+    url: "http://download.kiwix.org/zim/wikinews/wikinews_fr_all_novid_2019-06.zim"
+    size: 168784131
+    sha256sum: "2021621a6540cda436992dc68b43afe32d8a7de88bd6ae315494ee19a70971de"
     type: zim
   wikipedia.it:
     name: "Wikipedia"
