@@ -90,13 +90,13 @@ all:
     langid: "wiktionary.en"
     type: zim
   wiktionary.fr:
-    version: "2018-07-08"
-    size: 4582593676
-    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_fr_all_2018-07.zim"
+    version: "2018-07-11"
+    size: 2497389411
+    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_fr_all_novid_2018-07.zim"
     name: Wiktionnaire
     language: "fra"
     description: Définition, traduction, prononciation, anagramme et synonyme sur le dictionnaire libre Wiktionnaire.
-    sha256sum: "d49c7b97f4e1eb811171f527708977291aeeaafe21ae1b49bf8d00d1a01187d8"
+    sha256sum: "f366f4de49bd476499231894aca1a10e74753a9635bc38acfe93fd572dc76b61"
     langid: "wiktionary.fr"
     type: zim
   wikiversity.en:
