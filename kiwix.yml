@@ -623,11 +623,11 @@ all:
     langid: "wikiversity.el"
     description: "Από Βικιεπιστήμιο"
     name: Βικιεπιστήμιο
-    version: "2018-06-17"
+    version: "2019-06-03"
     language: "ell"
-    url: "http://download.kiwix.org/zim/wikiversity/wikiversity_el_all_novid_2018-06.zim"
-    size: 7270057
-    sha256sum: "93a484e6078c9172a697156e8570a774889219b7df92b1fd53103ccd710ba1ff"
+    url: "http://download.kiwix.org/zim/wikiversity/wikiversity_el_all_novid_2019-06.zim"
+    size: 6030713
+    sha256sum: "7661f95d736ad25314cda89001e226b7b0007510062154369e2364736a7ac04f"
     type: zim
   wikibooks.fa:
     langid: "wikibooks.fa"
