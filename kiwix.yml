@@ -490,13 +490,13 @@ all:
     langid: "wiktionary.fa"
     type: zim
   wiktionary.ar:
-    version: "2018-10-19"
-    size: 45716336
-    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_ar_all_novid_2018-10.zim"
+    version: "2019-06-03"
+    size: 33018494
+    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_ar_all_novid_2019-06.zim"
     name: "ويكي القاموس"
     language: "ara"
     description: "من ويكي القاموس، القاموس الحر"
-    sha256sum: "97a8c7c0677d9bc8b589e66b6a368324bbf60c00e417dfccbd7460d3e35b91c9"
+    sha256sum: "fe918fd7417f3099a3fe8554644200ea632d2b4e12ca6ad4e3bf53804a5dbcb8"
     langid: "wiktionary.ar"
     type: zim
   wikiversity.ar:
