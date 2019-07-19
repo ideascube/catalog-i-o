@@ -600,13 +600,13 @@ all:
     langid: "wikipedia.ps"
     type: zim
   wiktionary.el:
-    version: "2018-10-24"
-    size: 341624825
-    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_el_all_novid_2018-10.zim"
+    version: "2019-06-05"
+    size: 328699804
+    url: "http://download.kiwix.org/zim/wiktionary/wiktionary_el_all_novid_2019-06.zim"
     name: Βικιλεξικό
     language: "ell"
     description: "Από Βικιλεξικό"
-    sha256sum: "c34bd6536e88dbc8557e2d4692969abd24db6033c0410edf6ca1d401a6510e73"
+    sha256sum: "d6c084191e066d9090880add193f9482afa4b61570dbefa247ff751ec1492ea6"
     langid: "wiktionary.el"
     type: zim
   wiktionary.ps:
