@@ -663,11 +663,11 @@ all:
     langid: "wikisource.fa"
     description: "ﺍﺯ ﻭیکی<200c>ﻦﺒﺸﺘﻫ"
     name: ﻭیکی<200c>ﻦﺒﺸﺘﻫ
-    version: "2018-06-12"
+    version: "2019-06-05"
     language: "fas"
-    url: "http://download.kiwix.org/zim/wikisource/wikisource_fa_all_novid_2018-06.zim"
-    size: 148323761
-    sha256sum: "53fb91fc46d9e08fded33b039bac6f44ea0255b28da5c1f394b6a0435ec88159"
+    url: "http://download.kiwix.org/zim/wikisource/wikisource_fa_all_novid_2019-06.zim"
+    size: 136885234
+    sha256sum: "0c8fcd28244033f5c53adeabab5b9416e5537d98a9b50e54251d0986e6d932a9"
     type: zim
   wikiquote.en:
     langid: "wikiquote.en"
