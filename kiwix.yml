@@ -560,13 +560,13 @@ all:
     langid: "wikibooks.ar"
     type: zim
   wikisource.ar:
-    version: "2018-06-10"
-    size: 492336608
-    url: "http://download.kiwix.org/zim/wikisource/wikisource_ar_all_novid_2018-06.zim"
+    version: "2019-03-01"
+    size: 564199445
+    url: "http://download.kiwix.org/zim/wikisource/wikisource_ar_all_novid_2019-03.zim"
     name: "ويكي المصدر"
     language: "ara"
     description: "المكتبة الحرة التي يستطيع الجميع تحسينها"
-    sha256sum: "df70882868966b62d31cbd049b0e4da6979164fb5da3a08131dee15c162906ca"
+    sha256sum: "6089559f0f5e23a5d4834623786787c55b627b749208af38a9ff42ce981fc2ec"
     langid: "wikisource.ar"
     type: zim
   wikiquote.ar:
