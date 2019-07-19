@@ -833,11 +833,11 @@ all:
     langid: "phet.en"
     name: PhET
     description: Physics, chemistry, biology, earth science and math simulations
-    version: "2018-10-01"
+    version: "2019-06-05"
     language: "eng"
-    url: "http://download.kiwix.org/zim/phet/phet_en_2018-10.zim"
-    size: 36278957
-    sha256sum: "365d8a189bbb11e53d6a2c73b7b470506e47d4ee920707d588f8b33155e55e03"
+    url: "http://download.kiwix.org/zim/phet/phet_en_2019-06.zim"
+    size: 43420380
+    sha256sum: "c612d5f8cde214c6aa72f8e1576e653b117b3bb0cb0a5e3f6db33b7d2c568f7b"
     type: zim
   vikidia.en:
     langid: "vikidia.en"
