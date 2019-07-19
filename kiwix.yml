@@ -590,13 +590,13 @@ all:
     langid: "wikipedia.el"
     type: zim
   wikipedia.ps:
-    version: "2018-06-28"
-    size: 137924715
-    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_ps_all_novid_2018-06.zim"
+    version: "2019-05-07"
+    size: 125742237
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_ps_all_novid_2019-05.zim"
     name: ﻮﻳکﻱپېډﻱﺍ
     language: "pus"
     description: "ﺩ ﻮﻳکﻱپېډﻱﺍ، ﻭړیﺍ پﻮﻬﻨﻏﻮﻧډ ﻞﻫ ﺥﻭﺍ"
-    sha256sum: "0c3b072d3678160b53de1f8d9cd294721639221c243d2bb5bd39bacdd31dd645"
+    sha256sum: "3906099b82e3a4636101294aadbba452215070e88e190c0858436763749f7497"
     langid: "wikipedia.ps"
     type: zim
   wiktionary.el:
