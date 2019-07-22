@@ -853,6 +853,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/community-harmony-bangla-bn.zip
     version: '2019-05-03'
+  community-harmony-burmese-mm:
+    description: '-'
+    language: mm
+    name: Community harmony (Burmese)
+    sha256sum: 395d8225e5438410b1bc1430364d92842267b87c73b71cc257b549226da929c1
+    size: 9850348
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/community-harmony-burmese-mm.zip
+    version: '2019-07-22'
   community-harmony-english-en:
     description: Know each other and take time to share funny moment together
     language: en
@@ -2625,7 +2634,7 @@ all:
     description: Expression and creativity.
     language: mm
     name: Expression/Creatively (burmese)
-    sha256sum: 27bb1ceb3932b9849cf9df563226a3e28126388b645b53d43e74723dcb361525
+    sha256sum: d5be3b20dcf374956cb5c1d583a52137c5ec7c1a3ff707a261b1a65895dd7a29
     size: 505577184
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/expression-creatively-burmese-mm.zip
