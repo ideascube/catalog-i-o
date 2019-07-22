@@ -2634,7 +2634,7 @@ all:
     description: Expression and creativity.
     language: mm
     name: Expression/Creatively (burmese)
-    sha256sum: 072278c154a709f966d66640311a0be939d5f1cace92ad8612065d48216df4d2
+    sha256sum: 861d17514153f416f66fa702843ce5ed2fc93bf495863bc76d7be1515a63fd0d
     size: 505577184
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/expression-creatively-burmese-mm.zip
