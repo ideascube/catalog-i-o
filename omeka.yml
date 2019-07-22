@@ -857,7 +857,7 @@ all:
     description: '-'
     language: mm
     name: Community harmony (Burmese)
-    sha256sum: 395d8225e5438410b1bc1430364d92842267b87c73b71cc257b549226da929c1
+    sha256sum: 080b8071ff0f6807644ab9afb7571caedaafb68aa162aef8d7e5f522ef599bc7
     size: 9850348
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/community-harmony-burmese-mm.zip
@@ -2634,7 +2634,7 @@ all:
     description: Expression and creativity.
     language: mm
     name: Expression/Creatively (burmese)
-    sha256sum: d5be3b20dcf374956cb5c1d583a52137c5ec7c1a3ff707a261b1a65895dd7a29
+    sha256sum: 072278c154a709f966d66640311a0be939d5f1cace92ad8612065d48216df4d2
     size: 505577184
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/expression-creatively-burmese-mm.zip
