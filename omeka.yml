@@ -5957,7 +5957,7 @@ all:
       \ nouveau sens au mot \"sport\" ? C'est ici !"
     language: fr
     name: Sports
-    sha256sum: 6d6f9c585b66111e4cbf7b27590d36fa9427358c4b786cd0ebdf3f97e45d2141
+    sha256sum: 22e032723238b309567bddbfca0aedcfd1886439192f80716939aed2760d47d7
     size: 2709131480
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sports-fr.zip
