@@ -500,13 +500,13 @@ all:
     langid: "wiktionary.ar"
     type: zim
   wikiversity.ar:
-    version: "2019-05-01"
-    size: 5259936
-    url: "http://download.kiwix.org/zim/wikiversity/wikiversity_ar_all_nopic_2019-05.zim"
+    version: "2019-07-25"
+    size: 13483694
+    url: "http://download.kiwix.org/zim/wikiversity/wikiversity_ar_all_novid_2019-07.zim"
     name: "ويكي الجامعة"
     language: "ara"
     description: "من ويكي الجامعة,مركز التعليم الحر"
-    sha256sum: "4638dd15b6172b49dd4076df4d0700c057a9e1aa01329afdde0e5a394537423c"
+    sha256sum: "1249d5a3954467f68f62fe45bb122b791916c627ef4c3ed5d7b59a8a928aa95d"
     langid: "wikiversity.ar"
     type: zim
   wikipedia.es:
