@@ -5799,16 +5799,6 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/space-science-ar.zip
     version: '2018-11-29'
-  sport-football-fr:
-    description: "Vous souhaitez vous perfectionner en football ? D\xE9couvrir un\
-      \ nouveau sens au mot \"sport\" ? C'est ici !"
-    language: fr
-    name: Sports
-    sha256sum: 6d6f9c585b66111e4cbf7b27590d36fa9427358c4b786cd0ebdf3f97e45d2141
-    size: 2709131480
-    type: zipped-medias
-    url: http://packages.ideascube.org/omeka/sports-fr.zip
-    version: '2017-06-08'
   sport-fr:
     description: Vous souhaitez vous perfectionner en football ? Vous initier au yoga
       ou faire un exercice physique quotidien ?  C'est ici !
