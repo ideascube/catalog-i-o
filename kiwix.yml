@@ -100,23 +100,23 @@ all:
     langid: "wiktionary.fr"
     type: zim
   wikiversity.en:
-    version: "2018-06-17"
-    size: 679757876
-    url: "http://download.kiwix.org/zim/wikiversity/wikiversity_en_all_novid_2018-06.zim"
+    version: "2019-07-25"
+    size: 2121264110
+    url: "http://download.kiwix.org/zim/wikiversity/wikiversity_en_all_novid_2019-07.zim"
     name: Wikiversity
     language: "eng"
     description: Tutorials and courses for the fostering of learning.
-    sha256sum: "a9a569f03cae32242a970487489b236419850cd5f2636739eac1e5c02e6f3930"
+    sha256sum: "93117eeb4bbe27b93e77b9985a31d7293d242a366f6999770403d59634b2c422"
     langid: "wikiversity.en"
     type: zim
   wikiversity.fr:
-    version: "2018-06-18"
-    size: 388012586
-    url: "http://download.kiwix.org/zim/wikiversity/wikiversity_fr_all_novid_2018-06.zim"
+    version: "2019-07-25"
+    size: 466776348
+    url: "http://download.kiwix.org/zim/wikiversity/wikiversity_fr_all_novid_2019-07.zim"
     name: Wikiversité
     language: "fra"
     description: "Une page de Wikiversité."
-    sha256sum: "8c78e9ecd5e179bc7211065bd231807b7a185a4e3a60b6cb6e985604641208c8"
+    sha256sum: "01c795727b1028f7f8ec71cd03f245006b9ed538de64f767e437590b404572fc"
     langid: "wikiversity.fr"
     type: zim
   wikibooks.en:
@@ -500,13 +500,13 @@ all:
     langid: "wiktionary.ar"
     type: zim
   wikiversity.ar:
-    version: "2019-05-01"
-    size: 5259936
-    url: "http://download.kiwix.org/zim/wikiversity/wikiversity_ar_all_nopic_2019-05.zim"
+    version: "2019-07-25"
+    size: 13483694
+    url: "http://download.kiwix.org/zim/wikiversity/wikiversity_ar_all_novid_2019-07.zim"
     name: "ويكي الجامعة"
     language: "ara"
     description: "من ويكي الجامعة,مركز التعليم الحر"
-    sha256sum: "4638dd15b6172b49dd4076df4d0700c057a9e1aa01329afdde0e5a394537423c"
+    sha256sum: "1249d5a3954467f68f62fe45bb122b791916c627ef4c3ed5d7b59a8a928aa95d"
     langid: "wikiversity.ar"
     type: zim
   wikipedia.es:
