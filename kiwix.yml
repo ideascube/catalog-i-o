@@ -968,3 +968,12 @@ all:
     size: 1182986436
     sha256sum: "8889e98b160b25f2ce48fbc1317dfc44888f54e46c55934a806f2d503311ddd4"
     type: zim
+  wikipedia-medicine.en:
+    name: "Medical Wikipedia"
+    description: "Medical Wikipedia"
+    version: "2018-10-09"
+    language: "eng"
+    url: "https://download.kiwix.org/zim/wikipedia/wikipedia_en_medicine_novid_2018-10.zim"
+    size: 1225768642
+    sha256sum: "39a759257915289df1fc59bad82550a89de2f4cdf933cde9967bda263e031c9e"
+    type: zim
