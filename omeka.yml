@@ -853,6 +853,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/community-harmony-bangla-bn.zip
     version: '2019-05-03'
+  community-harmony-burmese-mm:
+    description: '-'
+    language: mm
+    name: Community harmony (Burmese)
+    sha256sum: 080b8071ff0f6807644ab9afb7571caedaafb68aa162aef8d7e5f522ef599bc7
+    size: 9850348
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/community-harmony-burmese-mm.zip
+    version: '2019-07-22'
   community-harmony-english-en:
     description: Know each other and take time to share funny moment together
     language: en
@@ -1451,11 +1460,11 @@ all:
     description: neighbouring cultures
     language: ctg
     name: Cultural blender (asia)
-    sha256sum: a4ad5a6c33ec4d4adb62bda00c2427c69464f1164695da96a2fe42e03e5c5401
-    size: 356248860
+    sha256sum: ec5350da5f1040f2d3d1a973cec0ddc4bcbc3d0ca5be5cfde92f62c21ba73eb0
+    size: 3135754614
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultural-blender-asia-ctg.zip
-    version: '2018-12-19'
+    version: '2019-07-22'
   cultural-blender-bangla-bn:
     description: Growing our culture
     language: bn
@@ -1469,11 +1478,11 @@ all:
     description: Growing our culture
     language: mm
     name: Cultural blender (Burmese)
-    sha256sum: bcd950a26154a212fbba1250b6e92421eeb73ab0b85002fabbf5a1dfb599e79f
-    size: 86341426
+    sha256sum: 1f0b667c5af59e1992b4f5e83fbb453e4a3a7e75a5a21c5c8fba39c38c6b5e20
+    size: 271336530
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultural-blender-burmese-mm.zip
-    version: '2018-12-19'
+    version: '2019-07-22'
   cultural-blender-europe-en:
     description: Ballets tell stories with music and movement. Discover iconic ballet
       dances!
@@ -1783,6 +1792,24 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/dicovering-multi-language-en.zip
     version: '2019-05-03'
+  digital-literacy-burmese-mm:
+    description: '-'
+    language: mm
+    name: Digital literacy (burmese)
+    sha256sum: ff9ce12a6c8b5420a32dfa7d957249f221fe0cb1272f1553f714119f7bd27b26
+    size: 1031562103
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/digital-literacy-burmese-mm.zip
+    version: '2019-07-22'
+  digital-literacy-multilanguage-en:
+    description: '-'
+    language: en
+    name: Digital literacy (multilanguage)
+    sha256sum: e4c77c026cacb658099b593c729f59903d7549b8a5a550954e07dce9e82c033f
+    size: 205490526
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/digital-literacy-multilanguage-en.zip
+    version: '2019-07-19'
   discovering-ballet-en:
     description: Ballets tell stories with music and movement. Discover iconic ballet
       dances!
@@ -1909,11 +1936,20 @@ all:
       to build  things
     language: bn
     name: Do it yourself (Bangla)
-    sha256sum: ea1b5ca819bb0521edbacbad22fb100b4f74f168c018906a7913706cb1365c7f
-    size: 1130036519
+    sha256sum: bf4b2d3b7eb001d57132154d93906e236d7d421917b43aac8f798b7d9fc1efa4
+    size: 1678889663
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/do-it-yourself-bangla-bn.zip
-    version: '2019-05-03'
+    version: '2019-07-19'
+  do-it-yourself-burmese-rhg:
+    description: '-'
+    language: rhg
+    name: Do it yourself (burmese)
+    sha256sum: ee4dc18371c5c6d94bb67485c4020c01e0005f1413a90da591ff16b6c5c0047f
+    size: 947705420
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/do-it-yourself-burmese-rhg.zip
+    version: '2019-07-22'
   do-it-yourself-mulitlanguage-en:
     description: Express your creativity, you will find a lot of video to help yourself
       to build  things
@@ -1934,6 +1970,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/do-it-yourself-multi-languages-en.zip
     version: '2019-05-03'
+  do-it-yourself-multilanguage-en:
+    description: '-'
+    language: en
+    name: Do it yourself (multilanguage)
+    sha256sum: 8db20e015c193d9bb466c5ea8b86fdef1f43d936dd26b6d18cd1a77b5353b6f5
+    size: 2059285575
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/do-it-yourself-multilanguage-en.zip
+    version: '2019-07-22'
   documentaires-handicap-international-fr:
     description: "Conna\xEEtre les actions d'Handicap International"
     language: fr
@@ -2086,6 +2131,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ecology-bangla-bn.zip
     version: '2019-05-03'
+  ecology-burmese-mm:
+    description: '-'
+    language: mm
+    name: Ecology (burmese)
+    sha256sum: 58c70825218709dd78bb00a840d1ccbed4f068e5b118d98aa343c21062e39a5b
+    size: 1429929628
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ecology-burmese-mm.zip
+    version: '2019-07-22'
   ecology-english-en:
     description: Discover nature, animal, landscape and how to protect them.
     language: en
@@ -2567,6 +2621,24 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/experiences-de-femmes-fr.zip
     version: '2018-12-04'
+  exploration-burmese-mm:
+    description: '-'
+    language: mm
+    name: Exploration (burmese)
+    sha256sum: 5ec7fc74d33b4df7a50e045f7196cb3b4311350a494b53df78144cf10fd85d54
+    size: 1702841949
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/exploration-burmese-mm.zip
+    version: '2019-07-22'
+  expression-creatively-burmese-mm:
+    description: Expression and creativity.
+    language: mm
+    name: Expression/Creatively (burmese)
+    sha256sum: 861d17514153f416f66fa702843ce5ed2fc93bf495863bc76d7be1515a63fd0d
+    size: 505577184
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/expression-creatively-burmese-mm.zip
+    version: '2019-07-22'
   fabriquer-des-meubles-avec-des-palettes-sikana-fr:
     description: "D\xE9couvrez comment recycler des palettes en bois pour fabriquer\
       \ des meubles"
@@ -3183,6 +3255,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-promotion-bangla-bn.zip
     version: '2019-05-03'
+  health-promotion-burmese-mm:
+    description: '-'
+    language: mm
+    name: Health Promotion (burmese)
+    sha256sum: 172da4d5d00025dab8473c2611990cd4d075184173d7618723ac391896f7ccb4
+    size: 754802972
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/health-promotion-burmese-mm.zip
+    version: '2019-07-22'
   health-promotion-multilanguage-en:
     description: How to take care of me and my family ?
     language: en
@@ -4157,12 +4238,12 @@ all:
   learn-english-children-bn:
     description: Improve your english through different supports
     language: bn
-    name: Learn english ! (children)
-    sha256sum: 602f42454db6a1c3e51c34306b30cc51a996248df119f7f3aea87a5fe56283df
-    size: 671703671
+    name: Learn english (children)
+    sha256sum: 5bb5e0352d89cb52316faad09c2eb91221dff3184707d80ada4b897558117f67
+    size: 1181210067
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-children-bn.zip
-    version: '2019-05-03'
+    version: '2019-07-19'
   learn-english-teenagers-en:
     description: Learn basics in english language to communicate with others! For
       teens.
@@ -4434,11 +4515,11 @@ all:
     language: ar
     name: "Let's Speak Arabic [\u0644\u0646\u062A\u0643\u0644\u0645 \u0627\u0644\u0639\
       \u0631\u0628\u064A\u0629]"
-    sha256sum: 294f7225c6b40085f8ff8e19bc056897cac6560133a9c4bc794aeb5bdce24517
-    size: 311110987
+    sha256sum: d3423141a0f1feef2a0d85d8b13f2501307905cf8f80ec5b2fc83190cb231b92
+    size: 534353184
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/let-s-speak-arabic-ar.zip
-    version: '2018-11-29'
+    version: '2019-07-19'
   let-s-speak-english-ar:
     description: "\"Learn English with these simple videos; new useful vocab and expressions.\
       \ .// \u062A\u0639\u0644\u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\
@@ -4492,20 +4573,20 @@ all:
     description: Find supports that can help me deal with everydays problems
     language: en
     name: Life saving (Multilanguage)
-    sha256sum: 3fbccd29d5dfaac8a7002e20b0575baa3776a0bdbcdcf97014a2eb2531247312
-    size: 43290548
+    sha256sum: 3b28432dfc6f58a8184bb2ad2f78bd8e21017d50c73fbc436e5e2203d920ec17
+    size: 80946078
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/life-saving-multilanguage-en.zip
-    version: '2019-05-03'
+    version: '2019-07-19'
   life-saving-rohingya-rhg:
     description: Find supports that can help me deal with everyday problems
     language: rhg
     name: Life saving (Rohingya)
-    sha256sum: 16705ea26fefb1d93f17a7f2b9eb88330ec0d34ede429b47becb5cdfc1b66886
-    size: 750981605
+    sha256sum: 7ec07ab0a582f83a331a0b310d55fb89a520fd2ad38adb8086a016072b07b7e7
+    size: 1004251136
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/life-saving-rohingya-rhg.zip
-    version: '2019-05-03'
+    version: '2019-07-22'
   life-skills-bangla-bn:
     description: What is your feeling today? Strengthen your self confidence and take
       time to speak about your emotions
@@ -4516,6 +4597,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/life-skills-bangla-bn.zip
     version: '2019-05-03'
+  life-skills-burmese-mm:
+    description: '-'
+    language: mm
+    name: Life Skills (burmese)
+    sha256sum: 72e19d67deee5d074951ea35b7cf00b1410cb0696763416e14ed14137f73654f
+    size: 1450798636
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/life-skills-burmese-mm.zip
+    version: '2019-07-22'
   life-skills-english-en:
     description: What is your feeling today? Strengthen your self confidence and take
       time to speak about your emotions
@@ -4526,6 +4616,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/life-skills-english-en.zip
     version: '2019-05-03'
+  literacy-burmese-mm:
+    description: '-'
+    language: mm
+    name: Literacy (burmese)
+    sha256sum: f05d219f296cfa0149e4dc6d28a920ea0e3026a8f666ab4298c73294f2ca4475
+    size: 846860916
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/literacy-burmese-mm.zip
+    version: '2019-07-22'
   litterature-francophone-afrique-fr:
     description: "Rencontres avec des \xE9crivains et des artistes africains"
     language: fr
@@ -4655,6 +4754,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/maths-el-el.zip
     version: '2018-09-10'
+  maths-english-en:
+    description: '-'
+    language: en
+    name: Maths (english)
+    sha256sum: 7151e9caf4284e49d61edaf6af40c628f6ff6b189f37ba623de9901843648049
+    size: 360173726
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/maths-english-en.zip
+    version: '2019-07-22'
   mecanique-automobile-enabel-fr:
     description: "Documentation pour se former en m\xE9canique automobile. Des documents\
       \ d\xE9crivant comment d\xE9monter et monter le boitier de direction, le sch\xE9\
@@ -4883,6 +4991,24 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/nature-enfants-ados-fr.zip
     version: '2018-08-27'
+  nature-multi-languages-en:
+    description: Discover nature, animals and landscapes
+    language: en
+    name: Nature (multi languages)
+    sha256sum: eaf485c9c3eb4d474ae8ba2d46089b892112529edfc2c1571c8a2e03bab2e6b6
+    size: 702182727
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/nature-multi-languages-en.zip
+    version: '2019-07-19'
+  nature-rohingya-rhg:
+    description: What's happen?
+    language: rhg
+    name: Nature (Rohingya)
+    sha256sum: 1bc164064e0d7620bdccf452d6a6f96a6b4f58725dd044bcc5b3277103a101b2
+    size: 171315889
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/nature-rohingya-rhg.zip
+    version: '2019-07-22'
   nervous-system-ar:
     description: "Learn about the nervous system and how it functions.// \u062A\u0639\
       \u0644\u0645 \u0639\u0646 \u0627\u0644\u062C\u0647\u0627\u0632 \u0627\u0644\u0639\
@@ -4905,15 +5031,24 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/news-documentary-bangla-bn.zip
     version: '2019-05-03'
+  news-documentary-burmese-mm:
+    description: '-'
+    language: mm
+    name: News/Documentary (burmese)
+    sha256sum: d1452ceb9512bc2ed30216e6100130dbbc55c3aae2d6daea4ddce20a49be1b3b
+    size: 1511893045
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/news-documentary-burmese-mm.zip
+    version: '2019-07-22'
   news-documentary-rohingya-rhg:
     description: What's happen?
     language: rhg
     name: News/ Documentary (Rohingya)
-    sha256sum: 5bdef137df7d598fea5cbac299d9548864516fe954aa35e7cbd33a80f89c8eec
-    size: 643594705
+    sha256sum: bf009a0d9a97fedb6811a4f29c0189b2e2e9f45789c5c33925581b2ce51bf105
+    size: 658158711
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/news-documentary-rohingya-rhg.zip
-    version: '2019-05-03'
+    version: '2019-07-22'
   news-rohingya-rhg:
     description: What's happen?
     language: rhg
@@ -5272,6 +5407,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/protection-bangla-bn.zip
     version: '2019-05-03'
+  protection-burmese-mm:
+    description: '-'
+    language: mm
+    name: Protection (burmese)
+    sha256sum: 7c4832aec4d5aed4dc886010ed171a321923d1b7515b9f2f3ab94a7fe3655419
+    size: 652746768
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/protection-burmese-mm.zip
+    version: '2019-07-22'
   protection-multilanguage-en:
     description: Everyone has the right to be protected
     language: en
@@ -5525,6 +5669,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sante-les-bases-fr.zip
     version: '2018-05-15'
+  science-burmese-mm:
+    description: '-'
+    language: mm
+    name: Science (burmese)
+    sha256sum: f0f8a873239023eb129041c8157573131443e1f07dc29ecc704d157cbcd3e360
+    size: 215383113
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/science-burmese-mm.zip
+    version: '2019-07-22'
   science-multilanguage-en:
     description: Come to explore science topics, make science experiences and discover
       the sky
@@ -5673,11 +5826,11 @@ all:
       \ fondamentaux de la pr\xE9vention des \xE9pid\xE9mies."
     language: fr
     name: "Sensibilisation \xE0 la gestion des \xE9pid\xE9mies"
-    sha256sum: 06382c1a80b48601aaf4625304b71de57e75fbc1bdc2d05d2dc95e5b6db9ca2a
-    size: 368419067
+    sha256sum: 16ca61146862eb1f39a50a0b67317110bdb0d7ab110ce5da594d2ec503141153
+    size: 391216429
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sensibilisation-a-la-gestion-des-epidemies-fr.zip
-    version: '2017-07-05'
+    version: '2019-07-12'
   sexualite-fr:
     description: "La sexualit\xE9, il faut en parler pour \xEAtre en toute s\xE9curit\xE9\
       . Vous trouverez ici les informations n\xE9cessaires."
@@ -5873,15 +6026,24 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/tales-for-kids-ar.zip
     version: '2018-02-23'
+  technical-support-burmese-mm:
+    description: '-'
+    language: mm
+    name: Technical support (burmese)
+    sha256sum: 6679b77d699a934dd31d9e38ca13fdb153c472e4899e1a965029489e5866ee66
+    size: 44157010
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/technical-support-burmese-mm.zip
+    version: '2019-07-22'
   technical-support-multilanguage-rhg:
     description: '-'
     language: rhg
     name: Technical support (multilanguage)
-    sha256sum: e808a9c28684f6ac6e035764d9b96c9cfdf362f18bb13d44ee1de07eab72be4d
-    size: 70468880
+    sha256sum: f8799200cf9bbd8239afd69e6241f2ee7a1a4c2fc028abaa10ccae4d83e25f89
+    size: 77074056
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/technical-support-multilanguage-rhg.zip
-    version: '2019-05-03'
+    version: '2019-07-19'
   technology-and-sciences-el-el:
     description: "\u03A0\u03B1\u03C1\u03B1\u03C4\u03B7\u03C1\u03CE \u03BA\u03B1\u03B9\
       \ \u03BC\u03B1\u03B8\u03B1\u03AF\u03BD\u03C9 \u03B3\u03B9\u03B1 \u03C4\u03B7\
@@ -6107,6 +6269,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/wash-promotion-bangla-en.zip
     version: '2018-12-19'
+  wash-promotion-burmese-mm:
+    description: '-'
+    language: mm
+    name: Wash Promotion (burmese)
+    sha256sum: 6f64832ab32d2cd7b49666e8c12bbb406147d416d3e8a93b31878a917883c48f
+    size: 1607573700
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/wash-promotion-burmese-mm.zip
+    version: '2019-07-22'
   wash-promotion-english-en:
     description: Learn to connect health with environment. Strengthen your knowledges
       on water and sanitation topic.
@@ -6122,20 +6293,20 @@ all:
       on water and sanitation topic.
     language: hi
     name: Wash promotion (multilanguages)
-    sha256sum: aef9e355f5e60b4b8d7965090d6e8655607610e54fa3d7316a0b46f426611e9c
-    size: 28328878
+    sha256sum: 4340090be7790b1c9c6a1e29c4198adacfa29310df7035b54a8f9cc339b7dc87
+    size: 57014039
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/wash-promotion-multilanguages-hi.zip
-    version: '2019-05-03'
+    version: '2019-07-19'
   wash-promotion-rohingya-rhg:
     description: Learn how connect health with environment
     language: rhg
-    name: Wash promotion (Rohingya)
-    sha256sum: 4a4944491c05ecf9f37d098fe99e56502d5d74ce1f62b14c92629ed8b4930b12
-    size: 245456237
+    name: WASH promotion (Rohingya)
+    sha256sum: 24f2334e74f230ae9f404d4d3a72ffe4c39278c436eb711800f8feb88a4be277
+    size: 245456321
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/wash-promotion-rohingya-rhg.zip
-    version: '2019-05-03'
+    version: '2019-07-22'
   wash-rohingya-rhg:
     description: Learn to connect health with environment. Strengthen your knowledges
       on water and sanitation topic
