@@ -100,13 +100,13 @@ all:
     langid: "wiktionary.fr"
     type: zim
   wikiversity.en:
-    version: "2018-06-17"
-    size: 679757876
-    url: "http://download.kiwix.org/zim/wikiversity/wikiversity_en_all_novid_2018-06.zim"
+    version: "2019-07-25"
+    size: 2121264110
+    url: "http://download.kiwix.org/zim/wikiversity/wikiversity_en_all_novid_2019-07.zim"
     name: Wikiversity
     language: "eng"
     description: Tutorials and courses for the fostering of learning.
-    sha256sum: "a9a569f03cae32242a970487489b236419850cd5f2636739eac1e5c02e6f3930"
+    sha256sum: "93117eeb4bbe27b93e77b9985a31d7293d242a366f6999770403d59634b2c422"
     langid: "wikiversity.en"
     type: zim
   wikiversity.fr:
