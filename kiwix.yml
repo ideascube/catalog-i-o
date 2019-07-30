@@ -110,13 +110,13 @@ all:
     langid: "wikiversity.en"
     type: zim
   wikiversity.fr:
-    version: "2018-06-18"
-    size: 388012586
-    url: "http://download.kiwix.org/zim/wikiversity/wikiversity_fr_all_novid_2018-06.zim"
+    version: "2019-07-25"
+    size: 466776348
+    url: "http://download.kiwix.org/zim/wikiversity/wikiversity_fr_all_novid_2019-07.zim"
     name: Wikiversité
     language: "fra"
     description: "Une page de Wikiversité."
-    sha256sum: "8c78e9ecd5e179bc7211065bd231807b7a185a4e3a60b6cb6e985604641208c8"
+    sha256sum: "01c795727b1028f7f8ec71cd03f245006b9ed538de64f767e437590b404572fc"
     langid: "wikiversity.fr"
     type: zim
   wikibooks.en:
