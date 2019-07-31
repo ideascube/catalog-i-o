@@ -2022,11 +2022,11 @@ all:
       \ d\xE9fendre."
     language: fr
     name: Droits de l'enfant
-    sha256sum: 3c0bb6f694feada576415e73abe2f3ec90cb758d2fb0ccd60187942a79dbf806
-    size: 109557859
+    sha256sum: e4311c3e606dc22d3558115e0f74564154dd5d2501cc6a1094e68503574f30e8
+    size: 110267191
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/droits-de-l-enfant-fr.zip
-    version: '2018-01-18'
+    version: '2019-07-31'
   droits-et-demarches-administratives-fr:
     description: "Retrouvez ici quelques guides pour vous aider \xE0 vous rep\xE9\
       rer dans le labyrinthe des d\xE9marches administratives. Pour d\xE9fendre ses\
