@@ -3184,11 +3184,11 @@ all:
       shapes and forms.
     language: en
     name: Handcraft - origami
-    sha256sum: 4c81f7067780ce7636ba87c22a741cdc3667aca6167d4f25309593fddc34155a
+    sha256sum: 77f0fd25a72ec92862f545238041d6150adebb8fdcb236a0282c92f3185d4598
     size: 355048925
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/handcraft-origami-en.zip
-    version: '2019-07-08'
+    version: '2019-08-14'
   harcelement-ado-fr:
     description: "Des contenus autour du harc\xE8lement, pour l'identifier, ne pas\
       \ sentir isol\xE9.e, et savoir r\xE9agir et vers qui se tourner"
@@ -3378,6 +3378,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/how-do-i-control-my-weight-en.zip
     version: '2018-09-10'
+  how-do-i-find-an-honest-and-licensed-lawyer-en:
+    description: Click here to learn more about the difference between notarios and
+      lawyers and how you can find a licensed lawyer.
+    language: en
+    name: How do I find an honest and licensed lawyer?
+    sha256sum: 845caac3c95c27042c98a9d7bddf1e03ce7f40bb514d6a0d77f2d1f78de391ae
+    size: 14496112
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/how-do-i-find-an-honest-and-licensed-lawyer-en.zip
+    version: '2019-08-14'
   how-do-i-stay-healthy-with-diabetes-en:
     description: If you or a loved one have diabetes and are curious about how to
       stay healthy, click here
@@ -4995,11 +5005,11 @@ all:
     description: Discover nature, animals and landscapes
     language: en
     name: Nature (multi languages)
-    sha256sum: eaf485c9c3eb4d474ae8ba2d46089b892112529edfc2c1571c8a2e03bab2e6b6
-    size: 702182727
+    sha256sum: 5e75ce4e563d6b5ab9acb7e08c049e40e9babd8789d4b8affdd51ae0466c4dd4
+    size: 637057945
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/nature-multi-languages-en.zip
-    version: '2019-07-19'
+    version: '2019-08-14'
   nature-rohingya-rhg:
     description: What's happen?
     language: rhg
