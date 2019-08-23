@@ -4556,11 +4556,11 @@ all:
     description: Learn more about menstruations and sexuality
     language: en
     name: Let's talk about sexuality
-    sha256sum: 173cc9a0888a3f2ac1afa0759a35fb3825c159498ae4d4a0dc588f16735900d6
-    size: 230084794
+    sha256sum: 5fbb97df5812d3cd52894a6b7211fd95b1720f20378a2b881c32737eb0348cfb
+    size: 230922714
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/let-s-talk-about-sexuality-en-en.zip
-    version: '2019-07-02'
+    version: '2019-08-23'
   let-s-talk-about-sexuality-fa:
     description: Talk about sexuality in farsi language.
     language: fa
