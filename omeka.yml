@@ -1,4 +1,25 @@
 all:
+  administration-gestion-comptabilite-fr:
+    description: "Vous souhaitez monter une entreprise mais vous manquez de connaissances\
+      \ sur les d\xE9marches administratives, la gestion et la comptabilit\xE9. Vous\
+      \ trouverez ici de quoi lancer sereinement son entreprise."
+    language: fr
+    name: "Administration, gestion, comptabilit\xE9"
+    sha256sum: 8e181adb248533e9c6d248cfa7910b7edff7e470def52e3b5b97cd4d7b42864a
+    size: 85586269
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/administration-gestion-comptabilite-fr.zip
+    version: '2019-09-04'
+  alcool-drogues-fr:
+    description: "Identifier les effets de l'alcool, des drogues et pr\xE9venir les\
+      \ risques."
+    language: fr
+    name: Quels risques avec l'alcool et les drogues ?
+    sha256sum: 5d9c7657fde07b15d34b61dfdd920f8817d1480e4c32d7dbdf5d21a2d4d3a103
+    size: 60022018
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/alcool-drogues-fr.zip
+    version: '2019-09-04'
   all:
     1-timilai-school-jana-man-pardaina-ra-en:
       description: This video is an interview with the Batase Village resident Phulmaya
@@ -6504,6 +6525,18 @@ all:
       type: zipped-medias
       url: http://packages.ideascube.org/omeka/young-and-old-multilanguage-en.zip
       version: '2018-12-19'
+  apprendre-a-cuisiner-sikana-fr:
+    description: "Nous consommons de plus en plus de plats pr\xE9par\xE9s individuels.\
+      \ Partager un repas fait maison est un pur moment de plaisir. D\xE9couvrez dans\
+      \ ce programme les bases d\u2019une cuisine saine pour tous avec des recettes\
+      \ d\xE9licieuses et vari\xE9es."
+    language: fr
+    name: "Apprendre \xE0 cuisiner"
+    sha256sum: 7f01e9c62e0ef91c114d727960bf81fe00ad441d9c47a824bb28549278ccf9f0
+    size: 1574140249
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprendre-a-cuisiner-sikana-fr.zip
+    version: '2019-09-04'
   arts-afrique-fr:
     description: Les arts plastiques, la danse... Les formes d'arts ne manquent pas,
       et font partie de la richesse d'un pays et d'une culture !
@@ -6513,6 +6546,16 @@ all:
     size: 5720568507
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arts-afrique-fr.zip
+    version: '2019-09-04'
+  arts-plastiques-fr:
+    description: "D\xE9tendez-vous, exprimez-vous, cr\xE9ez ! Il y a un artiste en\
+      \ chacun de nous, \xE0 vous de le r\xE9v\xE9ler..."
+    language: fr
+    name: "Cr\xE9ez des oeuvres plastiques"
+    sha256sum: b6dd5dd744cb25aa83a130b403fc243efc8b90abf9eccdb6af6cfeef28dc0f75
+    size: 1058089207
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/arts-plastiques-fr.zip
     version: '2019-09-04'
   combattons-les-discriminations-fr:
     description: "Genre, couleur de peau, handicap, religion... La discrimination\
@@ -6564,6 +6607,48 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creation-audio-fr.zip
     version: '2019-09-04'
+  creation-d-association-fr:
+    description: "Quelques \xE9lements-cl\xE9s pour comprendre et cr\xE9er une association,\
+      \ en France ou au Burundi !"
+    language: fr
+    name: "Cr\xE9ation d'association"
+    sha256sum: 1dab112b61ae0ff1ccf7f0b373da35894113574117d7b93d9646b92db20f45fc
+    size: 160969203
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/creation-d-association-fr.zip
+    version: '2019-09-04'
+  cuisine-et-nutrition-enfants-fr:
+    description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
+    language: fr
+    name: Je mange bien
+    sha256sum: 6c28eda4aad848f77b9738953520c811704ccf933f1c0c241f326953d3e16ef9
+    size: 297250721
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cuisine-et-nutrition-enfants-fr.zip
+    version: '2019-09-04'
+  decouvrez-ou-re-decouvrez-la-cuisine-de-differents-pays-fr:
+    description: Qu'est-ce qu'on mange aujourd'hui ?
+    language: fr
+    name: "D\xE9couvrez ou re-d\xE9couvrez la cuisine de diff\xE9rents pays"
+    sha256sum: a9b89e47848388d398369c22ec089c16221542208c1a953bd0c18e1970c7b26f
+    size: 2663470770
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/decouvrez-ou-re-decouvrez-la-cuisine-de-differents-pays-fr.zip
+    version: '2019-09-04'
+  denis-mukwege-fr:
+    description: "Denis Mukwege, n\xE9 le 1er mars 1955 \xE0 Bukavu dans le Kivu au\
+      \ Congo belge, est un gyn\xE9cologue et militant des droits de l'homme congolais.\r\
+      \n\r\nSurnomm\xE9 \xAB l'homme qui r\xE9pare les femmes \xBB, il a re\xE7u de\
+      \ nombreuses distinctions pour son engagement contre les mutilations g\xE9nitales\
+      \ pratiqu\xE9es sur les femmes en r\xE9publique d\xE9mocratique du Congo, dont\
+      \ le prix Sakharov en 2014 et le prix Nobel de la paix en 2018."
+    language: fr
+    name: Denis Mukwege
+    sha256sum: bae5b4a69e489e5d47fb2b4d021201a1145a4fc666b5938a21fbcec9121626cb
+    size: 1217754227
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/denis-mukwege-fr.zip
+    version: '2019-09-04'
   discriminations-enfants-ados-fr:
     description: "On est tous diff\xE9rents, mais tous des \xEAtres humains ! Pour\
       \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
@@ -6594,6 +6679,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/droits-de-l-enfant-fr.zip
     version: '2019-09-04'
+  economie-fr:
+    description: "Des vid\xE9os ludiques pour comprendre les grands concepts \xE9\
+      conomiques : march\xE9, actions, obligations, dividendes ... etc."
+    language: fr
+    name: Economie
+    sha256sum: c3f1a6bd20ded6525ced8fc62e26e55c09b70ce806854950aa11fc66fc173ac4
+    size: 989222336
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/economie-fr.zip
+    version: '2019-09-04'
   ecoute-tes-emotions-enfants-ados-fr:
     description: "Respire, \xE9coute tes \xE9motions, es-tu en col\xE8re, joyeux,\
       \ triste ? Tu te sentiras mieux avec toi-m\xEAme et avec les autres !"
@@ -6615,6 +6710,35 @@ all:
     size: 714122254
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/experiences-de-femmes-fr.zip
+    version: '2019-09-04'
+  geopolitique-afrique-fr:
+    description: "Les enjeux g\xE9opolitiques de l'Afrique"
+    language: fr
+    name: "G\xE9opolitique"
+    sha256sum: 536366e24256e20ebc34919338bc4dbe0e99171dc9a503b1f51dfa6dd552de2b
+    size: 848354301
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/geopolitique-afrique-fr.zip
+    version: '2019-09-04'
+  histoire-afrique-fr:
+    description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
+      \ les \xE9v\xE8nements du pr\xE9sent."
+    language: fr
+    name: Fondamentaux de l'Histoire de l'Afrique
+    sha256sum: e10b62d5ba5ddb87d22256b65b5e6b12da79cdf75f167cfa3374e175966e2d6e
+    size: 5578242601
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-afrique-fr.zip
+    version: '2019-09-04'
+  histoire-de-la-republique-democratique-du-congo-fr:
+    description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
+      \ les \xE9v\xE8nements du pr\xE9sent"
+    language: fr
+    name: "R\xE9publique d\xE9mocratique du Congo, Histoire"
+    sha256sum: f21859d842a68174623cc752860a252895a4f4e5b5aed7e7f920e00e641ffcad
+    size: 546252859
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-de-la-republique-democratique-du-congo-fr.zip
     version: '2019-09-04'
   hygiene-de-base-fr:
     description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
@@ -6646,6 +6770,17 @@ all:
     size: 516131016
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-photographie-fr.zip
+    version: '2019-09-04'
+  innovation-en-afrique-fr:
+    description: "Vous trouverez ici du contenu sur des m\xE9thodes innovantes et\
+      \ des pr\xE9sentations d'innovations sp\xE9cifiques au contexte \xE9conomique\
+      \ et environnemental africain."
+    language: fr
+    name: Innovation en Afrique
+    sha256sum: 7725163926225409cd91755abeab0279b7dadd1aaf39d885ecd483e315a3b13b
+    size: 310353024
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/innovation-en-afrique-fr.zip
     version: '2019-09-04'
   introduction-aux-droits-de-l-homme-fr:
     description: "Les m\xE9canismes de mise en \u0153uvre des droits de l'homme\r\n\
@@ -6733,6 +6868,21 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/microbiologie-et-prevention-sante-fr.zip
     version: '2019-09-04'
+  monter-un-laboratoire-d-innovation-publique-fr:
+    description: "L\u2019action publique se r\xE9invente. Pour sortir des m\xE9thodes\
+      \ classiques et des conceptions \xAB top down \xBB, de nouvelles approches se\
+      \ d\xE9veloppent. Regroup\xE9es sous le vocable \xAB innovation publique \xBB\
+      , ces approches placent la cr\xE9ativit\xE9 et la prise en compte de l\u2019\
+      usager au c\u0153ur de leurs logiques d\u2019action. Elles invitent \xE0 repenser\
+      \ le rapport des administrations au terrain et la conception des politiques\
+      \ publiques."
+    language: fr
+    name: Monter un laboratoire d'innovation publique
+    sha256sum: 8d9ae622416b89edc8666f23c31416c3ec1902c2340f4943291e3eb25d96c058
+    size: 226208064
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/monter-un-laboratoire-d-innovation-publique-fr.zip
+    version: '2019-09-04'
   nutrition-fr:
     description: "Qu'est ce que \xE7a veut dire \"bien manger\" ? Comment am\xE9liorer\
       \ ses r\xE9flexes d'alimentation pour se sentir mieux et prendre soin de sa\
@@ -6743,6 +6893,26 @@ all:
     size: 351070090
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/nutrition-fr.zip
+    version: '2019-09-04'
+  prevention-addictions-fr:
+    description: Mieux comprendre les effets de l'alcool sur nos comportements, et
+      leurs origines.
+    language: fr
+    name: "Pr\xE9vention addictions"
+    sha256sum: 76c4f143ddbb6c398de1befcb7ce14107ce69f768322f86f00ca427e3b58e8ed
+    size: 21592698
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/prevention-addictions-fr.zip
+    version: '2019-09-04'
+  prevention-et-sexualite-fr:
+    description: "La sexualit\xE9, il faut en parler pour \xEAtre en toute s\xE9curit\xE9\
+      . Vous trouverez ici les informations n\xE9cessaires."
+    language: fr
+    name: "Pr\xE9vention et sexualit\xE9"
+    sha256sum: 862f3277dc12716a7a03d348683bb10ce35a7d97f1333e8dbc0f292d092fa4c9
+    size: 449463956
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/prevention-et-sexualite-fr.zip
     version: '2019-09-04'
   sante-les-bases-fr:
     description: "Un petit kit pour avoir les bons r\xE9flexes de premiers secours\
