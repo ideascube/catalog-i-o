@@ -490,11 +490,11 @@ all:
       et font partie de la richesse d'un pays et d'une culture !
     language: fr
     name: Arts
-    sha256sum: 7a3232688028415e687c43367ff12a9ae209e17303024eb6b4b8221c26000d2b
-    size: 5486505061
+    sha256sum: cacd18ec01963cb3f0d7c372c468e4da24f86a13ea735742658bd9910479472f
+    size: 5720568507
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arts-afrique-fr.zip
-    version: '2018-12-04'
+    version: '2019-09-04'
   arts-plastiques-fr:
     description: "D\xE9tendez-vous, exprimez-vous, cr\xE9ez ! Il y a un artiste en\
       \ chacun de nous, \xE0 vous de le r\xE9v\xE9ler..."
