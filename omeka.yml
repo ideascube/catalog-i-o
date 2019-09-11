@@ -20,6 +20,21 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/alcool-drogues-fr.zip
     version: '2019-09-04'
+  animals-documentaries-ar:
+    description: "A collection of documentaries about different animals and their\
+      \ different habitats.// \u0645\u062C\u0645\u0648\u0639\u0629 \u0623\u0641\u0644\
+      \u0627\u0645 \u0648\u062B\u0627\u0626\u0642\u064A\u0629 \u0639\u0646 \u062D\u064A\
+      \u0648\u0627\u0646\u0627\u062A \u0645\u062E\u062A\u0644\u0641\u0629 \u0648\u062A\
+      \u0643\u064A\u0641\u0627\u062A\u0647\u0627."
+    language: ar
+    name: "Animals Documentaries [\u0623\u0641\u0644\u0627\u0645 \u0648\u062B\u0627\
+      \u0626\u0642\u064A\u0629 \u0639\u0646 \u0627\u0644\u062D\u064A\u0648\u0627\u0646\
+      \u0627\u062A]"
+    sha256sum: f2f54d2fc33407778e0ef40f8e92997978725527c0c29de054e385e64798b7b7
+    size: 4643209030
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/animals-documentaries-ar.zip
+    version: '2019-09-11'
   apprendre-a-cuisiner-sikana-fr:
     description: "Nous consommons de plus en plus de plats pr\xE9par\xE9s individuels.\
       \ Partager un repas fait maison est un pur moment de plaisir. D\xE9couvrez dans\
@@ -43,6 +58,108 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-a-utiliser-des-patrons-fr.zip
     version: '2019-09-10'
+  apprends-le-francais-a1-enfants-adolescents-fr:
+    description: "Pars \xE0 la d\xE9couverte de la langue fran\xE7aise, en images\
+      \ !"
+    language: fr
+    name: "Apprends le fran\xE7ais ! A1"
+    sha256sum: a861ed1f56a99992be12b43dfbaabe399ece7e8776ed38e4f6720c1bcc521efc
+    size: 13535614
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprends-le-francais-a1-enfants-adolescents-fr.zip
+    version: '2019-09-11'
+  apprends-le-francais-a2-enfants-adolescents-fr:
+    description: "Pour apprendre \xE0 faire des phrases en fran\xE7ais."
+    language: fr
+    name: "Apprends le fran\xE7ais ! A2"
+    sha256sum: aa52163ade7c00c34331e0d5ac088b2bbd14d6965ffeb37f40d4e9ab81499c0f
+    size: 158638602
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprends-le-francais-a2-enfants-adolescents-fr.zip
+    version: '2019-09-11'
+  apprenez-le-francais-alphabetisation-fr:
+    description: .
+    language: fr
+    name: "Apprenez le fran\xE7ais - Alphab\xE9tisation"
+    sha256sum: 98c8f34b9dfdcce28bcbaf376939675aaf958308c52f256855a6622e978c45aa
+    size: 45759490
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprenez-le-francais-alphabetisation-fr.zip
+    version: '2019-09-11'
+  apprenez-le-francais-fos-fr:
+    description: .
+    language: fr
+    name: "Apprenez le fran\xE7ais FOS"
+    sha256sum: f4d9465b6bb196c61d54ccfc8e19de71d94f5f620b7e622936a37744dccf1466
+    size: 54597935
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprenez-le-francais-fos-fr.zip
+    version: '2019-09-11'
+  apprenez-le-francais-fr:
+    description: "Quelques bases pour progresser en fran\xE7ais."
+    language: fr
+    name: "Apprenez le fran\xE7ais"
+    sha256sum: 1e6f9a9594ee83aa7376492017b35535a8d1f5bc051fcbae3e750f78bdac4909
+    size: 719326104
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprenez-le-francais-fr.zip
+    version: '2019-09-11'
+  apprenez-le-francais-niveau-a1-fr:
+    description: "Le niveau A1 en fran\xE7ais, c'est \xEAtre capable de comprendre\
+      \ et d'utiliser des expressions famili\xE8res et quotidiennes, ainsi que des\
+      \ \xE9nonc\xE9s tr\xE8s simples !"
+    language: fr
+    name: "Apprenez le fran\xE7ais - Niveau A1"
+    sha256sum: d366cf9e7275a341b6e8308d2b7de6703c289e983b9558d82a1f9eaac7b7577b
+    size: 574999207
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-a1-fr.zip
+    version: '2019-09-11'
+  apprenez-le-francais-niveau-a2-fr:
+    description: "Le niveau A2 en fran\xE7ais, c'est pouvoir comprendre des phrases\
+      \ isol\xE9es et des expressions fr\xE9quemment utilis\xE9es (informations personnelles\
+      \ ou familiales, achats, environnement proche, travail)."
+    language: fr
+    name: "Apprenez le fran\xE7ais - Niveau A2"
+    sha256sum: 11dc66b4169d7f9b45a6a474c1246b578bc9d32096e8b3cf8acffd391a6f8a90
+    size: 267188969
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-a2-fr.zip
+    version: '2019-09-11'
+  apprenez-le-francais-niveau-b1-fr:
+    description: "Le niveau B1 en fran\xE7ais, c'est pouvoir comprendre les points\
+      \ essentiels quand un langage clair et standard est utilis\xE9 et s\u2019il\
+      \ s\u2019agit de choses famili\xE8res dans le travail, \xE0 l\u2019\xE9cole,\
+      \ les loisirs, etc."
+    language: fr
+    name: "Apprenez le fran\xE7ais - Niveau B1"
+    sha256sum: 07c495c03228dae0498244d54f545a454bb3474539592264b20073571952c7dc
+    size: 156935989
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-b1-fr.zip
+    version: '2019-09-11'
+  apprenez-le-francais-niveau-b2-fr:
+    description: "Le niveau B2 en fran\xE7ais, c'est pouvoir comprendre  le contenu\
+      \ essentiel des sujets concrets ou abstraits dans un texte complexe, y compris\
+      \ une discussion technique dans sa sp\xE9cialit\xE9."
+    language: fr
+    name: "Apprenez le fran\xE7ais - Niveau B2"
+    sha256sum: ba8623c030c03a25a252fdee9b050bc3bd5801de6f8812a8c45c56ad05b564f6
+    size: 230366266
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-b2-fr.zip
+    version: '2019-09-11'
+  arriver-en-france-et-connaitre-ses-droits-fr:
+    description: "Vous trouverez ici des informations pour vous accompagner dans vos\
+      \ d\xE9marches administratives: demandes d'asile, acc\xE8s aux soins, regroupement\
+      \ familial...etc."
+    language: fr
+    name: "Arriver en France et conna\xEEtre ses droits"
+    sha256sum: 11447e8d4f7c44a39901cac9a0bd1f1a7f0a825fb1e20548a68de526124d83aa
+    size: 775899675
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/arriver-en-france-et-connaitre-ses-droits-fr.zip
+    version: '2019-09-11'
   arts-afrique-fr:
     description: Les arts plastiques, la danse... Les formes d'arts ne manquent pas,
       et font partie de la richesse d'un pays et d'une culture !
@@ -63,6 +180,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arts-plastiques-fr.zip
     version: '2019-09-04'
+  cartoons-en:
+    description: Have fun with these cartoons featuring well-known characters!
+    language: en
+    name: Cartoons
+    sha256sum: fd71620ebe61e0992e3972cf3406eb63c61aed80859eceee24fae344efbf4894
+    size: 642732558
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cartoons-en.zip
+    version: '2019-09-11'
   combattons-les-discriminations-fr:
     description: "Genre, couleur de peau, handicap, religion... La discrimination\
       \ trouve tous les pr\xE9textes. D\xE9tectons-les, et combattons-les. (Adultes)"
@@ -102,6 +228,40 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comprendre-l-autisme-fr.zip
     version: '2019-09-04'
+  computer-and-it-ar:
+    description: "Learn about the different parts of the computer and more. // \u062A\
+      \u0639\u0644\u0645 \u0639\u0646 \u0623\u062C\u0632\u0627\u0621 \u0627\u0644\u0643\
+      \u0645\u0628\u064A\u0648\u062A\u0631 \u0627\u0644\u0645\u062E\u062A\u0644\u0641\
+      \u0629 \u0648\u0623\u0643\u062B\u0631"
+    language: ar
+    name: "Computer and IT [\u0643\u0645\u0628\u064A\u0648\u062A\u0631 \u0648\u062A\
+      \u0643\u0646\u0648\u0644\u0648\u062C\u064A\u0627]"
+    sha256sum: d10b5c4c07e68f13509fdfc2d0a07c5af6ba1ead7ddc3c5c811336d28dbc1d40
+    size: 67504104
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/computer-and-it-ar.zip
+    version: '2019-09-11'
+  connaitre-la-france-et-paris-fr:
+    description: "Comment fait-on la bise ? Pourquoi repr\xE9sente-t-on les fran\xE7\
+      ais avec une baguette de pain ? Ou encore : d'ou viennent les partis politiques\
+      \ ? Vous trouverez ici le contenu pour comprendre la France et ses traditions\
+      \ mais aussi des informations pratiques pour se d\xE9placer dans Paris."
+    language: fr
+    name: "Conna\xEEtre la France et Paris"
+    sha256sum: 6bd9fb990291ef7db2b2d6fd86427f332d877ac1563b1ecc25c258b589ac5b80
+    size: 4043599196
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/connaitre-la-france-et-paris-fr.zip
+    version: '2019-09-11'
+  contes-senegal-fr:
+    description: "Des contes du S\xE9n\xE9gal ainsi que des fiches p\xE9dagogiques"
+    language: fr
+    name: "Contes S\xE9n\xE9gal"
+    sha256sum: 72c3c27d8991be63892f08fffc7b101c9fc43f24412972f2ca6ea5cd3c5ba24b
+    size: 14030644
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/contes-senegal-fr.zip
+    version: '2019-09-11'
   creation-audio-fr:
     description: "Vous voulez monter une radio ? Apprendre \xE0 monter de petits reportages\
       \ sonores ? L'audio est un excellent moyen pour raconter des histoires ou faire\
@@ -132,6 +292,25 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cuisine-et-nutrition-enfants-fr.zip
     version: '2019-09-04'
+  cultural-blender-europe-en:
+    description: Ballets tell stories with music and movement. Discover iconic ballet
+      dances!
+    language: en
+    name: Cultural blender
+    sha256sum: 25bd84fa31bdd15435b57f143a2bb2ab3fc92a7644ef72a560620747410a92b2
+    size: 416565683
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cultural-blender-europe-en.zip
+    version: '2019-09-11'
+  cultural-expression-bangla-bn:
+    description: Growing our culture, collection of stories, music and other things
+    language: bn
+    name: Cultural expression (bangla)
+    sha256sum: 61be7370c79c0abf8916c07f1486d2fd5fc44b23b8e17b1ee9b44a9f7585bb33
+    size: 3889386779
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cultural-expression-bangla-bn.zip
+    version: '2019-09-11'
   decouvrez-ou-re-decouvrez-la-cuisine-de-differents-pays-fr:
     description: Qu'est-ce qu'on mange aujourd'hui ?
     language: fr
@@ -141,6 +320,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/decouvrez-ou-re-decouvrez-la-cuisine-de-differents-pays-fr.zip
     version: '2019-09-04'
+  decouvrez-ou-redecouvrez-l-histoire-de-france-fr:
+    description: "... Et \xE9clairez le pr\xE9sent \xE0 la lumi\xE8re du pass\xE9\
+      \ !"
+    language: fr
+    name: "D\xE9couvrez ou red\xE9couvrez l'histoire de France !"
+    sha256sum: f982e357986da67ed484e8ef99489676dd67c7c80928bd0cd586cc834d86c9a8
+    size: 591114639
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/decouvrez-ou-redecouvrez-l-histoire-de-france-fr.zip
+    version: '2019-09-11'
   denis-mukwege-fr:
     description: "Denis Mukwege, n\xE9 le 1er mars 1955 \xE0 Bukavu dans le Kivu au\
       \ Congo belge, est un gyn\xE9cologue et militant des droits de l'homme congolais.\r\
@@ -175,6 +364,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/documentaires-handicap-international-fr.zip
     version: '2019-09-04'
+  drawing-colouring-en:
+    description: Learn how to draw, colour, make graffiti, become an artist !
+    language: en
+    name: Drawing & colouring !
+    sha256sum: 177041c0ff84a47085a2fc51d330dae881ccc97e40cfa2ba52c8a5adb68b83eb
+    size: 73888395
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/drawing-colouring-en.zip
+    version: '2019-09-11'
   droits-de-l-enfant-fr:
     description: "Tu as des droits, apprends \xE0 les conna\xEEtre pour mieux les\
       \ d\xE9fendre."
@@ -185,6 +383,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/droits-de-l-enfant-fr.zip
     version: '2019-09-04'
+  ebook-enfants-libres-de-droit-fr:
+    description: Des livres et BD pour les plus jeunes.
+    language: fr
+    name: Raconte-moi une histoire !
+    sha256sum: 2f7cc81220ecb650fa3c8a9ec6b3421e55630f0bad11ec66c91e8a600b0f76cc
+    size: 190556592
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ebook-enfants-libres-de-droit-fr.zip
+    version: '2019-09-11'
   economie-fr:
     description: "Des vid\xE9os ludiques pour comprendre les grands concepts \xE9\
       conomiques : march\xE9, actions, obligations, dividendes ... etc."
@@ -205,6 +412,20 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ecoute-tes-emotions-enfants-ados-fr.zip
     version: '2019-09-04'
+  english-for-adults-ar:
+    description: "Learn English through these easy to follow videos. \u062A\u0639\u0644\
+      \u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\u0646\u062C\u0644\u064A\
+      \u0632\u064A\u0629 \u0645\u0646 \u062E\u0644\u0627\u0644 \u0647\u0630\u0647\
+      \ \u0627\u0644\u0641\u064A\u062F\u064A\u0648\u0647\u0627\u062A \u0627\u0644\u0633\
+      \u0647\u0644\u0629."
+    language: ar
+    name: "English for Adults [\u0627\u0644\u0627\u0646\u062C\u0644\u064A\u0632\u064A\
+      \u0629 \u0644\u0644\u0643\u0628\u0627\u0631]"
+    sha256sum: 0ab408129db84fc7696f02bb196a743f11f72eb8331b5a00ecd4612c5dd564e7
+    size: 1021114660
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/english-for-adults-ar.zip
+    version: '2019-09-11'
   experiences-de-femmes-fr:
     description: "Femmes intellectuelles, femmes footballeuses, femmes soldats ou\
       \ femmes geeks. Vous trouverez ici du contenu sur l'immense diversit\xE9 d'exp\xE9\
@@ -217,6 +438,35 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/experiences-de-femmes-fr.zip
     version: '2019-09-04'
+  fictions-and-entertainment-in-arabic-ar:
+    description: "\u0645\u0633\u0644\u0633\u0644\r\n\u0634\u0639\u0631\r\n\u0642\u0635\
+      \u0635"
+    language: ar
+    name: "\u062E\u064A\u0627\u0644 - fictions and entertainment in Arabic"
+    sha256sum: ee822b168ed2424cfb4adb88a815b4bfbfff836aef2c3f71daac892c4bb4de3c
+    size: 2317530514
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/fictions-and-entertainment-in-arabic-ar.zip
+    version: '2019-09-11'
+  films-fr:
+    description: "Une com\xE9die ? Un drame ? Un policier ? D\xE9couvrez ou red\xE9\
+      couvrez ici quelques films muets ou en fran\xE7ais."
+    language: fr
+    name: Films
+    sha256sum: 3786bc00ca38194b764c9e7362e9543509b97287cd8681233faae98fcf627eee
+    size: 3543278825
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/films-fr.zip
+    version: '2019-09-11'
+  football-matches-en:
+    description: A collection of different football matches
+    language: en
+    name: Football Matches
+    sha256sum: 7dce9603e167981abab8b1df44f7d90a3598c9ab7c6a4d4897822b069884b010
+    size: 6745892919
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/football-matches-en.zip
+    version: '2019-09-11'
   geopolitique-afrique-fr:
     description: "Les enjeux g\xE9opolitiques de l'Afrique"
     language: fr
@@ -226,6 +476,29 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/geopolitique-afrique-fr.zip
     version: '2019-09-04'
+  handcraft-origami-en:
+    description: Learn to create and build things by yourself ! Learn the art of origami,
+      which is all about folding a single sheet paper in order to create different
+      shapes and forms.
+    language: en
+    name: Handcraft - origami
+    sha256sum: 318bb278c4162410292b28f63e47a07bdc2e55c2bdb85ad32fa5f102c88fa57a
+    size: 355048925
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/handcraft-origami-en.zip
+    version: '2019-09-11'
+  health-and-nutrition-ar:
+    description: "Keep a healthy diet for a healthier life.// \u0627\u0628\u0642\u064A\
+      \ \u063A\u0630\u0627\u0626\u0643 \u0635\u062D\u064A \u0644\u062D\u064A\u0627\
+      \u0629 \u0635\u062D\u064A\u0629"
+    language: ar
+    name: "Health and Nutrition [\u063A\u0630\u0627\u0621 \u0648\u0635\u062D\u0629\
+      ]"
+    sha256sum: 13ece1d4b727d3674bac527916ef6c6edc98ad3a951f8adaf9636079a6d52294
+    size: 1291294139
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/health-and-nutrition-ar.zip
+    version: '2019-09-11'
   histoire-afrique-fr:
     description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
       \ les \xE9v\xE8nements du pr\xE9sent."
@@ -246,6 +519,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-de-la-republique-democratique-du-congo-fr.zip
     version: '2019-09-04'
+  how-do-i-find-an-honest-and-licensed-lawyer-en:
+    description: Click here to learn more about the difference between notarios and
+      lawyers and how you can find a licensed lawyer.
+    language: en
+    name: How do I find an honest and licensed lawyer?
+    sha256sum: e2873553033cade17425af07a52d691b59739f3d7d1c90dbd2b3cac855d8e75c
+    size: 14496112
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/how-do-i-find-an-honest-and-licensed-lawyer-en.zip
+    version: '2019-09-11'
   hygiene-de-base-fr:
     description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
       ne et \xE9viter les maladies !"
@@ -311,6 +594,38 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-aux-sciences-cognitives-et-aux-neurosciences-fr.zip
     version: '2019-09-04'
+  introduction-to-healthcare-en:
+    description: This package contains basic information on healthcare. It provides
+      tips and scientific information about common diseases and ways to prevent them.
+    language: en
+    name: Introduction to healthcare
+    sha256sum: d6aa2f61297709817892bb031d9471fc9901021c98f6ce83022f1ad1307fde1a
+    size: 545604603
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/introduction-to-healthcare-en.zip
+    version: '2019-09-11'
+  introduction-to-human-rights-en:
+    description: Human rights are the rights to which all human beings are entitled.
+      Learn about the history of human rights and the legislation that ensure that
+      they are respected with this package.
+    language: en
+    name: Introduction to Human Rights
+    sha256sum: 63798cc40c455536512eb6f38f40ef2a7455b1da93d4762d80f35e014a709fbc
+    size: 1319893000
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/introduction-to-human-rights-en.zip
+    version: '2019-09-11'
+  introduction-to-the-history-of-the-world-en:
+    description: What do we call Mesopotamia? What about the Great March on Washington?
+      What happened in 2008? Analyse these historic events that were turning points
+      for the world.
+    language: en
+    name: Introduction to the history of the world
+    sha256sum: 40b73deaa56add8142835a0fa60cc62e52c183785465400a7103ca28cb4fd04a
+    size: 1857579897
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/introduction-to-the-history-of-the-world-en.zip
+    version: '2019-09-11'
   kit-de-l-animateur-fr:
     description: "Animatrices, animateurs de l'Ideas Box, vous trouverez ici des supports\
       \ pour vous aider dans la mise en place d'atelier de m\xE9diation au sein de\
@@ -323,6 +638,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/kit-de-l-animateur-fr.zip
     version: '2019-09-04'
+  l-afrique-en-marche-rfi-fr:
+    description: 'Emission RFI : l''Afrique en Marche'
+    language: fr
+    name: "Actualit\xE9s Afrique"
+    sha256sum: 87057e149a06ef93a136554a87c69d8a7d3adec1a727f4be25923adcb38556fb
+    size: 64704831
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/l-afrique-en-marche-rfi-fr.zip
+    version: '2019-09-11'
   la-sante-enfants-ado-fr:
     description: Comprendre son corps et en prendre soin
     language: fr
@@ -332,17 +656,49 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-enfants-ado-fr.zip
     version: '2019-09-04'
+  learn-english-children-bn:
+    description: Improve your english through different supports
+    language: bn
+    name: Learn english (children)
+    sha256sum: 6cb4e1949a2cbce5d0aea57d67adaeba3f58efc8c3e793ea04737e61459a207a
+    size: 1181210067
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learn-english-children-bn.zip
+    version: '2019-09-11'
+  learn-first-aid-techniques-en:
+    description: Everyday accidents are responsible for several millions of deaths
+      per year all over the world. Here are some simple techniques, that anyone can
+      perform, which could save lives. In this programme you will learn some of these
+      basic first aid techniques.
+    language: en
+    name: Learn first aid techniques
+    sha256sum: ed2d026dd655dd2d0cf1a400d3c7f3d3ae6bba9728073550281d3520a79ef8e5
+    size: 804924559
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learn-first-aid-techniques-en.zip
+    version: '2019-09-11'
+  learning-french-en:
+    description: You want to learn French? Here are a few videos and flashcards to
+      learn some words and everyday life expressions that will be useful to communicate
+      with your French speaking friends.
+    language: en
+    name: Learning French
+    sha256sum: 39d3f360865c6305ac3d782322e9942f2aee27d80cfdc53ce46c786066ebb14a
+    size: 299367473
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learning-french-en.zip
+    version: '2019-09-11'
   les-bases-de-l-informatique-fr:
     description: "Ces ressources vous guideront dans l'utilisation des logiciels de\
       \ traitement de texte, tableur, pr\xE9sentation et vous permettront de comprendre\
       \ le fonctionnement d'un navigateur internet."
     language: fr
     name: Les bases de l'informatique
-    sha256sum: ea54a92120048430b62d50ab17b04144539b95bcefe474e1778fc13a216594b3
-    size: 345522824
+    sha256sum: 98541e11d9fc060724fdf545fcc2fa99b41aa81d10b5c1d84e109accde210b55
+    size: 346546122
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-bases-de-l-informatique-fr.zip
-    version: '2019-09-04'
+    version: '2019-09-11'
   les-filles-et-les-garcons-quelles-differences-fr:
     description: "Filles footballeuses, soldats, pr\xE9sidentes: les filles peuvent\
       \ faire autant de choses que les gar\xE7ons !"
@@ -353,6 +709,27 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-filles-et-les-garcons-quelles-differences-fr.zip
     version: '2019-09-04'
+  let-s-speak-english-ar:
+    description: "Learn English with these simple videos; new useful vocab and expressions.\
+      \ .// \u062A\u0639\u0644\u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\
+      \u0646\u062C\u0644\u064A\u0632\u064A\u0629 \r\n\r\nKids, Teenagers"
+    language: ar
+    name: "Let's Speak English [\u0644\u0646\u062A\u0643\u0644\u0645 \u0627\u0644\u0627\
+      \u0646\u062C\u0644\u064A\u0632\u064A\u0629]"
+    sha256sum: 0ef14d2da44dcf8bd1e19ac47b21c3ad46359389364ed981b92ee869316bd834
+    size: 174349728
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/let-s-speak-english-ar.zip
+    version: '2019-09-11'
+  let-s-talk-about-sexuality-en-en:
+    description: Learn more about menstruations and sexuality
+    language: en
+    name: Let's talk about sexuality
+    sha256sum: 5d4c1655861756b1319a437983a6af2d936112f13d28780c2a36e8f0681d76c3
+    size: 256346126
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/let-s-talk-about-sexuality-en-en.zip
+    version: '2019-09-11'
   litterature-francophone-afrique-fr:
     description: "Rencontres avec des \xE9crivains et des artistes africains"
     language: fr
@@ -389,6 +766,61 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/monter-un-laboratoire-d-innovation-publique-fr.zip
     version: '2019-09-04'
+  montez-votre-projet-professionnel-fr:
+    description: "Vous cherchez un emploi ou vous souhaitez vous reconvertir ? Vous\
+      \ trouverez ici de quoi vous aider \xE0 identifier vos comp\xE9tences, pr\xE9\
+      parer une candidature ou un entretien d'embauche."
+    language: fr
+    name: Montez votre projet professionnel
+    sha256sum: 9b8ff1e1d97493f25273c499e112002727ebf4aa355f7d76c64e363ec88a0121
+    size: 1100701342
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/montez-votre-projet-professionnel-fr.zip
+    version: '2019-09-11'
+  music-in-arabic-ar:
+    description: "\u0627\u0644\u0627\u0633\u062A\u0631\u062E\u0627\u0621 \u0648\u0627\
+      \u0644\u0627\u0633\u062A\u0645\u0627\u0639 \u0625\u0644\u0649 \u0627\u0644\u0645\
+      \u0648\u0633\u064A\u0642\u0649.\r\n\u0643\u0644 \u0627\u0646\u0648\u0627\u0639\
+      \ \u0627\u0644\u0645\u0648\u0633\u064A\u0642\u0649 \u0627\u0644\u0634\u0631\u0642\
+      \u064A\u0629 \u0627\u0644\u062C\u0645\u064A\u0644\u0629."
+    language: ar
+    name: "\u0645\u0648\u0633\u064A\u0642\u0649 \u0628\u0627\u0644\u0639\u0631\u0628\
+      \u064A [Music in Arabic]"
+    sha256sum: d9649e2dd275525ae15e92c24dbd7b14729c3042840dcc812549101a94e7c24d
+    size: 1853652778
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/music-in-arabic-ar.zip
+    version: '2019-09-11'
+  musique-libre-de-droit-en:
+    description: "Musiques libres de droit! \r\nA \xE9couter encore et encore dans\
+      \ toutes les langues."
+    language: en
+    name: Musique
+    sha256sum: 693d4841173f047f7fd053f382bdb373459881ccf3d15e93cb0ffacffaa5a014
+    size: 1115889308
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/musique-libre-de-droit-en.zip
+    version: '2019-09-11'
+  nature-multi-languages-en:
+    description: Discover nature, animals and landscapes
+    language: en
+    name: Nature (multi languages)
+    sha256sum: 02d9883d756a9ff64a0d0e9903cbf49696eeb08007e46df3b53b2597e0bfb74b
+    size: 637057945
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/nature-multi-languages-en.zip
+    version: '2019-09-11'
+  novels-for-youth-ar:
+    description: "Novels for Youth. /\u0631\u0648\u0627\u064A\u0627\u062A \u0644\u0644\
+      \u064A\u0627\u0641\u0639\u064A\u0646"
+    language: ar
+    name: "Novels for Youth [\u0631\u0648\u0627\u064A\u0627\u062A \u0644\u0644\u064A\
+      \u0627\u0641\u0639\u064A\u0646]"
+    sha256sum: f368eb6863e13f55d864964ffde9792aac7400391321c9891e6f43cf014b3dbe
+    size: 841570872
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/novels-for-youth-ar.zip
+    version: '2019-09-11'
   nutrition-fr:
     description: "Qu'est ce que \xE7a veut dire \"bien manger\" ? Comment am\xE9liorer\
       \ ses r\xE9flexes d'alimentation pour se sentir mieux et prendre soin de sa\
@@ -465,6 +897,35 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/prevention-et-sexualite-fr.zip
     version: '2019-09-04'
+  qu-est-ce-que-ca-veut-dire-etre-francais-fr:
+    description: '-'
+    language: fr
+    name: "Qu'est-ce que \xE7a veut dire \xEAtre fran\xE7ais ?"
+    sha256sum: 6c651c45f41aabc26772778ab03842631d6679a091f19ecc4e7683ac0351f429
+    size: 702265379
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/qu-est-ce-que-ca-veut-dire-etre-francais-fr.zip
+    version: '2019-09-11'
+  renseignez-vous-sur-les-demarches-administratives-fr:
+    description: "Retrouvez ici quelques guides pour vous aider \xE0 vous rep\xE9\
+      rer dans le labyrinthe des d\xE9marches administratives. Pour d\xE9fendre ses\
+      \ droits, il faut les conna\xEEtre et les comprendre !"
+    language: fr
+    name: "Renseignez-vous sur les d\xE9marches administratives"
+    sha256sum: 14cedcee7baf5dd884e5e81615072dc1abfda22c48a4b1b625fc35e14acf64d8
+    size: 98780198
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/renseignez-vous-sur-les-demarches-administratives-fr.zip
+    version: '2019-09-11'
+  ressources-pour-les-fiches-activites-pour-le-projet-ministere-de-la-culture-2-fr:
+    description: "Des ressources pour mettre en place des activit\xE9s"
+    language: fr
+    name: "Ressources pour les fiches activit\xE9s"
+    sha256sum: b441ff4f9ec10091dd3ad8c27138e4b05593b5adc1909b27297e7832db2d1757
+    size: 227190647
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ressources-pour-les-fiches-activites-pour-le-projet-ministere-de-la-culture-2-fr.zip
+    version: '2019-09-11'
   sante-les-bases-fr:
     description: "Un petit kit pour avoir les bons r\xE9flexes de premiers secours\
       \ et savoir pr\xE9venir les maladies et infections... Pour soi, et pour les\
@@ -476,6 +937,26 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sante-les-bases-fr.zip
     version: '2019-09-04'
+  silent-animated-movies-en:
+    description: Discover beautiful short films that tell stories without words!
+    language: en
+    name: Silent Animated Movies
+    sha256sum: 4ada869faf29dbcc78ef8d8c204abe27812abfa7ecad084469f0d6905ec9999c
+    size: 200144204
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/silent-animated-movies-en.zip
+    version: '2019-09-11'
+  silent-movies-en:
+    description: An image is worth a thousand words. These movies will prove the truth
+      of this proverb. From Metropolis to the iconic Charlie Chaplin movies, rediscover
+      the power of acting without words.
+    language: en
+    name: Silent movies
+    sha256sum: 3a64c947f278b6bcd92159b9d76d09317b1dc12b16dbf78aba0a7cd41113d0e4
+    size: 8629244502
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/silent-movies-en.zip
+    version: '2019-09-11'
   sommeil-enfants-fr:
     description: "Comprendre \xE0 quoi sert le sommeil, pourquoi on r\xEAve?"
     language: fr
@@ -485,6 +966,29 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sommeil-enfants-fr.zip
     version: '2019-09-04'
+  tales-for-kids-ar:
+    description: "A variety of fun and cultivating tales for kids. /\u0642\u0635\u0635\
+      \ \u0645\u0646\u0648\u0639\u0629 \u0627\u062F\u0628\u064A\u0629 \u0645\u0646\
+      \ \u0627\u0646\u062D\u0627\u0621 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\
+      \u0644\u0627\u0638\u0641\u0627\u0644"
+    language: ar
+    name: "Tales for Kids [\u0642\u0635\u0635 \u0645\u0646\u0648\u0639\u0629 \u0644\
+      \u0644\u0623\u0637\u0641\u0627\u0644]"
+    sha256sum: 10aec1b2bf6f1b2af56ddbf094b84c864e0d23aa03f49a45c92f7f7f4fcef2c3
+    size: 80567353
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/tales-for-kids-ar.zip
+    version: '2019-09-11'
+  tutorials-for-using-programs-en:
+    description: It explains basic electronic components and software like inkscape
+      - gimp - blender - scribus - raspberry pi - audacity - DaVinci - krita
+    language: en
+    name: Tutorials for using programs
+    sha256sum: 7de1f41a8c58e09732a02bb0d1c0b0a6c1944d3bd3cde453f35ba4813bf92aed
+    size: 4043997695
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/tutorials-for-using-programs-en.zip
+    version: '2019-09-11'
   tutoriels-pour-utiliser-des-logiciels-et-des-applications-fr:
     description: "Tutoriels pour utiliser des logiciels et des applications\r\n- \xEA\
       tre en capacit\xE9 de prendre en mains les logiciels propos\xE9s sur les ordinateurs\
@@ -497,6 +1001,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/tutoriels-pour-utiliser-des-logiciels-et-des-applications-fr.zip
     version: '2019-09-04'
+  utilisez-internet-en-toute-securite-fr:
+    description: "Des contenus pour accompagner petits et grands \xE0 utiliser internet\
+      \ en toute s\xE9curit\xE9, et \xE0 comprendre comment avoir du recul sur les\
+      \ informations que l'on trouve sur la toile !"
+    language: fr
+    name: "Utilisez internet en toute s\xE9curit\xE9 !"
+    sha256sum: b5ccf17958e9902d1d1bd94ab36a550334bb07fa7d62613950df07865a68d53d
+    size: 478679257
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/utilisez-internet-en-toute-securite-fr.zip
+    version: '2019-09-11'
   violences-faites-aux-femmes-fr:
     description: "Conna\xEEtre et combattre les violences sp\xE9cifiques aux femmes"
     language: fr
