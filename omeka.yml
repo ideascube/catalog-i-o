@@ -346,7 +346,7 @@ all:
       \ vos droits."
     language: fr
     name: Demander l'asile en France
-    sha256sum: cb8643bca415a80d9a76a65572597d5113d9a3ce74177b83e9331901bd6b32c8
+    sha256sum: b6913104ccfcd9a3529a66565a53652fec6f5a09a1ccdb2bd5c30cb25eaa88cd
     size: 76010281
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/demander-l-asile-en-france-fr.zip
