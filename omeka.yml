@@ -180,6 +180,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arts-plastiques-fr.zip
     version: '2019-09-04'
+  asylum-seeking-process-arabic-ar:
+    description: 'This package explains the rights of refugees in France: how to apply
+      for asylum, how to request family reunification, etc.'
+    language: ar
+    name: Asylum seeking process (Arabic)
+    sha256sum: 079850ca05d24c14e42193afe16927bbb901e13c2930819439489173bf5cde85
+    size: 294490415
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/asylum-seeking-process-arabic-ar.zip
+    version: '2019-09-12'
   cartoons-en:
     description: Have fun with these cartoons featuring well-known characters!
     language: en
@@ -330,6 +340,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/decouvrez-ou-redecouvrez-l-histoire-de-france-fr.zip
     version: '2019-09-11'
+  demander-l-asile-en-france-fr:
+    description: "Vous venez d'arriver en France et vous souhaitez demander l'asile\
+      \ ? Nous vous expliquons ici comment d\xE9poser votre demande et quels sont\
+      \ vos droits."
+    language: fr
+    name: Demander l'asile en France
+    sha256sum: edf3148d08e2c374486c12268e6170f7b395840ef28cf5341124926597c9050b
+    size: 76010281
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/demander-l-asile-en-france-fr.zip
+    version: '2019-09-12'
   denis-mukwege-fr:
     description: "Denis Mukwege, n\xE9 le 1er mars 1955 \xE0 Bukavu dans le Kivu au\
       \ Congo belge, est un gyn\xE9cologue et militant des droits de l'homme congolais.\r\
@@ -412,6 +433,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ecoute-tes-emotions-enfants-ados-fr.zip
     version: '2019-09-04'
+  educational-videos-arabic-ar:
+    description: These videos teach fundamental skills to children in a fun way. Follow
+      Adam and his dog Mimish in their adventures and learn about science and the
+      world.
+    language: ar
+    name: Educational videos (Arabic)
+    sha256sum: 8a8e923ce15c7d4e3621080633fd0e2256e1a7b646ca7234822c5699b6bfd365
+    size: 49552389
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/educational-videos-arabic-ar.zip
+    version: '2019-09-12'
   english-for-adults-ar:
     description: "Learn English through these easy to follow videos. \u062A\u0639\u0644\
       \u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\u0646\u062C\u0644\u064A\
@@ -476,6 +508,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/geopolitique-afrique-fr.zip
     version: '2019-09-04'
+  greek-mythology-en:
+    description: Who is Hercules? Who is Zeus? Or Athena? Discover the great stories
+      of the greek mythology with these videos.
+    language: en
+    name: Greek mythology
+    sha256sum: 4112e43e44a85e287e645b00438f6967cac8feb2cf09bc8cb588e86f2a5067e7
+    size: 1296510041
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/greek-mythology-en.zip
+    version: '2019-09-12'
   handcraft-origami-en:
     description: Learn to create and build things by yourself ! Learn the art of origami,
       which is all about folding a single sheet paper in order to create different
@@ -529,6 +571,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/how-do-i-find-an-honest-and-licensed-lawyer-en.zip
     version: '2019-09-11'
+  how-to-improve-your-english-skills-en:
+    description: 'You will find here videos and tutorials to improve your English
+      skills: from pronunciation to writing.'
+    language: en
+    name: How to improve your English skills
+    sha256sum: 4f678d753bf2983f9467f0ee06d6b3d0c07b0e71256e5ae24d6d14cf0ec11ffb
+    size: 440472904
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/how-to-improve-your-english-skills-en.zip
+    version: '2019-09-12'
   hygiene-de-base-fr:
     description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
       ne et \xE9viter les maladies !"
@@ -709,6 +761,20 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-filles-et-les-garcons-quelles-differences-fr.zip
     version: '2019-09-04'
+  let-s-speak-arabic-ar:
+    description: "Learn different words and expressions in Arabic.// \u062A\u0639\u0644\
+      \u0645 \u0645\u0641\u0631\u062F\u0627\u062A \u0648 \u0627\u0633\u0645\u0627\u0621\
+      \ \u0645\u062E\u062A\u0644\u0641 \u0627\u0644\u0627\u0634\u064A\u0627\u0621\
+      \ \u0628\u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0639\u0631\u0628\u064A\u0629\
+      ."
+    language: ar
+    name: "Let's Speak Arabic [\u0644\u0646\u062A\u0643\u0644\u0645 \u0627\u0644\u0639\
+      \u0631\u0628\u064A\u0629]"
+    sha256sum: 567166bb34b30316be0319d5c3b35d06e43bf038c1a780b08037de1b519b6daa
+    size: 479604095
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/let-s-speak-arabic-ar.zip
+    version: '2019-09-12'
   let-s-speak-english-ar:
     description: "Learn English with these simple videos; new useful vocab and expressions.\
       \ .// \u062A\u0639\u0644\u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\
@@ -739,6 +805,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/litterature-francophone-afrique-fr.zip
     version: '2019-09-04'
+  mathematics-ar:
+    description: "Simple mathematics for kids.// \u0631\u064A\u0627\u0636\u064A\u0627\
+      \u062A \u0644\u0644\u0627\u0637\u0641\u0627\u0644"
+    language: ar
+    name: "Mathematics [\u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0627\u062A]"
+    sha256sum: fdc058d20ad080918c5a7ccc30c0149ed853647030551e504381da84de46d3e9
+    size: 685104165
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mathematics-ar.zip
+    version: '2019-09-12'
   microbiologie-et-prevention-sante-fr:
     description: "Qu'est-ce qu'un microbe ? Sont-ils tous nocifs pour l'homme ? Vous\
       \ trouverez ici \xE0 la fois des vid\xE9os sur la microbiologie et les avanc\xE9\
@@ -926,6 +1002,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ressources-pour-les-fiches-activites-pour-le-projet-ministere-de-la-culture-2-fr.zip
     version: '2019-09-11'
+  s-informer-sur-internet-fr:
+    description: "S'informer sur internet  propose une s\xE9rie de vid\xE9os sur l'\xE9\
+      ducation aux m\xE9dias et \xE0 la d\xE9finition du citoyennet\xE9 num\xE9rique."
+    language: fr
+    name: S'informer sur internet
+    sha256sum: 5b2bb6bef2b212bab73bf279dced5481e6d4ed8435b658627e06a7146623fe66
+    size: 3550039235
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/s-informer-sur-internet-fr.zip
+    version: '2019-09-12'
   sante-les-bases-fr:
     description: "Un petit kit pour avoir les bons r\xE9flexes de premiers secours\
       \ et savoir pr\xE9venir les maladies et infections... Pour soi, et pour les\
@@ -937,6 +1023,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sante-les-bases-fr.zip
     version: '2019-09-04'
+  se-preparer-a-une-catastrophe-fr:
+    description: "En 10 ans, le nombre de catastrophes naturelles li\xE9es au r\xE9\
+      chauffement climatique a augment\xE9 de 60%. 1 personne sur deux est susceptible\
+      \ d\u2019y \xEAtre confront\xE9e ! Dans ce programme vous allez apprendre les\
+      \ bons gestes de s\xE9curit\xE9 \xE0 adopter face \xE0 une catastrophe majeure."
+    language: fr
+    name: "Se pr\xE9parer \xE0 une catastrophe"
+    sha256sum: 6bc89c8908bcbc06d5333cdf40912610be8971a5800a880bd412b5da9114ad03
+    size: 76032661
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/se-preparer-a-une-catastrophe-fr.zip
+    version: '2019-09-12'
   silent-animated-movies-en:
     description: Discover beautiful short films that tell stories without words!
     language: en
@@ -1021,3 +1119,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/violences-faites-aux-femmes-fr.zip
     version: '2019-09-04'
+  women-in-african-history-en:
+    description: 'This series highlights some of the contributions of key women figures
+      to the history of Africa. This list is far from exhaustive but will walk the
+      reader through major events of the African continent, in which these historical
+      female characters have played a key role: from politics to environmental protection.'
+    language: en
+    name: Women in African History
+    sha256sum: 4596baf2e430725d50ee0696b46c0638f17df4ea14a5cc7d76ae6fcf7e4f5a91
+    size: 55515448
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/women-in-african-history-en.zip
+    version: '2019-09-12'
