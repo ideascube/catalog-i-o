@@ -346,11 +346,11 @@ all:
       \ vos droits."
     language: fr
     name: Demander l'asile en France
-    sha256sum: b6913104ccfcd9a3529a66565a53652fec6f5a09a1ccdb2bd5c30cb25eaa88cd
+    sha256sum: cbe0b05e8336188981c0675d990da9d51e4cdb4d2c1b7934bf83b048e51bb070
     size: 76010281
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/demander-l-asile-en-france-fr.zip
-    version: '2019-09-12'
+    version: '2019-09-16'
   denis-mukwege-fr:
     description: "Denis Mukwege, n\xE9 le 1er mars 1955 \xE0 Bukavu dans le Kivu au\
       \ Congo belge, est un gyn\xE9cologue et militant des droits de l'homme congolais.\r\
