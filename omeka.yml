@@ -1380,6 +1380,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/animals-documentaries-ar.zip
     version: '2019-09-17'
+  apprendre-a-utiliser-des-patrons-fr:
+    description: "Ce paquet de contenus r\xE9unit quelques exemples de tutoriels qui\
+      \ permettent \xE0 un tailleur d'apprendre \xE0 utiliser un patron, ou de r\xE9\
+      aliser un patron \xE0 partir d'un v\xEAtement existant et assembl\xE9."
+    language: fr
+    name: "Apprendre \xE0 utiliser des patrons"
+    sha256sum: 0914981d9dccef7ac9664fca0f54f2a101df5295a8f50fd9c70673b026d06658
+    size: 102735995
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprendre-a-utiliser-des-patrons-fr.zip
+    version: '2019-09-17'
   apprends-le-francais-a1-enfants-adolescents-fr:
     description: "Pars \xE0 la d\xE9couverte de la langue fran\xE7aise, en images\
       \ !"
@@ -2590,6 +2601,51 @@ all:
     size: 351070090
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/nutrition-fr.zip
+    version: '2019-09-17'
+  patron-pour-coudre-une-jupe-a-volants-fille-fr:
+    description: "Ce paquet de contenus pr\xE9sente des patrons qui peuvent \xEAtre\
+      \ utilis\xE9s pour coudre une jupe \xE0 volants pour fille. Les patrons sont\
+      \ con\xE7us pour des mod\xE8les de 2 \xE0 6 ans. Ils peuvent utiliser sur une\
+      \ grande diversit\xE9 de tissus..."
+    language: fr
+    name: "Patron pour coudre une jupe \xE0 volants - Fille"
+    sha256sum: ef5f341588fa593c70dbfa9eabc32fb7e5797d7b733c386b110d9a95eedb9d39
+    size: 11282022
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/patron-pour-coudre-une-jupe-a-volants-fille-fr.zip
+    version: '2019-09-17'
+  patrons-pour-coudre-des-vetements-pour-enfants-fr:
+    description: "Ce paquet de contenus contient diff\xE9rents patrons permettant\
+      \ \xE0 un tailleur de coudre des v\xEAtements pour enfants, filles comme gar\xE7\
+      ons."
+    language: fr
+    name: "Patrons pour coudre des v\xEAtements pour enfants"
+    sha256sum: 9e571f4789cb7d9d9a6eba0c7187b4595c956fe893a79c7d24295cce40c7630c
+    size: 7888624
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/patrons-pour-coudre-des-vetements-pour-enfants-fr.zip
+    version: '2019-09-17'
+  patrons-pour-coudre-des-vetements-pour-femmes-fr:
+    description: "Ce paquet de contenus contient des patrons qui permettent \xE0 un\
+      \ tailleur de coudre diff\xE9rents v\xEAtements pour femmes : haut, robe, jupe,\
+      \ etc. Une infinit\xE9 de variantes sont possibles en utilisant des tissus diff\xE9\
+      rents."
+    language: fr
+    name: "Patrons pour coudre des v\xEAtements pour femmes"
+    sha256sum: e13d98f104acd0e268ecedbeac27a0a394ebbf0563f1db0bb81be2008fed6241
+    size: 382616
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/patrons-pour-coudre-des-vetements-pour-femmes-fr.zip
+    version: '2019-09-17'
+  patrons-pour-coudre-un-top-sorbetto-femmes-fr:
+    description: "Ce paquet de contenus contient les instructions, les mesures et\
+      \ les patrons n\xE9cessaires pour coudre un top Sorbetto pour femmes."
+    language: fr
+    name: Patrons pour coudre un top Sorbetto - Femmes
+    sha256sum: 6fc779f2676e6205edf236ed855fca53aca6e8e2d51b8c75d72bc2ce773088dc
+    size: 11399088
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/patrons-pour-coudre-un-top-sorbetto-femmes-fr.zip
     version: '2019-09-17'
   pedagogical-support-english-en:
     description: Find supports that you can help to manage a pedagogical workshops
