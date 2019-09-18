@@ -1543,6 +1543,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/astronomy-en.zip
     version: '2019-09-16'
+  asylum-seeking-process-arabic-ar:
+    description: 'This package explains the rights of refugees in France: how to apply
+      for asylum, how to request family reunification, etc.'
+    language: ar
+    name: Asylum seeking process (Arabic)
+    sha256sum: b57ba6c1bf3a6a46975974b691a06cc11dedeb88291e1e868addc9443004b18a
+    size: 294490415
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/asylum-seeking-process-arabic-ar.zip
+    version: '2019-09-18'
   audiobooks-et-fictions-sonores-fr:
     description: "Les fictions, les romans, on peut aussi les \xE9couter ! A vos casques\
       \ !"
@@ -1797,6 +1807,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/decouvrez-ou-redecouvrez-l-histoire-de-france-fr.zip
     version: '2019-09-17'
+  demander-l-asile-en-france-fr:
+    description: "Vous venez d'arriver en France et vous souhaitez demander l'asile\
+      \ ? Nous vous expliquons ici comment d\xE9poser votre demande et quels sont\
+      \ vos droits."
+    language: fr
+    name: Demander l'asile en France
+    sha256sum: 93d76f2e04736245be964061ee120b53084bc19a9f7797cc41323a18437ae22d
+    size: 76010281
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/demander-l-asile-en-france-fr.zip
+    version: '2019-09-18'
   diy-travaux-manuels-fr:
     description: "Envie de r\xE9aliser un objet simple avec du mat\xE9riel recycl\xE9\
       \ ? De cr\xE9er tout un univers avec du papier ? De faire un scoubidou original\
@@ -1888,6 +1909,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/educacion-universo-es.zip
     version: '2019-09-16'
+  educational-videos-arabic-ar:
+    description: These videos teach fundamental skills to children in a fun way. Follow
+      Adam and his dog Mimish in their adventures and learn about science and the
+      world.
+    language: ar
+    name: Educational videos (Arabic)
+    sha256sum: ec0a5f63f741fdcb4d1df6011b77f602f3dcf20ae2aa7c6bc7f4975f9745dcf4
+    size: 49552389
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/educational-videos-arabic-ar.zip
+    version: '2019-09-18'
   english-for-adults-ar:
     description: "Learn English through these easy to follow videos. \u062A\u0639\u0644\
       \u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\u0646\u062C\u0644\u064A\
@@ -1983,6 +2015,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/football-matches-en.zip
     version: '2019-09-17'
+  greek-mythology-en:
+    description: Who is Hercules? Who is Zeus? Or Athena? Discover the great stories
+      of the greek mythology with these videos.
+    language: en
+    name: Greek mythology
+    sha256sum: 3c13631e5c72ca3eb93cd636a7fa0e76b3fd43fd7c9a163228248d3a143dc7dc
+    size: 1296510041
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/greek-mythology-en.zip
+    version: '2019-09-18'
   handcraft-origami-en:
     description: Learn to create and build things by yourself ! Learn the art of origami,
       which is all about folding a single sheet paper in order to create different
@@ -2055,6 +2097,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/how-does-alcohol-affect-my-body-en.zip
     version: '2019-09-16'
+  how-to-improve-your-english-skills-en:
+    description: 'You will find here videos and tutorials to improve your English
+      skills: from pronunciation to writing.'
+    language: en
+    name: How to improve your English skills
+    sha256sum: a2155d503f3bbdfc07789d5bbcaa67112f37314e6bec132435461847eaed7a70
+    size: 440472904
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/how-to-improve-your-english-skills-en.zip
+    version: '2019-09-18'
   how-to-write-in-a-professional-context-en:
     description: You will find in this package videos and tutorials on how to use
       written English in a professional environment.
@@ -2441,6 +2493,20 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/let-s-practise-sport-children-en.zip
     version: '2019-09-16'
+  let-s-speak-arabic-ar:
+    description: "Learn different words and expressions in Arabic.// \u062A\u0639\u0644\
+      \u0645 \u0645\u0641\u0631\u062F\u0627\u062A \u0648 \u0627\u0633\u0645\u0627\u0621\
+      \ \u0645\u062E\u062A\u0644\u0641 \u0627\u0644\u0627\u0634\u064A\u0627\u0621\
+      \ \u0628\u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0639\u0631\u0628\u064A\u0629\
+      ."
+    language: ar
+    name: "Let's Speak Arabic [\u0644\u0646\u062A\u0643\u0644\u0645 \u0627\u0644\u0639\
+      \u0631\u0628\u064A\u0629]"
+    sha256sum: 68da5b955a85de1cb800556c85bf60810bc4087d88e28f586db32472eff8e397
+    size: 479604095
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/let-s-speak-arabic-ar.zip
+    version: '2019-09-18'
   let-s-speak-english-ar:
     description: "Learn English with these simple videos; new useful vocab and expressions.\
       \ .// \u062A\u0639\u0644\u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\
@@ -2481,6 +2547,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/make-your-own-radio-en.zip
     version: '2019-09-16'
+  mathematics-ar:
+    description: "Simple mathematics for kids.// \u0631\u064A\u0627\u0636\u064A\u0627\
+      \u062A \u0644\u0644\u0627\u0637\u0641\u0627\u0644"
+    language: ar
+    name: "Mathematics [\u0627\u0644\u0631\u064A\u0627\u0636\u064A\u0627\u062A]"
+    sha256sum: 6a88a305ffb1377f02df1194626f723b79ad4bc87c37056028c6f7a3d840d1df
+    size: 685104165
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mathematics-ar.zip
+    version: '2019-09-18'
   microbiologie-et-prevention-sante-fr:
     description: "Qu'est-ce qu'un microbe ? Sont-ils tous nocifs pour l'homme ? Vous\
       \ trouverez ici \xE0 la fois des vid\xE9os sur la microbiologie et les avanc\xE9\
@@ -2800,6 +2876,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/s-informer-sur-internet-fr.zip
     version: '2019-09-16'
+  se-preparer-a-une-catastrophe-fr:
+    description: "En 10 ans, le nombre de catastrophes naturelles li\xE9es au r\xE9\
+      chauffement climatique a augment\xE9 de 60%. 1 personne sur deux est susceptible\
+      \ d\u2019y \xEAtre confront\xE9e ! Dans ce programme vous allez apprendre les\
+      \ bons gestes de s\xE9curit\xE9 \xE0 adopter face \xE0 une catastrophe majeure."
+    language: fr
+    name: "Se pr\xE9parer \xE0 une catastrophe"
+    sha256sum: a5b3d76c2d0af4307b992d27a40a365dfa206be31aa2b1a8f465baa276e2eca6
+    size: 76032661
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/se-preparer-a-une-catastrophe-fr.zip
+    version: '2019-09-18'
   silent-animated-movies-en:
     description: Discover beautiful short films that tell stories without words!
     language: en
@@ -2924,6 +3012,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/women-empowerment-en.zip
     version: '2019-09-16'
+  women-in-african-history-en:
+    description: 'This series highlights some of the contributions of key women figures
+      to the history of Africa. This list is far from exhaustive but will walk the
+      reader through major events of the African continent, in which these historical
+      female characters have played a key role: from politics to environmental protection.'
+    language: en
+    name: Women in African History
+    sha256sum: e5043bb4c200109c4cbefc1bc7a5ccc5cc233595825d4d0ad41cbfaf5e18da8c
+    size: 55515448
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/women-in-african-history-en.zip
+    version: '2019-09-18'
   women-s-experiences-en:
     description: Learn about the great diversity of women's experiences
     language: en
