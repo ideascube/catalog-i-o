@@ -1,4 +1,15 @@
 all:
+  administration-gestion-comptabilite-fr:
+    description: "Vous souhaitez monter une entreprise mais vous manquez de connaissances\
+      \ sur les d\xE9marches administratives, la gestion et la comptabilit\xE9. Vous\
+      \ trouverez ici de quoi lancer sereinement son entreprise."
+    language: fr
+    name: "Administration, gestion, comptabilit\xE9"
+    sha256sum: 363c5e1044ca2c720f80102534dc7b3db80dcae82b60065058699e0d5975966c
+    size: 85586269
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/administration-gestion-comptabilite-fr.zip
+    version: '2019-09-19'
   alcool-drogues-fr:
     description: "Identifier les effets de l'alcool, des drogues et pr\xE9venir les\
       \ risques."
@@ -3642,6 +3653,119 @@ all:
       type: zipped-medias
       url: http://packages.ideascube.org/omeka/violences-faites-aux-femmes-fr.zip
       version: '2019-09-18'
+  apprendre-a-cuisiner-sikana-fr:
+    description: "Nous consommons de plus en plus de plats pr\xE9par\xE9s individuels.\
+      \ Partager un repas fait maison est un pur moment de plaisir. D\xE9couvrez dans\
+      \ ce programme les bases d\u2019une cuisine saine pour tous avec des recettes\
+      \ d\xE9licieuses et vari\xE9es."
+    language: fr
+    name: "Apprendre \xE0 cuisiner"
+    sha256sum: 5b27d4549b9ae7b42765609c3d7e1bbef64682d351394d76c5a29d13480e1bd6
+    size: 1574140249
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprendre-a-cuisiner-sikana-fr.zip
+    version: '2019-09-19'
+  apprends-le-francais-a1-enfants-adolescents-fr:
+    description: "Pars \xE0 la d\xE9couverte de la langue fran\xE7aise, en images\
+      \ !"
+    language: fr
+    name: "Apprends le fran\xE7ais ! A1"
+    sha256sum: c4789abe77d8d4f2afed4f7c7d795edfb8ff2d07ac6604d8a0ad0fa10864f712
+    size: 13535614
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprends-le-francais-a1-enfants-adolescents-fr.zip
+    version: '2019-09-19'
+  apprends-le-francais-a2-enfants-adolescents-fr:
+    description: "Pour apprendre \xE0 faire des phrases en fran\xE7ais."
+    language: fr
+    name: "Apprends le fran\xE7ais ! A2"
+    sha256sum: 070815a494bcfa8da325af0d1a294d8f0d452196705438a9e9f5d75059aa5ed8
+    size: 158638602
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprends-le-francais-a2-enfants-adolescents-fr.zip
+    version: '2019-09-19'
+  apprenez-le-francais-alphabetisation-fr:
+    description: "Se familiariser avec les lettres et l'\xE9criture"
+    language: fr
+    name: "Apprenez le fran\xE7ais - Alphab\xE9tisation"
+    sha256sum: 5df5da6b30fd9fa3aa6b526b0cc85ef007411ceaaa2eb97693249e41340a013f
+    size: 45759490
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprenez-le-francais-alphabetisation-fr.zip
+    version: '2019-09-19'
+  apprenez-le-francais-fr:
+    description: "Quelques bases pour progresser en fran\xE7ais."
+    language: fr
+    name: "Apprenez le fran\xE7ais"
+    sha256sum: a7fd2cd6d219b0d6344c7986fd2a8379de046171c4a2c40074c04c7b3d36b1cf
+    size: 719326104
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprenez-le-francais-fr.zip
+    version: '2019-09-19'
+  apprenez-le-francais-niveau-a1-fr:
+    description: "Le niveau A1 en fran\xE7ais, c'est \xEAtre capable de comprendre\
+      \ et d'utiliser des expressions famili\xE8res et quotidiennes, ainsi que des\
+      \ \xE9nonc\xE9s tr\xE8s simples !"
+    language: fr
+    name: "Apprenez le fran\xE7ais - Niveau A1"
+    sha256sum: 34aa9dd836a7b44e9402b1343f30aa07ada990b4e6989642e996db901f391a2a
+    size: 574999207
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-a1-fr.zip
+    version: '2019-09-19'
+  apprenez-le-francais-niveau-a2-fr:
+    description: "Le niveau A2 en fran\xE7ais, c'est pouvoir comprendre des phrases\
+      \ isol\xE9es et des expressions fr\xE9quemment utilis\xE9es (informations personnelles\
+      \ ou familiales, achats, environnement proche, travail)."
+    language: fr
+    name: "Apprenez le fran\xE7ais - Niveau A2"
+    sha256sum: 609c8432357c58352666c3d16410642c2e69380db1f9e94575fa8d05808c0f34
+    size: 267188969
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-a2-fr.zip
+    version: '2019-09-19'
+  apprenez-le-francais-niveau-b1-fr:
+    description: "Le niveau B1 en fran\xE7ais, c'est pouvoir comprendre les points\
+      \ essentiels quand un langage clair et standard est utilis\xE9 et s\u2019il\
+      \ s\u2019agit de choses famili\xE8res dans le travail, \xE0 l\u2019\xE9cole,\
+      \ les loisirs, etc."
+    language: fr
+    name: "Apprenez le fran\xE7ais - Niveau B1"
+    sha256sum: 25420c1ae5f3494a45b7f9103923b00a5c0c0934470fca793fdc90ff49136a07
+    size: 156935989
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-b1-fr.zip
+    version: '2019-09-19'
+  apprenez-le-francais-niveau-b2-fr:
+    description: "Le niveau B2 en fran\xE7ais, c'est pouvoir comprendre  le contenu\
+      \ essentiel des sujets concrets ou abstraits dans un texte complexe, y compris\
+      \ une discussion technique dans sa sp\xE9cialit\xE9."
+    language: fr
+    name: "Apprenez le fran\xE7ais - Niveau B2"
+    sha256sum: 76b8518f187226c241a2ad0df9eed521c4fefa7cae5f4576656747a4d9dac569
+    size: 230366266
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-b2-fr.zip
+    version: '2019-09-19'
+  apprenez-le-francais-niveau-c1-c2-fr:
+    description: "Le niveau C1 et C2 en fran\xE7ais, c'est comprendre une grande gamme\
+      \ de textes longs et exigeants, ainsi que de saisir des significations implicites.\
+      \ Vous pouvez vous exprimer spontan\xE9ment et couramment sans trop apparemment\
+      \ devoir chercher ses mots. Vous pouvez utiliser la langue de fa\xE7on efficace\
+      \ et souple dans sa vie sociale, professionnelle ou acad\xE9mique. Vous pouvez\
+      \ vous exprimer sur des sujets complexes de fa\xE7on claire et bien structur\xE9\
+      e et manifester son contr\xF4le des outils d\u2019organisation, d\u2019articulation\
+      \ et de coh\xE9sion du discours. Il est important de le proposer \xE0 des \xE9\
+      tudiants qui sont capables d\u2019argumenter, de s\u2019exprimer sans r\xE9\
+      elles difficult\xE9s et de ne pas les encourager \xE0 se pr\xE9senter au dipl\xF4\
+      me s\u2019ils n\u2019ont pas un esprit analytique."
+    language: fr
+    name: "Apprenez le fran\xE7ais - Niveau C1-C2"
+    sha256sum: 5301ae0c29def4ff3ab42c2d7543a32ca20a0e9ae62b79979f7a053bf607fe8a
+    size: 3609550646
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-c1-c2-fr.zip
+    version: '2019-09-19'
   arts-afrique-fr:
     description: Les arts plastiques, la danse... Les formes d'arts ne manquent pas,
       et font partie de la richesse d'un pays et d'une culture !
@@ -3724,6 +3848,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creation-audio-fr.zip
     version: '2019-09-18'
+  creation-d-association-fr:
+    description: "Quelques \xE9lements-cl\xE9s pour comprendre et cr\xE9er une association,\
+      \ en France ou au Burundi !"
+    language: fr
+    name: "Cr\xE9ation d'association"
+    sha256sum: a7f2e323b2cea3a6cc31e054a013273e498ce22251303011c46062a798005eb4
+    size: 160969203
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/creation-d-association-fr.zip
+    version: '2019-09-19'
   cuisine-et-nutrition-enfants-fr:
     description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
     language: fr
@@ -3786,6 +3920,25 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/droits-de-l-enfant-fr.zip
     version: '2019-09-18'
+  eco-d-ici-eco-d-ailleurs-rfi-fr:
+    description: "\xC9mission RFI : \"Eco d'ici \xE9co d'ailleurs\""
+    language: fr
+    name: Economie
+    sha256sum: aa8e9c99b97e8b4cd9fcf9feaf19060bd844d389e35f3cddd95b6cb0230263bb
+    size: 242930012
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/eco-d-ici-eco-d-ailleurs-rfi-fr.zip
+    version: '2019-09-19'
+  economie-fr:
+    description: "Des vid\xE9os ludiques pour comprendre les grands concepts \xE9\
+      conomiques : march\xE9, actions, obligations, dividendes ... etc."
+    language: fr
+    name: Economie
+    sha256sum: 2377ab88d7cb8d714b36203ab20fc6d272c19258655d6713f0096af49df88723
+    size: 989222336
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/economie-fr.zip
+    version: '2019-09-19'
   ecoute-tes-emotions-enfants-ados-fr:
     description: "Respire, \xE9coute tes \xE9motions, es-tu en col\xE8re, joyeux,\
       \ triste ? Tu te sentiras mieux avec toi-m\xEAme et avec les autres !"
@@ -3796,6 +3949,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ecoute-tes-emotions-enfants-ados-fr.zip
     version: '2019-09-18'
+  ecriture-et-litterature-fr:
+    description: "Vous avez toujours r\xEAv\xE9 de devenir \xE9crivain ? C'est le\
+      \ moment de vous lancer !"
+    language: fr
+    name: "Ecriture et litt\xE9rature"
+    sha256sum: cb7c1e66bb694014b1f64799ae94493cfa5ec42a980a003174103a78115fa48b
+    size: 464504492
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ecriture-et-litterature-fr.zip
+    version: '2019-09-19'
   experiences-de-femmes-fr:
     description: "Femmes intellectuelles, femmes footballeuses, femmes soldats ou\
       \ femmes geeks. Vous trouverez ici du contenu sur l'immense diversit\xE9 d'exp\xE9\
@@ -3894,6 +4057,24 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-enfants-ado-fr.zip
     version: '2019-09-18'
+  le-talisman-brise-ln-rfi-ln:
+    description: "Du lingala au fran\xE7ais avec \"Le Talisman bris\xE9\""
+    language: ln
+    name: "Lok\xF3ta la ek\xF3lo Fransa"
+    sha256sum: 144fe605e05af0982d31231ebeef75a635b1cd5bab15a853efc2c49835be2e58
+    size: 199870468
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/le-talisman-brise-ln-rfi-ln.zip
+    version: '2019-09-19'
+  le-talisman-brise-sw-rfi-sw:
+    description: "Du swahili au fran\xE7ais avec \"Le Talisman bris\xE9\""
+    language: sw
+    name: Kujifunza fifaransa
+    sha256sum: 398cb2f7e6bb65ee52c111f1e3452fb18480d1921ddb60144e4ee708b18d8672
+    size: 192742703
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/le-talisman-brise-sw-rfi-sw.zip
+    version: '2019-09-19'
   les-bases-de-l-informatique-fr:
     description: "Ces ressources vous guideront dans l'utilisation des logiciels de\
       \ traitement de texte, tableur, pr\xE9sentation. Elles vous permettront de comprendre\
@@ -3905,6 +4086,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-bases-de-l-informatique-fr.zip
     version: '2019-09-18'
+  les-enfants-apprennent-le-francais-fr:
+    description: "Quelques bases pour progresser en fran\xE7ais."
+    language: fr
+    name: "Les enfants apprennent le fran\xE7ais"
+    sha256sum: 0a67616f74ab720cc9b1b40130a8083fb45c9811896fd5c5edb4727e0c9896f2
+    size: 1005701010
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/les-enfants-apprennent-le-francais-fr.zip
+    version: '2019-09-19'
   les-filles-et-les-garcons-quelles-differences-fr:
     description: "Filles footballeuses, soldats, pr\xE9sidentes: les filles peuvent\
       \ faire autant de choses que les gar\xE7ons !"
@@ -3951,6 +4141,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/monter-un-laboratoire-d-innovation-publique-fr.zip
     version: '2019-09-18'
+  moyens-de-contraception-fr:
+    description: "La contraception, qu'est-ce que c'est ? Quels sont les diff\xE9\
+      rents moyens de protection et de contraception pour filles et gar\xE7ons ?"
+    language: fr
+    name: Quelle contraception pour moi, pour nous ?
+    sha256sum: 076032b6dbd8f0e6a6a3afe1bae53a1bdc0e9b4077b4110e420a04a4086689b4
+    size: 71313879
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/moyens-de-contraception-fr.zip
+    version: '2019-09-19'
   nutrition-enfants-fr:
     description: "Bien manger, qu'est-ce que \xE7a veut dire ? Apprends \xE0 composer\
       \ des repas sains et nutritifs !"
@@ -3983,6 +4183,26 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/prends-soin-de-toi-enfants-ado-fr.zip
     version: '2019-09-18'
+  prevention-addictions-fr:
+    description: Mieux comprendre les effets de l'alcool sur nos comportements, et
+      leurs origines.
+    language: fr
+    name: "Pr\xE9vention addictions"
+    sha256sum: 89bfdb84043858bf8eebda116a02c16509e31326e9175f7360e4137ff2051cdf
+    size: 21592698
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/prevention-addictions-fr.zip
+    version: '2019-09-19'
+  prevention-et-sexualite-fr:
+    description: "La sexualit\xE9, il faut en parler pour \xEAtre en toute s\xE9curit\xE9\
+      . Vous trouverez ici les informations n\xE9cessaires."
+    language: fr
+    name: "Pr\xE9vention et sexualit\xE9"
+    sha256sum: 828c9581e917f2ce66eb17f383aba93aae5eb7057b7ae28b5f3a66808809582b
+    size: 449463956
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/prevention-et-sexualite-fr.zip
+    version: '2019-09-19'
   sante-les-bases-fr:
     description: "Un petit kit pour avoir les bons r\xE9flexes de premiers secours\
       \ et savoir pr\xE9venir les maladies et infections... Pour soi, et pour les\
