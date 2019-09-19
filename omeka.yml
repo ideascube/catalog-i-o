@@ -198,6 +198,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arriver-en-france-et-connaitre-ses-droits-fr.zip
     version: '2019-09-11'
+  arts-africa-en:
+    description: Arts are part of the wealth of a country.
+    language: en
+    name: Arts
+    sha256sum: f29c20add9211b5887d84fc122967b972280c361f3ec2cbfe50b400d62a9b63f
+    size: 326379174
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/arts-africa-en.zip
+    version: '2019-09-19'
   arts-afrique-fr:
     description: Les arts plastiques, la danse... Les formes d'arts ne manquent pas,
       et font partie de la richesse d'un pays et d'une culture !
@@ -218,6 +227,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arts-plastiques-fr.zip
     version: '2019-09-18'
+  astronomy-en:
+    description: What are comets made of? How was the solar system created? How does
+      gravity influence tides? How can we recognise stars in the sky? If you are curious
+      about astronomy, watch these videos and discover more about the solar system
+      and its history.
+    language: en
+    name: Astronomy
+    sha256sum: b26801d3cae493f04b17a8cc121c0564b21a0f7ca5612443b365940bb942684f
+    size: 5097594728
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/astronomy-en.zip
+    version: '2019-09-19'
   asylum-seeking-process-arabic-ar:
     description: 'This package explains the rights of refugees in France: how to apply
       for asylum, how to request family reunification, etc.'
@@ -237,6 +258,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cartoons-en.zip
     version: '2019-09-11'
+  citizenship-democracy-and-peace-en:
+    description: Talking about democracy, power, constitution, voting
+    language: en
+    name: Citizenship, democracy and peace
+    sha256sum: e4fa864751c2e00b4fa7912ce73f093452d03e7117bc18558e75e1a905ab6362
+    size: 1903702620
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/citizenship-democracy-and-peace-en.zip
+    version: '2019-09-19'
   citoyennete-enabel-fr:
     description: "Documentation pour se former \xE0 la th\xE9matique de la citoyennet\xE9\
       . Vous trouvez des documents comme le \"Financement participatif\" \"Innover\
@@ -268,6 +298,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comment-faire-face-a-la-violence-et-aux-conflits-enfants-ados-fr.zip
     version: '2019-09-18'
+  community-harmony-english-en:
+    description: Know each other and take time to share funny moment together
+    language: en
+    name: Community harmony (English)
+    sha256sum: 118f0f3ed3c89b3cbfdc5dab5e6ca2d773b6af01df15524af8598bba084af661
+    size: 1861984789
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/community-harmony-english-en.zip
+    version: '2019-09-19'
   comprendre-et-exprimer-ses-emotions-fr:
     description: "D\xE9tendez-vous. Respirez. Accueillez vos \xE9motions. Exprimez\
       \ vos besoins. Vous serez mieux avec vous m\xEAme et avec les autres !"
@@ -373,6 +412,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creation-d-entreprise-fr.zip
     version: '2019-09-16'
+  creativity-multi-languages-en:
+    description: Express your creativity
+    language: en
+    name: Creativity (multi languages)
+    sha256sum: 13de1f8f233922cd824c22b7ce1a156e8973ba24a2abcf298eab6b2e7e56f3ee
+    size: 1078252464
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/creativity-multi-languages-en.zip
+    version: '2019-09-19'
   cuisine-et-nutrition-enfants-fr:
     description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
     language: fr
@@ -392,6 +440,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultural-blender-europe-en.zip
     version: '2019-09-11'
+  cultural-blender-west-en:
+    description: Discover cultures on the other side of the world
+    language: en
+    name: Cultural blender
+    sha256sum: 8af9c236d3cdc26ceec9a335ee2f83d62b70e1a3c038cb85165b9a2c201d7bc2
+    size: 564060047
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cultural-blender-west-en.zip
+    version: '2019-09-19'
   cultural-expression-bangla-bn:
     description: Growing our culture, collection of stories, music and other things
     language: bn
@@ -456,6 +513,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discriminations-enfants-ados-fr.zip
     version: '2019-09-18'
+  do-it-yourself-multi-languages-en:
+    description: Express your creativity, you will find a lot of video to help yourself
+      to build  things
+    language: en
+    name: Do it yourself (multi languages)
+    sha256sum: 45c4465551325ecbe774e1035ea4048949659c5fa30ddb09ebcd9caebfb6bd08
+    size: 419911646
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/do-it-yourself-multi-languages-en.zip
+    version: '2019-09-19'
   documentaires-handicap-international-fr:
     description: "Conna\xEEtre les actions d'Handicap International"
     language: fr
@@ -465,6 +532,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/documentaires-handicap-international-fr.zip
     version: '2019-09-18'
+  drawing-colouring-en:
+    description: Learn how to draw, colour, make graffiti, become an artist !
+    language: en
+    name: Drawing & colouring !
+    sha256sum: 42cf1db12ee5f03d22210c5239f720a1ff70f170a5fe8565a628ba7656237a84
+    size: 73888395
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/drawing-colouring-en.zip
+    version: '2019-09-19'
   droits-de-l-enfant-fr:
     description: "Tu as des droits, apprends \xE0 les conna\xEEtre pour mieux les\
       \ d\xE9fendre."
