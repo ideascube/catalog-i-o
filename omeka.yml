@@ -3971,6 +3971,35 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/experiences-de-femmes-fr.zip
     version: '2019-09-18'
+  geopolitique-afrique-fr:
+    description: "Les enjeux g\xE9opolitiques de l'Afrique"
+    language: fr
+    name: "G\xE9opolitique"
+    sha256sum: 2dddf368ce1190875ce51ea56a006df4350f9209be9c3dea3a41107543838fb2
+    size: 848354301
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/geopolitique-afrique-fr.zip
+    version: '2019-09-19'
+  histoire-afrique-fr:
+    description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
+      \ les \xE9v\xE8nements du pr\xE9sent."
+    language: fr
+    name: Fondamentaux de l'Histoire de l'Afrique
+    sha256sum: fcc465b517217f0462ccf8eb7fc67539840cf8d6c623acd68620a4970db73456
+    size: 5578242601
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-afrique-fr.zip
+    version: '2019-09-19'
+  histoire-de-la-republique-democratique-du-congo-fr:
+    description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
+      \ les \xE9v\xE8nements du pr\xE9sent"
+    language: fr
+    name: "R\xE9publique d\xE9mocratique du Congo, Histoire"
+    sha256sum: ea766b6fbf52271c645712d7993195ef11e15a6e4cb51e8b95bd1288812925bd
+    size: 546252859
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-de-la-republique-democratique-du-congo-fr.zip
+    version: '2019-09-19'
   hygiene-de-base-fr:
     description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
       ne et \xE9viter les maladies !"
