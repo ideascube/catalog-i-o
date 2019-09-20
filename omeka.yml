@@ -350,7 +350,7 @@ all:
     language: ar
     name: "Computer and IT [\u0643\u0645\u0628\u064A\u0648\u062A\u0631 \u0648\u062A\
       \u0643\u0646\u0648\u0644\u0648\u062C\u064A\u0627]"
-    sha256sum: d10b5c4c07e68f13509fdfc2d0a07c5af6ba1ead7ddc3c5c811336d28dbc1d40
+    sha256sum: dea20bb89980b913995c2fc007acbd75205b943a783570a4174d3da2fe786599
     size: 67504104
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/computer-and-it-ar.zip
@@ -390,7 +390,7 @@ all:
     description: "Des contes du S\xE9n\xE9gal ainsi que des fiches p\xE9dagogiques"
     language: fr
     name: "Contes S\xE9n\xE9gal"
-    sha256sum: 72c3c27d8991be63892f08fffc7b101c9fc43f24412972f2ca6ea5cd3c5ba24b
+    sha256sum: 7422a5e0b8bdd14b37f8db0fe98250bc94d66f97c67a32534ded474a0a295510
     size: 14030644
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/contes-senegal-fr.zip
@@ -468,7 +468,7 @@ all:
     description: Growing our culture, collection of stories, music and other things
     language: bn
     name: Cultural expression (bangla)
-    sha256sum: 61be7370c79c0abf8916c07f1486d2fd5fc44b23b8e17b1ee9b44a9f7585bb33
+    sha256sum: c651c35894a76f72059aa45845662450ab5acd2b9f5862051a7ea78d2ea29432
     size: 3889386779
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultural-expression-bangla-bn.zip
