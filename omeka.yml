@@ -1644,11 +1644,11 @@ all:
       \ les patrons n\xE9cessaires pour coudre un top Sorbetto pour femmes."
     language: fr
     name: Patrons pour coudre un top Sorbetto - Femmes
-    sha256sum: 6f569df04d4acd9e2f3c6153135902f52cff7202ef329bea7d45cba67cbc08d4
+    sha256sum: a469078bc93e0ace2f3139d8e35376f2ccaf9a6874ac2229e612cb912e72faad
     size: 11399089
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/patrons-pour-coudre-un-top-sorbetto-femmes-fr.zip
-    version: '2019-09-19'
+    version: '2019-09-20'
   pedagogical-support-english-en:
     description: Find supports that you can help to manage a pedagogical workshops
     language: en
