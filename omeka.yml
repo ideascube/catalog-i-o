@@ -124,7 +124,7 @@ all:
     description: .
     language: fr
     name: "Apprenez le fran\xE7ais FOS"
-    sha256sum: f4d9465b6bb196c61d54ccfc8e19de71d94f5f620b7e622936a37744dccf1466
+    sha256sum: b1812d43cd74186444ec479c1c2467e91c928f2928b3958930e4f70359f38cda
     size: 54597935
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-fos-fr.zip
@@ -208,7 +208,7 @@ all:
       \ familial...etc."
     language: fr
     name: "Arriver en France et conna\xEEtre ses droits"
-    sha256sum: 11447e8d4f7c44a39901cac9a0bd1f1a7f0a825fb1e20548a68de526124d83aa
+    sha256sum: 00e907e1785a79b6f983a6ccc58ae942d64b950ff5b48e64d358740e6645aba4
     size: 775899675
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arriver-en-france-et-connaitre-ses-droits-fr.zip
@@ -268,7 +268,7 @@ all:
     description: Have fun with these cartoons featuring well-known characters!
     language: en
     name: Cartoons
-    sha256sum: fd71620ebe61e0992e3972cf3406eb63c61aed80859eceee24fae344efbf4894
+    sha256sum: 4f3340013d1f4231f57a4c64d2a79cf1b5fd0bf7b1f0a1255d3e9023c2717cf6
     size: 642732558
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cartoons-en.zip
@@ -362,7 +362,7 @@ all:
       \ mais aussi des informations pratiques pour se d\xE9placer dans Paris."
     language: fr
     name: "Conna\xEEtre la France et Paris"
-    sha256sum: 6bd9fb990291ef7db2b2d6fd86427f332d877ac1563b1ecc25c258b589ac5b80
+    sha256sum: cb7a0ba01684820287829aa8656afcb09729bad72cbe2eeb01656f6b6d53e1ce
     size: 4043599196
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/connaitre-la-france-et-paris-fr.zip
@@ -487,7 +487,7 @@ all:
       \ !"
     language: fr
     name: "D\xE9couvrez ou red\xE9couvrez l'histoire de France !"
-    sha256sum: f982e357986da67ed484e8ef99489676dd67c7c80928bd0cd586cc834d86c9a8
+    sha256sum: 5ef52835f358238715e0296f17bd743bb1b92cf5e0f77697cf15a42d935b59f4
     size: 591114639
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/decouvrez-ou-redecouvrez-l-histoire-de-france-fr.zip
@@ -570,7 +570,7 @@ all:
     description: Des livres et BD pour les plus jeunes.
     language: fr
     name: Raconte-moi une histoire !
-    sha256sum: 2f7cc81220ecb650fa3c8a9ec6b3421e55630f0bad11ec66c91e8a600b0f76cc
+    sha256sum: 8a9f606026d63bee164ae8b7ea2eb460d5563175af6d962300871e1ac59e647d
     size: 190556592
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ebook-enfants-libres-de-droit-fr.zip
