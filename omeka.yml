@@ -435,7 +435,7 @@ all:
       dances!
     language: en
     name: Cultural blender
-    sha256sum: 25bd84fa31bdd15435b57f143a2bb2ab3fc92a7644ef72a560620747410a92b2
+    sha256sum: faa725229129bf379d38650916162d0c457cf4de6bd5545b3a86474c01537b92
     size: 416565683
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultural-blender-europe-en.zip
