@@ -60,13 +60,13 @@ all:
     langid: "wikipedia.en"
     type: zim
   wikipedia.fr:
-    version: "2018-10-01"
-    size: 31733247252
-    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_novid_2018-10.zim"
+    version: "2019-09-21"
+    size: 33856231383
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_maxi_2019-09.zim"
     name: Wikipédia
     language: "fra"
     description: L'encyclopédie libre.
-    sha256sum: "b36c3cd603d6029c5e9f29f9f01c7ba1ad9d0d3dd9d5d2765a04eb1283a572a7"
+    sha256sum: "7ae184ff6cf31ccabd1c14056b4bebb6776e7a458681eed0a17be70bb3f63bd6"
     langid: "wikipedia.fr"
     type: zim
   wikipedia.rn:
