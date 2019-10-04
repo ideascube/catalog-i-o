@@ -60,13 +60,13 @@ all:
     langid: "wikipedia.en"
     type: zim
   wikipedia.fr:
-    version: "2018-10-01"
-    size: 31733247252
-    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_novid_2018-10.zim"
+    version: "2019-09-21"
+    size: 33856231383
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_maxi_2019-09.zim"
     name: Wikipédia
     language: "fra"
     description: L'encyclopédie libre.
-    sha256sum: "b36c3cd603d6029c5e9f29f9f01c7ba1ad9d0d3dd9d5d2765a04eb1283a572a7"
+    sha256sum: "7ae184ff6cf31ccabd1c14056b4bebb6776e7a458681eed0a17be70bb3f63bd6"
     langid: "wikipedia.fr"
     type: zim
   wikipedia.rn:
@@ -330,13 +330,13 @@ all:
     langid: "tedtechnology.en"
     type: zim
   wikivoyage.fr:
-    version: "2019-06-05"
-    size: 147402588
-    url: "http://download.kiwix.org/zim/wikivoyage/wikivoyage_fr_all_novid_2019-06.zim"
+    version: "2019-10-02"
+    size: 192713231
+    url: "http://download.kiwix.org/zim/wikivoyage/wikivoyage_fr_all_maxi_2019-10.zim"
     name: Wikivoyage
     language: "fra"
     description: "De Wikivoyage"
-    sha256sum: "8ba1b0b8ff4e6b59167ebfce5e5cdf677964f0168dfa3e12e9af0a824b4e60b1"
+    sha256sum: "603519bb680da8153d02835b67bda38ad7c9631a167eb380dc49631524080194"
     langid: "wikivoyage.fr"
     type: zim
   wikipedia.wo:
@@ -510,13 +510,13 @@ all:
     langid: "wikiversity.ar"
     type: zim
   wikipedia.es:
-    version: "2019-06-17"
-    size: 23735161097
-    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_es_all_novid_2019-06.zim"
+    version: "2019-09-16"
+    size: 24313455244
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_es_all_maxi_2019-09.zim"
     name: Wikipedia
     language: "spa"
     description: "De Wikipedia, la enciclopedia libre"
-    sha256sum: "2c3fb52658010b7b4326975c7bd5287d4cd22955629f4cdf447030cd9447968c"
+    sha256sum: "71a3a023b89f315afa715d7ef832e68a0f653c97316b4f91668bb296780730aa"
     langid: "wikipedia.es"
     type: zim
   gutenberg.es:
