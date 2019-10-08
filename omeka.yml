@@ -299,7 +299,7 @@ all:
       \ ?"
     language: fr
     name: "Qu'est-ce qu'\xEAtre \"citoyen\" ?"
-    sha256sum: 1712fb2a870ccda9dea552faccc21e97e63956b4e0fe8d140e32cf38d1164707
+    sha256sum: 36dd16c5aadd9745c716f3a69372537c343111fb0c3e61205e6602554e97cc9b
     size: 103987094
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/citoyennete-et-politique-fr.zip
@@ -730,7 +730,7 @@ all:
       \ et du vivre ensemble."
     language: fr
     name: "Fiches d'activit\xE9s Play International"
-    sha256sum: b9e1bd40f198ce5fcfe094162634cfac78588fac09df8194d61cf9573a8fe395
+    sha256sum: ef88e5279b9868c4fd34dcbb5a9baff133139dcfcaf59df79aac246788a4f914
     size: 11887707
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fiches-d-activites-play-international-fr.zip
@@ -984,7 +984,7 @@ all:
       \ enjeu majeur pour l'avenir de la plan\xE8te et de l'Humanit\xE9."
     language: fr
     name: "Il \xE9tait une fois notre terre"
-    sha256sum: a9319d643c79aad0ff58f24c629e583e6ba85ba81490a07b3d028004018084ae
+    sha256sum: e551ff12a6afb1b586038b9dd747c6d8530f33fa6b3779a887ee20bf5f98af11
     size: 278988928
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/il-etait-une-fois-notre-terre-fr.zip
@@ -1643,7 +1643,7 @@ all:
       \ \xE0 vos questions !"
     language: fr
     name: "Parentalit\xE9"
-    sha256sum: 36bdc825b62d73d39f577dd24619a1f1336d5a4a29d2e5721fc1f13c4d9f7e25
+    sha256sum: c3d722d97e354e2fd240388078e375197ae86cc6069c9641ccbb2b32d5da8699
     size: 50474864
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/parentalite-fr.zip
@@ -1729,7 +1729,7 @@ all:
     description: "Conna\xEEtre les gestes de premiers secours"
     language: fr
     name: Premiers secours enfants/adolescents
-    sha256sum: c378cb519e35ab77db5c29dc51317e31a917793824b4fa9209c001719562c38c
+    sha256sum: 44b0ba1d1096976115c6bce6ce7f95a185c130b0371b20a630c98b1733381253
     size: 255393608
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/premiers-secours-enfants-adolescents-fr.zip
@@ -1932,7 +1932,7 @@ all:
       \ ? Pourquoi le sport, \xE7a rime avec respect et amiti\xE9 ?"
     language: fr
     name: Les bases du sport
-    sha256sum: cc6eaafe9c2246481935af57be36900a82558db667fa173518119106e55aa91c
+    sha256sum: 6f2a845f278078c4c46c8a5f37178ba29ac4e4d645265eea8d087c9d00e8f88c
     size: 660381550
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sports-enfants-ados-fr.zip
