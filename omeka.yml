@@ -264,6 +264,28 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/asylum-seeking-process-arabic-ar.zip
     version: '2019-09-12'
+  audiobooks-from-radio-book-rwanda-en:
+    description: These audios are part of a large project called RadioBook Rwanda,
+      born from a collaboration of 3 publishers, Huza Press from Rwanda, Kwani Trust
+      from Kenya, and No Bindings from the UK.
+    language: en
+    name: Audiobooks from Radio Book Rwanda
+    sha256sum: 916f3203b49a4d41928437a47021fbb017477344170e87205666a4d4f029be47
+    size: 74868707
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/audiobooks-from-radio-book-rwanda-en.zip
+    version: '2019-10-10'
+  audiobooks-from-radio-book-rwanda-rw-rw:
+    description: These audios are part of a large project called RadioBook Rwanda,
+      born from a collaboration of 3 publishers, Huza Press from Rwanda, Kwani Trust
+      from Kenya, and No Bindings from the UK.
+    language: rw
+    name: Audiobooks from Radio Book Rwanda
+    sha256sum: 477a4e4129bd84e60397f71c014561e1f70971810fa374f4c54c83bdeefb6987
+    size: 101761843
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/audiobooks-from-radio-book-rwanda-rw-rw.zip
+    version: '2019-10-10'
   biologie-enfants-fr:
     description: "Pars \xE0 la d\xE9couverte du corps humain !"
     language: fr
@@ -590,11 +612,11 @@ all:
       \ d\xE9fendre."
     language: fr
     name: Droits de l'enfant
-    sha256sum: a7a2b7505e37e7b6a4f1daaeaf0bff2b3a6c978340480e7a3c74b074427af772
-    size: 110267191
+    sha256sum: cb7892186e650ba261c49edf83a2e78896ae8a814466f85d27e01f87db1acba8
+    size: 157539196
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/droits-de-l-enfant-fr.zip
-    version: '2019-09-18'
+    version: '2019-10-10'
   ebook-enfants-libres-de-droit-fr:
     description: Des livres et BD pour les plus jeunes.
     language: fr
@@ -825,6 +847,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/football-matches-en.zip
     version: '2019-09-17'
+  geographie-afrique-fr:
+    description: 'Focus sur l''Afrique: quels pays, quels villes, quels contextes,
+      quels enjeux ?'
+    language: fr
+    name: "G\xE9ographie (Afrique)"
+    sha256sum: 8ad87f3ee24f549eb46bfaac3d1251e72f6a5f5b8c0dd2a98d4cced5a95edad3
+    size: 1431347633
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/geographie-afrique-fr.zip
+    version: '2019-10-10'
   geopolitique-afrique-fr:
     description: "Les enjeux g\xE9opolitiques de l'Afrique"
     language: fr
