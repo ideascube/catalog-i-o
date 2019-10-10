@@ -264,6 +264,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/asylum-seeking-process-arabic-ar.zip
     version: '2019-09-12'
+  biologie-enfants-fr:
+    description: "Pars \xE0 la d\xE9couverte du corps humain !"
+    language: fr
+    name: La biologie pour les enfants
+    sha256sum: 9117a3cd45b2a34d45d1b83e95ae53f7202b8fc580819c6ede9f69e93b37a9ef
+    size: 2988219291
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/biologie-enfants-fr.zip
+    version: '2019-10-10'
   cartoons-en:
     description: Have fun with these cartoons featuring well-known characters!
     language: en
@@ -365,6 +374,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/computer-and-it-ar.zip
     version: '2019-09-11'
+  connaitre-et-aimer-son-corps-fr:
+    description: "\xCAtre bien dans son corps, \xE7a participe \xE0 \xEAtre bien dans\
+      \ sa t\xEAte. Et vous ? Comment voyez-vous votre corps ?"
+    language: fr
+    name: Relation au corps
+    sha256sum: 7a8030db8fb3a2cab5ff1314c0d0557a429af7729fda9877436e93b6f82c3a9d
+    size: 239971263
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/connaitre-et-aimer-son-corps-fr.zip
+    version: '2019-10-10'
   connaitre-la-france-et-paris-fr:
     description: "Comment fait-on la bise ? Pourquoi repr\xE9sente-t-on les fran\xE7\
       ais avec une baguette de pain ? Ou encore : d'ou viennent les partis politiques\
@@ -735,6 +754,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fiches-d-activites-play-international-fr.zip
     version: '2019-10-08'
+  fiches-d-activites-sante-fr:
+    description: "Vous trouverez des fiches d'activit\xE9s pour mener vos actions\
+      \ en sant\xE9"
+    language: fr
+    name: "Fiches d'activit\xE9s Sant\xE9"
+    sha256sum: ebbd21f5b7a863b570eb264eddbce28b56d9719f70f7004a50e4515f5ad723cb
+    size: 15112456
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/fiches-d-activites-sante-fr.zip
+    version: '2019-10-10'
   fictions-and-entertainment-in-arabic-ar:
     description: "\u0645\u0633\u0644\u0633\u0644\r\n\u0634\u0639\u0631\r\n\u0642\u0635\
       \u0635"
@@ -815,6 +844,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/greek-mythology-en.zip
     version: '2019-09-18'
+  grossesse-a-l-adolescence-fr:
+    description: "Des contenus autour des grossesse \xE0 l'adolescence"
+    language: fr
+    name: "Grossesse \xE0 l'adolescence"
+    sha256sum: 9196fb30d0b28dfd8eaca5496f21b40981da9172208159131d9a4e317eff0d17
+    size: 600054525
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/grossesse-a-l-adolescence-fr.zip
+    version: '2019-10-10'
   handcraft-origami-en:
     description: Learn to create and build things by yourself ! Learn the art of origami,
       which is all about folding a single sheet paper in order to create different
@@ -826,6 +864,26 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/handcraft-origami-en.zip
     version: '2019-09-17'
+  harcelement-ado-fr:
+    description: "Des contenus autour du harc\xE8lement, pour l'identifier, ne pas\
+      \ sentir isol\xE9.e, et savoir r\xE9agir et vers qui se tourner"
+    language: fr
+    name: "Harc\xE8lement (ado)"
+    sha256sum: 05b4fdd4d6c32fa768524a345885a70d46fb828a1f86c17f9300b2dc056ed9e3
+    size: 19106657
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/harcelement-ado-fr.zip
+    version: '2019-10-10'
+  harcelement-enfants-fr:
+    description: "Des contenus autour des questions de harc\xE8lement pour l'identifier\
+      \ et apprendre \xE0 se d\xE9fendre..."
+    language: fr
+    name: "Non au harc\xE8lement !"
+    sha256sum: d0ef5164052599846395fae70af5d63935dd5a41313dd8a02e2ed57cecad6102
+    size: 43428036
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/harcelement-enfants-fr.zip
+    version: '2019-10-10'
   health-and-hygiene-en:
     description: "Learn how to have a safe behavior and prevent contagious situations\
       \ ! \r\n\r\nTo complete this package, you will find a lot of other videos in\
@@ -1725,6 +1783,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/pratiques-et-usages-du-numerique-fr.zip
     version: '2019-09-16'
+  premiere-fois-ado-adultes-fr:
+    description: "La vie est une s\xE9rie de premi\xE8res fois, voici quelques contenus\
+      \ qui abordent certains de ces moments"
+    language: fr
+    name: "Premi\xE8re fois (ado-adultes)"
+    sha256sum: 08cbc80e4203f2b8dea5d270a03e77188c35e10ed5863049ba52476b0ba8c0ea
+    size: 330480741
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/premiere-fois-ado-adultes-fr.zip
+    version: '2019-10-10'
   premiers-secours-enfants-adolescents-fr:
     description: "Conna\xEEtre les gestes de premiers secours"
     language: fr
