@@ -111,6 +111,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprends-le-francais-a2-enfants-adolescents-fr.zip
     version: '2019-09-19'
+  apprenez-le-code-informatique-fr:
+    description: "Pour former d\xE9butant et initi\xE9 \xE0 la logique de programmation,\
+      \ ainsi qu'\xE0 certains langages."
+    language: fr
+    name: Apprenez le code informatique
+    sha256sum: c9c12470e36268c5512341875176f6ac6ae92b184986e97e98fb969b66fad69e
+    size: 4953169843
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprenez-le-code-informatique-fr.zip
+    version: '2019-10-15'
   apprenez-le-francais-alphabetisation-fr:
     description: "Se familiariser avec les lettres et l'\xE9criture"
     language: fr
@@ -286,6 +296,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/audiobooks-from-radio-book-rwanda-rw-rw.zip
     version: '2019-10-10'
+  biologie-adolescents-fr:
+    description: "Pars \xE0 la d\xE9couverte du corps humain !"
+    language: fr
+    name: La biologie pour les adolescents
+    sha256sum: f7435c87dba19adfb70e348f68ac2364aae993b82795b484c80a123f591cf52b
+    size: 3260329119
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/biologie-adolescents-fr.zip
+    version: '2019-10-15'
   biologie-enfants-fr:
     description: "Pars \xE0 la d\xE9couverte du corps humain !"
     language: fr
@@ -437,6 +456,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/contenus-de-prevention-en-sango-sg.zip
     version: '2019-09-16'
+  contes-et-dessins-animes-fr:
+    description: "Apprendre, r\xE9fl\xE9chir, d\xE9battre, en s'amusant ? C'est possible\
+      \ !"
+    language: fr
+    name: "Contes et dessins anim\xE9s"
+    sha256sum: 2430b53c11121e561a9434007243988e51adaf5e9bbeb837b6aa0a7182afaac8
+    size: 4796273145
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/contes-et-dessins-animes-fr.zip
+    version: '2019-10-15'
   contes-senegal-fr:
     description: "Des contes du S\xE9n\xE9gal ainsi que des fiches p\xE9dagogiques"
     language: fr
@@ -579,6 +608,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discriminations-enfants-ados-fr.zip
     version: '2019-09-18'
+  diy-travaux-manuels-fr:
+    description: "Envie de r\xE9aliser un objet simple avec du mat\xE9riel recycl\xE9\
+      \ ? De cr\xE9er tout un univers avec du papier ? De faire un scoubidou original\
+      \ ? c'est l\xE0 !!"
+    language: fr
+    name: Do It Yourself !
+    sha256sum: 6704ee2124db0cedf3535404d9ccae91ba4ad4c2132b1b33a2853245bb162f09
+    size: 2563854008
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/diy-travaux-manuels-fr.zip
+    version: '2019-10-15'
   do-it-yourself-multi-languages-en:
     description: Express your creativity, you will find a lot of video to help yourself
       to build  things
@@ -617,6 +657,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/droits-de-l-enfant-fr.zip
     version: '2019-10-10'
+  drums-for-beginners-en:
+    description: Short classes to play drums quickly.
+    language: en
+    name: Drums for beginners
+    sha256sum: 88dc4d89dc1a836b269c1fdbba505e5b28364c3a93c658f68c1ddbd6834bc088
+    size: 79294077
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/drums-for-beginners-en.zip
+    version: '2019-10-15'
   ebook-enfants-libres-de-droit-fr:
     description: Des livres et BD pour les plus jeunes.
     language: fr
@@ -635,6 +684,20 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/eco-d-ici-eco-d-ailleurs-rfi-fr.zip
     version: '2019-09-19'
+  economie-et-mondialisation-fr:
+    description: "Cette collection comprend des vid\xE9os, des MOOC et des articles\
+      \ de recherche sur les enjeux modernes de la macro\xE9conomie. Le MOOC sur la\
+      \ mondialisation, cr\xE9\xE9 par Sciences Po, traite notamment des enjeux internationaux\
+      \ de la macro\xE9onomie, \xE0 travers une approche pluridisciplinaire qui m\xEA\
+      le droit, histoire, \xE9conomie, anthropologie, sciences politiques et g\xE9\
+      ographie."
+    language: fr
+    name: Economie et mondialisation
+    sha256sum: dff4ae0658ba9ef4054ab261f8341a80a8455f99ce2f79e9e4af2a00441372dd
+    size: 1194590059
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/economie-et-mondialisation-fr.zip
+    version: '2019-10-15'
   economie-fr:
     description: "Des vid\xE9os ludiques pour comprendre les grands concepts \xE9\
       conomiques : march\xE9, actions, obligations, dividendes ... etc."
@@ -1110,6 +1173,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/innovation-en-afrique-fr.zip
     version: '2019-09-18'
+  instrumental-music-en:
+    description: Music doesn't need words. This package shows musical tracks that
+      carry emotions through notes and rhythms, without words. It showcases the universality
+      of music.
+    language: en
+    name: Instrumental Music
+    sha256sum: 949cf8a3e96c4e25ca15d14981d6e8a3a7a1545375f509033d5048dcd70f091c
+    size: 155111285
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/instrumental-music-en.zip
+    version: '2019-10-15'
   introduction-aux-droits-de-l-homme-fr:
     description: "Les m\xE9canismes de mise en \u0153uvre des droits de l'homme\r\n\
       Un MOOC de l'Universit\xE9 de Gen\xE8ve"
@@ -1349,6 +1423,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/l-importance-des-langues-maternelles-fr.zip
     version: '2019-09-16'
+  l-inclusion-numerique-fr:
+    description: "Les vid\xE9os sur l'inclusion num\xE9rique propose une initiation\
+      \ \xE0 l'informatique."
+    language: fr
+    name: "L'inclusion num\xE9rique"
+    sha256sum: e69180bc0daeed348782472463e3095c3932bd942429a7969b606d4e682f07bb
+    size: 697334885
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/l-inclusion-numerique-fr.zip
+    version: '2019-10-15'
   la-sante-enfants-ado-fr:
     description: Comprendre son corps et en prendre soin
     language: fr
@@ -1417,6 +1501,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-first-aid-techniques-en.zip
     version: '2019-09-17'
+  learn-guitar-en:
+    description: You want to learn about guitar ? Beginner or confirmed, you will
+      find what you are looking for here !
+    language: en
+    name: Learn guitar
+    sha256sum: cd4f20132726a18b075c0ff1aaad09841741e24406c0ab3bcc87f47bdb4ac0be
+    size: 716556201
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learn-guitar-en.zip
+    version: '2019-10-15'
   learn-photography-en:
     description: Learn how to create great pictures, acquire the basic skills to become
       a photographer !
@@ -1706,6 +1800,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/novels-for-youth-ar.zip
     version: '2019-09-17'
+  numerique-et-bidouille-informatique-fr:
+    description: "Acqu\xE9rir les bases de la programmation et de la robotique gr\xE2\
+      ce \xE0 l'utilisation d'outils."
+    language: fr
+    name: "Num\xE9rique et bidouille informatique"
+    sha256sum: 429921cd91dbb7a373c3ff957b58e59e74693731b9cf69124c85367aaa9628b2
+    size: 2348561877
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/numerique-et-bidouille-informatique-fr.zip
+    version: '2019-10-15'
   nutrition-enfants-fr:
     description: "Bien manger, qu'est-ce que \xE7a veut dire ? Apprends \xE0 composer\
       \ des repas sains et nutritifs !"
@@ -1803,6 +1907,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/pedagogie-enabel-fr.zip
     version: '2019-09-16'
+  political-sciences-africa-en:
+    description: Returning to the stakes of politics sometimes helps to better understand
+      the events of the present.
+    language: en
+    name: Political Sciences
+    sha256sum: 41e2113f384b41beb11b55da8daafe8b93b0cdd8243280fbc3da0754b42044c6
+    size: 469301362
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/political-sciences-africa-en.zip
+    version: '2019-10-15'
   pratiques-et-usages-du-numerique-fr:
     description: "Pratiques et usages du num\xE9rique regroupe les vid\xE9os concernant\
       \ notamment l'\xE9conomie du num\xE9rique, les droits d'auteur, la citoyennet\xE9\
@@ -1887,6 +2001,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/priorite-sante-rfi-fr.zip
     version: '2019-09-16'
+  programmation-et-bidouille-fr:
+    description: "Programmation et bidouille pr\xE9sente des vid\xE9os concernant\
+      \ la d\xE9couverte et l'apprentissage de diff\xE9rents langages et des notions\
+      \ d'\xE9lectronique."
+    language: fr
+    name: Programmation et bidouille
+    sha256sum: 6d13d85b2b8932f9aed0928bd9c512c4caf6e0f98e936ae23b23919611654c98
+    size: 6119573070
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/programmation-et-bidouille-fr.zip
+    version: '2019-10-15'
   protegeons-la-planete-enfants-ados-fr:
     description: "Pourquoi c'est important de prot\xE9ger la plan\xE8te ? Que peut-on\
       \ faire pour la prot\xE9ger, tous ensemble ?"
@@ -2037,6 +2162,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sports-enfants-ados-fr.zip
     version: '2019-10-08'
+  talented-thinker-club-ar:
+    description: Short animation movies that carry a meaningful message.
+    language: ar
+    name: "Talented & Thinker Club [\u0645\u0648\u0647\u0648\u0628 \u0648\u0645\u0641\
+      \u0643\u0631]"
+    sha256sum: a07cd6fb345f9c267a7eed45df5be9306a281143446617be0212ed590a78aab5
+    size: 698586619
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/talented-thinker-club-ar.zip
+    version: '2019-10-15'
   tales-for-kids-ar:
     description: "A variety of fun and cultivating tales for kids. /\u0642\u0635\u0635\
       \ \u0645\u0646\u0648\u0639\u0629 \u0627\u062F\u0628\u064A\u0629 \u0645\u0646\
@@ -2112,6 +2247,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/what-are-some-easy-diets-i-can-use-en.zip
     version: '2019-09-16'
+  what-are-the-basics-of-diabetes-en:
+    description: A package containing the basic information about diabetes
+    language: en
+    name: What are the basics of diabetes?
+    sha256sum: 9a232baa7b58222ecd27147bafbd9d8aa6967fd4aadc483c055af6a2362e8ae9
+    size: 1231617
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/what-are-the-basics-of-diabetes-en.zip
+    version: '2019-10-15'
   what-does-addiction-look-like-en:
     description: A package outlining the the signs of addiction and how to deal with
       it
