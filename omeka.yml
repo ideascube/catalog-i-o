@@ -92,6 +92,25 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-a-utiliser-des-patrons-fr.zip
     version: '2019-09-10'
+  apprendre-la-menuiserie-sikana-fr:
+    description: "Dans ce programme vid\xE9o \xE9ducatif, vous d\xE9couvrirez les\
+      \ savoirs de base qu'il est n\xE9cessaire d'acqu\xE9rir pour devenir menuisier.\
+      \ L'objectif principal de ce programme est d'aider les personnes \xE0 d\xE9\
+      couvrir et d\xE9velopper les connaissances particuli\xE8res qui sont requises\
+      \ en menuiserie comme en charpente. L'ensemble de ce programme a \xE9t\xE9 structur\xE9\
+      \ dans une optique de cr\xE9ation d'opportunit\xE9s professionnelles, en donnant\
+      \ les moyens aux personnes le souhaitant, de d\xE9velopper des comp\xE9tences\
+      \ pratiques pouvant les aider \xE0 trouver un emploi. Nos vid\xE9os restent\
+      \ aussi accessibles et \xE0 la port\xE9e de ceux voulant simplement s'int\xE9\
+      resser \xE0 la menuiserie, peu importe leur exp\xE9rience vis \xE0 vis de cet\
+      \ artisanat."
+    language: fr
+    name: Apprendre la menuiserie
+    sha256sum: 2937b81d5002f500211d4e707f44521bae7fd0f9c9616781263459dae9e08459
+    size: 436850055
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprendre-la-menuiserie-sikana-fr.zip
+    version: '2019-10-25'
   apprends-le-francais-a1-enfants-adolescents-fr:
     description: "Pars \xE0 la d\xE9couverte de la langue fran\xE7aise, en images\
       \ !"
@@ -274,6 +293,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/asylum-seeking-process-arabic-ar.zip
     version: '2019-09-12'
+  audiobooks-et-fictions-sonores-fr:
+    description: "Les fictions, les romans, on peut aussi les \xE9couter ! A vos casques\
+      \ !"
+    language: fr
+    name: Audiobooks et fictions sonores
+    sha256sum: 83de7047950d2dd216e012ff403478808f2deedb1ba6cd4c1a25f3b7925ec08e
+    size: 1420205840
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/audiobooks-et-fictions-sonores-fr.zip
+    version: '2019-10-25'
   audiobooks-from-radio-book-rwanda-en:
     description: These audios are part of a large project called RadioBook Rwanda,
       born from a collaboration of 3 publishers, Huza Press from Rwanda, Kwani Trust
@@ -296,6 +325,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/audiobooks-from-radio-book-rwanda-rw-rw.zip
     version: '2019-10-10'
+  bien-etre-et-communication-au-travail-fr:
+    description: "Ici, des outils pour travailler votre confiance en vous et vous\
+      \ affirmer au travail. Et des cl\xE9s pour d\xE9samorcer et r\xE9soudre des\
+      \ conflits."
+    language: fr
+    name: "Bien-\xEAtre et communication au travail"
+    sha256sum: 04cfafe817036237e10107e165bbddfdc110b191114fa479e8235e302cb59d90
+    size: 286666758
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/bien-etre-et-communication-au-travail-fr.zip
+    version: '2019-10-25'
   biologie-adolescents-fr:
     description: "Pars \xE0 la d\xE9couverte du corps humain !"
     language: fr
@@ -597,6 +637,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/denis-mukwege-fr.zip
     version: '2019-09-18'
+  dessins-animes-pour-enfants-sw:
+    description: "Tu veux regarder des dessins anim\xE9s en swahili ? C'est ici !"
+    language: sw
+    name: Ubongo Kids
+    sha256sum: e43c8ebb37938e4a6e82780a51647b59173da81a07600d8668aca7bd9e0f0530
+    size: 1036101873
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/dessins-animes-pour-enfants-sw.zip
+    version: '2019-10-25'
   discriminations-enfants-ados-fr:
     description: "On est tous diff\xE9rents, mais tous des \xEAtres humains ! Pour\
       \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
@@ -781,6 +830,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/educational-videos-arabic-ar.zip
     version: '2019-09-18'
+  electricite-sikana-fr:
+    description: "Faire des petits travaux sur une installation \xE9lectrique"
+    language: fr
+    name: "Les bases de l'\xE9lectricit\xE9"
+    sha256sum: 30dfd398da8a2063f2f694b98ffe3db5dbc183a955a61ebf675125347a1cbcdb
+    size: 221375758
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/electricite-sikana-fr.zip
+    version: '2019-10-25'
   english-for-adults-ar:
     description: "Learn English through these easy to follow videos. \u062A\u0639\u0644\
       \u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\u0646\u062C\u0644\u064A\
@@ -879,6 +937,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/filles-garcons-quelle-place-pour-qui-fr.zip
     version: '2019-09-16'
+  films-et-videos-libres-de-droit-fr:
+    description: "A regarder ! Tous les genres, pour tous les \xE2ges."
+    language: fr
+    name: "Films et vid\xE9os"
+    sha256sum: 29dc18983676c3fc3c5a4125007429e5db49b476eb2a775e6ebd6a96f94e585d
+    size: 4044287577
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/films-et-videos-libres-de-droit-fr.zip
+    version: '2019-10-25'
   films-fr:
     description: "Une com\xE9die ? Un drame ? Un policier ? D\xE9couvrez ou red\xE9\
       couvrez ici quelques films muets ou en fran\xE7ais."
@@ -1173,6 +1240,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/innovation-en-afrique-fr.zip
     version: '2019-09-18'
+  installer-et-entretenir-des-panneaux-solaires-sikana-fr:
+    description: "Vous d\xE9couvrirez dans ce programme d'\xE9lectricit\xE9, comment\
+      \ exploiter les \xE9nergies renouvelables. Chaque vid\xE9o propose une \xE9\
+      tape pour comprendre comment g\xE9n\xE9rer et utiliser l'\xE9nergie solaire."
+    language: fr
+    name: Installer et entretenir des panneaux solaires
+    sha256sum: 47deeaef9115d54fb4d1e99c3c3d40dffba81d603f66d42f6f7658c13e31edc1
+    size: 392259355
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/installer-et-entretenir-des-panneaux-solaires-sikana-fr.zip
+    version: '2019-10-25'
   instrumental-music-en:
     description: Music doesn't need words. This package shows musical tracks that
       carry emotions through notes and rhythms, without words. It showcases the universality
@@ -1194,6 +1272,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-aux-droits-de-l-homme-fr.zip
     version: '2019-09-18'
+  introduction-aux-mathematiques-fr:
+    description: "D\xE9couvrir les bases des math\xE9matiques arithm\xE9tique et g\xE9\
+      om\xE9trie"
+    language: fr
+    name: "Introduction aux math\xE9matiques"
+    sha256sum: 78e81e191c9cf917a43b4afed8416bd6e3343c03d9aa140fdebae776fa1d4f09
+    size: 258138398
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/introduction-aux-mathematiques-fr.zip
+    version: '2019-10-25'
   introduction-aux-sciences-cognitives-et-aux-neurosciences-fr:
     description: "Comment fonctionne le cerveau ? Comment r\xE9gule-t-il nos \xE9\
       motions ? Qu'est-ce que l'autisme ? Les sciences cognitives ont pour objet l'\xE9\
@@ -1384,6 +1472,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-the-history-of-the-world-en.zip
     version: '2019-09-17'
+  jardinage-et-agriculture-fr:
+    description: "D\xE9couvrez ou approfondissez vos connaissances en m\xE9thodes\
+      \ de culture, d'irrigation, de fertilisation... Pour vous lancer dans le jardinage\
+      \ \xE0 petite ou moyenne \xE9chelle."
+    language: fr
+    name: Jardinage et agriculture
+    sha256sum: aee9f2ee3798f680b519a693dc740491ac1bdf1e33bd7bc576dcca69035a0974
+    size: 1593157166
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/jardinage-et-agriculture-fr.zip
+    version: '2019-10-25'
   kit-de-l-animateur-fr:
     description: "Animatrices, animateurs de l'Ideas Box, vous trouverez ici des supports\
       \ pour vous aider dans la mise en place d'atelier de m\xE9diation au sein de\
@@ -1442,6 +1541,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-enfants-ado-fr.zip
     version: '2019-09-18'
+  langue-des-signes-fr:
+    description: Se familiariser avec la langue des signes
+    language: fr
+    name: Langue des signes
+    sha256sum: 0091eee85e0a0f6227b027e85bef31bf99764f0ee787dc3d737caaea0511de12
+    size: 2323356279
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/langue-des-signes-fr.zip
+    version: '2019-10-25'
   le-talisman-brise-ln-rfi-ln:
     description: "Du lingala au fran\xE7ais avec \"Le Talisman bris\xE9\""
     language: ln
@@ -1665,6 +1773,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/make-your-own-radio-en.zip
     version: '2019-09-16'
+  marketing-fr:
+    description: Les bases du marketing.
+    language: fr
+    name: Marketing
+    sha256sum: 9c072830b64a0aca4a72d8a0016afc51e88675c4a4b48c9c972a95e8d3e133eb
+    size: 355682002
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/marketing-fr.zip
+    version: '2019-10-25'
   mathematics-ar:
     description: "Simple mathematics for kids.// \u0631\u064A\u0627\u0636\u064A\u0627\
       \u062A \u0644\u0644\u0627\u0637\u0641\u0627\u0644"
@@ -2113,6 +2230,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/se-preparer-a-une-catastrophe-fr.zip
     version: '2019-09-18'
+  sensibilisation-a-la-gestion-des-epidemies-fr:
+    description: "Qu'est-ce que le virus Ebola ? Comment sensibiliser le grand public\
+      \ afin d'\xE9viter la propagation d'\xE9pid\xE9mies ? A travers les exemples\
+      \ du virus Ebola et de la l\xE8pre, ces vid\xE9os reviennent sur les principes\
+      \ fondamentaux de la pr\xE9vention des \xE9pid\xE9mies."
+    language: fr
+    name: "Sensibilisation \xE0 la gestion des \xE9pid\xE9mies"
+    sha256sum: 2e5150ce6d5c61902cc742e402cb0138e96fd4470111aa534e4774d9350fdc5a
+    size: 391216429
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/sensibilisation-a-la-gestion-des-epidemies-fr.zip
+    version: '2019-10-25'
   silent-animated-movies-en:
     description: Discover beautiful short films that tell stories without words!
     language: en
@@ -2202,11 +2331,11 @@ all:
       \ de prendre en mains les applications propos\xE9es sur les tablettes"
     language: fr
     name: Tutoriels pour utiliser des logiciels et des applications
-    sha256sum: 357f8cdac9308f548fe45007734c7f5c430a2d48d9c8fa4e87c507afc4ebd839
-    size: 3652061234
+    sha256sum: d137d74c1abf3c6cac45a315509ecb5c7f34784e48340c90b77e5d1f87c2fd7f
+    size: 432380098
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/tutoriels-pour-utiliser-des-logiciels-et-des-applications-fr.zip
-    version: '2019-09-18'
+    version: '2019-10-25'
   utilisez-internet-en-toute-securite-fr:
     description: "Des contenus pour accompagner petits et grands \xE0 utiliser internet\
       \ en toute s\xE9curit\xE9, et \xE0 comprendre comment avoir du recul sur les\
@@ -2218,6 +2347,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/utilisez-internet-en-toute-securite-fr.zip
     version: '2019-09-16'
+  vih-sida-fr:
+    description: "Conna\xEEtre le VIH sida, les risques de contamination, les moyens\
+      \ de pr\xE9vention et de protection."
+    language: fr
+    name: "Se prot\xE9ger du VIH"
+    sha256sum: 04e7385b34ee6695489a7c27d17e763884a407c526e40ac3bbc4146bcf830fac
+    size: 201290618
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/vih-sida-fr.zip
+    version: '2019-10-25'
   violences-faites-aux-femmes-fr:
     description: "Conna\xEEtre et combattre les violences sp\xE9cifiques aux femmes"
     language: fr
