@@ -399,7 +399,7 @@ all:
       \ trouve tous les pr\xE9textes. D\xE9tectons-les, et combattons-les. (Adultes)"
     language: fr
     name: Combattons les discriminations (adultes)
-    sha256sum: 75cad85e5fe779dd3150a7e65f093d7a4a34872e08a0a079e34a1bc3fba13308
+    sha256sum: 8c0c86a73362327bea6a67b9de39af2fdfda0eafefbbdcfca493e2c39a602bde
     size: 1537139610
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/combattons-les-discriminations-fr.zip
@@ -641,7 +641,7 @@ all:
     description: "Tu veux regarder des dessins anim\xE9s en swahili ? C'est ici !"
     language: sw
     name: Ubongo Kids
-    sha256sum: c459be09aac87abd5df6a49963bc3c0fbc7a9238e8677c20feaf9fa258418b57
+    sha256sum: 517df070b39628f11d8bb06ab62757b844c0ffe24c668dbe65b65f4625c02815
     size: 1036101873
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/dessins-animes-pour-enfants-en-swahili-sw.zip
@@ -661,7 +661,7 @@ all:
       \ \xE0 accepter les diff\xE9rences des qui nous entourent. (Enfants et ados)."
     language: fr
     name: Combattons les discriminations (enfants/ados)
-    sha256sum: 7a23fea68d2863dc3b54f0b056d2da4a64fb8868cf46b550eeeee9fe7d91c550
+    sha256sum: d52458e0c8d676f367761f0e25f99c512cd4239bb0af00052166cbcd9ee44b3d
     size: 616927475
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discriminations-enfants-ados-fr.zip
@@ -1545,7 +1545,7 @@ all:
     description: Comprendre son corps et en prendre soin
     language: fr
     name: "Pour \xEAtre en bonne sant\xE9 !"
-    sha256sum: 067c886f6d8854ae8b13959a78252f04e0ead3e449ce23387eb724043fa8588b
+    sha256sum: 1ad2e019586d282475d1f323fa9ed2d9e7889d3702f32f8a2421671cc2d1977f
     size: 245522739
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-enfants-ado-fr.zip
