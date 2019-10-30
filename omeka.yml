@@ -399,11 +399,11 @@ all:
       \ trouve tous les pr\xE9textes. D\xE9tectons-les, et combattons-les. (Adultes)"
     language: fr
     name: Combattons les discriminations (adultes)
-    sha256sum: 8c0c86a73362327bea6a67b9de39af2fdfda0eafefbbdcfca493e2c39a602bde
+    sha256sum: 3c30b18d3e2dbf76178165224e8e37f4be7b0120a0a69dbe3d45b802225cfb84
     size: 1537139610
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/combattons-les-discriminations-fr.zip
-    version: '2019-10-29'
+    version: '2019-10-30'
   comment-faire-face-a-la-violence-et-aux-conflits-enfants-ados-fr:
     description: La paix, comment on fait ?
     language: fr
@@ -641,11 +641,11 @@ all:
     description: "Tu veux regarder des dessins anim\xE9s en swahili ? C'est ici !"
     language: sw
     name: Ubongo Kids
-    sha256sum: 517df070b39628f11d8bb06ab62757b844c0ffe24c668dbe65b65f4625c02815
+    sha256sum: 80205e2cb2a337f535c2d649ddef75247642e815d9392d761a338a5c71515d7a
     size: 1036101873
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/dessins-animes-pour-enfants-en-swahili-sw.zip
-    version: '2019-10-29'
+    version: '2019-10-30'
   dessins-animes-pour-enfants-sw:
     description: "Tu veux regarder des dessins anim\xE9s en swahili ? C'est ici !"
     language: sw
@@ -661,11 +661,11 @@ all:
       \ \xE0 accepter les diff\xE9rences des qui nous entourent. (Enfants et ados)."
     language: fr
     name: Combattons les discriminations (enfants/ados)
-    sha256sum: d52458e0c8d676f367761f0e25f99c512cd4239bb0af00052166cbcd9ee44b3d
+    sha256sum: de5362c2c01974ad7c302ebeba274b7c85393f5698b6707a9e5b0723da62f7d3
     size: 616927475
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discriminations-enfants-ados-fr.zip
-    version: '2019-10-29'
+    version: '2019-10-30'
   diy-travaux-manuels-fr:
     description: "Envie de r\xE9aliser un objet simple avec du mat\xE9riel recycl\xE9\
       \ ? De cr\xE9er tout un univers avec du papier ? De faire un scoubidou original\
@@ -1545,11 +1545,11 @@ all:
     description: Comprendre son corps et en prendre soin
     language: fr
     name: "Pour \xEAtre en bonne sant\xE9 !"
-    sha256sum: 1ad2e019586d282475d1f323fa9ed2d9e7889d3702f32f8a2421671cc2d1977f
+    sha256sum: 9d279164ddad252c07360a0655b779107c9a0ad72dda64f3e38310f3b3106a37
     size: 245522739
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-enfants-ado-fr.zip
-    version: '2019-10-29'
+    version: '2019-10-30'
   langue-des-signes-fr:
     description: Se familiariser avec la langue des signes
     language: fr
