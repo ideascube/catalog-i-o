@@ -400,13 +400,13 @@ all:
     langid: "wikipedia.fa"
     type: zim
   wikipedia.ar:
-    version: "2018-09-09"
-    size: 8888226692
-    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_ar_all_novid_2018-10.zim"
+    version: "2019-06-13"
+    size: 9822413939
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_ar_all_maxi_2019-06.zim"
     name: "ويكيبيديا"
     language: "ara"
     description: "ويكبيديا,الموسوعه الحره"
-    sha256sum: "9964079f0ac9271de92ef93bd481e1edfc9385c4f446937ceee4a0476a256ecf"
+    sha256sum: "3ea14ff53e4c5822b33989413fe50b28e9f27e4b783aef88f8d812bb8180cab0"
     langid: "wikipedia.ar"
     type: zim
   vikidia.fr:
@@ -570,13 +570,13 @@ all:
     langid: "wikisource.ar"
     type: zim
   wikiquote.ar:
-    version: "2019-06-03"
-    size: 11873915
-    url: "http://download.kiwix.org/zim/wikiquote/wikiquote_ar_all_novid_2019-06.zim"
+    version: "2019-07-24"
+    size: 15642521
+    url: "http://download.kiwix.org/zim/wikiquote/wikiquote_ar_all_maxi_2019-07.zim"
     name: "ويكي الاقتباس"
     language: "ara"
     description: "ويكي للاقتباسات المختارة"
-    sha256sum: "01b60770e2bd9e537d15098187cc4cce3958a0b08b465d3a6fcff1e6bbda89e7"
+    sha256sum: "51fb8a64d4105e0d73d910ca285a34445998e141a324e971b3d9e85891a18ad9"
     langid: "wikiquote.ar"
     type: zim
   wikipedia.el:
@@ -673,11 +673,11 @@ all:
     langid: "wikiquote.en"
     description: The free quote compendium.
     name: Wikiquote
-    version: "2019-06-05"
+    version: "2019-07-24"
     language: "eng"
-    url: "http://download.kiwix.org/zim/wikiquote/wikiquote_en_all_novid_2019-06.zim"
-    size: 598263827
-    sha256sum: "bf46c6fc42621e0dd94da49ee9cb948b76ace39c835a8e402f7f7d24c336ad58"
+    url: "http://download.kiwix.org/zim/wikiquote/wikiquote_en_all_maxi_2019-07.zim"
+    size: 669331118
+    sha256sum: "644a2eb8e9a71f7c7d5388020ecfe1534d5fadae5be7405c1ce856b32f53da8a"
     type: zim
   wikiquote.el:
     langid: "wikiquote.el"
@@ -852,11 +852,11 @@ all:
   wikiquote.fr:
     name: "Wikiquote"
     description: "le recueil de citations libre"
-    version: "2019-06-05"
+    version: "2019-07-24"
     language: "fra"
-    url: "http://download.kiwix.org/zim/wikiquote/wikiquote_fr_all_novid_2019-06.zim"
-    size: 30494875
-    sha256sum: "3184f6390f9fb7942dbcdd45897b69fa6a136773c9a9fa5213cb8483265de6b7"
+    url: "http://download.kiwix.org/zim/wikiquote/wikiquote_fr_all_maxi_2019-07.zim"
+    size: 60205830
+    sha256sum: "cc499a90df75dfb76e2613fb261254528200e35485dd77e72fab192a4d8497f3"
     type: zim
   wikipedia.ckb:
     version: "2019-06-04"
@@ -971,9 +971,9 @@ all:
   wikipedia-medicine.en:
     name: "Medical Wikipedia"
     description: "Medical Wikipedia"
-    version: "2018-10-09"
+    version: "2019-10-27"
     language: "eng"
-    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_en_medicine_novid_2018-10.zim"
-    size: 1225768642
-    sha256sum: "39a759257915289df1fc59bad82550a89de2f4cdf933cde9967bda263e031c9e"
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_en_medicine_2019-10.zim"
+    size: 3772362169
+    sha256sum: "1053419b3585ae509f4ee13ab9828cebfdb3ec192fdaed3f5eea4ec41e21e4d7"
     type: zim
