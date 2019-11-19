@@ -2601,6 +2601,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sensibilisation-a-la-gestion-des-epidemies-fr.zip
     version: '2019-10-25'
+  sgbv-en:
+    description: Knowing and avoid SGBV
+    language: en
+    name: SGBV
+    sha256sum: 143084f1bf23ff03472d0997d669dad8d887cc91944b79c6b3a01f0c182749a2
+    size: 824574385
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/sgbv-en.zip
+    version: '2019-11-19'
   silent-animated-movies-en:
     description: Discover beautiful short films that tell stories without words!
     language: en
