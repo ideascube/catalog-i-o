@@ -1338,11 +1338,11 @@ all:
       acts and to face them, to build a community harmony.
     language: en
     name: Fight against discriminations and live together
-    sha256sum: ab359c5c7b1cc2e21b9cadfa2d9455e2182cef4c3a7dbbd55a0a9383c2cc5ace
-    size: 289674890
+    sha256sum: 0648ffb8b3b7253cc8e6c5d94c908ff3b7d2d25e2aed4c6a1454814e787a914d
+    size: 308265801
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fight-against-discriminations-and-live-together-en.zip
-    version: '2019-09-16'
+    version: '2019-12-06'
   filles-garcons-quelle-place-pour-qui-fr:
     description: "Quelles sont les diff\xE9rences quand on parle des filles et des\
       \ gar\xE7ons?"
@@ -3238,11 +3238,11 @@ all:
       - gimp - blender - scribus - raspberry pi - audacity - DaVinci - krita
     language: en
     name: Tutorials for using programs
-    sha256sum: 75cf002463d5b1b0e4fe46b787c311fff4a0f6efe08cc079cf6c30bb5dbc952c
-    size: 4043997695
+    sha256sum: f0d942d0173f24f3d1b1d981bd96cc22cc97a1521236561cdbd060518d6a36a9
+    size: 4044332400
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/tutorials-for-using-programs-en.zip
-    version: '2019-09-17'
+    version: '2019-12-06'
   tutoriels-pour-utiliser-des-logiciels-et-des-applications-fr:
     description: "Tutoriels pour utiliser des logiciels et des applications\r\n- \xEA\
       tre en capacit\xE9 de prendre en mains les logiciels propos\xE9s sur les ordinateurs\
