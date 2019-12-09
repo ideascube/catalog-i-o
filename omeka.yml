@@ -583,11 +583,11 @@ all:
       \ vos besoins. Vous serez mieux avec vous m\xEAme et avec les autres !"
     language: fr
     name: "Comprendre et exprimer ses \xE9motions"
-    sha256sum: 926c2cfcd5af35f37a9706a323b0268da2e87ec10c6fa2f1fce9064396c7080c
-    size: 905768971
+    sha256sum: fd0fabafc05e42e2d95afa4fbf059bfd296c4345169ccabb9bfc5800bc914afc
+    size: 2792453717
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comprendre-et-exprimer-ses-emotions-fr.zip
-    version: '2019-09-18'
+    version: '2019-12-09'
   comprendre-l-autisme-fr:
     description: "- Etre en capacit\xE9 de se comporter de mani\xE8re appropri\xE9\
       \ avec une personne autiste"
