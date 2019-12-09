@@ -616,11 +616,11 @@ all:
       \ sa t\xEAte. Et vous ? Comment voyez-vous votre corps ?"
     language: fr
     name: Relation au corps
-    sha256sum: 7a8030db8fb3a2cab5ff1314c0d0557a429af7729fda9877436e93b6f82c3a9d
-    size: 239971263
+    sha256sum: 7865a83f98b89698b6117aba4f0863fdf91948b881f9a67102d6d6a7b657479c
+    size: 263751024
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/connaitre-et-aimer-son-corps-fr.zip
-    version: '2019-10-10'
+    version: '2019-12-09'
   connaitre-la-france-et-paris-fr:
     description: "Comment fait-on la bise ? Pourquoi repr\xE9sente-t-on les fran\xE7\
       ais avec une baguette de pain ? Ou encore : d'ou viennent les partis politiques\
@@ -1348,11 +1348,11 @@ all:
       \ gar\xE7ons?"
     language: fr
     name: "Filles, gar\xE7ons, quelle place pour qui?"
-    sha256sum: 3b938bca8655b463399332966c824539c997f7f3ebbc7fc45302f85961c4c5b1
-    size: 146332595
+    sha256sum: 293bb536a09044649a93d3b4cfecb27fb14f7679d2b61f74bf5152614e7c95c8
+    size: 215713239
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/filles-garcons-quelle-place-pour-qui-fr.zip
-    version: '2019-09-16'
+    version: '2019-12-09'
   films-et-videos-libres-de-droit-fr:
     description: "A regarder ! Tous les genres, pour tous les \xE2ges."
     language: fr
@@ -1678,6 +1678,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/how-to-write-in-a-professional-context-en.zip
     version: '2019-09-16'
+  hygiene-af-fr:
+    description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
+      ne et \xE9viter les maladies !"
+    language: fr
+    name: "Hygi\xE8ne"
+    sha256sum: f59cad3a5688b4f256f01a9c7d2aff60060a4ef38d18a0422fcc757dbc0bbfb3
+    size: 332556148
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/hygiene-af-fr.zip
+    version: '2019-12-09'
   hygiene-de-base-fr:
     description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
       ne et \xE9viter les maladies !"
@@ -2418,11 +2428,11 @@ all:
       \ \xE0 destination du grand public."
     language: fr
     name: "Microbiologie et pr\xE9vention sant\xE9"
-    sha256sum: 1414fde61c12dc37d19090bd12c980e4475b7da786c03d91c51b8db0641264c4
-    size: 843571539
+    sha256sum: 8a76201fef88b745fc79d00dd823c30c9b7fd006f91a64c525b90c4c2a936140
+    size: 1042674052
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/microbiologie-et-prevention-sante-fr.zip
-    version: '2019-09-18'
+    version: '2019-12-09'
   monter-un-laboratoire-d-innovation-publique-fr:
     description: "L\u2019action publique se r\xE9invente. Pour sortir des m\xE9thodes\
       \ classiques et des conceptions \xAB top down \xBB, de nouvelles approches se\
@@ -2974,6 +2984,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/s-informer-sur-internet-fr.zip
     version: '2019-09-16'
+  sante-de-la-femme-fr:
+    description: "Contenus relatifs \xE0 la physiologie de la femme"
+    language: fr
+    name: sante de la femme
+    sha256sum: efa9597f109f15b1afd05b76eb72f247bf1dc14342b02f0b580aeba4605934a9
+    size: 28683429
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/sante-de-la-femme-fr.zip
+    version: '2019-12-09'
   sante-les-bases-fr:
     description: "Un petit kit pour avoir les bons r\xE9flexes de premiers secours\
       \ et savoir pr\xE9venir les maladies et infections... Pour soi, et pour les\
@@ -3271,20 +3290,21 @@ all:
       \ de pr\xE9vention et de protection."
     language: fr
     name: "Se prot\xE9ger du VIH"
-    sha256sum: 04e7385b34ee6695489a7c27d17e763884a407c526e40ac3bbc4146bcf830fac
-    size: 201290618
+    sha256sum: 3267e6f2fb1c6967d1802aed84adff73819eef082252557b96b06a4a5b266c64
+    size: 341334563
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/vih-sida-fr.zip
-    version: '2019-10-25'
+    version: '2019-12-09'
   violences-faites-aux-femmes-fr:
-    description: "Conna\xEEtre et combattre les violences sp\xE9cifiques aux femmes"
+    description: "\"Violences faites aux femmes\" est compos\xE9 d'articles et d'outils\
+      \ pour mieux comprendre et appr\xE9hender les violences faites aux femmes."
     language: fr
     name: Violences faites aux femmes
-    sha256sum: 3b70e7a8b39c83d754a03e1df07815d5dbfb5eec8bfc725ee4669cd8e9b523f5
-    size: 197043976
+    sha256sum: 162952cea52e6aa0868a3e89ad22d1c5fd93c03138a2f6d16d1327ede74a9ae7
+    size: 207164907
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/violences-faites-aux-femmes-fr.zip
-    version: '2019-09-18'
+    version: '2019-12-09'
   wash-promotion-burmese-mm:
     description: '-'
     language: mm
