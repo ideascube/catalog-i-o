@@ -251,11 +251,11 @@ all:
       \ une discussion technique dans sa sp\xE9cialit\xE9."
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau B2"
-    sha256sum: 76b8518f187226c241a2ad0df9eed521c4fefa7cae5f4576656747a4d9dac569
-    size: 230366266
+    sha256sum: 3067c15958ac3c7a8de77dc006e50f36ac663467372b610765c7030387db683d
+    size: 230549013
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-b2-fr.zip
-    version: '2019-09-19'
+    version: '2019-12-09'
   apprenez-le-francais-niveau-c1-c2-fr:
     description: "Le niveau C1 et C2 en fran\xE7ais, c'est comprendre une grande gamme\
       \ de textes longs et exigeants, ainsi que de saisir des significations implicites.\
@@ -314,11 +314,11 @@ all:
       et font partie de la richesse d'un pays et d'une culture !
     language: fr
     name: Arts
-    sha256sum: 1c4eda5e937342e399acccccc4a474510fc5a5bfe2f09e2fb72f28dd9f028792
-    size: 5720568507
+    sha256sum: 9247c24b392813de07f3ee76f46370668a0b5c97b1284ff6b4856edb0fb7c68a
+    size: 6107322396
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arts-afrique-fr.zip
-    version: '2019-09-18'
+    version: '2019-12-09'
   arts-plastiques-fr:
     description: "D\xE9tendez-vous, exprimez-vous, cr\xE9ez ! Il y a un artiste en\
       \ chacun de nous, \xE0 vous de le r\xE9v\xE9ler..."
@@ -1750,6 +1750,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/il-etait-une-fois-notre-terre-fr.zip
     version: '2019-10-08'
+  informatique-enabel-fr:
+    description: '-'
+    language: fr
+    name: Informatique
+    sha256sum: d610970e7d9efabbd6f366069a411c802a452f97fceaf4a8c697ba85e2815a75
+    size: 222404310
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/informatique-enabel-fr.zip
+    version: '2019-12-09'
   initiez-vous-a-la-creation-video-fr:
     description: "Initiez vous aux r\xE9flexions sur le cin\xE9ma et l'image, et lancez\
       \ vous dans vos premi\xE8res cr\xE9ations vid\xE9os !"
@@ -1765,11 +1774,11 @@ all:
       avez besoin d'aide ? C'est ici !
     language: fr
     name: "Initiez-vous \xE0 la photographie"
-    sha256sum: d42922780d91cad8b7b390a9f259390264ef408766841fa07188a84320630828
-    size: 516131016
+    sha256sum: 0f2e43112213a8630a97d2bbd66333559c8303aac9f8ce878975f2aa43e2cc2c
+    size: 517051093
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-photographie-fr.zip
-    version: '2019-09-18'
+    version: '2019-12-09'
   innovation-en-afrique-fr:
     description: "Vous trouverez ici du contenu sur des m\xE9thodes innovantes et\
       \ des pr\xE9sentations d'innovations sp\xE9cifiques au contexte \xE9conomique\
@@ -2378,11 +2387,11 @@ all:
     description: "Rencontres avec des \xE9crivains et des artistes africains"
     language: fr
     name: "Litt\xE9rature francophone"
-    sha256sum: 361470220c27047a41d81a0d1041df016d30ba59ee0f1235ea746544d9bd6772
-    size: 3134506880
+    sha256sum: 8419a72d98e8db3e377ce6a146d1e25bdd4b9973426ef2e48213e18258a26aae
+    size: 3134938056
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/litterature-francophone-afrique-fr.zip
-    version: '2019-09-18'
+    version: '2019-12-09'
   make-your-own-radio-en:
     description: Learn how to make your own radio shows !
     language: en
