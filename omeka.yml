@@ -791,11 +791,11 @@ all:
     description: Growing our culture, collection of stories, music and other things
     language: bn
     name: Cultural expression (bangla)
-    sha256sum: c651c35894a76f72059aa45845662450ab5acd2b9f5862051a7ea78d2ea29432
-    size: 3889386779
+    sha256sum: f49c2330bf787d920d2dcdbf1657a98184955822828805a2d5031c25100d6763
+    size: 3767028050
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultural-expression-bangla-bn.zip
-    version: '2019-09-11'
+    version: '2019-12-10'
   cultural-expression-burmese-rhg:
     description: Growing our culture, collection of stories, music and other things
     language: rhg
@@ -2966,14 +2966,14 @@ all:
     url: http://packages.ideascube.org/omeka/renseignez-vous-sur-les-demarches-administratives-fr.zip
     version: '2019-09-17'
   ressources-pour-les-fiches-activites-pour-le-projet-ministere-de-la-culture-2-fr:
-    description: "Des ressources pour mettre en place des activit\xE9s"
+    description: "Des ressources pour mettre en place des activit\xE9s."
     language: fr
     name: "Ressources pour les fiches activit\xE9s"
-    sha256sum: 0437b626fd12df5f3f19b241c6a8d35830e59901eefc145728c34bf79e15ae86
+    sha256sum: e8551070058ec55279473dc35bcf7cbd76118b3e08fdc538e792cda7f82c3873
     size: 227190647
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ressources-pour-les-fiches-activites-pour-le-projet-ministere-de-la-culture-2-fr.zip
-    version: '2019-09-17'
+    version: '2019-12-10'
   revolutionary-women-en:
     description: Learn about incredible women's history
     language: en
