@@ -515,11 +515,11 @@ all:
       \ ?"
     language: fr
     name: "Qu'est-ce qu'\xEAtre \"citoyen\" ?"
-    sha256sum: 36dd16c5aadd9745c716f3a69372537c343111fb0c3e61205e6602554e97cc9b
+    sha256sum: 189c7ccf141dd1e2ab0dd990ba4e2033d1f299b8f3cfe22feca3f19a56879c8a
     size: 103987094
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/citoyennete-et-politique-fr.zip
-    version: '2019-10-08'
+    version: '2019-12-10'
   classical-music-ar:
     description: "The best selection of classical music/ \u062A\u0645\u062A\u0639\
       \ \u0628\u0623\u062C\u0645\u0644 \u0627\u0644\u0645\u0642\u0637\u0648\u0639\u0627\
@@ -714,6 +714,33 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creation-d-entreprise-fr.zip
     version: '2019-09-16'
+  creatividad-colsubsidio-es:
+    description: '-'
+    language: es
+    name: Creatividad.
+    sha256sum: adcadb04ad75c447f137c69e4db8ec141e899680e1bcd954c86311eb2d6e05d5
+    size: 2353020939
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/creatividad-colsubsidio-es.zip
+    version: '2019-12-10'
+  creatividad-manualidades-es:
+    description: "Divi\xE9rtate creando objectos con tubos de cart\xF3n"
+    language: es
+    name: Creatividad Manualidades
+    sha256sum: 152225453432db6dd91a60048ee1c67b879142bd7584ad84fc047f943825f6ce
+    size: 1908944544
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/creatividad-manualidades-es.zip
+    version: '2019-12-10'
+  creativity-fruits-de-mer-art-creation-activities-en:
+    description: Express your creativity with coloring art creation
+    language: en
+    name: Fruits de mer Art creation acitivities
+    sha256sum: b07c2960b93f3ce79282678fc522dc065728dfd6c40b5b080050e09e9a574d8c
+    size: 7300248
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/creativity-fruits-de-mer-art-creation-activities-en.zip
+    version: '2019-12-10'
   creativity-multi-languages-en:
     description: Express your creativity
     language: en
@@ -732,6 +759,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cuisine-et-nutrition-enfants-fr.zip
     version: '2019-09-18'
+  cultura-cuentos-y-dibujos-animados-es:
+    description: "Escuche. ve y lee cuentos infantiles, dibujos animados y canciones\
+      \ para ni\xF1os y ni\xF1as"
+    language: es
+    name: "Cuentos canciones y dibujos animados para ni\xF1os"
+    sha256sum: 2442e69100ef632ef153c7467779c3a8800fb2005e0dc3e57b2e37e36bd52521
+    size: 4033724909
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cultura-cuentos-y-dibujos-animados-es.zip
+    version: '2019-12-10'
   cultural-blender-asia-ctg:
     description: neighbouring cultures
     language: ctg
@@ -814,6 +851,35 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultural-expression-rohingya-rhg.zip
     version: '2019-11-14'
+  cultures-fruits-de-mer-documentaries-en:
+    description: Various videos about the island of Saint Martin
+    language: en
+    name: Fruits de mer documentaries
+    sha256sum: 1b6b79dddcf83b288858773166fadf6a889682a4492774f214998c73c9278579
+    size: 2456373048
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cultures-fruits-de-mer-documentaries-en.zip
+    version: '2019-12-10'
+  cultures-fruits-de-mer-nature-en:
+    description: Various documents that present aspects of the fauna, flora and environment
+      of the carribean islands
+    language: en
+    name: Fruits de mer Nature discovery
+    sha256sum: 22cde4c15c007e3db5f5a90f6aa2258e954630cbd28dca4538d536df401c26cf
+    size: 96457452
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cultures-fruits-de-mer-nature-en.zip
+    version: '2019-12-10'
+  cultures-saint-martin-photos-fr:
+    description: Reportages photos sur la faune, la flore et le climat de l'ile de
+      Saint-Martion, par Mark Yokohama
+    language: fr
+    name: Cultures Saint-Martin Reportages photos
+    sha256sum: ae66a50a71068b538fe5dc3cef06cbf0e3ca3ffd9db889806554328fe57a5942
+    size: 26397107
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cultures-saint-martin-photos-fr.zip
+    version: '2019-12-10'
   decouvrez-ou-re-decouvrez-la-cuisine-de-differents-pays-fr:
     description: Qu'est-ce qu'on mange aujourd'hui ?
     language: fr
@@ -936,11 +1002,11 @@ all:
       \ ? c'est l\xE0 !!"
     language: fr
     name: Do It Yourself !
-    sha256sum: 6704ee2124db0cedf3535404d9ccae91ba4ad4c2132b1b33a2853245bb162f09
-    size: 2563854008
+    sha256sum: ef0ebe787abf8c9267d6706092c5d2c47692f3db1459723ef5ee776ca98cae51
+    size: 2620233789
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/diy-travaux-manuels-fr.zip
-    version: '2019-10-15'
+    version: '2019-12-10'
   do-it-yourself-burmese-rhg:
     description: '-'
     language: rhg
@@ -1026,6 +1092,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ebook-enfants-libres-de-droit-fr.zip
     version: '2019-09-11'
+  ebooks-enfants-fr:
+    description: "Tu cherches de quoi lire, des livres pas trop compliqu\xE9s ? C'est\
+      \ ici !"
+    language: fr
+    name: Raconte-moi des histoires !
+    sha256sum: 3ff95e170c32fbd88f77db377aa3f35fff8035d7bb9b91ee566f4778b638612a
+    size: 36993030
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ebooks-enfants-fr.zip
+    version: '2019-12-10'
   eco-d-ici-eco-d-ailleurs-rfi-fr:
     description: "\xC9mission RFI : \"Eco d'ici \xE9co d'ailleurs\""
     language: fr
@@ -1620,6 +1696,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-de-la-republique-democratique-du-congo-fr.zip
     version: '2019-09-19'
+  histoires-illustrees-fr:
+    description: "Profiter des histoires et se d\xE9tendre"
+    language: fr
+    name: "Histoires illustr\xE9es"
+    sha256sum: fcd5d96a3c3371262da293acdc91489f2526f53eca79c0b908e722bf937f2b69
+    size: 27993427
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoires-illustrees-fr.zip
+    version: '2019-12-10'
   history-africa-en:
     description: Learn in english the history of Africa
     language: en
