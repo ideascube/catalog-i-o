@@ -909,11 +909,11 @@ all:
       \ \xE0 accepter les diff\xE9rences des qui nous entourent. (Enfants et ados)."
     language: fr
     name: Combattons les discriminations (enfants/ados)
-    sha256sum: de5362c2c01974ad7c302ebeba274b7c85393f5698b6707a9e5b0723da62f7d3
-    size: 616927475
+    sha256sum: 04c51c21b00493368a451a89cd71d0805cf09dd17142e20f6f9862604d0b3ec6
+    size: 617794284
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discriminations-enfants-ados-fr.zip
-    version: '2019-10-30'
+    version: '2019-12-10'
   diy-handcrafts-and-arts-ar:
     description: "Learn how to do useful objects for yourself, your kids, your friends,\
       \ and home accessories.// \u062A\u0639\u0644\u0645 \u0643\u064A\u0641\u064A\u0629\
