@@ -598,6 +598,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comprendre-l-autisme-fr.zip
     version: '2019-09-18'
+  comprendre-les-migrations-fr:
+    description: '-'
+    language: fr
+    name: Comprendre les migrations
+    sha256sum: 6c023e30dcffb540297dcd1310b42ca4241dfe15dc0740ce498ff1d21e09a153
+    size: 1128550093
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/comprendre-les-migrations-fr.zip
+    version: '2019-12-16'
   computer-and-it-ar:
     description: "Learn about the different parts of the computer and more. // \u062A\
       \u0639\u0644\u0645 \u0639\u0646 \u0623\u062C\u0632\u0627\u0621 \u0627\u0644\u0643\
@@ -1064,6 +1073,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/drawing-colouring-en.zip
     version: '2019-09-19'
+  droit-introduction-fr:
+    description: "Contenus donnant des explications simples sur les fondements du\
+      \ droit et pr\xE9sentant des textes fondateurs."
+    language: fr
+    name: droit-introduction
+    sha256sum: 669a61c7d6b03f783ceab9a23259ccff69f3c144ddb8163377f6feb2fe18a3ae
+    size: 82363092
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/droit-introduction-fr.zip
+    version: '2019-12-16'
   droits-de-l-enfant-fr:
     description: "Tu as des droits, apprends \xE0 les conna\xEEtre pour mieux les\
       \ d\xE9fendre."
@@ -1247,6 +1266,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/electricite-sikana-fr.zip
     version: '2019-10-25'
+  emotions-fr:
+    description: "Contenus relatifs aux \xE9motions, comment celles-ci naissent en\
+      \ nous d'un point de vue scientifique mais \xE9galement l'impact que cela \xE0\
+      \ sur nos vies."
+    language: fr
+    name: emotions
+    sha256sum: 9c8e0d40ce259c97894bfbe866204f87529093708cec2120ca32101137c37087
+    size: 90022795
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/emotions-fr.zip
+    version: '2019-12-16'
   english-for-adults-ar:
     description: "Learn English through these easy to follow videos. \u062A\u0639\u0644\
       \u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\u0646\u062C\u0644\u064A\
@@ -1696,6 +1726,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-de-la-republique-democratique-du-congo-fr.zip
     version: '2019-09-19'
+  histoire-de-mayotte-et-des-comores-fr:
+    description: "Histoire de Mayotte, \xEEle de l'archipel des Comores, devenue 101\
+      \ \xE8me d\xE9partement fran\xE7ais en 2011."
+    language: fr
+    name: Histoire de Mayotte et des Comores
+    sha256sum: b8159edc1cdd3cad7bdfa65e75cb16519ff8418ba008a80c1bf232419ddb8a69
+    size: 1216521602
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-de-mayotte-et-des-comores-fr.zip
+    version: '2019-12-16'
   histoires-illustrees-fr:
     description: "Profiter des histoires et se d\xE9tendre"
     language: fr
@@ -2366,6 +2406,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-filles-et-les-garcons-quelles-differences-fr.zip
     version: '2019-09-18'
+  les-violences-sexuelles-expliquees-aux-enfants-fr:
+    description: Des ressources qui permettent d'aborder la question des violences
+      sexuelles (attouchement, inceste,...)aux enfants.
+    language: fr
+    name: "Les violences sexuelles expliqu\xE9es aux enfants"
+    sha256sum: 56f149b3991e316ceaa74ea4ae1d2aa2456300bda6745d38d52da04c0001a243
+    size: 61563726
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/les-violences-sexuelles-expliquees-aux-enfants-fr.zip
+    version: '2019-12-16'
   let-s-be-clean-ar:
     description: "Simple videos on personal hygiene.// \u0641\u064A\u062F\u064A\u0648\
       \u0647\u0627\u062A \u0639\u0646 \u0627\u0644\u0646\u0638\u0627\u0641\u0629 \u0627\
@@ -2527,6 +2577,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/microbiologie-et-prevention-sante-fr.zip
     version: '2019-12-09'
+  migrations-a-mayotte-fr:
+    description: "Mayotte, d\xE9partement fran\xE7ais, situ\xE9 dans l'archipel des\
+      \ Comores conna\xEEt de forts flux migratoires."
+    language: fr
+    name: Mayotte et migrations
+    sha256sum: 00f0cfce87e4a180510ccbc28c5ed6b654e2eabc241bde42f909fc0104c2481e
+    size: 1099579007
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/migrations-a-mayotte-fr.zip
+    version: '2019-12-16'
   monter-un-laboratoire-d-innovation-publique-fr:
     description: "L\u2019action publique se r\xE9invente. Pour sortir des m\xE9thodes\
       \ classiques et des conceptions \xAB top down \xBB, de nouvelles approches se\
@@ -2577,6 +2637,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/moyens-de-contraception-fr.zip
     version: '2019-09-19'
+  multilinguisme-a-mayotte-fr:
+    description: "Ressources sur le shimaor\xE9, aussi appel\xE9 mahorais, ou shimahorais,\
+      \ l'une des deux principales langues parl\xE9es sur l'\xEEle de Mayotte."
+    language: fr
+    name: "Apprendre le shimaor\xE9"
+    sha256sum: 72caf4633dade567d1e0c1a427c2eb2c122a5583e778c73f780b9ef93390327c
+    size: 49285505
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/multilinguisme-a-mayotte-fr.zip
+    version: '2019-12-16'
   music-and-music-lessons-en:
     description: Pieces of classical music as well as lessons on how to play tabla
       and harmonuim
@@ -2690,6 +2760,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/non-violent-communication-en.zip
     version: '2019-09-16'
+  nouveau-volcan-a-mayotte-fr:
+    description: "La naissance d'un volcan sous-marin au large de Mayotte a \xE9t\xE9\
+      \ d\xE9voil\xE9e en mai 2019 par une \xE9quipe de scientifiques."
+    language: fr
+    name: "Naissance d'un volcan \xE0 Mayotte"
+    sha256sum: fcd1e820b9a151803477e54d53b76929d5c8542da6b76d3bfd8ebadace954b57
+    size: 14564045
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/nouveau-volcan-a-mayotte-fr.zip
+    version: '2019-12-16'
   novels-for-youth-ar:
     description: "Novels for Youth. /\u0631\u0648\u0627\u064A\u0627\u062A \u0644\u0644\
       \u064A\u0627\u0641\u0639\u064A\u0646"
@@ -2732,6 +2812,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/nutrition-fr.zip
     version: '2019-09-18'
+  orientation-professionnelle-fr:
+    description: "Vid\xE9os permettant de d\xE9couvrir diff\xE9rents m\xE9tiers"
+    language: fr
+    name: Orientation professionnelle
+    sha256sum: 166668475352ba80243cbfa2c12604040d99753b356d362503792ebee34ad30c
+    size: 1121046382
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/orientation-professionnelle-fr.zip
+    version: '2019-12-16'
   parentalite-fr:
     description: "Le lien parent-enfant est parfois compliqu\xE9 \xE0 entretenir sereinement.\
       \  Ces contenus vous aideront peut-\xEAtre \xE0 trouver certaines r\xE9ponses\
@@ -2846,6 +2935,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/physics-ar.zip
     version: '2019-11-21'
+  poesie-et-slam-en-shimaore-411:
+    description: "Des po\xE8mes en maorais pr\xE9sent\xE9 par l\u2019association Shim\xE9"
+    language: '411'
+    name: "Po\xE9sie et slam en shimaor\xE9"
+    sha256sum: e563e68a5d135fa437ff9719d10f5be4f1b2f233c435c1592ec0147356398279
+    size: 80468055
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/poesie-et-slam-en-shimaore-411.zip
+    version: '2019-12-16'
   poetry-ar:
     description: "Poetry collection.//\u0623\u0639\u0645\u0627\u0644 \u0634\u0639\u0631\
       \u064A\u0629"
@@ -3010,6 +3108,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/psychological-support-english-rohingya-en.zip
     version: '2019-11-14'
+  puberte-fr:
+    description: "Contenus relatif \xE0 la pubert\xE9, sur les transformations du\
+      \ corps, les premiers rapports sexuels, la contraception..."
+    language: fr
+    name: Puberte
+    sha256sum: 3c96577dcafcf77d69637b854d4964d44ab067060532f211b634a7817942ae5f
+    size: 176605287
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/puberte-fr.zip
+    version: '2019-12-16'
   public-speaking-en:
     description: "How to speak in public ? How to control your nerves and/or your\
       \ shyness ? \r\nHow your body talks for you ?"
@@ -3039,6 +3147,25 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/reading-and-writing-games-en.zip
     version: '2019-09-16'
+  rechauffement-climatique-explique-aux-enfants-fr:
+    description: "comprendre le r\xE9chauffement climatique et ses enjeux."
+    language: fr
+    name: "R\xE9chauffemment climatique"
+    sha256sum: 01fdd3aff8d8043e11e363caf53fe7bfaa625c3d3d7b85324d729f1bb9243bda
+    size: 6209324
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/rechauffement-climatique-explique-aux-enfants-fr.zip
+    version: '2019-12-16'
+  rechauffement-climatique-fr:
+    description: "Ressources pour comprendre le r\xE9chauffement climatique et ses\
+      \ enjeux."
+    language: fr
+    name: "R\xE9chauffement climatique"
+    sha256sum: 5c6fff331d4cb06f85adfc464d795e99ddc4323ac2e021ba82c9b981a5081a79
+    size: 75383004
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/rechauffement-climatique-fr.zip
+    version: '2019-12-16'
   renseignez-vous-sur-les-demarches-administratives-fr:
     description: "Retrouvez ici quelques guides pour vous aider \xE0 vous rep\xE9\
       rer dans le labyrinthe des d\xE9marches administratives. Pour d\xE9fendre ses\
@@ -3379,6 +3506,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/utilisez-internet-en-toute-securite-fr.zip
     version: '2019-09-16'
+  vie-quotidienne-a-mayotte-fr:
+    description: "Reportages sur la vie quotidienne \xE0 Mayotte"
+    language: fr
+    name: "Vie quotidienne \xE0 Mayotte"
+    sha256sum: f453f52c699ab899a4737c4d34e40e669368c5cdbf09946a8cffdef45c5bb98b
+    size: 2181773826
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/vie-quotidienne-a-mayotte-fr.zip
+    version: '2019-12-16'
   vih-sida-fr:
     description: "Conna\xEEtre le VIH sida, les risques de contamination, les moyens\
       \ de pr\xE9vention et de protection."
@@ -3399,6 +3535,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/violences-faites-aux-femmes-fr.zip
     version: '2019-12-09'
+  violences-sexuelles-sur-adultes-fr:
+    description: "Contenus pr\xE9sentant les diff\xE9rents types d'agressions possibles\
+      \ et les moyens de r\xE9agir pour la victime."
+    language: fr
+    name: Violences sexuelles sur adultes
+    sha256sum: d340e1971532e08a6dd6b121c5bca94e205b270c695b842d7ae03f538f63357e
+    size: 68270492
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/violences-sexuelles-sur-adultes-fr.zip
+    version: '2019-12-16'
   wash-promotion-burmese-mm:
     description: '-'
     language: mm
