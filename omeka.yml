@@ -314,11 +314,11 @@ all:
       et font partie de la richesse d'un pays et d'une culture !
     language: fr
     name: Arts
-    sha256sum: 9247c24b392813de07f3ee76f46370668a0b5c97b1284ff6b4856edb0fb7c68a
-    size: 6107322396
+    sha256sum: f77162e83f51f07d7b6e3e38a65a1d9ac2fdecef790f6bbdbeaca9c4a01cce40
+    size: 6127323615
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arts-afrique-fr.zip
-    version: '2019-12-09'
+    version: '2019-12-17'
   arts-plastiques-fr:
     description: "D\xE9tendez-vous, exprimez-vous, cr\xE9ez ! Il y a un artiste en\
       \ chacun de nous, \xE0 vous de le r\xE9v\xE9ler..."
@@ -578,6 +578,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/community-harmony-rohingya-rhg.zip
     version: '2019-11-14'
+  competences-de-vie-courante-gl-rn:
+    description: "Igitabo mfashanyigisho\r\nc\u2019abunganirarunganwe mu rwaruka kubijanye\
+      \ n'ubushobozi bwokwibeshaho"
+    language: rn
+    name: "Comp\xE9tences de vie courante / Ubushobozi bwo kwibeshaho"
+    sha256sum: 772be5b1f95d951d222c4efb6fd82e97151ad5b424557d55b14eec674653ff2b
+    size: 125636683
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/competences-de-vie-courante-gl-rn.zip
+    version: '2019-12-17'
   comprendre-et-exprimer-ses-emotions-fr:
     description: "D\xE9tendez-vous. Respirez. Accueillez vos \xE9motions. Exprimez\
       \ vos besoins. Vous serez mieux avec vous m\xEAme et avec les autres !"
@@ -588,6 +598,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comprendre-et-exprimer-ses-emotions-fr.zip
     version: '2019-12-09'
+  comprendre-et-exprimer-ses-emotions-gl-fr:
+    description: "D\xE9tendez-vous. Respirez. Accueillez vos \xE9motions. Exprimez\
+      \ vos besoins. Vous serez mieux avec vous m\xEAme et avec les autres !"
+    language: fr
+    name: "Comprendre et exprimer ses \xE9motions"
+    sha256sum: 2bce47d59ab3367e2a6ef489583ea41d47324054807a735f0f714996b4843e87
+    size: 2782166499
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/comprendre-et-exprimer-ses-emotions-gl-fr.zip
+    version: '2019-12-17'
   comprendre-l-autisme-fr:
     description: "- Etre en capacit\xE9 de se comporter de mani\xE8re appropri\xE9\
       \ avec une personne autiste"
@@ -630,6 +650,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/connaitre-et-aimer-son-corps-fr.zip
     version: '2019-12-09'
+  connaitre-et-aimer-son-corps-kumenya-no-gukunda-umubiri-wawe-fr:
+    description: "\xCAtre bien dans son corps, \xE7a participe \xE0 \xEAtre bien dans\
+      \ sa t\xEAte. Et vous ? Comment voyez-vous votre corps ?"
+    language: fr
+    name: "Conna\xEEtre et aimer son corps / Kumenya no gukunda umubiri wawe"
+    sha256sum: febffcdcab937b9d855fd50df7c2876e014c7595eb6cce185fb170ca99c4d2cf
+    size: 126800079
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/connaitre-et-aimer-son-corps-kumenya-no-gukunda-umubiri-wawe-fr.zip
+    version: '2019-12-17'
   connaitre-la-france-et-paris-fr:
     description: "Comment fait-on la bise ? Pourquoi repr\xE9sente-t-on les fran\xE7\
       ais avec une baguette de pain ? Ou encore : d'ou viennent les partis politiques\
@@ -642,6 +672,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/connaitre-la-france-et-paris-fr.zip
     version: '2019-09-11'
+  conseils-pour-la-gestion-des-relations-amoureuses-gl-rn:
+    description: Conseils pour la gestion des relations amoureuses.
+    language: rn
+    name: Impanuro kurwaruka  zijanye nogutanganya imigenderanire yabakundana
+    sha256sum: 1dc993a649c9b712c55def5ed488c85880a584a559bfe1ffec075c6c65dd8bd3
+    size: 2504383669
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/conseils-pour-la-gestion-des-relations-amoureuses-gl-rn.zip
+    version: '2019-12-17'
   contenus-de-prevention-de-la-croix-rouge-fr:
     description: "Dans cette partie on aborde la violence, la paix, l'hygi\xE8ne"
     language: fr
@@ -1266,6 +1305,24 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/electricite-sikana-fr.zip
     version: '2019-10-25'
+  emission-agashi-igikino-agashi-rn:
+    description: Saison 3 de L'emisssion radio Agashi.
+    language: rn
+    name: Emission Agashi / Igikino Agashi
+    sha256sum: 19850fd8ba68458acd7a224b64e5230db380749b0d1e2f3d4bd72c430f436552
+    size: 83916610
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/emission-agashi-igikino-agashi-rn.zip
+    version: '2019-12-17'
+  emissions-rfi-priorite-sante-fr:
+    description: "S'informer sur des sujets importants sur la sant\xE9."
+    language: fr
+    name: "Emissions RFI \"Priorit\xE9 Sant\xE9\""
+    sha256sum: 0383e06b3820345932f7fd2f3e96788e198c43e4f939678cf36d42ded9f5fc0a
+    size: 2386512526
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/emissions-rfi-priorite-sante-fr.zip
+    version: '2019-12-17'
   emotions-fr:
     description: "Contenus relatifs aux \xE9motions, comment celles-ci naissent en\
       \ nous d'un point de vue scientifique mais \xE9galement l'impact que cela \xE0\
@@ -1398,6 +1455,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fashion-and-beauty-ar.zip
     version: '2019-11-21'
+  feuilleton-ninde-rtnb-rn:
+    description: "\xC9missions TV \"Ninde\" du Burundi sur des sujets de SSR."
+    language: rn
+    name: Feuilleton Ninde / Igikino NINDE ? (RTNB)
+    sha256sum: b34f9c910404ef1b12433ab45fd76a2bd7b9690b7939af70f1c74adfa3fb1248
+    size: 785738420
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/feuilleton-ninde-rtnb-rn.zip
+    version: '2019-12-17'
   fiches-creativite-libre-de-droit-fr:
     description: Pour animer
     language: fr
@@ -1611,6 +1677,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/grossesse-a-l-adolescence-fr.zip
     version: '2019-10-10'
+  guides-en-ssraj-pour-les-leaders-religieux-rn:
+    description: Guides en SSRAJ pour les leaders religieux
+    language: rn
+    name: Igitabo mfashanyigisho cabarongoye amadini kwirondoka rijanye namagara meza
+    sha256sum: 63d33a3f0292e89fa5ca98d99ed72c0a23c139200103d0bd5af404bd633c6b59
+    size: 4113340
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/guides-en-ssraj-pour-les-leaders-religieux-rn.zip
+    version: '2019-12-17'
   handcraft-origami-en:
     description: Learn to create and build things by yourself ! Learn the art of origami,
       which is all about folding a single sheet paper in order to create different
@@ -1823,6 +1898,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/hygiene-de-base-fr.zip
     version: '2019-09-18'
+  hygiene-de-base-gl-fr:
+    description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
+      ne et \xE9viter les maladies !"
+    language: fr
+    name: "Hygi\xE8ne de base"
+    sha256sum: a132c45cbdeed0065e2ca2a6a50416aea77bf45f5bc4d6d785c1132772bc0a10
+    size: 366581667
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/hygiene-de-base-gl-fr.zip
+    version: '2019-12-17'
   hygiene-enfants-ados-fr:
     description: "Pourquoi il faut se laver, le corps, les mains, les dents ? Pour\
       \ rester en bonne sant\xE9, et pour que ceux autour de nous le reste aussi !\
@@ -2246,6 +2331,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-enfants-ado-fr.zip
     version: '2019-10-30'
+  la-sante-expliquee-aux-enfants-gl-fr:
+    description: "Comprendre son corps et en prendre soin (hygi\xE8ne et maladies)"
+    language: fr
+    name: "La sant\xE9 expliqu\xE9e aux enfants"
+    sha256sum: dc3ccc82c3d96ba5c1e0bbb76fff8e80bb18afc23f82d91b32d71e756b15d7ed
+    size: 352397872
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/la-sante-expliquee-aux-enfants-gl-fr.zip
+    version: '2019-12-17'
   langue-des-signes-fr:
     description: Se familiariser avec la langue des signes
     language: fr
@@ -2255,6 +2349,40 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/langue-des-signes-fr.zip
     version: '2019-10-25'
+  le-dialogue-entre-parents-et-enfants-sur-la-ssr-ikiyago-hagati-yabavyeyi-n-urwaruka-2-rn:
+    description: "Pourquoi, comment et quand parler \xE0 ses enfants de sexualit\xE9\
+      \ ? R\xE9pondons aux questions de nos enfants pour un avenir meilleur !\r\n\
+      Ikiyago hagati ya bavyeyi na bana babo kwirondoka rijanye namagara meza."
+    language: rn
+    name: Le dialogue entre parents et enfants sur la SSR / Ikiyago hagati yabavyeyi
+      n' urwaruka
+    sha256sum: cf743b87ac6b4c31bc419237fc334ee600769b7b9f15c8e1d1dd7e1b363421b5
+    size: 1176165211
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/le-dialogue-entre-parents-et-enfants-sur-la-ssr-ikiyago-hagati-yabavyeyi-n-urwaruka-2-rn.zip
+    version: '2019-12-17'
+  le-harcelement-ihohoterwa-gl-fr:
+    description: "Des contenus autour des questions de harc\xE8lement pour l'identifier\
+      \ et apprendre \xE0 se d\xE9fendre..."
+    language: fr
+    name: "Le harc\xE8lement /  Ihohoterwa"
+    sha256sum: cca8f461d6ec88bcea8a74cd2ebed1d3045291edadeeb94ae050a829ff2229f4
+    size: 933265964
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/le-harcelement-ihohoterwa-gl-fr.zip
+    version: '2019-12-17'
+  le-monde-commence-par-moi-ihinduka-ry-inyifato-y-abantu-rihera-kuri-jewe-rn:
+    description: "15 le\xE7ons qui enseignent la connaissance de soi, de ses sentiments,\
+      \ du corps qui change, des droits et responsabilit\xE9s, de l'amour et de la\
+      \ sexualit\xE9, du VIH Sida, du genre, de l'avenir, de la communication parents\
+      \ jeunes ..."
+    language: rn
+    name: Le monde commence par moi / Ihinduka ry'inyifato y'abantu rihera kuri jewe
+    sha256sum: 9530782c5fc0659c925cc726d6ff06280e9b0920618d76482d1f7e901c4cf590
+    size: 197162568
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/le-monde-commence-par-moi-ihinduka-ry-inyifato-y-abantu-rihera-kuri-jewe-rn.zip
+    version: '2019-12-17'
   le-talisman-brise-ln-rfi-ln:
     description: "Du lingala au fran\xE7ais avec \"Le Talisman bris\xE9\""
     language: ln
@@ -2406,6 +2534,29 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-filles-et-les-garcons-quelles-differences-fr.zip
     version: '2019-09-18'
+  les-filles-et-les-garcons-quelles-differences-gl-fr:
+    description: "Quelles sont les diff\xE9rences quand on parle des filles et des\
+      \ gar\xE7ons ?"
+    language: fr
+    name: "Les filles et les gar\xE7ons, quelles diff\xE9rences ? / Abakobwa n'abahungu\
+      \ baratandukanye ?"
+    sha256sum: 93d4c9011fd5347c87f6ffa3b65d44a5dfe30371e1a5dc96d9f6b37f8559d1e7
+    size: 424930456
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/les-filles-et-les-garcons-quelles-differences-gl-fr.zip
+    version: '2019-12-17'
+  les-violences-base-es-sur-le-genre-pre-vention-et-prise-en-charge-amabi-afatiye-kugitsina-rn:
+    description: "Les violences base\u0301es sur le genre (Pre\u0301vention et prise\
+      \ en charge) / Amabi afatiye kugitsina .\r\nLes cons\xE9quences des mariages\
+      \ forc\xE9s."
+    language: rn
+    name: "Les violences base\u0301es sur le genre (Pre\u0301vention et prise en charge)\
+      \ / Amabi afatiye kugitsina"
+    sha256sum: 8dff73d9e387f0359b954d88c28fc6b611d28854b53c32c25e48d594604a3951
+    size: 625362193
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/les-violences-base-es-sur-le-genre-pre-vention-et-prise-en-charge-amabi-afatiye-kugitsina-rn.zip
+    version: '2019-12-17'
   les-violences-sexuelles-expliquees-aux-enfants-fr:
     description: Des ressources qui permettent d'aborder la question des violences
       sexuelles (attouchement, inceste,...)aux enfants.
@@ -3019,6 +3170,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/preparing-for-major-disasters-and-natural-catastrophes-en.zip
     version: '2019-09-16'
+  prevenons-le-paludisme-turwanye-malariya-rn:
+    description: "Recommandations pour pr\xE9venir le paludisme."
+    language: rn
+    name: "Pr\xE9venons le paludisme / Turwanye Malariya"
+    sha256sum: fcf3614098322438e7f06285c50de692d6ea24752f6708d91d2f2d74f5e18d6d
+    size: 1140231311
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/prevenons-le-paludisme-turwanye-malariya-rn.zip
+    version: '2019-12-17'
   prevention-addictions-fr:
     description: Mieux comprendre les effets de l'alcool sur nos comportements, et
       leurs origines.
@@ -3256,6 +3416,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/se-preparer-a-une-catastrophe-fr.zip
     version: '2019-09-18'
+  se-prote-ger-du-vih-sida-et-des-ist-kwirinda-vih-sida-n-inrwara-zifatira-mubihimba-vyirondoka-rn:
+    description: "Se prote\u0301ger du VIH SIDA et des IST / Kwirinda VIH SIDA n'\
+      \ inrwara zifatira mubihimba vyirondoka"
+    language: rn
+    name: "Se prote\u0301ger du VIH SIDA et des IST / Kwirinda VIH SIDA n' inrwara\
+      \ zifatira mubihimba vyirondoka"
+    sha256sum: 5d5fba31912116f8eb4e226cfb4d6648f243ab760c5e6f102051c067d201c1a1
+    size: 2208357289
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/se-prote-ger-du-vih-sida-et-des-ist-kwirinda-vih-sida-n-inrwara-zifatira-mubihimba-vyirondoka-rn.zip
+    version: '2019-12-17'
   self-development-ar:
     description: "Discover new ways of thinking that could help you improve your life\
       \ and motivate you to be a better version of yourself.//  \u0627\u0643\u062A\
@@ -3545,6 +3716,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/violences-sexuelles-sur-adultes-fr.zip
     version: '2019-12-16'
+  vivre-avec-le-vih-sida-kubana-n-umugera-wa-sida-rn:
+    description: Vivre avec le VIH Sida / Kubana n' umugera wa SIDA
+    language: rn
+    name: Vivre avec le VIH Sida / Kubana n' umugera wa SIDA
+    sha256sum: 54c90601c0d1d255f3bd92bc245e78ef7f20111eb13687ea56a730bda4d04b49
+    size: 254501453
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/vivre-avec-le-vih-sida-kubana-n-umugera-wa-sida-rn.zip
+    version: '2019-12-17'
   wash-promotion-burmese-mm:
     description: '-'
     language: mm
