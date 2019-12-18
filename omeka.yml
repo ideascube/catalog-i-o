@@ -489,6 +489,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/child-protection-ar.zip
     version: '2019-11-21'
+  children-s-club-6-12-bn:
+    description: Content for the Children's Club (6-12 years old) in HI/Mokti Ideas
+      Box in Teknaf, Bangaldesh.
+    language: bn
+    name: Children's Club (6-12)
+    sha256sum: 56c712f489f4b5198797d5567235e75abcec6e70d37a8f38bd27781b23006cff
+    size: 5116500660
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/children-s-club-6-12-bn.zip
+    version: '2019-12-18'
   citizenship-democracy-and-peace-en:
     description: Talking about democracy, power, constitution, voting
     language: en
@@ -1425,6 +1435,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/facilitator-kit-en.zip
     version: '2019-09-16'
+  facilitators-bn:
+    description: Content dedicated to HI/Mokti team of facilitators in Teknaf Ideas
+      Box.
+    language: bn
+    name: Facilitators
+    sha256sum: bf8fbc37900d3e29e6ea8568db63f2c259e7b6e2077ecec93a8fd2100e486ed5
+    size: 544535998
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/facilitators-bn.zip
+    version: '2019-12-18'
   family-and-life-coaching-ar:
     description: "\u0627\u0644\u062F\u0643\u062A\u0648\u0631 \u062E\u0644\u064A\u0644\
       \ \u0627\u0644\u0632\u064A\u0648\u062F - \u062E\u0628\u064A\u0631 \u062A\u0631\
@@ -2983,6 +3003,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/parentalite-fr.zip
     version: '2019-10-08'
+  parents-clube-and-children-0-5-bn:
+    description: Package for the Parent's club of HI/Mokti in Teknaf, Bangladesh.
+    language: bn
+    name: Parents' Clube and Children (0-5)
+    sha256sum: 239a6b1a6f6e6f5f0110b60134da3f8ae12b170772ec212aab1c0205bda95fb5
+    size: 4956936080
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/parents-clube-and-children-0-5-bn.zip
+    version: '2019-12-18'
   patron-pour-coudre-une-jupe-a-volants-fille-fr:
     description: "Ce paquet de contenus pr\xE9sente des patrons qui peuvent \xEAtre\
       \ utilis\xE9s pour coudre une jupe \xE0 volants pour fille. Les patrons sont\
