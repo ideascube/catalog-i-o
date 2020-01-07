@@ -60,11 +60,11 @@ all:
       \ imigambi n' ubutunzi"
     language: fr
     name: "Administration, gestion, comptabilit\xE9 / Gutunganya ubutunzi"
-    sha256sum: 093b9d60649024c6cb118678a331aa5d79b4d8ee0160ab2e84ceede5b460c325
+    sha256sum: 83d596c0b8119fb330185142fcf0e59647b5ec571f25be338665595d07fb486a
     size: 84687082
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/administration-gestion-comptabilite-gutunganya-ubutunzi-gl-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   africa-riding-fr:
     description: "La s\xE9rie AFRICA RIDING part \xE0 la rencontre d\u2019une communaut\xE9\
       \ de \xABriders\xBB qui participe \xE0 cr\xE9er un nouvel ordre culturel et\
@@ -141,11 +141,11 @@ all:
       / Inyigisho zerekeye ubutabazi bwambere
     language: fr
     name: "Apprendre \xE0 donner les premiers secours / Kumenya ubutabazi bwa mbere"
-    sha256sum: 0d4eed4006f8751cc5a17e3b2915806436ac4041f42d38fa8a29540ca6baa5d1
+    sha256sum: 1868c613941725df9f09b5eb9bfadb610368d880ce504d8ef8357380b42a4250
     size: 268378891
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-a-donner-les-premiers-secours-gl-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   apprendre-a-utiliser-des-patrons-fr:
     description: "Ce paquet de contenus r\xE9unit quelques exemples de tutoriels qui\
       \ permettent \xE0 un tailleur d'apprendre \xE0 utiliser un patron, ou de r\xE9\
@@ -282,11 +282,11 @@ all:
       \ essentiel d'une discussion. / Twige igifaransa"
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau B2 / Twige igifaransa - Uregero rwa B2"
-    sha256sum: c1e75df71d8f373caf2c52e074801d584e99cbb826a11d3a52a2c7be072bda1d
+    sha256sum: 1bc91ac03539691478a4e43e5a2e9377d5c4189445f5b434e477093353b479fe
     size: 181592245
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-b2-twige-igifaransa-uregero-rwa-b2-gl-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   apprenez-le-francais-niveau-c1-c2-fr:
     description: "Le niveau C1 et C2 en fran\xE7ais, c'est comprendre une grande gamme\
       \ de textes longs et exigeants, ainsi que de saisir des significations implicites.\
@@ -311,11 +311,11 @@ all:
       \ mugifaransa."
     language: fr
     name: "Apprenez le fran\xE7ais / Twige  igifaransa"
-    sha256sum: c8f922439367991cf1651287e53b3cebca367bc4d1a17d22f7f45f0c24a348dc
+    sha256sum: b7992f95703b1f58b1924ba2813cdf82f15be9b813862777e15639c32d73e442
     size: 719326104
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-twige-igifaransa-gl-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   arabic-alphabet-ar:
     description: "Learn the Arabic Alphabet through easy and fun videos.//\u062A\u0639\
       \u0644\u0645 \u0627\u0644\u0627\u0628\u062C\u062F\u064A\u0629 \u0627\u0644\u0639\
@@ -461,11 +461,11 @@ all:
       \ ibifungurwa ngirakamaro."
     language: fr
     name: Bien se nourrir (enfants) / Gufungura neza Kubana
-    sha256sum: 38cd8cee4df5af41763ea0addea6bf57216c3e156ac1f16c450dce1e98b2b356
+    sha256sum: 29cde957b9196198811e7d695d85cf85135273a5a6d6de15e1a940fb4d1000cf
     size: 915615207
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/bien-se-nourrir-enfants-gufungura-neza-kubana-gl-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   biologie-adolescents-fr:
     description: "Pars \xE0 la d\xE9couverte du corps humain !"
     language: fr
@@ -488,11 +488,11 @@ all:
     description: "Pars \xE0 la d\xE9couverte du corps humain ! / Kumenya umubiri wumuntu."
     language: fr
     name: La biologie pour les enfants
-    sha256sum: a0e9a30da5c074000e69132f00122b5f6761e96df52318fd1ac58c5bea56ee6e
+    sha256sum: bc38bcb336c608e07bfc7d4daf7bc31fb0faeeca1c8e8fdc845acbcb5ddd08cb
     size: 2988219291
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/biologie-enfants-gl-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   biology-ar:
     description: "Learn general information about Biology.// \u062A\u0639\u0644\u0645\
       \ \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u0639\u0627\u0645\u0629 \u0639\
@@ -618,22 +618,22 @@ all:
       \ turi abantu ariko turatandukanye."
     language: fr
     name: Combattons les disciminations (enfants/ados) / Turwanye ikumira (Urwaruka)
-    sha256sum: 90ed8354fa542b68379ad9fececbf168eb67cee328d7b282c5bf892d2cc21d2c
+    sha256sum: 87b659301f3b5c9996b6db85f66b115df8f7d71eb86c1139f29d25155afc4d22
     size: 617794284
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/combattons-les-disciminations-enfants-ados-turwanye-ikumira-urwaruka-gl-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   combattons-les-discriminations-adultes-turwanye-ikumira-abakuze-gl-fr:
     description: "Genre, couleur de peau, handicap, religion... La discrimination\
       \ trouve tous les pr\xE9textes. D\xE9tectons-les, et combattons-les. / Turwanye\
       \  ikumira rifatiye kugitsina, kurukoba, kubumuga, kumadini\u2026"
     language: fr
     name: Combattons les discriminations (adultes) / Turwanye ikumira (Abakuze)
-    sha256sum: 23448ee245cfaacca4e21a3d99d76ca4582a0e160b74929db925e65f4be17414
+    sha256sum: b9794388857f1145510e101e881262f7427db1a47e3bd10dcb0860f449d8549d
     size: 1537139610
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/combattons-les-discriminations-adultes-turwanye-ikumira-abakuze-gl-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   combattons-les-discriminations-fr:
     description: "Genre, couleur de peau, handicap, religion... La discrimination\
       \ trouve tous les pr\xE9textes. D\xE9tectons-les, et combattons-les. (Adultes)"
@@ -705,11 +705,11 @@ all:
       \ vos besoins. / Ruhuka, wakire ibishobisho vyawe."
     language: fr
     name: "Comprendre et exprimer ses \xE9motions / Gutahura ibishobisho vyawe"
-    sha256sum: d5a0a980b9c72329c2744a7bb66868ad3d89ae0da5782e0e949f880545ae859c
+    sha256sum: 2232f2fd154a8d575aff5eee6cccdfa176dc3f10b5885d0d1d3b90ff6dc0e03e
     size: 2782166499
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comprendre-et-exprimer-ses-emotions-gl-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   comprendre-l-autisme-fr:
     description: "- Etre en capacit\xE9 de se comporter de mani\xE8re appropri\xE9\
       \ avec une personne autiste"
@@ -767,11 +767,11 @@ all:
       ger. / Gutahura gusumba ingwara n'ingene bazikingira."
     language: fr
     name: "Conna\xEEtre et se prot\xE9ger des maladies / Kumenya no kwikingira ingwara."
-    sha256sum: 84959b7092de9540221bff4e6c9907723153a16fc8baa52bf413eff886c64b7a
+    sha256sum: 624c8dcc46c8b26e26eecf49b93dd07bc7ab9983beee12a42e89afe79d1f5916
     size: 769142086
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/connaitre-et-se-proteger-des-maladies-gl-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   connaitre-la-france-et-paris-fr:
     description: "Comment fait-on la bise ? Pourquoi repr\xE9sente-t-on les fran\xE7\
       ais avec une baguette de pain ? Ou encore : d'ou viennent les partis politiques\
@@ -858,11 +858,11 @@ all:
       \ sonores ? / Kumenya gutunganya ibiganiro bito bito."
     language: fr
     name: "Cr\xE9ation audio / Gufata amajwi"
-    sha256sum: e68c79d332743acedd9165d03b14aa86771659a9f1993bf7c2663b9ed1da93a4
+    sha256sum: 3ad0732e6ed7d19cd7bb47a597da75b5159fd82741333db293e68b663e35c033
     size: 31905031
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creation-audio-gl-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   creation-d-association-fr:
     description: "Quelques \xE9lements-cl\xE9s pour comprendre et cr\xE9er une association,\
       \ en France ou au Burundi !"
@@ -878,11 +878,11 @@ all:
       \ au Burundi. / Inyigisho zo gutanguza amashirahamwe."
     language: fr
     name: "Cr\xE9ation d'association / Gutanguza amashirahamwe"
-    sha256sum: e4a6091a05a998b7b8eeeddf466ae90a45d04cd33d8b15a5efdb3ca682720e37
+    sha256sum: e71b4ffb9feb940655a5ac288e86f1381ea6f7db0cca6f14beb2e789b29b96a5
     size: 155758849
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creation-d-association-gl-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   creation-d-entreprise-fr:
     description: "Cr\xE9er son entreprise implique de multiples \xE9tapes : vous trouverez\
       \ ici des conseils pour formuler votre projet, r\xE9diger votre business plan\
@@ -1471,11 +1471,11 @@ all:
       \ nkurunkuru ku magara y'abantu."
     language: fr
     name: "Emissions RFI \"Priorit\xE9 Sant\xE9\" / Ikiganiro ca RFI ku magara y'abantu"
-    sha256sum: 5a702a649bbad98f788f011b131b8b211c82469b044d37cd2d1758c38b1438fd
+    sha256sum: 53e9c6918dbee2b90fcb32a392823a093276f76a67426c94cbba750818aec5ff
     size: 2249206345
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/emissions-rfi-priorite-sante-gl-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   emotions-fr:
     description: "Contenus relatifs aux \xE9motions, comment celles-ci naissent en\
       \ nous d'un point de vue scientifique mais \xE9galement l'impact que cela \xE0\
@@ -1642,11 +1642,11 @@ all:
       \ ku rwaruka."
     language: fr
     name: "Fiches d'activit\xE9s autour de la sant\xE9 (animation) / Intonde mfashanyigisho"
-    sha256sum: 9e38ead26947efba0f6098cb2f2db7a615569f3ede6f811a928aa3f4fae7783c
+    sha256sum: 8eda6d6ef0d0a8ad110395459d991311506b9ad697ad1e5c633eae2d0370b29b
     size: 575914752
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fiches-d-activites-autour-de-la-sante-animation-gl-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   fiches-d-activites-play-international-fr:
     description: "Dans ce paquet, vous trouverez des fiches d'activit\xE9s cr\xE9\xE9\
       es par Play International. Il s'agit de s\xE9ances de jeux sportifs concernant\
@@ -1808,6 +1808,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/geographie-afrique-fr.zip
     version: '2019-10-10'
+  geographie-gl-fr:
+    description: 'Focus sur l''Afrique: quels pays, quels villes, quels contextes,
+      quels enjeux ? / Inyigisho ndondabihugu kuri Afrika.'
+    language: fr
+    name: "G\xE9ographie / Inyigisho ndondabihugu"
+    sha256sum: 120613300f372ef42965d91c23ed193f9afc70490a2717939e8321a514c1e0e0
+    size: 1422485633
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/geographie-gl-fr.zip
+    version: '2020-01-07'
   geopolitique-afrique-fr:
     description: "Les enjeux g\xE9opolitiques de l'Afrique"
     language: fr
@@ -1985,6 +1995,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-de-mayotte-et-des-comores-fr.zip
     version: '2019-12-16'
+  histoire-gl-fr:
+    description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
+      \ les \xE9v\xE8nements du pr\xE9sent. / Kahise ka Afrika."
+    language: fr
+    name: Histoire / Kahise ka Africa
+    sha256sum: ff911eacc010b7c87128e498289a4fb2bb134ea1c78c20bbc649b0c9dfd80095
+    size: 5576151842
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-gl-fr.zip
+    version: '2020-01-07'
   histoires-illustrees-fr:
     description: "Profiter des histoires et se d\xE9tendre"
     language: fr
@@ -2078,11 +2098,11 @@ all:
       \ kwikingira ingwara."
     language: fr
     name: "Hygi\xE8ne de base / Isuku ry'ibanze"
-    sha256sum: 774172e90b1de09d29182943ff049de1aad1f12564ef5bef54707b91ab266caf
+    sha256sum: 2006184ce831a7347374d5e3f79d0d5dca3933445f9ce602b1657baaf2e30681
     size: 366581667
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/hygiene-de-base-gl-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   hygiene-enfants-ados-fr:
     description: "Pourquoi il faut se laver, le corps, les mains, les dents ? Pour\
       \ rester en bonne sant\xE9, et pour que ceux autour de nous le reste aussi !\
@@ -2484,11 +2504,11 @@ all:
       n'itunga ku gihugu.
     language: fr
     name: L'art en Afrique / Ubuhinga bw'utugenegene muri Afrika
-    sha256sum: 44951ed543a40f472c79076b57e091b291f319e6c9e6de939f8d552765bd4498
+    sha256sum: 26c7159697c92f2c01f8e78ef65d7d21b3483679a8e3d457653220fbc4d93905
     size: 5938903882
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/l-art-en-afrique-gl-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   l-entreprenariat-au-burundi-gutunganya-imigambi-muburundi-fr:
     description: "Comment entreprendre au Burundi ? Comment r\xE9ussir ? Qui a r\xE9\
       ussi ?"
@@ -2504,11 +2524,11 @@ all:
       alit\xE9 \xE0 combattre. / Kurwanya gufata abantu bunyamaswa."
     language: rn
     name: L'exploitation de l'homme et de la femme / Gufata bunyamaswa umuntu
-    sha256sum: 4bfef8485ea9f17ee4b0da45e7a1d884a947b9be6a1a3ca7071a4da2a7340755
+    sha256sum: b17b738d7b107a76ecdbbb7c0b803b609b864d4765d5abf8e5381921bb77a8a9
     size: 190631908
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/l-exploitation-de-l-homme-et-de-la-femme-gl-rn.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   l-exploitation-de-l-homme-et-de-la-femme-kugira-uyundi-umuja-gl-rn:
     description: "L'exploitation de l'homme et de la femme par les autres, une r\xE9\
       alit\xE9 \xE0 combattre."
@@ -2543,11 +2563,11 @@ all:
       gutunganya imvyaro mu Burundi
     language: rn
     name: La Planification Familiale / Gutunganya imvyaro
-    sha256sum: f8eec0af0e642d00182d697ef1d47cd93f945d2e6d427a473f7f0966713bdc3c
+    sha256sum: 1d24b16211cb565d9e9301109fde49caf8a81b7db1302988a6a82a947fc6e803
     size: 1487701095
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-planification-familiale-gl-rn.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   la-planification-familiale-gutunganya-invyaro-gl-rn:
     description: Tout savoir sur la planification familiale au Burundi.
     language: rn
@@ -2563,11 +2583,11 @@ all:
       \ zifasha abakenyezi kumenya umubiri wabo neza."
     language: fr
     name: "La sant\xE9 de la femme / Amagara ku bakenyezi"
-    sha256sum: 328af0022358e887c07aea3e02a77221865ec44baf19cf19b068d1001fc2944b
-    size: 693334883
+    sha256sum: d1430aff159f3187d762ffcdf22cb5ee3f9e75783eacc87cc4b7e0873625f8af
+    size: 692969920
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-de-la-femme-gl-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   la-sante-enfants-ado-fr:
     description: Comprendre son corps et en prendre soin
     language: fr
@@ -2583,11 +2603,11 @@ all:
     language: fr
     name: "La sant\xE9 expliqu\xE9e aux enfants / Gusigurira abana ibijanye n'amagara\
       \ meza"
-    sha256sum: ef9a6e91db95e4420edd13f75c2617343be587a00b41ab56916ed555ef227b25
+    sha256sum: e05df8cfbef4f79f7b2d42a0a9487e62ad6d70aae14b744032efd0337d5b5c66
     size: 569000324
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-expliquee-aux-enfants-gl-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   la-sante-maternelle-amagara-yabavyeyi-gl-rn:
     description: "Savoir quoi faire pour prendre soin de sa sant\xE9 et de son b\xE9\
       b\xE9 pendant la grossesse et apr\xE8s."
@@ -2874,11 +2894,11 @@ all:
     language: fr
     name: "Les violences sexuelles expliqu\xE9es aux enfants / Gusigurira abana amabi\
       \ afatiye gu gitsina"
-    sha256sum: 9dac4a85f11d6701c1e1df118dc8ce90b247d8e52c2acc7cc22a30626b9dce74
+    sha256sum: 7b690b9a993575ff5791a681563789605bba90541c9f72117abce0268536f884
     size: 61563726
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-violences-sexuelles-expliquees-aux-enfants-gl-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   let-s-be-clean-ar:
     description: "Simple videos on personal hygiene.// \u0641\u064A\u062F\u064A\u0648\
       \u0647\u0627\u062A \u0639\u0646 \u0627\u0644\u0646\u0638\u0627\u0641\u0629 \u0627\
@@ -3536,11 +3556,11 @@ all:
       \ ndorabitsina birakingira impanuka umuntu."
     language: fr
     name: "Pr\xE9vention et sexualit\xE9 / Kwingira hamwe n'ubuzima ndorabitsina"
-    sha256sum: 908952acf3f2989b7312fe2e306a28ac411b6abaa1ae98b5bb17d6d1c5ce4361
+    sha256sum: 4f15b839e700ce98c15d6641e963305a4d0c4c7326bbde2c89fdd69a564d4348
     size: 344838834
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/prevention-et-sexualite-gl-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-07'
   priorite-sante-rfi-fr:
     description: "\xC9mission RFI : \"Priorit\xE9 Sant\xE9\""
     language: fr
