@@ -629,11 +629,11 @@ all:
       \  ikumira rifatiye kugitsina, kurukoba, kubumuga, kumadini\u2026"
     language: fr
     name: Combattons les discriminations (adultes) / Turwanye ikumira (Abakuze)
-    sha256sum: b9794388857f1145510e101e881262f7427db1a47e3bd10dcb0860f449d8549d
-    size: 1537139610
+    sha256sum: c5895ce43abe46e46f318cb6683807dd94cb7669e366af37a6457362917818ed
+    size: 1150786734
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/combattons-les-discriminations-adultes-turwanye-ikumira-abakuze-gl-fr.zip
-    version: '2020-01-07'
+    version: '2020-01-08'
   combattons-les-discriminations-fr:
     description: "Genre, couleur de peau, handicap, religion... La discrimination\
       \ trouve tous les pr\xE9textes. D\xE9tectons-les, et combattons-les. (Adultes)"
@@ -754,14 +754,15 @@ all:
     version: '2019-12-09'
   connaitre-et-aimer-son-corps-kumenya-no-gukunda-umubiri-wawe-fr:
     description: "\xCAtre bien dans son corps, \xE7a participe \xE0 \xEAtre bien dans\
-      \ sa t\xEAte. Et vous ? Comment voyez-vous votre corps ?"
+      \ sa t\xEAte. Et vous ? Comment voyez-vous votre corps ? /\r\nKumererwa neza\
+      \ mumubiri birafasha kworoherwa mumutwe : Weho ubona gute umubiri wawe ?"
     language: fr
     name: "Conna\xEEtre et aimer son corps / Kumenya no gukunda umubiri wawe"
-    sha256sum: 6c7dc3937496628f305274627631019f0a26f11731c83b577a6df98243ca40bd
+    sha256sum: 241be58755960a8e1247f02818281bf9e9620d855d01670e4a21fc2760d98ba5
     size: 127491798
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/connaitre-et-aimer-son-corps-kumenya-no-gukunda-umubiri-wawe-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-08'
   connaitre-et-se-proteger-des-maladies-gl-fr:
     description: "En savoir plus sur les maladies humaines et comment s'en prot\xE9\
       ger. / Gutahura gusumba ingwara n'ingene bazikingira."
@@ -1619,14 +1620,16 @@ all:
     url: http://packages.ideascube.org/omeka/fashion-and-beauty-ar.zip
     version: '2019-11-21'
   feuilleton-ninde-rtnb-rn:
-    description: "\xC9missions TV \"Ninde\" du Burundi sur des sujets de SSR."
+    description: "\xC9missions TV \"Ninde\" du Burundi sur des sujets de SSR. /\r\n\
+      Ikiganiro \"NINDE\" gica kuri tereviziyo y'uburundi kivuga mu bijanye n'irondoka\
+      \ rijanye n'amaga meza."
     language: rn
     name: Feuilleton Ninde / Igikino NINDE ? (RTNB)
-    sha256sum: d9c44372f5eef0184fc8504a0cd2d5dfbe51861a65ef430344fa729147db7c1d
+    sha256sum: c5d72283f1858c851ea385e7f145a1a2b2afe3236c88829aa1878ff9e21fd63c
     size: 785738420
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/feuilleton-ninde-rtnb-rn.zip
-    version: '2019-12-19'
+    version: '2020-01-08'
   fiches-creativite-libre-de-droit-fr:
     description: Pour animer
     language: fr
@@ -1813,11 +1816,11 @@ all:
       quels enjeux ? / Inyigisho ndondabihugu kuri Afrika.'
     language: fr
     name: "G\xE9ographie / Inyigisho ndondabihugu"
-    sha256sum: 120613300f372ef42965d91c23ed193f9afc70490a2717939e8321a514c1e0e0
+    sha256sum: 83f20fe07ee8a5cfd5e0c2c5bf19a8269c808ec17a80d20231c9421f32139402
     size: 1422485633
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/geographie-gl-fr.zip
-    version: '2020-01-07'
+    version: '2020-01-08'
   geopolitique-afrique-fr:
     description: "Les enjeux g\xE9opolitiques de l'Afrique"
     language: fr
@@ -2000,11 +2003,11 @@ all:
       \ les \xE9v\xE8nements du pr\xE9sent. / Kahise ka Afrika."
     language: fr
     name: Histoire / Kahise ka Africa
-    sha256sum: ff911eacc010b7c87128e498289a4fb2bb134ea1c78c20bbc649b0c9dfd80095
+    sha256sum: 1059769f6a4343b0cae49fd545642939efe7e3118efcedb6ff9e34c5b76d15d3
     size: 5576151842
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-gl-fr.zip
-    version: '2020-01-07'
+    version: '2020-01-08'
   histoires-illustrees-fr:
     description: "Profiter des histoires et se d\xE9tendre"
     language: fr
@@ -2511,14 +2514,15 @@ all:
     version: '2020-01-07'
   l-entreprenariat-au-burundi-gutunganya-imigambi-muburundi-fr:
     description: "Comment entreprendre au Burundi ? Comment r\xE9ussir ? Qui a r\xE9\
-      ussi ?"
+      ussi ? / Ni gute batunganya imigambi mu Burundi, Ni gute bashika kwihangiro,\
+      \ ni bande bamaze gushika kwihangiro ?"
     language: fr
     name: L'entreprenariat  au Burundi  / Gutunganya imigambi Muburundi
-    sha256sum: 99604da74c6145da256262d0a54e9958296d434bd4713f36a950164109ec83b8
+    sha256sum: 766c4f91a2616a12de426352a3b61634ad06151d261d5df0af854cf212198c74
     size: 201645695
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/l-entreprenariat-au-burundi-gutunganya-imigambi-muburundi-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-08'
   l-exploitation-de-l-homme-et-de-la-femme-gl-rn:
     description: "L'exploitation de l'homme et de la femme par les autres, une r\xE9\
       alit\xE9 \xE0 combattre. / Kurwanya gufata abantu bunyamaswa."
@@ -2560,14 +2564,14 @@ all:
     version: '2019-10-15'
   la-planification-familiale-gl-rn:
     description: Tout savoir sur la planification familiale au Burundi. / Kumenya
-      gutunganya imvyaro mu Burundi
+      gutunganya imvyaro mu Burundi.
     language: rn
     name: La Planification Familiale / Gutunganya imvyaro
-    sha256sum: 1d24b16211cb565d9e9301109fde49caf8a81b7db1302988a6a82a947fc6e803
+    sha256sum: 7243d490836bb586a4f49459c234bb0b0d40e61d242ac3015cbf36fbf79d9617
     size: 1487701095
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-planification-familiale-gl-rn.zip
-    version: '2020-01-07'
+    version: '2020-01-08'
   la-planification-familiale-gutunganya-invyaro-gl-rn:
     description: Tout savoir sur la planification familiale au Burundi.
     language: rn
@@ -2583,11 +2587,11 @@ all:
       \ zifasha abakenyezi kumenya umubiri wabo neza."
     language: fr
     name: "La sant\xE9 de la femme / Amagara ku bakenyezi"
-    sha256sum: d1430aff159f3187d762ffcdf22cb5ee3f9e75783eacc87cc4b7e0873625f8af
+    sha256sum: a4664e3a96dc49586bc44413a2728b88656b79a3e3dba789285f6df3580d49df
     size: 692969920
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-de-la-femme-gl-fr.zip
-    version: '2020-01-07'
+    version: '2020-01-08'
   la-sante-enfants-ado-fr:
     description: Comprendre son corps et en prendre soin
     language: fr
@@ -2610,24 +2614,26 @@ all:
     version: '2020-01-07'
   la-sante-maternelle-amagara-yabavyeyi-gl-rn:
     description: "Savoir quoi faire pour prendre soin de sa sant\xE9 et de son b\xE9\
-      b\xE9 pendant la grossesse et apr\xE8s."
+      b\xE9 pendant la grossesse et apr\xE8s. / Kumenya kubungabunga amagara yawe\
+      \ nay'ikibondo mugihe wibungeze n'inyuma yaho."
     language: rn
     name: "La sant\xE9 maternelle / Amagara yabavyeyi"
-    sha256sum: dbc82f6bc73457857954289c81d0566c95cbfd7fe631ad89ff808f0377b190f8
-    size: 2493853782
+    sha256sum: b0d83f4a14e2ab27d550b0e616465c02a46b8c2e8d17ea5fdf4af473316a7df1
+    size: 2493853829
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-maternelle-amagara-yabavyeyi-gl-rn.zip
-    version: '2019-12-20'
+    version: '2020-01-08'
   la-sante-sexuelle-et-reproductive-des-adolescents-et-des-jeunes-gl-rn:
     description: "Contenus adapt\xE9s pour parler \xE9ducation sexuelle et reproductive\
-      \ chez les adolescents et les jeunes"
+      \ chez les adolescents et les jeunes. / Inyigisho zibereye urwaruka ku bijanye\
+      \ n'irondoka rijanye n'amagara meza."
     language: rn
     name: Irondoka rijanye namagara meza murwaruka n' imiyabaga (SSRAJ)
-    sha256sum: beaf073a6cf5ebef8ac9d07059545ab0d02263f2440c0ec0c1442b933099912d
-    size: 5168602326
+    sha256sum: f83b44ba506468cfe237d8bda4908fed4529a7631dbe3e1527e1cbe2d4656bca
+    size: 5168602324
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-sexuelle-et-reproductive-des-adolescents-et-des-jeunes-gl-rn.zip
-    version: '2019-12-20'
+    version: '2020-01-08'
   langue-des-signes-fr:
     description: Se familiariser avec la langue des signes
     language: fr
@@ -2663,26 +2669,27 @@ all:
     version: '2019-12-20'
   le-harcelement-ihohoterwa-gl-fr:
     description: "Des contenus autour des questions de harc\xE8lement pour l'identifier\
-      \ et apprendre \xE0 se d\xE9fendre..."
+      \ et apprendre \xE0 se d\xE9fendre.../ Inyigisho ku bijanye nihohoterwa, kumenya\
+      \ kuyidomako urutoke no kuyikingira."
     language: fr
     name: "Le harc\xE8lement /  Ihohoterwa"
-    sha256sum: 2b9b2c2ee89a5d1e0cfb2303dbd31628983cfab0c25cc031e04612c74f4717b7
+    sha256sum: e56200d22361005b1e36f4e2dd59efeaa885c09e43fb1d4115b71dcbd68855d9
     size: 933265964
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/le-harcelement-ihohoterwa-gl-fr.zip
-    version: '2019-12-19'
+    version: '2020-01-08'
   le-monde-commence-par-moi-ihinduka-ry-inyifato-y-abantu-rihera-kuri-jewe-rn:
     description: "15 le\xE7ons qui enseignent la connaissance de soi, de ses sentiments,\
-      \ du corps qui change, des droits et responsabilit\xE9s, de l'amour et de la\
-      \ sexualit\xE9, du VIH Sida, du genre, de l'avenir, de la communication parents\
-      \ jeunes ..."
+      \ du corps qui change, de l'amour et de la sexualit\xE9, du VIH Sida.../ Ivyigwa\
+      \ 15 vyerekana irondoka rijanye n'amagara meza ku rwaruka n'impanuro zizobafasha\
+      \ gufata ingingo zibereye muvyerekeye ubuzima ndorabitsina."
     language: rn
     name: Le monde commence par moi / Ihinduka ry'inyifato y'abantu rihera kuri jewe
-    sha256sum: 9530782c5fc0659c925cc726d6ff06280e9b0920618d76482d1f7e901c4cf590
+    sha256sum: be1465bd8a860dc0970c6916c547b72d3aa5a4e2ad0861c96cc647c8064562f7
     size: 197162568
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/le-monde-commence-par-moi-ihinduka-ry-inyifato-y-abantu-rihera-kuri-jewe-rn.zip
-    version: '2019-12-17'
+    version: '2020-01-08'
   le-talisman-brise-ln-rfi-ln:
     description: "Du lingala au fran\xE7ais avec \"Le Talisman bris\xE9\""
     language: ln
@@ -2856,27 +2863,25 @@ all:
     version: '2019-09-18'
   les-filles-et-les-garcons-quelles-differences-gl-fr:
     description: "Quelles sont les diff\xE9rences quand on parle des filles et des\
-      \ gar\xE7ons ?"
+      \ gar\xE7ons ? / Itandukaniro ririho mu gihe tuvuze abakobwa canke abahungu."
     language: fr
     name: "Les filles et les gar\xE7ons, quelles diff\xE9rences ? / Abakobwa n'abahungu\
       \ baratandukanye ?"
-    sha256sum: f104be2577911bfb5bb04e79d4ed18ed252d34db4c3e051411f15b4e1642e564
+    sha256sum: 3a797d8e5cc9dd8ea21774c3f6a22591c73489b0fe844ea63b6ddad25056016c
     size: 458344472
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-filles-et-les-garcons-quelles-differences-gl-fr.zip
-    version: '2019-12-20'
+    version: '2020-01-08'
   les-violences-base-es-sur-le-genre-pre-vention-et-prise-en-charge-amabi-afatiye-kugitsina-rn:
-    description: "Les violences base\u0301es sur le genre (Pre\u0301vention et prise\
-      \ en charge) / Amabi afatiye kugitsina .\r\nLes mariages pr\xE9coces et mariages\
-      \ forc\xE9s. / Kubaka kunguvu kandi hataragera."
+    description: Amabi afatiye kugitsina. Kubaka kunguvu kandi hataragera.
     language: rn
     name: "Les violences base\u0301es sur le genre (Pre\u0301vention et prise en charge)\
       \ / Amabi afatiye kugitsina"
-    sha256sum: 0964646ec8eafdb580889be79958ed2fec211834410aa2a16eaee61816ee6f5e
+    sha256sum: 2801b4ebffd57d443fd148e631e0e042e5497bdb8d841fb3a9c1c667ccb15362
     size: 1805511352
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-violences-base-es-sur-le-genre-pre-vention-et-prise-en-charge-amabi-afatiye-kugitsina-rn.zip
-    version: '2019-12-20'
+    version: '2020-01-08'
   les-violences-sexuelles-expliquees-aux-enfants-fr:
     description: Des ressources qui permettent d'aborder la question des violences
       sexuelles (attouchement, inceste,...)aux enfants.
@@ -2888,17 +2893,17 @@ all:
     url: http://packages.ideascube.org/omeka/les-violences-sexuelles-expliquees-aux-enfants-fr.zip
     version: '2019-12-16'
   les-violences-sexuelles-expliquees-aux-enfants-gl-fr:
-    description: Des ressources qui permettent d'aborder la question des violences
-      sexuelles (attouchement, inceste,...)aux enfants. / Ibikoresho mfashanyigisho
-      ku mabi yo gufatwa ku nguvu.
+    description: Des ressources qui permettent de parler des violences sexuelles (attouchement,
+      inceste,...) aux enfants. / Ibikoresho mfashanyigisho ku mabi yo gufatwa ku
+      nguvu.
     language: fr
     name: "Les violences sexuelles expliqu\xE9es aux enfants / Gusigurira abana amabi\
-      \ afatiye gu gitsina"
-    sha256sum: 7b690b9a993575ff5791a681563789605bba90541c9f72117abce0268536f884
+      \ afatiye ku gitsina"
+    sha256sum: e41794bb294fd297d28dd4609c8fda5818f5871ceaf50994bf54d2b65c939a59
     size: 61563726
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-violences-sexuelles-expliquees-aux-enfants-gl-fr.zip
-    version: '2020-01-07'
+    version: '2020-01-08'
   let-s-be-clean-ar:
     description: "Simple videos on personal hygiene.// \u0641\u064A\u062F\u064A\u0648\
       \u0647\u0627\u062A \u0639\u0646 \u0627\u0644\u0646\u0638\u0627\u0641\u0629 \u0627\
@@ -3522,14 +3527,15 @@ all:
     url: http://packages.ideascube.org/omeka/prevenir-les-grossesses-non-desirees-et-les-grossesses-precoces-gl-rn.zip
     version: '2019-12-20'
   prevenons-le-paludisme-turwanye-malariya-rn:
-    description: "Recommandations pour pr\xE9venir le paludisme."
+    description: "Recommandations pour pr\xE9venir le paludisme. / Impanuro zo kwikingira\
+      \ malariya."
     language: rn
     name: "Pr\xE9venons le paludisme / Turwanye Malariya"
-    sha256sum: fcf3614098322438e7f06285c50de692d6ea24752f6708d91d2f2d74f5e18d6d
+    sha256sum: 50411b941f6f196464247903a166fd4ae74f514867556684de1aa44fdda7b771
     size: 1140231311
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/prevenons-le-paludisme-turwanye-malariya-rn.zip
-    version: '2019-12-17'
+    version: '2020-01-08'
   prevention-addictions-fr:
     description: Mieux comprendre les effets de l'alcool sur nos comportements, et
       leurs origines.
@@ -3555,12 +3561,12 @@ all:
       . Vous trouverez ici les informations n\xE9cessaires./ Kuganira ivyerekeye ubuzima\
       \ ndorabitsina birakingira impanuka umuntu."
     language: fr
-    name: "Pr\xE9vention et sexualit\xE9 / Kwingira hamwe n'ubuzima ndorabitsina"
-    sha256sum: 4f15b839e700ce98c15d6641e963305a4d0c4c7326bbde2c89fdd69a564d4348
+    name: "Pr\xE9vention et sexualit\xE9 / Kwinjira hamwe n'ubuzima ndorabitsina"
+    sha256sum: 1d40c8de7002efb346e47feec439d1e6ffa0a388a6b53e0dfa5bad0245393719
     size: 344838834
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/prevention-et-sexualite-gl-fr.zip
-    version: '2020-01-07'
+    version: '2020-01-08'
   priorite-sante-rfi-fr:
     description: "\xC9mission RFI : \"Priorit\xE9 Sant\xE9\""
     language: fr
@@ -3779,16 +3785,15 @@ all:
     url: http://packages.ideascube.org/omeka/se-preparer-a-une-catastrophe-fr.zip
     version: '2019-09-18'
   se-prote-ger-du-vih-sida-et-des-ist-kwirinda-vih-sida-n-inrwara-zifatira-mubihimba-vyirondoka-rn:
-    description: "Se prote\u0301ger du VIH SIDA et des IST / Kwirinda VIH SIDA n'\
-      \ inrwara zifatira mubihimba vyirondoka"
+    description: "Se prote\u0301ger du VIH SIDA et des IST / Kwirinda umugera wa SIDA\
+      \ n' inrwara zifatira mubihimba vyirondoka."
     language: rn
-    name: "Se prote\u0301ger du VIH SIDA et des IST / Kwirinda VIH SIDA n' inrwara\
-      \ zifatira mubihimba vyirondoka"
-    sha256sum: a83a36710dbfab0e260e4243a86c960deec5341c952c5774ed071eb4f6be7612
+    name: Kwirinda umugera wa SIDA n'inrwara zifatira mubihimba vyirondoka
+    sha256sum: 7e9c7183bb81406eb57bb6731165ba119010eaf629cb8ba2bd1358e996ec9e76
     size: 2669173002
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/se-prote-ger-du-vih-sida-et-des-ist-kwirinda-vih-sida-n-inrwara-zifatira-mubihimba-vyirondoka-rn.zip
-    version: '2019-12-20'
+    version: '2020-01-08'
   securite-et-sante-apprendre-a-donner-les-premiers-secours-gl-fr:
     description: Apprenez comment apporter les premiers secours en cas d'accidents.
     language: fr
@@ -4041,11 +4046,11 @@ all:
     description: "Histoires et r\xE9cits du quotidien au Burundi."
     language: rn
     name: "Une histoire, un r\xE9cit (Collectif Yaga) / Inkuru duhabwa na YAGA"
-    sha256sum: 18cec1cb4e460d67b3a2c49905fd8d76eb5b42271cfa8da9793250d8223ecd7d
-    size: 4135846
+    sha256sum: 2eee403ad55bee51604ef404dd41b69f51304c0b7e3340d3d95c9f796f0cec77
+    size: 3770883
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/une-histoire-un-recit-collectif-yaga-inkuru-duhabwa-na-yaga-rn.zip
-    version: '2019-12-20'
+    version: '2020-01-08'
   utilisez-internet-en-toute-securite-fr:
     description: "Des contenus pour accompagner petits et grands \xE0 utiliser internet\
       \ en toute s\xE9curit\xE9, et \xE0 comprendre comment avoir du recul sur les\
@@ -4097,14 +4102,14 @@ all:
     url: http://packages.ideascube.org/omeka/violences-sexuelles-sur-adultes-fr.zip
     version: '2019-12-16'
   vivre-avec-le-vih-sida-kubana-n-umugera-wa-sida-rn:
-    description: Vivre avec le VIH Sida / Kubana n' umugera wa SIDA
+    description: Vivre avec le VIH Sida / Kubana n' umugera wa SIDA.
     language: rn
     name: Vivre avec le VIH Sida / Kubana n' umugera wa SIDA
-    sha256sum: a285b35ba10c17aedb80728b60aee11ce32281d78e9328b66743e8656ccb2e3e
+    sha256sum: 93f941d525c3a0eb1d29456c249eeb4f3539bc8ecb0db7458c573351c788fd0c
     size: 612681084
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/vivre-avec-le-vih-sida-kubana-n-umugera-wa-sida-rn.zip
-    version: '2019-12-19'
+    version: '2020-01-08'
   wash-promotion-burmese-mm:
     description: '-'
     language: mm
