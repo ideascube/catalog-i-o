@@ -758,7 +758,7 @@ all:
       \ mumubiri birafasha kworoherwa mumutwe : Weho ubona gute umubiri wawe ?"
     language: fr
     name: "Conna\xEEtre et aimer son corps / Kumenya no gukunda umubiri wawe"
-    sha256sum: 241be58755960a8e1247f02818281bf9e9620d855d01670e4a21fc2760d98ba5
+    sha256sum: 5881cc8ccfd40f0370f1af56893f56bf82da886106695f0fd8a61edbef1f5cdc
     size: 127491798
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/connaitre-et-aimer-son-corps-kumenya-no-gukunda-umubiri-wawe-fr.zip
@@ -1625,7 +1625,7 @@ all:
       \ rijanye n'amaga meza."
     language: rn
     name: Feuilleton Ninde / Igikino NINDE ? (RTNB)
-    sha256sum: c5d72283f1858c851ea385e7f145a1a2b2afe3236c88829aa1878ff9e21fd63c
+    sha256sum: f65c7501992f8905b0fc1aad70833837b9cc89e501c0613b41070a0c5caec119
     size: 785738420
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/feuilleton-ninde-rtnb-rn.zip
@@ -2518,7 +2518,7 @@ all:
       \ ni bande bamaze gushika kwihangiro ?"
     language: fr
     name: L'entreprenariat  au Burundi  / Gutunganya imigambi Muburundi
-    sha256sum: 766c4f91a2616a12de426352a3b61634ad06151d261d5df0af854cf212198c74
+    sha256sum: 3557663a29fa484f3db64b42fa7cf52d1c228ef87afb9047230bf835cacc65a6
     size: 201645695
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/l-entreprenariat-au-burundi-gutunganya-imigambi-muburundi-fr.zip
@@ -2567,7 +2567,7 @@ all:
       gutunganya imvyaro mu Burundi.
     language: rn
     name: La Planification Familiale / Gutunganya imvyaro
-    sha256sum: 7243d490836bb586a4f49459c234bb0b0d40e61d242ac3015cbf36fbf79d9617
+    sha256sum: 5f795e9bc89e1075b076188d993997cc4d47c747c5fff65ec70ec5a85ecd4dbd
     size: 1487701095
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-planification-familiale-gl-rn.zip
@@ -2618,7 +2618,7 @@ all:
       \ nay'ikibondo mugihe wibungeze n'inyuma yaho."
     language: rn
     name: "La sant\xE9 maternelle / Amagara yabavyeyi"
-    sha256sum: b0d83f4a14e2ab27d550b0e616465c02a46b8c2e8d17ea5fdf4af473316a7df1
+    sha256sum: 3fbb6963c402e2e4224e33166948a607fe5b5464a678b8e10f34277264188aef
     size: 2493853829
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-maternelle-amagara-yabavyeyi-gl-rn.zip
@@ -2629,7 +2629,7 @@ all:
       \ n'irondoka rijanye n'amagara meza."
     language: rn
     name: Irondoka rijanye namagara meza murwaruka n' imiyabaga (SSRAJ)
-    sha256sum: f83b44ba506468cfe237d8bda4908fed4529a7631dbe3e1527e1cbe2d4656bca
+    sha256sum: a56f4484dc7887f2ed55008c72c143e26f920c5498586292f9e7c8e75613ba1a
     size: 5168602324
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-sexuelle-et-reproductive-des-adolescents-et-des-jeunes-gl-rn.zip
@@ -2673,7 +2673,7 @@ all:
       \ kuyidomako urutoke no kuyikingira."
     language: fr
     name: "Le harc\xE8lement /  Ihohoterwa"
-    sha256sum: e56200d22361005b1e36f4e2dd59efeaa885c09e43fb1d4115b71dcbd68855d9
+    sha256sum: 765ce560bfe63770be9c03896021d542517daf072ac2d4f722dada423bd6c19d
     size: 933265964
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/le-harcelement-ihohoterwa-gl-fr.zip
@@ -2685,7 +2685,7 @@ all:
       \ gufata ingingo zibereye muvyerekeye ubuzima ndorabitsina."
     language: rn
     name: Le monde commence par moi / Ihinduka ry'inyifato y'abantu rihera kuri jewe
-    sha256sum: be1465bd8a860dc0970c6916c547b72d3aa5a4e2ad0861c96cc647c8064562f7
+    sha256sum: c31eb6e8a2066a8d48ea8371c3b22c9260c7b1f2910c3f413188d0f8f15f89b1
     size: 197162568
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/le-monde-commence-par-moi-ihinduka-ry-inyifato-y-abantu-rihera-kuri-jewe-rn.zip
@@ -2867,7 +2867,7 @@ all:
     language: fr
     name: "Les filles et les gar\xE7ons, quelles diff\xE9rences ? / Abakobwa n'abahungu\
       \ baratandukanye ?"
-    sha256sum: 3a797d8e5cc9dd8ea21774c3f6a22591c73489b0fe844ea63b6ddad25056016c
+    sha256sum: 473c25809d2e02043aa3d82ed152f78ee64bab22fcff2b097266d6f863c89226
     size: 458344472
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-filles-et-les-garcons-quelles-differences-gl-fr.zip
@@ -2877,7 +2877,7 @@ all:
     language: rn
     name: "Les violences base\u0301es sur le genre (Pre\u0301vention et prise en charge)\
       \ / Amabi afatiye kugitsina"
-    sha256sum: 2801b4ebffd57d443fd148e631e0e042e5497bdb8d841fb3a9c1c667ccb15362
+    sha256sum: 3ced47e292afa09fb0478989724aba3b3e6ab1210b8b238c1f5ca041a1d1211e
     size: 1805511352
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-violences-base-es-sur-le-genre-pre-vention-et-prise-en-charge-amabi-afatiye-kugitsina-rn.zip
@@ -2899,7 +2899,7 @@ all:
     language: fr
     name: "Les violences sexuelles expliqu\xE9es aux enfants / Gusigurira abana amabi\
       \ afatiye ku gitsina"
-    sha256sum: e41794bb294fd297d28dd4609c8fda5818f5871ceaf50994bf54d2b65c939a59
+    sha256sum: 5a8a50b1578f0fce16ce1be14d1cb82a1dc3f8fba0e662d7244dcd1c76300bba
     size: 61563726
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-violences-sexuelles-expliquees-aux-enfants-gl-fr.zip
@@ -3531,7 +3531,7 @@ all:
       \ malariya."
     language: rn
     name: "Pr\xE9venons le paludisme / Turwanye Malariya"
-    sha256sum: 50411b941f6f196464247903a166fd4ae74f514867556684de1aa44fdda7b771
+    sha256sum: b135ff3c897451cb3cc71800f2f63a8de8f41891ce32ac62b40d141ac1255a50
     size: 1140231311
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/prevenons-le-paludisme-turwanye-malariya-rn.zip
@@ -3562,7 +3562,7 @@ all:
       \ ndorabitsina birakingira impanuka umuntu."
     language: fr
     name: "Pr\xE9vention et sexualit\xE9 / Kwinjira hamwe n'ubuzima ndorabitsina"
-    sha256sum: 1d40c8de7002efb346e47feec439d1e6ffa0a388a6b53e0dfa5bad0245393719
+    sha256sum: 8584932567542d8bd9d0900dd056f84acdc0f6dd3704015f403451621732a82f
     size: 344838834
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/prevention-et-sexualite-gl-fr.zip
@@ -3789,7 +3789,7 @@ all:
       \ n' inrwara zifatira mubihimba vyirondoka."
     language: rn
     name: Kwirinda umugera wa SIDA n'inrwara zifatira mubihimba vyirondoka
-    sha256sum: 7e9c7183bb81406eb57bb6731165ba119010eaf629cb8ba2bd1358e996ec9e76
+    sha256sum: 2c9ce68698a09dd73cf669326c007744611936f6df7c137e3ca039aeb6c04027
     size: 2669173002
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/se-prote-ger-du-vih-sida-et-des-ist-kwirinda-vih-sida-n-inrwara-zifatira-mubihimba-vyirondoka-rn.zip
@@ -4046,7 +4046,7 @@ all:
     description: "Histoires et r\xE9cits du quotidien au Burundi."
     language: rn
     name: "Une histoire, un r\xE9cit (Collectif Yaga) / Inkuru duhabwa na YAGA"
-    sha256sum: 2eee403ad55bee51604ef404dd41b69f51304c0b7e3340d3d95c9f796f0cec77
+    sha256sum: 9533cf535b8a5a90c9f77c8af781dc8cd3e80fb64fa9b0bb3b6d1c71a9156e3d
     size: 3770883
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/une-histoire-un-recit-collectif-yaga-inkuru-duhabwa-na-yaga-rn.zip
@@ -4105,7 +4105,7 @@ all:
     description: Vivre avec le VIH Sida / Kubana n' umugera wa SIDA.
     language: rn
     name: Vivre avec le VIH Sida / Kubana n' umugera wa SIDA
-    sha256sum: 93f941d525c3a0eb1d29456c249eeb4f3539bc8ecb0db7458c573351c788fd0c
+    sha256sum: 6ea6de340b865433e851c430bdf873e51b5b0ab3fdbe93283a4edf87a646b663
     size: 612681084
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/vivre-avec-le-vih-sida-kubana-n-umugera-wa-sida-rn.zip
