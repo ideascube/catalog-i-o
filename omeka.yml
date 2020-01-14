@@ -2159,12 +2159,12 @@ all:
     url: http://packages.ideascube.org/omeka/il-etait-une-fois-notre-terre-fr.zip
     version: '2019-10-08'
   information-mayotte-repema-askip-fr:
-    description: "10 vid\xE9os en fran\xE7ais cr\xE9ole parl\xE9 \xE0 Mayotte en partenariat\
-      \ du R\xE9seau P\xE9rinatal de Mayotte avec ASKIP pour vous familiariser, prendre\
-      \ confiance ou vous informer sur la sant\xE9 sexuelle et reproductive."
+    description: "ASKIP : 10 vid\xE9os en fran\xE7ais cr\xE9ole propos\xE9es par le\
+      \ R\xE9seau P\xE9rinatal de Mayotte (REPEMA) pour vous familiariser, prendre\
+      \ confiance et vous informer sur la sant\xE9 sexuelle et reproductive."
     language: fr
-    name: REPEMA ASKIP Mayotte
-    sha256sum: 925a9ba532fe15544ecfcf303518b586a659aa839fbbbacc119f2616678943f2
+    name: REPEMA - ASKIP Mayotte
+    sha256sum: 8314c219a5d7010fc2fbd10668aeaa1b753d2cf74a6ceb0184ddd720e1bcff3c
     size: 158067716
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/information-mayotte-repema-askip-fr.zip
