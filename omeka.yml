@@ -1032,6 +1032,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultural-expression-rohingya-rhg.zip
     version: '2019-11-14'
+  culture-numerique-fr:
+    description: "La culture num\xE9rique comprend des vid\xE9os \xE0 propos de  la\
+      \ culture geek, la science fiction, l'histoire des jeux vid\xE9os et d'autres\
+      \ sujets d'actualit\xE9 comme la r\xE9alit\xE9 virtuelle et augment\xE9e..."
+    language: fr
+    name: "Culture num\xE9rique"
+    sha256sum: b9c80ea6ecfa0a2446b3400c61295b105d8eda6b8c94d56f4a53f085353f4b8b
+    size: 3431044127
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/culture-numerique-fr.zip
+    version: '2020-01-15'
   cultures-fruits-de-mer-documentaries-en:
     description: Various videos about the island of Saint Martin
     language: en
@@ -1188,6 +1199,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/diy-travaux-manuels-fr.zip
     version: '2019-12-10'
+  do-it-yourself-bangla-bn:
+    description: Express your creativity, you will find a lot of video to help yourself
+      to build  things
+    language: bn
+    name: Do it yourself (Bangla)
+    sha256sum: 8a2917143c44a25c55e5b346f7eb96bcb69db066e7deeca167d922ec3371acc4
+    size: 1678889663
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/do-it-yourself-bangla-bn.zip
+    version: '2020-01-15'
   do-it-yourself-burmese-rhg:
     description: '-'
     language: rhg
@@ -1260,11 +1281,11 @@ all:
       \ d\xE9fendre."
     language: fr
     name: Droits de l'enfant
-    sha256sum: cb7892186e650ba261c49edf83a2e78896ae8a814466f85d27e01f87db1acba8
-    size: 157539196
+    sha256sum: 74c2b009c72bcc858e459fee437940a817bc4f7a82d1c88cdad0af8c2d2e17f8
+    size: 162649238
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/droits-de-l-enfant-fr.zip
-    version: '2019-10-10'
+    version: '2020-01-15'
   drums-for-beginners-en:
     description: Short classes to play drums quickly.
     language: en
@@ -2971,6 +2992,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/let-s-talk-about-sexuality-en-en.zip
     version: '2019-09-17'
+  life-saving-burmese-mm:
+    description: '-'
+    language: mm
+    name: Life saving (burmese)
+    sha256sum: 75448086ddc2b09d9de18108c5743b996d0d36f4f2fe4fd471d761071c8a60a1
+    size: 2203686033
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/life-saving-burmese-mm.zip
+    version: '2020-01-15'
   life-saving-multilanguage-en:
     description: Find supports that can help me deal with everydays problems
     language: en
@@ -3044,6 +3074,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/marketing-fr.zip
     version: '2019-10-25'
+  mathematic-bangla-bn:
+    description: Learn about mathematics, in this basic level you can enhance your
+      knowledges in the number and various matematical operations
+    language: bn
+    name: Mathematic (bangla)
+    sha256sum: ae6e335519bb3f0fc16fad4165c379eb5c7fd77a0e2f726c6c4dc3331afe5f9c
+    size: 335836125
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mathematic-bangla-bn.zip
+    version: '2020-01-15'
   mathematics-ar:
     description: "Simple mathematics for kids.// \u0631\u064A\u0627\u0636\u064A\u0627\
       \u062A \u0644\u0644\u0627\u0637\u0641\u0627\u0644"
@@ -3598,6 +3638,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/programmation-et-bidouille-fr.zip
     version: '2019-10-15'
+  protection-bangla-bn:
+    description: Everyone has the right to be protected
+    language: bn
+    name: Protection (bangla)
+    sha256sum: 80c85149d61d22951c7d55eff5b1e2f85fdc2317b317cfdf02b58a4c1fc612c1
+    size: 320975136
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/protection-bangla-bn.zip
+    version: '2020-01-15'
   protection-burmese-mm:
     description: '-'
     language: mm
