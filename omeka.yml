@@ -2213,11 +2213,11 @@ all:
       \ vous dans vos premi\xE8res cr\xE9ations vid\xE9os !"
     language: fr
     name: "Initiez-vous \xE0 la cr\xE9ation vid\xE9o"
-    sha256sum: 67b1da8e872a358f963945412f6854f4f02ab9de75501bd5e925a3ac8268ec94
-    size: 943565543
+    sha256sum: ca6694a6bf6fd7275e8b474a7a9d60e5ddda05556e766806eba9b8a16e9ee949
+    size: 1388962579
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-creation-video-fr.zip
-    version: '2019-09-16'
+    version: '2020-01-22'
   initiez-vous-a-la-photographie-fr:
     description: Vous souhaitez vous lancer, faire quelques photographies, mais vous
       avez besoin d'aide ? C'est ici !
@@ -3792,6 +3792,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/revolutionary-women-en.zip
     version: '2019-09-16'
+  risques-numeriques-fr:
+    description: "Des contenus pour identifier les usages et les risques en lien avec\
+      \ le num\xE9rique"
+    language: fr
+    name: Quels risques sur Internet ?
+    sha256sum: 75b52d357513546864d8ea67a42e373d46e818409d9af2d601a345bc7b2ecfcc
+    size: 30952729
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/risques-numeriques-fr.zip
+    version: '2020-01-22'
   s-informer-sur-internet-fr:
     description: "S'informer sur internet  propose une s\xE9rie de vid\xE9os sur l'\xE9\
       ducation aux m\xE9dias et \xE0 la d\xE9finition du citoyennet\xE9 num\xE9rique."
