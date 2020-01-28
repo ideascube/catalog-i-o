@@ -100,6 +100,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/alcool-drogues-fr.zip
     version: '2019-09-18'
+  alez-pou-make-kreyol-fr:
+    description: "Vid\xE9o courte sur les r\xE8gles d'\xE9criture et de phon\xE9tique\
+      \ du cr\xE9ole fran\xE7ais"
+    language: fr
+    name: "\xAB Al\xE8z pou mak\xE9 Kr\xE9y\xF2l \xBB"
+    sha256sum: 3a808c881cb1c255577a2050451f8eabb21ee36510a1b4d3264e1f7e4106fef8
+    size: 442377844
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/alez-pou-make-kreyol-fr.zip
+    version: '2020-01-28'
   anatomie-feminine-fr:
     description: "Des contenus autour de de l'anatomie f\xE9minine"
     language: fr
@@ -1047,11 +1057,11 @@ all:
     description: Various videos about the island of Saint Martin
     language: en
     name: Fruits de mer documentaries
-    sha256sum: 1b6b79dddcf83b288858773166fadf6a889682a4492774f214998c73c9278579
-    size: 2456373048
+    sha256sum: c0f74483a3b372c7e7b06754e63e43cad4dfc88beecf6aeb737d0fe531cbf8d8
+    size: 5190598422
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultures-fruits-de-mer-documentaries-en.zip
-    version: '2019-12-10'
+    version: '2020-01-28'
   cultures-fruits-de-mer-nature-en:
     description: Various documents that present aspects of the fauna, flora and environment
       of the carribean islands
@@ -1062,6 +1072,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultures-fruits-de-mer-nature-en.zip
     version: '2019-12-10'
+  cultures-revue-heritage-st-martin-fr:
+    description: Revue sur l'histoire et le patrimoine de Saint Martin
+    language: fr
+    name: Revue HERITAGE
+    sha256sum: 9be3304729c888fb17ad374be7048265db58e11786b2a763056ccc74c5c4848b
+    size: 734319026
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cultures-revue-heritage-st-martin-fr.zip
+    version: '2020-01-28'
   cultures-saint-martin-photos-fr:
     description: Reportages photos sur la faune, la flore et le climat de l'ile de
       Saint-Martion, par Mark Yokohama
@@ -2008,6 +2027,25 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-afrique-fr.zip
     version: '2019-09-19'
+  histoire-de-l-art-fr:
+    description: "Des contenus pour d\xE9couvrir ou red\xE9couvrir des grands noms\
+      \ de l'histoire de l'art."
+    language: fr
+    name: Histoire de l'art
+    sha256sum: d0a146ce3980df6aeb56ac2cec2a8bd3f1f0fab7992acbfe9630ac2f2c5e7c1b
+    size: 2167533428
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-de-l-art-fr.zip
+    version: '2020-01-28'
+  histoire-de-l-ile-de-saint-martin-fr:
+    description: "Documents relatifs \xE0 l'histoire de l'\xEEle de Saint Martin"
+    language: fr
+    name: "Histoire de l'\xEEle de Saint Martin"
+    sha256sum: a9cb2722f79008a212c1c2a74ccbaef2aa5f905fb03bc51847fcf1a7a2e2a652
+    size: 13831336
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-de-l-ile-de-saint-martin-fr.zip
+    version: '2020-01-28'
   histoire-de-la-republique-democratique-du-congo-fr:
     description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
       \ les \xE9v\xE8nements du pr\xE9sent"
@@ -3364,11 +3402,11 @@ all:
     description: "Vid\xE9os permettant de d\xE9couvrir diff\xE9rents m\xE9tiers"
     language: fr
     name: Orientation professionnelle
-    sha256sum: fcec4ca97a050fcfe94c9e1b21d7d7368320c52c776bb49bb7f855462ffcab68
-    size: 1123169146
+    sha256sum: d52630474ed351c12298963b053e4e93503f18ce76e81789a03f2feb20f66a4e
+    size: 1130714547
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/orientation-professionnelle-fr.zip
-    version: '2020-01-14'
+    version: '2020-01-28'
   parentalite-fr:
     description: "Le lien parent-enfant est parfois compliqu\xE9 \xE0 entretenir sereinement.\
       \  Ces contenus vous aideront peut-\xEAtre \xE0 trouver certaines r\xE9ponses\
