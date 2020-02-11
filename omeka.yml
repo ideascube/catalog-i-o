@@ -351,6 +351,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arriver-en-france-et-connaitre-ses-droits-fr.zip
     version: '2019-09-11'
+  art-contemporain-fr:
+    description: "Contenus relatifs \xE0 l'art contemporain, son contexte artistique,\
+      \ intellectuel, \xE9conomique"
+    language: fr
+    name: Art contemporain
+    sha256sum: 352a6d49d91a181836c7970cbddec3ba124f12d036a3fe9e87807dde35320f2c
+    size: 520791081
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/art-contemporain-fr.zip
+    version: '2020-02-11'
   arts-africa-en:
     description: Arts are part of the wealth of a country.
     language: en
@@ -1237,6 +1247,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/do-it-yourself-burmese-rhg.zip
     version: '2019-11-14'
+  do-it-yourself-diy-en:
+    description: Do It Yourself is a movement that advocates the repair and manufacture
+      of objects by oneself, without the help of experts.
+    language: en
+    name: Do it yourself
+    sha256sum: 7940f0f44cbf473fc78e210fb44164a63270d3414de9a05c213f78c9eaa1e811
+    size: 777346415
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/do-it-yourself-diy-en.zip
+    version: '2020-02-11'
   do-it-yourself-multi-languages-en:
     description: Express your creativity, you will find a lot of video to help yourself
       to build  things
@@ -1351,6 +1371,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/eco-d-ici-eco-d-ailleurs-rfi-fr.zip
     version: '2019-09-19'
+  ecologie-fr:
+    description: "Paquet \xE0 trier"
+    language: fr
+    name: Ecologie
+    sha256sum: cac217ef13ba50ce9bce9fa18f453863cec21459b6f04ca2931f97ef2dac16d1
+    size: 62570709
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ecologie-fr.zip
+    version: '2020-02-11'
   ecology-burmese-mm:
     description: '-'
     language: mm
@@ -2299,6 +2328,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/instrumental-music-en.zip
     version: '2019-10-15'
+  internet-les-autres-et-moi-les-bons-usages-fr:
+    description: "Le num\xE9rique est aujourd'hui omnipr\xE9sent dans notre quotidien.\
+      \ Ma\xEEtriser les usages d'Internet est devenue une comp\xE9tence essentielle\
+      \ du citoyen du 21\xE8me si\xE8cle. Ce package de contenus propose des \xE9\
+      l\xE9ments clefs pour \xEAtre \xE0 la fois un consommateur \xE9clair\xE9 des\
+      \ technologies et un acteur de la citoyennet\xE9 num\xE9rique."
+    language: fr
+    name: 'Internet, les autres et moi : les bons usages'
+    sha256sum: 03e8db5d94c7bf7d1b4b9c89ef431ca7fc5cfb3d84a9f64adef4b9cdbdc92c81
+    size: 52732710
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/internet-les-autres-et-moi-les-bons-usages-fr.zip
+    version: '2020-02-11'
   introduction-aux-droits-de-l-homme-fr:
     description: "Les m\xE9canismes de mise en \u0153uvre des droits de l'homme\r\n\
       Un MOOC de l'Universit\xE9 de Gen\xE8ve"
@@ -3287,6 +3329,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/musique-libre-de-droit-en.zip
     version: '2019-09-17'
+  musiques-du-monde-rfi-fr:
+    description: "\xC9mission RFI : \"Musiques du monde\""
+    language: fr
+    name: Musique
+    sha256sum: f33729f1a52a1a523c1fb9cbcafa13a85a2fd3ce57e386cab3f0dd6e9ecb8239
+    size: 492565474
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/musiques-du-monde-rfi-fr.zip
+    version: '2020-02-11'
   nature-enfants-ados-fr:
     description: "Qui sont les \xEAtres vivants qui nous entourent ? O\xF9 vivent-ils\
       \ ? Que mangent-ils ? Comment vivons-nous ensemble ?"
@@ -3614,6 +3665,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/preparing-for-major-disasters-and-natural-catastrophes-en.zip
     version: '2019-09-16'
+  presentation-des-actions-de-bibliotheques-sans-frontieres-france-fr:
+    description: "Pour en savoir davantage sur Biblioth\xE8ques Sans Fronti\xE8res"
+    language: fr
+    name: "Pr\xE9sentation des actions de Biblioth\xE8ques Sans Fronti\xE8res"
+    sha256sum: ff0092552b5bc3db9264bdda7b6c5de06100b10baa83bb34ffa547889ba191db
+    size: 2699175119
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/presentation-des-actions-de-bibliotheques-sans-frontieres-france-fr.zip
+    version: '2020-02-11'
   prevenir-les-grossesses-non-desirees-et-les-grossesses-precoces-gl-rn:
     description: "Pr\xE9venir les grossesses non d\xE9sir\xE9es et les grossesses\
       \ pr\xE9coces / Imbanyi zitifujwe , nugusama imbanyi hataragera."
@@ -3801,6 +3861,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/rechauffement-climatique-fr.zip
     version: '2019-12-16'
+  refugees-and-migrants-en-en:
+    description: "Important information on refugees rights and law protection. \r\n\
+      Material and activities for reflection and discussion."
+    language: en
+    name: Refugees and migrants
+    sha256sum: a18660d0c126612516b3cfffc7528ab0ad4b1627dc349f7b9d064947fc840562
+    size: 39027030
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/refugees-and-migrants-en-en.zip
+    version: '2020-02-11'
   renseignez-vous-sur-les-demarches-administratives-fr:
     description: "Retrouvez ici quelques guides pour vous aider \xE0 vous rep\xE9\
       rer dans le labyrinthe des d\xE9marches administratives. Pour d\xE9fendre ses\
