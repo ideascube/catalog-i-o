@@ -404,7 +404,7 @@ all:
       et font partie de la richesse d'un pays et d'une culture !
     language: fr
     name: Arts
-    sha256sum: f747062a4fdc0773f6ad95511d82a927590acb92a6733dae9d17cf5fb0d6caf4
+    sha256sum: 8699ff8d74634791df84d09b905484c2400669478aabe81dc995024c9e76bac5
     size: 6233053163
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arts-afrique-fr.zip
@@ -1232,7 +1232,7 @@ all:
       \ le prix Sakharov en 2014 et le prix Nobel de la paix en 2018."
     language: fr
     name: Denis Mukwege
-    sha256sum: 97cc77b5a201bd763936f2989cfd70b9843474cdb0519c05c248d8cfda4d0141
+    sha256sum: 6ae19aaa2a465507172f31abc53abb132281adb8985a6fd1c413b91cade11ea0
     size: 1364003969
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/denis-mukwege-fr.zip
@@ -1702,7 +1702,7 @@ all:
       \ sur nos vies."
     language: fr
     name: Emotions
-    sha256sum: 0c339d636eb5ed4d23697226ae72ece3bb69bf41115d9f7f22fe3fed8776b808
+    sha256sum: 51d9ca98680e9d1104d1911b4221943c15d9ee4e8df1738d130f80738954493e
     size: 158363549
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/emotions-fr.zip
@@ -2890,7 +2890,7 @@ all:
       gutunganya imvyaro mu Burundi.
     language: rn
     name: La Planification Familiale / Gutunganya imvyaro
-    sha256sum: 5422a4334ba72e7e50b7f1445cb4e27cdb047dd6c39a3a09bc13b36fefef2277
+    sha256sum: d6d0170f59d57269a37447b9d16025e59026760f300fbaea0b237cc564d7667f
     size: 1487704698
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-planification-familiale-gl-rn.zip
