@@ -1702,7 +1702,7 @@ all:
       \ sur nos vies."
     language: fr
     name: Emotions
-    sha256sum: 47e4461e1d59f49f32826661a08c0c3079317921bbab0e2aed1900d675639c4b
+    sha256sum: f6be954178db27014c3aa78a61ba029c256733d703b4102a101cd23a6f020b3c
     size: 158363549
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/emotions-fr.zip
