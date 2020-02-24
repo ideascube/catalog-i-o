@@ -1702,11 +1702,11 @@ all:
       \ sur nos vies."
     language: fr
     name: Emotions
-    sha256sum: 51d9ca98680e9d1104d1911b4221943c15d9ee4e8df1738d130f80738954493e
+    sha256sum: 47e4461e1d59f49f32826661a08c0c3079317921bbab0e2aed1900d675639c4b
     size: 158363549
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/emotions-fr.zip
-    version: '2020-02-21'
+    version: '2020-02-24'
   english-for-adults-ar:
     description: "Learn English through these easy to follow videos. \u062A\u0639\u0644\
       \u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\u0646\u062C\u0644\u064A\
