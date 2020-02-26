@@ -751,11 +751,11 @@ all:
       \ trouve tous les pr\xE9textes. D\xE9tectons-les, et combattons-les. (Adultes)"
     language: fr
     name: Combattons les discriminations (adultes)
-    sha256sum: 3c30b18d3e2dbf76178165224e8e37f4be7b0120a0a69dbe3d45b802225cfb84
-    size: 1537139610
+    sha256sum: a3ee91bc42a4d272e7cb0d7718f906d77d88da4e305bcac7520a685cea56230d
+    size: 3341451788
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/combattons-les-discriminations-fr.zip
-    version: '2019-10-30'
+    version: '2020-02-26'
   comment-faire-face-a-la-violence-et-aux-conflits-enfants-ados-fr:
     description: La paix, comment on fait ?
     language: fr
@@ -1026,14 +1026,15 @@ all:
     url: http://packages.ideascube.org/omeka/creatividad-manualidades-es.zip
     version: '2019-12-10'
   creativity-fruits-de-mer-art-creation-activities-en:
-    description: Express your creativity with coloring art creation
+    description: Express your creativity with coloring birds and other animals of
+      the island !
     language: en
-    name: Fruits de mer Art creation acitivities
-    sha256sum: b07c2960b93f3ce79282678fc522dc065728dfd6c40b5b080050e09e9a574d8c
-    size: 7300248
+    name: Coloring activities - fauna of Saint-Martin
+    sha256sum: dd99fefddb107af5d51eab2928377705ffad740a72ce77a2c6bf0fff9f6d4858
+    size: 7303711
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creativity-fruits-de-mer-art-creation-activities-en.zip
-    version: '2019-12-10'
+    version: '2020-02-26'
   creativity-multi-languages-en:
     description: Express your creativity
     language: en
@@ -1849,6 +1850,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fashion-and-beauty-ar.zip
     version: '2019-11-21'
+  fauna-and-flora-of-saint-martin-en:
+    description: Discover the wild life and the diversity of Saint-Martin's fauna
+      and flora thanks to documentaries created by the association Les Fruits de Mer.
+    language: en
+    name: Fauna and flora of Saint-Martin
+    sha256sum: f845dbcb6d5f5c479d5163609a55ae2fc9752b082713ff191ddf1767b163621a
+    size: 5287066013
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/fauna-and-flora-of-saint-martin-en.zip
+    version: '2020-02-26'
   feuilleton-ninde-rtnb-rn:
     description: "\xC9missions TV \"Ninde\" du Burundi sur des sujets de SSR. /\r\n\
       Ikiganiro \"NINDE\" gica kuri tereviziyo y'uburundi kivuga mu bijanye n'irondoka\
@@ -1973,6 +1984,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/food-security-en.zip
     version: '2019-09-16'
+  football-et-preparation-sportive-fr:
+    description: "Am\xE9liore ta technique en football et trouve de nombreux exercices\
+      \ d'assouplissement, \xE9chauffement, renforcement musculaire, cardio."
+    language: fr
+    name: "Football et pr\xE9paration sportive"
+    sha256sum: 33a70496edc92bcc69d4f41f9d30ce30d9d319d6b3e14cdd0c5a2b473233c335
+    size: 1886119696
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/football-et-preparation-sportive-fr.zip
+    version: '2020-02-26'
   football-matches-en:
     description: A collection of different football matches
     language: en
@@ -2258,6 +2279,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-afrique-fr.zip
     version: '2019-09-19'
+  histoire-culture-et-patrimoine-de-saint-martin-fr:
+    description: "Retrouvez la revue bilingue H\xE9ritage sur la culture de Saint-Martin,\
+      \ le guide de la faune et la flore de Saint-Martin par les Fruits de Mer et\
+      \ des articles sur l'Histoire de l'\xEEle."
+    language: fr
+    name: 'Saint-Martin : patrimoine culturel et naturel'
+    sha256sum: 19c49a47f49e09a7ef99c1f0089aa40fd7e1fa31374a803ead7127786fca60a8
+    size: 772895588
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-culture-et-patrimoine-de-saint-martin-fr.zip
+    version: '2020-02-26'
   histoire-de-l-art-fr:
     description: "Des contenus pour d\xE9couvrir ou red\xE9couvrir des grands noms\
       \ de l'histoire de l'art."
