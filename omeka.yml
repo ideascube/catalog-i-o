@@ -391,10 +391,10 @@ all:
     url: http://packages.ideascube.org/omeka/art-contemporain-fr.zip
     version: '2020-02-11'
   art-history-for-children-en:
-    description: Art history for children,
+    description: Art history for children
     language: en
-    name: Art history for children,
-    sha256sum: 80bc18b58973fdf3f111ae10ce2a34d5953ff9e007fadf857df807f1422209c1
+    name: Art history for children
+    sha256sum: 4b86bf2fac2d2f98fd5e652980b31ab2ed374c5c8bb0111e76700214ddfb89a9
     size: 178715403
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/art-history-for-children-en.zip
