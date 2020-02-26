@@ -495,6 +495,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/beauty-parlor-411.zip
     version: '2020-02-17'
+  being-prepared-in-case-of-a-major-disaster-en:
+    description: In this program you will learn the correct safety precautions and
+      techniques to adopt when faced with a major disaster in order to stay calm and
+      safe, as well as how to prepare for the eventuality of an incident.
+    language: en
+    name: Being prepared in case of a major disaster
+    sha256sum: 8978f67b75b8250e88334d0b61c40ad76c0dd0bf7014d80cb7ebcd748f28b906
+    size: 193300154
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/being-prepared-in-case-of-a-major-disaster-en.zip
+    version: '2020-02-26'
   bien-etre-et-communication-au-travail-fr:
     description: "Ici, des outils pour travailler votre confiance en vous et vous\
       \ affirmer au travail. Et des cl\xE9s pour d\xE9samorcer et r\xE9soudre des\
@@ -751,7 +762,7 @@ all:
       \ trouve tous les pr\xE9textes. D\xE9tectons-les, et combattons-les. (Adultes)"
     language: fr
     name: Combattons les discriminations (adultes)
-    sha256sum: a3ee91bc42a4d272e7cb0d7718f906d77d88da4e305bcac7520a685cea56230d
+    sha256sum: d46c2e317e70bb6224c6d59a25425dfed06282427836b8257fbedba52c71d209
     size: 3341451788
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/combattons-les-discriminations-fr.zip
@@ -807,11 +818,11 @@ all:
       \ vos besoins. Vous serez mieux avec vous m\xEAme et avec les autres !"
     language: fr
     name: "Comprendre et exprimer ses \xE9motions"
-    sha256sum: fd0fabafc05e42e2d95afa4fbf059bfd296c4345169ccabb9bfc5800bc914afc
-    size: 2792453717
+    sha256sum: 2f0983a7e5ea23d9a8c5f37bde232b6970ef0ce24d0085016d859b96f2fdd1d6
+    size: 2808890160
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comprendre-et-exprimer-ses-emotions-fr.zip
-    version: '2019-12-09'
+    version: '2020-02-26'
   comprendre-et-exprimer-ses-emotions-gl-fr:
     description: "D\xE9tendez-vous. Respirez. Accueillez vos \xE9motions. Exprimez\
       \ vos besoins. / Ruhuka, wakire ibishobisho vyawe."
@@ -1026,15 +1037,14 @@ all:
     url: http://packages.ideascube.org/omeka/creatividad-manualidades-es.zip
     version: '2019-12-10'
   creativity-fruits-de-mer-art-creation-activities-en:
-    description: Express your creativity with coloring birds and other animals of
-      the island !
+    description: Express your creativity with coloring art creation
     language: en
-    name: Coloring activities - fauna of Saint-Martin
-    sha256sum: dd99fefddb107af5d51eab2928377705ffad740a72ce77a2c6bf0fff9f6d4858
-    size: 7303711
+    name: Fruits de mer Art creation acitivities
+    sha256sum: b07c2960b93f3ce79282678fc522dc065728dfd6c40b5b080050e09e9a574d8c
+    size: 7300248
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creativity-fruits-de-mer-art-creation-activities-en.zip
-    version: '2020-02-26'
+    version: '2019-12-10'
   creativity-multi-languages-en:
     description: Express your creativity
     language: en
@@ -1063,6 +1073,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultura-cuentos-y-dibujos-animados-es.zip
     version: '2019-12-10'
+  cultura-literatura-universal-es:
+    description: "Grandes obras de la literatura universal en espa\xF1ol"
+    language: es
+    name: Literatura universal
+    sha256sum: 1b95ea2a3a14dd450fa203fc4f884e4bfdbfb03841e0b4959ab002494dd280ec
+    size: 127159817
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cultura-literatura-universal-es.zip
+    version: '2020-02-26'
   cultural-blender-asia-ctg:
     description: neighbouring cultures
     language: ctg
@@ -1855,7 +1874,7 @@ all:
       and flora thanks to documentaries created by the association Les Fruits de Mer.
     language: en
     name: Fauna and flora of Saint-Martin
-    sha256sum: f845dbcb6d5f5c479d5163609a55ae2fc9752b082713ff191ddf1767b163621a
+    sha256sum: ee3bd417fb680523d2f686844b4a8f6751fc4edb914f92616413a4a3c9d98ad5
     size: 5287066013
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fauna-and-flora-of-saint-martin-en.zip
@@ -1989,7 +2008,7 @@ all:
       \ d'assouplissement, \xE9chauffement, renforcement musculaire, cardio."
     language: fr
     name: "Football et pr\xE9paration sportive"
-    sha256sum: 33a70496edc92bcc69d4f41f9d30ce30d9d319d6b3e14cdd0c5a2b473233c335
+    sha256sum: 3fc772f89f885ca2111f3586f5fbcfccaabab5401bdb097eeb1e2627279e6cb1
     size: 1886119696
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/football-et-preparation-sportive-fr.zip
@@ -2285,7 +2304,7 @@ all:
       \ des articles sur l'Histoire de l'\xEEle."
     language: fr
     name: 'Saint-Martin : patrimoine culturel et naturel'
-    sha256sum: 19c49a47f49e09a7ef99c1f0089aa40fd7e1fa31374a803ead7127786fca60a8
+    sha256sum: 9b301c1e53f8a18a185663e4358d18f21803ce681a9de390d726a1d205f6be06
     size: 772895588
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-culture-et-patrimoine-de-saint-martin-fr.zip
@@ -2339,6 +2358,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-gl-fr.zip
     version: '2020-01-08'
+  histoire-occidentale-fr:
+    description: Connaitre l'histoire et la culture occidentale
+    language: fr
+    name: Histoire occidentale
+    sha256sum: fe6dab3b1992a3cd9fc6c30e13401d94858eb77bd14e69855c1be6ddbc8a3ac8
+    size: 17489607919
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-occidentale-fr.zip
+    version: '2020-02-26'
   histoires-illustrees-fr:
     description: "Profiter des histoires et se d\xE9tendre"
     language: fr
@@ -2575,6 +2603,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/internet-les-autres-et-moi-les-bons-usages-fr.zip
     version: '2020-02-11'
+  introduction-a-l-electricite-sikana-fr:
+    description: "Avec nos vid\xE9os \xE9ducatives du programme \xAB \xC9lectricit\xE9\
+      \ pour tous \xBB, d\xE9couvrez les bases de l\u2019\xE9lectricit\xE9, quelles\
+      \ sont les diff\xE9rentes r\xE8gles de s\xE9curit\xE9, etc."
+    language: fr
+    name: "Introduction \xE0 l'\xE9lectricit\xE9"
+    sha256sum: edd7e829d47b27d06105c7f678e68a8e051141252defce7ce72b23ada97c6a3c
+    size: 1363792482
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/introduction-a-l-electricite-sikana-fr.zip
+    version: '2020-02-26'
   introduction-aux-droits-de-l-homme-fr:
     description: "Les m\xE9canismes de mise en \u0153uvre des droits de l'homme\r\n\
       Un MOOC de l'Universit\xE9 de Gen\xE8ve"
