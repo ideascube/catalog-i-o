@@ -394,7 +394,7 @@ all:
     description: Art history for children,
     language: en
     name: Art history for children,
-    sha256sum: 9a05f41dac038cac0d1c694bb2c2f980b75b738725174fac200624a8402a068a
+    sha256sum: 80bc18b58973fdf3f111ae10ce2a34d5953ff9e007fadf857df807f1422209c1
     size: 178715403
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/art-history-for-children-en.zip
@@ -866,7 +866,7 @@ all:
       \ maternelle."
     language: fr
     name: Comptines pour les tout-petits
-    sha256sum: 8cf064ee4bb3efdf896ece464debf10d887c914f50a7f80829f980a55320b08e
+    sha256sum: 8562ee132c98f94502cbd202292a362f5fd84b3e496b8ae868410923f33908bf
     size: 145458649
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comptines-fr.zip
@@ -1060,7 +1060,7 @@ all:
       the island !
     language: en
     name: Coloring activities - fauna of Saint-Martin
-    sha256sum: bc1ae9113a4373dde6e4b12c1f0e6a758e96f1fbee76f00c58ab367c1188354c
+    sha256sum: 6ed676f7a09d6ad01eae217745648ac8cc9f27e2c356fdff0c8e661367bc0d90
     size: 7303711
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creativity-fruits-de-mer-art-creation-activities-en.zip
@@ -1228,7 +1228,7 @@ all:
       Saint-Martin, par Mark Yokohama de l'association Les Fruits de Mer.
     language: fr
     name: Documentaires photos sur Saint-Martin
-    sha256sum: aa7c58a66967fe83861256eb20d9b9a1434fac99b3de81b437e1b3d284b76fe2
+    sha256sum: 887d22adc8792930b7eb6d69835b75e665e8a0b79710faf19c3508eba4e75f1a
     size: 26397734
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultures-saint-martin-photos-fr.zip
@@ -1357,7 +1357,7 @@ all:
       \ \xE0 accepter les diff\xE9rences des qui nous entourent. (Enfants et ados)."
     language: fr
     name: Combattons les discriminations (enfants/ados)
-    sha256sum: 57c3138526e02f382acd190cbd5ff4ee0774e63e385e9b6389f08ab46ed301df
+    sha256sum: 6c6b9654c8a4f71719d64988ef7c4626626096fe7c3ce8104e8ce1fd6da7cc55
     size: 729667978
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discriminations-enfants-ados-fr.zip
@@ -2391,7 +2391,7 @@ all:
     description: "Profiter des histoires et se d\xE9tendre"
     language: fr
     name: "Histoires illustr\xE9es"
-    sha256sum: 0221e843512f95e6751729981c80b1ea0bb59589b785f4b53cf8963b891b536f
+    sha256sum: 87dc64c20806c7a8d70cf23ccc0a77c83cd7e64066a755cfa1d40bc51ae5f57c
     size: 66823112
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoires-illustrees-fr.zip
@@ -4653,7 +4653,7 @@ all:
       \ utiliser Internet en toute s\xE9curit\xE9"
     language: fr
     name: "Utilisez internet en toute s\xE9curit\xE9"
-    sha256sum: e72503805293975ed3d0e50232a5c28fe031dfe2908e4360623bf6e681599ee9
+    sha256sum: 094281549c1f6e3475cb4f777ce7513b40892890a7a6d6e07b8d5f013f70f4bc
     size: 115837678
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/utilisez-internet-en-toute-securite-enfants-fr.zip
