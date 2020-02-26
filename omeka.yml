@@ -390,6 +390,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/art-contemporain-fr.zip
     version: '2020-02-11'
+  art-history-for-children-en:
+    description: Art history for children,
+    language: en
+    name: Art history for children,
+    sha256sum: 9a05f41dac038cac0d1c694bb2c2f980b75b738725174fac200624a8402a068a
+    size: 178715403
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/art-history-for-children-en.zip
+    version: '2020-02-26'
   arts-africa-en:
     description: Arts are part of the wealth of a country.
     language: en
@@ -852,6 +861,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comprendre-les-migrations-fr.zip
     version: '2019-12-16'
+  comptines-fr:
+    description: "S\xE9lection de comptines pour les tout-petits et les enfants en\
+      \ maternelle."
+    language: fr
+    name: Comptines pour les tout-petits
+    sha256sum: 8cf064ee4bb3efdf896ece464debf10d887c914f50a7f80829f980a55320b08e
+    size: 145458649
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/comptines-fr.zip
+    version: '2020-02-26'
   computer-and-it-ar:
     description: "Learn about the different parts of the computer and more. // \u062A\
       \u0639\u0644\u0645 \u0639\u0646 \u0623\u062C\u0632\u0627\u0621 \u0627\u0644\u0643\
@@ -1037,14 +1056,15 @@ all:
     url: http://packages.ideascube.org/omeka/creatividad-manualidades-es.zip
     version: '2019-12-10'
   creativity-fruits-de-mer-art-creation-activities-en:
-    description: Express your creativity with coloring art creation
+    description: Express your creativity with coloring birds and other animals of
+      the island !
     language: en
-    name: Fruits de mer Art creation acitivities
-    sha256sum: b07c2960b93f3ce79282678fc522dc065728dfd6c40b5b080050e09e9a574d8c
-    size: 7300248
+    name: Coloring activities - fauna of Saint-Martin
+    sha256sum: bc1ae9113a4373dde6e4b12c1f0e6a758e96f1fbee76f00c58ab367c1188354c
+    size: 7303711
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creativity-fruits-de-mer-art-creation-activities-en.zip
-    version: '2019-12-10'
+    version: '2020-02-26'
   creativity-multi-languages-en:
     description: Express your creativity
     language: en
@@ -1205,14 +1225,14 @@ all:
     version: '2020-01-28'
   cultures-saint-martin-photos-fr:
     description: Reportages photos sur la faune, la flore et le climat de l'ile de
-      Saint-Martion, par Mark Yokohama
+      Saint-Martin, par Mark Yokohama de l'association Les Fruits de Mer.
     language: fr
-    name: Cultures Saint-Martin Reportages photos
-    sha256sum: ae66a50a71068b538fe5dc3cef06cbf0e3ca3ffd9db889806554328fe57a5942
-    size: 26397107
+    name: Documentaires photos sur Saint-Martin
+    sha256sum: aa7c58a66967fe83861256eb20d9b9a1434fac99b3de81b437e1b3d284b76fe2
+    size: 26397734
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultures-saint-martin-photos-fr.zip
-    version: '2019-12-10'
+    version: '2020-02-26'
   decouvrez-ou-re-decouvrez-la-cuisine-de-differents-pays-fr:
     description: Qu'est-ce qu'on mange aujourd'hui ?
     language: fr
@@ -1337,11 +1357,11 @@ all:
       \ \xE0 accepter les diff\xE9rences des qui nous entourent. (Enfants et ados)."
     language: fr
     name: Combattons les discriminations (enfants/ados)
-    sha256sum: 04c51c21b00493368a451a89cd71d0805cf09dd17142e20f6f9862604d0b3ec6
-    size: 617794284
+    sha256sum: 57c3138526e02f382acd190cbd5ff4ee0774e63e385e9b6389f08ab46ed301df
+    size: 729667978
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discriminations-enfants-ados-fr.zip
-    version: '2019-12-10'
+    version: '2020-02-26'
   diy-handcrafts-and-arts-ar:
     description: "Learn how to do useful objects for yourself, your kids, your friends,\
       \ and home accessories.// \u062A\u0639\u0644\u0645 \u0643\u064A\u0641\u064A\u0629\
@@ -2371,11 +2391,11 @@ all:
     description: "Profiter des histoires et se d\xE9tendre"
     language: fr
     name: "Histoires illustr\xE9es"
-    sha256sum: fcd5d96a3c3371262da293acdc91489f2526f53eca79c0b908e722bf937f2b69
-    size: 27993427
+    sha256sum: 0221e843512f95e6751729981c80b1ea0bb59589b785f4b53cf8963b891b536f
+    size: 66823112
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoires-illustrees-fr.zip
-    version: '2019-12-10'
+    version: '2020-02-26'
   history-africa-en:
     description: Learn in english the history of Africa
     language: en
@@ -4628,6 +4648,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/une-histoire-un-recit-collectif-yaga-inkuru-duhabwa-na-yaga-rn.zip
     version: '2020-02-14'
+  utilisez-internet-en-toute-securite-enfants-fr:
+    description: "\xEAtre en capacit\xE9 d'avoir des r\xE9fl\xE8xes de bases pour\
+      \ utiliser Internet en toute s\xE9curit\xE9"
+    language: fr
+    name: "Utilisez internet en toute s\xE9curit\xE9"
+    sha256sum: e72503805293975ed3d0e50232a5c28fe031dfe2908e4360623bf6e681599ee9
+    size: 115837678
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/utilisez-internet-en-toute-securite-enfants-fr.zip
+    version: '2020-02-26'
   utilisez-internet-en-toute-securite-fr:
     description: "Des contenus pour accompagner petits et grands \xE0 utiliser internet\
       \ en toute s\xE9curit\xE9, et \xE0 comprendre comment avoir du recul sur les\
