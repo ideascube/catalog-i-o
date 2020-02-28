@@ -394,11 +394,11 @@ all:
     description: Art history for children
     language: en
     name: Art history for children
-    sha256sum: aeaac21d08420e639da0413bd8c24433f57d842de14585869e24696b3c841752
+    sha256sum: 4b86bf2fac2d2f98fd5e652980b31ab2ed374c5c8bb0111e76700214ddfb89a9
     size: 178715403
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/art-history-for-children-en.zip
-    version: '2020-02-28'
+    version: '2020-02-26'
   arts-africa-en:
     description: Arts are part of the wealth of a country.
     language: en
@@ -713,17 +713,6 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/citoyennete-enabel-fr.zip
     version: '2019-09-18'
-  citoyennete-et-politique-enfants-fr:
-    description: "Quelques ressources pour d\xE9finir les droits et les devoirs du\
-      \ citoyen en France et avoir une premi\xE8re approche des institutions fran\xE7\
-      aises."
-    language: fr
-    name: "Qu'est-ce qu'\xEAtre \"citoyen\" ?"
-    sha256sum: bc80a6f5cf37fb5d002bfb87c1f00cdc96ca64e40ba69e870b0142d20222dc83
-    size: 11357716
-    type: zipped-medias
-    url: http://packages.ideascube.org/omeka/citoyennete-et-politique-enfants-fr.zip
-    version: '2020-02-28'
   citoyennete-et-politique-fr:
     description: "D\xE9mocratie, politique, \xE9lection, gauche, droite... On en parle\
       \ ?"
@@ -2465,6 +2454,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/how-to-write-in-a-professional-context-en.zip
     version: '2019-09-16'
+  human-fr:
+    description: "Compos\xE9 d\u2019images a\xE9riennes in\xE9dites et de t\xE9moignages\
+      \ face \xE0 la cam\xE9ra, film\xE9s dans 60 pays pendant plus de 2 ans, le film\
+      \ documentaire de Yann Arthus-Bertrand dresse un portrait de l\u2019humanit\xE9\
+      \ d\u2019aujourd\u2019hui."
+    language: fr
+    name: Human
+    sha256sum: 5422b7ac5960af1ebc2674bb533c607acac9cd983fa84f7b1bf97d5ffed3a053
+    size: 733409449
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/human-fr.zip
+    version: '2020-02-28'
   hygiene-af-fr:
     description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
       ne et \xE9viter les maladies !"
