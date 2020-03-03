@@ -155,14 +155,15 @@ all:
     url: http://packages.ideascube.org/omeka/animals-environement-documentary-in-burmese-mm.zip
     version: '2020-02-17'
   animals-environement-documentary-in-english-en:
-    description: '-'
+    description: Documentaries about animal life as well as some natural wonder, art
+      and a discovery of space and planetes. All the video are in English
     language: en
     name: Animals & Environement documentary in English
-    sha256sum: a56417d0de8d3e217accb8aadb64bd60e5b34c7c34ab89affccb19b92536799d
+    sha256sum: 39b5d8592994efa84e15cda5aa67d6bc416a46e2e380912b7132c9d5a500c729
     size: 1650009806
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/animals-environement-documentary-in-english-en.zip
-    version: '2020-02-17'
+    version: '2020-03-03'
   apprendre-a-cuisiner-sikana-fr:
     description: "Nous consommons de plus en plus de plats pr\xE9par\xE9s individuels.\
       \ Partager un repas fait maison est un pur moment de plaisir. D\xE9couvrez dans\
@@ -1314,14 +1315,17 @@ all:
     url: http://packages.ideascube.org/omeka/digital-literacy-burmese-mm.zip
     version: '2019-11-14'
   digital-literacy-lesson-in-english-en:
-    description: '-'
+    description: "For complete beginner to advance, you will find videos:\r\n- to\
+      \ discover a laptop, a camera and a voice recoder\r\n- to practice taping on\
+      \ a laptop\r\n- to learn about basic laptop repare\r\n- to discover and to become\
+      \ an expert in word, excel and powerpoint"
     language: en
     name: Digital literacy lesson in English
-    sha256sum: 629a05f4282401ab5c10578013397894ee8995737a1e5587cb4d9c67bb9bfea7
+    sha256sum: 6ffe2a6156cf43cdacc41ec01e604742435998839d543dfe6aed7478979343e6
     size: 640870400
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/digital-literacy-lesson-in-english-en.zip
-    version: '2020-02-17'
+    version: '2020-03-03'
   digital-literacy-lessons-in-burmese-mm:
     description: Tutorials videos in Burmese to discover computer and basic software
       and internet. Advice and concret tips
@@ -3431,11 +3435,11 @@ all:
       camps
     language: rhg
     name: Life in the Rohingya camp
-    sha256sum: a8451dd7ebe557e4725e35199fc14f197b963487a8a47f9159ae42738790b01d
+    sha256sum: 339b7f84b683a87f52d4090fd9534d4c1734d7b4049bf39551fe1015435e9228
     size: 14558391110
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/life-in-the-rohingya-camp-rhg.zip
-    version: '2020-02-17'
+    version: '2020-03-03'
   life-saving-burmese-mm:
     description: '-'
     language: mm
@@ -3538,6 +3542,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mathematics-ar.zip
     version: '2019-09-18'
+  mathematics-lesson-in-english-en:
+    description: To discover math through games and songs for children and to go to
+      advance math information and exercices, along with the history of mathematiques
+    language: en
+    name: Mathematics lesson in English
+    sha256sum: efde8b9d20f2029725309b049c63b41cdcfb680ec88cc264125f2e759e95de28
+    size: 1286301295
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mathematics-lesson-in-english-en.zip
+    version: '2020-03-03'
   maths-english-en:
     description: To discover math through games and songs for children and to go to
       advance math information and exercices, along with the history of mathematiques
@@ -4129,14 +4143,15 @@ all:
     version: '2019-11-14'
   protection-in-the-rohingya-refugee-camp-mm:
     description: Awarness videos and documents about protection in the Rohingya Refugee
-      Camp, in Burmese, in Rohingya and in English
+      Camp, in Burmese, in Rohingya and in English. The videos are made by NGO and
+      UN agency and dedicated to the Rohingya Refugee Crises.
     language: mm
     name: Protection in the Rohingya Refugee Camp
-    sha256sum: 2a5577e19d09fd93a97fa7543bb14e6a113f10cf1f5ab9553ab26fced60a58c1
-    size: 968526985
+    sha256sum: 3defd961e2c5b4e9a7076ca08b930c85a1c98396f08dd214338813b3547128dc
+    size: 968527055
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/protection-in-the-rohingya-refugee-camp-mm.zip
-    version: '2020-02-17'
+    version: '2020-03-03'
   protection-multilanguage-en:
     description: Everyone has the right to be protected
     language: en
@@ -4288,11 +4303,11 @@ all:
     description: Growing our culture
     language: rhg
     name: Rohingya songs and comedy
-    sha256sum: ce469f14554bef0b91ecdba3aa0348c6906ca29e03655957da92a591693c80bd
-    size: 143155542
+    sha256sum: 80c623b67c49d514e209992c7f68fcd521b5a8fe336f10a3c4088c052f18c111
+    size: 106510549
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/rohingya-songs-and-comedy-rhg.zip
-    version: '2020-02-17'
+    version: '2020-03-03'
   s-informer-sur-internet-fr:
     description: "S'informer sur internet  propose une s\xE9rie de vid\xE9os sur l'\xE9\
       ducation aux m\xE9dias et \xE0 la d\xE9finition du citoyennet\xE9 num\xE9rique."
@@ -4906,11 +4921,11 @@ all:
       \nVideos about breathing exercice and meditation for children (english)"
     language: en
     name: Yoga for women and children (Burmese & English)
-    sha256sum: 1f89e0e9f949d6e2f2bd883271492a18674bd9c0d171ad7b86f1404796671fbd
+    sha256sum: b44ae83aefef4652d246a8ebabec298318072a46c3a43dcdf0e411c7cd3af2b1
     size: 3778308113
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/yoga-for-women-and-children-burmese-english-en.zip
-    version: '2020-02-17'
+    version: '2020-03-03'
   young-and-old-multilanguage-en:
     description: Transmission of knowledge
     language: en
