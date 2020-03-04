@@ -149,11 +149,11 @@ all:
       the pyramids. All the video are in Burmese
     language: mm
     name: Animals & Environement documentary in Burmese
-    sha256sum: 95dd644eed506f1ead2473532f697713cba56a88c622de89eca4b28ac6ba0800
+    sha256sum: d43d3d4d48eb77d5647e3f8e2f22a5b4477ff9430583e5f8e326158447a6c1dc
     size: 2471357555
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/animals-environement-documentary-in-burmese-mm.zip
-    version: '2020-03-03'
+    version: '2020-03-04'
   animals-environement-documentary-in-english-en:
     description: Documentaries about animal life as well as some natural wonder, art
       and a discovery of space and planetes. All the video are in English
