@@ -90,6 +90,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-ecology-documentary-in-burmese-mm.zip
     version: '2020-02-17'
+  agriculture-en-afrique-fr:
+    description: "Documents universitaires (articles, actes de colloque, ouvrages,\
+      \ th\xE8ses, m\xE9moires..) traitant de l'agriculture en Afrique."
+    language: fr
+    name: Agriculture en Afrique
+    sha256sum: 62f82a79bbb6e530b7221cefb521aea38de090c27b937b234f0be1abf33d7f72
+    size: 51545218
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-en-afrique-fr.zip
+    version: '2020-03-05'
   agriculture-gardening-en:
     description: Discover your green fingers and create a living environment that
       lets you live in harmony with nature.
@@ -609,6 +619,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/carpentry-en.zip
     version: '2020-02-17'
+  cartographie-et-teledetection-afrique-fr:
+    description: "Documents universitaires (articles, actes de colloque, ouvrages,\
+      \ th\xE8ses, m\xE9moires..) traitant de l'utilisation de t\xE9l\xE9d\xE9tection\
+      \ pour diff\xE9rentes \xE9tudes en Afrique."
+    language: fr
+    name: "Cartographie et t\xE9l\xE9d\xE9tection (Afrique)"
+    sha256sum: 07ee5749ecf0d81dc8fb146fb89833032f502d6adc58b908239ab1f6da219db1
+    size: 63407435
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cartographie-et-teledetection-afrique-fr.zip
+    version: '2020-03-05'
   cartoons-ar:
     description: "Enjoy classic cartoons in arabic!// \u0634\u0627\u0647\u062F \u0627\
       \u0641\u0644\u0627\u0645 \u0643\u0631\u062A\u0648\u0646 \u0643\u0644\u0627\u0633\
@@ -857,11 +878,11 @@ all:
     description: '-'
     language: fr
     name: Comprendre les migrations
-    sha256sum: 6c023e30dcffb540297dcd1310b42ca4241dfe15dc0740ce498ff1d21e09a153
-    size: 1128550093
+    sha256sum: 5c5dd46af45eb3d4f29b36f87d9ef04ce955f6a2cd27a23cfcf0ffb8775cebaa
+    size: 1129468286
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comprendre-les-migrations-fr.zip
-    version: '2019-12-16'
+    version: '2020-03-05'
   comptines-fr:
     description: "S\xE9lection de comptines pour les tout-petits et les enfants en\
       \ maternelle."
@@ -1607,6 +1628,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/economie-fr.zip
     version: '2019-09-19'
+  economie-rurale-en-afrique-fr:
+    description: "Documents universitaires (articles, actes de colloque, ouvrages,\
+      \ th\xE8ses, m\xE9moires..) traitant de l'\xE9conomie rurale en Afrique."
+    language: fr
+    name: Economie rurale en Afrique
+    sha256sum: a23b0b0f31ae88b6c0acbe9a548751d71b0ee70b45371c5247ca3b9dee3f91d7
+    size: 41516771
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/economie-rurale-en-afrique-fr.zip
+    version: '2020-03-05'
   economy-ar:
     description: "Learn about the history of economy and other definitions./ \u0627\
       \u0639\u0631\u0641 \u0627\u0643\u062B\u0631 \u0639\u0646 \u062A\u0627\u0631\u064A\
@@ -2115,6 +2146,24 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/geographie-gl-fr.zip
     version: '2020-01-08'
+  geographie-rural-afrique-fr:
+    description: "Contenus relatifs \xE0 la g\xE9ographie rurale en Afrique"
+    language: fr
+    name: Geographie rural afrique
+    sha256sum: 6ef2c72537790216a11c7e4f67b69acac954121ec96515a59f8af1f753168d9f
+    size: 17291196
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/geographie-rural-afrique-fr.zip
+    version: '2020-03-05'
+  geographie-urbaine-afrique-fr:
+    description: "Contenus relatifs \xE0 la Geographie Urbaine afrique"
+    language: fr
+    name: Geographie Urbaine afrique
+    sha256sum: 9059c5695e258b5e21936de347ba60c2e146fcb8e477ff99e4e45f6228a63258
+    size: 934854
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/geographie-urbaine-afrique-fr.zip
+    version: '2020-03-05'
   geography-discovery-en:
     description: "Documentary and short videos to discover new information about history\
       \ and geography of different countries and cultures. \r\nAll the videos are\
@@ -2312,6 +2361,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-promotion-rohingya-rhg.zip
     version: '2019-11-14'
+  histoire-afrique-de-l-ouest-fr:
+    description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
+      \ les \xE9v\xE8nements du pr\xE9sent."
+    language: fr
+    name: Histoire de l'Afrique de l'Ouest
+    sha256sum: e8c3a6bdc8737e5b98ce2a1569970285bb98f80798145d749dbc729d30d47ad2
+    size: 446550437
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-afrique-de-l-ouest-fr.zip
+    version: '2020-03-05'
   histoire-afrique-fr:
     description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
       \ les \xE9v\xE8nements du pr\xE9sent."
@@ -2992,6 +3051,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/l-inclusion-numerique-fr.zip
     version: '2019-10-15'
+  la-marche-du-monde-rfi-fr:
+    description: 'Emission RFI : "La Marche du monde"'
+    language: fr
+    name: "Histoire de nos soci\xE9t\xE9s contemporaines"
+    sha256sum: 835f84bda98533c9c9d4c32c35adfdb40ab03f4672b72ecf5f013f163b2786e8
+    size: 529980985
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/la-marche-du-monde-rfi-fr.zip
+    version: '2020-03-05'
   la-planification-familiale-gl-rn:
     description: Tout savoir sur la planification familiale au Burundi. / Kumenya
       gutunganya imvyaro mu Burundi.
@@ -3562,6 +3630,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/maths-english-en.zip
     version: '2019-11-14'
+  memoire-d-un-continent-rfi-fr:
+    description: "\xC9mission RFI : \"M\xE9moire d'un continent\""
+    language: fr
+    name: Patrimoine
+    sha256sum: 69eb97e044ab73c1175d70284bbaf17e128ac2a01cf61bb54edb5a6cc5eef29e
+    size: 299701344
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/memoire-d-un-continent-rfi-fr.zip
+    version: '2020-03-05'
   microbiologie-et-prevention-sante-fr:
     description: "Qu'est-ce qu'un microbe ? Sont-ils tous nocifs pour l'homme ? Vous\
       \ trouverez ici \xE0 la fois des vid\xE9os sur la microbiologie et les avanc\xE9\
@@ -4377,6 +4454,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/science-multilanguage-en.zip
     version: '2019-11-14'
+  sciences-politiques-afrique-fr:
+    description: "Revenir sur les enjeux de la politique permet parfois de mieux comprendre\
+      \ les \xE9v\xE8nements du pr\xE9sent."
+    language: fr
+    name: Sciences politiques
+    sha256sum: 32c9cbb6081c380269953cfe31a05787652a99724e6fe6ad8d898d28d6fdbf6a
+    size: 1228616932
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/sciences-politiques-afrique-fr.zip
+    version: '2020-03-05'
   se-preparer-a-une-catastrophe-fr:
     description: "En 10 ans, le nombre de catastrophes naturelles li\xE9es au r\xE9\
       chauffement climatique a augment\xE9 de 60%. 1 personne sur deux est susceptible\
