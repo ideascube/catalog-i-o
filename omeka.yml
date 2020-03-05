@@ -1515,12 +1515,12 @@ all:
     description: "Contenus donnant des explications simples sur les fondements du\
       \ droit et pr\xE9sentant des textes fondateurs."
     language: fr
-    name: droit-introduction
-    sha256sum: 669a61c7d6b03f783ceab9a23259ccff69f3c144ddb8163377f6feb2fe18a3ae
-    size: 82363092
+    name: Droit-Introduction
+    sha256sum: 26f054e5af98b7e12781153e6f3f28adfc5c5a88b4bcb1648d11c72652ab418c
+    size: 82364312
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/droit-introduction-fr.zip
-    version: '2019-12-16'
+    version: '2020-03-05'
   droits-de-l-enfant-fr:
     description: "Tu as des droits, apprends \xE0 les conna\xEEtre pour mieux les\
       \ d\xE9fendre."
@@ -3581,6 +3581,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/make-your-own-radio-en.zip
     version: '2019-09-16'
+  management-fr:
+    description: "Comment \xEAtre un bon manager ? Comment amener une \xE9quipe \xE0\
+      \ r\xE9aliser ses objectifs. Vous trouverez ici des vid\xE9os p\xE9dagogiques\
+      \ sur les bases du management et des outils pour devenir vous-m\xEAme un bon\
+      \ manager."
+    language: fr
+    name: Management
+    sha256sum: b4580f7893831095b879dca2bc146def9f2a519e5727b40b300350e944da6128
+    size: 186683646
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/management-fr.zip
+    version: '2020-03-05'
   marketing-fr:
     description: Les bases du marketing.
     language: fr
@@ -3634,7 +3646,7 @@ all:
     description: "\xC9mission RFI : \"M\xE9moire d'un continent\""
     language: fr
     name: Patrimoine
-    sha256sum: 69eb97e044ab73c1175d70284bbaf17e128ac2a01cf61bb54edb5a6cc5eef29e
+    sha256sum: c11edbccf1ed945570ec9759023e2395a8ba9c26857518ab819b51d756bd7c33
     size: 299701344
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/memoire-d-un-continent-rfi-fr.zip
