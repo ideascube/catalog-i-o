@@ -196,6 +196,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-a-donner-les-premiers-secours-gl-fr.zip
     version: '2020-01-07'
+  apprendre-a-programmer-en-java-fr:
+    description: "Ce MOOC est une formation compl\xE8te \xE0 la programmation en Java.\
+      \ Il revient \xE0 la fois sur les bases de la programmation et les sp\xE9cificit\xE9\
+      s du langage."
+    language: fr
+    name: "Apprendre \xE0 programmer en Java"
+    sha256sum: 3a68557e98ba3ece667c37b6f794f4561c085b0698586964c65895b5b4174238
+    size: 363074392
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprendre-a-programmer-en-java-fr.zip
+    version: '2020-03-09'
   apprendre-a-utiliser-des-patrons-fr:
     description: "Ce paquet de contenus r\xE9unit quelques exemples de tutoriels qui\
       \ permettent \xE0 un tailleur d'apprendre \xE0 utiliser un patron, ou de r\xE9\
@@ -451,6 +462,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/astronomy-en.zip
     version: '2019-09-19'
+  astrophotograhie-fr:
+    description: "tutoriel pour apprendre \xE0 photographier la voie lact\xE9e"
+    language: fr
+    name: "Photographier la voie lact\xE9e"
+    sha256sum: 42bf1cac9f91fe83cf14b68ec3430c3b9509983b8e3e086bab18965b242b7d30
+    size: 27753744
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/astrophotograhie-fr.zip
+    version: '2020-03-09'
   asylum-seeking-process-arabic-ar:
     description: 'This package explains the rights of refugees in France: how to apply
       for asylum, how to request family reunification, etc.'
@@ -1604,6 +1624,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ecology-english-en.zip
     version: '2019-11-14'
+  economie-et-developpement-durable-fr:
+    description: "Comment allier protection de l'environnement et d\xE9veloppement\
+      \ \xE9conomique ? Quels sont les impacts des mod\xE8les \xE9conomiques actuels\
+      \ sur l'environnement ? Qu'est-ce que le d\xE9veloppement durable, et quels\
+      \ sont les possibilit\xE9s de mise en oeuvre d'une croissance soucieuse de l'environnement\
+      \ ?"
+    language: fr
+    name: "Economie et d\xE9veloppement durable"
+    sha256sum: 7c41bce13d126feb6352b020943e956319927a1c0ed0b926df520a317ed725d1
+    size: 127614613
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/economie-et-developpement-durable-fr.zip
+    version: '2020-03-09'
   economie-et-mondialisation-fr:
     description: "Cette collection comprend des vid\xE9os, des MOOC et des articles\
       \ de recherche sur les enjeux modernes de la macro\xE9conomie. Le MOOC sur la\
@@ -2126,6 +2159,29 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/from-our-community-rohingya-rhg.zip
     version: '2019-11-14'
+  genetique-des-populations-afrique-fr:
+    description: "Documents universitaires (articles, actes de colloque, ouvrages,\
+      \ th\xE8ses, m\xE9moires..) traitant de la g\xE9n\xE9tique, privil\xE9giant\
+      \ les domaines d'\xE9tudes en lien avec l'Afrique."
+    language: fr
+    name: "G\xE9n\xE9tique des populations (Afrique)"
+    sha256sum: be000d65dfd9a8659f8280b2ab4af2d6cbf44faed2f91e7ab2fbeb12539e554f
+    size: 55157689
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/genetique-des-populations-afrique-fr.zip
+    version: '2020-03-09'
+  genetique-et-epigenetique-fr:
+    description: "Qu'est-ce que l'\xE9pig\xE9n\xE9tique ? En quoi cette discipline\
+      \ diff\xE8re-t-elle de la g\xE9n\xE9tique ? Des chercheurs expliquent ici l'histoire\
+      \ de l'\xE9pig\xE9n\xE9tique et la fa\xE7on dont les modifications de l'ADN\
+      \ peuvent influencer l'expression des g\xE8nes."
+    language: fr
+    name: "G\xE9n\xE9tique et \xE9pig\xE9n\xE9tique"
+    sha256sum: 3314e9cbd5775cccec2034c591db32add50c39be5cfad30e44c3c6548a57f433
+    size: 462704222
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/genetique-et-epigenetique-fr.zip
+    version: '2020-03-09'
   geographie-afrique-fr:
     description: 'Focus sur l''Afrique: quels pays, quels villes, quels contextes,
       quels enjeux ?'
@@ -2709,6 +2765,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-a-l-electricite-sikana-fr.zip
     version: '2020-02-26'
+  introduction-a-la-biologie-et-a-la-chimie-fr:
+    description: "Cette collection de contenus comprend des vid\xE9os et des entretiens\
+      \ de chercheurs sur des domaines vari\xE9s de la biologie et de la chimie :\
+      \ de la biologie mol\xE9culaire aux neurosciences. Elle s'adresse aux \xE9tudiants\
+      \ en biologie, en chimie, en m\xE9decine et en soins infirmiers."
+    language: fr
+    name: "Introduction \xE0 la biologie et \xE0 la chimie"
+    sha256sum: 702b85e95a1cfced73d9e1064c0f5d8c39f09a30656f8d49f0f45f65f4e73273
+    size: 78821100
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/introduction-a-la-biologie-et-a-la-chimie-fr.zip
+    version: '2020-03-09'
   introduction-aux-droits-de-l-homme-fr:
     description: "Les m\xE9canismes de mise en \u0153uvre des droits de l'homme\r\n\
       Un MOOC de l'Universit\xE9 de Gen\xE8ve"
@@ -3646,11 +3714,11 @@ all:
     description: "\xC9mission RFI : \"M\xE9moire d'un continent\""
     language: fr
     name: Patrimoine
-    sha256sum: c11edbccf1ed945570ec9759023e2395a8ba9c26857518ab819b51d756bd7c33
+    sha256sum: 6f357ef224b67803203272bf0887dc316e6e75d7a61d36eae2bbd2598702b907
     size: 299701344
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/memoire-d-un-continent-rfi-fr.zip
-    version: '2020-03-05'
+    version: '2020-03-09'
   microbiologie-et-prevention-sante-fr:
     description: "Qu'est-ce qu'un microbe ? Sont-ils tous nocifs pour l'homme ? Vous\
       \ trouverez ici \xE0 la fois des vid\xE9os sur la microbiologie et les avanc\xE9\
@@ -3673,6 +3741,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/migrations-a-mayotte-fr.zip
     version: '2019-12-16'
+  modelisation-intelligence-artificielle-fr:
+    description: "Contenus relatifs \xE0 la mod\xE9lisation intelligence artificielle"
+    language: fr
+    name: "Mod\xE9lisation intelligence artificielle"
+    sha256sum: d93523a5b1b0f11940c061cb3d0440e62396269fe551680167fcf04830ba88fc
+    size: 46277247
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/modelisation-intelligence-artificielle-fr.zip
+    version: '2020-03-09'
   monter-un-laboratoire-d-innovation-publique-fr:
     description: "L\u2019action publique se r\xE9invente. Pour sortir des m\xE9thodes\
       \ classiques et des conceptions \xAB top down \xBB, de nouvelles approches se\
@@ -3699,6 +3776,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/montez-votre-projet-professionnel-fr.zip
     version: '2019-09-16'
+  mooc-energies-renouvelables-fr:
+    description: "La vocation de ce cours en ligne est de renforcer les connaissances\
+      \ g\xE9n\xE9rales d'un large public sur la question des \xE9nergies renouvelables,\
+      \ d'accro\xEEtre les capacit\xE9s d'implication des personnes dans les grandes\
+      \ d\xE9cisions relatives \xE0 la production et/ou \xE0 l'utilisation d'\xE9\
+      nergies renouvelables et de susciter l'\xE9mergence de nouveaux projets."
+    language: fr
+    name: MOOC - Energies renouvelables
+    sha256sum: 879db4fb4acaf298becd0da4620a6b166b2746852b77c3ab8142d695c94b4908
+    size: 5403408380
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mooc-energies-renouvelables-fr.zip
+    version: '2020-03-09'
   motherhood-and-parenting-ar:
     description: "Useful Motherhood and Parenting tips and information. Helping parents\
       \ dealing with their children and having a healthy relationship.// \u0646\u0635\
