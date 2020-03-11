@@ -1546,11 +1546,11 @@ all:
       \ d\xE9fendre."
     language: fr
     name: Droits de l'enfant
-    sha256sum: 6d280b02dd8a696ccc997abfdd798147ccd036ff2e3d1396cd17fc920353cc8b
-    size: 199404964
+    sha256sum: 74c2b009c72bcc858e459fee437940a817bc4f7a82d1c88cdad0af8c2d2e17f8
+    size: 162649238
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/droits-de-l-enfant-fr.zip
-    version: '2020-03-11'
+    version: '2020-01-15'
   drums-for-beginners-en:
     description: Short classes to play drums quickly.
     language: en
