@@ -729,11 +729,11 @@ all:
       Box in Teknaf, Bangaldesh.
     language: bn
     name: Children's Club (6-12)
-    sha256sum: 56c712f489f4b5198797d5567235e75abcec6e70d37a8f38bd27781b23006cff
-    size: 5116500660
+    sha256sum: 90b41476057c0c4b6f720499d6f71c77c8ee35a3ff475edec51dd3af73f8a554
+    size: 5121845306
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/children-s-club-6-12-bn.zip
-    version: '2019-12-18'
+    version: '2020-03-17'
   citizenship-democracy-and-peace-en:
     description: Talking about democracy, power, constitution, voting
     language: en
@@ -4030,11 +4030,11 @@ all:
     description: Package for the Parent's club of HI/Mokti in Teknaf, Bangladesh.
     language: bn
     name: Parents' Clube and Children (0-5)
-    sha256sum: 239a6b1a6f6e6f5f0110b60134da3f8ae12b170772ec212aab1c0205bda95fb5
-    size: 4956936080
+    sha256sum: 99fd103ce0f63211c8732176f7ba2d5900d9c440c8ec7bd65e1ddb907ef5ae34
+    size: 5873246157
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/parents-clube-and-children-0-5-bn.zip
-    version: '2019-12-18'
+    version: '2020-03-17'
   patron-pour-coudre-une-jupe-a-volants-fille-fr:
     description: "Ce paquet de contenus pr\xE9sente des patrons qui peuvent \xEAtre\
       \ utilis\xE9s pour coudre une jupe \xE0 volants pour fille. Les patrons sont\
