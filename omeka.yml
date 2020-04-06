@@ -115,11 +115,11 @@ all:
       \ risques."
     language: fr
     name: Quels risques avec l'alcool et les drogues ?
-    sha256sum: 5784be575d9db2448e535ff58ca410a51adae236333cac8d9864e05a343924a4
-    size: 60022018
+    sha256sum: b21e9d0fd14b2e8d92d45ddd774033038fe30d1f482036fd543f913ee2c5cc70
+    size: 602772135
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/alcool-drogues-fr.zip
-    version: '2019-09-18'
+    version: '2020-04-06'
   alez-pou-make-kreyol-fr:
     description: "Vid\xE9o courte sur les r\xE8gles d'\xE9criture et de phon\xE9tique\
       \ du cr\xE9ole fran\xE7ais"
@@ -952,11 +952,11 @@ all:
       ger. / Gutahura gusumba ingwara n'ingene bazikingira."
     language: fr
     name: "Conna\xEEtre et se prot\xE9ger des maladies / Kumenya no kwikingira ingwara."
-    sha256sum: 624c8dcc46c8b26e26eecf49b93dd07bc7ab9983beee12a42e89afe79d1f5916
-    size: 769142086
+    sha256sum: 8b50a273dc1f5ff630d220b18f45da52b2c27266599d6c9c749901607bec1029
+    size: 821758446
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/connaitre-et-se-proteger-des-maladies-gl-fr.zip
-    version: '2020-01-07'
+    version: '2020-04-06'
   connaitre-la-france-et-paris-fr:
     description: "Comment fait-on la bise ? Pourquoi repr\xE9sente-t-on les fran\xE7\
       ais avec une baguette de pain ? Ou encore : d'ou viennent les partis politiques\
@@ -973,11 +973,11 @@ all:
     description: Conseils pour la gestion des relations amoureuses.
     language: rn
     name: Impanuro kurwaruka  zijanye nogutanganya imigenderanire yabakundana
-    sha256sum: f44939ac9880fc2264ca516f0d9484bb563484c34c9dd389342fb6ab08f3b929
-    size: 2505489233
+    sha256sum: 1dfba44112c2105350a823208df040ab76a9e4fe270dd03a5d650cede7fd991d
+    size: 2481142659
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/conseils-pour-la-gestion-des-relations-amoureuses-gl-rn.zip
-    version: '2019-12-20'
+    version: '2020-04-06'
   contenus-de-prevention-de-la-croix-rouge-fr:
     description: "Dans cette partie on aborde la violence, la paix, l'hygi\xE8ne"
     language: fr
@@ -1306,19 +1306,18 @@ all:
     url: http://packages.ideascube.org/omeka/demander-l-asile-en-france-fr.zip
     version: '2019-09-16'
   denis-mukwege-fr:
-    description: "Denis Mukwege, n\xE9 le 1er mars 1955 \xE0 Bukavu dans le Kivu au\
-      \ Congo belge, est un gyn\xE9cologue et militant des droits de l'homme congolais.\r\
-      \n\r\nSurnomm\xE9 \xAB l'homme qui r\xE9pare les femmes \xBB, il a re\xE7u de\
-      \ nombreuses distinctions pour son engagement contre les mutilations g\xE9nitales\
-      \ pratiqu\xE9es sur les femmes en r\xE9publique d\xE9mocratique du Congo, dont\
-      \ le prix Sakharov en 2014 et le prix Nobel de la paix en 2018."
+    description: "Denis Mukwege, est un gyn\xE9cologue et militant des droits de l'homme\
+      \ congolais.\r\nSurnomm\xE9 \xAB l'homme qui r\xE9pare les femmes \xBB, il a\
+      \ re\xE7u de nombreuses distinctions pour son engagement contre les mutilations\
+      \ g\xE9nitales pratiqu\xE9es sur les femmes en r\xE9publique d\xE9mocratique\
+      \ du Congo."
     language: fr
     name: Denis Mukwege
-    sha256sum: 6ae19aaa2a465507172f31abc53abb132281adb8985a6fd1c413b91cade11ea0
+    sha256sum: 0b37315fc39efe41c51f50dd005ee96265fc351f0063b69dca4a73aa19e62d20
     size: 1364003969
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/denis-mukwege-fr.zip
-    version: '2020-02-21'
+    version: '2020-04-06'
   dessins-animes-pour-enfants-en-swahili-sw:
     description: "Tu veux regarder des dessins anim\xE9s en swahili ? C'est ici !"
     language: sw
@@ -2050,6 +2049,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/filles-garcons-quelle-place-pour-qui-fr.zip
     version: '2019-12-09'
+  films-d-animation-muets-fr:
+    description: "D\xE9couvrez de beaux courts m\xE9trages qui racontent des histoires\
+      \ sans mots!"
+    language: fr
+    name: Films d'animation muets
+    sha256sum: aa1db6d5534ec734acce67d7bbac4370c705fc9ed1f20786e1548b4ee68b4adb
+    size: 200146372
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/films-d-animation-muets-fr.zip
+    version: '2020-04-06'
   films-et-videos-libres-de-droit-fr:
     description: "A regarder ! Tous les genres, pour tous les \xE2ges."
     language: fr
@@ -2611,11 +2620,11 @@ all:
       \ kwikingira ingwara."
     language: fr
     name: "Hygi\xE8ne de base / Isuku ry'ibanze"
-    sha256sum: 2006184ce831a7347374d5e3f79d0d5dca3933445f9ce602b1657baaf2e30681
-    size: 366581667
+    sha256sum: ee7d6aa921dd366eae5fd3913c27d76d4ce81bdf5ade19db6dd27fb40cd396c1
+    size: 1085245872
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/hygiene-de-base-gl-fr.zip
-    version: '2020-01-07'
+    version: '2020-04-06'
   hygiene-enfants-ados-fr:
     description: "Pourquoi il faut se laver, le corps, les mains, les dents ? Pour\
       \ rester en bonne sant\xE9, et pour que ceux autour de nous le reste aussi !\
@@ -3133,11 +3142,11 @@ all:
       gutunganya imvyaro mu Burundi.
     language: rn
     name: La Planification Familiale / Gutunganya imvyaro
-    sha256sum: d6d0170f59d57269a37447b9d16025e59026760f300fbaea0b237cc564d7667f
-    size: 1487704698
+    sha256sum: 4093aa6928b5c7248d708ab49b62593d83417ddc60ef5dbd6fc0260cf0a166d3
+    size: 1309361930
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-planification-familiale-gl-rn.zip
-    version: '2020-02-21'
+    version: '2020-04-06'
   la-planification-familiale-gutunganya-invyaro-gl-rn:
     description: Tout savoir sur la planification familiale au Burundi.
     language: rn
@@ -3195,11 +3204,11 @@ all:
       \ n'irondoka rijanye n'amagara meza."
     language: rn
     name: Irondoka rijanye namagara meza murwaruka n' imiyabaga (SSRAJ)
-    sha256sum: 4e4ea1e82f469450bce60ce97635a1458fcb8b240f9ff9dd9529f43e6dec97d5
-    size: 5168607955
+    sha256sum: 1c8084ef5600314001be9424c074b73a4cc65a33faffb69393c7d02337106cee
+    size: 3947707783
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-sexuelle-et-reproductive-des-adolescents-et-des-jeunes-gl-rn.zip
-    version: '2020-02-14'
+    version: '2020-04-06'
   langue-des-signes-fr:
     description: Se familiariser avec la langue des signes
     language: fr
@@ -3228,11 +3237,11 @@ all:
     language: rn
     name: Le dialogue entre parents et enfants sur la SSR / Ikiyago hagati yabavyeyi
       n' urwaruka
-    sha256sum: 982fa9d8b7e8898caddd8e2b8ea025b4c723887b5cfbde52a9d2807f59650b6d
-    size: 1176476513
+    sha256sum: a47e4f5415e94cc3285b85c6a73da8705eeede4e5dc34a3aa85dcec95862dfd7
+    size: 636561316
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/le-dialogue-entre-parents-et-enfants-sur-la-ssr-ikiyago-hagati-yabavyeyi-n-urwaruka-gl-rn.zip
-    version: '2019-12-20'
+    version: '2020-04-06'
   le-harcelement-ihohoterwa-gl-fr:
     description: "Des contenus autour des questions de harc\xE8lement pour l'identifier\
       \ et apprendre \xE0 se d\xE9fendre.../ Inyigisho ku bijanye nihohoterwa, kumenya\
@@ -4236,11 +4245,11 @@ all:
       \ pr\xE9coces / Imbanyi zitifujwe , nugusama imbanyi hataragera."
     language: rn
     name: Imbanyi zitifujwe, nugusama imbanyi hataragera
-    sha256sum: 618eede0e31908305f7bdc19946d4d3d9b35157ed266b3e22358a0c9b9d51f26
-    size: 4992556944
+    sha256sum: f0f5ad613bdc327372c5f56c590fc9da69ba725084ba73b58386fa5d22e06e24
+    size: 4984157566
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/prevenir-les-grossesses-non-desirees-et-les-grossesses-precoces-gl-rn.zip
-    version: '2019-12-20'
+    version: '2020-04-06'
   prevenons-le-paludisme-turwanye-malariya-rn:
     description: "Recommandations pour pr\xE9venir le paludisme. / Impanuro zo kwikingira\
       \ malariya."
