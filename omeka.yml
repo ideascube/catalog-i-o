@@ -1027,6 +1027,47 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cooking-ar.zip
     version: '2019-11-21'
+  covid-19-bangla-bn:
+    description: This document in Bangla list frequent questions about the COVID-19
+      virus and brings basic answers.
+    language: bn
+    name: COVID-19 - Bangla
+    sha256sum: c826b9e04377f691037243fe19f7cc0a6166f005485dbc8bc9eecc224f76a3ce
+    size: 98390077
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/covid-19-bangla-bn.zip
+    version: '2020-04-16'
+  covid-19-burmese-mm:
+    description: This is a poster that gives information on good hygiene practices
+      that will help to prevent COVID-19 infection. The poster is in Burmese language
+      and contains illustrations.
+    language: mm
+    name: COVID-19 - Burmese
+    sha256sum: ba3a55a72c0255f4a1e5c2dac8302d8c04d159596d746a3c5589c6546b49e50c
+    size: 1263655
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/covid-19-burmese-mm.zip
+    version: '2020-04-16'
+  covid-19-english-en:
+    description: The video demonstrates how to put and withdraw a mask correctly,
+      making sure your hands stay clean.
+    language: en
+    name: COVID-19 - English
+    sha256sum: cb971b82c9d49bb48721cae58216e5ba70e4e3e80c51bb2248a0f923cfc2e34e
+    size: 43267021
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/covid-19-english-en.zip
+    version: '2020-04-16'
+  covid-19-rohingya-rhg:
+    description: This audio file in Rohingya language gives information on COVID-19
+      symptoms and what to do if you are infected with the disease.
+    language: rhg
+    name: COVID-19 - Rohingya
+    sha256sum: 64faf40e9f1bd0776eb1262470a47664349ab1ed1d2f4f7538270f3754f15c0c
+    size: 1148836702
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/covid-19-rohingya-rhg.zip
+    version: '2020-04-16'
   creation-audio-fr:
     description: "Vous voulez monter une radio ? Apprendre \xE0 monter de petits reportages\
       \ sonores ? L'audio est un excellent moyen pour raconter des histoires ou faire\
@@ -2656,6 +2697,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/i-m-worried-my-child-is-drinking-what-can-i-do-en.zip
     version: '2019-09-16'
+  idb-team-in-bangaldesh-facilitation-help-mm:
+    description: '-'
+    language: mm
+    name: IDB team - Facilitation help
+    sha256sum: 712dcea9932af97618c28133f749989f0a11c1b1d70f97776eabcd10536abd44
+    size: 77084046
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/idb-team-in-bangaldesh-facilitation-help-mm.zip
+    version: '2020-04-16'
   if-i-m-pregnant-how-do-drugs-and-alcohol-affect-me-en:
     description: If you are pregnant and have questions about drug, tobacco, or alcohol
       use, click here
@@ -3837,11 +3887,11 @@ all:
       and harmonuim
     language: en
     name: Music and music lessons
-    sha256sum: d93af8a418b0287579958ed7b0f639ef48d75716695f461d651c459bdb477f8c
-    size: 4017688073
+    sha256sum: 9b8697ff0febdfce1a112cf796763b6990c84fb0aedd402c9e9c29c608ad6a70
+    size: 4526381447
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/music-and-music-lessons-en.zip
-    version: '2019-11-14'
+    version: '2020-04-16'
   music-in-arabic-ar:
     description: "\u0627\u0644\u0627\u0633\u062A\u0631\u062E\u0627\u0621 \u0648\u0627\
       \u0644\u0627\u0633\u062A\u0645\u0627\u0639 \u0625\u0644\u0649 \u0627\u0644\u0645\
