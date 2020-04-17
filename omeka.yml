@@ -827,6 +827,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comment-faire-face-a-la-violence-et-aux-conflits-enfants-ados-fr.zip
     version: '2019-09-18'
+  community-harmony-bangla-bn:
+    description: Transmission of knowledge
+    language: bn
+    name: Community harmony (bangla)
+    sha256sum: 58b655e129f579b82b3410997bc218ea92b480f2474eda8c4cf069b3d2f91773
+    size: 209096237
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/community-harmony-bangla-bn.zip
+    version: '2020-04-17'
   community-harmony-burmese-mm:
     description: '-'
     language: mm
@@ -1138,6 +1147,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creatividad-manualidades-es.zip
     version: '2019-12-10'
+  creativity-bangla-bn:
+    description: Express your creativity
+    language: bn
+    name: Creativity (bangla)
+    sha256sum: 8559b6fd24dc800a0f6163714c2fd06514456b1b954ab09a6142c574845a0b24
+    size: 200615263
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/creativity-bangla-bn.zip
+    version: '2020-04-17'
   creativity-fruits-de-mer-art-creation-activities-en:
     description: Express your creativity with coloring birds and other animals of
       the island !
@@ -1646,6 +1664,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ecologie-fr.zip
     version: '2020-02-11'
+  ecology-bangla-bn:
+    description: Discover nature, animal, landscape and how to protect them.
+    language: bn
+    name: Ecology (bangla)
+    sha256sum: 0646a6a3cbeb5d939aa09704f5d72b665f8b97e9d19579effe8da862dda45c12
+    size: 65125215
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ecology-bangla-bn.zip
+    version: '2020-04-17'
   ecology-burmese-mm:
     description: '-'
     language: mm
@@ -2199,6 +2226,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fozi-mozi-diy-handcrafts-ar.zip
     version: '2019-11-21'
+  from-our-community-bangla-bn:
+    description: Increase our voices, listen the people who are around you and express
+      your opinion
+    language: bn
+    name: From our community (Bangla)
+    sha256sum: f32fa229681c775b178b9b8d8edb0ea05198d9d58e71db56bf66c1313e8d15e9
+    size: 517457873
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/from-our-community-bangla-bn.zip
+    version: '2020-04-17'
   from-our-community-rohingya-rhg:
     description: Increase our voices, listen the people who are around you and express
       your opinion
@@ -2410,6 +2447,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-and-nutrition-ar.zip
     version: '2019-09-17'
+  health-promotion-bangla-bn:
+    description: how to take care of me and my family?
+    language: bn
+    name: health promotion (bangla)
+    sha256sum: dd3f88bab3ca383ccc8b071566c6a548708f31a141cc15b202c8ec10748376bc
+    size: 66414823
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/health-promotion-bangla-bn.zip
+    version: '2020-04-17'
   health-promotion-burmese-mm:
     description: '-'
     language: mm
@@ -3635,6 +3681,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/life-in-the-rohingya-camp-rhg.zip
     version: '2020-03-03'
+  life-saving-bangla-bn:
+    description: Strenghten your life skills
+    language: bn
+    name: Life saving (bangla)
+    sha256sum: 899011415bb111f998db60fa9c4398e43b36c376f660e360f3c79aabbbe88ae7
+    size: 528172499
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/life-saving-bangla-bn.zip
+    version: '2020-04-17'
   life-saving-burmese-mm:
     description: '-'
     language: mm
@@ -3662,6 +3717,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/life-saving-rohingya-rhg.zip
     version: '2019-11-14'
+  life-skills-bangla-bn:
+    description: What is your feeling today? Strengthen your self confidence and take
+      time to speak about your emotions
+    language: bn
+    name: Life skills(bangla)
+    sha256sum: 6eb4cba24351c68da5243a0a9903461b1e9d76b8e01c9a53bdab36af09317fbe
+    size: 34624929
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/life-skills-bangla-bn.zip
+    version: '2020-04-17'
   life-skills-burmese-mm:
     description: '-'
     language: mm
@@ -3982,6 +4047,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/nature-rohingya-rhg.zip
     version: '2019-11-14'
+  news-documentary-bangla-bn:
+    description: What's happen around me and in the world? Find clear and updated
+      informations in order to help you to take good decision
+    language: bn
+    name: News/documentary (bangla)
+    sha256sum: 58a7a9ef9b1be0a2159c2ee548e1a4ad2e200f05025d83208560a5de98fd8272
+    size: 52540730
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/news-documentary-bangla-bn.zip
+    version: '2020-04-17'
   news-documentary-burmese-mm:
     description: '-'
     language: mm
@@ -4992,6 +5067,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/vivre-avec-le-vih-sida-kubana-n-umugera-wa-sida-rn.zip
     version: '2020-02-14'
+  wash-promotion-bangla-en:
+    description: Learn how connect health with environment
+    language: en
+    name: Wash promotion (bangla)
+    sha256sum: 178d8ad8c40652b56b612b783b722b6aa57056fad1850983aa8ba4987e4d7317
+    size: 113009968
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/wash-promotion-bangla-en.zip
+    version: '2020-04-17'
   wash-promotion-burmese-mm:
     description: '-'
     language: mm
