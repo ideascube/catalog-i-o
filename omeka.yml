@@ -952,11 +952,11 @@ all:
       ger. / Gutahura gusumba ingwara n'ingene bazikingira."
     language: fr
     name: "Conna\xEEtre et se prot\xE9ger des maladies / Kumenya no kwikingira ingwara."
-    sha256sum: 10325e9dafa38d580050e74bb6ba79286d9b69018284b9ddab7572c26ed07333
+    sha256sum: fc422b8c0ab2afcf426f16561c662185aec731c0c99aaa81764b3398d208ab07
     size: 821758446
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/connaitre-et-se-proteger-des-maladies-gl-fr.zip
-    version: '2020-04-06'
+    version: '2020-04-22'
   connaitre-la-france-et-paris-fr:
     description: "Comment fait-on la bise ? Pourquoi repr\xE9sente-t-on les fran\xE7\
       ais avec une baguette de pain ? Ou encore : d'ou viennent les partis politiques\
@@ -973,11 +973,11 @@ all:
     description: Conseils pour la gestion des relations amoureuses.
     language: rn
     name: Impanuro kurwaruka  zijanye nogutanganya imigenderanire yabakundana
-    sha256sum: be2a69d763b7848fe67bb9e2a9db5c50c32d4141539674f2da34c65f76a3b8ed
-    size: 2481142659
+    sha256sum: 1ba1d8dcf2a521551b3a0464a2051e9729d5d3aaf41c7ca0781c7d2b6f0e26b2
+    size: 2176354855
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/conseils-pour-la-gestion-des-relations-amoureuses-gl-rn.zip
-    version: '2020-04-06'
+    version: '2020-04-22'
   contenus-de-prevention-de-la-croix-rouge-fr:
     description: "Dans cette partie on aborde la violence, la paix, l'hygi\xE8ne"
     language: fr
@@ -2661,11 +2661,11 @@ all:
       \ kwikingira ingwara."
     language: fr
     name: "Hygi\xE8ne de base / Isuku ry'ibanze"
-    sha256sum: 42077c90ff4c6da29237bc1d171d3af9ff17f6c253e781ecc7d6915dbe1ffed3
+    sha256sum: caa93fe3c530e83e1616aa62a5cb609533157fd0fd8b629c259dcdfb7effc106
     size: 1085245872
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/hygiene-de-base-gl-fr.zip
-    version: '2020-04-06'
+    version: '2020-04-22'
   hygiene-enfants-ados-fr:
     description: "Pourquoi il faut se laver, le corps, les mains, les dents ? Pour\
       \ rester en bonne sant\xE9, et pour que ceux autour de nous le reste aussi !\
@@ -3192,11 +3192,11 @@ all:
       gutunganya imvyaro mu Burundi.
     language: rn
     name: La Planification Familiale / Gutunganya imvyaro
-    sha256sum: 8b3680fc5e70f905c137ad972b21c369cdb639af52be871460337fef77dd690c
-    size: 1309361930
+    sha256sum: b1e96df8ecf85d786d495f9d700054cbeaf8cb3b004cdf57b67b56e9be149aac
+    size: 1304941725
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-planification-familiale-gl-rn.zip
-    version: '2020-04-06'
+    version: '2020-04-22'
   la-planification-familiale-gutunganya-invyaro-gl-rn:
     description: Tout savoir sur la planification familiale au Burundi.
     language: rn
@@ -3254,11 +3254,11 @@ all:
       \ n'irondoka rijanye n'amagara meza."
     language: rn
     name: Irondoka rijanye namagara meza murwaruka n' imiyabaga (SSRAJ)
-    sha256sum: 5d3e42d81047ff5bdd6231052943fe5a6958d393806d42ec8fbbaa267f53cbe3
-    size: 3947707783
+    sha256sum: bdaff6ea9192ef12325818ea0c6ba3ebfe4f7d903df7dc6713bd52465a0886a6
+    size: 1749307368
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-sexuelle-et-reproductive-des-adolescents-et-des-jeunes-gl-rn.zip
-    version: '2020-04-06'
+    version: '2020-04-22'
   langue-des-signes-fr:
     description: Se familiariser avec la langue des signes
     language: fr
