@@ -3785,11 +3785,11 @@ all:
       \ \xE0 destination du grand public."
     language: fr
     name: "Microbiologie et pr\xE9vention sant\xE9"
-    sha256sum: 8a76201fef88b745fc79d00dd823c30c9b7fd006f91a64c525b90c4c2a936140
-    size: 1042674052
+    sha256sum: 87ed58d6efd77dc99ccf575185d8e31400553716b9b9e691bd9473bdc7888107
+    size: 1042294066
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/microbiologie-et-prevention-sante-fr.zip
-    version: '2019-12-09'
+    version: '2020-06-11'
   migrations-a-mayotte-fr:
     description: "Mayotte, d\xE9partement fran\xE7ais, situ\xE9 dans l'archipel des\
       \ Comores conna\xEEt de forts flux migratoires."
@@ -3848,6 +3848,110 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mooc-energies-renouvelables-fr.zip
     version: '2020-03-09'
+  mooc-pour-comprendre-l-energie-eolienne-associer-avec-942-a-949-fr:
+    description: "La vocation de ce cours en ligne est de renforcer les connaissances\
+      \ g\xE9n\xE9rales d'un large public sur la question des \xE9nergies renouvelables,\
+      \ d'accro\xEEtre les capacit\xE9s d'implication des personnes dans les grandes\
+      \ d\xE9cisions relatives \xE0 la production et/ou \xE0 l'utilisation d'\xE9\
+      nergies renouvelables et de susciter l'\xE9mergence de nouveaux projets."
+    language: fr
+    name: "MOOC - Pour comprendre l'\xE9nergie \xE9olienne"
+    sha256sum: 809430e094d65d27f60474a21c03631c213e52c6ad1d6774844e0faece30f8a5
+    size: 518468132
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mooc-pour-comprendre-l-energie-eolienne-associer-avec-942-a-949-fr.zip
+    version: '2020-06-11'
+  mooc-pour-comprendre-l-energie-hydraulique-associer-avec-942-a-949-fr:
+    description: "La vocation de ce cours en ligne est de renforcer les connaissances\
+      \ g\xE9n\xE9rales d'un large public sur la question des \xE9nergies renouvelables,\
+      \ d'accro\xEEtre les capacit\xE9s d'implication des personnes dans les grandes\
+      \ d\xE9cisions relatives \xE0 la production et/ou \xE0 l'utilisation d'\xE9\
+      nergies renouvelables et de susciter l'\xE9mergence de nouveaux projets."
+    language: fr
+    name: "MOOC - Pour comprendre l'\xE9nergie hydraulique"
+    sha256sum: b1b467736c4b69d3cf42c8b80f92240d25cc22f5184b4934ad5ea4eb6e2e5c92
+    size: 695461606
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mooc-pour-comprendre-l-energie-hydraulique-associer-avec-942-a-949-fr.zip
+    version: '2020-06-11'
+  mooc-pour-comprendre-l-energie-solaire-associer-avec-942-a-949-fr:
+    description: "La vocation de ce cours en ligne est de renforcer les connaissances\
+      \ g\xE9n\xE9rales d'un large public sur la question des \xE9nergies renouvelables,\
+      \ d'accro\xEEtre les capacit\xE9s d'implication des personnes dans les grandes\
+      \ d\xE9cisions relatives \xE0 la production et/ou \xE0 l'utilisation d'\xE9\
+      nergies renouvelables et de susciter l'\xE9mergence de nouveaux projets."
+    language: fr
+    name: "MOOC - Pour comprendre l'\xE9nergie solaire"
+    sha256sum: ad64d6abe32614470a26815c32225e96a4ad2422cea4dc015773952d67ea16cc
+    size: 466983437
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mooc-pour-comprendre-l-energie-solaire-associer-avec-942-a-949-fr.zip
+    version: '2020-06-11'
+  mooc-pour-comprendre-la-biomass-associer-avec-942-a-949-fr:
+    description: "La vocation de ce cours en ligne est de renforcer les connaissances\
+      \ g\xE9n\xE9rales d'un large public sur la question des \xE9nergies renouvelables,\
+      \ d'accro\xEEtre les capacit\xE9s d'implication des personnes dans les grandes\
+      \ d\xE9cisions relatives \xE0 la production et/ou \xE0 l'utilisation d'\xE9\
+      nergies renouvelables et de susciter l'\xE9mergence de nouveaux projets."
+    language: fr
+    name: MOOC - Pour comprendre la biomass
+    sha256sum: 518f32cb54ba8c59e625997997a149525cf7d9d13c10ff0e7bb143b17e70d0fd
+    size: 789246787
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mooc-pour-comprendre-la-biomass-associer-avec-942-a-949-fr.zip
+    version: '2020-06-11'
+  mooc-pour-comprendre-la-geothermie-associer-avec-942-a-949-fr:
+    description: "La vocation de ce cours en ligne est de renforcer les connaissances\
+      \ g\xE9n\xE9rales d'un large public sur la question des \xE9nergies renouvelables,\
+      \ d'accro\xEEtre les capacit\xE9s d'implication des personnes dans les grandes\
+      \ d\xE9cisions relatives \xE0 la production et/ou \xE0 l'utilisation d'\xE9\
+      nergies renouvelables et de susciter l'\xE9mergence de nouveaux projets."
+    language: fr
+    name: "MOOC - Pour comprendre la g\xE9othermie"
+    sha256sum: a2f0deb0300c5d00cbfd41ad18bbc51f320a7edb5cd8d6066c31c34a4cf395a6
+    size: 885663241
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mooc-pour-comprendre-la-geothermie-associer-avec-942-a-949-fr.zip
+    version: '2020-06-11'
+  mooc-pour-comprendre-la-transition-energetique-fr:
+    description: "La vocation de ce cours en ligne est de renforcer les connaissances\
+      \ g\xE9n\xE9rales d'un large public sur la question des \xE9nergies renouvelables,\
+      \ d'accro\xEEtre les capacit\xE9s d'implication des personnes dans les grandes\
+      \ d\xE9cisions relatives \xE0 la production et/ou \xE0 l'utilisation d'\xE9\
+      nergies renouvelables et de susciter l'\xE9mergence de nouveaux projets."
+    language: fr
+    name: "MOOC - Pour comprendre la transition \xE9nerg\xE9tique"
+    sha256sum: 7fc0011c3aa627d1f3a4b48dc664e38e960ce7604ee58aa92f454c54ff84c052
+    size: 524866437
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mooc-pour-comprendre-la-transition-energetique-fr.zip
+    version: '2020-06-11'
+  mooc-pour-comprendre-le-mix-energetique-associer-avec-942-a-949-fr:
+    description: "La vocation de ce cours en ligne est de renforcer les connaissances\
+      \ g\xE9n\xE9rales d'un large public sur la question des \xE9nergies renouvelables,\
+      \ d'accro\xEEtre les capacit\xE9s d'implication des personnes dans les grandes\
+      \ d\xE9cisions relatives \xE0 la production et/ou \xE0 l'utilisation d'\xE9\
+      nergies renouvelables et de susciter l'\xE9mergence de nouveaux projets."
+    language: fr
+    name: "MOOC - Pour comprendre le mix \xE9nerg\xE9tique"
+    sha256sum: abb3fba43d2cabc7dffb81ed8ea42df9753ddd4e06564a9cb3e9c1a83d7d3aef
+    size: 600876674
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mooc-pour-comprendre-le-mix-energetique-associer-avec-942-a-949-fr.zip
+    version: '2020-06-11'
+  mooc-pour-comprendre-les-energies-marines-associer-avec-942-a-949-fr:
+    description: "La vocation de ce cours en ligne est de renforcer les connaissances\
+      \ g\xE9n\xE9rales d'un large public sur la question des \xE9nergies renouvelables,\
+      \ d'accro\xEEtre les capacit\xE9s d'implication des personnes dans les grandes\
+      \ d\xE9cisions relatives \xE0 la production et/ou \xE0 l'utilisation d'\xE9\
+      nergies renouvelables et de susciter l'\xE9mergence de nouveaux projets."
+    language: fr
+    name: "MOOC - Pour comprendre les \xE9nergies marines"
+    sha256sum: 4873af167a71e44b253993b6132e67c73e2bfda7c70ba2481d143acb6c63db61
+    size: 819882707
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mooc-pour-comprendre-les-energies-marines-associer-avec-942-a-949-fr.zip
+    version: '2020-06-11'
   motherhood-and-parenting-ar:
     description: "Useful Motherhood and Parenting tips and information. Helping parents\
       \ dealing with their children and having a healthy relationship.// \u0646\u0635\
