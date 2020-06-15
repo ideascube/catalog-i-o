@@ -440,13 +440,13 @@ all:
     langid: "wiktionary.ku"
     type: zim
   les-fondamentaux.fr:
-    version: "2019-12-12"
-    size: 358768646
-    url: "http://download.kiwix.org/zim/other/les-fondamentaux_fr_all_2019-12.zim"
+    version: "2020-06-10"
+    size: 366460719
+    url: "http://download.kiwix.org/zim/other/les-fondamentaux_fr_all_2020-06.zim"
     name: Les fondamentaux
     language: "fra"
     description: "Les fondamentaux videos"
-    sha256sum: "4860fe8dd49795983430d2ff476af6de5ef8f6a3f164fd3f4e77bd4ddddebe62"
+    sha256sum: "889b04978b05ba71473d4b2295219ae69f7247c8681a2f3ae749d610c7b9d4e1"
     langid: "les-fondamentaux.fr"
     type: zim
   bil-tunisia.ar:
