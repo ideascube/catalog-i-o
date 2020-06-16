@@ -2841,7 +2841,7 @@ all:
       \ droit et pr\xE9sentant des textes fondateurs. On y parle notamment de la constitution"
     language: fr
     name: Introduction aux droits - Adolescent
-    sha256sum: 2698deea64f2a0640ebdb39f5a666d4c9791a1f7acb4640e0fc50a6211673936
+    sha256sum: 7e5e060e6294d0b2b1000de1541647644186fbce08fd8edc4639b719bcdde768
     size: 334520201
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-aux-droits-adolescent-fr.zip
@@ -3850,7 +3850,7 @@ all:
       \ sup\xE9rieure"
     language: fr
     name: "MOOC - Droit International et droit compar\xE9"
-    sha256sum: 5a89be232b87846ddbfdf43a5cde2dee3fff413f1339f6660388938a9da93bc1
+    sha256sum: 04370042cb5cdd6b4df554ab9afab90e33ee4a96b694611671ac91ccd02a6b23
     size: 2003624964
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mooc-droit-international-et-droit-compare-associer-avec-901-a-908-fr.zip
@@ -3872,7 +3872,7 @@ all:
     description: MOOC - L'internationalisation des droits de l'homme
     language: fr
     name: MOOC - L'internationalisation des droits de l'homme
-    sha256sum: 218513408d02c1e88668aa5d4b5a07812f33198e49bc2364b5c300e339cf1ec7
+    sha256sum: b19c77414ad551c64083827c57dc7d9975fd48c91794a8907241d9c29084897b
     size: 153713733
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mooc-l-internationalisation-des-droits-de-l-homme-associer-avec-901-a-908-fr.zip
@@ -3881,7 +3881,7 @@ all:
     description: MOOC -  La typologie des droits de l'homme
     language: fr
     name: MOOC -  La typologie des droits de l'homme
-    sha256sum: b60c64ecc57d9e2312d2402d8eada5aa858eb8b1b97ae235b4397896247f8a51
+    sha256sum: 0a6ef4ae7ebe34e4a0c92482329da3e51c093d83cb2bd37f5d81bc8e54075fec
     size: 165225216
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mooc-la-typologie-des-droits-de-l-homme-associer-avec-901-a-908-fr.zip
@@ -3891,7 +3891,7 @@ all:
       ve pour comprendre les fondements des droits de l'Homme."
     language: fr
     name: MOOC - Les fondements des droits de l'Homme
-    sha256sum: 634f6bf2588fb20b6c92c2b01d7196c350212b5ea7baf809878b718adf765c7e
+    sha256sum: 4ee0029366dd8f3a05011654b84044e5d7f0503366290a3ea1e0fdcd15f9ad7a
     size: 94508393
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mooc-les-fondements-des-droits-de-l-homme-associer-avec-901-a-908-fr.zip
@@ -3901,7 +3901,7 @@ all:
       \ de Gen\xE8ve"
     language: fr
     name: MOOC - Les limites des droits de l'homme
-    sha256sum: 2ff152567038dfffb66ae9ab5547f17a8f07cb3029754b2a3c315e5979751bdb
+    sha256sum: c324cf01689789e6f89933d369a734fef9b23798e7cacd59cd3ff1c368978895
     size: 119859028
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mooc-les-limites-des-droits-de-l-homme-associer-avec-901-a-908-fr.zip
@@ -3911,7 +3911,7 @@ all:
       \ de l'Universit\xE9 de Gen\xE8ve"
     language: fr
     name: "MOOC - Les m\xE9canismes de mise en \u0153uvre des droits de l'homme"
-    sha256sum: e3d4680ee70eff12c3f0716714d0334270b056b2ea88b9b93fde33cf88ce48d1
+    sha256sum: b97884194675eca0dca996626dd724448b9c91ea1b0aa8fffd1ec472dbecddd8
     size: 299215642
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mooc-les-mecanismes-de-mise-en-oeuvre-des-droits-de-l-homme-associer-avec-901-a-908-fr.zip
@@ -3920,7 +3920,7 @@ all:
     description: "MOOC - Les obligations d\xE9coulant des droits de l'homme"
     language: fr
     name: "MOOC - Les obligations d\xE9coulant des droits de l'homme"
-    sha256sum: 90b36218c9fa38525bf70a6749b20c9af13edd8bf0652463e0f9bfd1c83ab1df
+    sha256sum: f286e6459a8f51c174b14756b97dc10639a61f3d6ed01a06b1af195ccd21eb16
     size: 110183001
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mooc-les-obligations-decoulant-des-droits-de-l-homme-associer-avec-901-a-908-fr.zip
@@ -3929,7 +3929,7 @@ all:
     description: MOOC - Les sources des droits de l'homme
     language: fr
     name: MOOC - Les sources des droits de l'homme
-    sha256sum: b2485220982e313f2d80c2b40ccc272406fb69cccf216b7f79ff0c609a7a34ba
+    sha256sum: bbedc61869b2619e72156c36f86c7a1ddd01eb34d7a1fbeec1a0f25e18ef5bb8
     size: 174801595
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mooc-les-sources-des-droits-de-l-homme-associer-avec-901-a-908-fr.zip
