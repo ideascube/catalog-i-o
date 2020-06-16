@@ -2836,6 +2836,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-a-la-biologie-et-a-la-chimie-fr.zip
     version: '2020-03-09'
+  introduction-aux-droits-adolescent-fr:
+    description: "Contenus donnant des explications simples sur les fondements du\
+      \ droit et pr\xE9sentant des textes fondateurs. On y parle notamment de la constitution"
+    language: fr
+    name: Introduction aux droits - Adolescent
+    sha256sum: 2698deea64f2a0640ebdb39f5a666d4c9791a1f7acb4640e0fc50a6211673936
+    size: 334520201
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/introduction-aux-droits-adolescent-fr.zip
+    version: '2020-06-16'
   introduction-aux-droits-de-l-homme-fr:
     description: "Les m\xE9canismes de mise en \u0153uvre des droits de l'homme\r\n\
       Un MOOC de l'Universit\xE9 de Gen\xE8ve"
@@ -3835,6 +3845,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/montez-votre-projet-professionnel-fr.zip
     version: '2019-09-16'
+  mooc-droit-international-et-droit-compare-associer-avec-901-a-908-fr:
+    description: "Droit International et droit compar\xE9 - MOOC de l'\xC9cole normale\
+      \ sup\xE9rieure"
+    language: fr
+    name: "MOOC - Droit International et droit compar\xE9"
+    sha256sum: 5a89be232b87846ddbfdf43a5cde2dee3fff413f1339f6660388938a9da93bc1
+    size: 2003624964
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mooc-droit-international-et-droit-compare-associer-avec-901-a-908-fr.zip
+    version: '2020-06-16'
   mooc-energies-renouvelables-fr:
     description: "La vocation de ce cours en ligne est de renforcer les connaissances\
       \ g\xE9n\xE9rales d'un large public sur la question des \xE9nergies renouvelables,\
@@ -3848,6 +3868,72 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mooc-energies-renouvelables-fr.zip
     version: '2020-03-09'
+  mooc-l-internationalisation-des-droits-de-l-homme-associer-avec-901-a-908-fr:
+    description: MOOC - L'internationalisation des droits de l'homme
+    language: fr
+    name: MOOC - L'internationalisation des droits de l'homme
+    sha256sum: 218513408d02c1e88668aa5d4b5a07812f33198e49bc2364b5c300e339cf1ec7
+    size: 153713733
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mooc-l-internationalisation-des-droits-de-l-homme-associer-avec-901-a-908-fr.zip
+    version: '2020-06-16'
+  mooc-la-typologie-des-droits-de-l-homme-associer-avec-901-a-908-fr:
+    description: MOOC -  La typologie des droits de l'homme
+    language: fr
+    name: MOOC -  La typologie des droits de l'homme
+    sha256sum: b60c64ecc57d9e2312d2402d8eada5aa858eb8b1b97ae235b4397896247f8a51
+    size: 165225216
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mooc-la-typologie-des-droits-de-l-homme-associer-avec-901-a-908-fr.zip
+    version: '2020-06-16'
+  mooc-les-fondements-des-droits-de-l-homme-associer-avec-901-a-908-fr:
+    description: "Voici un MOOC complet propos\xE9 par l'Universit\xE9 de Gen\xE8\
+      ve pour comprendre les fondements des droits de l'Homme."
+    language: fr
+    name: MOOC - Les fondements des droits de l'Homme
+    sha256sum: 634f6bf2588fb20b6c92c2b01d7196c350212b5ea7baf809878b718adf765c7e
+    size: 94508393
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mooc-les-fondements-des-droits-de-l-homme-associer-avec-901-a-908-fr.zip
+    version: '2020-06-16'
+  mooc-les-limites-des-droits-de-l-homme-associer-avec-901-a-908-fr:
+    description: "Introduction aux droits de l'homme - Un MOOC de l'Universit\xE9\
+      \ de Gen\xE8ve"
+    language: fr
+    name: MOOC - Les limites des droits de l'homme
+    sha256sum: 2ff152567038dfffb66ae9ab5547f17a8f07cb3029754b2a3c315e5979751bdb
+    size: 119859028
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mooc-les-limites-des-droits-de-l-homme-associer-avec-901-a-908-fr.zip
+    version: '2020-06-16'
+  mooc-les-mecanismes-de-mise-en-oeuvre-des-droits-de-l-homme-associer-avec-901-a-908-fr:
+    description: "MOOC - Les m\xE9canismes de mise en \u0153uvre des droits de l'homme\
+      \ de l'Universit\xE9 de Gen\xE8ve"
+    language: fr
+    name: "MOOC - Les m\xE9canismes de mise en \u0153uvre des droits de l'homme"
+    sha256sum: e3d4680ee70eff12c3f0716714d0334270b056b2ea88b9b93fde33cf88ce48d1
+    size: 299215642
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mooc-les-mecanismes-de-mise-en-oeuvre-des-droits-de-l-homme-associer-avec-901-a-908-fr.zip
+    version: '2020-06-16'
+  mooc-les-obligations-decoulant-des-droits-de-l-homme-associer-avec-901-a-908-fr:
+    description: "MOOC - Les obligations d\xE9coulant des droits de l'homme"
+    language: fr
+    name: "MOOC - Les obligations d\xE9coulant des droits de l'homme"
+    sha256sum: 90b36218c9fa38525bf70a6749b20c9af13edd8bf0652463e0f9bfd1c83ab1df
+    size: 110183001
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mooc-les-obligations-decoulant-des-droits-de-l-homme-associer-avec-901-a-908-fr.zip
+    version: '2020-06-16'
+  mooc-les-sources-des-droits-de-l-homme-associer-avec-901-a-908-fr:
+    description: MOOC - Les sources des droits de l'homme
+    language: fr
+    name: MOOC - Les sources des droits de l'homme
+    sha256sum: b2485220982e313f2d80c2b40ccc272406fb69cccf216b7f79ff0c609a7a34ba
+    size: 174801595
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mooc-les-sources-des-droits-de-l-homme-associer-avec-901-a-908-fr.zip
+    version: '2020-06-16'
   mooc-pour-comprendre-l-energie-eolienne-associer-avec-942-a-949-fr:
     description: "La vocation de ce cours en ligne est de renforcer les connaissances\
       \ g\xE9n\xE9rales d'un large public sur la question des \xE9nergies renouvelables,\
