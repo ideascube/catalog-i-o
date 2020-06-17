@@ -58,7 +58,7 @@ all:
     name: Click Info Ado
     description: Apprendre à vivre Sénégal
     version: "2016-04-21"
-    url: http://packages.ideascube.org/clickinfoado/clickinfoado.sn.zip
+    url: http://packages.ideascube.org/static-sites/clickinfoado.sn.zip
     language: fr
     sha256sum: e9ff96f824c93943315eb0bf95bf6482e5d7be03120fe3f56efbc866045871aa
     size: 78473936
