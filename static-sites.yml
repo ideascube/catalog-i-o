@@ -68,7 +68,7 @@ all:
     version: "2016-10-06"
     description: Programming language for kids and adults.
     language: "en"
-    url: http://packages.ideascube.org/snap/snap.zip
+    url: http://packages.ideascube.org/static-sites/snap.zip
     sha256sum: b2a43ce9f1969ca6735eea55a11850361077b5e07f122514857f5208dfe41a08
     size: 923096
     type: static-site
