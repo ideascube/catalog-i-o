@@ -15,7 +15,7 @@ all:
     sha256sum: 64b3f7a813ac9c830df1f2c06f7f32afd8727e5a9120cdb87d9105f4eeb6669b
     size: 171103843
     type: static-site
-    url: http://packages.ideascube.org/hechos-de-paz.zip
+    url: http://packages.ideascube.org/static-sites/hechos-de-paz.zip
     version: '2017-05-09'
   help.unhcr.org:
     name: UNHCR - Finding Help in Greece
