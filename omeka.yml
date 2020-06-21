@@ -770,11 +770,11 @@ all:
       greece. All books are in English.
     language: en
     name: Classic literature in English
-    sha256sum: 57d08047aee48bbb25cc968be883eb5f759383710bac191322c61e97ab7bf0e6
-    size: 48966352
+    sha256sum: 2621536c46d90f7e62247c83380ca81143c9dd4ef05d730a598cb547a38fc51a
+    size: 84264212
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/classic-literature-in-english-en.zip
-    version: '2020-02-17'
+    version: '2020-06-21'
   classical-music-ar:
     description: "The best selection of classical music/ \u062A\u0645\u062A\u0639\
       \ \u0628\u0623\u062C\u0645\u0644 \u0627\u0644\u0645\u0642\u0637\u0648\u0639\u0627\
@@ -2271,16 +2271,16 @@ all:
     url: http://packages.ideascube.org/omeka/geographie-urbaine-afrique-fr.zip
     version: '2020-03-05'
   geography-discovery-en:
-    description: "Documentary and short videos to discover new information about history\
-      \ and geography of different countries and cultures. \r\nAll the videos are\
-      \ in english"
+    description: "Short documentary and video to discover new and sample information\
+      \ about history, geography and culture of different countries all around the\
+      \ world. \r\nAll videos are in english"
     language: en
     name: Geography discovery
-    sha256sum: 498123a5f49acf39b7ae54579962c89554aa1a47b1e548c448136cfb5199b714
+    sha256sum: 7ccd249565e05c7b61a709a1ee642648363dc4eebb83b3d96fa9764994e22e00
     size: 7939658644
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/geography-discovery-en.zip
-    version: '2020-02-17'
+    version: '2020-06-21'
   geopolitique-afrique-fr:
     description: "Les enjeux g\xE9opolitiques de l'Afrique"
     language: fr
@@ -4182,6 +4182,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/music-in-kurdish-ckb.zip
     version: '2019-11-21'
+  music-lessons-tabla-hamonium-mandoline-en:
+    description: Here you will fine lesson to learn to play Table, Mandoline and Hamonium.
+      Even if you have never try thoses instruments before, it's time to start!
+    language: en
+    name: Music lessons - Tabla, Hamonium, Mandoline
+    sha256sum: 339021b064aa36e62682b893a9cca420848ab08e1d4cdfca3682a6fa8ca5110a
+    size: 1289044616
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/music-lessons-tabla-hamonium-mandoline-en.zip
+    version: '2020-06-21'
   musique-fr:
     description: "Pour d\xE9couvrir de nouveaux styles musicaux ou \xE9couter quelques\
       \ morceaux !"
