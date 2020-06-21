@@ -770,7 +770,7 @@ all:
       greece. All books are in English.
     language: en
     name: Classic literature in English
-    sha256sum: b691f428bcb2b21e8fa3e0f05b957499c5e5573ac9465a52ba2d01c8d7cf174e
+    sha256sum: 2621536c46d90f7e62247c83380ca81143c9dd4ef05d730a598cb547a38fc51a
     size: 84264212
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/classic-literature-in-english-en.zip
@@ -2276,7 +2276,7 @@ all:
       \ world. \r\nAll videos are in english"
     language: en
     name: Geography discovery
-    sha256sum: 45b1e3fa57079c5553a606fcfdd09bd70f1f8e51f30378fc0a08904f61b5150c
+    sha256sum: 7ccd249565e05c7b61a709a1ee642648363dc4eebb83b3d96fa9764994e22e00
     size: 7939658644
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/geography-discovery-en.zip
@@ -4187,7 +4187,7 @@ all:
       Even if you have never try thoses instruments before, it's time to start!
     language: en
     name: Music lessons - Tabla, Hamonium, Mandoline
-    sha256sum: 313ec81438c1df6f09b3596b69cd54899c399e499ebbb6cfb292aaafe19fde03
+    sha256sum: 339021b064aa36e62682b893a9cca420848ab08e1d4cdfca3682a6fa8ca5110a
     size: 1289044616
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/music-lessons-tabla-hamonium-mandoline-en.zip
