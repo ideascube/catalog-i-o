@@ -1072,7 +1072,7 @@ all:
       symptoms and what to do if you are infected with the disease.
     language: rhg
     name: COVID-19 -Rohingya
-    sha256sum: f497032679a26ebc8329a832b9dc5856df08dc78a3709fee99357584f194212f
+    sha256sum: d6b65494c7f2822da481c6c51cf7f82e974699bcc2c6182e2f4e1ea9375a839f
     size: 2624444332
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/covid-19-rohingya-rhg.zip
