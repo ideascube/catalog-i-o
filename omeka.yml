@@ -440,15 +440,24 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/art-contemporain-fr.zip
     version: '2020-02-11'
+  art-history-for-adults-en:
+    description: Contents about Art History for adults
+    language: en
+    name: Art History for adults
+    sha256sum: 55d2218c7867c5a4e1d596b7f1f9a97a44a3e1f20c23f1b397023f021e8f5be9
+    size: 831138415
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/art-history-for-adults-en.zip
+    version: '2020-07-03'
   art-history-for-children-en:
     description: Art history for children
     language: en
     name: Art history for children
-    sha256sum: 4b86bf2fac2d2f98fd5e652980b31ab2ed374c5c8bb0111e76700214ddfb89a9
+    sha256sum: 78ac051501487f086806eb1417b8f21d4f9d85782dd808c64571563063f60442
     size: 178715403
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/art-history-for-children-en.zip
-    version: '2020-02-26'
+    version: '2020-07-03'
   arts-africa-en:
     description: Arts are part of the wealth of a country.
     language: en
@@ -845,6 +854,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/children-s-club-6-12-bn.zip
     version: '2020-03-17'
+  cinema-film-editing-en:
+    description: Advices and tutorials for film editing
+    language: en
+    name: Make a film
+    sha256sum: 11881507942c914b82e44985f0d86e32f391fdc9fafc0490d487ad126e634865
+    size: 349976597
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cinema-film-editing-en.zip
+    version: '2020-07-03'
   citizenship-democracy-and-peace-en:
     description: Talking about democracy, power, constitution, voting
     language: en
@@ -1137,6 +1155,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/conseils-pour-la-gestion-des-relations-amoureuses-gl-rn.zip
     version: '2020-04-22'
+  contemporary-art-for-adults-en:
+    description: Contents of Contemporary Art
+    language: en
+    name: Contemporary Art for adults
+    sha256sum: b6482c08fcd2460d140949f6324197ad175761f1b5ddc1639d2314d5ad3a2eec
+    size: 490249853
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/contemporary-art-for-adults-en.zip
+    version: '2020-07-03'
   contenus-de-prevention-de-la-croix-rouge-fr:
     description: "Dans cette partie on aborde la violence, la paix, l'hygi\xE8ne"
     language: fr
@@ -1493,6 +1520,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultures-saint-martin-photos-fr.zip
     version: '2020-02-26'
+  davinci-resolve-video-editor-en:
+    description: DaVinci Resolve is a color correction and non-linear video editing
+      application for macOS, Windows, and Linux
+    language: en
+    name: DaVinci Resolve - Video Editor
+    sha256sum: f20a12f7057e02794f80f97b14779c67ca72c370d7e631f0ebeb1b8d848d0caf
+    size: 240811450
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/davinci-resolve-video-editor-en.zip
+    version: '2020-07-03'
   decouvrez-ou-re-decouvrez-la-cuisine-de-differents-pays-fr:
     description: Qu'est-ce qu'on mange aujourd'hui ?
     language: fr
@@ -1658,6 +1695,35 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discover-the-culture-of-the-world-en.zip
     version: '2020-02-17'
+  discovering-aboriginal-art-en:
+    description: "Discovery of aboriginal art : weaving, painting, dance, music\u2026"
+    language: en
+    name: Discovering aboriginal art
+    sha256sum: 1aa70dae16bcbae7e48bac39468a691f25663ebda75537ffb8049df3f4190dc7
+    size: 870688019
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/discovering-aboriginal-art-en.zip
+    version: '2020-07-03'
+  discovering-aboriginal-traditions-en:
+    description: "Discovering aboriginal traditions : stories, boomerang, myth of\
+      \ creation\u2026"
+    language: en
+    name: Discovering aboriginal traditions
+    sha256sum: 37f74c12b5b634bfb599d4fd556334eaf5bab696c8d34c4aa07b4986fbb9d76e
+    size: 377251227
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/discovering-aboriginal-traditions-en.zip
+    version: '2020-07-03'
+  discovering-famous-people-of-aboriginal-origin-en:
+    description: 'Discovering famous people of aboriginal origin in different domains
+      : sport, art, politics...'
+    language: en
+    name: Discovering famous people of aboriginal origin
+    sha256sum: 4aafd81937b36cb50ee3c42ac733c6c0611511ff3cc1a54cf8715ad7fa1a7688
+    size: 623867476
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/discovering-famous-people-of-aboriginal-origin-en.zip
+    version: '2020-07-03'
   discriminations-enfants-ados-fr:
     description: "On est tous diff\xE9rents, mais tous des \xEAtres humains ! Pour\
       \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
@@ -1669,6 +1735,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discriminations-enfants-ados-fr.zip
     version: '2020-02-26'
+  diseases-en:
+    description: 'What are the diseases ? Learn a little bit about them : heart attack,
+      kidney stones, depression...'
+    language: en
+    name: Diseases
+    sha256sum: 2917a78ad76c6b90bda81c0fa6a9387b50cf463f2173f428da9e54811efdc123
+    size: 464977289
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/diseases-en.zip
+    version: '2020-07-03'
   diy-handcrafts-and-arts-ar:
     description: "Learn how to do useful objects for yourself, your kids, your friends,\
       \ and home accessories.// \u062A\u0639\u0644\u0645 \u0643\u064A\u0641\u064A\u0629\
@@ -3466,11 +3542,11 @@ all:
       as help you uncover the different facets of journalism.
     language: en
     name: Introduction to journalism
-    sha256sum: 571d7ec5507a27cbdc7b952adb67ed765dbc3b03127e223e89b26a5224c4b6a3
-    size: 756773867
+    sha256sum: 88f5a97db460d9abac73fc5c8aa671d621628c10a779f7e46ef59e92d6afcd02
+    size: 422328413
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-journalism-en.zip
-    version: '2019-09-16'
+    version: '2020-07-03'
   introduction-to-philosophy-en:
     description: You want to enrich your knowledge in philosophy? You will find very
       interesting resumes here !
@@ -3575,6 +3651,29 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/kit-de-l-animateur-libre-de-droit-fr.zip
     version: '2019-09-16'
+  knowing-his-body-en:
+    description: 'Learning about the human body : muscles, bad breath...'
+    language: en
+    name: Knowing his body
+    sha256sum: 81d5ff265e8cda8515031655a4ad2ea5f07aa987128d01f92c36e2be69b88185
+    size: 211188372
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/knowing-his-body-en.zip
+    version: '2020-07-03'
+  krita-graphics-editor-en:
+    description: Krita is a free and open-source raster graphics editor designed primarily
+      for digital painting and 2D animation. It features an OpenGL-accelerated canvas,
+      colour management support, an advanced brush engine, non-destructive layers
+      and masks (similar to Adobe Photoshop), group-based layer management, vector
+      artwork support and switchable customisation profiles. It is written in C++
+      using Qt and runs on Windows and Unix-like OS (including Linux and macOS).
+    language: en
+    name: Krita - Graphics Editor
+    sha256sum: d9554933a75bbacaa840731cb46ea317e320f032db11ce530d9a6eab27ff35ed
+    size: 78686325
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/krita-graphics-editor-en.zip
+    version: '2020-07-03'
   kurdish-dramas-tv-shows-ckb:
     description: Watch kurdish shows and relax.
     language: ckb
@@ -4012,6 +4111,24 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learning-french-en.zip
     version: '2019-09-17'
+  learning-geography-of-australia-en:
+    description: Learning about geography of Australia
+    language: en
+    name: Learning geography of Australia
+    sha256sum: 207185e3ad1499710391bc0f8f8850a2d1dfaba96aadf28f63e176d1fc9b9acc
+    size: 296999876
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learning-geography-of-australia-en.zip
+    version: '2020-07-03'
+  learning-history-of-australia-en:
+    description: Learning about history of Australia
+    language: en
+    name: Learning history of Australia
+    sha256sum: 6ca673a9380c2b12d9530c184edb436986b222af8d799eecda20ce7e9b6af4b3
+    size: 362500620
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learning-history-of-australia-en.zip
+    version: '2020-07-03'
   learning-to-read-and-write-level-1-en:
     description: This package contains learning material to practice reading and writing
       skills in English. It targets audience with beginner literacy level.
@@ -4151,11 +4268,11 @@ all:
     description: Learn more about different sports and about Olympic Games !
     language: en
     name: Let's practise sport ! [children]
-    sha256sum: 4dce8efc835039e4a2f8750a017d85b67cf6cdee22328b3de38a8ac2928eb7bb
-    size: 447931701
+    sha256sum: fdc9b015f41be0ef12781aa390ef099ebf5b92f63a4d87254f09d0fa07cd2c6d
+    size: 448880719
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/let-s-practise-sport-children-en.zip
-    version: '2019-09-16'
+    version: '2020-07-03'
   let-s-speak-arabic-ar:
     description: "Learn different words and expressions in Arabic.// \u062A\u0639\u0644\
       \u0645 \u0645\u0641\u0631\u062F\u0627\u062A \u0648 \u0627\u0633\u0645\u0627\u0621\
@@ -4182,6 +4299,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/let-s-speak-english-ar.zip
     version: '2019-09-17'
+  let-s-talk-about-sexuality-adults-en:
+    description: Learn more about sexuality, consent, sexually transmitted diseases,
+      abortus
+    language: en
+    name: Let's talk about sexuality
+    sha256sum: e10cec3f162380c8b26aa3ac827113adc7f0083a52dbe6bfa021bb86046de6b5
+    size: 177498088
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/let-s-talk-about-sexuality-adults-en.zip
+    version: '2020-07-03'
   let-s-talk-about-sexuality-en-en:
     description: Learn more about menstruations and sexuality
     language: en
@@ -4374,6 +4501,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/memoire-d-un-continent-rfi-fr.zip
     version: '2020-03-09'
+  menstrual-hygiene-adults-en:
+    description: Having information about menstural hygiene
+    language: en
+    name: Menstrual Hygiene
+    sha256sum: 57093bcbd5ccfa8fbdef977624627420fce9860794c9b82939925c3702c264ea
+    size: 202228754
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/menstrual-hygiene-adults-en.zip
+    version: '2020-07-03'
   microbiologie-et-prevention-sante-fr:
     description: "Qu'est-ce qu'un microbe ? Sont-ils tous nocifs pour l'homme ? Vous\
       \ trouverez ici \xE0 la fois des vid\xE9os sur la microbiologie et les avanc\xE9\
@@ -4474,6 +4610,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mooc-energies-renouvelables-fr.zip
     version: '2020-03-09'
+  mooc-english-for-journalism-en:
+    description: "This course is designed for non-native English speakers who are\
+      \ interested in developing the skills needed for a career in modern journalism.\r\
+      \nA course created by the University of Pennsylvania, and funded by the U.S.\
+      \ Department of State Bureau of Educational and Cultural Affairs, Office of\
+      \ English Language Programs."
+    language: en
+    name: MOOC - English for journalism
+    sha256sum: ecbe95a08e5f9752b4be9d129b36cd5adbbdf01e6e8026e68b570cd8f929cd1e
+    size: 334470459
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mooc-english-for-journalism-en.zip
+    version: '2020-07-03'
   mooc-l-internationalisation-des-droits-de-l-homme-associer-avec-901-a-908-fr:
     description: MOOC - L'internationalisation des droits de l'homme
     language: fr
@@ -4946,6 +5095,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/numerique-et-bidouille-informatique-fr.zip
     version: '2019-10-15'
+  nursery-rhymes-en:
+    description: Ressources of nursery rhymes.
+    language: en
+    name: Nursery rhymes
+    sha256sum: 65890b8ed5f2a3ac092d81fb13b7a6de923fc8861eff5342a70cb3c2c743cc73
+    size: 230792716
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/nursery-rhymes-en.zip
+    version: '2020-07-03'
   nutrition-enfants-fr:
     description: "Bien manger, qu'est-ce que \xE7a veut dire ? Apprends \xE0 composer\
       \ des repas sains et nutritifs !"
@@ -5361,6 +5519,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/puberte-fr.zip
     version: '2019-12-16'
+  puberty-en:
+    description: Feel free and comfortable discussing puberty
+    language: en
+    name: Puberty
+    sha256sum: 9f21091ecee0e8090c936ee9d82fde61be98a598d757bd186b334f880bc339c6
+    size: 1081707
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/puberty-en.zip
+    version: '2020-07-03'
   public-speaking-en:
     description: "How to speak in public ? How to control your nerves and/or your\
       \ shyness ? \r\nHow your body talks for you ?"
@@ -5757,6 +5924,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sport-fr.zip
     version: '2019-09-16'
+  sport-learning-rules-of-traditional-indigenous-games-en:
+    description: 'Sport : learn aspects of Aboriginal and Torres Strait Islander cultures
+      on how to play Traditional Indigenous Games'
+    language: en
+    name: 'Sport : learning rules of Traditional Indigenous Games'
+    sha256sum: 4037bba9a53481bc9d2d2d18626ea617a47d05f366e7cd6e93153734975a2f55
+    size: 179562818
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/sport-learning-rules-of-traditional-indigenous-games-en.zip
+    version: '2020-07-03'
   sports-ar:
     description: "Follow these simple steps to a healthier body.// \u062E\u0637\u0648\
       \u0627\u062A \u0631\u064A\u0627\u0636\u064A\u0629  .\u0633\u0647\u0644\u0629\
@@ -5845,6 +6022,26 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/technology-ar.zip
     version: '2019-11-21'
+  the-dangers-of-alcohol-and-drug-use-en:
+    description: Let's be aware and fight the dangers of alcohol and drug use Learn
+      about how drugs affect your body and your brain
+    language: en
+    name: The dangers of alcohol and drug use
+    sha256sum: f49c935407b53e3566f206bf98922f10fbd344dc3e2a90f7b948ab94fb543bc9
+    size: 98287847
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/the-dangers-of-alcohol-and-drug-use-en.zip
+    version: '2020-07-03'
+  the-learning-station-en:
+    description: The Learning Station is a fun musical children's group that sings
+      both learning song and fun movement brain break songs.
+    language: en
+    name: The Learning Station
+    sha256sum: 08cbb4ce2fd07e8d6d7dbdbb0921f42e4e15d9940f9e79f6708c97fa9fe96e14
+    size: 385327866
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/the-learning-station-en.zip
+    version: '2020-07-03'
   the-road-zaatari-magazine-ar:
     description: "Collective articles and stories written by Syrian refugees who became\
       \ journalists inside Zaatari camp In Jordan. \u0645\u062C\u0645\u0648\u0639\u0629\
