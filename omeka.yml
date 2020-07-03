@@ -1325,6 +1325,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creativity-multi-languages-en.zip
     version: '2019-09-19'
+  creer-des-bandes-dessinees-fr:
+    description: "Conseils pour cr\xE9er ta propre bande dessin\xE9e"
+    language: fr
+    name: "Cr\xE9er des bandes dessin\xE9es"
+    sha256sum: 47630eaabc7071c2741329913cad096e4af92ff6acca8e7b9738c610a2bfeab0
+    size: 7470760
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/creer-des-bandes-dessinees-fr.zip
+    version: '2020-07-03'
   cuisine-et-nutrition-enfants-fr:
     description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
     language: fr
@@ -2111,6 +2120,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/emotions-fr.zip
     version: '2020-02-24'
+  engagement-et-paix-les-grands-personnages-fr:
+    description: "Portraits de grands personnages qui ont agit pour d\xE9fendre les\
+      \ droits. Ils ont aid\xE9 \xE0 instaurer plus d'\xE9galit\xE9 dans leur pays\
+      \ et ont particip\xE9 \xE0 cr\xE9er un mode meilleur."
+    language: fr
+    name: 'Engagement et paix: les grands personnages'
+    sha256sum: e2b4d8373fcf85f6089164e2c2ec610c47708a176e9f73239d2f15c75c65cb05
+    size: 196720374
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/engagement-et-paix-les-grands-personnages-fr.zip
+    version: '2020-07-03'
   english-for-adults-ar:
     description: "Learn English through these easy to follow videos. \u062A\u0639\u0644\
       \u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\u0646\u062C\u0644\u064A\
@@ -2345,6 +2365,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fight-against-discriminations-and-live-together-en.zip
     version: '2019-12-06'
+  figures-d-engagement-fr:
+    description: "Portraits d'hommes et femmes engag\xE9es dans la d\xE9fense des\
+      \ droits et de l'\xE9galit\xE9"
+    language: fr
+    name: Figures d''engagement
+    sha256sum: e2308dfb7c2be03c0bd5c98c42b2846fecc78ae58f60623d7331da2250481e82
+    size: 109280632
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/figures-d-engagement-fr.zip
+    version: '2020-07-03'
   filles-garcons-quelle-place-pour-qui-fr:
     description: "Quelles sont les diff\xE9rences quand on parle des filles et des\
       \ gar\xE7ons?"
@@ -2909,6 +2939,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-de-l-ile-de-saint-martin-fr.zip
     version: '2020-01-28'
+  histoire-de-la-guyane-fr:
+    description: "Documents d'archives et documentaires sur l'histoire r\xE9cente\
+      \ de la Guyane"
+    language: fr
+    name: Histoire de la Guyane
+    sha256sum: e7755dcce6cee00a235311ad0c852c89038a9107423b1e196363db1fb2f1cd01
+    size: 924723857
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-de-la-guyane-fr.zip
+    version: '2020-07-03'
   histoire-de-la-republique-democratique-du-congo-fr:
     description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
       \ les \xE9v\xE8nements du pr\xE9sent"
@@ -3575,6 +3615,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/l-entreprenariat-au-burundi-gutunganya-imigambi-muburundi-fr.zip
     version: '2020-02-14'
+  l-esclavage-dans-les-caraibes-fr:
+    description: "Information sur l'histoire esclavagiste dans les Cara\xEFbes"
+    language: fr
+    name: "L'esclavage dans les Cara\xEFbes"
+    sha256sum: 62bee85be99cd22753a95ff549fdc4cab35e1f3013cd1da35fcd68ee821afec3
+    size: 156887003
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/l-esclavage-dans-les-caraibes-fr.zip
+    version: '2020-07-03'
   l-exploitation-de-l-homme-et-de-la-femme-gl-rn:
     description: "L'exploitation de l'homme et de la femme par les autres, une r\xE9\
       alit\xE9 \xE0 combattre. / Kurwanya gufata abantu bunyamaswa."
@@ -3614,6 +3663,26 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/l-inclusion-numerique-fr.zip
     version: '2019-10-15'
+  la-guyane-aujourd-hui-fr:
+    description: "Portrait de la Guyane au 21e si\xE8cle et de ses principaux enjeux\
+      \ sociaux, \xE9conomiques, politiques et environnementaux."
+    language: fr
+    name: La Guyane aujourd'hui
+    sha256sum: 081d77e9aa9c5a51c5e5dd1b06bb199effffe29a5aec663e81828df33d82ae24
+    size: 1920042034
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/la-guyane-aujourd-hui-fr.zip
+    version: '2020-07-03'
+  la-guyane-presentee-aux-enfants-fr:
+    description: "La Guyane est un d\xE9partement d'outre mer fran\xE7ais. Voici des\
+      \ informations et des images pour mieux la connaitre."
+    language: fr
+    name: "La Guyane pr\xE9sent\xE9e aux enfants"
+    sha256sum: c2924a848423a707d645986685871bd3e875c9b58737191325fa4783b60ec294
+    size: 313775627
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/la-guyane-presentee-aux-enfants-fr.zip
+    version: '2020-07-03'
   la-marche-du-monde-rfi-fr:
     description: 'Emission RFI : "La Marche du monde"'
     language: fr
@@ -3642,6 +3711,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-planification-familiale-gutunganya-invyaro-gl-rn.zip
     version: '2019-12-19'
+  la-region-de-la-guyane-pays-voisins-et-amazonie-fr:
+    description: "Informations sur des pays voisins dont sont originaires de nombreux\
+      \ habitants de la Guyane. Informations sur la for\xEAt amazonienne, qui est\
+      \ partag\xE9e par la Guyane et plusieurs autres pays de la r\xE9gion."
+    language: fr
+    name: "La r\xE9gion de la Guyane : pays voisins et Amazonie"
+    sha256sum: a7d616d7e5962c121ea3dad6c23bc2ce67d21273b0c5d1b69c6429b993419631
+    size: 62540460
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/la-region-de-la-guyane-pays-voisins-et-amazonie-fr.zip
+    version: '2020-07-03'
   la-sante-de-la-femme-gl-fr:
     description: "Des ressources pour permettre \xE0 la femme de mieux conna\xEEtre\
       \ son corps, son fonctionnement, ses maladies, ses changements. / Inyigisho\
@@ -3704,6 +3784,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/langue-des-signes-fr.zip
     version: '2019-10-25'
+  le-carnaval-tradition-en-guyane-et-ailleurs-fr:
+    description: "Le carnaval est un \xE9v\xE8nement majeur de Guyane. Voici des explications\
+      \ sur  son histoire et son organisation. Vous trouvez aussi quelques images\
+      \ de carnaval ailleurs dans le monde."
+    language: fr
+    name: 'Le carnaval: tradition en Guyane et ailleurs'
+    sha256sum: 7d192e1e7c807838926f126b9596a8d5bb08e1189f3725c86b8239177d583c1c
+    size: 451173534
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/le-carnaval-tradition-en-guyane-et-ailleurs-fr.zip
+    version: '2020-07-03'
   le-dialogue-entre-parents-et-enfants-sur-la-ssr-ikiyago-hagati-yabavyeyi-n-urwaruka-2-rn:
     description: "Pourquoi, comment et quand parler \xE0 ses enfants de sexualit\xE9\
       \ ? R\xE9pondons aux questions de nos enfants pour un avenir meilleur !\r\n\
@@ -3941,6 +4032,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learning-to-read-and-write-level-2-en.zip
     version: '2019-09-16'
+  les-animaux-de-la-guyane-fr:
+    description: "Informations sur des animaux embl\xE9matiques du milieu naturel\
+      \ de la Guyane"
+    language: fr
+    name: Les animaux de la Guyane
+    sha256sum: d607d47e41b83c20031220a1093040a56a6cb63e245fc0cf958f27ee305a4033
+    size: 41792880
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/les-animaux-de-la-guyane-fr.zip
+    version: '2020-07-03'
   les-bases-de-l-informatique-fr:
     description: "Ces ressources vous guideront dans l'utilisation des logiciels de\
       \ traitement de texte, tableur, pr\xE9sentation. Elles vous permettront de comprendre\
@@ -5037,6 +5138,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/political-sciences-africa-en.zip
     version: '2019-10-15'
+  portraits-de-guyanais-fr:
+    description: "Portraits vid\xE9os de quelques habitants de la Guyane"
+    language: fr
+    name: Portraits de Guyanais
+    sha256sum: 1f1fe523db2548003fb0164b371f1c317b8f67f55c0ed0d12bf7d9a14c5f9674
+    size: 335053242
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/portraits-de-guyanais-fr.zip
+    version: '2020-07-03'
   pratiques-et-usages-du-numerique-fr:
     description: "Pratiques et usages du num\xE9rique regroupe les vid\xE9os concernant\
       \ notamment l'\xE9conomie du num\xE9rique, les droits d'auteur, la citoyennet\xE9\
