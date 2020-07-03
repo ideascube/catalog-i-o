@@ -3669,7 +3669,7 @@ all:
       using Qt and runs on Windows and Unix-like OS (including Linux and macOS).
     language: en
     name: Krita - Graphics Editor
-    sha256sum: d9554933a75bbacaa840731cb46ea317e320f032db11ce530d9a6eab27ff35ed
+    sha256sum: e0748466aece43d601b5edc6375df1c9759026bb39d9e8cc1ce57292a6b1141b
     size: 78686325
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/krita-graphics-editor-en.zip
