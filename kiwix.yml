@@ -1013,3 +1013,12 @@ all:
     size: 37514929809
     sha256sum: "611f0ae98fea23f075cd05fa375ac599377a6d0c9c4d4a1b0b55582c47583e72"
     type: zim
+  ubongo.fr:
+    name: "Ubongo Français"
+    description: "Les aventures animées des P'tits Ubongo"
+    version: "2020-03-15"
+    language: "fra"
+    url: "http://download.kiwix.org/zim/other/ubongo_fr_all_2020-03.zim"
+    size: 1905664417
+    sha256sum: "3f7754bf189f865c5440ce36e1e1f5cdf6e40ee2b9b913643c242756e530b3af"
+    type: zim
