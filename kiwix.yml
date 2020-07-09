@@ -977,3 +977,12 @@ all:
     size: 3772362169
     sha256sum: "1053419b3585ae509f4ee13ab9828cebfdb3ec192fdaed3f5eea4ec41e21e4d7"
     type: zim
+  micmaths.fr:
+    name: "Mic Maths"
+    description: "Vidéos autour des mathématiques : cours, jeux de logique, chroniques"
+    version: "2020-03-19"
+    language: "fra"
+    url: "http://download.kiwix.org/zim/other/micmaths_fr_all_2020-03.zim"
+    size: 3666998790
+    sha256sum: "7536cf827bce270065871c6faa2169bce707836c394d4e7d2311550d121b1d28"
+    type: zim
