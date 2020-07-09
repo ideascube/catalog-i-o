@@ -986,3 +986,12 @@ all:
     size: 3666998790
     sha256sum: "7536cf827bce270065871c6faa2169bce707836c394d4e7d2311550d121b1d28"
     type: zim
+  nota-bene.fr:
+    name: "Nota Bene"
+    description: "Comprendre l'Histoire avec un grand H"
+    version: "2020-04-08"
+    language: "fra"
+    url: "http://download.kiwix.org/zim/other/nota-bene_fr_all_2020-04.zim"
+    size: 15882731570
+    sha256sum: "2c33282c6911c9aa6b1f6dceccaf95f3580dfaf3cfdda8309f0fcb716dda9d93"
+    type: zim
