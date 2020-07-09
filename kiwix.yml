@@ -1004,3 +1004,12 @@ all:
     size: 1269603648
     sha256sum: "c8f04206107a2ebb7cb9135e8a4ec449f47b8b617f5676dbb4725c02023d9af0"
     type: zim
+  maths-et-tiques.fr:
+    name: "Maths et tiques"
+    description: "Maths et tiques"
+    version: "2020-07-02"
+    language: "fra"
+    url: "http://download.kiwix.org/zim/other/la_chaine_de_maths_et_tiques_fr_all_2020-07.zim"
+    size: 37514929809
+    sha256sum: "611f0ae98fea23f075cd05fa375ac599377a6d0c9c4d4a1b0b55582c47583e72"
+    type: zim
