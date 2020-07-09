@@ -1022,3 +1022,12 @@ all:
     size: 1905664417
     sha256sum: "3f7754bf189f865c5440ce36e1e1f5cdf6e40ee2b9b913643c242756e530b3af"
     type: zim
+  astrolabe.fr:
+    name: "Astrolabe"
+    description: "Science et high-tech en vidéos"
+    version: "2020-05-10"
+    language: "fra"
+    url: "http://download.kiwix.org/zim/other/astrolabe_fr_all_2020-05.zim"
+    size: 2647700822
+    sha256sum: "ccbbdaab5524c94310b647e9c34bf12a2adc36decd80b31db0591492cb7e79e9"
+    type: zim
