@@ -6,15 +6,19 @@ It doesn't contains all of the Kiwix ZIMs, only the ones BSF needed to ship.
 
 ## DISCLAIMER
 
-Tried to automatize all of this. Was bitten by several exceptions.
+Early days. Tried to automatize all of this. Was bitten by several exceptions.
 
-Turns out we save some time by editing the catalog manually ; it is not
+Turned out we save some time by editing the catalog manually ; it is not
 error-proof, but still faster than fighting with exceptions within the shell
 scripts. Seee the [Gotchas](#gotchas) section below.
 
 At some point, Kiwix stopped publishing zipped-zim files and turned to plain
 ZIM files (which now include the file index). As a result, the `library.xml`
-doesn't exist anymore, and several fields have to be built manually.
+doesn't exist anymore, and several fields had to be built manually.
+
+Later on, Kiwix implemented an automated workflow, and published several API endpoints.
+
+As a result, all of this could be completely automated - see [issue #20](https://github.com/ideascube/catalog-i-o/issues/20).
 
 ## (current) update process
 
@@ -30,6 +34,20 @@ $ view ${ZIPPED_ZIM_URL}.meta4  # copy `size` and `sha256sum` from here
 $ git commit -a -m 'Add something.lang'
 $ ./upload_catalog.sh           # upload the catalog and generate an HTML view as well
 ```
+
+## Sources of information
+
+Multiple URLs per ZIM :
+
+* <http://download.kiwix.org/zim/other/wikistage_multi_all_2020-07.zim>
+* <http://download.kiwix.org/zim/other/wikistage_multi_all_2020-07.zim.meta4>
+
+ZimFarm Config:
+* <https://farm.openzim.org/recipes/wikistage_mul_all>
+* <https://farm.openzim.org/recipes/wikistage_mul_all/config>
+
+ZimFarm Schedule API:
+* <https://api.farm.openzim.org/v1/schedules/wikistage_mul_all>
 
 ## Fields
 
@@ -127,20 +145,6 @@ meta4 files embbed several informations that are useful to us.
 To get it, just add `.meta4` to the end of the `url`.
 Example:
 <http://download.kiwix.org/portable/wikiquote/kiwix-0.9+wikiquote_fr_all_2016-11.zim.meta4>
-
-## URLs
-
-Multiple URLs per ZIM :
-
-* <http://download.kiwix.org/zim/other/wikistage_multi_all_2020-07.zim>
-* <http://download.kiwix.org/zim/other/wikistage_multi_all_2020-07.zim.meta4>
-
-ZimFarm Config:
-* <https://farm.openzim.org/recipes/wikistage_mul_all>
-* <https://farm.openzim.org/recipes/wikistage_mul_all/config>
-
-ZimFarm Schedule API:
-* <https://api.farm.openzim.org/v1/schedules/wikistage_mul_all>
 
 ## Gotchas
 
