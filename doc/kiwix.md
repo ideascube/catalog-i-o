@@ -24,8 +24,8 @@ doesn't exist anymore, and several fields have to be built manually.
 $ ./update_library.sh
 $ vi kiwix.yml                  # open the catalog
 :read kiwix.yml.sample          # append a skeleton
-<keyboard stokes>               # build `name`, `description` from nowhere
-<keyboard strokes>              # build `lang` from ISO-639-1 codes
+<keyboard stokes>               # `name` & `description` from ZimFarm Recipe
+<keyboard strokes>              # `lang` from ZimFarm Recipe
 $ view ${ZIPPED_ZIM_URL}.meta4  # copy `size` and `sha256sum` from here
 $ git commit -a -m 'Add something.lang'
 $ ./upload_catalog.sh           # upload the catalog and generate an HTML view as well
@@ -60,23 +60,24 @@ Format : `name` + `.` + `lang`. Must not start by a number, only lower-case.
 
 Used to be taken from `library.xml`:`name` field.
 
-For wikipedia.bn for example, you can open <https://bn.wikipedia.org/> then
-copy the `Wikipedia` word from it. Good luck spotting the right word.
+Taken from the `title` field from the ZimFarm Recipe Config. Beware: ZimFarm uses `name` for something else!
 
 ### `description`
 
 Used to be taken from `library.xml`:`name` field.
 
-For wikipedia.bn for example, you can open <https://bn.wikipedia.org/> then
-copy the description from it. Good luck spotting the right sentence.
-
-You might leave it in english, such as `Wikipedia in Bengali`.
+Taken from the `description` field from the ZimFarm Recipe Config.
 
 ### `version`
 
 Used to be taken from `library.xml`:`version`.
 
-Use the date mentionned in the filename.
+Use the date as shown at `download.kiwix.org`. Alternatively, this can be build from the ZimFarm Schedule API, field `.most_recent_task.updated_at`. Example:
+
+```shell
+curl --silent https://api.farm.openzim.org/v1/schedules/nota_bene | jq -r .most_recent_task.updated_at
+
+```
 
 ### `language`
 
@@ -84,9 +85,7 @@ Used to be taken from `library.xml`:`lang`. It happened that it's not accurate.
 Example: Bil Tunisia is supposed to be in arabic but most of the talks are
 actually in french.
 
-You can take the lang mentionned in the filename (i.e. `_bn_`), then find the
-matching 3-letters code from the
-[Wikipedia 639-1 Codes page](https://fr.wikipedia.org/wiki/Liste_des_codes_ISO_639-1).
+Copy from the `language` field from the ZimFarm Recipe Config.
 
 ### `id`
 
@@ -100,6 +99,13 @@ Used to be taken from `library.xml`:`url`.
 
 Just copy the link from the [download page](http://download.kiwix.org/zim/).
 
+Alternatively, this could be built from the ZimFarm Schedule API:
+
+```shell
+$ curl --silent https://api.farm.openzim.org/v1/schedules/micmaths | jq -r '"http://download.kiwix.org/zim/" + .category + "/" + .config.flags.name + "_" + ( .most_recent_task.updated_at | split("-")[0:2] | join("-")) + ".zim"
+http://download.kiwix.org/zim/other/micmaths_fr_all_2020-03.zim
+```
+
 ### `size`
 
 Taken from `url`.meta4, or from `ls -l`.
@@ -112,8 +118,7 @@ Taken from `url`.meta4 or from the `sha256sum(1)` command output.
 
 For ZIMs from Kiwix.org, it must be `zim`.
 
-Kiwix doesn't build `zipped-zim` files anymore. Such files should disappear from
-our `kiwix.yml` file over the time.
+Kiwix doesn't build `zipped-zim` files anymore.
 
 ### The .meta4 file
 
@@ -127,8 +132,15 @@ Example:
 
 Multiple URLs per ZIM :
 
-* <http://download.kiwix.org/zim/other/wikistage_fr_all_2015-07.zim>
-* <http://download.kiwix.org/zim/other/wikistage_fr_all_2015-07.zim.meta4>
+* <http://download.kiwix.org/zim/other/wikistage_multi_all_2020-07.zim>
+* <http://download.kiwix.org/zim/other/wikistage_multi_all_2020-07.zim.meta4>
+
+ZimFarm Config:
+* <https://farm.openzim.org/recipes/wikistage_mul_all>
+* <https://farm.openzim.org/recipes/wikistage_mul_all/config>
+
+ZimFarm Schedule API:
+* <https://api.farm.openzim.org/v1/schedules/wikistage_mul_all>
 
 ## Gotchas
 
@@ -137,6 +149,8 @@ programming language that works as documented but is counter-intuitive and
 almost invites mistakes because it is both easy to invoke and unexpected or
 unreasonable in its outcome.
 > <https://en.wikipedia.org/wiki/Gotcha_%28programming%29>
+
+Note: all these gotchas were written before Kiwix implemented some APIs and automated workflows. These API often provide workarounds.
 
 Inconsistent file naming. Expect project_lang_type_date? Deal with that:
 
