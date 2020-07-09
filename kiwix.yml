@@ -995,3 +995,12 @@ all:
     size: 15882731570
     sha256sum: "2c33282c6911c9aa6b1f6dceccaf95f3580dfaf3cfdda8309f0fcb716dda9d93"
     type: zim
+  mondial-tissus.fr:
+    name: "Mondial Tissus"
+    description: "Vidéos astuces pour la couture"
+    version: "2020-03-20"
+    language: "fra"
+    url: "http://download.kiwix.org/zim/other/mondial-tissus_fr_all_2020-03.zim"
+    size: 1269603648
+    sha256sum: "c8f04206107a2ebb7cb9135e8a4ec449f47b8b617f5676dbb4725c02023d9af0"
+    type: zim
