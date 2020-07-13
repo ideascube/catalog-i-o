@@ -518,6 +518,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/asylum-seeking-process-arabic-ar.zip
     version: '2019-09-12'
+  ateliers-manuels-pour-les-enfants-fr:
+    description: "Tutos pour apprendre \xE0 faire des scoubidous, des dessins originaux,\
+      \ des petits jeux pour et par les enfants"
+    language: fr
+    name: Ateliers manuels pour les enfants
+    sha256sum: fec9100be600f925ba7e91c45d71910548563f0f3e8249e93506a7c1f9fca4f5
+    size: 1303409937
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ateliers-manuels-pour-les-enfants-fr.zip
+    version: '2020-07-13'
   audiobooks-et-fictions-sonores-fr:
     description: "Les fictions, les romans, on peut aussi les \xE9couter ! A vos casques\
       \ !"
@@ -884,6 +894,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/citoyennete-enabel-fr.zip
     version: '2019-09-18'
+  citoyennete-et-politique-enfants-fr:
+    description: "Quelques ressources pour d\xE9finir les droits et les devoirs du\
+      \ citoyen en France et avoir une premi\xE8re approche des institutions fran\xE7\
+      aises."
+    language: fr
+    name: "Qu'est-ce qu'\xEAtre \"citoyen\" ?"
+    sha256sum: 3b771e829f6e587f3610ca196ce9e1b1de88b843418a10ec622fe9ce3bcb487f
+    size: 11357716
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/citoyennete-et-politique-enfants-fr.zip
+    version: '2020-07-13'
   citoyennete-et-politique-fr:
     description: "D\xE9mocratie, politique, \xE9lection, gauche, droite... On en parle\
       \ ?"
@@ -1894,11 +1915,11 @@ all:
       \ d\xE9fendre."
     language: fr
     name: Droits de l'enfant
-    sha256sum: 74c2b009c72bcc858e459fee437940a817bc4f7a82d1c88cdad0af8c2d2e17f8
-    size: 162649238
+    sha256sum: 9f82aa3cacb1a644c38cad393a03cc8f715c134dbd7908062e339a0fd22b9e17
+    size: 209656198
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/droits-de-l-enfant-fr.zip
-    version: '2020-01-15'
+    version: '2020-07-13'
   drums-for-beginners-en:
     description: Short classes to play drums quickly.
     language: en
@@ -3841,6 +3862,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-sante-enfants-ado-fr.zip
     version: '2019-10-30'
+  la-sante-expliquee-aux-enfants-fr:
+    description: "Comprendre son corps et en prendre soin (hygi\xE8ne et maladies)\
+      \ quand on est un enfant."
+    language: fr
+    name: "La sant\xE9 expliqu\xE9e aux enfants"
+    sha256sum: c86eef0812c5f331e183f19eea7617d1aab3bce531c3a348431df91f3c242964
+    size: 569010071
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/la-sante-expliquee-aux-enfants-fr.zip
+    version: '2020-07-13'
   la-sante-expliquee-aux-enfants-gl-fr:
     description: "Comprendre son corps et en prendre soin (hygi\xE8ne et maladies)\
       \ quand on est un enfant. / Kumenya gufata neza umubiri wawe."
@@ -4028,6 +4059,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-children-bn.zip
     version: '2020-02-17'
+  learn-english-children-en:
+    description: With songs and cartoons, learn the english alphabet, the name of
+      the colour, the animal and the fruits!
+    language: en
+    name: Learn english ! (children)
+    sha256sum: e20f81c0d020ba6b10d4bc1e129e90be73bca88d87c2685f3e67e0c1fb4e22a6
+    size: 2677311386
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learn-english-children-en.zip
+    version: '2020-07-13'
   learn-english-teenagers-en:
     description: Learn basics in english language to communicate with others! For
       teens.
@@ -5134,6 +5175,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/orientation-professionnelle-fr.zip
     version: '2020-01-28'
+  origami-pop-up-fr:
+    description: "L'origami est l'art japonnais du pliage du papier.\r\nVoici des\
+      \ vid\xE9os pour apprendre \xE0 cr\xE9er des animaux ou des petits objets en\
+      \ papier de couleur dans la tradition japonaise.  Mais aussi des tutos pour\
+      \ cr\xE9er des cartes et des livres pop-up, la aussi en pliant et d\xE9coupant\
+      \ du papier color\xE9."
+    language: fr
+    name: Origami & Pop-up
+    sha256sum: 45f2f2ff86b6cc18e8f32934500effd833e3dbcdf432c70370fed59a70521bf5
+    size: 783225593
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/origami-pop-up-fr.zip
+    version: '2020-07-13'
   parentalite-fr:
     description: "Le lien parent-enfant est parfois compliqu\xE9 \xE0 entretenir sereinement.\
       \  Ces contenus vous aideront peut-\xEAtre \xE0 trouver certaines r\xE9ponses\
@@ -5305,6 +5359,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/portraits-de-guyanais-fr.zip
     version: '2020-07-03'
+  portraits-et-autoportraits-fr:
+    description: "Exemples de portraits et auto-portraits, dessin\xE9s ou photographi\xE9\
+      s. A toi de faire de m\xEAme!"
+    language: fr
+    name: Portraits et autoportraits
+    sha256sum: 5297e9b0cfaefc8816396153484ffc70b82aaf75d27a2030a18c527b4aa8cb67
+    size: 7639272
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/portraits-et-autoportraits-fr.zip
+    version: '2020-07-13'
   pratiques-et-usages-du-numerique-fr:
     description: "Pratiques et usages du num\xE9rique regroupe les vid\xE9os concernant\
       \ notamment l'\xE9conomie du num\xE9rique, les droits d'auteur, la citoyennet\xE9\
@@ -5587,6 +5651,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/rechauffement-climatique-fr.zip
     version: '2019-12-16'
+  recommendation-utiliser-les-paquets-936-et-700-a-la-place-fr:
+    description: "Respire, \xE9coute tes \xE9motions, es-tu en col\xE8re, joyeux,\
+      \ triste ? Tu te sentiras mieux avec toi-m\xEAme et avec les autres !"
+    language: fr
+    name: "Comment r\xE9guler mes \xE9motions ?"
+    sha256sum: 5d4bc383de74417ac6d5ffe8d5b9d6fb7713999604734dea3d84c44f422edeae
+    size: 169577177
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/recommendation-utiliser-les-paquets-936-et-700-a-la-place-fr.zip
+    version: '2020-07-13'
   refugees-and-migrants-en-en:
     description: "Important information on refugees rights and law protection. \r\n\
       Material and activities for reflection and discussion."
@@ -5645,6 +5719,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/rohingya-songs-and-comedy-rhg.zip
     version: '2020-03-03'
+  s-entrainer-aux-inferences-en-lecture-fr:
+    description: "L'inf\xE9rence est une op\xE9ration logique de d\xE9duction qui\
+      \ consiste, \xE0 partir d'indices pr\xE9sents dans le texte, \xE0 rendre explicite\
+      \ une information qui n'est qu'\xE9voqu\xE9e ou suppos\xE9e connue. \r\nVoici\
+      \ des supports pour entrainer des primaires."
+    language: fr
+    name: "S'entrainer aux inf\xE9rences en lecture"
+    sha256sum: 93c1b2b83bc7975b61a0d5e0941bea30a411c306ba4d4bed0d4272a7f32a4619
+    size: 1361667
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/s-entrainer-aux-inferences-en-lecture-fr.zip
+    version: '2020-07-13'
   s-informer-sur-internet-fr:
     description: "S'informer sur internet  propose une s\xE9rie de vid\xE9os sur l'\xE9\
       ducation aux m\xE9dias et \xE0 la d\xE9finition du citoyennet\xE9 num\xE9rique."
