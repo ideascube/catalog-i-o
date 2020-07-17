@@ -3690,11 +3690,11 @@ all:
       using Qt and runs on Windows and Unix-like OS (including Linux and macOS).
     language: en
     name: Krita - Graphics Editor
-    sha256sum: e0748466aece43d601b5edc6375df1c9759026bb39d9e8cc1ce57292a6b1141b
+    sha256sum: a63596d9d56eff8eee9bb49194e0d372dcf1c90237d7c3e03bd5a575f84ef5e2
     size: 78686325
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/krita-graphics-editor-en.zip
-    version: '2020-07-03'
+    version: '2020-07-17'
   kurdish-dramas-tv-shows-ckb:
     description: Watch kurdish shows and relax.
     language: ckb
