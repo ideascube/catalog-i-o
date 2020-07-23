@@ -2228,6 +2228,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/engagement-et-paix-les-grands-personnages-fr.zip
     version: '2020-07-03'
+  engagement-et-paix-les-grands-personnages-new-fr:
+    description: "Portraits de grands personnages qui ont agit pour d\xE9fendre leurs\
+      \ droits. Ils ont aid\xE9 \xE0 instaurer plus d'\xE9galit\xE9 dans leur pays\
+      \ et ont particip\xE9 \xE0 cr\xE9er un monde meilleur."
+    language: fr
+    name: 'Engagement et paix : les grands personnages'
+    sha256sum: 2fad3fa363e3449e3505445a504164240c3ce1fe2ccf26339e277ef834952c41
+    size: 306000876
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/engagement-et-paix-les-grands-personnages-new-fr.zip
+    version: '2020-07-23'
   english-for-adults-ar:
     description: "Learn English through these easy to follow videos. \u062A\u0639\u0644\
       \u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\u0646\u062C\u0644\u064A\
@@ -4523,6 +4534,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mathematics-lesson-in-english-en.zip
     version: '2020-03-03'
+  mathematiques-seconde-resolution-d-equations-et-inequations-basiques-fr:
+    description: "Des vid\xE9os de la Khan Academy destin\xE9es \xE0 des \xE9l\xE8\
+      ves de seconde, portant sur la r\xE9solution d'in\xE9quations et \xE9quations\
+      \ basiques."
+    language: fr
+    name: "Math\xE9matiques Seconde - R\xE9solution d'\xE9quations et in\xE9quations\
+      \ basiques"
+    sha256sum: 24965d5d065236cb8b7aa969cd19f2a6f59f3417e3f2fbb8bf636f3be262f46b
+    size: 66895280
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mathematiques-seconde-resolution-d-equations-et-inequations-basiques-fr.zip
+    version: '2020-07-23'
   maths-english-en:
     description: To discover math through games and songs for children and to go to
       advance math information and exercices, along with the history of mathematiques
