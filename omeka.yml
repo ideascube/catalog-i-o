@@ -810,6 +810,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cartoons-in-hindi-hi.zip
     version: '2020-02-17'
+  category-fix-education-fr:
+    description: some text
+    language: fr
+    name: test description
+    sha256sum: 3bf32c3c673167689208326ede1aa63bea2b05b211f1b22957f8b7ab549e2acd
+    size: 1031569124
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/category-fix-education-fr.zip
+    version: '2020-07-30'
   chemistry-ar:
     description: "Learn more about Chemistry./ \u062A\u0639\u0644\u0645 \u0627\u0643\
       \u062B\u0631 \u0639\u0646 \u0627\u0644\u0643\u064A\u0645\u064A\u0627\u0621"
