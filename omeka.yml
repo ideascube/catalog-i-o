@@ -125,11 +125,21 @@ all:
       \ risques."
     language: fr
     name: Quels risques avec l'alcool et les drogues ?
-    sha256sum: a19564158656f32e09220961d664611e3d8152e242a9c94829dfa7ed4871c396
-    size: 602772135
+    sha256sum: 69cfc4550267b644be5b094e8bf3b76381f2819f5ec9e1c5f976d87c89eb3a79
+    size: 651649069
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/alcool-drogues-fr.zip
-    version: '2020-04-06'
+    version: '2020-08-04'
+  alcool-drogues-ingaruka-mbi-zokunwa-inzoga-nibiyayuramutwe-rn:
+    description: "Conna\xEEtre les effets de la consommation d'alcool et de drogues\
+      \ pour sensibiliser aux dangers de la sur-consommation."
+    language: rn
+    name: Alcool, Drogues / Ingaruka mbi zokunwa inzoga nibiyayuramutwe
+    sha256sum: d9b279abc9105e680ad48559b36a7fbd56bc1f2a865443dac3f66bcb3bea7f6a
+    size: 1054072086
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/alcool-drogues-ingaruka-mbi-zokunwa-inzoga-nibiyayuramutwe-rn.zip
+    version: '2020-08-04'
   alez-pou-make-kreyol-fr:
     description: "Vid\xE9o courte sur les r\xE8gles d'\xE9criture et de phon\xE9tique\
       \ du cr\xE9ole fran\xE7ais"
@@ -625,6 +635,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/bien-se-nourrir-enfants-gufungura-neza-kubana-gl-fr.zip
     version: '2020-01-07'
+  bien-se-nourrir-enfants-paquet-redecoupe-voir-paquets-888-889-et-890-fr:
+    description: "Bien manger, qu'est-ce que \xE7a veut dire ? Apprends \xE0 composer\
+      \ des repas sains et nutritifs ! / Gufungura neza bisigura iki ? Kwiga kugira\
+      \ ibifungurwa ngirakamaro."
+    language: fr
+    name: Bien se nourrir (enfants) / Gufungura neza Kubana
+    sha256sum: cce21e51c1a854d63c7467df684b6db1d8cea0681f9283d1e475b17c76595492
+    size: 915643701
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/bien-se-nourrir-enfants-paquet-redecoupe-voir-paquets-888-889-et-890-fr.zip
+    version: '2020-08-04'
   biologie-adolescents-fr:
     description: "Pars \xE0 la d\xE9couverte du corps humain !"
     language: fr
@@ -4246,11 +4267,11 @@ all:
       d'alcool et de drogues.
     language: rn
     name: Ingaruka mbi zokunwa inzoga nibiyayuramutwe
-    sha256sum: 34b226fece5a064db666bf9845085db801236ade96a8c584443e2a55d1a9aa62
-    size: 423150426
+    sha256sum: c288d804964fb5069ebf1cdd2a874f09bf652cc51ea7911f541ced791f768aa8
+    size: 418744800
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-dangers-de-la-consommation-d-alcool-et-de-stupe-fiants-gl-rn.zip
-    version: '2019-12-20'
+    version: '2020-08-04'
   les-enfants-apprennent-le-francais-fr:
     description: "Quelques bases pour progresser en fran\xE7ais."
     language: fr
@@ -6274,11 +6295,11 @@ all:
       \ et les moyens de r\xE9agir pour la victime."
     language: fr
     name: Violences sexuelles sur adultes
-    sha256sum: d340e1971532e08a6dd6b121c5bca94e205b270c695b842d7ae03f538f63357e
-    size: 68270492
+    sha256sum: c59d5fa31d543f6ecb7cc0ea9519450bce1d3b475d365967e7b16fd2604c2a87
+    size: 73773033
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/violences-sexuelles-sur-adultes-fr.zip
-    version: '2019-12-16'
+    version: '2020-08-04'
   vivre-avec-le-vih-sida-kubana-n-umugera-wa-sida-rn:
     description: Vivre avec le VIH Sida / Kubana n' umugera wa SIDA.
     language: rn
