@@ -120,6 +120,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-gardening-en.zip
     version: '2019-09-16'
+  agriculture-generale-fr:
+    description: "Documentation pour se former en agriculture. Des documents concernant\
+      \ la construction d'une p\xE9pini\xE8re, la r\xE9g\xE9n\xE9ration naturelle\
+      \ assist\xE9e, l'\xE9levage ovin, etc."
+    language: fr
+    name: "Agriculture g\xE9n\xE9rale"
+    sha256sum: 0a122d77e3790ac1d4fac359c9e56ab62617ad4306467eb53b04a0b42c84e1d7
+    size: 291114850
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-generale-fr.zip
+    version: '2020-08-04'
   alcool-drogues-fr:
     description: "Identifier les effets de l'alcool, des drogues et pr\xE9venir les\
       \ risques."
@@ -212,6 +223,99 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/animals-environement-documentary-in-english-en.zip
     version: '2020-03-03'
+  aphabetisation-la-methode-abc-fr:
+    description: "Fruit de plusieurs ann\xE9es d\u2019exp\xE9rience aupr\xE8s de migrants\
+      \ non francophones, la m\xE9thode ABC est destin\xE9e aux animateurs d\u2019\
+      ateliers linguistiques. Son objectif vise la ma\xEEtrise rapide et durable de\
+      \ l\u2019alphabet fran\xE7ais en 10 s\xE9ances de 2 h."
+    language: fr
+    name: "Aphabetisation - La m\xE9thode ABC"
+    sha256sum: 115061afb384331bc752cc3d789a39321c848fbbe7504722294e132aae43483d
+    size: 28567866
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/aphabetisation-la-methode-abc-fr.zip
+    version: '2020-08-04'
+  aphabetisation-la-methode-def-fr:
+    description: "La m\xE9thode DEF est destin\xE9e aux animateurs d\u2019ateliers\
+      \ linguistiques sur des campements. Son objectif est tr\xE8s cibl\xE9. La m\xE9\
+      thode DEF vise \xE0 aider l\u2019apprenant \xE0 se pr\xE9senter succinctement\
+      \ en fran\xE7ais en 10 s\xE9ances de 2 h."
+    language: fr
+    name: "Aphabetisation - La m\xE9thode DEF"
+    sha256sum: 8c4c8d3cf079ba066f290b00cb2a9757010c07770da4383f28fea35ae5c7229e
+    size: 4682273
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/aphabetisation-la-methode-def-fr.zip
+    version: '2020-08-04'
+  aphabetisation-ressources-pedagogique-associer-avec-883-fr:
+    description: "Ce paquet contient des ressources p\xE9dagogiques pour aider des\
+      \ animateurs d'ateliers d'alphab\xE9tisation. \r\nOn y trouve des imagiers,\
+      \ des jeux d'aide \xE0 l'apprentissage et \xE0 la pratique (type jeux de cartes\
+      \ ou de l'oie) et des supports pour des dict\xE9es simples ainsi que deux guides\
+      \ \xE0 destination des formateurs et animateurs."
+    language: fr
+    name: "Aphabetisation - Ressources p\xE9dagogique"
+    sha256sum: 2cab4ed2192519b000d553e13abedf9f8b7ab05913ef8d7c42a93d3347b2a993
+    size: 11260560
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/aphabetisation-ressources-pedagogique-associer-avec-883-fr.zip
+    version: '2020-08-04'
+  apprendre-a-cuisiner-les-basiques-recettes-et-techniques-fr:
+    description: "Dans ce paquet, vous trouverez des vid\xE9os pour apprendre des\
+      \ techniques de base de la cuisine et des recettes faciles. Vous trouverez:\r\
+      \n1 - Les techniques de base (comme comment aiguiser un couteau ou reconnaitre\
+      \ un oeuf cuit d'un oeuf cru)\r\n2 - Des recettes faciles, expliqu\xE9es pas\
+      \ \xE0 pas, pour bien commencer en cuisine\r\n3 - Des techniques et recettes\
+      \ uniquement d\xE9di\xE9es au poulet!\r\n4 - Des recettes de plein de sauces\
+      \ diff\xE9rentes, pour pouvoir agr\xE9menter tous vos plats"
+    language: fr
+    name: "Apprendre \xE0 cuisiner - Les Basiques (recettes et techniques)"
+    sha256sum: 7585fda7e15547dd28ab679358a1a65b99d7195f7447bb90a9b0bcb7bec62af9
+    size: 283667842
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprendre-a-cuisiner-les-basiques-recettes-et-techniques-fr.zip
+    version: '2020-08-04'
+  apprendre-a-cuisiner-les-desserts-fr:
+    description: "Dans ce paquet, vous trouverez des vid\xE9os explicatives sur:\r\
+      \n1 - Des techniques de bases de la p\xE2tisserie, comme plusieurs p\xE2tes\
+      \ ou cr\xE8mes.\r\n2 - Des recettes de dessert, de toutes simples \xE0 un peu\
+      \ plus complexe. Ces desserts sont majoritairement de tradition fran\xE7aise.\r\
+      \n3 - Des recettes et techniques pour faire des confitures maison\r\n4 - Quelques\
+      \ explications sur comment bien pr\xE9parer le beurre en fonction des recettes"
+    language: fr
+    name: "Apprendre \xE0 cuisiner - Les Desserts"
+    sha256sum: 4c885793bc01a19a7c7fa58d3a0e9070a5dd4209c98b09feabb29b128df0eaba
+    size: 696630086
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprendre-a-cuisiner-les-desserts-fr.zip
+    version: '2020-08-04'
+  apprendre-a-cuisiner-les-legumes-fr:
+    description: "Dans ce paquet, vous trouverez des vid\xE9os explicatives sur:\r\
+      \n1 - Des techniques de bases pour pr\xE9parer les l\xE9gumes\r\n2 - Des techniques\
+      \ pr\xE9cieuses pour apprendre \xE0 bien couper les l\xE9gumes avant de pouvoir\
+      \ les utiliser pour cuisiner, cela vous fera gagner beaucoup de temps pour vos\
+      \ futures pr\xE9parations!\r\n3 - Des conseils pour cuire les l\xE9gumes\r\n\
+      4 - Quelques informations sur le calendrier de r\xE9coltes des l\xE9gumes et\
+      \ pourquoi c'est important d'en manger!"
+    language: fr
+    name: "Apprendre \xE0 cuisiner - Les L\xE9gumes"
+    sha256sum: cc715667d639e00cf8e5bcaae103bbe87a90929260226b90c9dd240ab6be0956
+    size: 195292255
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprendre-a-cuisiner-les-legumes-fr.zip
+    version: '2020-08-04'
+  apprendre-a-cuisiner-plats-du-monde-fr:
+    description: "Dans ce paquet, vous trouverez des vid\xE9os tutoriel pour vous\
+      \ apprendre des recettes de cuisines de diff\xE9rents pays: la France, l'Italie,\
+      \ Ta\xEFwan, le Japon, la Turquie.\r\nIl n'y a plus qu'\xE0 s'installer en cuisine\
+      \ !!"
+    language: fr
+    name: "Apprendre \xE0 cuisiner - Plats du Monde"
+    sha256sum: 933b32bdfbee8e1df49c1f272731a6742aac4080321f68048e8f27f03cf84540
+    size: 408320534
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprendre-a-cuisiner-plats-du-monde-fr.zip
+    version: '2020-08-04'
   apprendre-a-cuisiner-sikana-fr:
     description: "Nous consommons de plus en plus de plats pr\xE9par\xE9s individuels.\
       \ Partager un repas fait maison est un pur moment de plaisir. D\xE9couvrez dans\
@@ -245,6 +349,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-a-programmer-en-java-fr.zip
     version: '2020-03-09'
+  apprendre-a-utiliser-des-patrons-en-couture-fr:
+    description: "Tutoriels qui permettent \xE0 un tailleur d'apprendre \xE0 utiliser\
+      \ un patron, ou de r\xE9aliser un patron \xE0 partir d'un v\xEAtement existant\
+      \ et assembl\xE9."
+    language: fr
+    name: "Apprendre \xE0 utiliser des patrons en couture"
+    sha256sum: 611201bba291908d35583c4caca6f61e71760614d1de43a9e129734ded26b8ce
+    size: 175811672
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprendre-a-utiliser-des-patrons-en-couture-fr.zip
+    version: '2020-08-04'
   apprendre-a-utiliser-des-patrons-fr:
     description: "Ce paquet de contenus r\xE9unit quelques exemples de tutoriels qui\
       \ permettent \xE0 un tailleur d'apprendre \xE0 utiliser un patron, ou de r\xE9\
@@ -1122,6 +1237,26 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comprendre-l-autisme-fr.zip
     version: '2019-09-18'
+  comprendre-la-nature-qui-nous-entoure-enfants-ados-fr:
+    description: "Qui sont les \xEAtres vivants qui nous entourent ? O\xF9 vivent-ils\
+      \ ? Que mangent-ils ? Comment vivons-nous ensemble ?"
+    language: fr
+    name: Comprendre la nature qui nous entoure
+    sha256sum: 355de4d7ad8e5c9630aa30ebc4c9cb03504ae29db7cd3ea8d18c7311318b4696
+    size: 1301968906
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/comprendre-la-nature-qui-nous-entoure-enfants-ados-fr.zip
+    version: '2020-08-04'
+  comprendre-le-rechauffement-climatique-fr:
+    description: "Ressources pour comprendre le r\xE9chauffement climatique et ses\
+      \ enjeux."
+    language: fr
+    name: "Comprendre le r\xE9chauffement climatique"
+    sha256sum: 51dbcc4d315077add2b325e5f9956c28a5119dac3f115fa78b6fa6f7b5167525
+    size: 81594353
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/comprendre-le-rechauffement-climatique-fr.zip
+    version: '2020-08-04'
   comprendre-les-migrations-fr:
     description: '-'
     language: fr
@@ -1264,6 +1399,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cooking-ar.zip
     version: '2019-11-21'
+  couture-fr:
+    description: "Quelques trucs et astuces pour coudre, choisir et entretenir sa\
+      \ machine. De l'apprentissage des points \xE0 la r\xE9alisation de v\xEAtements\
+      \ et d'accessoires"
+    language: fr
+    name: Couture
+    sha256sum: 11da0f96e73c459aa1e11efb40a18100a956989a83efc5819a70586135a1e736
+    size: 553415824
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/couture-fr.zip
+    version: '2020-08-04'
   covid-19-bangla-bn:
     description: This document in Bangla list frequent questions about the COVID-19
       virus and brings basic answers.
@@ -1581,6 +1727,39 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/davinci-resolve-video-editor-en.zip
     version: '2020-07-03'
+  decouverte-des-aliments-pour-les-enfants-fr:
+    description: "Gr\xE2ce \xE0 des petites vid\xE9o (3 \xE0 5 minutes) faites par\
+      \ Disney Junior, d\xE9couvre des c\xE9r\xE9ales, des \xE9pices et des plantes\
+      \ comestibles."
+    language: fr
+    name: "D\xE9couverte des aliments pour les enfants"
+    sha256sum: 5785fe303202321e9e1c02754bbb08ea38cd7fb10ea00719c250dc0dc4e385fc
+    size: 180606517
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/decouverte-des-aliments-pour-les-enfants-fr.zip
+    version: '2020-08-04'
+  decouverte-des-fruits-pour-les-enfants-fr:
+    description: "Gr\xE2ce \xE0 des petites vid\xE9o (3 \xE0 5 minutes) faites par\
+      \ Disney Junior, d\xE9couvre les fruits. Tu sera peut \xEAtre surpris car certain\
+      \ fruits... ne ressemblent pas \xE0 des fruits!"
+    language: fr
+    name: "D\xE9couverte des fruits pour les enfants"
+    sha256sum: 3baf9bb7d8da34161d8900d749c2de50c5e7fde9ca2ac9a27377dfb8325f7ff5
+    size: 536914276
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/decouverte-des-fruits-pour-les-enfants-fr.zip
+    version: '2020-08-04'
+  decouverte-des-legumes-pour-les-enfants-fr:
+    description: "Gr\xE2ce \xE0 des petites vid\xE9o (3 \xE0 5 minutes) faites par\
+      \ Disney Junior, d\xE9couvre les l\xE9gumes. Tu sera peut \xEAtre surpris car\
+      \ certain l\xE9gumes... ne ressemblent pas \xE0 des l\xE9gumes!"
+    language: fr
+    name: "D\xE9couverte des l\xE9gumes pour les enfants"
+    sha256sum: d2c602fbde75778f8f789989112d97eaab294c41c34e74c8778115db6d601ea0
+    size: 352529918
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/decouverte-des-legumes-pour-les-enfants-fr.zip
+    version: '2020-08-04'
   decouvrez-ou-re-decouvrez-la-cuisine-de-differents-pays-fr:
     description: Qu'est-ce qu'on mange aujourd'hui ?
     language: fr
@@ -1628,11 +1807,11 @@ all:
     description: "Tu veux regarder des dessins anim\xE9s en swahili ? C'est ici !"
     language: sw
     name: Ubongo Kids
-    sha256sum: 80205e2cb2a337f535c2d649ddef75247642e815d9392d761a338a5c71515d7a
-    size: 1036101873
+    sha256sum: 932bc6d72d0ad22c437c3251f87d5aa3cfcd402de94991852800f149de43bf62
+    size: 1042627062
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/dessins-animes-pour-enfants-en-swahili-sw.zip
-    version: '2019-10-30'
+    version: '2020-08-04'
   dessins-animes-pour-enfants-sw:
     description: "Tu veux regarder des dessins anim\xE9s en swahili ? C'est ici !"
     language: sw
@@ -2005,12 +2184,12 @@ all:
   eco-d-ici-eco-d-ailleurs-rfi-fr:
     description: "\xC9mission RFI : \"Eco d'ici \xE9co d'ailleurs\""
     language: fr
-    name: Economie
-    sha256sum: aa8e9c99b97e8b4cd9fcf9feaf19060bd844d389e35f3cddd95b6cb0230263bb
-    size: 242930012
+    name: Economie en Afrique
+    sha256sum: 94459ed07bf4fc42ada121d21fe4ce9445745ba3550965e7b5adccaa7591d57c
+    size: 242932493
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/eco-d-ici-eco-d-ailleurs-rfi-fr.zip
-    version: '2019-09-19'
+    version: '2020-08-04'
   ecologie-fr:
     description: "Paquet \xE0 trier"
     language: fr
@@ -2264,11 +2443,11 @@ all:
       \ et ont particip\xE9 \xE0 cr\xE9er un monde meilleur."
     language: fr
     name: 'Engagement et paix : les grands personnages'
-    sha256sum: 2fad3fa363e3449e3505445a504164240c3ce1fe2ccf26339e277ef834952c41
+    sha256sum: f63f37a191ccb75ebf2225062608fc13687759bb0e860eebf155d62ea336d662
     size: 306000876
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/engagement-et-paix-les-grands-personnages-new-fr.zip
-    version: '2020-07-23'
+    version: '2020-08-04'
   english-for-adults-ar:
     description: "Learn English through these easy to follow videos. \u062A\u0639\u0644\
       \u0645 \u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0627\u0646\u062C\u0644\u064A\
@@ -2369,6 +2548,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/expression-creatively-burmese-mm.zip
     version: '2019-11-14'
+  fabriquer-des-meubles-avec-des-palettes-sikana-fr:
+    description: "D\xE9couvrez comment recycler des palettes en bois pour fabriquer\
+      \ des meubles"
+    language: fr
+    name: Fabriquer des meubles avec des palettes
+    sha256sum: 837d859053b86dcb11a5952b5a2ea39e365b89dd7fc2d68c59516a13d8f6c76f
+    size: 397914672
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/fabriquer-des-meubles-avec-des-palettes-sikana-fr.zip
+    version: '2020-08-04'
   facilitator-kit-en:
     description: Dear facilitators, you'll find here contents and activities guides
       to help you managing activities in your Ideas Box. Do not hesitate to use it
@@ -3107,6 +3296,58 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-de-mayotte-et-des-comores-fr.zip
     version: '2019-12-16'
+  histoire-epoque-contemporaine-general-a-associe-avec-876-et-877-fr:
+    description: "Ce paquet contient des podcastes audio et des vid\xE9os sur des\
+      \ sujets d'histoire de l'\xE9poque contemporaine, surtout acc\xE8s autour de\
+      \ la France.\r\nL'\xE9poque contemporaine est commun\xE9ment d\xE9crite en occident\
+      \ comme la p\xE9riode historique allant de 1789 (date du d\xE9but de la r\xE9\
+      volution fran\xE7aise) \xE0 nos jours."
+    language: fr
+    name: "Histoire - \xC9poque Contemporaine"
+    sha256sum: 7a298fe924c4321139ee2aeac03a49f69814799f7e5a2fe5cf27583309248276
+    size: 4299067869
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-epoque-contemporaine-general-a-associe-avec-876-et-877-fr.zip
+    version: '2020-08-04'
+  histoire-epoque-contemporaine-guerres-mondiales-a-associe-avec-876-et-878-fr:
+    description: "L'\xE9poque contemporaine est commun\xE9ment d\xE9crite en occident\
+      \ comme la p\xE9riode historique allant de 1789 (date du d\xE9but de la r\xE9\
+      volution fran\xE7aise) \xE0 nos jours. Ce paquet se focalise sur la premi\xE8\
+      re (1914-1918) et la seconde (1939-1945) guerre mondiale, au travers de podcast\
+      \ audio et de quelques vid\xE9os."
+    language: fr
+    name: "Histoire - \xC9poque Contemporaine - Focus sur les deux guerres mondiales"
+    sha256sum: 55321600de7e99102bc6f31b0455078588a7c60252f5917b854312ddebc8a739
+    size: 3665735346
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-epoque-contemporaine-guerres-mondiales-a-associe-avec-876-et-878-fr.zip
+    version: '2020-08-04'
+  histoire-epoque-contemporaine-revolution-fr-a-associe-avec-877-et-878-fr:
+    description: "L'\xE9poque contemporaine est commun\xE9ment d\xE9crite en occident\
+      \ comme la p\xE9riode historique allant de 1789 (date du d\xE9but de la r\xE9\
+      volution fran\xE7aise) \xE0 nos jours. Ce paquet se focalise sur la r\xE9volution\
+      \ fran\xE7aise et le r\xE8gne de Napol\xE9on I et Napol\xE9on III qui suivirent."
+    language: fr
+    name: "Histoire - \xC9poque Contemporaine - Focus sur la r\xE9volution fran\xE7\
+      aise et Napol\xE9on"
+    sha256sum: 47dbbd08ae55d8e2bee48b0e18ba7f8b276676547e353dab5ad22f036c1af3fa
+    size: 3494685323
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-epoque-contemporaine-revolution-fr-a-associe-avec-877-et-878-fr.zip
+    version: '2020-08-04'
+  histoire-epoque-moderne-fr:
+    description: "Ce paquet contient des podcastes audio et des vid\xE9os sur des\
+      \ sujets d'histoire de l'\xE9poque moderne.\r\nL'\xE9poque moderne est commun\xE9\
+      ment d\xE9crite en occident comme la p\xE9riode historique allant de 1453 (date\
+      \ de la fin de la guerre de 100 ans) \xE0 1789 (date du d\xE9but de la r\xE9\
+      volution fran\xE7aise)"
+    language: fr
+    name: Histoire - Epoque Moderne
+    sha256sum: 30b50bbdc073ed22669a719b443087802a8df1de8a7a221b17b5a6fa149063fb
+    size: 2217260016
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-epoque-moderne-fr.zip
+    version: '2020-08-04'
   histoire-gl-fr:
     description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
       \ les \xE9v\xE8nements du pr\xE9sent. / Kahise ka Afrika."
@@ -3117,6 +3358,32 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-gl-fr.zip
     version: '2020-01-08'
+  histoire-l-antiquite-fr:
+    description: "Ce paquet contient des podcastes audio et des vid\xE9os sur des\
+      \ sujets d'histoire de l'Antiquit\xE9.\r\nL'Antiquit\xE9 est commun\xE9ment\
+      \ d\xE9crite en occident comme la p\xE9riode historique allant de -3500 avant\
+      \ J.C. (et le d\xE9but de l'\xE9criture) \xE0 l'ann\xE9e 476 de notre air (date\
+      \ de la chute de l'empire romain d'occident)."
+    language: fr
+    name: "Histoire - L'Antiquit\xE9"
+    sha256sum: 1037d11fe2c08eb21fe16d0bd181f0076009528d31d204c845bcc53202810a54
+    size: 2355237508
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-l-antiquite-fr.zip
+    version: '2020-08-04'
+  histoire-moyen-age-fr:
+    description: "Ce paquet contient des podcastes audio et des vid\xE9os sur des\
+      \ sujets d'histoire du Moyen Age.\r\nLe Moyen Age est commun\xE9ment d\xE9crite\
+      \ en occident comme la p\xE9riode historique allant de l'ann\xE9e 476 de notre\
+      \ air (date de la chute de l'empire romain d'occident) \xE0 1453 (et la fin\
+      \ de la guerre de cent ans)."
+    language: fr
+    name: Histoire - Moyen Age
+    sha256sum: 483c5e8feb2278e39cd227eaca1939acb51e60bb0a2cae2414fa9d09429013d9
+    size: 3316748528
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-moyen-age-fr.zip
+    version: '2020-08-04'
   histoire-occidentale-fr:
     description: Connaitre l'histoire et la culture occidentale
     language: fr
@@ -3342,11 +3609,11 @@ all:
       \ vous dans vos premi\xE8res cr\xE9ations vid\xE9os !"
     language: fr
     name: "Initiez-vous \xE0 la cr\xE9ation vid\xE9o"
-    sha256sum: ca6694a6bf6fd7275e8b474a7a9d60e5ddda05556e766806eba9b8a16e9ee949
-    size: 1388962579
+    sha256sum: e495c7180ec2baa10bebac5a14a616fe16ec43f6fd47493e55980dc5bb3706f6
+    size: 1389018545
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-creation-video-fr.zip
-    version: '2020-01-22'
+    version: '2020-08-04'
   initiez-vous-a-la-photographie-fr:
     description: Vous souhaitez vous lancer, faire quelques photographies, mais vous
       avez besoin d'aide ? C'est ici !
@@ -4504,6 +4771,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/litterature-francophone-afrique-fr.zip
     version: '2019-12-09'
+  maconnerie-fr:
+    description: '-'
+    language: fr
+    name: "Ma\xE7onnerie"
+    sha256sum: a11de032d087d0c7f573ae0739ad0c35c211356f0065871e3b99f94f55d587b1
+    size: 123746515
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/maconnerie-fr.zip
+    version: '2020-08-04'
   make-your-own-radio-en:
     description: Learn how to make your own radio shows !
     language: en
@@ -4586,6 +4862,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/maths-english-en.zip
     version: '2019-11-14'
+  mecanique-automobile-enabel-fr:
+    description: "Documentation pour se former en m\xE9canique automobile. Des documents\
+      \ d\xE9crivant comment d\xE9monter et monter le boitier de direction, le sch\xE9\
+      ma du fonctionnement d'une automobile"
+    language: fr
+    name: "M\xE9canique automobile"
+    sha256sum: 0ee4dacf226a3af0dec4d23164787783fccf6619b86894f50edf83c54e88d5d8
+    size: 83393247
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mecanique-automobile-enabel-fr.zip
+    version: '2020-08-04'
   memoire-d-un-continent-rfi-fr:
     description: "\xC9mission RFI : \"M\xE9moire d'un continent\""
     language: fr
@@ -4604,6 +4891,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/menstrual-hygiene-adults-en.zip
     version: '2020-07-03'
+  menuiserie-enabel-fr:
+    description: "Documentation pour se former en menuiserie. Des documents traitant\
+      \ de la fabrication des meubles, les r\xE8gles de s\xE9curit\xE9, les assemblages,\
+      \ les diff\xE9rentes machines"
+    language: fr
+    name: Menuiserie
+    sha256sum: d2f378cf0393f9be2c82e94bdf33740f02a3fe0837478198d2500d8ac5b560ec
+    size: 56169466
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/menuiserie-enabel-fr.zip
+    version: '2020-08-04'
   microbiologie-et-prevention-sante-fr:
     description: "Qu'est-ce qu'un microbe ? Sont-ils tous nocifs pour l'homme ? Vous\
       \ trouverez ici \xE0 la fois des vid\xE9os sur la microbiologie et les avanc\xE9\
@@ -5273,6 +5571,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/patron-pour-coudre-une-jupe-a-volants-fille-fr.zip
     version: '2019-09-17'
+  patrons-pour-coudre-des-vetements-pour-enfants-2-fr:
+    description: "Ce paquet de contenus contient diff\xE9rents patrons permettant\
+      \ \xE0 un tailleur de coudre des v\xEAtements pour enfants, filles comme gar\xE7\
+      ons."
+    language: fr
+    name: "Patrons pour coudre des v\xEAtements pour enfants"
+    sha256sum: bbc2211e578c1ce59418d171348e2b0f8040ff0823defaae6efb17b90df1d33c
+    size: 19173310
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/patrons-pour-coudre-des-vetements-pour-enfants-2-fr.zip
+    version: '2020-08-04'
   patrons-pour-coudre-des-vetements-pour-enfants-fr:
     description: "Ce paquet de contenus contient diff\xE9rents patrons permettant\
       \ \xE0 un tailleur de coudre des v\xEAtements pour enfants, filles comme gar\xE7\
@@ -5374,6 +5683,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/physics-ar.zip
     version: '2019-11-21'
+  plomberie-fr:
+    description: "Documentation pou se former en plomberie. Des documents d\xE9crivant\
+      \ les bases de la plomberie, penser et r\xE9aliser son installation ainsi que\
+      \ des catalogues de produits."
+    language: fr
+    name: Plomberie
+    sha256sum: 16349ed263613496893882795c1f751531444099a8a07474ec08b81fbdeaa5c2
+    size: 67425232
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/plomberie-fr.zip
+    version: '2020-08-04'
   poesie-et-slam-en-shimaore-411:
     description: "Des po\xE8mes en maorais pr\xE9sent\xE9 par l\u2019association Shim\xE9"
     language: '411'
@@ -5422,6 +5742,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/portraits-et-autoportraits-fr.zip
     version: '2020-07-13'
+  pratiquer-la-communication-non-violente-fr:
+    description: "La Communication Non Violente (CNV) \xE0 pour but de pacifier nos\
+      \ communications en rempla\xE7ant tout jugement par une observation objective,\
+      \ en particulier les jugements sur son interlocuteur, et en ne parler que de\
+      \ ce que l'on ressent, afin de permettre \xE0 son interlocuteur de mieux nous\
+      \ comprendre."
+    language: fr
+    name: Pratiquer la Communication Non Violente
+    sha256sum: d16d45d4d84defb1197aedc47a8ae6b59237f860074ce6571de8877be02eeaa4
+    size: 646938108
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/pratiquer-la-communication-non-violente-fr.zip
+    version: '2020-08-04'
   pratiques-et-usages-du-numerique-fr:
     description: "Pratiques et usages du num\xE9rique regroupe les vid\xE9os concernant\
       \ notamment l'\xE9conomie du num\xE9rique, les droits d'auteur, la citoyennet\xE9\
@@ -5685,6 +6018,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/reading-and-writing-games-en.zip
     version: '2019-09-16'
+  recettes-de-cuisine-pour-les-enfants-fr:
+    description: "Ce paquet contient des recettes de cuisine facile pour les enfants,\
+      \ pr\xE9sent\xE9es comme des petits dessins anim\xE9s 'En cuisine les enfants'."
+    language: fr
+    name: Recettes de cuisine pour les enfants
+    sha256sum: be2078cada36852a4545daaa411d205602334642840c09ad69200d2ce3ad2fed
+    size: 63203447
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/recettes-de-cuisine-pour-les-enfants-fr.zip
+    version: '2020-08-04'
   rechauffement-climatique-explique-aux-enfants-fr:
     description: "comprendre le r\xE9chauffement climatique et ses enjeux."
     language: fr
@@ -6032,6 +6375,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sommeil-enfants-fr.zip
     version: '2019-09-18'
+  soudure-fr:
+    description: "Documentation pour se former en soudure. Des documents d\xE9crivant\
+      \ l'utilisation d'un poste de soudure \xE0 l'arc, au M.I.G, la r\xE9duction\
+      \ des fum\xE9es, etc."
+    language: fr
+    name: Soudure
+    sha256sum: ea7ccb8ae36e49f3506e9df8eeb54a86fd5c9061913a098a96e35092ab065bb3
+    size: 88212669
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/soudure-fr.zip
+    version: '2020-08-04'
   space-science-ar:
     description: "\u062A\u0639\u0644\u0645 \u0639\u0646 \u0627\u0644\u0643\u0648\u0627\
       \u0643\u0628 \u0648\u0627\u0644\u0646\u062C\u0648\u0645 \u0648\u0627\u0644\u0641\
@@ -6209,6 +6563,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/theater-mime-lessons-en.zip
     version: '2020-02-17'
+  transformation-agro-alimentaire-fr:
+    description: "Documentation pour se former en transformation agro-alimentaire.\
+      \ Des documents comme \"Burkina Faso : Gamme vari\xE9e de produits \xE0 base\
+      \ de moringa\", \"Kenya : De la farine de manioc sans gluten sur le march\xE9\
+      \", \"B\xE9nin : Cocktails de jus locaux\", etc."
+    language: fr
+    name: transformation agro-alimentaire
+    sha256sum: 6be7c824af8d85e8ee5f8ab2b81d0b836322dac12ba9e902a7253585590ce081
+    size: 721879395
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/transformation-agro-alimentaire-fr.zip
+    version: '2020-08-04'
   tutorials-for-using-programs-en:
     description: It explains basic electronic components and software like inkscape
       - gimp - blender - scribus - raspberry pi - audacity - DaVinci - krita
@@ -6219,6 +6585,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/tutorials-for-using-programs-en.zip
     version: '2019-12-06'
+  tutoriels-de-coiffure-pour-differents-types-de-cheveux-fr:
+    description: "Tutoriels de coiffure homme ou femme pour diff\xE9rents types de\
+      \ cheveux : cheveux longs, mi-longs, courts, cr\xE9pus, fris\xE9s..."
+    language: fr
+    name: "Tutoriels de coiffure pour diff\xE9rents types de cheveux"
+    sha256sum: f04abb436c44d66db856d7f9909cd25b4e0b0bf4441df1939db8fb017d11e265
+    size: 1211323768
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/tutoriels-de-coiffure-pour-differents-types-de-cheveux-fr.zip
+    version: '2020-08-04'
   tutoriels-pour-utiliser-des-logiciels-et-des-applications-fr:
     description: "Tutoriels pour utiliser des logiciels et des applications\r\n- \xEA\
       tre en capacit\xE9 de prendre en mains les logiciels propos\xE9s sur les ordinateurs\
