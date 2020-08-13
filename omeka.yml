@@ -6515,6 +6515,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/technology-ar.zip
     version: '2019-11-21'
+  test-archive-zip-fr:
+    description: Test archive zip
+    language: fr
+    name: Test archive zip
+    sha256sum: e01b74c0628908e986d66256e2bdc84c099001862e89afcd2367b786700f79af
+    size: 59818
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/test-archive-zip-fr.zip
+    version: '2020-08-13'
   the-dangers-of-alcohol-and-drug-use-en:
     description: Let's be aware and fight the dangers of alcohol and drug use Learn
       about how drugs affect your body and your brain
