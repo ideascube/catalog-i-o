@@ -955,6 +955,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/category-fix-education-fr.zip
     version: '2020-07-30'
+  ce-paquet-a-ete-redecoupe-car-trop-volumineux-voir-les-paquets-901-a-908-fr:
+    description: "Les m\xE9canismes de mise en \u0153uvre des droits de l'homme\r\n\
+      Un MOOC de l'Universit\xE9 de Gen\xE8ve"
+    language: fr
+    name: Introduction aux droits de l'homme
+    sha256sum: 374b453226db18192fbdcbb4dc94712a268131471598e98aa6741fde4d5af542
+    size: 1119099242
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ce-paquet-a-ete-redecoupe-car-trop-volumineux-voir-les-paquets-901-a-908-fr.zip
+    version: '2020-08-19'
   chemistry-ar:
     description: "Learn more about Chemistry./ \u062A\u0639\u0644\u0645 \u0627\u0643\
       \u062B\u0631 \u0639\u0646 \u0627\u0644\u0643\u064A\u0645\u064A\u0627\u0621"
@@ -1760,6 +1770,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/decouverte-des-legumes-pour-les-enfants-fr.zip
     version: '2020-08-04'
+  decouvrez-differents-sports-paquet-redecoupe-voir-les-paquets-856-857-858-313-fr:
+    description: Vous souhaitez vous perfectionner en football ? Vous initier au yoga
+      ou faire un exercice physique quotidien ?  C'est ici !
+    language: fr
+    name: "D\xE9couvrez diff\xE9rents sports"
+    sha256sum: 9d27f1004cd6cfb2cc5cf9fd001c24c6e36d17cadd681eff3a846c2910e34b32
+    size: 2693223764
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/decouvrez-differents-sports-paquet-redecoupe-voir-les-paquets-856-857-858-313-fr.zip
+    version: '2020-08-19'
   decouvrez-ou-re-decouvrez-la-cuisine-de-differents-pays-fr:
     description: Qu'est-ce qu'on mange aujourd'hui ?
     language: fr
@@ -3619,11 +3639,11 @@ all:
       avez besoin d'aide ? C'est ici !
     language: fr
     name: "Initiez-vous \xE0 la photographie"
-    sha256sum: 0f2e43112213a8630a97d2bbd66333559c8303aac9f8ce878975f2aa43e2cc2c
-    size: 517051093
+    sha256sum: d940033e783a7286613a9e4baea64dd2749a75899f3998535dc0bf771e9f9410
+    size: 517082082
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-photographie-fr.zip
-    version: '2019-12-09'
+    version: '2020-08-19'
   innovation-en-afrique-fr:
     description: "Vous trouverez ici du contenu sur des m\xE9thodes innovantes et\
       \ des pr\xE9sentations d'innovations sp\xE9cifiques au contexte \xE9conomique\
@@ -4217,11 +4237,11 @@ all:
     description: Se familiariser avec la langue des signes
     language: fr
     name: Langue des signes
-    sha256sum: 0091eee85e0a0f6227b027e85bef31bf99764f0ee787dc3d737caaea0511de12
-    size: 2323356279
+    sha256sum: 58ccd8d83414be69a1118a18796b181fee9e98c1157d790ff9f3ddf1c2ec1df1
+    size: 2444649753
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/langue-des-signes-fr.zip
-    version: '2019-10-25'
+    version: '2020-08-19'
   le-carnaval-tradition-en-guyane-et-ailleurs-fr:
     description: "Le carnaval est un \xE9v\xE8nement majeur de Guyane. Voici des explications\
       \ sur  son histoire et son organisation. Vous trouvez aussi quelques images\
@@ -4902,6 +4922,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/menuiserie-enabel-fr.zip
     version: '2020-08-04'
+  menuiserie-tutoriels-videos-sikana-fr:
+    description: "Dans ce programme vid\xE9o \xE9ducatif, vous d\xE9couvrirez les\
+      \ savoirs de base qu'il est n\xE9cessaire d'acqu\xE9rir pour devenir menuisier."
+    language: fr
+    name: "Menuiserie - Tutoriels Vid\xE9os"
+    sha256sum: aca9f4ed05242e1098a52a3e0318986dc2edd23194e381607ceb85e5a2802e01
+    size: 436864936
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/menuiserie-tutoriels-videos-sikana-fr.zip
+    version: '2020-08-19'
   microbiologie-et-prevention-sante-fr:
     description: "Qu'est-ce qu'un microbe ? Sont-ils tous nocifs pour l'homme ? Vous\
       \ trouverez ici \xE0 la fois des vid\xE9os sur la microbiologie et les avanc\xE9\
@@ -6268,11 +6298,11 @@ all:
       \ fondamentaux de la pr\xE9vention des \xE9pid\xE9mies."
     language: fr
     name: "Sensibilisation \xE0 la gestion des \xE9pid\xE9mies"
-    sha256sum: 2e5150ce6d5c61902cc742e402cb0138e96fd4470111aa534e4774d9350fdc5a
-    size: 391216429
+    sha256sum: bcf404e4ecb4d62ec3a777ba8c534b23aff72d2a536f5f74a2430ff4fc66ce40
+    size: 414502683
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sensibilisation-a-la-gestion-des-epidemies-fr.zip
-    version: '2019-10-25'
+    version: '2020-08-19'
   sewing-embrodery-en:
     description: "Learn to sew by hand and machine\r\nLearn many embrodery pattern"
     language: en
