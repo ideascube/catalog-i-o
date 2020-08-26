@@ -510,13 +510,13 @@ all:
     langid: "wikiversity.ar"
     type: zim
   wikipedia.es:
-    version: "2019-09-16"
-    size: 24313455244
-    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_es_all_maxi_2019-09.zim"
+    version: "2020-08-09"
+    size: 26306769289
+    url: "http://download.kiwix.org/zim/wikipedia/wikipedia_es_all_maxi_2020-08.zim"
     name: Wikipedia
     language: "spa"
     description: "De Wikipedia, la enciclopedia libre"
-    sha256sum: "71a3a023b89f315afa715d7ef832e68a0f653c97316b4f91668bb296780730aa"
+    sha256sum: "fa3dcefe6a1bdaa911d427fcf5231f6931356404c5438bc39935aa516258e669"
     langid: "wikipedia.es"
     type: zim
   gutenberg.es:
