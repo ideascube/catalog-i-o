@@ -516,7 +516,7 @@ all:
     name: Wikipedia
     language: "spa"
     description: "De Wikipedia, la enciclopedia libre"
-    sha256sum: "fa3dcefe6a1bdaa911d427fcf5231f6931356404c5438bc39935aa516258e669"
+    sha256sum: "fa3dcefe6a1bdaa911d427fcf5231f6931356404c5438bc39935aa516258e668"
     langid: "wikipedia.es"
     type: zim
   gutenberg.es:
