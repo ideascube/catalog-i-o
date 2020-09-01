@@ -90,6 +90,60 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agahdarkirin-raise-awareness-kmr.zip
     version: '2020-07-03'
+  agribusiness-et-entreprenariat-en-afrique-reportages-fr:
+    description: Reportages sur les innovations et success stories d'entrepreneurs
+      en Afrique dans le domaine agricole, alimentaire et artisanal.
+    language: fr
+    name: AgriBusiness et Entreprenariat en Afrique (Reportages)
+    sha256sum: 006e86573bfc31ebd1bc4f855a657d8d5c48c1d89fe93a5a21f62753de6551ce
+    size: 3165264670
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agribusiness-et-entreprenariat-en-afrique-reportages-fr.zip
+    version: '2020-09-01'
+  agriculture-cultiver-les-cereales-ble-mais-riz-sorgho-fr:
+    description: "S\xE9ries de vid\xE9os sur la culture des c\xE9r\xE9ales : gestion\
+      \ des ravageurs, am\xE9liorer le rendement et les m\xE9thodes de cultures, la\
+      \ fertilit\xE9 des sols..."
+    language: fr
+    name: "Agriculture - Cultiver les c\xE9r\xE9ales (Bl\xE9, Ma\xEFs, Riz, Sorgho)"
+    sha256sum: a98a94179daf99be71a95eb2d41297c35b50b2704c38653d32bf0f7b6cbff82b
+    size: 1981275141
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-cultiver-les-cereales-ble-mais-riz-sorgho-fr.zip
+    version: '2020-09-01'
+  agriculture-cultiver-les-fruits-et-les-graines-cafe-sesame-fr:
+    description: "S\xE9rie de vid\xE9os sur la culture des fruits, des graines (caf\xE9\
+      , s\xE9same). Gestion des maladies, ravageurs, rendement et plantations jusqu'\xE0\
+      \ la transformation agro-alimentaire."
+    language: fr
+    name: "Agriculture - Cultiver les fruits et les graines (caf\xE9, s\xE9same)"
+    sha256sum: 9d58b0781be5344e90b035dda23a6876e4fd919b179abfb29aaadf5ff264e45d
+    size: 1257374655
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-cultiver-les-fruits-et-les-graines-cafe-sesame-fr.zip
+    version: '2020-09-01'
+  agriculture-cultiver-les-legumes-et-legumineuses-fr:
+    description: "S\xE9rie de vid\xE9os sur la culture des l\xE9gumes et l\xE9gumineuses\
+      \ (Tomate, Oignon, L\xE9gume feuille, Soja, Haricot, Piment, Ni\xE9b\xE9\u2026\
+      ). Des m\xE9thodes de plantation, de protection contre les maladies et ravageurs,\
+      \ pour augmenter le rendement et am\xE9liorer le stockage jusqu'\xE0 la transformation."
+    language: fr
+    name: "Agriculture - Cultiver les l\xE9gumes et l\xE9gumineuses"
+    sha256sum: 7d61a4f3613f6c6425d96102c5821427c3771026193ffa40f0b662e23104f2be
+    size: 2011967674
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-cultiver-les-legumes-et-legumineuses-fr.zip
+    version: '2020-09-01'
+  agriculture-cultiver-les-racines-et-les-tubercules-fr:
+    description: "S\xE9rie de vid\xE9os sur la bonne culture des racines et des tubercules\
+      \ (manioc, pommes de terre), la gestion des ravageurs et la gestion des terres."
+    language: fr
+    name: Agriculture - Cultiver les racines et les tubercules
+    sha256sum: 90b663bad73c159da2bdd949fdf0cd7048bfbaa507a12a35474d0f4c9a782ee7
+    size: 1785221915
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-cultiver-les-racines-et-les-tubercules-fr.zip
+    version: '2020-09-01'
   agriculture-ecology-documentary-in-burmese-mm:
     description: Documentaries about agricultural technics in Myanmar and about ecology
       and how to take care of the environement, mostly in Burmese language
@@ -110,6 +164,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-en-afrique-fr.zip
     version: '2020-03-05'
+  agriculture-engins-agricoles-fr:
+    description: "Vid\xE9os pr\xE9sentant plusieurs types d'engins agricoles et leur\
+      \ utilisation pour l'agriculture."
+    language: fr
+    name: Agriculture - Engins agricoles
+    sha256sum: a050c2131bfdac0ccd3221864429c15600aa97779da9052b0bd466ce3ca086e8
+    size: 156355789
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-engins-agricoles-fr.zip
+    version: '2020-09-01'
   agriculture-gardening-en:
     description: Discover your green fingers and create a living environment that
       lets you live in harmony with nature.
@@ -131,6 +195,58 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-generale-fr.zip
     version: '2020-08-04'
+  agriculture-gestion-des-ravageurs-et-maladies-des-cultures-fr:
+    description: "S\xE9rie de vid\xE9os indiquant comment g\xE9rer, lutter et se prot\xE9\
+      ger des ravageurs et destructeurs de cultures ainsi que diverses maladies des\
+      \ cultures."
+    language: fr
+    name: Agriculture - Gestion des ravageurs et maladies des cultures
+    sha256sum: cbd72ecfad960474067b8158bced4f6d45ce87df6d3763ad56cbaa9121934fed
+    size: 1692375004
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-gestion-des-ravageurs-et-maladies-des-cultures-fr.zip
+    version: '2020-09-01'
+  agriculture-gestion-durable-des-terres-fr:
+    description: "S\xE9rie de vid\xE9os sur la gestion durable des terres agricoles\
+      \ (fertilit\xE9, irrigation, rendement et production)."
+    language: fr
+    name: Agriculture - Gestion durable des terres
+    sha256sum: 7bd09e3a38783ad166679d6e06b658e4349a800b9e740732ae4017463ce77ca6
+    size: 1270397228
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-gestion-durable-des-terres-fr.zip
+    version: '2020-09-01'
+  agriculture-kilimo-la-culture-des-fruits-le-gumes-cereales-e-pices-noix-e-books-sw:
+    description: "S\xE9rie de manuels en kiswahili (Tanzanie) sur les m\xE9thodes\
+      \ de culture des fruits, des l\xE9gumes, des \xE9pices, des noix..."
+    language: sw
+    name: "Agriculture (Kilimo) - La culture des fruits, le\u0301gumes, c\xE9r\xE9\
+      ales, e\u0301pices, noix... (E-Books)"
+    sha256sum: b7c418a7e97fd6e08fe56b429e7ae7fa5eacbe79e6e3cc9bf986629f9357a9a1
+    size: 34935351
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-kilimo-la-culture-des-fruits-le-gumes-cereales-e-pices-noix-e-books-sw.zip
+    version: '2020-09-01'
+  agriculture-ressources-pedagogiques-pour-l-enseignant-rdc-fr:
+    description: "Guides, manuels, programmes, curriculum des fili\xE8res agricoles\
+      \ \xE0 destination de l'enseignant en R\xE9publique D\xE9mocratique du Congo."
+    language: fr
+    name: "Agriculture - Ressources p\xE9dagogiques pour l'enseignant (RDC)"
+    sha256sum: 40cc0fd9f861479d1f9adedb03f2d5b8acf31821e4151b769e00f0223c60279c
+    size: 28683069
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-ressources-pedagogiques-pour-l-enseignant-rdc-fr.zip
+    version: '2020-09-01'
+  agriculture-transformation-agro-alimentaire-fr:
+    description: "Des m\xE9thodes et des conseils sur la transformation agro-alimentaire\
+      \ des r\xE9coltes et des aliments (conservation, transformation)"
+    language: fr
+    name: Agriculture - Transformation agro-alimentaire
+    sha256sum: f3b2a11918c7d8d32315faeb950fccb873133362775f2557d7569772bfd504f1
+    size: 1271877035
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-transformation-agro-alimentaire-fr.zip
+    version: '2020-09-01'
   alcool-drogues-fr:
     description: "Identifier les effets de l'alcool, des drogues et pr\xE9venir les\
       \ risques."
@@ -328,6 +444,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-a-cuisiner-sikana-fr.zip
     version: '2019-09-19'
+  apprendre-a-donner-les-premiers-secours-fr:
+    description: "Un petit kit pour avoir les bons r\xE9flexes de premiers secours\
+      \ et savoir pr\xE9venir les maladies et infections... Pour soi, et pour les\
+      \ autres !"
+    language: fr
+    name: "Apprendre \xE0 donner les premiers secours"
+    sha256sum: 561759d1c46133328d7b0bfd3e8d23fb96965a03c598e986032007280c520dde
+    size: 281110596
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprendre-a-donner-les-premiers-secours-fr.zip
+    version: '2020-09-01'
   apprendre-a-donner-les-premiers-secours-gl-fr:
     description: Apprenez comment apporter les premiers secours en cas d'accidents.
       / Inyigisho zerekeye ubutabazi bwambere
@@ -1118,6 +1245,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/combattons-les-disciminations-enfants-ados-turwanye-ikumira-urwaruka-gl-fr.zip
     version: '2020-01-07'
+  combattons-les-discriminations-adultes-fr:
+    description: "Genre, couleur de peau, handicap, religion... La discrimination\
+      \ trouve tous les pr\xE9textes. D\xE9tectons-les, et combattons-les. (Adultes)"
+    language: fr
+    name: Combattons les discriminations (adultes)
+    sha256sum: c156d8080f75dcbce55d0aad20aca72a1dfbb6f880a00d0ced7173f1f79059cf
+    size: 3341451788
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/combattons-les-discriminations-adultes-fr.zip
+    version: '2020-09-01'
   combattons-les-discriminations-adultes-turwanye-ikumira-abakuze-gl-fr:
     description: "Genre, couleur de peau, handicap, religion... La discrimination\
       \ trouve tous les pr\xE9textes. D\xE9tectons-les, et combattons-les. / Turwanye\
@@ -1129,6 +1266,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/combattons-les-discriminations-adultes-turwanye-ikumira-abakuze-gl-fr.zip
     version: '2020-01-08'
+  combattons-les-discriminations-enfants-ados-fr:
+    description: "On est tous diff\xE9rents, mais tous des \xEAtres humains ! Pour\
+      \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
+      \ \xE0 accepter les diff\xE9rences des qui nous entourent. (Enfants et ados)."
+    language: fr
+    name: Combattons les discriminations (enfants/ados)
+    sha256sum: a5b30f16fbca2eeb342e2b284c90590a0cf630ff100f2220f48b59667a3b63ac
+    size: 729667978
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/combattons-les-discriminations-enfants-ados-fr.zip
+    version: '2020-09-01'
   combattons-les-discriminations-fr:
     description: "Genre, couleur de peau, handicap, religion... La discrimination\
       \ trouve tous les pr\xE9textes. D\xE9tectons-les, et combattons-les. (Adultes)"
@@ -1237,6 +1385,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comprendre-et-exprimer-ses-emotions-gl-fr.zip
     version: '2020-01-07'
+  comprendre-et-exprimer-ses-emotions-paquet-redecoupe-voir-paquets-935-a-937-fr:
+    description: "D\xE9tendez-vous. Respirez. Accueillez vos \xE9motions. Exprimez\
+      \ vos besoins. Vous serez mieux avec vous m\xEAme et avec les autres !"
+    language: fr
+    name: "Comprendre et exprimer ses \xE9motions"
+    sha256sum: 6addde5d300ba9f6f35e738bd266f6f3242c83b640ad4e95444c01c4b1f84028
+    size: 2808890185
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/comprendre-et-exprimer-ses-emotions-paquet-redecoupe-voir-paquets-935-a-937-fr.zip
+    version: '2020-09-01'
   comprendre-l-autisme-fr:
     description: "- Etre en capacit\xE9 de se comporter de mani\xE8re appropri\xE9\
       \ avec une personne autiste"
@@ -1299,6 +1457,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/computer-and-it-ar.zip
     version: '2020-07-03'
+  conferences-autour-du-developpement-durable-et-de-l-ecologie-fr:
+    description: "Conf\xE9rences et r\xE9flexions autour des enjeux du d\xE9veloppement\
+      \ durable, de la permaculture et de l'\xE9cologie autour du monde. Comment assurer\
+      \ le d\xE9veloppement \xE9conomique des activit\xE9s de l'homme tout en respectant\
+      \ la nature ?"
+    language: fr
+    name: "Conf\xE9rences autour du D\xE9veloppement Durable et de l'Ecologie"
+    sha256sum: a92d97e9ea0869ffcc29678f13b9a931850b3c7c0bd94a4e2549b9dffc412c03
+    size: 1387924238
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/conferences-autour-du-developpement-durable-et-de-l-ecologie-fr.zip
+    version: '2020-09-01'
   connaitre-et-aimer-son-corps-fr:
     description: "\xCAtre bien dans son corps, \xE7a participe \xE0 \xEAtre bien dans\
       \ sa t\xEAte. Et vous ? Comment voyez-vous votre corps ?"
@@ -1320,6 +1490,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/connaitre-et-aimer-son-corps-kumenya-no-gukunda-umubiri-wawe-fr.zip
     version: '2020-02-14'
+  connaitre-et-se-proteger-des-maladies-courantes-et-endemiques-fr-fr:
+    description: "En savoir plus sur les maladies humaines et comment s'en prot\xE9\
+      ger (y compris les maladies end\xE9miques les plus pr\xE9sentes en Afrique :\
+      \ malaria, ebola, chol\xE9ra...)."
+    language: fr
+    name: "Conna\xEEtre et se prot\xE9ger des maladies (courantes et end\xE9miques)"
+    sha256sum: 634e0f10293b7f7afff19206e792207e380734fe79cfe333ebe3c00bdeecf21b
+    size: 1297085114
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/connaitre-et-se-proteger-des-maladies-courantes-et-endemiques-fr-fr.zip
+    version: '2020-09-01'
   connaitre-et-se-proteger-des-maladies-gl-fr:
     description: "En savoir plus sur les maladies humaines et comment s'en prot\xE9\
       ger. / Gutahura gusumba ingwara n'ingene bazikingira."
@@ -1330,6 +1511,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/connaitre-et-se-proteger-des-maladies-gl-fr.zip
     version: '2020-04-22'
+  connaitre-et-se-proteger-du-vih-sida-fr:
+    description: "Conna\xEEtre le VIH sida, les risques de contamination, les moyens\
+      \ de pr\xE9vention et de protection."
+    language: fr
+    name: "Conna\xEEtre et se prot\xE9ger du VIH Sida"
+    sha256sum: de8d2450b669b103abce7b2bb1eff3c248eccbb32f5f9ec244a9fdccf420faac
+    size: 912793913
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/connaitre-et-se-proteger-du-vih-sida-fr.zip
+    version: '2020-09-01'
   connaitre-la-france-et-paris-fr:
     description: "Comment fait-on la bise ? Pourquoi repr\xE9sente-t-on les fran\xE7\
       ais avec une baguette de pain ? Ou encore : d'ou viennent les partis politiques\
@@ -1409,6 +1600,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cooking-ar.zip
     version: '2019-11-21'
+  couture-debutant-tutoriels-videos-et-guides-fr:
+    description: "S\xE9ries de tutoriels vid\xE9os et de guides illustr\xE9s pour\
+      \ d\xE9buter en couture, apprendre les gestes techniques de base et commencer\
+      \ \xE0 confectionner des v\xEAtements."
+    language: fr
+    name: "Couture D\xE9butant - Tutoriels vid\xE9os et guides"
+    sha256sum: 0d66734faad256eb740321a5f97b2a876ccd3c7823c0e5fa2ce4b3d561d2b8da
+    size: 2027915993
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/couture-debutant-tutoriels-videos-et-guides-fr.zip
+    version: '2020-09-01'
   couture-fr:
     description: "Quelques trucs et astuces pour coudre, choisir et entretenir sa\
       \ machine. De l'apprentissage des points \xE0 la r\xE9alisation de v\xEAtements\
@@ -1420,6 +1622,28 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/couture-fr.zip
     version: '2020-08-04'
+  couture-wax-tutoriels-video-patron-et-realisation-fr:
+    description: "S\xE9ries de videos tutoriels pour apprendre \xE0 coudre avec du\
+      \ tissu wax (avec ou sans patrons), r\xE9aliser ses patrons, apprendre pleins\
+      \ de coupes diff\xE9rentes et apprendre comment r\xE9aliser des accessoires\
+      \ en wax (sac, sandales, bijoux...)."
+    language: fr
+    name: "Couture Wax - Tutoriels vid\xE9o (Patron et R\xE9alisation)"
+    sha256sum: d7e928ffeac72ac69669de1dc4ed31694ac19a1355accd75b0191d2dfec269de
+    size: 10846094376
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/couture-wax-tutoriels-video-patron-et-realisation-fr.zip
+    version: '2020-09-01'
+  couture-wax-tutoriels-videos-fr:
+    description: "S\xE9ries de tutoriels vid\xE9os sur la couture Wax \xE0 destination\
+      \ de tous les couturiers !"
+    language: fr
+    name: "Couture Wax - Tutoriels vid\xE9os"
+    sha256sum: b5b4f49b7ec04e66ab933a1ea8923249bce23580c0afa21d2bf97eca28818f2f
+    size: 8867972
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/couture-wax-tutoriels-videos-fr.zip
+    version: '2020-09-01'
   covid-19-bangla-bn:
     description: This document in Bangla list frequent questions about the COVID-19
       virus and brings basic answers.
@@ -1577,6 +1801,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cuisine-et-nutrition-enfants-fr.zip
     version: '2019-09-18'
+  cuisine-recettes-congolaises-en-lingala-tutoriels-videos-ln:
+    description: "Plus de 100 recettes de cuisine congolaise r\xE9alis\xE9es en vid\xE9\
+      o par une cuisini\xE8re congolaise et en lingala !"
+    language: ln
+    name: "Cuisine - Recettes Congolaises en lingala (tutoriels vid\xE9os)"
+    sha256sum: 637bb8dd578749cb5fd0e80cf2cf12395f70b7cf726ad64c97d5bec30f2ac3be
+    size: 9924323788
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cuisine-recettes-congolaises-en-lingala-tutoriels-videos-ln.zip
+    version: '2020-09-01'
   cultura-cuentos-y-dibujos-animados-es:
     description: "Escuche. ve y lee cuentos infantiles, dibujos animados y canciones\
       \ para ni\xF1os y ni\xF1as"
@@ -2099,6 +2333,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/documentary-in-rohingya-rhg.zip
     version: '2020-02-17'
+  documents-reflexifs-sur-l-enseignement-et-l-education-en-rdc-fr:
+    description: "Documents r\xE9flexifs sur l'enseignement et l'\xE9ducation en RDC."
+    language: fr
+    name: "Documents r\xE9flexifs sur l'enseignement et l'\xE9ducation en RDC"
+    sha256sum: a3990082fdcfd60eb5403ea737a98e62d09aac12ceffe3afc583561a027bb40f
+    size: 9703899
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/documents-reflexifs-sur-l-enseignement-et-l-education-en-rdc-fr.zip
+    version: '2020-09-01'
   dpc-awareness-and-protection-ar:
     description: "A variety of protection and awareness videos on different topics.\r\
       \n\r\nTeenagers and Adults"
@@ -2201,6 +2444,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ebooks-ghana-en.zip
     version: '2020-01-17'
+  eco-d-ici-eco-d-ailleurs-emission-d-economie-en-afrique-rfi-fr:
+    description: "\xC9mission RFI : \"Eco d'ici \xE9co d'ailleurs\". Les actualit\xE9\
+      s et informations portant sur l'\xE9conomie en Afrique."
+    language: fr
+    name: "Eco d'ici \xE9co d'ailleurs - Emission d'\xE9conomie en Afrique (RFI)"
+    sha256sum: c143b9940da2dea4a78b07f431590b2b6df4af2c70c02763f286df577eecff05
+    size: 242932493
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/eco-d-ici-eco-d-ailleurs-emission-d-economie-en-afrique-rfi-fr.zip
+    version: '2020-09-01'
   eco-d-ici-eco-d-ailleurs-rfi-fr:
     description: "\xC9mission RFI : \"Eco d'ici \xE9co d'ailleurs\""
     language: fr
@@ -2210,6 +2463,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/eco-d-ici-eco-d-ailleurs-rfi-fr.zip
     version: '2020-08-04'
+  ecologie-et-developpement-durable-fr:
+    description: "Des ressources traitant du lien entre l'\xE9cologie et le d\xE9\
+      veloppement durable."
+    language: fr
+    name: "Ecologie et d\xE9veloppement durable"
+    sha256sum: b7da44f23435a611b35b84c2fe82433075770f44225b560d6ea916a3383f2fe2
+    size: 801583779
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ecologie-et-developpement-durable-fr.zip
+    version: '2020-09-01'
   ecologie-fr:
     description: "Paquet \xE0 trier"
     language: fr
@@ -2254,11 +2517,11 @@ all:
       \ ?"
     language: fr
     name: "Economie et d\xE9veloppement durable"
-    sha256sum: 7c41bce13d126feb6352b020943e956319927a1c0ed0b926df520a317ed725d1
-    size: 127614613
+    sha256sum: 31165318e793e5d5b38d7deb4f263821240089c566e0f3335e26b9bf3196a12d
+    size: 190185192
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/economie-et-developpement-durable-fr.zip
-    version: '2020-03-09'
+    version: '2020-09-01'
   economie-et-mondialisation-fr:
     description: "Cette collection comprend des vid\xE9os, des MOOC et des articles\
       \ de recherche sur les enjeux modernes de la macro\xE9conomie. Le MOOC sur la\
@@ -2378,6 +2641,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/educacion-universo-es.zip
     version: '2019-09-16'
+  education-financiere-fr:
+    description: "Documentation sur les bases de la finance. Ici on va notamment parler\
+      \ de gestion budg\xE9taire, de la banque et ses produits..."
+    language: fr
+    name: "Education financi\xE8re"
+    sha256sum: 40572531ba0e0893002152a9c2046699e18bd185ca9cf61a6715ffc19bb28f86
+    size: 342917054
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/education-financiere-fr.zip
+    version: '2020-09-01'
   educational-videos-arabic-ar:
     description: "These videos teach fundamental skills to children in a fun way.\
       \ Follow Adam and his dog Mimish in their adventures and learn about science\
@@ -2407,6 +2680,38 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/electricite-sikana-fr.zip
     version: '2019-10-25'
+  elevage-elever-des-animaux-vaches-chevres-poulets-porcs-lapins-fr:
+    description: "S\xE9ries de vid\xE9os conseils sur l'\xE9levage des animaux \xE0\
+      \ destination de tous les \xE9leveurs ou futurs \xE9leveurs (de vaches, ch\xE8\
+      vres, poulets, porcs, lapins...)"
+    language: fr
+    name: "Elevage - Elever des animaux (vaches, ch\xE8vres, poulets, porcs, lapins\u2026\
+      )"
+    sha256sum: fceaf0bfb410278f63edd1735a77ce52917c93038a14f42404f34acceb783522
+    size: 4190750900
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/elevage-elever-des-animaux-vaches-chevres-poulets-porcs-lapins-fr.zip
+    version: '2020-09-01'
+  elevage-sante-animale-fr:
+    description: "S\xE9ries de vid\xE9os sur les maladies et la sant\xE9 des animaux\
+      \ pour prendre soin de son \xE9levage."
+    language: fr
+    name: "Elevage - Sant\xE9 animale"
+    sha256sum: 4120d18ec6a53445a0cc0af33e94e8558423369a100b319aa28efeddb051dd96
+    size: 923922738
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/elevage-sante-animale-fr.zip
+    version: '2020-09-01'
+  elevage-ufugaji-manuels-d-e-levage-des-animaux-sw:
+    description: "S\xE9ries de manuels en kiswahili (Tanzanie) sur l'\xE9levage des\
+      \ animaux (bovins, porcins, volailles, ovins...)"
+    language: sw
+    name: "Elevage (Ufugaji) - Manuels d'e\u0301levage des animaux"
+    sha256sum: e32d58b7a2ab852627656eb4fbac3887d3708bc30605880927611681e3cd3fb4
+    size: 52862987
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/elevage-ufugaji-manuels-d-e-levage-des-animaux-sw.zip
+    version: '2020-09-01'
   emission-agashi-igikino-agashi-rn:
     description: Saison 3 de L'emisssion radio Agashi.
     language: rn
@@ -2512,6 +2817,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/entertainment-theater-mime-en.zip
     version: '2019-11-14'
+  entrepreneuriat-numerique-mooc-fr:
+    description: "S\xE9rie de vid\xE9os MOOC expliquant les notions fondamentales\
+      \ pour comprendre les nouveaux m\xE9canismes de l\u2019innovation et de l\u2019\
+      entrepreneuriat dans ce monde num\xE9rique. Chaque notion est expliqu\xE9e par\
+      \ une vid\xE9o p\xE9dagogique illustr\xE9e et facilement compr\xE9hensible par\
+      \ tous."
+    language: fr
+    name: "Entrepreneuriat num\xE9rique (MOOC)"
+    sha256sum: 0af71544698f0a57515fdda5e97e68416b42ff4095938c77e3e551106a4ddbe6
+    size: 101299400
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/entrepreneuriat-numerique-mooc-fr.zip
+    version: '2020-09-01'
   entrepreneurship-business-management-ar:
     description: "This package focuses on tips and developing a creative state of\
       \ mind for managing your business./ \u0645\u0639\u0644\u0648\u0645\u0627\u062A\
@@ -2545,11 +2863,11 @@ all:
       \ violences) aux plus incroyables (r\xE9volution des femmes saoudiennes)"
     language: fr
     name: "Exp\xE9riences de femmes"
-    sha256sum: cd601f1c8e6163686acb8127c401d02f1171a7148df4ee500eafd8d375135fda
-    size: 714122254
+    sha256sum: eabeeb5f0fd65da9a3056452a260900c05ca2e3d441d050e96fcc9122db29f14
+    size: 889736641
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/experiences-de-femmes-fr.zip
-    version: '2019-09-18'
+    version: '2020-09-01'
   exploration-burmese-mm:
     description: '-'
     language: mm
@@ -2800,6 +3118,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fitness-for-kids-ar.zip
     version: '2019-11-21'
+  focus-covid-l-essentiel-des-connaissances-fr:
+    description: "Voici l'essentiel des connaissances, ce qu'il faut savoir pour comprendre\
+      \ la Covid-19 et pour agir en cons\xE9quence."
+    language: fr
+    name: Focus Covid - L'essentiel des connaissances
+    sha256sum: b31bc46557ef4a90d040ccbed1ce6c643ea76523539cf6332df1d4eb4480478e
+    size: 15363320
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/focus-covid-l-essentiel-des-connaissances-fr.zip
+    version: '2020-09-01'
   food-security-en:
     description: "\"Food security exists when all people at all times have physical\
       \ and economic access to adequate amounts of nutritious, safe, and culturally\
@@ -3074,6 +3402,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/grossesse-a-l-adolescence-fr.zip
     version: '2019-10-10'
+  guides-de-formation-d-animateurs-communautaires-afrique-fr:
+    description: "Deux Guides de formation (\xE9dit\xE9s par Unicef et IRC) \xE0 destination\
+      \ des jeunes animateurs communautaires pour le d\xE9veloppement des comp\xE9\
+      tences de vie courante et l'autonomisation de jeunes faisant parti de leur communaut\xE9\
+      ."
+    language: fr
+    name: Guides de formation d'animateurs communautaires
+    sha256sum: bac9f505a75cb61e60919d4a00fb854cd193daa4ecf558e2794951110f67febf
+    size: 86994697
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/guides-de-formation-d-animateurs-communautaires-afrique-fr.zip
+    version: '2020-09-01'
   guides-en-ssraj-pour-les-leaders-religieux-rn:
     description: Guides en SSRAJ pour les leaders religieux
     language: rn
@@ -3368,6 +3708,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-epoque-moderne-fr.zip
     version: '2020-08-04'
+  histoire-generale-de-l-afrique-par-rfi-et-l-unesco-fr:
+    description: "Pour donner une conscience homog\xE8ne aux jeunes du continent africain,\
+      \ le professeur Elikia M'Bokolo, RFI et l'UNESCO vous proposent une s\xE9rie\
+      \ de 32 vid\xE9os consacr\xE9es \xE0 \"L'Histoire g\xE9n\xE9rale de l'Afrique\""
+    language: fr
+    name: "Histoire g\xE9n\xE9rale de l'Afrique"
+    sha256sum: 039145a1f24fdd316a415c0295ce4be1d864b3af18f6077a54037fae8f5eaf7a
+    size: 464148959
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-generale-de-l-afrique-par-rfi-et-l-unesco-fr.zip
+    version: '2020-09-01'
   histoire-gl-fr:
     description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
       \ les \xE9v\xE8nements du pr\xE9sent. / Kahise ka Afrika."
@@ -3512,6 +3863,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/hygiene-af-fr.zip
     version: '2019-12-09'
+  hygiene-de-base-af-fr:
+    description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
+      ne et \xE9viter les maladies !"
+    language: fr
+    name: "Hygi\xE8ne de base"
+    sha256sum: c78866ae51af9e913c3223291cc6981985fc8986c21118e2b3f9e5030208b480
+    size: 332559585
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/hygiene-de-base-af-fr.zip
+    version: '2020-09-01'
   hygiene-de-base-fr:
     description: "Pour r\xE9fl\xE9chir \xE0 ses r\xE9flexes de base en terme d'hygi\xE8\
       ne et \xE9viter les maladies !"
@@ -3615,6 +3976,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/information-mayotte-repema-askip-fr.zip
     version: '2020-01-14'
+  informatique-debuter-avec-libre-office-fr:
+    description: "Tutoriels vid\xE9os pour apprendre \xE0 utiliser le logiciel de\
+      \ bureautique gratuit et libre Open Office (\xE9quivalent \xE0 Microsoft Office)."
+    language: fr
+    name: "Informatique - D\xE9buter avec Libre Office"
+    sha256sum: f5ba178d9d750af0320dd940aee2d9198a5afb82fbc14b2ae47e12ed91a53ff6
+    size: 5259312
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/informatique-debuter-avec-libre-office-fr.zip
+    version: '2020-09-01'
   informatique-enabel-fr:
     description: '-'
     language: fr
@@ -3624,6 +3995,120 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/informatique-enabel-fr.zip
     version: '2019-12-09'
+  informatique-excel-cours-niveau-1-basique-fr:
+    description: "Tutoriels vid\xE9os pour apprendre \xE0 utiliser le logiciel Excel.\
+      \ Niveau 1 Basique (avec exercices pratiques)."
+    language: fr
+    name: Informatique - Excel - Cours niveau 1 Basique
+    sha256sum: b344622b862fedd833ce5c44aa300e44bc4d20beb0ef8fe58c34f4cbe42c0539
+    size: 228627352
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/informatique-excel-cours-niveau-1-basique-fr.zip
+    version: '2020-09-01'
+  informatique-excel-cours-niveau-2-operationnel-fr:
+    description: "Tutoriels vid\xE9os pour apprendre \xE0 utiliser le logiciel Excel.\
+      \ Niveau 2 Op\xE9rationnel (avec exercices pratiques)."
+    language: fr
+    name: "Informatique - Excel - Cours niveau 2 Op\xE9rationnel"
+    sha256sum: b0ef7cc410dbd62cd7684083db74c1a51088a5103a35baccc6212fb8ef7a70c1
+    size: 423913415
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/informatique-excel-cours-niveau-2-operationnel-fr.zip
+    version: '2020-09-01'
+  informatique-excel-cours-niveau-3-avance-fr:
+    description: "Tutoriels vid\xE9os pour apprendre \xE0 utiliser le logiciel Excel.\
+      \ Niveau 3 Avanc\xE9 (avec exercices pratiques)."
+    language: fr
+    name: "Informatique - Excel - Cours niveau 3 Avanc\xE9"
+    sha256sum: 5b8c620347ab219a76bf1c15a200d6fdc3ac515fd6eb0715acf7c8cf932a2ddd
+    size: 871964886
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/informatique-excel-cours-niveau-3-avance-fr.zip
+    version: '2020-09-01'
+  informatique-excel-cours-niveau-4-expert-fr:
+    description: "Tutoriels vid\xE9os pour apprendre \xE0 utiliser le logiciel Excel.\
+      \ Niveau 4 Expert (avec exercices pratiques)."
+    language: fr
+    name: Informatique - Excel - Cours niveau 4 Expert
+    sha256sum: 81e08b4cf5b2b8a7f8dc1fa1ee9dcb11d956b9fa29362429367ab899db71e63f
+    size: 323339020
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/informatique-excel-cours-niveau-4-expert-fr.zip
+    version: '2020-09-01'
+  informatique-les-bases-pour-commencer-fr:
+    description: "S\xE9ries de vid\xE9os pr\xE9sentant les premi\xE8res choses \xE0\
+      \ savoir pour bien comprendre et prendre en main un ordinateur, ses logiciels\
+      \ et tout autre appareil num\xE9rique. Venez d\xE9couvrir le monde de l'informatique,\
+      \ du num\xE9rique et du digital."
+    language: fr
+    name: Informatique - Les bases pour commencer
+    sha256sum: 2f574994cce863064b4263f5d7232f035d1ff9336b4356d46ba059cf529355f2
+    size: 1842049758
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/informatique-les-bases-pour-commencer-fr.zip
+    version: '2020-09-01'
+  informatique-power-point-cours-niveau-basique-operationnel-et-avance-fr:
+    description: "Tutoriels vid\xE9os pour d\xE9buter et apprendre \xE0 utiliser Microsoft\
+      \ Power Point pour faire des pr\xE9sentations (avec exercices pratiques)."
+    language: fr
+    name: "Informatique - Power Point - Cours niveau Basique, Op\xE9rationnel et Avanc\xE9"
+    sha256sum: 885b910d41e32007f6fa7a86f51bfb8dc067cb3e7deed43138bfebc5012cbd56
+    size: 500061644
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/informatique-power-point-cours-niveau-basique-operationnel-et-avance-fr.zip
+    version: '2020-09-01'
+  informatique-tutoriels-pour-utiliser-des-logiciels-fr:
+    description: "Tutoriels pour utiliser des logiciels et des applications\r\n- \xEA\
+      tre en capacit\xE9 de prendre en mains les logiciels propos\xE9s sur les ordinateurs\
+      \ (Blender, Inkscape, Gimp, Audacity, Krita, Raspberry Pi)\r\n- \xEAtre en capacit\xE9\
+      \ de prendre en mains les applications propos\xE9es sur les tablettes"
+    language: fr
+    name: Informatique - Tutoriels pour utiliser des logiciels
+    sha256sum: 5189c5f397a6471f3fb188027b44474e80039470718a3068edef0075f8e3e173
+    size: 1384099144
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/informatique-tutoriels-pour-utiliser-des-logiciels-fr.zip
+    version: '2020-09-01'
+  informatique-word-cours-niveau-1-basique-fr:
+    description: "Tutoriels vid\xE9os pour apprendre \xE0 utiliser le logiciel Word.\
+      \ Niveau 1 Basique (avec exercices pratiques)."
+    language: fr
+    name: Informatique - Word - Cours niveau 1 Basique
+    sha256sum: 1e5a02405cb5593e03a648e7d6e718b8f3634d8b937e584bc1f4eaf273ace224
+    size: 191424756
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/informatique-word-cours-niveau-1-basique-fr.zip
+    version: '2020-09-01'
+  informatique-word-cours-niveau-2-operationnel-fr:
+    description: "Tutoriels vid\xE9os pour apprendre \xE0 utiliser le logiciel Word.\
+      \ Niveau 2 Op\xE9rationnel (avec exercices pratiques)."
+    language: fr
+    name: "Informatique - Word - Cours niveau 2 Op\xE9rationnel"
+    sha256sum: b3de331b5302bf2cdfb09808b38284d35ef7ab9c3e07910ba332a42c01f346da
+    size: 182016888
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/informatique-word-cours-niveau-2-operationnel-fr.zip
+    version: '2020-09-01'
+  informatique-word-cours-niveau-3-avance-fr:
+    description: "Tutoriels vid\xE9os pour apprendre \xE0 utiliser le logiciel Word.\
+      \ Niveau 3 Avanc\xE9 (avec exercices pratiques)."
+    language: fr
+    name: "Informatique - Word - Cours niveau 3 Avanc\xE9"
+    sha256sum: 8560b5d2b17bed88495d2d14307db7334701f89e032184e09681e3efe0d9396a
+    size: 287434120
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/informatique-word-cours-niveau-3-avance-fr.zip
+    version: '2020-09-01'
+  informatique-word-cours-niveau-4-expert-fr:
+    description: "Tutoriels vid\xE9os pour apprendre \xE0 utiliser le logiciel Word.\
+      \ Niveau 4 Expert (avec exercices pratiques)."
+    language: fr
+    name: Informatique - Word - Cours niveau 4 Expert
+    sha256sum: f7ccab0fdae3260666d3b56d8d8226f6288061aeb769533c28c4f8d6b5691ef0
+    size: 101594755
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/informatique-word-cours-niveau-4-expert-fr.zip
+    version: '2020-09-01'
   initiez-vous-a-la-creation-video-fr:
     description: "Initiez vous aux r\xE9flexions sur le cin\xE9ma et l'image, et lancez\
       \ vous dans vos premi\xE8res cr\xE9ations vid\xE9os !"
@@ -3704,6 +4189,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/internet-les-autres-et-moi-les-bons-usages-fr.zip
     version: '2020-02-11'
+  introduction-a-l-art-fr:
+    description: "Ici on parle d'art : le mus\xE9e du Louvre et certaines de ces oeuvres,\
+      \ street art, de peintures c\xE9l\xE8bres..."
+    language: fr
+    name: "Introduction \xE0 l'art"
+    sha256sum: 09129fcd945046673bb98a2e9df8e93780859659abe61171ddced9f4d567c900
+    size: 2661379289
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/introduction-a-l-art-fr.zip
+    version: '2020-09-01'
   introduction-a-l-electricite-sikana-fr:
     description: "Avec nos vid\xE9os \xE9ducatives du programme \xAB \xC9lectricit\xE9\
       \ pour tous \xBB, d\xE9couvrez les bases de l\u2019\xE9lectricit\xE9, quelles\
@@ -3958,6 +4453,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/jardinage-et-agriculture-fr.zip
     version: '2019-10-25'
+  jifunze-kiswahili-teach-yourself-kiswahili-e-books-sw:
+    description: Improve your english and kiswahili skills.
+    language: sw
+    name: Jifunze Kiswahili - Teach yourself Kiswahili (E-books)
+    sha256sum: 340bc5d7e6445edef5484f5839bbbc44c51efce3314e6347767ab7d36b1324e2
+    size: 1892457
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/jifunze-kiswahili-teach-yourself-kiswahili-e-books-sw.zip
+    version: '2020-09-01'
   journalism-ar:
     description: "Learn about journalism and freedom of speech./ \u062A\u0639\u0644\
       \u0645 \u0639\u0646 \u0627\u0644\u0635\u062D\u0627\u0641\u0629 \u0648\u062D\u0631\
@@ -4000,6 +4504,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/kit-de-l-animateur-libre-de-droit-fr.zip
     version: '2019-09-16'
+  kitabu-watoto-children-s-books-sw:
+    description: Kitabu Watoto (Children's books). Pictures books for childrens in
+      Kiswahili, to read or to be read.
+    language: sw
+    name: Kitabu Watoto (Children's books)
+    sha256sum: c57cb93447910f601a3e44cfd955c0ce0fbea70c40a65e102ae21853d1aa9eb7
+    size: 45672948
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/kitabu-watoto-children-s-books-sw.zip
+    version: '2020-09-01'
   knowing-his-body-en:
     description: 'Learning about the human body : muscles, bad breath...'
     language: en
@@ -4032,6 +4546,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/kurdish-dramas-tv-shows-ckb.zip
     version: '2019-11-21'
+  l-afrique-en-marche-emission-d-actualites-rfi-fr:
+    description: "Emission RFI : l'Afrique en Marche. Les actualit\xE9s qui ont impact\xE9\
+      \ le continent africain."
+    language: fr
+    name: "L'Afrique en Marche - Emission d'actualit\xE9s (RFI)"
+    sha256sum: 3ba00a87a99892218847422f934bdf98320584c03a5efc10af0a4cfe977b5d87
+    size: 64714993
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/l-afrique-en-marche-emission-d-actualites-rfi-fr.zip
+    version: '2020-09-01'
   l-afrique-en-marche-rfi-fr:
     description: 'Emission RFI : l''Afrique en Marche'
     language: fr
@@ -4277,6 +4801,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/le-dialogue-entre-parents-et-enfants-sur-la-ssr-ikiyago-hagati-yabavyeyi-n-urwaruka-gl-rn.zip
     version: '2020-04-06'
+  le-harcelement-enfants-ados-fr:
+    description: "Des contenus autour des questions de harc\xE8lement pour l'identifier\
+      \ et apprendre \xE0 se d\xE9fendre..."
+    language: fr
+    name: "Le harc\xE8lement (enfants/ados)"
+    sha256sum: c370fd6846bcd877aacedec00855c86cf7dca7ffe99b9f0e4362e0958753f966
+    size: 933272163
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/le-harcelement-enfants-ados-fr.zip
+    version: '2020-09-01'
   le-harcelement-ihohoterwa-gl-fr:
     description: "Des contenus autour des questions de harc\xE8lement pour l'identifier\
       \ et apprendre \xE0 se d\xE9fendre.../ Inyigisho ku bijanye nihohoterwa, kumenya\
@@ -4372,11 +4906,11 @@ all:
       package is for you!
     language: en
     name: Learn english!
-    sha256sum: e68eaeec0c344ea2be50cb73c6aebbcd94affda8a5c6019c4c9fff3225d4eb97
-    size: 425544883
+    sha256sum: 51320872220da25e13ff39d24cbd48b7047ae100747e236e58673bdcb721476f
+    size: 709921515
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-adults-en.zip
-    version: '2019-09-16'
+    version: '2020-09-01'
   learn-english-children-bn:
     description: With songs and cartoons, learn the english alphabet, the name of
       the colour, the animal and the fruits!
@@ -4397,6 +4931,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-children-en.zip
     version: '2020-07-13'
+  learn-english-primary-school-e-books-en:
+    description: Books and exercices books to teach and learn english at Primary School
+    language: en
+    name: Learn English (Primary School) - E-Books
+    sha256sum: eb487a877fc9c759bfce5309e09ed1d948c5fa71940fd551303d4454cbc26796
+    size: 20864564
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learn-english-primary-school-e-books-en.zip
+    version: '2020-09-01'
   learn-english-teenagers-en:
     description: Learn basics in english language to communicate with others! For
       teens.
@@ -4518,6 +5061,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learning-to-read-and-write-level-2-en.zip
     version: '2019-09-16'
+  lecons-de-conduite-automobile-tutoriels-videos-fr:
+    description: "S\xE9rie de 37 tutoriels vid\xE9os pour apprendre \xE0 conduire\
+      \ une voiture (r\xE9alis\xE9s par un moniteur d'auto-\xE9cole)."
+    language: fr
+    name: "Le\xE7ons de conduite automobile (Tutoriels vid\xE9os)"
+    sha256sum: b654937ae69a0b678b78341c2262ccff3ba47c9d2df6aa6d50241f9a5891ef76
+    size: 4870797456
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/lecons-de-conduite-automobile-tutoriels-videos-fr.zip
+    version: '2020-09-01'
   les-animaux-de-la-guyane-fr:
     description: "Informations sur des animaux embl\xE9matiques du milieu naturel\
       \ de la Guyane"
@@ -4549,6 +5102,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-bases-de-l-informatique-gl-fr.zip
     version: '2019-12-19'
+  les-chroniques-ecologiques-du-professeur-feuillage-fr:
+    description: "Chroniques vid\xE9os humoristiques et d\xE9cal\xE9es sur l'\xE9\
+      cologie et l'environnement pr\xE9sent\xE9 par le Professeur Feuillage et son\
+      \ assistante."
+    language: fr
+    name: "Les chroniques \xE9cologiques du Professeur Feuillage"
+    sha256sum: a833956ba829b3b10b98ba88625e28d00701d6cade37845994b17ecb2b6e0526
+    size: 2354188923
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/les-chroniques-ecologiques-du-professeur-feuillage-fr.zip
+    version: '2020-09-01'
   les-dangers-de-la-consommation-d-alcool-et-de-stupe-fiants-gl-rn:
     description: Soyons au courant et luttons contre les dangers de la consommation
       d'alcool et de drogues.
@@ -4559,6 +5123,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-dangers-de-la-consommation-d-alcool-et-de-stupe-fiants-gl-rn.zip
     version: '2020-08-04'
+  les-effets-et-les-dangers-de-la-consommation-d-alcool-et-de-drogues-fr:
+    description: "Identifier les effets de l'alcool, des drogues et pr\xE9venir les\
+      \ risques."
+    language: fr
+    name: Les effets et les dangers de la consommation d'alcool et de drogues
+    sha256sum: fb840f143b96b7273e2fa2563bbcfdc05569cee9c07d1131473bf06e010de20f
+    size: 652510451
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/les-effets-et-les-dangers-de-la-consommation-d-alcool-et-de-drogues-fr.zip
+    version: '2020-09-01'
   les-enfants-apprennent-le-francais-fr:
     description: "Quelques bases pour progresser en fran\xE7ais."
     language: fr
@@ -4589,6 +5163,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-filles-et-les-garcons-quelles-differences-gl-fr.zip
     version: '2020-02-14'
+  les-moyens-de-contraception-pour-moi-pour-nous-fr:
+    description: "La contraception, qu'est-ce que c'est ? Quels sont les diff\xE9\
+      rents moyens de protection et de contraception pour filles et gar\xE7ons ?"
+    language: fr
+    name: Les moyens de contraception, pour moi, pour nous
+    sha256sum: e3e636a90afbf35e41629a4865d3c32bec65c0855c92e3ffcf24c1bc313ce44d
+    size: 71321388
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/les-moyens-de-contraception-pour-moi-pour-nous-fr.zip
+    version: '2020-09-01'
   les-violences-base-es-sur-le-genre-pre-vention-et-prise-en-charge-amabi-afatiye-kugitsina-rn:
     description: Amabi afatiye kugitsina. Kubaka kunguvu kandi hataragera.
     language: rn
@@ -4882,6 +5466,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/maths-english-en.zip
     version: '2019-11-14'
+  mecanique-automobile-documentation-fr:
+    description: "Documentation pour se former en m\xE9canique automobile. Des documents\
+      \ d\xE9crivant comment d\xE9monter et monter le boitier de direction, le sch\xE9\
+      ma du fonctionnement d'une automobile"
+    language: fr
+    name: "M\xE9canique automobile - Documentation"
+    sha256sum: 256516d2c17db20d470aa0933ca674917fbb418f41c7eb81cd5f878d6d84e5eb
+    size: 83393247
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mecanique-automobile-documentation-fr.zip
+    version: '2020-09-01'
   mecanique-automobile-enabel-fr:
     description: "Documentation pour se former en m\xE9canique automobile. Des documents\
       \ d\xE9crivant comment d\xE9monter et monter le boitier de direction, le sch\xE9\
@@ -4893,6 +5488,26 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mecanique-automobile-enabel-fr.zip
     version: '2020-08-04'
+  mecanique-automobile-tutoriels-videos-fr:
+    description: "Apprenez les principes de la m\xE9canique automobile et les gestes\
+      \ techniques pour entretenir une voiture."
+    language: fr
+    name: "M\xE9canique Automobile - Tutoriels vid\xE9os"
+    sha256sum: 59fa8eb0ac245c3765bb7ef61ff9695ac641d82ea7eb31764920f2ed8dcec0dc
+    size: 10983317425
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mecanique-automobile-tutoriels-videos-fr.zip
+    version: '2020-09-01'
+  memoire-d-un-continent-emission-sur-le-patrimoine-africain-rfi-fr:
+    description: "\xC9mission RFI : \"M\xE9moire d'un continent\". \xC9mission d'information\
+      \ sur les sujets touchant au patrimoine du continent africain."
+    language: fr
+    name: "M\xE9moire d'un continent - Emission sur le patrimoine africain (RFI)"
+    sha256sum: 14b00ecc086764c383ad0d59c56e27646cafb6fc1fdbb57cea6aae19a62b6bb2
+    size: 299701344
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/memoire-d-un-continent-emission-sur-le-patrimoine-africain-rfi-fr.zip
+    version: '2020-09-01'
   memoire-d-un-continent-rfi-fr:
     description: "\xC9mission RFI : \"M\xE9moire d'un continent\""
     language: fr
@@ -4973,21 +5588,91 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/modelisation-intelligence-artificielle-fr.zip
     version: '2020-03-09'
+  modules-video-formation-continue-des-enseignants-du-primaire-1ere-annee-fr:
+    description: "S\xE9ries de vid\xE9os sur la pratique et les m\xE9thodes p\xE9\
+      dagogiques utilis\xE9es en classe par les enseignants en R\xE9publique D\xE9\
+      mocratique du Congo."
+    language: fr
+    name: "Modules video - Formation continue des enseignants du primaire (1\xE8re\
+      \ ann\xE9e)"
+    sha256sum: 77c94d83c326859c05aff4c559961b9712da70faadaf4d83a9cf9c21a784a7b4
+    size: 1516987584
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/modules-video-formation-continue-des-enseignants-du-primaire-1ere-annee-fr.zip
+    version: '2020-09-01'
+  modules-video-formation-continue-des-enseignants-du-primaire-2eme-annee-fr:
+    description: "S\xE9ries de vid\xE9os sur la pratique et les m\xE9thodes p\xE9\
+      dagogiques utilis\xE9es en classe par les enseignants en R\xE9publique D\xE9\
+      mocratique du Congo."
+    language: fr
+    name: "Modules video - Formation continue des enseignants du primaire (2\xE8me\
+      \ ann\xE9e)"
+    sha256sum: 8dec3667b5b4259cb9d51e9b6f58ba96ac799991f3890feacf8c813025903d7c
+    size: 5287377802
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/modules-video-formation-continue-des-enseignants-du-primaire-2eme-annee-fr.zip
+    version: '2020-09-01'
+  modules-video-formation-continue-des-enseignants-du-primaire-3eme-annee-fr:
+    description: "S\xE9ries de vid\xE9os sur la pratique et les m\xE9thodes p\xE9\
+      dagogiques utilis\xE9es en classe par les enseignants en R\xE9publique D\xE9\
+      mocratique du Congo."
+    language: fr
+    name: "Modules video - Formation continue des enseignants du primaire (3\xE8me\
+      \ ann\xE9e)"
+    sha256sum: c6daba50df5cee54a5111e6e14fcd4c90446a686fa6871545deb90a2b36fbf24
+    size: 5705055251
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/modules-video-formation-continue-des-enseignants-du-primaire-3eme-annee-fr.zip
+    version: '2020-09-01'
+  modules-video-formation-continue-des-enseignants-du-primaire-4eme-annee-fr:
+    description: "S\xE9ries de vid\xE9os sur la pratique et les m\xE9thodes p\xE9\
+      dagogiques utilis\xE9es en classe par les enseignants en R\xE9publique D\xE9\
+      mocratique du Congo."
+    language: fr
+    name: "Modules video - Formation continue des enseignants du primaire (4\xE8me\
+      \ ann\xE9e)"
+    sha256sum: 95c0a5af6e102185d55057e377a5841d48b25ae638510a9bb3b65c09cf2e6d4d
+    size: 3277828808
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/modules-video-formation-continue-des-enseignants-du-primaire-4eme-annee-fr.zip
+    version: '2020-09-01'
+  modules-video-formation-continue-des-enseignants-du-primaire-5eme-annee-fr:
+    description: "S\xE9ries de vid\xE9os sur la pratique et les m\xE9thodes p\xE9\
+      dagogiques utilis\xE9es en classe par les enseignants en R\xE9publique D\xE9\
+      mocratique du Congo."
+    language: fr
+    name: "Modules video - Formation continue des enseignants du primaire (5\xE8me\
+      \ ann\xE9e)"
+    sha256sum: 423c0bd99405fd6f33b91accdb9478a47405e562ba66f3a84ecee516e2de27c6
+    size: 4354515534
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/modules-video-formation-continue-des-enseignants-du-primaire-5eme-annee-fr.zip
+    version: '2020-09-01'
+  modules-video-formation-continue-des-enseignants-du-primaire-6eme-annee-fr:
+    description: "S\xE9ries de vid\xE9os sur la pratique et les m\xE9thodes p\xE9\
+      dagogiques utilis\xE9es en classe par les enseignants en R\xE9publique D\xE9\
+      mocratique du Congo."
+    language: fr
+    name: "Modules video - Formation continue des enseignants du primaire (6\xE8me\
+      \ ann\xE9e)"
+    sha256sum: aae1866260ebed4d739ef4283c3e0be738a065b0cbe4ad2f7f318b4a0dd0e592
+    size: 2575765173
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/modules-video-formation-continue-des-enseignants-du-primaire-6eme-annee-fr.zip
+    version: '2020-09-01'
   monter-un-laboratoire-d-innovation-publique-fr:
-    description: "L\u2019action publique se r\xE9invente. Pour sortir des m\xE9thodes\
-      \ classiques et des conceptions \xAB top down \xBB, de nouvelles approches se\
-      \ d\xE9veloppent. Regroup\xE9es sous le vocable \xAB innovation publique \xBB\
-      , ces approches placent la cr\xE9ativit\xE9 et la prise en compte de l\u2019\
-      usager au c\u0153ur de leurs logiques d\u2019action. Elles invitent \xE0 repenser\
+    description: "Regroup\xE9es sous le vocable \xAB innovation publique \xBB, ces\
+      \ approches placent la cr\xE9ativit\xE9 et la prise en compte de l\u2019usager\
+      \ au c\u0153ur de leurs logiques d\u2019action. Elles invitent \xE0 repenser\
       \ le rapport des administrations au terrain et la conception des politiques\
       \ publiques."
     language: fr
     name: Monter un laboratoire d'innovation publique
-    sha256sum: c042e18d9615d5fb6b52e8221f03ec34a935c232df4bce9a62170e6bb3ad1a03
-    size: 226208064
+    sha256sum: fe24d1fa70f2e21a73d5c6c4384006af2649a7c253c6e86e4aa707c91ea19e20
+    size: 226214782
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/monter-un-laboratoire-d-innovation-publique-fr.zip
-    version: '2019-09-18'
+    version: '2020-09-01'
   montez-votre-projet-professionnel-fr:
     description: "Vous cherchez un emploi ou vous souhaitez vous reconvertir ? Vous\
       \ trouverez ici de quoi vous aider \xE0 identifier vos comp\xE9tences, pr\xE9\
@@ -5569,6 +6254,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/origami-pop-up-fr.zip
     version: '2020-07-13'
+  outils-pe-dagogiques-du-formateur-rdc-fr:
+    description: "Retrouvez ici des outils p\xE9dagogiques et guides pour le bon exercice\
+      \ de votre m\xE9tier de formateur et d'enseignant dans les domaines techniques\
+      \ et professionnels."
+    language: fr
+    name: "Outils pe\u0301dagogiques du formateur (RDC)"
+    sha256sum: 223305aceee135c648557d078915c5ed5293c3f95cdf95646bff399e0c7279cd
+    size: 31699839
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/outils-pe-dagogiques-du-formateur-rdc-fr.zip
+    version: '2020-09-01'
   parentalite-fr:
     description: "Le lien parent-enfant est parfois compliqu\xE9 \xE0 entretenir sereinement.\
       \  Ces contenus vous aideront peut-\xEAtre \xE0 trouver certaines r\xE9ponses\
@@ -5665,6 +6361,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/pedagogie-enabel-fr.zip
     version: '2019-09-16'
+  pedagogie-scolaire-fr:
+    description: "Documentation pour se former en p\xE9dagogie. Ce contenu est \xE0\
+      \ destination des professeurs. Des documents traitant de la posture du formateur,\
+      \ des diff\xE9rentes p\xE9dagogies, etc."
+    language: fr
+    name: "P\xE9dagogie scolaire"
+    sha256sum: 5c6bd577a3f8a493fa5bb235245c3569b552ed481545557ad812bf76006aa526
+    size: 477494856
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/pedagogie-scolaire-fr.zip
+    version: '2020-09-01'
   perwerdehiya-felsefeye-philosophy-education-kmr:
     description: "Ez li ser felsefey\xEA difikirim \xFB h\xEEn dibim / I am thinking\
       \ about philosophy  and learning philosophy"
@@ -5881,14 +6588,15 @@ all:
     version: '2019-09-19'
   prevention-et-sexualite-fr:
     description: "La sexualit\xE9, il faut en parler pour \xEAtre en toute s\xE9curit\xE9\
-      . Vous trouverez ici les informations n\xE9cessaires."
+      . Vous trouverez ici les informations n\xE9cessaires (moyens de contraception,\
+      \ pr\xE9ventions des IST, violences sexuelles...)."
     language: fr
     name: "Pr\xE9vention et sexualit\xE9"
-    sha256sum: 828c9581e917f2ce66eb17f383aba93aae5eb7057b7ae28b5f3a66808809582b
-    size: 449463956
+    sha256sum: edd386305d93eb38925f87bfacf07dd3f3954d6e4da7d2e195c71b6cfb0a5965
+    size: 670041820
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/prevention-et-sexualite-fr.zip
-    version: '2019-09-19'
+    version: '2020-09-01'
   prevention-et-sexualite-gl-fr:
     description: "La sexualit\xE9, il faut en parler pour \xEAtre en toute s\xE9curit\xE9\
       . Vous trouverez ici les informations n\xE9cessaires./ Kuganira ivyerekeye ubuzima\
@@ -5900,6 +6608,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/prevention-et-sexualite-gl-fr.zip
     version: '2020-02-14'
+  priorite-sante-focus-sur-les-femmes-et-la-maternite-associer-avec-969-fr:
+    description: "\xCAtre en bonne sant\xE9 est un besoin universel. La journaliste\
+      \ Caroline Par\xE9 re\xE7oit des sp\xE9cialistes pour faire le point sur l\u2019\
+      actualit\xE9 m\xE9dicale dans le monde. Le but : faire de la pr\xE9vention aupr\xE8\
+      s du grand public, l\u2019informer sur ses droits, sur les traitements et les\
+      \ moyens d\u2019y acc\xE9der."
+    language: fr
+    name: "Priorit\xE9 Sant\xE9 (RFI) - Focus sur les femmes et la maternit\xE9"
+    sha256sum: 91d9ef31ea69165f9002def4b5d826bf6d0c9c178930b5f8a0e66c18b5759f0d
+    size: 584981080
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/priorite-sante-focus-sur-les-femmes-et-la-maternite-associer-avec-969-fr.zip
+    version: '2020-09-01'
   priorite-sante-rfi-fr:
     description: "\xC9mission RFI : \"Priorit\xE9 Sant\xE9\""
     language: fr
@@ -5909,6 +6630,32 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/priorite-sante-rfi-fr.zip
     version: '2019-09-16'
+  priorite-sante-sante-de-l-esprit-associer-avec-968-fr:
+    description: "\xCAtre en bonne sant\xE9 est un besoin universel. La journaliste\
+      \ Caroline Par\xE9 re\xE7oit des sp\xE9cialistes pour faire le point sur l\u2019\
+      actualit\xE9 m\xE9dicale dans le monde. Le but : faire de la pr\xE9vention aupr\xE8\
+      s du grand public, l\u2019informer sur ses droits, sur les traitements et les\
+      \ moyens d\u2019y acc\xE9der."
+    language: fr
+    name: "Priorit\xE9 Sant\xE9 (RFI) - Sant\xE9 de l'esprit"
+    sha256sum: 70fe5ac2def0e669b80fedabc5f44df4bfd210d2c73fcb34f8f5821759a5bc4b
+    size: 888892866
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/priorite-sante-sante-de-l-esprit-associer-avec-968-fr.zip
+    version: '2020-09-01'
+  priorite-sante-sante-du-corps-associer-avec-968-et-969-fr:
+    description: "\xCAtre en bonne sant\xE9 est un besoin universel. La journaliste\
+      \ Caroline Par\xE9 re\xE7oit des sp\xE9cialistes pour faire le point sur l\u2019\
+      actualit\xE9 m\xE9dicale dans le monde. Le but : faire de la pr\xE9vention aupr\xE8\
+      s du grand public, l\u2019informer sur ses droits, sur les traitements et les\
+      \ moyens d\u2019y acc\xE9der."
+    language: fr
+    name: "Priorit\xE9 Sant\xE9 (RFI) - Sant\xE9 du corps"
+    sha256sum: 4345a09ae0969ee4f2041771d3ad184efb55f1d4d7e0133bfe08699313fcb16c
+    size: 1541342575
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/priorite-sante-sante-du-corps-associer-avec-968-et-969-fr.zip
+    version: '2020-09-01'
   programmation-et-bidouille-fr:
     description: "Programmation et bidouille pr\xE9sente des vid\xE9os concernant\
       \ la d\xE9couverte et l'apprentissage de diff\xE9rents langages et des notions\
@@ -5920,6 +6667,53 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/programmation-et-bidouille-fr.zip
     version: '2019-10-15'
+  programmes-et-guides-nationaux-des-disciplines-scolaires-maternelle-et-primaire-rdc-fr:
+    description: "Retrouvez ici tous les programmes nationaux des disciplines scolaires\
+      \ \xE0 l'\xE9cole maternelle et primaire en RDC ainsi que des guides et modules\
+      \ de formation \xE0 destination des enseignants."
+    language: fr
+    name: Programmes et guides nationaux des disciplines scolaires (maternelle et
+      primaire) (RDC)
+    sha256sum: 09a5fea6faaffea1f5922ca46047fab4959308cccd516438409676c1a6e9aa96
+    size: 60334138
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/programmes-et-guides-nationaux-des-disciplines-scolaires-maternelle-et-primaire-rdc-fr.zip
+    version: '2020-09-01'
+  programmes-et-guides-nationaux-des-disciplines-scolaires-secondaire-rdc-fr:
+    description: "Retrouvez ici les programmes nationaux ainsi que les guides d'accompagnements\
+      \ pour les disciplines scolaires enseign\xE9es \xE0 l'\xE9cole secondaire en\
+      \ RDC."
+    language: fr
+    name: Programmes et guides nationaux des disciplines scolaires (secondaire) (RDC)
+    sha256sum: 52ed87d3c43d1021928fce100cad9ad773458db926ad7a11f8716033c9fbca39
+    size: 90950205
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/programmes-et-guides-nationaux-des-disciplines-scolaires-secondaire-rdc-fr.zip
+    version: '2020-09-01'
+  programmes-et-manuels-en-approche-par-competences-de-l-etfp-rdc-fr:
+    description: "Retrouvez ici les programmes  et les manuels en APC pour les 10\
+      \ fili\xE8res techniques et professionnelles en RDC (Coupe-couture, froid et\
+      \ climatisation, plomberie, ma\xE7onnerie, menuiserie, m\xE9canique, esth\xE9\
+      tique-coiffure, \xE9lectricit\xE9, \xE9lectronique et secr\xE9tariat) ainsi\
+      \ que pour la Gestion et l'Entreprenariat."
+    language: fr
+    name: "Programmes et Manuels en Approche par Comp\xE9tences de l'ETFP (RDC)"
+    sha256sum: 4acab90119a3674bc48da79245e96977df3dc6680e3ad06578efd433812be33c
+    size: 87030062
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/programmes-et-manuels-en-approche-par-competences-de-l-etfp-rdc-fr.zip
+    version: '2020-09-01'
+  programmes-nationaux-des-disciplines-des-filie-res-techniques-rdc-fr:
+    description: "Retrouvez ici tous les programmes nationaux des disciplines des\
+      \ fili\xE8res techniques au secondaire en RDC (\xE9lectricit\xE9, agriculture,\
+      \ m\xE9canique, plomberie, menuiserie, ma\xE7onnerie, h\xF4tellerie, \xE9conomie...)"
+    language: fr
+    name: "Programmes nationaux des disciplines des filie\u0300res techniques (RDC)"
+    sha256sum: 1b8c6602f64cfaebc88cf73344d28fd853d8ebaae38dfdb8c22d3fd46b3a0e37
+    size: 9093499
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/programmes-nationaux-des-disciplines-des-filie-res-techniques-rdc-fr.zip
+    version: '2020-09-01'
   protection-bangla-bn:
     description: Everyone has the right to be protected
     language: bn
@@ -6303,6 +7097,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sensibilisation-a-la-gestion-des-epidemies-fr.zip
     version: '2020-08-19'
+  sensibiliser-aux-violences-base-es-sur-le-genre-afrique-fr:
+    description: "Identifier les violences bas\xE9es sur le genre pour les pr\xE9\
+      venir et changer de comportement."
+    language: fr
+    name: "Sensibiliser aux violences base\u0301es sur le genre"
+    sha256sum: 6e0c517abf17e6c10378d6639f5dbc8cd9d1fb264c9ebfdb5d4226749cd67b67
+    size: 244271926
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/sensibiliser-aux-violences-base-es-sur-le-genre-afrique-fr.zip
+    version: '2020-09-01'
   sewing-embrodery-en:
     description: "Learn to sew by hand and machine\r\nLearn many embrodery pattern"
     language: en
@@ -6371,6 +7175,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/social-cohesion-and-cooperation-ar.zip
     version: '2020-07-03'
+  sociologie-du-travail-fr:
+    description: "Des articles universitaires issues d'une revue sp\xE9cialis\xE9\
+      e dans la sociologie du travail."
+    language: fr
+    name: Sociologie du travail
+    sha256sum: e209ef3faa8f6a722d4709a524c7e4652c6938ba8b28cb02323478f14820e594
+    size: 168399395
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/sociologie-du-travail-fr.zip
+    version: '2020-09-01'
   sociology-ar:
     description: "Topics addressing social differences and similarities and anything\
       \  in between./ \u0645\u0648\u0627\u0636\u064A\u0639 \u0645\u062E\u062A\u0644\
@@ -6602,6 +7416,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/theater-mime-lessons-en.zip
     version: '2020-02-17'
+  transformation-agro-alimentaire-en-afrique-reportages-fr:
+    description: "Reportages sur transformation agro-alimentaire. Des entrepreneurs\
+      \ au Burkina Faso, au B\xE9nin, au Kenya nous explique comment ils ont r\xE9\
+      ussi et les innovations existantes pour r\xE9ussir dans le domaine de l'alimentation."
+    language: fr
+    name: Transformation agro-alimentaire en Afrique (Reportages)
+    sha256sum: f1a0388f5c2d3d1206a22d9c476c2cd14d979209d1244cb504e80db09b9c97fe
+    size: 721879395
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/transformation-agro-alimentaire-en-afrique-reportages-fr.zip
+    version: '2020-09-01'
   transformation-agro-alimentaire-fr:
     description: "Documentation pour se former en transformation agro-alimentaire.\
       \ Des documents comme \"Burkina Faso : Gamme vari\xE9e de produits \xE0 base\
