@@ -5526,6 +5526,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/menstrual-hygiene-adults-en.zip
     version: '2020-07-03'
+  menuiserie-apprenez-a-renover-des-meubles-sikana-fr:
+    description: "Dans ce programme, vous d\xE9couvrirez des techniques faciles et\
+      \ peu co\xFBteuses pour apprendre \xE0 r\xE9nover des meubles. Vous pourrez\
+      \ ainsi donner une seconde vie \xE0 du mobilier ancien ou endommag\xE9."
+    language: fr
+    name: "Menuiserie - Apprenez \xE0 r\xE9nover des meubles"
+    sha256sum: 82c6d4224ecfc1c56c2a9064134112de44e4582210a736575f561508e229c1c9
+    size: 218167383
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/menuiserie-apprenez-a-renover-des-meubles-sikana-fr.zip
+    version: '2020-09-01'
   menuiserie-enabel-fr:
     description: "Documentation pour se former en menuiserie. Des documents traitant\
       \ de la fabrication des meubles, les r\xE8gles de s\xE9curit\xE9, les assemblages,\
@@ -5537,16 +5548,48 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/menuiserie-enabel-fr.zip
     version: '2020-08-04'
+  menuiserie-fabriquer-des-abris-pour-animaux-sikana-fr:
+    description: "Avec ce programme, accueillez la biodiversit\xE9 chez vous en fabriquant\
+      \ vous-m\xEAme des dispositifs d\u2019habitat et d\u2019alimentation pour les\
+      \ petits animaux"
+    language: fr
+    name: Menuiserie - Fabriquer des abris pour animaux
+    sha256sum: e17a2ff8b6c05b52b890b378c3e85a442dd5cbae1c888eb9447e2fe31372b10f
+    size: 81442263
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/menuiserie-fabriquer-des-abris-pour-animaux-sikana-fr.zip
+    version: '2020-09-01'
+  menuiserie-fabriquer-des-meubles-avec-des-palettes-sikana-fr:
+    description: "D\xE9couvrez comment recycler des palettes en bois pour fabriquer\
+      \ des meubles"
+    language: fr
+    name: Menuiserie - Fabriquer des meubles avec des palettes
+    sha256sum: 7587c9a3e24eb428bf16ab160e7d876e0244fb5ba8ebe0f8b7d487cacf3488b3
+    size: 397914672
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/menuiserie-fabriquer-des-meubles-avec-des-palettes-sikana-fr.zip
+    version: '2020-09-01'
+  menuiserie-manuels-et-documents-fr:
+    description: "Documentation pour se former en menuiserie. Des documents traitant\
+      \ de la fabrication des meubles, les r\xE8gles de s\xE9curit\xE9, les assemblages,\
+      \ les diff\xE9rentes machines"
+    language: fr
+    name: Menuiserie - Manuels et documents
+    sha256sum: bf262fbc682ed903cd0369734c18fcc97c71080446e1fede9bdfa1dbd194a041
+    size: 409097074
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/menuiserie-manuels-et-documents-fr.zip
+    version: '2020-09-01'
   menuiserie-tutoriels-videos-sikana-fr:
     description: "Dans ce programme vid\xE9o \xE9ducatif, vous d\xE9couvrirez les\
       \ savoirs de base qu'il est n\xE9cessaire d'acqu\xE9rir pour devenir menuisier."
     language: fr
     name: "Menuiserie - Tutoriels Vid\xE9os"
-    sha256sum: aca9f4ed05242e1098a52a3e0318986dc2edd23194e381607ceb85e5a2802e01
-    size: 436864936
+    sha256sum: 380ea2ed7978a0b26b27615186898a7552ee73b9bceb5a03bbad75c04de39f45
+    size: 789792544
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/menuiserie-tutoriels-videos-sikana-fr.zip
-    version: '2020-08-19'
+    version: '2020-09-01'
   microbiologie-et-prevention-sante-fr:
     description: "Qu'est-ce qu'un microbe ? Sont-ils tous nocifs pour l'homme ? Vous\
       \ trouverez ici \xE0 la fois des vid\xE9os sur la microbiologie et les avanc\xE9\
@@ -7236,11 +7279,11 @@ all:
       \ des fum\xE9es, etc."
     language: fr
     name: Soudure
-    sha256sum: ea7ccb8ae36e49f3506e9df8eeb54a86fd5c9061913a098a96e35092ab065bb3
-    size: 88212669
+    sha256sum: be16e1318073b9da6212416b5c09e5b593beed4a8b28b74732b3851a461eaae1
+    size: 294544726
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/soudure-fr.zip
-    version: '2020-08-04'
+    version: '2020-09-01'
   space-science-ar:
     description: "\u062A\u0639\u0644\u0645 \u0639\u0646 \u0627\u0644\u0643\u0648\u0627\
       \u0643\u0628 \u0648\u0627\u0644\u0646\u062C\u0648\u0645 \u0648\u0627\u0644\u0641\
