@@ -5526,17 +5526,6 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/menstrual-hygiene-adults-en.zip
     version: '2020-07-03'
-  menuiserie-apprenez-a-renover-des-meubles-sikana-fr:
-    description: "Dans ce programme, vous d\xE9couvrirez des techniques faciles et\
-      \ peu co\xFBteuses pour apprendre \xE0 r\xE9nover des meubles. Vous pourrez\
-      \ ainsi donner une seconde vie \xE0 du mobilier ancien ou endommag\xE9."
-    language: fr
-    name: "Menuiserie - Apprenez \xE0 r\xE9nover des meubles"
-    sha256sum: d8bd2ec081a3cf5e384f78ae3f8a34c695b530fdab012f4b7069e977af4a6625
-    size: 218167383
-    type: zipped-medias
-    url: http://packages.ideascube.org/omeka/menuiserie-apprenez-a-renover-des-meubles-sikana-fr.zip
-    version: '2020-09-01'
   menuiserie-enabel-fr:
     description: "Documentation pour se former en menuiserie. Des documents traitant\
       \ de la fabrication des meubles, les r\xE8gles de s\xE9curit\xE9, les assemblages,\
@@ -5548,48 +5537,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/menuiserie-enabel-fr.zip
     version: '2020-08-04'
-  menuiserie-fabriquer-des-abris-pour-animaux-sikana-fr:
-    description: "Avec ce programme, accueillez la biodiversit\xE9 chez vous en fabriquant\
-      \ vous-m\xEAme des dispositifs d\u2019habitat et d\u2019alimentation pour les\
-      \ petits animaux"
-    language: fr
-    name: Menuiserie - Fabriquer des abris pour animaux
-    sha256sum: 50e120ed8451c4bcd7f8cf9755a1c656e30e420aad9670f853aee6e418a8b1f5
-    size: 81442263
-    type: zipped-medias
-    url: http://packages.ideascube.org/omeka/menuiserie-fabriquer-des-abris-pour-animaux-sikana-fr.zip
-    version: '2020-09-01'
-  menuiserie-fabriquer-des-meubles-avec-des-palettes-sikana-fr:
-    description: "D\xE9couvrez comment recycler des palettes en bois pour fabriquer\
-      \ des meubles"
-    language: fr
-    name: Menuiserie - Fabriquer des meubles avec des palettes
-    sha256sum: 8198e47122fc55abfe4a25b120425d4e63e6415121d9e0a03335d00054c92b4f
-    size: 397914672
-    type: zipped-medias
-    url: http://packages.ideascube.org/omeka/menuiserie-fabriquer-des-meubles-avec-des-palettes-sikana-fr.zip
-    version: '2020-09-01'
-  menuiserie-manuels-et-documents-fr:
-    description: "Documentation pour se former en menuiserie. Des documents traitant\
-      \ de la fabrication des meubles, les r\xE8gles de s\xE9curit\xE9, les assemblages,\
-      \ les diff\xE9rentes machines"
-    language: fr
-    name: Menuiserie - Manuels et documents
-    sha256sum: ffede21abc6372ee825c3d19caa53379724f5c49b849ce8cd7a8bcf9336d50e6
-    size: 409097074
-    type: zipped-medias
-    url: http://packages.ideascube.org/omeka/menuiserie-manuels-et-documents-fr.zip
-    version: '2020-09-01'
   menuiserie-tutoriels-videos-sikana-fr:
     description: "Dans ce programme vid\xE9o \xE9ducatif, vous d\xE9couvrirez les\
       \ savoirs de base qu'il est n\xE9cessaire d'acqu\xE9rir pour devenir menuisier."
     language: fr
     name: "Menuiserie - Tutoriels Vid\xE9os"
-    sha256sum: fc7f0768bfbaafa4bf1b563c48d8f0c29cd4fa7c3dba4d8ac4249e48191a076b
-    size: 789792544
+    sha256sum: aca9f4ed05242e1098a52a3e0318986dc2edd23194e381607ceb85e5a2802e01
+    size: 436864936
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/menuiserie-tutoriels-videos-sikana-fr.zip
-    version: '2020-09-01'
+    version: '2020-08-19'
   microbiologie-et-prevention-sante-fr:
     description: "Qu'est-ce qu'un microbe ? Sont-ils tous nocifs pour l'homme ? Vous\
       \ trouverez ici \xE0 la fois des vid\xE9os sur la microbiologie et les avanc\xE9\
@@ -6254,6 +6211,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/nursery-rhymes-en.zip
     version: '2020-07-03'
+  nutrition-bien-se-nourrir-fr:
+    description: "Qu'est ce que \xE7a veut dire \"bien manger\" ? Comment am\xE9liorer\
+      \ ses r\xE9flexes d'alimentation pour se sentir mieux et prendre soin de sa\
+      \ sant\xE9 ?"
+    language: fr
+    name: Nutrition - Bien se nourrir
+    sha256sum: 29c9c0227b0218117e2a64cdb9a04f7c8eeed7fd81434502f3aeca5656f92132
+    size: 351075484
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/nutrition-bien-se-nourrir-fr.zip
+    version: '2020-09-01'
   nutrition-enfants-fr:
     description: "Bien manger, qu'est-ce que \xE7a veut dire ? Apprends \xE0 composer\
       \ des repas sains et nutritifs !"
