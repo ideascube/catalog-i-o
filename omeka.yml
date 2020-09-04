@@ -1648,7 +1648,7 @@ all:
     description: "Apprendre les bases de l'\xE9lectronique analogique."
     language: fr
     name: "Cours d'\xE9lectronique analogique"
-    sha256sum: 5f1e5235308f9743c212aa9c1edb8f0f6d8ac8a8dcdd1e1466cb6d19765b4f3a
+    sha256sum: 85686cbae8c205d821a559c22a68a71508783dd5ab23a34d918ce1a4081ff835
     size: 8324435
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cours-d-electronique-analogique-fr.zip
