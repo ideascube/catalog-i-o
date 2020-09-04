@@ -1600,6 +1600,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cooking-ar.zip
     version: '2019-11-21'
+  cours-d-electronique-analogique-fr:
+    description: "Apprendre les bases de l'\xE9lectronique analogique."
+    language: fr
+    name: "Cours d'\xE9lectronique analogique"
+    sha256sum: 7f927018dd754ea845ff8fa74584cb87ef51df325f5bf2465d82b8ceeecf01e1
+    size: 8324435
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cours-d-electronique-analogique-fr.zip
+    version: '2020-09-04'
   couture-debutant-tutoriels-videos-et-guides-fr:
     description: "S\xE9ries de tutoriels vid\xE9os et de guides illustr\xE9s pour\
       \ d\xE9buter en couture, apprendre les gestes techniques de base et commencer\
