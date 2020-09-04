@@ -940,6 +940,50 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/body-language-ar.zip
     version: '2020-07-03'
+  bricolage-entretenir-mon-appartement-sikana-fr:
+    description: "Tutoriels vid\xE9os pour apprendre \xE0 entretenir un appartement."
+    language: fr
+    name: Bricolage - Entretenir mon appartement
+    sha256sum: e72da3bbb301cfc073345ccf81807de3cbdc827d64dddd594ae4bd5c07373e66
+    size: 233721467
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/bricolage-entretenir-mon-appartement-sikana-fr.zip
+    version: '2020-09-04'
+  bricolage-optimiser-un-petit-espace-sikana-fr:
+    description: "Chaque vid\xE9o d\xE9crit une \xE9tape de l'optimisation d'une chambre\
+      \ avec salle de bains. Pas \xE0 pas, vous trouverez des informations indispensables\
+      \ sur les gestes et les techniques \xE0 ma\xEEtriser, et le mat\xE9riel et les\
+      \ outils \xE0 utiliser."
+    language: fr
+    name: Bricolage - Optimiser un petit espace
+    sha256sum: b4a97786e8579c746417a7e4614f955ee82ea25372b91f91a02407820b44bb69
+    size: 388558552
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/bricolage-optimiser-un-petit-espace-sikana-fr.zip
+    version: '2020-09-04'
+  bricolage-pour-la-maison-tutoriels-videos-sikana-fr:
+    description: "Avec ce programme accessible \xE0 tous, vous pourrez vous lancer\
+      \ facilement et rapidement dans des travaux basiques de bricolage, Il contient\
+      \ de nombreuses vid\xE9os qui vous permettront d\u2019am\xE9liorer, r\xE9nover\
+      \ ou am\xE9nager votre espace de vie tel que vous le souhaitez"
+    language: fr
+    name: "Bricolage pour la maison - Tutoriels Vid\xE9os"
+    sha256sum: 4bba6cb815fc8f77b1e24199712d475dff3b8f47d8e64fa0e381578feeaae2bb
+    size: 1056686444
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/bricolage-pour-la-maison-tutoriels-videos-sikana-fr.zip
+    version: '2020-09-04'
+  bricolage-renover-une-maison-sikana-fr:
+    description: "Avec ce programme, vous apprendrez les principaux gestes pour r\xE9\
+      nover une maison. Poser du carrelage, installer de la plomberie, am\xE9nager\
+      \ une cuisine, des toilettes ou encore changer des fen\xEAtres ,"
+    language: fr
+    name: "Bricolage - R\xE9nover une maison"
+    sha256sum: f6f583452df1f279d729de7675f7da7cffa2569108542ba8516f7d01d33d2b16
+    size: 170487457
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/bricolage-renover-une-maison-sikana-fr.zip
+    version: '2020-09-04'
   business-ckb:
     description: "\u0632\u0627\u0646\u06CC\u0627\u0631\u06CC \u0644\u06D5 \u0633\u06D5\
       \u0631 \u062F\u06D5\u0633\u062A\u067E\u06CE\u06A9\u0631\u062F\u0646\u06CC \u0628\
@@ -1604,7 +1648,7 @@ all:
     description: "Apprendre les bases de l'\xE9lectronique analogique."
     language: fr
     name: "Cours d'\xE9lectronique analogique"
-    sha256sum: 3db840abb6bce85f0fabf9755b83b8ebdb42677a1bdea50e0ac0f467f3d4f229
+    sha256sum: d736cc7daacaa90a4cc3a47ed4ddbd35cf8d6f59eff0a8a1e44c17f6dc99d79f
     size: 8324435
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cours-d-electronique-analogique-fr.zip
@@ -2066,6 +2110,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/denis-mukwege-fr.zip
     version: '2020-04-06'
+  dessin-technique-enabel-fr:
+    description: Documentation sur le dessin technique.
+    language: fr
+    name: Dessin technique
+    sha256sum: 310f789b33764001e097f92dd664f879c3fe3bc1aaea5cfec4d60c1aa80c77a6
+    size: 45328092
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/dessin-technique-enabel-fr.zip
+    version: '2020-09-04'
   dessins-animes-pour-enfants-en-swahili-sw:
     description: "Tu veux regarder des dessins anim\xE9s en swahili ? C'est ici !"
     language: sw
@@ -2680,6 +2733,27 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/educational-videos-arabic-ar.zip
     version: '2020-07-03'
+  electricite-installer-et-entretenir-des-panneaux-solaires-sikana-fr:
+    description: "Vous d\xE9couvrirez dans ce programme d'\xE9lectricit\xE9, comment\
+      \ exploiter les \xE9nergies renouvelables. Chaque vid\xE9o propose une \xE9\
+      tape pour comprendre comment g\xE9n\xE9rer et utiliser l'\xE9nergie solaire."
+    language: fr
+    name: "Electricit\xE9 - Installer et entretenir des panneaux solaires"
+    sha256sum: 3a2bc709e49bd15053ba4819c182a3fe42bc87122a100579ceb595ced5265db6
+    size: 392260127
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/electricite-installer-et-entretenir-des-panneaux-solaires-sikana-fr.zip
+    version: '2020-09-04'
+  electricite-les-bases-de-l-electricite-fr:
+    description: "D\xE9couvrir en vid\xE9os les bases de l'\xE9lectricit\xE9 et \xEA\
+      tre capable de faire des petits travaux sur une installation \xE9lectrique."
+    language: fr
+    name: "Electricit\xE9 - Les bases de l'\xE9lectricit\xE9"
+    sha256sum: d53b26977009c880fbcab44f0d41ed165570435d9232b8294c252d17c4ca4882
+    size: 1522418121
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/electricite-les-bases-de-l-electricite-fr.zip
+    version: '2020-09-04'
   electricite-sikana-fr:
     description: "Faire des petits travaux sur une installation \xE9lectrique"
     language: fr
@@ -5393,6 +5467,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/maconnerie-fr.zip
     version: '2020-08-04'
+  maconnerie-guides-et-tutoriels-videos-fr:
+    description: "Tout sur la ma\xE7onnerie pour l'apprenti ma\xE7on : des documents,\
+      \ des guides et des tutoriels vid\xE9os."
+    language: fr
+    name: "Ma\xE7onnerie - Guides et Tutoriels Vid\xE9os"
+    sha256sum: 4f57ccb4429b0bd1f52fd110c6e7416a30af5e0073ef945a421e90fe17658b10
+    size: 742767483
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/maconnerie-guides-et-tutoriels-videos-fr.zip
+    version: '2020-09-04'
   make-your-own-radio-en:
     description: Learn how to make your own radio shows !
     language: en
@@ -6483,6 +6567,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/physics-ar.zip
     version: '2019-11-21'
+  plomberie-documentation-fr:
+    description: "Documentation pou se former en plomberie. Des documents d\xE9crivant\
+      \ les bases de la plomberie, penser et r\xE9aliser son installation ainsi que\
+      \ des catalogues de produits."
+    language: fr
+    name: Plomberie - Documentation
+    sha256sum: 72a0e7ea90eda2e824c55ffd1307e38ffd7899f95932421354e660c00c765d73
+    size: 67425232
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/plomberie-documentation-fr.zip
+    version: '2020-09-04'
   plomberie-fr:
     description: "Documentation pou se former en plomberie. Des documents d\xE9crivant\
       \ les bases de la plomberie, penser et r\xE9aliser son installation ainsi que\
@@ -6494,6 +6589,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/plomberie-fr.zip
     version: '2020-08-04'
+  plomberie-tutoriels-videos-et-documentation-fr:
+    description: "Tutoriels Vid\xE9os et Documentation (guides) pour se former en\
+      \ plomberie. Des documents d\xE9crivant les bases de la plomberie, de la gestion\
+      \ d'un chantier et penser et r\xE9aliser son installation."
+    language: fr
+    name: "Plomberie - Tutoriels vid\xE9os et Documentation"
+    sha256sum: 9d9d0bc86108449eb7666e86e7e6be84b0dae15826bc05ad74485da6edef51de
+    size: 3869653626
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/plomberie-tutoriels-videos-et-documentation-fr.zip
+    version: '2020-09-04'
   poesie-et-slam-en-shimaore-411:
     description: "Des po\xE8mes en maorais pr\xE9sent\xE9 par l\u2019association Shim\xE9"
     language: '411'
