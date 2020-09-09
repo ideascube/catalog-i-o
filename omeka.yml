@@ -1648,11 +1648,11 @@ all:
     description: "Apprendre les bases de l'\xE9lectronique analogique."
     language: fr
     name: "Cours d'\xE9lectronique analogique"
-    sha256sum: 85686cbae8c205d821a559c22a68a71508783dd5ab23a34d918ce1a4081ff835
+    sha256sum: 15ca20b1a2d4b6f1b5ad39635d6e4f9b4455339ce610b3273b2b6231bd349e2f
     size: 8324435
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cours-d-electronique-analogique-fr.zip
-    version: '2020-09-04'
+    version: '2020-09-09'
   couture-debutant-tutoriels-videos-et-guides-fr:
     description: "S\xE9ries de tutoriels vid\xE9os et de guides illustr\xE9s pour\
       \ d\xE9buter en couture, apprendre les gestes techniques de base et commencer\
