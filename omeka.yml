@@ -2708,11 +2708,11 @@ all:
       \ de gestion budg\xE9taire, de la banque et ses produits..."
     language: fr
     name: "Education financi\xE8re"
-    sha256sum: 40572531ba0e0893002152a9c2046699e18bd185ca9cf61a6715ffc19bb28f86
-    size: 342917054
+    sha256sum: bf46942b3b1fdfe0088ed6203adeb9871477ddd9c8baec75be53e632d38a4651
+    size: 343492818
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/education-financiere-fr.zip
-    version: '2020-09-01'
+    version: '2020-09-10'
   educational-videos-arabic-ar:
     description: "These videos teach fundamental skills to children in a fun way.\
       \ Follow Adam and his dog Mimish in their adventures and learn about science\
