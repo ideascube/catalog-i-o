@@ -5196,6 +5196,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-chroniques-ecologiques-du-professeur-feuillage-fr.zip
     version: '2020-09-01'
+  les-dangers-de-l-alcool-et-des-drogues-ingaruka-mbi-zokunwa-inzoga-nibiyayuramutwe-rn:
+    description: "Conna\xEEtre les effets de la consommation d'alcool et de drogues\
+      \ pour sensibiliser aux dangers de la sur-consommation."
+    language: rn
+    name: Les dangers de l'alcool et des drogues / Ingaruka mbi zokunwa inzoga nibiyayuramutwe
+    sha256sum: 1cf0182d4f8e08f4cf797ab56c81f183940fe95d88fb721c1eae59c7dddcbdf0
+    size: 1054072086
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/les-dangers-de-l-alcool-et-des-drogues-ingaruka-mbi-zokunwa-inzoga-nibiyayuramutwe-rn.zip
+    version: '2020-09-10'
   les-dangers-de-la-consommation-d-alcool-et-de-stupe-fiants-gl-rn:
     description: Soyons au courant et luttons contre les dangers de la consommation
       d'alcool et de drogues.
