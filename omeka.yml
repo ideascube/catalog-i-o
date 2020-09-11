@@ -465,6 +465,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-a-donner-les-premiers-secours-gl-fr.zip
     version: '2020-01-07'
+  apprendre-a-programmer-avec-arduino-et-unity-3d-fr:
+    description: "Acqu\xE9rir les bases de la programmation et de la robotique gr\xE2\
+      ce \xE0 l'utilisation d'outils (Unity 3D et Arduino)."
+    language: fr
+    name: "Apprendre \xE0 programmer avec Arduino et Unity 3D"
+    sha256sum: 1a77f0f1c12466ec87bb9037f27994a7740344448114a14b66f7de233b04b217
+    size: 2309952498
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprendre-a-programmer-avec-arduino-et-unity-3d-fr.zip
+    version: '2020-09-11'
   apprendre-a-programmer-en-java-fr:
     description: "Ce MOOC est une formation compl\xE8te \xE0 la programmation en Java.\
       \ Il revient \xE0 la fois sur les bases de la programmation et les sp\xE9cificit\xE9\
@@ -517,6 +527,65 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-la-menuiserie-sikana-fr.zip
     version: '2019-10-25'
+  apprendre-la-programmation-avec-html5-css3-fr:
+    description: "Les vid\xE9os pr\xE9sentent dans ce paquet sont \xE0 destination\
+      \ des d\xE9butants qui souhaitent apprendre \xE0 programmer sous HTML. Chaque\
+      \ vid\xE9os aborde une th\xE9matique diff\xE9rente pour donner une vue g\xE9\
+      n\xE9ral des possibilit\xE9s avec HTML et pour commencer \xE0 pratiquer."
+    language: fr
+    name: Apprendre la programmation avec HTML5 & CSS3
+    sha256sum: dabb340b3e6e2ddd296385dddf2cd7cbdb48e7ef3b513dfdea3232984244fd21
+    size: 553043371
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprendre-la-programmation-avec-html5-css3-fr.zip
+    version: '2020-09-11'
+  apprendre-la-programmation-avec-java-script-a-associer-avec-473-fr:
+    description: "Voici une s\xE9rie de vid\xE9os pour apprendre, pas \xE0 pas, \xE0\
+      \ programmer avec Java. Ce paquet s'adresse \xE0 des personnes compl\xE9tement\
+      \ d\xE9butante en Java ou avec un petit niveau de base. Il permet d'atteindre\
+      \ un niveau interm\xE9diaire par des le\xE7ons et des exercices ludique, entre\
+      \ autre la programmation de petits jeux."
+    language: fr
+    name: Apprendre la programmation avec Java script
+    sha256sum: c373405e764063f812e9c5e3628d018d51399313e612e704449ddd285abd3184
+    size: 1015743345
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprendre-la-programmation-avec-java-script-a-associer-avec-473-fr.zip
+    version: '2020-09-11'
+  apprendre-la-programmation-avec-le-langage-c-fr:
+    description: "Deux s\xE9ries de vid\xE9os sont pr\xE9sentes dans ce paquet. D'abord\
+      \ des tutoriels pour apprendre pas \xE0 pas, sans connaissances pr\xE9alable,\
+      \ la base de la programmation avec le langage C. Ensuite les diff\xE9rentes\
+      \ sessions d'un Mooc, qui propose d'explorer plus en d\xE9tail et en profondeur\
+      \ le langage C."
+    language: fr
+    name: Apprendre la programmation avec le langage C
+    sha256sum: 4ac4f22eac4241a9b4e9e980623329e46d8e88a09fc8acb8b8c238bd5fdb56f9
+    size: 1483646093
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprendre-la-programmation-avec-le-langage-c-fr.zip
+    version: '2020-09-11'
+  apprendre-la-programmation-avec-php-fr:
+    description: "Vous trouverez dans ce paquet des le\xE7ons de d\xE9couvertes et\
+      \ de base pour commencer \xE0 programmer en PHP."
+    language: fr
+    name: Apprendre la programmation avec PHP
+    sha256sum: 877c2dfb91d04e0ee2688d3a9f5e87a4bb43d0c6488b56095b4b47b38ba3b0f2
+    size: 652272471
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprendre-la-programmation-avec-php-fr.zip
+    version: '2020-09-11'
+  apprendre-la-programmation-avec-python-a-associer-avec-472-fr:
+    description: "En suivant ces de s\xE9ries de vid\xE9os vous aurez tout le support\
+      \ n\xE9cessaires  pour faire vos premiers pas dans la programmation avec python,\
+      \ avec des explications claires et des exercices pratiques."
+    language: fr
+    name: Apprendre la programmation avec Python
+    sha256sum: a90de01fc5159c8034c8d467d680a9dd629b8fc56110cb096dbdd8b3de0b8c8e
+    size: 810480375
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprendre-la-programmation-avec-python-a-associer-avec-472-fr.zip
+    version: '2020-09-11'
   apprends-le-francais-a1-enfants-adolescents-fr:
     description: "Pars \xE0 la d\xE9couverte de la langue fran\xE7aise, en images\
       \ !"
@@ -1263,6 +1332,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/classical-music-ar.zip
     version: '2019-11-21'
+  codage-et-programmation-fiches-d-activites-vdc-fr:
+    description: "Fiches d'activit\xE9s en fran\xE7ais, cr\xE9\xE9es par les Voyageurs\
+      \ du Num\xE9rique pour d\xE9couvrir en s'amusant et en groupe les notions de\
+      \ codages, de programmation, d'applications et de robotique.\r\nAu menu : initiation\
+      \ \xE0 Scratch, App Inventor et activit\xE9s de groupes."
+    language: fr
+    name: "Codage et programmation - Fiches d'activit\xE9s VDC"
+    sha256sum: e3947805a379b8d036d33e181cba6cea1365a53c0da3cc0caf1d850b7d97147c
+    size: 42854295
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/codage-et-programmation-fiches-d-activites-vdc-fr.zip
+    version: '2020-09-11'
   coding-ar:
     description: "what do we mean with coding, how we can start coding, languages\
       \ for coding\r\n\u0645\u0627\u0630\u0627 \u0646\u0639\u0646\u064A \u0628\u0627\
@@ -5084,6 +5165,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-to-be-an-electrician-en.zip
     version: '2020-02-17'
+  learn-to-code-with-raspberri-pi-en:
+    description: The Raspberry Pi is a series of small single-board computers developed
+      to teach and learn basic computer science.
+    language: en
+    name: Learn to code with Raspberri Pi
+    sha256sum: 92acf2a16c1d23d44b7922302ba96faeb1df1b9a7b7b670330d077c746f1e684
+    size: 529132363
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learn-to-code-with-raspberri-pi-en.zip
+    version: '2020-09-11'
   learn-to-know-and-manage-your-feelings-en:
     description: "Identify, observe, express your feelings to feel it better.\r\n\
       To complete this package, you will find a lot of other videos in the application\
