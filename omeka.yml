@@ -427,7 +427,7 @@ all:
       \ !!"
     language: fr
     name: "Apprendre \xE0 cuisiner - Plats du Monde"
-    sha256sum: 1b3cdca093f85c0dd2165c1fa39a834c288edb735827a68b87e5140a395d2a14
+    sha256sum: bf58e01e3ab4bdf1727188d1f5bbdbbf39dbf04de2c0816566f3cb49c1e7b6bd
     size: 494370043
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-a-cuisiner-plats-du-monde-fr.zip
@@ -2071,7 +2071,7 @@ all:
     description: Qu'est-ce qu'on mange aujourd'hui ?
     language: fr
     name: "D\xE9couvrez ou re-d\xE9couvrez la cuisine de diff\xE9rents pays"
-    sha256sum: 9c478cbec3f09a8c405214b8924a43d0f38e92f26390d3d409f911e7e9a08fe7
+    sha256sum: 689b23b7cca2a6d78e021ac85279cf6f8674e415c4cd43f7a449f256ab6933ef
     size: 4196599102
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/decouvrez-ou-re-decouvrez-la-cuisine-de-differents-pays-fr.zip
@@ -4718,16 +4718,6 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/l-inclusion-numerique-fr.zip
     version: '2019-10-15'
-  la-forge-blacksmithing-tutoriels-videos-en:
-    description: "S\xE9ries de tutoriels vid\xE9os sur la pratique de la forge. A\
-      \ destination de tous les futurs forgerons !"
-    language: en
-    name: "La forge (Blacksmithing) - Tutoriels vid\xE9os"
-    sha256sum: 87c90b0bfe6771e3333b332179e6b7c9e6d0c82b8a748121e395b7bb352ad86c
-    size: 784021436
-    type: zipped-medias
-    url: http://packages.ideascube.org/omeka/la-forge-blacksmithing-tutoriels-videos-en.zip
-    version: '2020-09-11'
   la-guyane-aujourd-hui-fr:
     description: "Portrait de la Guyane au 21e si\xE8cle et de ses principaux enjeux\
       \ sociaux, \xE9conomiques, politiques et environnementaux."
@@ -6587,16 +6577,6 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/physics-ar.zip
     version: '2019-11-21'
-  physique-des-semi-conducteurs-fr:
-    description: Cette collection de contenus comprend des pdf  sur la physique des
-      semi-conducteurs
-    language: fr
-    name: Physique des semi-conducteurs
-    sha256sum: 37caebd2c3518ca4cb7086d3fe06fe37b3157739ebb19b3a517874c0b98a40f9
-    size: 17358579
-    type: zipped-medias
-    url: http://packages.ideascube.org/omeka/physique-des-semi-conducteurs-fr.zip
-    version: '2020-09-11'
   plomberie-documentation-fr:
     description: "Documentation pou se former en plomberie. Des documents d\xE9crivant\
       \ les bases de la plomberie, penser et r\xE9aliser son installation ainsi que\
