@@ -1819,6 +1819,53 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/covid-19-rohingya-rhg.zip
     version: '2020-06-22'
+  cps-et-bien-etre-fiches-activites-fr:
+    description: "Fiches d'activit\xE9s et leurs supports pour mettre en place des\
+      \ activit\xE9s sur les comp\xE9tences psycho-social et le bien \xEAtre avec\
+      \ des adolescents.\r\nA destination des animateurs"
+    language: fr
+    name: "CPS et Bien-Etre - Fiches activit\xE9s"
+    sha256sum: 89f89083706b3378e63241ae392ea24f64c5c77df162328c957245f2464041ec
+    size: 6682737
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cps-et-bien-etre-fiches-activites-fr.zip
+    version: '2020-09-14'
+  cps-et-bien-etre-l-essentiel-des-connaissances-fr:
+    description: "Voici les connaissances \xE0 avoir pour mener des activit\xE9s sur\
+      \ les comp\xE9tences psycho-sociales et le bien \xEAtre avec des adolescent,\
+      \ afin d'\xEAtre \xE0 m\xEAme de r\xE9aliser l'activit\xE9 et r\xE9pondre aux\
+      \ questions des participants."
+    language: fr
+    name: CPS et Bien-Etre - L'essentiel des connaissances
+    sha256sum: 996df935decf893eaf3e1856f90cb449be5d1bfcd20432f62b382fd12253a87a
+    size: 340349627
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cps-et-bien-etre-l-essentiel-des-connaissances-fr.zip
+    version: '2020-09-14'
+  cps-et-bien-etre-outils-cles-en-main-fr:
+    description: "Outils cl\xE9s en main pour les personnes voulant animer des activit\xE9\
+      s avec des adolescents sur des sujets li\xE9s aux comp\xE9tences psycho-sociale\
+      \ et au bien \xEAtre.\r\nSujets abord\xE9s: \xE9motions, humeurs, genre, harc\xE8\
+      lement"
+    language: fr
+    name: "CPS et Bien-Etre - Outils cl\xE9s en main"
+    sha256sum: 5da255fcd03897a597b4d7499f543182cd8b246333da5b0f8dd5045cd42b9468
+    size: 14060964
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cps-et-bien-etre-outils-cles-en-main-fr.zip
+    version: '2020-09-14'
+  cps-et-bien-etre-supports-libres-fr:
+    description: "Supports en acc\xE8s libre pour les adolescents et adultes qui veulent\
+      \ en savoir plus sur les sujets de comp\xE9tences psycho-sociales et de bien-\xEA\
+      tre.\r\n\r\nInformation sur les \xE9motions, la communication, le genre, les\
+      \ st\xE9r\xE9otypes et la contraception"
+    language: fr
+    name: CPS et Bien-Etre - Supports Libres
+    sha256sum: 34216b226f49e8f28e5650ccd39e054ad9df417198e977bcd3183e5d773d041b
+    size: 184891261
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cps-et-bien-etre-supports-libres-fr.zip
+    version: '2020-09-14'
   creation-audio-fr:
     description: "Vous voulez monter une radio ? Apprendre \xE0 monter de petits reportages\
       \ sonores ? L'audio est un excellent moyen pour raconter des histoires ou faire\
@@ -6668,6 +6715,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/physics-ar.zip
     version: '2019-11-21'
+  pisciculture-fr:
+    description: "Des vid\xE9os, des guides, des reportages sur la pisciculture et\
+      \ les techniques d'\xE9levage."
+    language: fr
+    name: Pisciculture
+    sha256sum: d704d4d9c560aee4c538e58d610fcf0cbbcef102948e398ee628af0bc8499ac8
+    size: 1513430869
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/pisciculture-fr.zip
+    version: '2020-09-14'
   plomberie-documentation-fr:
     description: "Documentation pou se former en plomberie. Des documents d\xE9crivant\
       \ les bases de la plomberie, penser et r\xE9aliser son installation ainsi que\
@@ -7724,11 +7781,11 @@ all:
       \ cheveux : cheveux longs, mi-longs, courts, cr\xE9pus, fris\xE9s..."
     language: fr
     name: "Tutoriels de coiffure pour diff\xE9rents types de cheveux"
-    sha256sum: f04abb436c44d66db856d7f9909cd25b4e0b0bf4441df1939db8fb017d11e265
-    size: 1211323768
+    sha256sum: 6cedae8599956e245ed6e23a1e52aea75731fc354e836b13158412e4f7904cc0
+    size: 1861262836
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/tutoriels-de-coiffure-pour-differents-types-de-cheveux-fr.zip
-    version: '2020-08-04'
+    version: '2020-09-14'
   tutoriels-pour-utiliser-des-logiciels-et-des-applications-fr:
     description: "Tutoriels pour utiliser des logiciels et des applications\r\n- \xEA\
       tre en capacit\xE9 de prendre en mains les logiciels propos\xE9s sur les ordinateurs\
