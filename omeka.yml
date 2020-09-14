@@ -1779,15 +1779,22 @@ all:
     url: http://packages.ideascube.org/omeka/couture-wax-tutoriels-videos-fr.zip
     version: '2020-09-01'
   covid-19-bangla-bn:
-    description: This document in Bangla list frequent questions about the COVID-19
-      virus and brings basic answers.
+    description: "\u098F\u0987 \u09AC\u09BE\u0982\u09B2\u09BE \u09A8\u09A5\u09BF\u09A4\
+      \u09C7 \u0995\u09CB\u09AD\u09BF\u09A1-\u09E7\u09EF \u09AD\u09BE\u0987\u09B0\u09BE\
+      \u09B8 \u09B8\u09AE\u09CD\u09AA\u09B0\u09CD\u0995\u09C7 \u09AA\u09CD\u09B0\u09B6\
+      \u09CD\u09A8\u0997\u09C1\u09B2\u09BF\u09B0 \u09A4\u09BE\u09B2\u09BF\u0995\u09BE\
+      \ \u09A4\u09C8\u09B0\u09BF \u0995\u09B0\u09BE \u09B9\u09AF\u09BC \u098F\u09AC\
+      \u0982 \u098F\u09B0 \u09AE\u09CC\u09B2\u09BF\u0995 \u0989\u09A4\u09CD\u09A4\u09B0\
+      \u0997\u09C1\u09B2\u09BF \u09A6\u09C7\u09DF\u09BE \u09B9\u09AF\u09BC\u0964/\
+      \ This document in Bangla list frequent questions about the COVID-19 virus and\
+      \ brings basic answers."
     language: bn
-    name: COVID-19 - Bangla
-    sha256sum: c826b9e04377f691037243fe19f7cc0a6166f005485dbc8bc9eecc224f76a3ce
-    size: 98390077
+    name: "\u0995\u09CB\u09AD\u09BF\u09A1-\u09E7\u09EF /COVID-19 (Bangla)"
+    sha256sum: 3aacc068f9e96378067e492634d4b51e8e82d429e821787e18b237fa48e70bfc
+    size: 98391801
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/covid-19-bangla-bn.zip
-    version: '2020-04-16'
+    version: '2020-09-14'
   covid-19-burmese-mm:
     description: This is a poster that gives information on good hygiene practices
       that will help to prevent COVID-19 infection. The poster is in Burmese language
@@ -1814,11 +1821,11 @@ all:
       symptoms and what to do if you are infected with the disease.
     language: rhg
     name: COVID-19 -Rohingya
-    sha256sum: fb08c7ad8bc27a354e171bc43dfd9d31e387c719db6a9dffda37e494be710e28
+    sha256sum: 5b67a187fb8b0a6808e0a69500ef4be069ee99a9a6c181435ab032bf36c9856d
     size: 2624444332
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/covid-19-rohingya-rhg.zip
-    version: '2020-06-22'
+    version: '2020-09-14'
   cps-et-bien-etre-fiches-activites-fr:
     description: "Fiches d'activit\xE9s et leurs supports pour mettre en place des\
       \ activit\xE9s sur les comp\xE9tences psycho-social et le bien \xEAtre avec\
@@ -2309,11 +2316,11 @@ all:
       \ an expert in word, excel and powerpoint"
     language: en
     name: Digital literacy lesson in English
-    sha256sum: 6ffe2a6156cf43cdacc41ec01e604742435998839d543dfe6aed7478979343e6
-    size: 640870400
+    sha256sum: d2b05e21d860085ac334f91f3acdd643073d2d121fffc2bb7b222e8798faae91
+    size: 554861610
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/digital-literacy-lesson-in-english-en.zip
-    version: '2020-03-03'
+    version: '2020-09-14'
   digital-literacy-lessons-in-burmese-mm:
     description: Tutorials videos in Burmese to discover computer and basic software
       and internet. Advice and concret tips
