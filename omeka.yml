@@ -2156,7 +2156,7 @@ all:
       \ and bangla dances performances"
     language: bn
     name: "\u09A8\u09BE\u099A Dance (bangla)"
-    sha256sum: 3e28a85899da5e05419d285226e3de161216d3007296c7899442178ad5e61a18
+    sha256sum: 3cdf5ecf6ead2b7b8c4b77dffdbbcd829ca4b1dcdc7bc1bbdba0db4a020a8953
     size: 388103302
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/dance-bangla-bn.zip
