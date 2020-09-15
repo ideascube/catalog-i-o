@@ -2149,6 +2149,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultures-saint-martin-photos-fr.zip
     version: '2020-02-26'
+  dance-bangla-bn:
+    description: "\u09A8\u09BE\u099A\u09C7\u09B0 \u0989\u09AA\u0995\u09BE\u09B0\u09BF\
+      \u09A4\u09BE \u098F\u09AC\u0982 \u09AC\u09BE\u0982\u09B2\u09BE \u09A8\u09C3\u09A4\
+      \u09CD\u09AF \u09AA\u09B0\u09BF\u09AC\u09C7\u09B6\u09A8/Benefits of dancing\
+      \ and bangla dances performances"
+    language: bn
+    name: "\u09A8\u09BE\u099A Dance (bangla)"
+    sha256sum: d519e39226ed4907c80322e66839a6f016c467a2b927e617bb341a829cca779a
+    size: 388103302
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/dance-bangla-bn.zip
+    version: '2020-09-15'
   davinci-resolve-video-editor-en:
     description: DaVinci Resolve is a color correction and non-linear video editing
       application for macOS, Windows, and Linux
