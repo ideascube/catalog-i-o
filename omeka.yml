@@ -2152,11 +2152,11 @@ all:
   dance-bangla-bn:
     description: "\u09A8\u09BE\u099A\u09C7\u09B0 \u0989\u09AA\u0995\u09BE\u09B0\u09BF\
       \u09A4\u09BE \u098F\u09AC\u0982 \u09AC\u09BE\u0982\u09B2\u09BE \u09A8\u09C3\u09A4\
-      \u09CD\u09AF \u09AA\u09B0\u09BF\u09AC\u09C7\u09B6\u09A8/Benefits of dancing\
+      \u09CD\u09AF \u09AA\u09B0\u09BF\u09AC\u09C7\u09B6\u09A8 Benefits of dancing\
       \ and bangla dances performances"
     language: bn
     name: "\u09A8\u09BE\u099A Dance (bangla)"
-    sha256sum: d519e39226ed4907c80322e66839a6f016c467a2b927e617bb341a829cca779a
+    sha256sum: 3e28a85899da5e05419d285226e3de161216d3007296c7899442178ad5e61a18
     size: 388103302
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/dance-bangla-bn.zip
