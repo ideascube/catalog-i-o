@@ -4865,6 +4865,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/l-inclusion-numerique-fr.zip
     version: '2019-10-15'
+  la-forge-blacksmithing-tutoriels-videos-en:
+    description: "S\xE9ries de tutoriels vid\xE9os sur la pratique de la forge. A\
+      \ destination de tous les futurs forgerons !"
+    language: en
+    name: "La forge (Blacksmithing) - Tutoriels vid\xE9os"
+    sha256sum: 146cc9ba0a3c2013e0de9f8e8a635f25489cf3f172ae0343bb8081e44d12deca
+    size: 784021436
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/la-forge-blacksmithing-tutoriels-videos-en.zip
+    version: '2020-09-16'
   la-guyane-aujourd-hui-fr:
     description: "Portrait de la Guyane au 21e si\xE8cle et de ses principaux enjeux\
       \ sociaux, \xE9conomiques, politiques et environnementaux."
@@ -6734,6 +6744,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/physics-ar.zip
     version: '2019-11-21'
+  physique-des-semi-conducteurs-fr:
+    description: Cette collection de contenus comprend des pdf  sur la physique des
+      semi-conducteurs
+    language: fr
+    name: Physique des semi-conducteurs
+    sha256sum: 5d771d96839f52e2fcf6bca0266aed0ffe99ee89383d92b97c69282d6dc6fa2c
+    size: 17358579
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/physique-des-semi-conducteurs-fr.zip
+    version: '2020-09-16'
   pisciculture-fr:
     description: "Des vid\xE9os, des guides, des reportages sur la pisciculture et\
       \ les techniques d'\xE9levage."
