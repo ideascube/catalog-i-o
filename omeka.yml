@@ -2392,11 +2392,11 @@ all:
     description: "Discovery of aboriginal art : weaving, painting, dance, music\u2026"
     language: en
     name: Discovering aboriginal art
-    sha256sum: 1aa70dae16bcbae7e48bac39468a691f25663ebda75537ffb8049df3f4190dc7
-    size: 870688019
+    sha256sum: 51c94eba8d4a3532181f4f4845982af76f5d869cb6c0d637315f26269a621dfe
+    size: 446005287
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discovering-aboriginal-art-en.zip
-    version: '2020-07-03'
+    version: '2020-09-18'
   discovering-aboriginal-traditions-en:
     description: "Discovering aboriginal traditions : stories, boomerang, myth of\
       \ creation\u2026"
@@ -2412,11 +2412,11 @@ all:
       : sport, art, politics...'
     language: en
     name: Discovering famous people of aboriginal origin
-    sha256sum: 4aafd81937b36cb50ee3c42ac733c6c0611511ff3cc1a54cf8715ad7fa1a7688
-    size: 623867476
+    sha256sum: fb0e511c1d71c20e684a4cd9c25f68bb838b1cb5844c6c1414d3a15ad493b285
+    size: 611096482
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discovering-famous-people-of-aboriginal-origin-en.zip
-    version: '2020-07-03'
+    version: '2020-09-18'
   discriminations-enfants-ados-fr:
     description: "On est tous diff\xE9rents, mais tous des \xEAtres humains ! Pour\
       \ que la vie soit plus agr\xE9able, on peut apprendre \xE0 se respecter, et\
@@ -2605,11 +2605,11 @@ all:
     description: Short classes to play drums quickly.
     language: en
     name: Drums for beginners
-    sha256sum: 88dc4d89dc1a836b269c1fdbba505e5b28364c3a93c658f68c1ddbd6834bc088
-    size: 79294077
+    sha256sum: 8a97170fa2b17d581c077e44ecc6acdce8ff89275c49b90ee9072b9369470035
+    size: 536110279
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/drums-for-beginners-en.zip
-    version: '2019-10-15'
+    version: '2020-09-18'
   early-marriage-ar:
     description: "\u062A\u0638\u0647\u0631 \u0627\u0644\u062D\u0632\u0645\u0629 \u0627\
       \u0644\u0631\u0633\u0648\u0645 \u0627\u0644\u0645\u062A\u062D\u0631\u0643\u0629\
@@ -5207,11 +5207,11 @@ all:
       basic first aid techniques.
     language: en
     name: Learn first aid techniques
-    sha256sum: 4dedffb448f366362ca260b4d3c4e98f686f7beda5528c84e4a2038360ad6d12
-    size: 804924559
+    sha256sum: dec8d71513c0ff3fa523d1ef0e104bcd46e9fdc74ac5fcc25a758fec27f0245a
+    size: 815944334
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-first-aid-techniques-en.zip
-    version: '2019-09-17'
+    version: '2020-09-18'
   learn-guitar-en:
     description: You want to learn about guitar ? Beginner or confirmed, you will
       find what you are looking for here !
@@ -5277,20 +5277,20 @@ all:
     description: Learning about geography of Australia
     language: en
     name: Learning geography of Australia
-    sha256sum: 207185e3ad1499710391bc0f8f8850a2d1dfaba96aadf28f63e176d1fc9b9acc
-    size: 296999876
+    sha256sum: 5e9e42e38d3d893f47ae1fd8e7a0316368aae0e9480c2c6e2f740c076c3ceb7f
+    size: 210369669
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learning-geography-of-australia-en.zip
-    version: '2020-07-03'
+    version: '2020-09-18'
   learning-history-of-australia-en:
     description: Learning about history of Australia
     language: en
     name: Learning history of Australia
-    sha256sum: 6ca673a9380c2b12d9530c184edb436986b222af8d799eecda20ce7e9b6af4b3
-    size: 362500620
+    sha256sum: e686c5eb1dbbafb5c6f71b056cdc64dbd443fdd8cbd4222fe218d958f99581dc
+    size: 222135098
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learning-history-of-australia-en.zip
-    version: '2020-07-03'
+    version: '2020-09-18'
   learning-to-read-and-write-level-1-en:
     description: This package contains learning material to practice reading and writing
       skills in English. It targets audience with beginner literacy level.
@@ -5531,6 +5531,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/let-s-talk-about-sexuality-en-en.zip
     version: '2019-09-17'
+  let-s-talk-about-sexuality-teenagers-en:
+    description: Learn more about menstruations and sexuality
+    language: en
+    name: Let's talk about sexuality
+    sha256sum: aca0e81a81ca898711776e1d66da951e2f926cec43513e85f6268aadc2974a9d
+    size: 267713350
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/let-s-talk-about-sexuality-teenagers-en.zip
+    version: '2020-09-18'
   life-in-the-rohingya-camp-rhg:
     description: Content made specificaly for the Rohingya people living in the refugee
       camps
@@ -7986,11 +7995,11 @@ all:
     description: A package containing the basic information about diabetes
     language: en
     name: What are the basics of diabetes?
-    sha256sum: 9a232baa7b58222ecd27147bafbd9d8aa6967fd4aadc483c055af6a2362e8ae9
-    size: 1231617
+    sha256sum: b42b3079135b22f1b32c159d437ad75e49773962721ceeb2554436c7406ed903
+    size: 37484683
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/what-are-the-basics-of-diabetes-en.zip
-    version: '2019-10-15'
+    version: '2020-09-18'
   what-does-addiction-look-like-en:
     description: A package outlining the the signs of addiction and how to deal with
       it
