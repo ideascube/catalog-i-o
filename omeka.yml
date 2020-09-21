@@ -1763,11 +1763,11 @@ all:
       \ en wax (sac, sandales, bijoux...)."
     language: fr
     name: "Couture Wax - Tutoriels vid\xE9o (Patron et R\xE9alisation)"
-    sha256sum: d7e928ffeac72ac69669de1dc4ed31694ac19a1355accd75b0191d2dfec269de
-    size: 10846094376
+    sha256sum: 9bf2909bc1447d34c2c20514b305df10759de317c16768f1657c46f032fdddb7
+    size: 10854962218
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/couture-wax-tutoriels-video-patron-et-realisation-fr.zip
-    version: '2020-09-01'
+    version: '2020-09-21'
   couture-wax-tutoriels-videos-fr:
     description: "S\xE9ries de tutoriels vid\xE9os sur la couture Wax \xE0 destination\
       \ de tous les couturiers !"
@@ -2852,14 +2852,14 @@ all:
     version: '2019-09-16'
   education-financiere-fr:
     description: "Documentation sur les bases de la finance. Ici on va notamment parler\
-      \ de gestion budg\xE9taire, de la banque et ses produits..."
+      \ de gestion budg\xE9taire, de la banque et ses produits."
     language: fr
     name: "Education financi\xE8re"
-    sha256sum: bf46942b3b1fdfe0088ed6203adeb9871477ddd9c8baec75be53e632d38a4651
+    sha256sum: afe6c71d08d038dc282bff7331d51d034f5adcf9e69ff535c8c942d8e937ca54
     size: 343492818
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/education-financiere-fr.zip
-    version: '2020-09-10'
+    version: '2020-09-21'
   educational-videos-arabic-ar:
     description: "These videos teach fundamental skills to children in a fun way.\
       \ Follow Adam and his dog Mimish in their adventures and learn about science\
