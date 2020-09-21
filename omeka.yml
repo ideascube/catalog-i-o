@@ -1763,7 +1763,7 @@ all:
       \ en wax (sac, sandales, bijoux...)."
     language: fr
     name: "Couture Wax - Tutoriels vid\xE9o (Patron et R\xE9alisation)"
-    sha256sum: 9bf2909bc1447d34c2c20514b305df10759de317c16768f1657c46f032fdddb7
+    sha256sum: 978c1996b10c2fdaa6ae14940042a0c3301f6e31b3aa33899460de769a1a281f
     size: 10854962218
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/couture-wax-tutoriels-video-patron-et-realisation-fr.zip
