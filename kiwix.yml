@@ -1007,11 +1007,11 @@ all:
   maths-et-tiques.fr:
     name: "Maths et tiques"
     description: "Maths et tiques"
-    version: "2020-07-02"
+    version: "2020-09-03"
     language: "fra"
-    url: "http://download.kiwix.org/zim/other/la_chaine_de_maths_et_tiques_fr_all_2020-07.zim"
-    size: 37514929809
-    sha256sum: "611f0ae98fea23f075cd05fa375ac599377a6d0c9c4d4a1b0b55582c47583e72"
+    url: "http://download.kiwix.org/zim/videos/la_chaine_de_maths_et_tiques_fr_all_2020-09.zim"
+    size: 42117820426
+    sha256sum: "967be943c613e5e73a5fecf9c667f0c5dc8b9e7310c475395c72ccd1913e86bf"
     type: zim
   ubongo.fr:
     name: "Ubongo Français"
