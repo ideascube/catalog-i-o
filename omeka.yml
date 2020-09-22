@@ -1311,15 +1311,15 @@ all:
     url: http://packages.ideascube.org/omeka/citoyennete-et-politique-fr.zip
     version: '2019-12-10'
   classic-literature-in-english-en:
-    description: EBooks from the classic literature of england, france and ancient
-      greece. All books are in English.
+    description: EBooks from the classic literature of England, France and ancient
+      Greece. All books are in English.
     language: en
     name: Classic literature in English
-    sha256sum: 2621536c46d90f7e62247c83380ca81143c9dd4ef05d730a598cb547a38fc51a
+    sha256sum: fad056fc9a13a03b14ef48794cda286049bfbc08488edd8c879f48509ba76c65
     size: 84264212
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/classic-literature-in-english-en.zip
-    version: '2020-06-21'
+    version: '2020-09-22'
   classical-music-ar:
     description: "The best selection of classical music/ \u062A\u0645\u062A\u0639\
       \ \u0628\u0623\u062C\u0645\u0644 \u0627\u0644\u0645\u0642\u0637\u0648\u0639\u0627\
@@ -3548,14 +3548,14 @@ all:
   geography-discovery-en:
     description: "Short documentary and video to discover new and sample information\
       \ about history, geography and culture of different countries all around the\
-      \ world. \r\nAll videos are in english"
+      \ world. \r\nAll videos are in English."
     language: en
     name: Geography discovery
-    sha256sum: 7ccd249565e05c7b61a709a1ee642648363dc4eebb83b3d96fa9764994e22e00
+    sha256sum: 3127b87a771f94f3ec840cda9945703d73fa202ab6c7fa8185889c8748508574
     size: 7939658644
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/geography-discovery-en.zip
-    version: '2020-06-21'
+    version: '2020-09-22'
   geopolitique-afrique-fr:
     description: "Les enjeux g\xE9opolitiques de l'Afrique"
     language: fr
@@ -7172,7 +7172,7 @@ all:
     description: Feel free and comfortable discussing puberty
     language: en
     name: Puberty
-    sha256sum: eecc530f07711dbf97476d5d243c1fb0e397ce5aa13cf9dfba1016e73c1114c9
+    sha256sum: 72590a619a8729d542a4985ed78c3ce371b8cb202c67c8414169661ceb4a9960
     size: 4839110
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/puberty-en.zip
