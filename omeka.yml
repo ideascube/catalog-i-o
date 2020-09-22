@@ -2605,11 +2605,11 @@ all:
     description: Short classes to play drums quickly.
     language: en
     name: Drums for beginners
-    sha256sum: 8a97170fa2b17d581c077e44ecc6acdce8ff89275c49b90ee9072b9369470035
+    sha256sum: bc5b108f29a3ad1f754f9e7eb40f0e73ba560ec1bd6d7f7e498cfa54d8089b50
     size: 536110279
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/drums-for-beginners-en.zip
-    version: '2020-09-18'
+    version: '2020-09-22'
   early-marriage-ar:
     description: "\u062A\u0638\u0647\u0631 \u0627\u0644\u062D\u0632\u0645\u0629 \u0627\
       \u0644\u0631\u0633\u0648\u0645 \u0627\u0644\u0645\u062A\u062D\u0631\u0643\u0629\
@@ -5207,11 +5207,11 @@ all:
       basic first aid techniques.
     language: en
     name: Learn first aid techniques
-    sha256sum: dec8d71513c0ff3fa523d1ef0e104bcd46e9fdc74ac5fcc25a758fec27f0245a
+    sha256sum: 85ff65a6865b596a2649fcdd14efe2df59b6a69730d1e789194d150f64c2b637
     size: 815944334
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-first-aid-techniques-en.zip
-    version: '2020-09-18'
+    version: '2020-09-22'
   learn-guitar-en:
     description: You want to learn about guitar ? Beginner or confirmed, you will
       find what you are looking for here !
@@ -5535,11 +5535,11 @@ all:
     description: Learn more about menstruations and sexuality
     language: en
     name: Let's talk about sexuality
-    sha256sum: aca0e81a81ca898711776e1d66da951e2f926cec43513e85f6268aadc2974a9d
+    sha256sum: aee1fffda6ce1709aefa45624730eee89aa812117e060bf73670253806641839
     size: 267713350
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/let-s-talk-about-sexuality-teenagers-en.zip
-    version: '2020-09-18'
+    version: '2020-09-22'
   life-in-the-rohingya-camp-rhg:
     description: Content made specificaly for the Rohingya people living in the refugee
       camps
@@ -7172,11 +7172,11 @@ all:
     description: Feel free and comfortable discussing puberty
     language: en
     name: Puberty
-    sha256sum: 9f21091ecee0e8090c936ee9d82fde61be98a598d757bd186b334f880bc339c6
-    size: 1081707
+    sha256sum: eecc530f07711dbf97476d5d243c1fb0e397ce5aa13cf9dfba1016e73c1114c9
+    size: 4839110
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/puberty-en.zip
-    version: '2020-07-03'
+    version: '2020-09-22'
   public-speaking-en:
     description: "How to speak in public ? How to control your nerves and/or your\
       \ shyness ? \r\nHow your body talks for you ?"
@@ -7995,11 +7995,11 @@ all:
     description: A package containing the basic information about diabetes
     language: en
     name: What are the basics of diabetes?
-    sha256sum: b42b3079135b22f1b32c159d437ad75e49773962721ceeb2554436c7406ed903
+    sha256sum: 971e9ab5b5607bc0b564f91d432137f1ded1b5a14425f84661538d610a3a21fa
     size: 37484683
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/what-are-the-basics-of-diabetes-en.zip
-    version: '2020-09-18'
+    version: '2020-09-22'
   what-does-addiction-look-like-en:
     description: A package outlining the the signs of addiction and how to deal with
       it
