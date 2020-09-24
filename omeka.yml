@@ -1315,11 +1315,11 @@ all:
       Greece. All books are in English.
     language: en
     name: Classic literature in English
-    sha256sum: fad056fc9a13a03b14ef48794cda286049bfbc08488edd8c879f48509ba76c65
+    sha256sum: 12e91bf62836b6cec849eb480b6afa54fb608521c92ba926d95bfd2cf981348b
     size: 84264212
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/classic-literature-in-english-en.zip
-    version: '2020-09-22'
+    version: '2020-09-24'
   classical-music-ar:
     description: "The best selection of classical music/ \u062A\u0645\u062A\u0639\
       \ \u0628\u0623\u062C\u0645\u0644 \u0627\u0644\u0645\u0642\u0637\u0648\u0639\u0627\
@@ -3551,11 +3551,11 @@ all:
       \ world. \r\nAll videos are in English."
     language: en
     name: Geography discovery
-    sha256sum: 3127b87a771f94f3ec840cda9945703d73fa202ab6c7fa8185889c8748508574
+    sha256sum: cac434c3212ce4b27201372b3cac05b5e4f87f22ee1dc85711e5d688f00e4475
     size: 7939658644
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/geography-discovery-en.zip
-    version: '2020-09-22'
+    version: '2020-09-24'
   geopolitique-afrique-fr:
     description: "Les enjeux g\xE9opolitiques de l'Afrique"
     language: fr
@@ -4566,6 +4566,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-geography-en.zip
     version: '2019-09-16'
+  introduction-to-geography-environmental-studies-australia-en:
+    description: You want to enrich your knowledge in geography & environmental studies?
+      You will find very interesting resumes here !
+    language: en
+    name: Introduction to geography & environmental studies - Australia
+    sha256sum: 0ff587cb29cb0e8af46dd1e4aa24358762811ab8235e81ea29b1983bb4712646
+    size: 1044238913
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/introduction-to-geography-environmental-studies-australia-en.zip
+    version: '2020-09-24'
   introduction-to-geography-environmental-studies-en:
     description: You want to enrich your knowledge in geography & environmental studies?
       You will find very interesting resumes here !
@@ -4608,6 +4618,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-human-rights-for-children-en.zip
     version: '2019-09-16'
+  introduction-to-journalism-australia-en:
+    description: You are interested in journalism? Or just curious about what a journalist's
+      everyday life looks like? Learn about the challenges and highlights of a journalistic
+      career with this selection of videos and tutorials. This package of contents
+      will provide you with tips and advices to become a rigorous reporter, as well
+      as help you uncover the different facets of journalism.
+    language: en
+    name: Introduction to journalism - Australia
+    sha256sum: f8c8e31ce2cb2ee3c39e194349f44259f7a1cebe1381f29dcf4a6e7663c1a419
+    size: 419182893
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/introduction-to-journalism-australia-en.zip
+    version: '2020-09-24'
   introduction-to-journalism-en:
     description: You are interested in journalism? Or just curious about what a journalist's
       everyday life looks like? Learn about the challenges and highlights of a journalistic
@@ -5796,6 +5819,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/memoire-d-un-continent-rfi-fr.zip
     version: '2020-03-09'
+  menstrual-hygiene-adults-australia-en:
+    description: Having information about menstrual hygiene
+    language: en
+    name: Menstrual Hygiene adults - Australia
+    sha256sum: 3a38e071fd9020929be843432e15cf768ad86a08d35fe6eb1243af7d2164f35c
+    size: 137639004
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/menstrual-hygiene-adults-australia-en.zip
+    version: '2020-09-24'
   menstrual-hygiene-adults-en:
     description: Having information about menstural hygiene
     language: en
@@ -7172,11 +7204,11 @@ all:
     description: Feel free and comfortable discussing puberty
     language: en
     name: Puberty
-    sha256sum: 72590a619a8729d542a4985ed78c3ce371b8cb202c67c8414169661ceb4a9960
+    sha256sum: afededb1e4cf4b5eaf213d6095a89d34306f6507a1c7fcf9ba7419e172e188e9
     size: 4839110
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/puberty-en.zip
-    version: '2020-09-22'
+    version: '2020-09-24'
   public-speaking-en:
     description: "How to speak in public ? How to control your nerves and/or your\
       \ shyness ? \r\nHow your body talks for you ?"
@@ -7753,6 +7785,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/the-dangers-of-alcohol-and-drug-use-en.zip
     version: '2020-07-03'
+  the-learning-station-australia-en:
+    description: The Learning Station is a fun musical children's group that sings
+      both learning song and fun movement brain break songs.
+    language: en
+    name: The Learning Station - Australia
+    sha256sum: a184391119fbbb359d2877288f5dedc1ae17a3c33b915a80f20436eb6cf0fed5
+    size: 321594637
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/the-learning-station-australia-en.zip
+    version: '2020-09-24'
   the-learning-station-en:
     description: The Learning Station is a fun musical children's group that sings
       both learning song and fun movement brain break songs.
