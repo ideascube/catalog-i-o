@@ -4056,11 +4056,11 @@ all:
       written English in a professional environment.
     language: en
     name: How to write in a professional context
-    sha256sum: e3f487fa80766c7f63480488de352a83e8197a03fc335100e203257abf3bbdd9
-    size: 132397600
+    sha256sum: b1fbe2f3635ca8c3fa3ecae51454ac8e20753072575faef6dfbe16f8ab7f42e9
+    size: 242626023
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/how-to-write-in-a-professional-context-en.zip
-    version: '2019-09-16'
+    version: '2020-09-28'
   human-fr:
     description: "Compos\xE9 d\u2019images a\xE9riennes in\xE9dites et de t\xE9moignages\
       \ face \xE0 la cam\xE9ra, film\xE9s dans 60 pays pendant plus de 2 ans, le film\
