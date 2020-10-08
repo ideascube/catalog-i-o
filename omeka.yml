@@ -5168,12 +5168,12 @@ all:
     description: You are an adult. And you wish to practise your spoken English? This
       package is for you!
     language: en
-    name: Learn english!
-    sha256sum: 51320872220da25e13ff39d24cbd48b7047ae100747e236e58673bdcb721476f
+    name: Learn english ! (adults)
+    sha256sum: 15b149ea7ae3e4f3416e9be75df04e468172d979135a9a833d2b5c7d6eec2a54
     size: 709921515
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-adults-en.zip
-    version: '2020-09-01'
+    version: '2020-10-08'
   learn-english-children-bn:
     description: With songs and cartoons, learn the english alphabet, the name of
       the colour, the animal and the fruits!
