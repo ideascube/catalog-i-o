@@ -4365,11 +4365,11 @@ all:
       \ et environnemental africain."
     language: fr
     name: Innovation en Afrique
-    sha256sum: d24b6ae24cc541f27da73cdc1e660d390d177c64eddaa376f0e746f55bf272db
-    size: 310353024
+    sha256sum: 8ec3d57535fcc91363cccbf39767ea44a16d748da3a1f12a69c3924421385ddf
+    size: 320424843
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/innovation-en-afrique-fr.zip
-    version: '2019-09-18'
+    version: '2020-10-26'
   installer-et-entretenir-des-panneaux-solaires-sikana-fr:
     description: "Vous d\xE9couvrirez dans ce programme d'\xE9lectricit\xE9, comment\
       \ exploiter les \xE9nergies renouvelables. Chaque vid\xE9o propose une \xE9\
