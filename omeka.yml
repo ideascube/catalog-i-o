@@ -1147,7 +1147,7 @@ all:
       s sur l'\xE9cologie sur le continent africain et ailleurs."
     language: fr
     name: "C'est pas du vent - Emission sur l'\xE9cologie (RFI)"
-    sha256sum: 68ccda9f4fcdad711470ddabd6e3ef10be09dc5157da554d7db49129876b0283
+    sha256sum: 161da50b42246c9b9c104f3871add698610b809364d92b8e7b581134bf9d0782
     size: 1201328590
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/c-est-pas-du-vent-emission-sur-l-ecologie-rfi-fr.zip
