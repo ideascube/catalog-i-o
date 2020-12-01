@@ -6144,6 +6144,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mathematics-lesson-in-english-en.zip
     version: '2020-03-03'
+  mathematics-lesson-in-english-eng:
+    description: To discover math through games and songs for children and to go to
+      advance math information and exercices, along with the history of mathematiques
+    language: eng
+    name: Mathematics lesson in English
+    sha256sum: a76991431a375d8ed61bb35899a46459b345803d2b687ad08802a36e7188c186
+    size: 1286301295
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/mathematics-lesson-in-english-eng.zip
+    version: '2020-12-01'
   mathematiques-seconde-resolution-d-equations-et-inequations-basiques-fr:
     description: "Des vid\xE9os de la Khan Academy destin\xE9es \xE0 des \xE9l\xE8\
       ves de seconde, portant sur la r\xE9solution d'in\xE9quations et \xE9quations\
@@ -8337,6 +8347,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/test-archive-zip-fr.zip
     version: '2020-08-13'
+  test-quentin-verification-creation-paquet-ctg:
+    description: "C'est juste un test pour v\xE9rifier, faut rien en faire !!"
+    language: ctg
+    name: nepaslemettrededans
+    sha256sum: de9640c52b26982d4db261dbbc7ef29c5a5bd06a4f639485431232c6bbbf3b36
+    size: 207661558
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/test-quentin-verification-creation-paquet-ctg.zip
+    version: '2020-12-01'
   the-dangers-of-alcohol-and-drug-use-en:
     description: Let's be aware and fight the dangers of alcohol and drug use Learn
       about how drugs affect your body and your brain
