@@ -154,6 +154,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-ecology-documentary-in-burmese-mm.zip
     version: '2020-02-17'
+  agriculture-ecology-documentary-in-burmese-mya:
+    description: Documentaries about agricultural technics in Myanmar and about ecology
+      and how to take care of the environement, mostly in Burmese language
+    language: mya
+    name: Agriculture & Ecology documentary in Burmese
+    sha256sum: 82ca51ccf966290ab41d9a4685abafae9dd630f998f2399f20c3c99e9ad82b34
+    size: 1398024102
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-ecology-documentary-in-burmese-mya.zip
+    version: '2020-12-02'
   agriculture-en-afrique-fr:
     description: "Documents universitaires (articles, actes de colloque, ouvrages,\
       \ th\xE8ses, m\xE9moires..) traitant de l'agriculture en Afrique."
@@ -329,6 +339,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/animals-environement-documentary-in-burmese-mm.zip
     version: '2020-03-04'
+  animals-environement-documentary-in-burmese-mya:
+    description: Documentaries about animal life as well as some cultural wonder like
+      the pyramids. All the video are in Burmese
+    language: mya
+    name: Animals & Environement documentary in Burmese
+    sha256sum: 217af64bcbe43fe39b85224052ea10afd1e6ed2eb04ca7f43d2651a128102eaf
+    size: 2471357555
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/animals-environement-documentary-in-burmese-mya.zip
+    version: '2020-12-02'
   animals-environement-documentary-in-english-en:
     description: Documentaries about animal life as well as some natural wonder, art
       and a discovery of space and planetes. All the video are in English
@@ -339,6 +359,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/animals-environement-documentary-in-english-en.zip
     version: '2020-03-03'
+  animals-environement-documentary-in-english-eng:
+    description: Documentaries about animal life as well as some natural wonder, art
+      and a discovery of space and planetes. All the video are in English
+    language: eng
+    name: Animals & Environement documentary in English
+    sha256sum: 9b1ffb81081aabd0df3704ffd2d35ee9f901796e72419f747c4ec902ee5b71ea
+    size: 1650009806
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/animals-environement-documentary-in-english-eng.zip
+    version: '2020-12-02'
   animated-movies-for-kids-in-swahili-ubongo-kids-sw:
     description: Learn and have fun with Ubongo.
     language: sw
@@ -1349,6 +1379,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cartoons-in-hindi-hi.zip
     version: '2020-02-17'
+  cartoons-in-hindi-hin:
+    description: Cartoons for children in Hindi language
+    language: hin
+    name: Cartoons in Hindi
+    sha256sum: 48e8679aaecdb41d7efbaecbf435d324d0eb9c553da183c70282d536c7531b4a
+    size: 776020620
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cartoons-in-hindi-hin.zip
+    version: '2020-12-02'
   category-fix-education-fr:
     description: some text
     language: fr
@@ -1401,6 +1440,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/children-books-in-burmese-pdf-and-audio-books-mm.zip
     version: '2020-02-17'
+  children-books-in-burmese-pdf-and-audio-books-mya:
+    description: This package include books in pdf created by Third Story Project
+      as well as some audio books. The books are in Burmese, sometime with Burmese
+      and English language. They are dedicated to children and illustre stories about
+      peace and friendship.
+    language: mya
+    name: Children books in Burmese (pdf and audio books)
+    sha256sum: 552192bb022d5b5a886a4da1d820b81da7fee4c54fa9161721f69b69914a7c7d
+    size: 319596530
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/children-books-in-burmese-pdf-and-audio-books-mya.zip
+    version: '2020-12-02'
   children-refugee-testimony-and-rights-ar:
     description: Here are several video in Arabic from and for children refugee, telling
       their stories with their own point of view. There is also some promotion of
@@ -1493,6 +1544,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/classic-literature-in-english-en.zip
     version: '2020-09-24'
+  classic-literature-in-english-eng:
+    description: EBooks from the classic literature of England, France and ancient
+      Greece. All books are in English.
+    language: eng
+    name: Classic literature in English
+    sha256sum: 88e4d64d17bc2058a06532d5a8655bd37d28048b18d8d503e46dbc88f3d6e0a4
+    size: 84264212
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/classic-literature-in-english-eng.zip
+    version: '2020-12-02'
   classical-music-ar:
     description: "The best selection of classical music/ \u062A\u0645\u062A\u0639\
       \ \u0628\u0623\u062C\u0645\u0644 \u0627\u0644\u0645\u0642\u0637\u0648\u0639\u0627\
@@ -1999,6 +2060,27 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/covid-19-burmese-mm.zip
     version: '2020-04-16'
+  covid-19-burmese-mya:
+    description: This is a poster that gives information on good hygiene practices
+      that will help to prevent COVID-19 infection. The poster is in Burmese language
+      and contains illustrations.
+    language: mya
+    name: COVID-19 - Burmese
+    sha256sum: 784421879061fe20d24c7dd29507ef4abb4738f60a612aebe145f16d2412d454
+    size: 1263655
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/covid-19-burmese-mya.zip
+    version: '2020-12-02'
+  covid-19-english-bgd-eng:
+    description: The video demonstrates how to put and withdraw a mask correctly,
+      making sure your hands stay clean.
+    language: eng
+    name: COVID-19 - English
+    sha256sum: b14597437d064973e7883e5f5e0a62cd101a68c32e89a3b0596f7332f57e4c7e
+    size: 252346966
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/covid-19-english-bgd-eng.zip
+    version: '2020-12-02'
   covid-19-english-en:
     description: The video demonstrates how to put and withdraw a mask correctly,
       making sure your hands stay clean.
@@ -2009,6 +2091,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/covid-19-english-en.zip
     version: '2020-11-06'
+  covid-19-english-eng:
+    description: The video demonstrates how to put and withdraw a mask correctly,
+      making sure your hands stay clean.
+    language: eng
+    name: COVID-19 - English
+    sha256sum: 0c7e361f0f8657bf6eb1f70875ce6f447e33338376c053ba5047e44f250109fd
+    size: 315472504
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/covid-19-english-eng.zip
+    version: '2020-12-02'
   covid-19-rohingya-rhg:
     description: This audio file in Rohingya language gives information on COVID-19
       symptoms and what to do if you are infected with the disease.
@@ -2567,6 +2659,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/digital-literacy-lesson-in-english-en.zip
     version: '2020-09-14'
+  digital-literacy-lesson-in-english-eng:
+    description: "For complete beginner to advance, you will find videos:\r\n- to\
+      \ discover a laptop, a camera and a voice recoder\r\n- to practice taping on\
+      \ a laptop\r\n- to learn about basic laptop repare\r\n- to discover and to become\
+      \ an expert in word, excel and powerpoint"
+    language: eng
+    name: Digital literacy lesson in English
+    sha256sum: 58c994b33e037e0c2c29541fca98e056c0cba44a3ac73dfce7fa7316e89cf4bf
+    size: 554861610
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/digital-literacy-lesson-in-english-eng.zip
+    version: '2020-12-02'
   digital-literacy-lessons-in-burmese-mm:
     description: Tutorials videos in Burmese to discover computer and basic software
       and internet. Advice and concret tips
@@ -2577,6 +2681,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/digital-literacy-lessons-in-burmese-mm.zip
     version: '2020-02-17'
+  digital-literacy-lessons-in-burmese-mya:
+    description: Tutorials videos in Burmese to discover computer and basic software
+      and internet. Advice and concret tips
+    language: mya
+    name: Digital literacy lessons in Burmese
+    sha256sum: 3ba617525dd7b99109a8f73ce219f4922296f7b619fedbb3e3612acc8b2e249d
+    size: 1031569124
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/digital-literacy-lessons-in-burmese-mya.zip
+    version: '2020-12-02'
   digital-literacy-multilanguage-en:
     description: '-'
     language: en
@@ -2622,6 +2736,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discover-the-culture-of-the-world-en.zip
     version: '2020-02-17'
+  discover-the-culture-of-the-world-eng:
+    description: "Short documentary about traditional dance, cloths and other cultural\
+      \ aspect in different countries.\r\nContent in english"
+    language: eng
+    name: Discover the culture of the world
+    sha256sum: f238093c23eca68bd4834eeec322fd8ed07f2cbb6d9b0afd0c0d734ad6baefa8
+    size: 2200932567
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/discover-the-culture-of-the-world-eng.zip
+    version: '2020-12-02'
   discovering-aboriginal-art-en:
     description: "Discovery of aboriginal art : weaving, painting, dance, music\u2026"
     language: en
@@ -2806,6 +2930,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/drawing-class-en.zip
     version: '2020-02-17'
+  drawing-class-multilangue:
+    description: Several lesson in video to learn how to draw from the very beginning
+      and to improve your drawing skills with intremediary and advances lessons.
+    language: multilangue
+    name: Drawing class
+    sha256sum: 40ddc7cef0990aacca71e504b82d130f0bbdfabc9ea57e95414fcd927940271e
+    size: 2100785991
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/drawing-class-multilangue.zip
+    version: '2020-12-02'
   drawing-colouring-en:
     description: Learn how to draw, colour, make graffiti, become an artist !
     language: en
@@ -3919,6 +4053,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/handicraft-mm.zip
     version: '2020-02-17'
+  handicraft-mya:
+    description: Several handicraft tutorial, in burmese and in video without language
+    language: mya
+    name: Handicraft
+    sha256sum: c3c3c38bd78fd16345054ffdd29cad5d24feeb98310ad8ea37c9927ed7d522f7
+    size: 1706373988
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/handicraft-mya.zip
+    version: '2020-12-02'
   harcelement-ado-fr:
     description: "Des contenus autour du harc\xE8lement, pour l'identifier, ne pas\
       \ sentir isol\xE9.e, et savoir r\xE9agir et vers qui se tourner"
@@ -4003,6 +4146,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-promotion-for-mother-and-baby-mm.zip
     version: '2020-02-17'
+  health-promotion-for-mother-and-baby-mya:
+    description: Health promotion video for mother and baby, in Burmese, Rohingya
+      and English
+    language: mya
+    name: Health promotion for mother and baby
+    sha256sum: f4046eaa6f9f725be40ec923ea9b5505f3c9b6049bf07798dfea97a24148c8ae
+    size: 1825067178
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/health-promotion-for-mother-and-baby-mya.zip
+    version: '2020-12-02'
   health-promotion-in-burmese-mm:
     description: Learn more about health and how to take care of yourself and of your
       family, in Burmese language
@@ -4013,6 +4166,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-promotion-in-burmese-mm.zip
     version: '2020-02-17'
+  health-promotion-in-burmese-mya:
+    description: Learn more about health and how to take care of yourself and of your
+      family, in Burmese language
+    language: mya
+    name: Health Promotion in Burmese
+    sha256sum: d4d75750b7c75935f6e9d95b21fa790e567234ac94f6ee819db52baf68d66294
+    size: 1657857672
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/health-promotion-in-burmese-mya.zip
+    version: '2020-12-02'
   health-promotion-in-rohingya-language-rhg:
     description: Health promotion video, mostly in Rohingya Language, some in English
       and some in Hindi
@@ -4462,6 +4625,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/icirore-cacu-feuilleton-audio-sur-les-droits-des-enfants-kirundi-rn.zip
     version: '2020-11-06'
+  idb-team-in-bangaldesh-facilitation-help-ben:
+    description: '-'
+    language: ben
+    name: IDB team - Facilitation help
+    sha256sum: 50b8987c211a55ffddfbdf65f2d54e0e13df679d41fcfe904f623487f145cb75
+    size: 77084046
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/idb-team-in-bangaldesh-facilitation-help-ben.zip
+    version: '2020-12-02'
   idb-team-in-bangaldesh-facilitation-help-mm:
     description: '-'
     language: mm
@@ -5484,6 +5656,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/leadership-empowerment-in-burmese-mm.zip
     version: '2020-02-17'
+  leadership-empowerment-in-burmese-mya:
+    description: Through videos and examples, learn leadership and empowerment. All
+      the content is in Burmese
+    language: mya
+    name: Leadership & Empowerment in Burmese
+    sha256sum: 6f57d6ff32f6493ac312de58e8fd94459fc0aa4cb3dc97943cfd0d658da98056
+    size: 1340348395
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/leadership-empowerment-in-burmese-mya.zip
+    version: '2020-12-02'
   leadership-entrepreneurship-business-management-ar:
     description: "This package focuses on tips and developing a creative state of\
       \ mind for managing your business.and how to be a successful leader of his business./\
@@ -5514,6 +5696,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-burmese-language-mm.zip
     version: '2020-02-17'
+  learn-burmese-language-mya:
+    description: "Videos and tutorial to learn Burmese language. \r\nLearn the Burmese\
+      \ alphabet and all the letter, learn vocabulary through nice cartoon and song"
+    language: mya
+    name: Learn Burmese Language
+    sha256sum: 45d0414e47daf2c5727636c9c544e8bc9edd3e2ec6e5047f6180899cc3f987fd
+    size: 869262562
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learn-burmese-language-mya.zip
+    version: '2020-12-02'
   learn-design-en:
     description: Learning about design
     language: en
@@ -5533,6 +5725,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-adults-en.zip
     version: '2020-10-08'
+  learn-english-adults-eng:
+    description: You are an adult. And you wish to practise your spoken English? This
+      package is for you!
+    language: eng
+    name: Learn english ! (adults)
+    sha256sum: c3bc1977a38fcf2e71b0b13a51d8ad8f24041d5f45c03a18e0484e3b6903b6db
+    size: 709921515
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learn-english-adults-eng.zip
+    version: '2020-12-02'
   learn-english-children-bn:
     description: With songs and cartoons, learn the english alphabet, the name of
       the colour, the animal and the fruits!
@@ -5553,6 +5755,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-children-en.zip
     version: '2020-07-13'
+  learn-english-children-eng:
+    description: With songs and cartoons, learn the english alphabet, the name of
+      the colour, the animal and the fruits!
+    language: eng
+    name: Learn english ! (children)
+    sha256sum: de5b756a5461d7cc7193002ddcd4cac1a33a0b656c61b5235c2d54e0be267c50
+    size: 2677311386
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learn-english-children-eng.zip
+    version: '2020-12-02'
   learn-english-primary-school-e-books-en:
     description: Books and exercices books to teach and learn english at Primary School
     language: en
@@ -5572,6 +5784,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-english-teenagers-en.zip
     version: '2020-11-02'
+  learn-english-teenagers-eng:
+    description: Learn basics in english language to communicate with others ! For
+      teens.
+    language: eng
+    name: Learn English ! (Teenagers)
+    sha256sum: 883d19de839160c8c6bf13566053187f0a40b62fa52876d1c5d7c9b7c4d96f2f
+    size: 451284481
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learn-english-teenagers-eng.zip
+    version: '2020-12-02'
   learn-english-with-the-rohingya-club-rhg:
     description: Improve your english through different supports thanks to videos
       made by the Rohingya English Club
@@ -5604,6 +5826,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-guitar-en.zip
     version: '2019-10-15'
+  learn-guitar-eng:
+    description: You want to learn about guitar ? Beginner or confirmed, you will
+      find what you are looking for here !
+    language: eng
+    name: Learn guitar
+    sha256sum: c4fd98837be86f250ce047fcb14d624316a216bf4e39f20546f65afa9103be37
+    size: 716567515
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learn-guitar-eng.zip
+    version: '2020-12-02'
   learn-photography-en:
     description: Learn how to create great pictures, acquire the basic skills to become
       a photographer !
@@ -5623,6 +5855,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-to-be-an-electrician-en.zip
     version: '2020-02-17'
+  learn-to-be-an-electrician-eng:
+    description: "Several videos and documents to learn about electricity.\r\nIn english"
+    language: eng
+    name: Learn to be an Electrician
+    sha256sum: 36e50b9eca7a183ebe58efcb0cbf516e6146cd3ab9274b6b4a4bd7a1be4e565b
+    size: 152877248
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learn-to-be-an-electrician-eng.zip
+    version: '2020-12-02'
   learn-to-code-with-raspberri-pi-en:
     description: The Raspberry Pi is a series of small single-board computers developed
       to teach and learn basic computer science.
@@ -6926,6 +7167,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/music-lessons-tabla-hamonium-mandoline-en.zip
     version: '2020-06-21'
+  music-lessons-tabla-hamonium-mandoline-eng:
+    description: Here you will fine lesson to learn to play Table, Mandoline and Hamonium.
+      Even if you have never try thoses instruments before, it's time to start!
+    language: eng
+    name: Music lessons - Tabla, Hamonium, Mandoline
+    sha256sum: e799a445883a3558447bd3a50179e002ac2ade269a78ed7d02ffe88ae65d6558
+    size: 1289044616
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/music-lessons-tabla-hamonium-mandoline-eng.zip
+    version: '2020-12-02'
   musique-et-artistes-du-burundi-rn:
     description: "Retrouvez une s\xE9lection de clip vid\xE9o de musique d'artistes\
       \ burundais."
@@ -7678,6 +7929,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/protection-in-the-rohingya-refugee-camp-mm.zip
     version: '2020-03-03'
+  protection-in-the-rohingya-refugee-camp-multilangue:
+    description: Awarness videos and documents about protection in the Rohingya Refugee
+      Camp, in Burmese, in Rohingya and in English. The videos are made by NGO and
+      UN agency and dedicated to the Rohingya Refugee Crises.
+    language: multilangue
+    name: Protection in the Rohingya Refugee Camp
+    sha256sum: 2874de905d061bbd3817cca3ae52ee13e7b9dae1664a169069ebd272af8537ab
+    size: 968527055
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/protection-in-the-rohingya-refugee-camp-multilangue.zip
+    version: '2020-12-02'
   protection-multilanguage-en:
     description: Everyone has the right to be protected
     language: en
@@ -7729,6 +7991,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/psychological-support-english-rohingya-en.zip
     version: '2020-02-17'
+  psychological-support-english-rohingya-multilangue:
+    description: From the organisation 'No Limit Generation', here are some video
+      in English and in Rohingya about psychological support dedicated to adult working
+      with children with trauma. There is also well being and meditation exercice
+      dedicated to children.
+    language: multilangue
+    name: Psychological support (English & Rohingya)
+    sha256sum: 81185bf9c3c1f5630bde51bfdb34fc967d4856669b1ba7e328102b62fa849cd2
+    size: 1893523024
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/psychological-support-english-rohingya-multilangue.zip
+    version: '2020-12-02'
   puberte-fr:
     description: "Contenus relatif \xE0 la pubert\xE9, sur les transformations du\
       \ corps, les premiers rapports sexuels, la contraception..."
@@ -7968,6 +8242,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/science-documentary-in-burmese-mm.zip
     version: '2020-02-17'
+  science-documentary-in-burmese-mya:
+    description: Videos and pdf books about science, in Burmese (sometime with english
+      translation)
+    language: mya
+    name: Science documentary in Burmese
+    sha256sum: b25c37e4cedf460bfd58af75f6737069a5b211ce2cc3805a619b1d42d6337bc0
+    size: 744459805
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/science-documentary-in-burmese-mya.zip
+    version: '2020-12-02'
   science-documentary-in-english-en:
     description: Come to explore science topics, make science experiences and discover
       the sky.
@@ -8084,6 +8368,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sewing-embrodery-en.zip
     version: '2020-02-17'
+  sewing-embrodery-eng:
+    description: "Learn to sew by hand and machine\r\nLearn many embrodery pattern"
+    language: eng
+    name: Sewing & Embrodery
+    sha256sum: 7f8aa1b95c66a2227fe3591a7eb4c7c1285fdf228d5d0895218b025d025e25b1
+    size: 2051622459
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/sewing-embrodery-eng.zip
+    version: '2020-12-02'
   sgbv-en:
     description: Knowing and avoid SGBV
     language: en
@@ -8230,6 +8523,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sport-football-en.zip
     version: '2019-11-14'
+  sport-football-eng:
+    description: Video of famous football game as well as the history of football
+      and a presentation of the football rules
+    language: eng
+    name: Sport - Football
+    sha256sum: 38e34e4a722c967b76e60d430a4f591b9f7e66094b5f025c145cb01cc90bf7e7
+    size: 5111497083
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/sport-football-eng.zip
+    version: '2020-12-02'
   sport-fr:
     description: Vous souhaitez vous perfectionner en football ? Vous initier au yoga
       ou faire un exercice physique quotidien ?  C'est ici !
@@ -8414,6 +8717,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/theater-mime-lessons-en.zip
     version: '2020-02-17'
+  theater-mime-lessons-eng:
+    description: Several videos about how to act like a mime and how to be an actore,
+      with tips ans concret examples
+    language: eng
+    name: Theater & Mime lessons
+    sha256sum: b0e5ca3cee975eff1397498d1e0fe6851c700e9d0f54f25829acf21396c7189e
+    size: 1264763881
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/theater-mime-lessons-eng.zip
+    version: '2020-12-02'
   transformation-agro-alimentaire-en-afrique-reportages-fr:
     description: "Reportages sur transformation agro-alimentaire. Des entrepreneurs\
       \ au Burkina Faso, au B\xE9nin, au Kenya nous explique comment ils ont r\xE9\
@@ -8785,6 +9098,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/yoga-for-women-and-children-burmese-english-en.zip
     version: '2020-03-03'
+  yoga-for-women-and-children-burmese-english-multilangue:
+    description: "Videos about yoga exercies for adult (in burmese) and for children\
+      \ (in english, but the exercices can be follow without understanding english).\r\
+      \nVideos about breathing exercice and meditation for children (english)"
+    language: multilangue
+    name: Yoga for women and children (Burmese & English)
+    sha256sum: e9f8b4d62fa603272bf94dcc444eda0919785a3071e8fef95f470d2757326f13
+    size: 3778308113
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/yoga-for-women-and-children-burmese-english-multilangue.zip
+    version: '2020-12-02'
   young-and-old-multilanguage-en:
     description: Transmission of knowledge
     language: en
