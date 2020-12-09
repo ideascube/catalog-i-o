@@ -65,6 +65,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/administration-gestion-comptabilite-gutunganya-ubutunzi-gl-fr.zip
     version: '2020-01-07'
+  administration-gestion-comptabilite-gutunganya-ubutunzi-gl-rn:
+    description: "Connaissances sur les d\xE9marches administratives, la gestion et\
+      \ la comptabilit\xE9 pour cr\xE9er son entreprise. / Inyigisho zifasha Kwitunganiriza\
+      \ imigambi n' ubutunzi"
+    language: rn
+    name: "Administration, gestion, comptabilit\xE9 / Gutunganya ubutunzi"
+    sha256sum: 0771c7615f7189bfc0c83ccf74ab577a104564f3961adfbe3f40de28b8d8e303
+    size: 84690702
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/administration-gestion-comptabilite-gutunganya-ubutunzi-gl-rn.zip
+    version: '2020-12-09'
   africa-riding-fr:
     description: "La s\xE9rie AFRICA RIDING part \xE0 la rencontre d\u2019une communaut\xE9\
       \ de \xABriders\xBB qui participe \xE0 cr\xE9er un nouvel ordre culturel et\
