@@ -111,6 +111,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agribusiness-et-entreprenariat-en-afrique-reportages-fr.zip
     version: '2020-11-02'
+  agribusiness-et-entreprenariat-en-afrique-reportages-fra:
+    description: Reportages sur les innovations et success stories d'entrepreneurs
+      en Afrique dans le domaine agricole, alimentaire et artisanal.
+    language: fra
+    name: AgriBusiness et Entreprenariat en Afrique (Reportages)
+    sha256sum: 3b38cf5b3471b4967e31381401c8890a0ced01f291cbe40b9e862fc1ee0dda64
+    size: 3167358215
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agribusiness-et-entreprenariat-en-afrique-reportages-fra.zip
+    version: '2020-12-09'
   agriculture-cultiver-les-cereales-ble-mais-riz-sorgho-fr:
     description: "S\xE9ries de vid\xE9os sur la culture des c\xE9r\xE9ales : gestion\
       \ des ravageurs, am\xE9liorer le rendement et les m\xE9thodes de cultures, la\
@@ -237,6 +247,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-gestion-durable-des-terres-fr.zip
     version: '2020-09-01'
+  agriculture-gestion-durable-des-terres-fra:
+    description: "S\xE9rie de vid\xE9os sur la gestion durable des terres agricoles\
+      \ (fertilit\xE9, irrigation, rendement et production)."
+    language: fra
+    name: Agriculture - Gestion durable des terres
+    sha256sum: 0425a01cb3032d63ae6240e262cc01fce6b5edf3984965ec05555631c5908a9e
+    size: 1270397228
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-gestion-durable-des-terres-fra.zip
+    version: '2020-12-09'
   agriculture-kilimo-la-culture-des-fruits-le-gumes-cereales-e-pices-noix-e-books-sw:
     description: "S\xE9rie de manuels en kiswahili (Tanzanie) sur les m\xE9thodes\
       \ de culture des fruits, des l\xE9gumes, des \xE9pices, des noix..."
@@ -727,6 +747,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-fr.zip
     version: '2019-09-19'
+  apprenez-le-francais-methode-talisman-brise-twige-igifaransa-gl-fr:
+    description: "Quelques bases pour progresser en fran\xE7ais. / Inyigisho zibanze\
+      \ mugifaransa."
+    language: fr
+    name: "Apprenez le fran\xE7ais (m\xE9thode Talisman bris\xE9) / Twige  igifaransa"
+    sha256sum: 5eed91ba4e683fe660a5e09d6709f11e8d9452d0b0b8bd52e167a8f36f7557c9
+    size: 719337472
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/apprenez-le-francais-methode-talisman-brise-twige-igifaransa-gl-fr.zip
+    version: '2020-12-09'
   apprenez-le-francais-niveau-a1-fr:
     description: "Le niveau A1 en fran\xE7ais, c'est \xEAtre capable de comprendre\
       \ et d'utiliser des expressions famili\xE8res et quotidiennes, ainsi que des\
@@ -4393,11 +4423,11 @@ all:
       \ \xE0 aujourd'hui), sa g\xE9ographie, sa culture."
     language: fr
     name: "Histoire, G\xE9ographie et culture du Burundi / Kahise ka Uburundi"
-    sha256sum: 29f9e8d8c99f42e54b4d515500b564111c21bd7535f4b8e977cbb9a196a10862
-    size: 761174672
+    sha256sum: fe59a530dec6772c1c34873e9712bbca2c81b2ddb4a0ec2c4023db2d1356e0ac
+    size: 744825623
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-geographie-et-culture-du-burundi-kahise-ka-uburundi-fr.zip
-    version: '2020-11-06'
+    version: '2020-12-09'
   histoire-gl-fr:
     description: "Revenir sur les enjeux de l'histoire permet parfois de mieux comprendre\
       \ les \xE9v\xE8nements du pr\xE9sent. / Kahise ka Afrika."
@@ -4631,11 +4661,11 @@ all:
       \ dure 15 minutes et traite d'un droit en particulier."
     language: rn
     name: 'Icirore Cacu : feuilleton audio sur les droits des enfants (kirundi)'
-    sha256sum: 3db6841a91acb049d84c1c7de55ad72e0e3a08f978f156f21864bfb673262cff
-    size: 294859092
+    sha256sum: 4e0cfee5be43269e56fb3869ce563f7d59e11104314bfa80860e493f93da1f60
+    size: 331174924
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/icirore-cacu-feuilleton-audio-sur-les-droits-des-enfants-kirundi-rn.zip
-    version: '2020-11-06'
+    version: '2020-12-09'
   idb-team-in-bangaldesh-facilitation-help-ben:
     description: '-'
     language: ben
