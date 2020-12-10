@@ -4962,6 +4962,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-a-la-biologie-et-a-la-chimie-fr.zip
     version: '2020-03-09'
+  introduction-a-la-physique-fr:
+    description: "Cette collection de contenus comprend des vid\xE9os et des entretiens\
+      \ de chercheurs sur des domaines vari\xE9s de la physique"
+    language: fr
+    name: Physique
+    sha256sum: 185e8ffe44433987332e6664f6e9846974166a07bf49242532b3a4e96e636153
+    size: 1882566912
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/introduction-a-la-physique-fr.zip
+    version: '2020-12-10'
   introduction-au-do-it-youself-fr:
     description: "Le \"Do It Yourself\" est un mouvement qui pr\xF4ne la r\xE9paration\
       \ et la  fabrication d'objets par soi-m\xEAme, sans s'appuyer sur l'aide d'experts.\
@@ -5309,6 +5319,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/kit-de-l-animateur-libre-de-droit-fr.zip
     version: '2019-09-16'
+  kit-sante-techniques-d-animation-fr:
+    description: "La posture \xE9ducative et les techniques d'animation en \xE9ducation\
+      \ pour la sant\xE9"
+    language: fr
+    name: "Kit Sant\xE9 - Techniques d'animation"
+    sha256sum: 33614fe59d0c8d13d99f1985f4d13ca2a7b077b7a2fbe3a87a43c7cdc521fbf4
+    size: 4706529
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/kit-sante-techniques-d-animation-fr.zip
+    version: '2020-12-10'
   kitabu-watoto-children-s-books-sw:
     description: Kitabu Watoto (Children's books). Pictures books for childrens in
       Kiswahili, to read or to be read.
