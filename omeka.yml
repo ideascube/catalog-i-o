@@ -81,16 +81,14 @@ all:
       \ de \xABriders\xBB qui participe \xE0 cr\xE9er un nouvel ordre culturel et\
       \ social en Afrique. Du Ghana au Rwanda, en passant par le S\xE9n\xE9gal et\
       \ l\u2019Ouganda, ces fous de glisse nous confient les cl\xE9s de leur \xAB\
-      playground \xBB : trottoirs caboss\xE9s, places d\xE9sert\xE9es, routes cahoteuses\
-      \ ou encore pistes ensabl\xE9s\u2026 Autant d\u2019obstacles qui font de ces\
-      \ esprits libres de vrais guerriers sur l\u2019asphalte comme dans la vie."
+      playground."
     language: fr
     name: Africa riding
-    sha256sum: f261a08d3cc72327a3a2d17b181e68e356b810fb771dbc617209a1a7ec695e0e
-    size: 1070732132
+    sha256sum: fd0b5de85b29edf343d72648d8001aad1a3295818a82836a5afedcf60595c433
+    size: 1070734604
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/africa-riding-fr.zip
-    version: '2019-09-16'
+    version: '2020-12-11'
   agahdarkirin-raise-awareness-kmr:
     description: "Ez di derbar\xEA maf \xFB jiyana xwe de agahdar dibim / I am learning\
       \ my rights and be aware about my life"
@@ -132,6 +130,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-cultiver-les-cereales-ble-mais-riz-sorgho-fr.zip
     version: '2020-09-01'
+  agriculture-cultiver-les-cereales-ble-mais-riz-sorgho-fra:
+    description: "S\xE9ries de vid\xE9os sur la culture des c\xE9r\xE9ales : gestion\
+      \ des ravageurs, am\xE9liorer le rendement et les m\xE9thodes de cultures, la\
+      \ fertilit\xE9 des sols..."
+    language: fra
+    name: "Agriculture - Cultiver les c\xE9r\xE9ales (Bl\xE9, Ma\xEFs, Riz, Sorgho)"
+    sha256sum: b142eeb1cfa326a303454f8dd6862e0eac62c7bc9edfc6c779318bbc51f9996d
+    size: 1981275141
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-cultiver-les-cereales-ble-mais-riz-sorgho-fra.zip
+    version: '2020-12-11'
   agriculture-cultiver-les-fruits-et-les-graines-cafe-sesame-fr:
     description: "S\xE9rie de vid\xE9os sur la culture des fruits, des graines (caf\xE9\
       , s\xE9same). Gestion des maladies, ravageurs, rendement et plantations jusqu'\xE0\
@@ -143,6 +152,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-cultiver-les-fruits-et-les-graines-cafe-sesame-fr.zip
     version: '2020-09-01'
+  agriculture-cultiver-les-fruits-et-les-graines-cafe-sesame-fra:
+    description: "S\xE9rie de vid\xE9os sur la culture des fruits, des graines (caf\xE9\
+      , s\xE9same). Gestion des maladies, ravageurs, rendement et plantations jusqu'\xE0\
+      \ la transformation agro-alimentaire."
+    language: fra
+    name: "Agriculture - Cultiver les fruits et les graines (caf\xE9, s\xE9same)"
+    sha256sum: c4f17ec1b2243f75fd5a03e9986175d3a942e69013ff80187d6a8570d2809ab6
+    size: 1294813276
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-cultiver-les-fruits-et-les-graines-cafe-sesame-fra.zip
+    version: '2020-12-11'
   agriculture-cultiver-les-legumes-et-legumineuses-fr:
     description: "S\xE9rie de vid\xE9os sur la culture des l\xE9gumes et l\xE9gumineuses\
       \ (Tomate, Oignon, L\xE9gume feuille, Soja, Haricot, Piment, Ni\xE9b\xE9\u2026\
@@ -155,6 +175,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-cultiver-les-legumes-et-legumineuses-fr.zip
     version: '2020-09-01'
+  agriculture-cultiver-les-legumes-et-legumineuses-fra:
+    description: "S\xE9rie de vid\xE9os sur la culture des l\xE9gumes et l\xE9gumineuses\
+      \ (Tomate, Oignon, L\xE9gume feuille, Soja, Haricot, Piment, Ni\xE9b\xE9\u2026\
+      ). Des m\xE9thodes de plantation, de protection contre les maladies et ravageurs,\
+      \ pour augmenter le rendement et am\xE9liorer le stockage jusqu'\xE0 la transformation."
+    language: fra
+    name: "Agriculture - Cultiver les l\xE9gumes et l\xE9gumineuses"
+    sha256sum: 805105b328b895fe453ce02b2f404e7706f7258be1b3e2bc63182ee6bcd29db6
+    size: 2049406295
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-cultiver-les-legumes-et-legumineuses-fra.zip
+    version: '2020-12-11'
   agriculture-cultiver-les-racines-et-les-tubercules-fr:
     description: "S\xE9rie de vid\xE9os sur la bonne culture des racines et des tubercules\
       \ (manioc, pommes de terre), la gestion des ravageurs et la gestion des terres."
@@ -165,6 +197,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-cultiver-les-racines-et-les-tubercules-fr.zip
     version: '2020-09-01'
+  agriculture-cultiver-les-racines-et-les-tubercules-fra:
+    description: "S\xE9rie de vid\xE9os sur la bonne culture des racines et des tubercules\
+      \ (manioc, pommes de terre), la gestion des ravageurs et la gestion des terres."
+    language: fra
+    name: Agriculture - Cultiver les racines et les tubercules
+    sha256sum: 4db54f1131cbf4ac4c85cd343516273db4dbea05b8d2b313b1ca7f099b34c0fc
+    size: 1785221915
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-cultiver-les-racines-et-les-tubercules-fra.zip
+    version: '2020-12-11'
   agriculture-ecology-documentary-in-burmese-mm:
     description: Documentaries about agricultural technics in Myanmar and about ecology
       and how to take care of the environement, mostly in Burmese language
@@ -205,6 +247,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-engins-agricoles-fr.zip
     version: '2020-09-01'
+  agriculture-engins-agricoles-fra:
+    description: "Vid\xE9os pr\xE9sentant plusieurs types d'engins agricoles et leur\
+      \ utilisation pour l'agriculture."
+    language: fra
+    name: Agriculture - Engins agricoles
+    sha256sum: 08bde74cff0ee5da15a7b9cc537549aa3c0eb5cebbc843e2939effd3b7773312
+    size: 156355789
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-engins-agricoles-fra.zip
+    version: '2020-12-11'
   agriculture-gardening-en:
     description: Discover your green fingers and create a living environment that
       lets you live in harmony with nature.
@@ -237,6 +289,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-gestion-des-ravageurs-et-maladies-des-cultures-fr.zip
     version: '2020-09-01'
+  agriculture-gestion-des-ravageurs-et-maladies-des-cultures-fra:
+    description: "S\xE9rie de vid\xE9os indiquant comment g\xE9rer, lutter et se prot\xE9\
+      ger des ravageurs et destructeurs de cultures ainsi que diverses maladies des\
+      \ cultures."
+    language: fra
+    name: Agriculture - Gestion des ravageurs et maladies des cultures
+    sha256sum: 39d734c0fd06570ffccf184b1a8f404059f7ead8a4db1e8e3926b8da24a4607b
+    size: 1692375004
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/agriculture-gestion-des-ravageurs-et-maladies-des-cultures-fra.zip
+    version: '2020-12-11'
   agriculture-gestion-durable-des-terres-fr:
     description: "S\xE9rie de vid\xE9os sur la gestion durable des terres agricoles\
       \ (fertilit\xE9, irrigation, rendement et production)."
@@ -752,11 +815,11 @@ all:
       \ mugifaransa."
     language: fr
     name: "Apprenez le fran\xE7ais (m\xE9thode Talisman bris\xE9) / Twige  igifaransa"
-    sha256sum: 5eed91ba4e683fe660a5e09d6709f11e8d9452d0b0b8bd52e167a8f36f7557c9
+    sha256sum: 27e62bc90b80a09a885157f33bcf6af6f8dcf52a216a1c4f23b1863deb2012b3
     size: 719337472
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprenez-le-francais-methode-talisman-brise-twige-igifaransa-gl-fr.zip
-    version: '2020-12-09'
+    version: '2020-12-11'
   apprenez-le-francais-niveau-a1-fr:
     description: "Le niveau A1 en fran\xE7ais, c'est \xEAtre capable de comprendre\
       \ et d'utiliser des expressions famili\xE8res et quotidiennes, ainsi que des\
@@ -4705,6 +4768,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/il-etait-une-fois-notre-terre-fr.zip
     version: '2019-10-08'
+  imbanyi-zitifujwe-nugusama-imbanyi-hataragera-prevenir-grossesses-non-desirees-precoces-gl-rn:
+    description: "Pr\xE9venir les grossesses non d\xE9sir\xE9es et les grossesses\
+      \ pr\xE9coces / Imbanyi zitifujwe , nugusama imbanyi hataragera."
+    language: rn
+    name: Imbanyi zitifujwe, nugusama imbanyi hataragera
+    sha256sum: 49ded03bb1117ba91e4c5f2ad0a2bd61b8543f72728296dd316344c25c17a873
+    size: 4984157566
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/imbanyi-zitifujwe-nugusama-imbanyi-hataragera-prevenir-grossesses-non-desirees-precoces-gl-rn.zip
+    version: '2020-12-11'
   information-mayotte-repema-askip-fr:
     description: "ASKIP : 10 vid\xE9os en fran\xE7ais cr\xE9ole propos\xE9es par le\
       \ R\xE9seau P\xE9rinatal de Mayotte (REPEMA) pour vous familiariser, prendre\
@@ -5897,6 +5970,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-guitar-eng.zip
     version: '2020-12-02'
+  learn-maths-and-sciences-primary-school-e-books-sw:
+    description: Books and exercices books to learn mathematics  and sciences in primary
+      school. / Jifunze Hisabati.
+    language: sw
+    name: Learn Maths and Sciences (Primary School) - E-Books
+    sha256sum: 4847050049f727872de8ff484fccc0ef2f987ca2483080be6962fda7096d4ed8
+    size: 32785264
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/learn-maths-and-sciences-primary-school-e-books-sw.zip
+    version: '2020-12-11'
   learn-photography-en:
     description: Learn how to create great pictures, acquire the basic skills to become
       a photographer !
