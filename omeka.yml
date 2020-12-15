@@ -1988,6 +1988,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comprendre-la-nature-qui-nous-entoure-fr.zip
     version: '2020-11-02'
+  comprendre-le-cerveau-des-enfants-fr:
+    description: "Mieux comprendre les enfants, leur cerveau et son d\xE9veloppement\
+      \ mais aussi leurs capacit\xE9s et les \xE9volutions de ces derni\xE8res en\
+      \ fonction des \xE2ges. \r\nDes vid\xE9os \xE0 destinations des parents, grands-parents,\
+      \ enseignants, animateurs mais aussi fr\xE8res et s\u0153urs qui se posent des\
+      \ questions."
+    language: fr
+    name: Comprendre le cerveau des enfants
+    sha256sum: 06a9a5f3005018888dba0406a803ee1c213af51d585398a581332a81103f3148
+    size: 263184529
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/comprendre-le-cerveau-des-enfants-fr.zip
+    version: '2020-12-15'
   comprendre-le-rechauffement-climatique-fr:
     description: "Ressources pour comprendre le r\xE9chauffement climatique et ses\
       \ enjeux."
@@ -2193,6 +2206,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cours-d-electronique-analogique-fr.zip
     version: '2020-09-09'
+  cours-de-hiphop-et-breakdance-fr:
+    description: "Vous trouverez ici des tutoriels vid\xE9o pour apprendre la danse\
+      \ Hip Hop et Breakdance. Au-del\xE0 d'une danse, le hip-hop est un courant culturel\
+      \ qui prend ses origines \xE0 la fin des ann\xE9es 1970 aux \xC9tats-Unis et\
+      \ en particulier dans les rues de New York."
+    language: fr
+    name: Cours de HipHop et Breakdance
+    sha256sum: 8678c655799df53535abf5c7143f1d488b9a4b228ea89b8ecf3228213f9f7109
+    size: 4159569455
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/cours-de-hiphop-et-breakdance-fr.zip
+    version: '2020-12-15'
   couture-debutant-tutoriels-videos-et-guides-fr:
     description: "S\xE9ries de tutoriels vid\xE9os et de guides illustr\xE9s pour\
       \ d\xE9buter en couture, apprendre les gestes techniques de base et commencer\
@@ -2663,16 +2688,26 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/dance-bangla-bn.zip
     version: '2020-09-15'
+  danse-contemporaine-gl-fr:
+    description: "Des collectifs de danse reprennent ou inventent des chor\xE9graphies\
+      \ de chansons modernes et connues."
+    language: fr
+    name: Danse contemporaine
+    sha256sum: 1eaa37314e6d7f7485f99e28ed464feda33d267db220d548acd6bee90ac61b81
+    size: 216164645
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/danse-contemporaine-gl-fr.zip
+    version: '2020-12-15'
   danses-traditionnelles-et-chansons-du-burundi-gl-rn:
-    description: "Vid\xE9os de  danses traditionnelles et chants du Burundi\r\nVid\xE9\
-      os z'intambo n'imvyino kama z'Uburundi"
+    description: "Vid\xE9os de  danses traditionnelles et chants du Burundi /\r\n\
+      Vid\xE9os z'intambo n'imvyino kama z'Uburundi"
     language: rn
     name: Danses traditionnelles et chansons du Burundi / Intambo n'imvyino kama z'Uburundi
-    sha256sum: aef27b13bbaf82307214c865bc1a96b2b00e95c06b0ef89c6ccd33b1cfccf566
+    sha256sum: a76306da4d0a9eea5bfb494b16878c94db4f162ef6fb0be6a34b5b1d38734e95
     size: 252268617
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/danses-traditionnelles-et-chansons-du-burundi-gl-rn.zip
-    version: '2020-11-06'
+    version: '2020-12-15'
   davinci-resolve-video-editor-en:
     description: DaVinci Resolve is a color correction and non-linear video editing
       application for macOS, Windows, and Linux
@@ -3022,6 +3057,55 @@ all:
     size: 208053898
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/diventa-un-scrittore-it.zip
+    version: '2020-12-15'
+  diversite-culturelle-danses-fr:
+    description: "D\xE9couvrez diff\xE9rents types de danse \xE0 travers le temps\
+      \ et \xE0 travers diff\xE9rentes r\xE9gions du monde."
+    language: fr
+    name: "Diversit\xE9 culturelle - Danses"
+    sha256sum: 2fde6e9a81b38bbea826ec9ef8caf1859142b7b68e6084c2b95b1ff7dd97886d
+    size: 1404606514
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/diversite-culturelle-danses-fr.zip
+    version: '2020-12-15'
+  diversite-culturelle-habitats-et-habitations-fr:
+    description: "Les habitations des humains sont extr\xEAmement divers sur la plan\xE8\
+      te. Ils ont \xE9t\xE9 construit en fonction de l'environnement, du climat, mais\
+      \ aussi de la culture des peuples et sont un reflet de la diversit\xE9 humaine.\r\
+      \nDans ce paquet, vous d\xE9couvrirez un document de synth\xE8se sur l'habitat,\
+      \ les habitations et leur diversit\xE9 ainsi que plusieurs photos d'habitation,\
+      \ qui viennent en illustration."
+    language: fr
+    name: "Diversit\xE9 culturelle - Habitats et Habitations"
+    sha256sum: 09fec8e7dc6c879ea28cc18e6a7c0b80deb54b160c34502d896f9220a1e120d4
+    size: 5751855
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/diversite-culturelle-habitats-et-habitations-fr.zip
+    version: '2020-12-15'
+  diversite-culturelle-langues-et-systemes-d-ecritures-fr:
+    description: "Dans ce paquet, vous d\xE9couvrirez un document de synth\xE8se sur\
+      \ les langues et les syst\xE8mes d'\xE9critures ainsi que des vid\xE9os pour\
+      \ d\xE9couvrir \xE0 l'oral comment dire 'Bonjour' et se pr\xE9senter \xE0 travers\
+      \ le monde et le pr\xE9ambule de la d\xE9claration universelle des droits de\
+      \ l'homme reproduite dans plusieurs syst\xE8me d'\xE9criture diff\xE9rents."
+    language: fr
+    name: "Diversit\xE9 culturelle - Langues et Syst\xE8mes d'\xE9critures"
+    sha256sum: 8c5d69ea7f42032896bd102b74f4acb6e4344a5ac0061f0e0ddc74b388b29247
+    size: 313149171
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/diversite-culturelle-langues-et-systemes-d-ecritures-fr.zip
+    version: '2020-12-15'
+  diversite-culturelle-musiques-et-instruments-411:
+    description: "D\xE9couvrez diff\xE9rents types de musiques de plein de r\xE9gion\
+      \ du monde. \r\nAvec ces vid\xE9os vous verrez de la musique traditionnelle\
+      \ de plusieurs pays, avec leur instrument traditionnels et parfois avec quelques\
+      \ pas de danse!"
+    language: '411'
+    name: "Diversit\xE9 Culturelle - Musiques et Instruments"
+    sha256sum: e5682346c543d22d7c504dcaf07284ebf81d8ba81b4c195b6f2cff2e5205b603
+    size: 501075685
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/diversite-culturelle-musiques-et-instruments-411.zip
     version: '2020-12-15'
   diy-handcrafts-and-arts-ar:
     description: "Learn how to do useful objects for yourself, your kids, your friends,\
@@ -3792,6 +3876,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fauna-and-flora-of-saint-martin-en.zip
     version: '2020-02-26'
+  faune-et-flore-dans-le-monde-documentaires-enfants-fr:
+    description: "Viens d\xE9couvrir quelques merveilles de la nature avec ces documentaires\
+      \ de National g\xE9ographie, sp\xE9cialement d\xE9di\xE9s aux enfants!"
+    language: fr
+    name: Faune et Flore dans le monde - Documentaires enfants
+    sha256sum: 1a3c3836ddda7b2bffd3959402fdeacec0608d4a26471daa1f215f7321189dbc
+    size: 275505469
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/faune-et-flore-dans-le-monde-documentaires-enfants-fr.zip
+    version: '2020-12-15'
   feuilleton-ninde-rtnb-rn:
     description: "\xC9missions TV \"Ninde\" du Burundi sur des sujets de SSR. /\r\n\
       Ikiganiro \"NINDE\" gica kuri tereviziyo y'uburundi kivuga mu bijanye n'irondoka\
@@ -3955,6 +4049,29 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fitness-for-kids-ar.zip
     version: '2019-11-21'
+  focus-covid-deconstruire-les-fake-news-fr:
+    description: "Comment v\xE9rifier les informations qui circulent sur la covid-19?\
+      \ Que peut on croire?"
+    language: fr
+    name: "Focus Covid - D\xE9construire les fake news"
+    sha256sum: 5ad9cfdabc6248dfea5f7c027b51a66f7981b0ac913b7b81059b5905aa2ce42c
+    size: 56379917
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/focus-covid-deconstruire-les-fake-news-fr.zip
+    version: '2020-12-15'
+  focus-covid-en-parler-et-accueillir-la-parole-fr:
+    description: "Afin de comprendre ce qu'est le virus Covid-19 et pourquoi nous\
+      \ sommes tous impact\xE9s, mais aussi afin d'en parler en groupe, voici deux\
+      \ parcours, un pour les 8-13 ans et un pour les 14-18 ans. \r\nLes animateurs\
+      \ y trouveront des fiches activit\xE9s et tous les documents qui vont avec pour\
+      \ cr\xE9er des temps d'explications et de partage autour de la Covid-19."
+    language: fr
+    name: Focus Covid - En parler et accueillir la parole
+    sha256sum: 252376500538ba7d041a08024a4c373d0639f4f6d349ea2443a95b28f23fac9b
+    size: 34464102
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/focus-covid-en-parler-et-accueillir-la-parole-fr.zip
+    version: '2020-12-15'
   focus-covid-l-essentiel-des-connaissances-fr:
     description: "Voici l'essentiel des connaissances, ce qu'il faut savoir pour comprendre\
       \ la Covid-19 et pour agir en cons\xE9quence."
@@ -4261,6 +4378,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/grossesse-a-l-adolescence-fr.zip
     version: '2019-10-10'
+  guide-d-utilisation-d-une-tablette-fr:
+    description: "Ce guide s\u2019adresse aux particuliers et aux professionnels d\xE9\
+      sirant accompagner une personne dans la d\xE9couverte et l\u2019usage d\u2019\
+      une tablette tactile, fonctionnant avec les syst\xE8mes Andro\xEFd ou iOS."
+    language: fr
+    name: Guide d'utilisation d'une tablette
+    sha256sum: 07a6972b2f4fd16dde41862a8d580dc852ba1b3e3cd8fe64ff3daa1926847cc3
+    size: 35338769
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/guide-d-utilisation-d-une-tablette-fr.zip
+    version: '2020-12-15'
   guides-de-formation-d-animateurs-communautaires-afrique-fr:
     description: "Deux Guides de formation (\xE9dit\xE9s par Unicef et IRC) \xE0 destination\
       \ des jeunes animateurs communautaires pour le d\xE9veloppement des comp\xE9\
@@ -4293,6 +4421,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/handcraft-origami-en.zip
     version: '2019-09-17'
+  handicap-et-sport-fr:
+    description: "Faire du sport, une activit\xE9 \xE0 port\xE9e de tous !"
+    language: fr
+    name: Handicap et sport
+    sha256sum: 9a0150dd1269133d56520740e9e7c78f572e67dfe78fc5aad62d1586c10153c8
+    size: 1841896111
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/handicap-et-sport-fr.zip
+    version: '2020-12-15'
   handicraft-mm:
     description: Several handicraft tutorial, in burmese and in video without language
     language: mm
@@ -4890,16 +5027,16 @@ all:
     version: '2020-07-03'
   icirore-cacu-feuilleton-audio-sur-les-droits-des-enfants-kirundi-rn:
     description: "Tumunye Amasezerano yubahiriza agateka kabana biciye migikino.\r\
-      \n\r\n36 \xE9pisodes du feuilleton \"Icirore Cacu\" qui abordent les droits\
-      \ internationaux \xE0 travers une s\xE9rie de personnages.\r\nChaque \xE9pisode\
-      \ dure 15 minutes et traite d'un droit en particulier."
+      \n36 \xE9pisodes du feuilleton \"Icirore Cacu\" qui abordent les droits internationaux\
+      \ \xE0 travers une s\xE9rie de personnages.\r\nChaque \xE9pisode dure 15 minutes\
+      \ et traite d'un droit en particulier."
     language: rn
     name: 'Icirore Cacu : feuilleton audio sur les droits des enfants (kirundi)'
-    sha256sum: 4e0cfee5be43269e56fb3869ce563f7d59e11104314bfa80860e493f93da1f60
+    sha256sum: 63ec614acb630cfb90a60dc0a9e36730d1fdb7ae195f158d42cf30c6dbfff170
     size: 331174924
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/icirore-cacu-feuilleton-audio-sur-les-droits-des-enfants-kirundi-rn.zip
-    version: '2020-12-09'
+    version: '2020-12-15'
   idb-team-in-bangaldesh-facilitation-help-ben:
     description: '-'
     language: ben
@@ -4939,6 +5076,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/il-etait-une-fois-notre-terre-fr.zip
     version: '2019-10-08'
+  ils-ont-ton-age-arte-junior-fr:
+    description: "S\xE9rie 'Ils ont ton \xE2ge' de Arte Junior. Comment vivent les\
+      \ enfants et les ados ailleurs dans le monde ? Dans cette s\xE9rie, des gar\xE7\
+      ons et des filles du monde entier te pr\xE9sentent leur quotidien, leur famille\
+      \ et leurs hobbys."
+    language: fr
+    name: "Ils ont ton \xE2ge - Arte Junior"
+    sha256sum: d15d3b469152148d174717160d944026f58cd0f2a5dfc0f67f0198a0fef7fe7a
+    size: 4082008303
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ils-ont-ton-age-arte-junior-fr.zip
+    version: '2020-12-15'
   imbanyi-zitifujwe-nugusama-imbanyi-hataragera-prevenir-grossesses-non-desirees-precoces-gl-rn:
     description: "Pr\xE9venir les grossesses non d\xE9sir\xE9es et les grossesses\
       \ pr\xE9coces / Imbanyi zitifujwe , nugusama imbanyi hataragera."
@@ -5571,6 +5720,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/kids-magazine-ar.zip
     version: '2019-11-21'
+  kit-animation-genre-et-difference-fr:
+    description: "Contenus pour organiser des animations sur la th\xE9matique du genre\
+      \ et de la diff\xE9rence."
+    language: fr
+    name: "Kit animation genre et diff\xE9rence"
+    sha256sum: 93b70fb5352a9c112bf21f6916b916836f10c42c3cb0d3974fef85de0439c5b4
+    size: 14392580
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/kit-animation-genre-et-difference-fr.zip
+    version: '2020-12-15'
   kit-d-animation-jeune-public-en-mediatheque-alliance-francaise-madagascar-fr:
     description: "Le but principal de disposer de ce kit d\u2019animation est d\u2019\
       outiller les m\xE9diath\xE9caires, animateurs et enseignants des 29 Alliances\
@@ -5918,11 +6077,11 @@ all:
     description: "Le changement climatique expliqu\xE9 aux enfants"
     language: fr
     name: "Le changement climatique expliqu\xE9 aux enfants"
-    sha256sum: 72da6df0ea16f4af8e991b36a3bdf24be1a239b19e48705310317b08e21abfc7
-    size: 107741360
+    sha256sum: 59a7a33e65e4a86ac910912d43a2c77cfc23b4db89e886e86e5d25db27ce7cf3
+    size: 148524533
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/le-changement-climatique-explique-aux-enfants-fr.zip
-    version: '2020-11-02'
+    version: '2020-12-15'
   le-dialogue-entre-parents-et-enfants-sur-la-ssr-ikiyago-hagati-yabavyeyi-n-urwaruka-2-rn:
     description: "Pourquoi, comment et quand parler \xE0 ses enfants de sexualit\xE9\
       \ ? R\xE9pondons aux questions de nos enfants pour un avenir meilleur !\r\n\
@@ -6718,6 +6877,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/marketing-fr.zip
     version: '2019-10-25'
+  materiel-pedagogique-les-emotions-expliquees-aux-enfants-associer-avec-700-fr:
+    description: "Mat\xE9riel p\xE9dagogique avec des cartes \xE0 jou\xE9s, des \xE9\
+      motic\xF4nes et des images pour aider \xE0 parler des \xE9motions avec les enfants\
+      \ et les jeunes adolescents."
+    language: fr
+    name: "Mat\xE9riel p\xE9dagogique - Les \xE9motions expliqu\xE9es aux enfants"
+    sha256sum: 77a480e3472f3b8b72c780445db2bb90c2664868ed7f91cfdc7aad6462d3d456
+    size: 1169488
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/materiel-pedagogique-les-emotions-expliquees-aux-enfants-associer-avec-700-fr.zip
+    version: '2020-12-15'
   mathematic-bangla-bn:
     description: Learn about mathematics, in this basic level you can enhance your
       knowledges in the number and various matematical operations
@@ -7785,6 +7955,21 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/parentalite-fr.zip
     version: '2019-10-08'
+  parentalite-positive-fr:
+    description: "\xCAtre confronter \xE0 un enfant qui grandit, \xE0 \xE7a capacit\xE9\
+      \ ou son incapacit\xE9 \xE0 apprendre et comprendre certaines choses, \xE0 ses\
+      \ r\xE9actions parfois inexplicables \xE0 nos yeux d'adultes, est parfois frustrant.\
+      \ \r\nCes quelques vid\xE9os proposent des notions de psychologie et de biologie\
+      \ pour mieux comprendre les enfants. Elles proposent des conseils et astuces,\
+      \ qu'il vous revient ensuite d'adopt\xE9 et d'adapt\xE9 \xE0 votre vie de tous\
+      \ les jours."
+    language: fr
+    name: "Parentalit\xE9 positive"
+    sha256sum: 041d7e691b5c8c96f82845725fdb85e81ee0f3c7b4d65bcee1a294ab332a42e1
+    size: 100894237
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/parentalite-positive-fr.zip
+    version: '2020-12-15'
   parenthood-en:
     description: Useful Motherhood and Parenting tips and information. Helping parents
       dealing with their children and having a healthy relationship
@@ -7812,6 +7997,20 @@ all:
     size: 69907681
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/parti-a-la-scoperta-del-arte-italiana-it.zip
+    version: '2020-12-15'
+  patrimonito-et-les-aventures-du-patrimoines-mondial-411:
+    description: "Patrimonito signifie \xAB petit patrimoine \xBB en espagnol et repr\xE9\
+      sente un jeune gardien du patrimoine.\r\nEn 2002, une s\xE9rie de dessins anim\xE9\
+      s intitul\xE9e Patrimonito et les Aventures du patrimoine mondial a \xE9t\xE9\
+      \ lanc\xE9e par l'UNESCO. Patrimonito y fait d\xE9couvrir les sites du patrimoine\
+      \ mondial, les menaces auxquelles ils sont expos\xE9s et propose des solutions\
+      \ pour les pr\xE9server."
+    language: '411'
+    name: Patrimonito et les aventures du patrimoines mondial
+    sha256sum: 3185a6d48b84e4971b87d7e828f2c947402579cf13f68cb26dc480dffc5611c6
+    size: 376932065
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/patrimonito-et-les-aventures-du-patrimoines-mondial-411.zip
     version: '2020-12-15'
   patron-pour-coudre-une-jupe-a-volants-fille-fr:
     description: "Ce paquet de contenus pr\xE9sente des patrons qui peuvent \xEAtre\
@@ -9073,6 +9272,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/technology-ar.zip
     version: '2019-11-21'
+  terre-et-vie-documentaires-enfants-fr:
+    description: "Gr\xE2ce \xE0 ces courts documentaires propos\xE9s par Arte Junior,\
+      \ d\xE9couvre le big bang, la formation de la terre et de la lune et l'apparition\
+      \ de la vie sur terre."
+    language: fr
+    name: Terre et Vie - Documentaires enfants
+    sha256sum: 14ac4a04069b1e97dcf15b4e8f90bc6506cfc4b8d3e1356a55b950a236a48c57
+    size: 38260364
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/terre-et-vie-documentaires-enfants-fr.zip
+    version: '2020-12-15'
   test-archive-zip-fr:
     description: Test archive zip
     language: fr
