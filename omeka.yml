@@ -2213,11 +2213,11 @@ all:
       \ en particulier dans les rues de New York."
     language: fr
     name: Cours de HipHop et Breakdance
-    sha256sum: 8678c655799df53535abf5c7143f1d488b9a4b228ea89b8ecf3228213f9f7109
+    sha256sum: ce5c0f34563bed20afce027a32b6ac4fcad42869c6db7600cfa9bcb29ac6768b
     size: 4159569455
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cours-de-hiphop-et-breakdance-fr.zip
-    version: '2020-12-15'
+    version: '2020-12-17'
   couture-debutant-tutoriels-videos-et-guides-fr:
     description: "S\xE9ries de tutoriels vid\xE9os et de guides illustr\xE9s pour\
       \ d\xE9buter en couture, apprendre les gestes techniques de base et commencer\
@@ -2703,11 +2703,11 @@ all:
       Vid\xE9os z'intambo n'imvyino kama z'Uburundi"
     language: rn
     name: Danses traditionnelles et chansons du Burundi / Intambo n'imvyino kama z'Uburundi
-    sha256sum: a76306da4d0a9eea5bfb494b16878c94db4f162ef6fb0be6a34b5b1d38734e95
+    sha256sum: fee990059cd3b765e72013503ee5084a0522025b0a02fa31e2bc7929f1a13429
     size: 252268617
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/danses-traditionnelles-et-chansons-du-burundi-gl-rn.zip
-    version: '2020-12-15'
+    version: '2020-12-17'
   davinci-resolve-video-editor-en:
     description: DaVinci Resolve is a color correction and non-linear video editing
       application for macOS, Windows, and Linux
@@ -3059,54 +3059,63 @@ all:
     url: http://packages.ideascube.org/omeka/diventa-un-scrittore-it.zip
     version: '2020-12-15'
   diversite-culturelle-danses-fr:
-    description: "D\xE9couvrez diff\xE9rents types de danse \xE0 travers le temps\
-      \ et \xE0 travers diff\xE9rentes r\xE9gions du monde."
+    description: "D\xE9couvrez diff\xE9rents types de danse pratiquer hier et aujourd'hui\
+      \ dans plusieurs r\xE9gions du monde.\r\n\r\nMaintenant, cr\xE9er votre propre\
+      \ enregistrement vid\xE9o pour pr\xE9senter la ou les danses pratiquer chez\
+      \ vous!"
     language: fr
     name: "Diversit\xE9 culturelle - Danses"
-    sha256sum: 2fde6e9a81b38bbea826ec9ef8caf1859142b7b68e6084c2b95b1ff7dd97886d
+    sha256sum: 8b4ff6f0d88d131c0c3a4198d59cb1c0b8f833a04371aae45705dafec425b1d7
     size: 1404606514
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/diversite-culturelle-danses-fr.zip
-    version: '2020-12-15'
+    version: '2020-12-17'
   diversite-culturelle-habitats-et-habitations-fr:
     description: "Les habitations des humains sont extr\xEAmement divers sur la plan\xE8\
       te. Ils ont \xE9t\xE9 construit en fonction de l'environnement, du climat, mais\
       \ aussi de la culture des peuples et sont un reflet de la diversit\xE9 humaine.\r\
       \nDans ce paquet, vous d\xE9couvrirez un document de synth\xE8se sur l'habitat,\
       \ les habitations et leur diversit\xE9 ainsi que plusieurs photos d'habitation,\
-      \ qui viennent en illustration."
+      \ qui viennent en illustration.\r\n\r\nMaintenant, cr\xE9er votre propre enregistrement\
+      \ (vid\xE9o, photos et texte... tout est possible!) pour pr\xE9senter les habitats\
+      \ dans votre r\xE9gion du monde!"
     language: fr
     name: "Diversit\xE9 culturelle - Habitats et Habitations"
-    sha256sum: 09fec8e7dc6c879ea28cc18e6a7c0b80deb54b160c34502d896f9220a1e120d4
-    size: 5751855
+    sha256sum: 21195d36582d17a527a574890dce145bd674bba56f7475b30ec0afb1072c3d3c
+    size: 5751856
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/diversite-culturelle-habitats-et-habitations-fr.zip
-    version: '2020-12-15'
+    version: '2020-12-17'
   diversite-culturelle-langues-et-systemes-d-ecritures-fr:
     description: "Dans ce paquet, vous d\xE9couvrirez un document de synth\xE8se sur\
       \ les langues et les syst\xE8mes d'\xE9critures ainsi que des vid\xE9os pour\
       \ d\xE9couvrir \xE0 l'oral comment dire 'Bonjour' et se pr\xE9senter \xE0 travers\
       \ le monde et le pr\xE9ambule de la d\xE9claration universelle des droits de\
-      \ l'homme reproduite dans plusieurs syst\xE8me d'\xE9criture diff\xE9rents."
+      \ l'homme reproduite dans plusieurs syst\xE8me d'\xE9criture diff\xE9rents.\r\
+      \nMaintenant, cr\xE9er votre propre enregistrement (audio, vid\xE9o, texte...\
+      \ tout est possible!) pour pr\xE9senter votre langue et votre syst\xE8me d'\xE9\
+      criture!"
     language: fr
     name: "Diversit\xE9 culturelle - Langues et Syst\xE8mes d'\xE9critures"
-    sha256sum: 8c5d69ea7f42032896bd102b74f4acb6e4344a5ac0061f0e0ddc74b388b29247
+    sha256sum: 52105899576df671e35ce575ddbdd9c4627847c5e4f80cc86fda7bffd524aeec
     size: 313149171
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/diversite-culturelle-langues-et-systemes-d-ecritures-fr.zip
-    version: '2020-12-15'
+    version: '2020-12-17'
   diversite-culturelle-musiques-et-instruments-411:
     description: "D\xE9couvrez diff\xE9rents types de musiques de plein de r\xE9gion\
       \ du monde. \r\nAvec ces vid\xE9os vous verrez de la musique traditionnelle\
       \ de plusieurs pays, avec leur instrument traditionnels et parfois avec quelques\
-      \ pas de danse!"
+      \ pas de danse!\r\n\r\nMaintenant, cr\xE9er votre propre enregistrement (audio,\
+      \ vid\xE9o, photos et texte... tout est possible!) pour pr\xE9senter la musique\
+      \ et les instruments de musique de votre r\xE9gion du monde!"
     language: '411'
     name: "Diversit\xE9 Culturelle - Musiques et Instruments"
-    sha256sum: e5682346c543d22d7c504dcaf07284ebf81d8ba81b4c195b6f2cff2e5205b603
+    sha256sum: 0afcc34ced4eff4c8a55c8887b34ac6d32ca477c8fc5bafa8eb31f54286f3005
     size: 501075685
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/diversite-culturelle-musiques-et-instruments-411.zip
-    version: '2020-12-15'
+    version: '2020-12-17'
   diy-handcrafts-and-arts-ar:
     description: "Learn how to do useful objects for yourself, your kids, your friends,\
       \ and home accessories.// \u062A\u0639\u0644\u0645 \u0643\u064A\u0641\u064A\u0629\
@@ -5032,11 +5041,11 @@ all:
       \ et traite d'un droit en particulier."
     language: rn
     name: 'Icirore Cacu : feuilleton audio sur les droits des enfants (kirundi)'
-    sha256sum: 63ec614acb630cfb90a60dc0a9e36730d1fdb7ae195f158d42cf30c6dbfff170
+    sha256sum: bc62e8b894771e1a0c895b2c867b7cd5f38d906b6f912f5a78a0ada90625f25a
     size: 331174924
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/icirore-cacu-feuilleton-audio-sur-les-droits-des-enfants-kirundi-rn.zip
-    version: '2020-12-15'
+    version: '2020-12-17'
   idb-team-in-bangaldesh-facilitation-help-ben:
     description: '-'
     language: ben
@@ -5083,11 +5092,11 @@ all:
       \ et leurs hobbys."
     language: fr
     name: "Ils ont ton \xE2ge - Arte Junior"
-    sha256sum: d15d3b469152148d174717160d944026f58cd0f2a5dfc0f67f0198a0fef7fe7a
+    sha256sum: 1324a1e273ca54b4cd101ecbc5e97835a073ff0abdb1534dea665396cfc799e2
     size: 4082008303
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ils-ont-ton-age-arte-junior-fr.zip
-    version: '2020-12-15'
+    version: '2020-12-17'
   imbanyi-zitifujwe-nugusama-imbanyi-hataragera-prevenir-grossesses-non-desirees-precoces-gl-rn:
     description: "Pr\xE9venir les grossesses non d\xE9sir\xE9es et les grossesses\
       \ pr\xE9coces / Imbanyi zitifujwe , nugusama imbanyi hataragera."
@@ -8007,11 +8016,11 @@ all:
       \ pour les pr\xE9server."
     language: '411'
     name: Patrimonito et les aventures du patrimoines mondial
-    sha256sum: 3185a6d48b84e4971b87d7e828f2c947402579cf13f68cb26dc480dffc5611c6
+    sha256sum: 7237464618fa673aa9c36a8f0e5cae09560929176e22ca99d9bbae2f9855aaaf
     size: 376932065
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/patrimonito-et-les-aventures-du-patrimoines-mondial-411.zip
-    version: '2020-12-15'
+    version: '2020-12-17'
   patron-pour-coudre-une-jupe-a-volants-fille-fr:
     description: "Ce paquet de contenus pr\xE9sente des patrons qui peuvent \xEAtre\
       \ utilis\xE9s pour coudre une jupe \xE0 volants pour fille. Les patrons sont\
