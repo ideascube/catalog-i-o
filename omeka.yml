@@ -1040,6 +1040,31 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arts-afrique-fr.zip
     version: '2020-02-21'
+  arts-plastique-origami-pop-up-fr:
+    description: "L'origami est l'art japonnais du pliage du papier.\r\nVoici des\
+      \ vid\xE9os pour apprendre \xE0 cr\xE9er des animaux ou des petits objets en\
+      \ papier de couleur dans la tradition japonaise.  Mais aussi des tutos pour\
+      \ cr\xE9er des cartes et des livres pop-up, la aussi en pliant et d\xE9coupant\
+      \ du papier color\xE9."
+    language: fr
+    name: Arts Plastique - Origami & Pop-up
+    sha256sum: 4932b48d016e06c79fe244d6e5df38a9bbab18fd864abafbd4731486d6738bcf
+    size: 902492866
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/arts-plastique-origami-pop-up-fr.zip
+    version: '2020-12-18'
+  arts-plastiques-apprendre-a-dessiner-le-corps-humain-fr:
+    description: "D\xE9couvrez ici diff\xE9rent tuto pour apprendre \xE0 dessiner\
+      \ le corps humain. \xC9tape par \xE9tape, apprenez \xE0 repr\xE9senter le corps\
+      \ sous toutes ses coutures.\r\n\r\nD\xE9tendez-vous, exprimez-vous, cr\xE9ez\
+      \ ! Il y a un artiste en chacun de nous, \xE0 vous de le r\xE9v\xE9ler..."
+    language: fr
+    name: "Arts plastiques - Apprendre \xE0 dessiner le corps humain"
+    sha256sum: 19c47e5210d2b7da6c0e929bf636bd350be0d5bd229a68310d51dd3c15626de9
+    size: 881539990
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/arts-plastiques-apprendre-a-dessiner-le-corps-humain-fr.zip
+    version: '2020-12-18'
   arts-plastiques-fr:
     description: "D\xE9tendez-vous, exprimez-vous, cr\xE9ez ! Il y a un artiste en\
       \ chacun de nous, \xE0 vous de le r\xE9v\xE9ler..."
