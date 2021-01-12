@@ -1374,17 +1374,17 @@ all:
       \ \u0648\u062A\u0637\u0648\u064A\u0631 \u0627\u0644\u0623\u0639\u0645\u0627\u0644\
       \ \u0627\u0648 \u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0648 \u0627\u0644\
       \u0627\u0639\u0644\u0627\u0646 \u0648 \u0627\u0644\u062A\u0633\u0648\u064A\u0642\
-      \ \u0644\u0644\u0645\u0634\u0631\u0648\u0639 in this package we will showeverythin\
+      \ \u0644\u0644\u0645\u0634\u0631\u0648\u0639 In this package we will show everything\
       \ we need about business, how to start one, define partner, managing and developing\
       \ the business and how to advertise the project"
     language: ar
     name: "\u0625\u062F\u0627\u0631\u0629 \u0648\u062A\u0637\u0648\u064A\u0631 \u0627\
       \u0644\u0623\u0639\u0645\u0627\u0644 Business management and development"
-    sha256sum: 6e7447065c3af71adfccbb98d0e5daa5682c3038ae3ef4eec502c093e5563067
+    sha256sum: b88f7c01586795cf3e2f5bcfb70167f16d92be9cc45a467dc3d310c90cf74425
     size: 214066273
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/business-management-and-development-ar.zip
-    version: '2020-07-03'
+    version: '2021-01-12'
   c-est-pas-du-vent-emission-sur-l-ecologie-rfi-fr:
     description: "\xC9mission RFI : \"C'est pas du vent\". Informations et actualit\xE9\
       s sur l'\xE9cologie sur le continent africain et ailleurs."
@@ -4240,11 +4240,11 @@ all:
     language: ar
     name: "Gender inequality \u0639\u062F\u0645 \u0627\u0644\u0645\u0633\u0627\u0648\
       \u0627\u0629 \u0628\u064A\u0646 \u0627\u0644\u062C\u0646\u0633\u064A\u0646"
-    sha256sum: 078f3e35cb6549daf0612055180163337d6e268ada391078aa8fed5b362cea5e
-    size: 35169611
+    sha256sum: 08d9ad6f108ffeac089939bac34fd39f5526f0a9c8a776ff56234c02562a2229
+    size: 44872501
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/gender-inequality-ar.zip
-    version: '2020-07-03'
+    version: '2021-01-12'
   generating-ideas-en:
     description: Techniques to generate ideas
     language: en
@@ -6645,17 +6645,17 @@ all:
     url: http://packages.ideascube.org/omeka/les-violences-sexuelles-expliquees-aux-enfants-gl-fr.zip
     version: '2020-02-14'
   let-s-be-clean-ar:
-    description: "Simple videos on personal hygiene.// \u0641\u064A\u062F\u064A\u0648\
+    description: "Simple videos on personal hygiene / \u0641\u064A\u062F\u064A\u0648\
       \u0647\u0627\u062A \u0639\u0646 \u0627\u0644\u0646\u0638\u0627\u0641\u0629 \u0627\
       \u0644\u0634\u062E\u0635\u064A\u0629"
     language: ar
     name: "Let's be clean [\u0647\u064A\u0627 \u0627\u0644\u0649 \u0627\u0644\u0646\
       \u0638\u0627\u0641\u0629]"
-    sha256sum: 24421280c7adc33944ee082fc4204aca627e7330e2946ee343e9b8feec307253
-    size: 56993386
+    sha256sum: 8e4ae6cefab451ea7e1a3d2bc81a288089c34c93af813ddf7e2943f7c6106ff5
+    size: 56996431
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/let-s-be-clean-ar.zip
-    version: '2019-11-21'
+    version: '2021-01-12'
   let-s-practise-sport-children-en:
     description: Learn more about different sports and about Olympic Games !
     language: en
