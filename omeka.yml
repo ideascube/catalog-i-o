@@ -1384,6 +1384,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/citoyennete-et-politique-fr.zip
     version: '2019-12-10'
+  classic-literature-in-english-contient-uniquement-des-epub-en:
+    description: EBooks from the classic literature of England, France and ancient
+      Greece. All books are in English.
+    language: en
+    name: Classic literature in English
+    sha256sum: 40433c2a10eacefbcf3b8a952dce4e5ea40c23688c1dbeec38ef4c7e593d11ad
+    size: 84264212
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/classic-literature-in-english-contient-uniquement-des-epub-en.zip
+    version: '2021-01-22'
   classic-literature-in-english-en:
     description: EBooks from the classic literature of England, France and ancient
       Greece. All books are in English.
