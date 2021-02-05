@@ -1,5 +1,5 @@
 all:
-  wikipedia.mg:
+  wikipedia_mg_all:
     name: Wikipedia
     description: "Avy amin'i Wikipedia"
     version: "2019-05-04"
@@ -9,7 +9,7 @@ all:
     sha256sum: "ef6b6366f2f4d9cde4bdb58302067746e8005c8fc5b614da5407986cdb6bab61"
     type: zim
     langid: "wikipedia.mg"
-  wikipedia.pl:
+  wikipedia_pl_all:
     name: Wikipedia
     description: "Z Wikipedii, wolnej encyklopedii"
     version: "2018-07-01"
@@ -19,7 +19,7 @@ all:
     sha256sum: "cb8dfdfd7735bfb7d0528fa6ed9a2e7910384e6bb5278d9f0f8e442cb84c7a45"
     type: zim
     langid: "wikipedia.pl"
-  wiktionary.es:
+  wiktionary_es:
     name: Wikcionario
     description: "De Wikcionario, el diccionario libre"
     version: "2018-10-01"
@@ -29,7 +29,7 @@ all:
     sha256sum: "58e9b0ed4fb3aa37be417d3973a23dde4a50d58ddaa9fea4986afc86747ae2a3"
     type: zim
     langid: "wiktionary.es"
-  wiktionary.ti:
+  wiktionary_ti:
     name: Wiktionary
     description: "From Wiktionary"
     version: "2019-04-01"
@@ -39,7 +39,7 @@ all:
     sha256sum: "965a31a8c39dadc467de1d5462d7239adc59c3302e31c08848747679636e4b5c"
     type: zim
     langid: "wiktionary.ti"
-  wikipedia.ti:
+  wikipedia_ti_all:
     name: Wikipedia
     description: "From Wikipedia"
     version: "2019-04-01"
@@ -49,7 +49,7 @@ all:
     sha256sum: "bbbdb5b3c7e52598db7b56b6a2f71fd9b85e3c9e12f447cebc7dcacd41918ded"
     type: zim
     langid: "wikipedia.ti"
-  wikipedia.en:
+  wikipedia_en_all:
     version: "2018-09-26"
     size: 82927821201
     url: "http://download.kiwix.org/zim/wikipedia/wikipedia_en_all_novid_2018-06.zim"
@@ -59,7 +59,7 @@ all:
     sha256sum: "fe6943e6311177a0f4647435c0a3dd6e3c34c1d391dcdbc540bc335faa731cef"
     langid: "wikipedia.en"
     type: zim
-  wikipedia.fr:
+  wikipedia_fr_all:
     version: "2019-09-21"
     size: 33856231383
     url: "http://download.kiwix.org/zim/wikipedia/wikipedia_fr_all_maxi_2019-09.zim"
@@ -89,7 +89,7 @@ all:
     sha256sum: "647fd52be8e415068b5a344eb62c7873a4134cc0b6b72a74cf05dad0969365a7"
     langid: "wiktionary.en"
     type: zim
-  wiktionary.fr:
+  wiktionary_fr:
     version: "2018-07-11"
     size: 2497389411
     url: "http://download.kiwix.org/zim/wiktionary/wiktionary_fr_all_novid_2018-07.zim"
@@ -99,7 +99,7 @@ all:
     sha256sum: "f366f4de49bd476499231894aca1a10e74753a9635bc38acfe93fd572dc76b61"
     langid: "wiktionary.fr"
     type: zim
-  wikiversity.en:
+  wikiversity_en:
     version: "2019-07-25"
     size: 2121264110
     url: "http://download.kiwix.org/zim/wikiversity/wikiversity_en_all_novid_2019-07.zim"
@@ -109,7 +109,7 @@ all:
     sha256sum: "93117eeb4bbe27b93e77b9985a31d7293d242a366f6999770403d59634b2c422"
     langid: "wikiversity.en"
     type: zim
-  wikiversity.fr:
+  wikiversity_fr:
     version: "2019-07-25"
     size: 466776348
     url: "http://download.kiwix.org/zim/wikiversity/wikiversity_fr_all_novid_2019-07.zim"
@@ -119,7 +119,7 @@ all:
     sha256sum: "01c795727b1028f7f8ec71cd03f245006b9ed538de64f767e437590b404572fc"
     langid: "wikiversity.fr"
     type: zim
-  wikibooks.en:
+  wikibooks_en:
     version: "2019-05-01"
     size: 1482194864
     url: "http://download.kiwix.org/zim/wikibooks/wikibooks_en_all_novid_2019-05.zim"
@@ -129,7 +129,7 @@ all:
     sha256sum: "366a58c4de8d9824e859421546f243a4a9067c8c962f798c6ba8b8a4a9b4f4f8"
     langid: "wikibooks.en"
     type: zim
-  wikibooks.fr:
+  wikibooks_fr:
     version: "2019-03-01"
     size: 878617865
     url: "http://download.kiwix.org/zim/wikibooks/wikibooks_fr_all_novid_2019-03.zim"
@@ -139,7 +139,7 @@ all:
     sha256sum: "400fa8bd4325b767018bb72f1f435db7d012eeef47141fd62b9d3934c31a3ec3"
     langid: "wikibooks.fr"
     type: zim
-  wikibooks.es:
+  wikibooks_es:
     version: "2019-05-01"
     size: 263373444
     url: "http://download.kiwix.org/zim/wikibooks/wikibooks_es_all_novid_2019-05.zim"
@@ -149,7 +149,7 @@ all:
     sha256sum: "57ce45708300124e4cccf2aa567076e0c831c14c3b39bcf7c7ffe45794c52fc7"
     langid: "wikibooks.es"
     type: zim
-  wikisource.en:
+  wikisource_en:
     version: "2018-09-17"
     size: 15979435291
     url: "http://download.kiwix.org/zim/wikisource/wikisource_en_all_novid_2018-10.zim"
@@ -159,7 +159,7 @@ all:
     sha256sum: "154f3bca72ba57c6b008b377e2bdf5b0416e1306e47436f812d727ff663b97a8"
     langid: "wikisource.en"
     type: zim
-  wikisource.fr:
+  wikisource_fr:
     version: "2018-10-01"
     size: 11149172978
     url: "http://download.kiwix.org/zim/wikisource/wikisource_fr_all_novid_2018-10.zim"
@@ -169,7 +169,7 @@ all:
     sha256sum: "9e7128672737c5211fc036d7e266cd89e81f3422560fe0375f40150fdc07bca1"
     langid: "wikisource.fr"
     type: zim
-  cest-pas-sorcier.fr:
+  cest-pas-sorcier_fr_all:
     version: "2018-06-01"
     size: 43947240377
     url: "http://download.kiwix.org/zim/other/cest-pas-sorcier_fr_all_2018-06.zim"
@@ -179,7 +179,7 @@ all:
     sha256sum: "bf310a246d26dc2922d6b4580f00575045b2d8d426b6d592f94424d9e4e99de3"
     langid: "cest-pas-sorcier.fr"
     type: zim
-  gutenberg.en:
+  gutenberg_en_all:
     version: "2019-01-08"
     size: 56913027120
     url: "http://download.kiwix.org/zim/gutenberg/gutenberg_en_all_2018-07.zim"
@@ -189,7 +189,7 @@ all:
     sha256sum: "a34bfda053ffc8db762795f6a1e7cabc8e4831665d7093f9bfb80a2b012ac57c"
     langid: "gutenberg.en"
     type: zim
-  gutenberg.fr:
+  gutenberg_fr_all:
     version: "2018-10-01"
     size: 2922433683
     url: "http://download.kiwix.org/zim/gutenberg/gutenberg_fr_all_2018-10.zim"
@@ -199,7 +199,7 @@ all:
     sha256sum: "73fa886a1f6e85670dc4e815c4b06861278be34ea3231c28c889b27e9deb43da"
     langid: "gutenberg.fr"
     type: zim
-  ubuntudoc.fr:
+  ubuntudoc_fr_all:
     version: "2015-12-16"
     size: 490016695
     url: "http://download.kiwix.org/zim/other/ubuntudoc_fr_all_2015-12.zim"
@@ -209,7 +209,7 @@ all:
     sha256sum: "700859c66e28bb248cf72f888a2b703689920a322bd50963c5d87a6feebfb67a"
     langid: "ubuntudoc.fr"
     type: zim
-  universcience-tv.fr:
+  universcience-tv_fr_all:
     version: "2015-03-21"
     size: 14036496108
     url: "http://download.kiwix.org/zim/other/universcience-tv_fr_all_2015-03.zim"
@@ -219,7 +219,7 @@ all:
     sha256sum: "edc3bd4db658c40b98c0d9db4008a96a0b76d172948d61f87b65a1177b85fc18"
     langid: "universcience-tv.fr"
     type: zim
-  tedxgeneva2014.fr:
+  tedxgeneva-2014_fr_all:
     version: "2015-03-18"
     size: 274721055
     url: "http://download.kiwix.org/zim/ted/tedxgeneva-2014_fr_all_2015-03.zim"
@@ -249,7 +249,7 @@ all:
     sha256sum: "dabcf32104ecc4d158fc5cf20fbd90a90590b4337bde5a029d3aef592bb7ed4a"
     langid: "tedxlausanne2013.fr"
     type: zim
-  tedxlausanne2014.fr:
+  tedxlausanne-2014_fr_all:
     version: "2015-03-19"
     size: 326564245
     url: "http://download.kiwix.org/zim/ted/tedxlausanne-2014_fr_all_2015-03.zim"
@@ -259,7 +259,7 @@ all:
     sha256sum: "5bf3d7cedfbfca2163b590bb41c514e82a1e6771914f26ff7e5d65aab00684a1"
     langid: "tedxlausanne2014.fr"
     type: zim
-  tedxlausannechange2013.fr:
+  tedxlausannechange-2013_fr_all:
     version: "2015-03-19"
     size: 81826026
     url: "http://download.kiwix.org/zim/ted/tedxlausannechange-2013_fr_all_2015-03.zim"
@@ -269,7 +269,7 @@ all:
     sha256sum: "fa41273c9788eff16b779bd4551c0dc2737db20bbad52318fd4815a2e1c781a2"
     langid: "tedxlausannechange2013.fr"
     type: zim
-  tedbusiness.en:
+  ted_business:
     version: "2018-07-01"
     size:  8855827638
     url: "http://download.kiwix.org/zim/ted/ted_en_business_2018-07.zim"
@@ -279,7 +279,7 @@ all:
     sha256sum: "276bc6b84c92e0078ed502ba0dd61c7929280cdcdc65887860143329f508b544"
     langid: "tedbusiness.en"
     type: zim
-  teddesign.en:
+  ted_design:
     version: "2018-07-01"
     size: 9422760069
     url: "http://download.kiwix.org/zim/ted/ted_en_design_2018-07.zim"
@@ -289,7 +289,7 @@ all:
     sha256sum: "5dd8135a66a641d9c8e493ca32d6e9dd14edf5b6a2fd204d9a30e5e8ed02aede"
     langid: "teddesign.en"
     type: zim
-  tedentertainment.en:
+  ted-entertainment:
     version: "2018-07-01"
     size: 7692549643
     url: "http://download.kiwix.org/zim/ted/ted_en_entertainment_2018-07.zim"
@@ -299,7 +299,7 @@ all:
     sha256sum: "79c0e0aa126f79b6a63536b7f0d811c7164fd546b37ca20331bff1be640bcd6d"
     langid: "tedentertainment.en"
     type: zim
-  tedglobalissues.en:
+  ted_global_issues:
     version: "2018-07-01"
     size: 13152845922
     url: "http://download.kiwix.org/zim/ted/ted_en_global_issues_2018-07.zim"
@@ -309,7 +309,7 @@ all:
     sha256sum: "c8b1d5ce6c8fa246dd823bd675fe6cb05192e41a83c8c843115a3a3b632a2544"
     langid: "tedglobalissues.en"
     type: zim
-  tedscience.en:
+  ted_science:
     version: "2018-07-23"
     size: 14423097016
     url: "http://download.kiwix.org/zim/ted/ted_en_science_2018-07.zim"
@@ -319,7 +319,7 @@ all:
     sha256sum: "84a0849f0410f9d3047896d6e34f007ca84c3f8e04cea1e95ee2f4e7953acdd6"
     langid: "tedscience.en"
     type: zim
-  tedtechnology.en:
+  ted_technology:
     version: "2018-07-23"
     size: 17780841466
     url: "http://download.kiwix.org/zim/ted/ted_en_technology_2018-07.zim"
@@ -329,7 +329,7 @@ all:
     sha256sum: "7c184de62bd1e60044660ab0cc38091869f9be5f70f8deb1881b5538ad99a67b"
     langid: "tedtechnology.en"
     type: zim
-  wikivoyage.fr:
+  wikivoyage_fr:
     version: "2019-10-02"
     size: 192713231
     url: "http://download.kiwix.org/zim/wikivoyage/wikivoyage_fr_all_maxi_2019-10.zim"
@@ -339,7 +339,7 @@ all:
     sha256sum: "603519bb680da8153d02835b67bda38ad7c9631a167eb380dc49631524080194"
     langid: "wikivoyage.fr"
     type: zim
-  wikipedia.wo:
+  wikipedia_wo_all:
     version: "2019-03-18"
     size: 21713986
     url: "http://download.kiwix.org/zim/wikipedia/wikipedia_wo_all_novid_2019-03.zim"
@@ -349,7 +349,7 @@ all:
     sha256sum: "d80545091d74c910e62275351fa0500861f2404e896fdb0f7073b10fb2d2fedf"
     langid: "wikipedia.wo"
     type: zim
-  wikistage.fr:
+  wikistage_fr_all:
     version: "2018-06-24"
     size: 8099213754
     url: "http://download.kiwix.org/zim/other/wikistage_fr_all_2018-06.zim"
@@ -359,7 +359,7 @@ all:
     sha256sum: "a048519337a7cfe8754f40c9dfa8cd4f191f69894d8c463cb361f6858578b50d"
     langid: "wikistage.fr"
     type: zim
-  dirtybiology.fr:
+  dirtybiology_fr_all:
     version: "2018-06-23"
     size: 2563543392
     url: "http://download.kiwix.org/zim/other/dirtybiology_fr_all_2018-06.zim"
@@ -369,7 +369,7 @@ all:
     sha256sum: "2e48574610253e9465f186fbc78d5f88a8d791ccebe77cd3604a35ce55d1ded9"
     langid: "dirtybiology.fr"
     type: zim
-  wikipedia.pt:
+  wikipedia_pt_all:
     version: "2019-06-11"
     size: 12553802413
     url: "http://download.kiwix.org/zim/wikipedia/wikipedia_pt_all_novid_2019-06.zim"
@@ -379,7 +379,7 @@ all:
     sha256sum: "72d1fe3bfa546dfcf2441e149584411d0c0be7d6a05ff5539e614886f5882fb5"
     langid: "wikipedia.pt"
     type: zim
-  gutenberg.pt:
+    gutenberg_pt_all:
     version: "2018-10-01"
     size: 215070156
     url: "http://download.kiwix.org/zim/gutenberg/gutenberg_pt_all_2018-10.zim"
@@ -389,7 +389,7 @@ all:
     sha256sum: "342e20bf6b2a666a865e3fc8e5792796a7066435dba2a683696529bd4f533b3e"
     langid: "gutenberg.pt"
     type: zim
-  wikipedia.fa:
+  wikipedia_fa_all:
     version: "2018-07-14"
     size: 7839199638
     url: "http://download.kiwix.org/zim/wikipedia/wikipedia_fa_all_novid_2018-07.zim"
@@ -399,7 +399,7 @@ all:
     sha256sum: "936afc3b8226860b85b5ae64a0611b41bd93c353969fbf1ac3107d858afee2b9"
     langid: "wikipedia.fa"
     type: zim
-  wikipedia.ar:
+  wikipedia_ar_all:
     version: "2019-06-13"
     size: 9822413939
     url: "http://download.kiwix.org/zim/wikipedia/wikipedia_ar_all_maxi_2019-06.zim"
@@ -409,7 +409,7 @@ all:
     sha256sum: "3ea14ff53e4c5822b33989413fe50b28e9f27e4b783aef88f8d812bb8180cab0"
     langid: "wikipedia.ar"
     type: zim
-  vikidia.fr:
+  vikidia_fr:
     version: "2018-10-07"
     size: 724413995
     url: "http://download.kiwix.org/zim/vikidia/vikidia_fr_all_2018-10.zim"
@@ -419,7 +419,7 @@ all:
     sha256sum: "ff47b03d19ce7d3e8328a5677ef2b88c8e17286cacc63dd3fbb540b076ee4a5a"
     langid: "vikidia.fr"
     type: zim
-  wikipedia.ku:
+  wikipedia_ku_all:
     version: "2019-05-10"
     size: 172585353
     url: "http://download.kiwix.org/zim/wikipedia/wikipedia_ku_all_novid_2019-05.zim"
@@ -429,7 +429,7 @@ all:
     sha256sum: "19cc9bdc18ffc547da534d04800faac06740eb44ed7470059d98f3f05c73e3a4"
     langid: "wikipedia.ku"
     type: zim
-  wiktionary.ku:
+  wiktionary_ku:
     version: "2019-05-11"
     size: 292710877
     url: "http://download.kiwix.org/zim/wiktionary/wiktionary_ku_all_novid_2019-05.zim"
@@ -439,7 +439,7 @@ all:
     sha256sum: "b0d5a32ad655e1ba278793cbbcd7b9e9cfe886c622e0fe47c174bc97843e6fcd"
     langid: "wiktionary.ku"
     type: zim
-  les-fondamentaux.fr:
+  les-fondamentaux_fr_all:
     version: "2020-06-10"
     size: 366460719
     url: "http://download.kiwix.org/zim/other/les-fondamentaux_fr_all_2020-06.zim"
@@ -449,7 +449,7 @@ all:
     sha256sum: "889b04978b05ba71473d4b2295219ae69f7247c8681a2f3ae749d610c7b9d4e1"
     langid: "les-fondamentaux.fr"
     type: zim
-  bil-tunisia.ar:
+  bil-tunisia_ar_all:
     version: "2018-06-24"
     size: 4594170773
     url: "http://download.kiwix.org/zim/other/bil-tunisia_ar_all_2018-06.zim"
@@ -459,7 +459,7 @@ all:
     sha256sum: "56890e9f27b9a7da3ae292d4e6cd3fc448fb03ca790b0b749893976ebd6c78d9"
     langid: "bil-tunisia.ar"
     type: zim
-  icd10.fr:
+  icd10_fr_all:
     version: "2014-10-31"
     size: 419638
     url: "http://download.kiwix.org/zim/other/icd10_fr_all_2012-01.zim"
@@ -469,7 +469,7 @@ all:
     sha256sum: "4eaea701458c3976191d5985e57265b1ad8fe7a69b8345f0451de7ad39ab8ea1"
     langid: "icd10.fr"
     type: zim
-  mullah-piaz-digest.fa:
+  mullah-piaz-digest_fa_all:
     version: "2012-12-19"
     size: 50470643
     url: "http://download.kiwix.org/zim/other/mullah-piaz-digest_fa_all_2012-12.zim"
@@ -479,7 +479,7 @@ all:
     sha256sum: "949f484ebfffafba77fd243d522bbee444e700b529c0f0e8f40ecb41bcfd2cfb"
     langid: "mullah-piaz-digest.fa"
     type: zim
-  wiktionary.fa:
+  wiktionary_fa:
     version: "2019-06-05"
     size: 69113478
     url: "http://download.kiwix.org/zim/wiktionary/wiktionary_fa_all_novid_2019-06.zim"
@@ -489,7 +489,7 @@ all:
     sha256sum: "58e8ca01258bed055bbab51ba82af798c48c482d82bcc38fb9fae0c84dd9b272"
     langid: "wiktionary.fa"
     type: zim
-  wiktionary.ar:
+  wiktionary_ar:
     version: "2019-06-03"
     size: 33018494
     url: "http://download.kiwix.org/zim/wiktionary/wiktionary_ar_all_novid_2019-06.zim"
@@ -499,7 +499,7 @@ all:
     sha256sum: "fe918fd7417f3099a3fe8554644200ea632d2b4e12ca6ad4e3bf53804a5dbcb8"
     langid: "wiktionary.ar"
     type: zim
-  wikiversity.ar:
+  wikiversity_ar:
     version: "2019-07-25"
     size: 13483694
     url: "http://download.kiwix.org/zim/wikiversity/wikiversity_ar_all_novid_2019-07.zim"
@@ -509,7 +509,7 @@ all:
     sha256sum: "1249d5a3954467f68f62fe45bb122b791916c627ef4c3ed5d7b59a8a928aa95d"
     langid: "wikiversity.ar"
     type: zim
-  wikipedia.es:
+  wikipedia_es_all:
     version: "2020-08-09"
     size: 26306769289
     url: "http://download.kiwix.org/zim/wikipedia/wikipedia_es_all_maxi_2020-08.zim"
@@ -519,7 +519,7 @@ all:
     sha256sum: "fa3dcefe6a1bdaa911d427fcf5231f6931356404c5438bc39935aa516258e668"
     langid: "wikipedia.es"
     type: zim
-  gutenberg.es:
+  gutenberg_es_all:
     version: "2018-10-23"
     size: 450885483
     url: "http://download.kiwix.org/zim/gutenberg/gutenberg_es_all_2018-10.zim"
@@ -529,7 +529,7 @@ all:
     sha256sum: "ac67006a856a80b4d6a4969ea338ac4645875787e7e413256f80c146d5580281"
     langid: "gutenberg.es"
     type: zim
-  gutenberg.de:
+  gutenberg_de_all:
     version: "2018-10-01"
     size: 1496206612
     url: "http://download.kiwix.org/zim/gutenberg/gutenberg_de_all_2018-10.zim"
@@ -539,7 +539,7 @@ all:
     sha256sum: "50c60ff3902891b6b2460702464d7f7b5522e3aeab45e97db8c448157cd00848"
     langid: "gutenberg.de"
     type: zim
-  wikipedia.de:
+  wikipedia_de_all:
     version: "2018-11-10"
     size: 35463705320
     url: "http://download.kiwix.org/zim/wikipedia/wikipedia_de_all_novid_2018-11.zim"
@@ -549,7 +549,7 @@ all:
     sha256sum: "e1723052dc1174aeb16547c030c8639f0225865db401c185a32ba62b7bc7d2f2"
     langid: "wikipedia.de"
     type: zim
-  wikibooks.ar:
+  wikibooks_ar:
     version: "2019-06-03"
     size: 16765615
     url: "http://download.kiwix.org/zim/wikibooks/wikibooks_ar_all_novid_2019-06.zim"
@@ -559,7 +559,7 @@ all:
     sha256sum: "ac00553564389488f6eaace5945a1f2232102344f71e9306fc6dfb39ff4cd7c7"
     langid: "wikibooks.ar"
     type: zim
-  wikisource.ar:
+  wikisource_ar:
     version: "2019-03-01"
     size: 564199445
     url: "http://download.kiwix.org/zim/wikisource/wikisource_ar_all_novid_2019-03.zim"
@@ -569,7 +569,7 @@ all:
     sha256sum: "6089559f0f5e23a5d4834623786787c55b627b749208af38a9ff42ce981fc2ec"
     langid: "wikisource.ar"
     type: zim
-  wikiquote.ar:
+  wikiquote_ar:
     version: "2019-07-24"
     size: 15642521
     url: "http://download.kiwix.org/zim/wikiquote/wikiquote_ar_all_maxi_2019-07.zim"
@@ -579,7 +579,7 @@ all:
     sha256sum: "51fb8a64d4105e0d73d910ca285a34445998e141a324e971b3d9e85891a18ad9"
     langid: "wikiquote.ar"
     type: zim
-  wikipedia.el:
+  wikipedia_el_all:
     version: "2019-05-09"
     size: 3062803911
     url: "http://download.kiwix.org/zim/wikipedia/wikipedia_el_all_novid_2019-05.zim"
@@ -589,7 +589,7 @@ all:
     sha256sum: "a193b8253e981a9900c19d867492d8e8f086af18288831e67f73a41d86da264a"
     langid: "wikipedia.el"
     type: zim
-  wikipedia.ps:
+  wikipedia_ps_all:
     version: "2019-05-07"
     size: 125742237
     url: "http://download.kiwix.org/zim/wikipedia/wikipedia_ps_all_novid_2019-05.zim"
@@ -599,7 +599,7 @@ all:
     sha256sum: "3906099b82e3a4636101294aadbba452215070e88e190c0858436763749f7497"
     langid: "wikipedia.ps"
     type: zim
-  wiktionary.el:
+  wiktionary_el:
     version: "2019-06-05"
     size: 328699804
     url: "http://download.kiwix.org/zim/wiktionary/wiktionary_el_all_novid_2019-06.zim"
@@ -609,7 +609,7 @@ all:
     sha256sum: "d6c084191e066d9090880add193f9482afa4b61570dbefa247ff751ec1492ea6"
     langid: "wiktionary.el"
     type: zim
-  wiktionary.ps:
+  wiktionaryyps:
     langid: "wiktionary.ps"
     description: "ﺩ ﻮﻳکﻲﺴﻴﻧﺩ ﻞﺧﻭﺍ"
     name: ﻮﻳکﻲﺴﻴﻧﺩ
@@ -619,7 +619,7 @@ all:
     size: 10872908
     sha256sum: "7e340c2e2b0e34ac6f0ab7e499c358532eb5b6175cf9103c181a36a2f1c53202"
     type: zim
-  wikiversity.el:
+  wikiversity_el:
     langid: "wikiversity.el"
     description: "Από Βικιεπιστήμιο"
     name: Βικιεπιστήμιο
@@ -629,7 +629,7 @@ all:
     size: 6030713
     sha256sum: "7661f95d736ad25314cda89001e226b7b0007510062154369e2364736a7ac04f"
     type: zim
-  wikibooks.fa:
+  wikibooks_fa:
     langid: "wikibooks.fa"
     description: "ﻭیکی<200e>کﺕﺎﺑ، کﺕﺎﺒﺧﺎﻨﻫٔ ﺁﺯﺍﺩ"
     name: ﻭیکی<200c>کﺕﺎﺑ
@@ -639,7 +639,7 @@ all:
     size: 56504409
     sha256sum: "7cec5b2aa7152d8e5118f8af4f6537116f01823c969b9f40dfb55941ccc2b9c1"
     type: zim
-  wikibooks.el:
+  wikibooks_el:
     langid: "wikibooks.el"
     description: "Από Βικιβιβλία"
     name: Βικιβιβλία
@@ -649,7 +649,7 @@ all:
     size: 22884240
     sha256sum: "fe39945c00372885dea735cc7741a4ec068e2a27146592d0072327b67471d528"
     type: zim
-  wikisource.el:
+  wikisource_el:
     langid: "wikisource.el"
     description: "Από Βικιθήκη"
     name: Βικιθήκη
@@ -659,7 +659,7 @@ all:
     size: 174096783
     sha256sum: "2963eaf4ee298802996763b4f0fa39b65bf139a0a28c6ea973660be51087b4dc"
     type: zim
-  wikisource.fa:
+  wikisource_fa:
     langid: "wikisource.fa"
     description: "ﺍﺯ ﻭیکی<200c>ﻦﺒﺸﺘﻫ"
     name: ﻭیکی<200c>ﻦﺒﺸﺘﻫ
@@ -669,7 +669,7 @@ all:
     size: 136885234
     sha256sum: "0c8fcd28244033f5c53adeabab5b9416e5537d98a9b50e54251d0986e6d932a9"
     type: zim
-  wikiquote.en:
+  wikiquote_en:
     langid: "wikiquote.en"
     description: The free quote compendium.
     name: Wikiquote
@@ -679,7 +679,7 @@ all:
     size: 669331118
     sha256sum: "644a2eb8e9a71f7c7d5388020ecfe1534d5fadae5be7405c1ce856b32f53da8a"
     type: zim
-  wikiquote.el:
+  wikiquote_el:
     langid: "wikiquote.el"
     description: "Από Βικιφθέγματα"
     name: Βικιφθέγματα
@@ -689,7 +689,7 @@ all:
     size: 6358294
     sha256sum: "01e8a3995f62e61ce523adca42b4ff6a83e7ca3d9f9e90c9d613928a25c0b4fd"
     type: zim
-  biologie-tout-compris.fr:
+  biologie-tout-compris_fr_all:
     langid: "biologie-tout-compris.fr"
     description: "Uploads from Tania Louis videos"
     name: Uploads from Tania Louis
@@ -709,7 +709,7 @@ all:
     size: 5510795562
     sha256sum: "7044cb0344711366d3ffe0a4ab32e6398c6c4e292d24a63df23c2f87b684274c"
     type: zim
-  deus-ex-silicium.fr:
+  deus-ex-silicium_fr_all:
     langid: "deus-ex-silicium.fr"
     description: "Deus Ex Silicium videos"
     name: "Deus Ex Silicium - Deus Ex Silicium videos"
@@ -729,7 +729,7 @@ all:
     size: 5521463659
     sha256sum: "f8bcb15eb781dfd88153a7afa110a36248670056872ced40758809bc3d09be99"
     type: zim
-  ted-ed.en:
+  teded_en_all:
     langid: "ted-ed.en"
     description: Education videos from TED
     name: TED talks - Education
@@ -749,7 +749,7 @@ all:
     size: 66325879001
     sha256sum: "af84b925495de4cd22d0d4793159567ef9956ec53f3c7e25cac0a6261c62629e"
     type: zim
-  wikipedia.sw:
+  wikipedia_sw_all:
     langid: "wikipedia.sw"
     description: "Kutoka Wikipedia, kamusi elezo huru"
     name: Wikipedia
@@ -759,7 +759,7 @@ all:
     size: 425285559
     sha256sum: "a8486dae536d200d6bb81f56a632725f6c274cc91b4cf68c2c78171fc38f4040"
     type: zim
-  vikidia.es:
+  vikidia_es:
     langid: "vikidia.es"
     description: "De Vikidia"
     name: Vikidia
@@ -769,7 +769,7 @@ all:
     size: 49187709
     sha256sum: "2b9f65fd16a7986c132154c81f01337f0e78daac83bfe9aedc39e2f63be6ad48"
     type: zim
-  wiktionary.sw:
+  wiktionary_sw:
     langid: "wiktionary.sw"
     description: "Ufafanuzi kutoka Wiktionary, kamusi iliyo huru"
     name: Wiktionary
@@ -779,7 +779,7 @@ all:
     size: 11462940
     sha256sum: "220e33c22f41b07512c2dbc5fed610fa53bc8a0b94fc31bb49dcd77f4eb2dcc2"
     type: zim
-  wikiquote.es:
+  wikiquote_es:
     langid: "wikiquote.es"
     description: "De Wikiquote, la colección libre de citas y frases célebres."
     name: Wikiquote
@@ -789,7 +789,7 @@ all:
     size: 84023810
     sha256sum: "ba276c782e4ceec9f4af6e4bfb67a4ca2f1a6c7c80569f361a33c4d27fe8e590"
     type: zim
-  wikisource.es:
+  wikisource_es:
     langid: "wikisource.es"
     description: "De Wikisource, la biblioteca libre."
     name: Wikisource
@@ -799,7 +799,7 @@ all:
     size: 679573493
     sha256sum: "8e823c7fa488fa359a77100b3ded37bad304523dfd73a7d9868d94b7dc892c84"
     type: zim
-  wikimooc.fr:
+  wikimooc:
     langid: "wikimooc.fr"
     description: "Uploads from WikiMOOC videos"
     name: Uploads from WikiMOOC
@@ -809,7 +809,7 @@ all:
     size: 642846044
     sha256sum: "b6ae8b3523e36eb275eb7508ed5906318c9b223e02ffd59b15309562cb677fd8"
     type: zim
-  tedmed.en:
+  tedmed_en_all:
     langid: "tedmed.en"
     description: TEDMED is the independently owned and operated health and medicine edition of the world-famous TED conference.
     name: TEDMED
@@ -819,7 +819,7 @@ all:
     size: 17172752561
     sha256sum: "b644490a040ffeb8e03fb8797bc22e8e33707f5db542cda03c67b9c577d6812c"
     type: zim
-  crashcourse.en:
+  crashcourse_en_all:
     langid: "crashcourse.en"
     description: Educational videos about sciences, humanities…
     name: CrashCourse
@@ -829,7 +829,7 @@ all:
     size: 19978762205
     sha256sum: "ade8a2aeffa71cb9921c297c1865a9fb0aee51ec8216e0e6ae816e8598c81ac0"
     type: zim
-  phet.en:
+  phet_mul_all:
     langid: "phet.en"
     name: PhET
     description: Physics, chemistry, biology, earth science and math simulations
@@ -839,7 +839,7 @@ all:
     size: 43420380
     sha256sum: "c612d5f8cde214c6aa72f8e1576e653b117b3bb0cb0a5e3f6db33b7d2c568f7b"
     type: zim
-  vikidia.en:
+  vikidia_en:
     langid: "vikidia.en"
     description: The encyclopedia for 8 to 13-year-old children
     name: Vikidia
@@ -849,7 +849,7 @@ all:
     size: 53835583
     sha256sum: "fc04ed6ec60c26ababc5f7410edba68d506f16a8d373de1c39dfcadbdb90dc88"
     type: zim
-  wikiquote.fr:
+  wikiquote_fr:
     name: "Wikiquote"
     description: "le recueil de citations libre"
     version: "2019-07-24"
@@ -858,7 +858,7 @@ all:
     size: 60205830
     sha256sum: "cc499a90df75dfb76e2613fb261254528200e35485dd77e72fab192a4d8497f3"
     type: zim
-  wikipedia.ckb:
+  wikipedia_ckb_all:
     version: "2019-06-04"
     size: 226585380
     url: "http://download.kiwix.org/zim/wikipedia/wikipedia_ckb_all_novid_2019-06.zim"
@@ -887,7 +887,7 @@ all:
     size: 47027926
     sha256sum: "61d8a10862331b598e8ebe3d79af4ee6b2010f61169749b1783b4e8e878a1848"
     type: zim
-  wikipedia.ru:
+  wikipedia_ru_all:
     name: "Википедия"
     description: "Материал из Википедии — свободной энциклопедии"
     version: "2019-06-25"
@@ -896,7 +896,7 @@ all:
     size: 27467161570
     sha256sum: "a0d3fddb41f1016e38b78b001b60213d02a5ea033c3daadca5b4c28763ee0c6b"
     type: zim
-  wikipedia.sr:
+  wikipedia_sr_all:
     name: "Википедија"
     description: "Из Википедије, слободне енциклопедије"
     version: "2018-10-10"
@@ -905,7 +905,7 @@ all:
     size: 9306576032
     sha256sum: "d0c5881ddb0531f093718d39627350b02a62f39ba9cfeea7e7e3ca16355c04a1"
     type: zim
-  wikipedia.sq:
+  wikipedia_sq_all:
     name: "Wikipedia"
     description: "Nga Wikipedia, enciklopedia e lirë"
     version: "2019-03-20"
@@ -914,7 +914,7 @@ all:
     size: 915057530
     sha256sum: "fcce8fe877a92cc0da7929d59fe47b2a59cd8d16665aa1f5fd9cc7c5fce14ffb"
     type: zim
-  wikinews.fr:
+  wikinews_fr:
     name: "Wikinews"
     description: "Une nouvelle de Wikinews, la source d'informations que vous pouvez écrire."
     version: "2019-06-07"
@@ -923,7 +923,7 @@ all:
     size: 168784131
     sha256sum: "2021621a6540cda436992dc68b43afe32d8a7de88bd6ae315494ee19a70971de"
     type: zim
-  wikipedia.it:
+  wikipedia_it_all:
     name: "Wikipedia"
     description: "L'enciclopedia libera e collaborativa"
     version: "2018-06-06"
@@ -932,7 +932,7 @@ all:
     size: 18847049533
     sha256sum: "bb4ff27b2462001ead3133e209c71943f67ad4f71c75d1dd33165d0051311fbc"
     type: zim
-  wikipedia.ln:
+  wikipedia_ln_all:
     name: "Wikipedia"
     description: "Útá Wikipedia."
     version: "2019-05-11"
@@ -941,7 +941,7 @@ all:
     size: 13638037
     sha256sum: "1a3807406869fcf89bd3dfa6091a7aa9e5b529b54768d353e9daf3923e5ea4eb"
     type: zim
-  wiktionary.ln:
+  wiktionary_ln:
     name: "Wiktionary"
     description: "Útá Wiktionary."
     version: "2019-05-11"
@@ -950,7 +950,7 @@ all:
     size: 349913
     sha256sum: "49b6892be0348d07ecca6fba8e56841c3c8c5ed1f4a75ded5c9e6937d8d6746f"
     type: zim
-  ekopedia.fr:
+  ekopedia:
     name: "Ekopedia"
     description: "Un article de Ékopédia, l'encyclopédie pratique."
     version: "2018-10-11"
@@ -959,7 +959,7 @@ all:
     size: 17956063
     sha256sum: "95e123960e54df5bc6f003e1c40b350535a109ae5e9b04a24083ea27487c8b18"
     type: zim
-  wikipedia.bn:
+  wikipedia_bn_all:
     name: "প্রধান পাতা"
     description: "Wikipedia in Bengali"
     version: "2019-05-02"
@@ -977,7 +977,7 @@ all:
     size: 3772362169
     sha256sum: "1053419b3585ae509f4ee13ab9828cebfdb3ec192fdaed3f5eea4ec41e21e4d7"
     type: zim
-  micmaths.fr:
+  micmaths:
     name: "Mic Maths"
     description: "Vidéos autour des mathématiques : cours, jeux de logique, chroniques"
     version: "2020-03-19"
@@ -986,7 +986,7 @@ all:
     size: 3666998790
     sha256sum: "7536cf827bce270065871c6faa2169bce707836c394d4e7d2311550d121b1d28"
     type: zim
-  nota-bene.fr:
+  nota_bene:
     name: "Nota Bene"
     description: "Comprendre l'Histoire avec un grand H"
     version: "2020-04-08"
@@ -995,7 +995,7 @@ all:
     size: 15882731570
     sha256sum: "2c33282c6911c9aa6b1f6dceccaf95f3580dfaf3cfdda8309f0fcb716dda9d93"
     type: zim
-  mondial-tissus.fr:
+  mondial_tissus:
     name: "Mondial Tissus"
     description: "Vidéos astuces pour la couture"
     version: "2020-03-20"
@@ -1004,7 +1004,7 @@ all:
     size: 1269603648
     sha256sum: "c8f04206107a2ebb7cb9135e8a4ec449f47b8b617f5676dbb4725c02023d9af0"
     type: zim
-  maths-et-tiques.fr:
+  la_chaine_de_maths_et_tiques:
     name: "Maths et tiques"
     description: "Maths et tiques"
     version: "2020-09-03"
@@ -1013,7 +1013,7 @@ all:
     size: 42117820426
     sha256sum: "967be943c613e5e73a5fecf9c667f0c5dc8b9e7310c475395c72ccd1913e86bf"
     type: zim
-  ubongo.fr:
+  ubongo_fr:
     name: "Ubongo Français"
     description: "Les aventures animées des P'tits Ubongo"
     version: "2020-03-15"
@@ -1022,7 +1022,7 @@ all:
     size: 1905664417
     sha256sum: "3f7754bf189f865c5440ce36e1e1f5cdf6e40ee2b9b913643c242756e530b3af"
     type: zim
-  astrolabe.fr:
+  astrolabe_fr_all:
     name: "Astrolabe"
     description: "Science et high-tech en vidéos"
     version: "2020-05-10"
