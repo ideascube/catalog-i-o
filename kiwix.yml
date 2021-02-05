@@ -1031,3 +1031,12 @@ all:
     size: 2647700822
     sha256sum: "ccbbdaab5524c94310b647e9c34bf12a2adc36decd80b31db0591492cb7e79e9"
     type: zim
+  litterature-audiobooks-poetry_fr:
+    name: "Littérature - Livres Audio AudioBooks"
+    description: "Sélection de livres audio (philo, littérature, poésie, théatre)"
+    version: "2021-02-02"
+    language: "fra"
+    url: "http://download.kiwix.org/zim/other/litterature-audiobooks-poetry_fr_2021-01.zim"
+    size: 964926351
+    sha256sum: "d985173760a7c8a12a1891903f63e847a39ba0c7e474883c4fa433122de5ab21"
+    type: zim
