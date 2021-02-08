@@ -390,18 +390,17 @@ all:
   apprendre-a-cuisiner-les-basiques-recettes-et-techniques-fr:
     description: "Dans ce paquet, vous trouverez des vid\xE9os pour apprendre des\
       \ techniques de base de la cuisine et des recettes faciles. Vous trouverez:\r\
-      \n1 - Les techniques de base (comme comment aiguiser un couteau ou reconnaitre\
-      \ un oeuf cuit d'un oeuf cru)\r\n2 - Des recettes faciles, expliqu\xE9es pas\
+      \n1 - Les techniques de base \r\n2 - Des recettes faciles, expliqu\xE9es pas\
       \ \xE0 pas, pour bien commencer en cuisine\r\n3 - Des techniques et recettes\
       \ uniquement d\xE9di\xE9es au poulet!\r\n4 - Des recettes de plein de sauces\
       \ diff\xE9rentes, pour pouvoir agr\xE9menter tous vos plats"
     language: fr
     name: "Apprendre \xE0 cuisiner - Les Basiques (recettes et techniques)"
-    sha256sum: 7585fda7e15547dd28ab679358a1a65b99d7195f7447bb90a9b0bcb7bec62af9
+    sha256sum: a7cced3f9fce3c29512b63a26958b125b7a5958163b0e147a5634f21e26a9438
     size: 283667842
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-a-cuisiner-les-basiques-recettes-et-techniques-fr.zip
-    version: '2020-08-04'
+    version: '2021-02-08'
   apprendre-a-cuisiner-les-desserts-fr:
     description: "Dans ce paquet, vous trouverez des vid\xE9os explicatives sur:\r\
       \n1 - Des techniques de bases de la p\xE2tisserie, comme plusieurs p\xE2tes\
@@ -853,6 +852,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arts-afrique-fr.zip
     version: '2020-02-21'
+  arts-plastique-creer-des-bandes-dessinees-fr:
+    description: "Conseils pour cr\xE9er ta propre bande dessin\xE9e"
+    language: fr
+    name: "Arts Plastique - Cr\xE9er des bandes dessin\xE9es"
+    sha256sum: 53a87d74eb45cef024131bc124a497d30bf106587cab172682b0126d365eff83
+    size: 4934161
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/arts-plastique-creer-des-bandes-dessinees-fr.zip
+    version: '2021-02-08'
   arts-plastiques-fr:
     description: "D\xE9tendez-vous, exprimez-vous, cr\xE9ez ! Il y a un artiste en\
       \ chacun de nous, \xE0 vous de le r\xE9v\xE9ler..."
@@ -946,6 +954,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ballet-picks-ar.zip
     version: '2019-11-21'
+  bandes-dessinees-a-ecouter-livres-audios-fr:
+    description: "Retrouvez de c\xE9l\xE8bres bandes dessin\xE9es adapt\xE9es en livre\
+      \ audio : Tintin, Ast\xE9rix..."
+    language: fr
+    name: "Bandes-dessin\xE9es \xE0 \xE9couter (livres audios)"
+    sha256sum: 07fd29c3572e4037661f142312cb17329654db8015439aa2aea99902e43d30ea
+    size: 969548211
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/bandes-dessinees-a-ecouter-livres-audios-fr.zip
+    version: '2021-02-08'
   beauty-parlor-411:
     description: "Video about make up, henna design and hairdressing for women and\
       \ teenager girl.\r\nThe language of the tutoriel are mix (english, arabic, burmese,\
@@ -1177,6 +1195,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/career-guidance-ckb.zip
     version: '2020-07-03'
+  carnaval-de-saint-martin-fr:
+    description: "Le Carnaval de Saint-Martin est un \xE9v\xE9nement embl\xE9matique\
+      \ de la vie locale qui se d\xE9roule sur plusieurs semaines en d\xE9but d\u2019\
+      ann\xE9e."
+    language: fr
+    name: Carnaval de Saint-Martin
+    sha256sum: 116a68357f438d364611509a672652bce41296dfdaaa79b8136f8258e3393639
+    size: 1425749217
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/carnaval-de-saint-martin-fr.zip
+    version: '2021-02-08'
   carpentry-ar:
     description: "\u062A\u0639\u0644\u0645 \u0639\u0646 \u0627\u0646\u0648\u0627\u0639\
       \ \u0627\u0644\u0627\u062E\u0634\u0627\u0628, \u0637\u0631\u064A\u0642\u0629\
@@ -1379,11 +1408,11 @@ all:
       \ ?"
     language: fr
     name: "Qu'est-ce qu'\xEAtre \"citoyen\" ?"
-    sha256sum: 189c7ccf141dd1e2ab0dd990ba4e2033d1f299b8f3cfe22feca3f19a56879c8a
-    size: 103987094
+    sha256sum: 84e7dcc5cda20046ca193b2830438ad16b48f8620bc922557212591b54c8ea8a
+    size: 221507651
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/citoyennete-et-politique-fr.zip
-    version: '2019-12-10'
+    version: '2021-02-08'
   classic-literature-in-english-contient-uniquement-des-epub-en:
     description: EBooks from the classic literature of England, France and ancient
       Greece. All books are in English.
@@ -1638,11 +1667,11 @@ all:
       \ enjeux."
     language: fr
     name: "Comprendre le r\xE9chauffement climatique"
-    sha256sum: 73cfefc1ea02f1b81caa07532bfd0e8fc128fd0bf2dc869e4bf0b6da920e83e1
-    size: 188131954
+    sha256sum: dd7cbf2fc8d65c951d70504307585a5c2fb9620cebf06bb599cde80431c03701
+    size: 245019079
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comprendre-le-rechauffement-climatique-fr.zip
-    version: '2020-11-02'
+    version: '2021-02-08'
   comprendre-les-migrations-fr:
     description: '-'
     language: fr
@@ -1751,6 +1780,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/connaitre-la-france-et-paris-fr.zip
     version: '2019-09-11'
+  conseils-pour-l-oral-d-un-examen-fr:
+    description: "Comment faire des \xE9tincelles \xE0 l'oral devant les examinateurs\
+      \ d'un examen ? Nous ne sommes pas tous aussi \xE0 l'aise dans l'exercice de\
+      \ l'\xE9preuve orale, mais pas de panique, cela s'apprend ! Retrouvez dans ces\
+      \ vid\xE9os toutes les cl\xE9s de m\xE9thodologie et de pr\xE9cieuses astuces\
+      \ pour valoriser votre travail par la prise de parole."
+    language: fr
+    name: Conseils pour l'oral d'un examen
+    sha256sum: 6bf0be7dfb7526a2f47190422bf17194c0c9449bbe80e79a9199152c53199197
+    size: 97477978
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/conseils-pour-l-oral-d-un-examen-fr.zip
+    version: '2021-02-08'
   conseils-pour-la-gestion-des-relations-amoureuses-gl-rn:
     description: Conseils pour la gestion des relations amoureuses.
     language: rn
@@ -2193,6 +2235,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cultural-expression-rohingya-rhg.zip
     version: '2019-11-14'
+  culture-et-patrimoine-de-saint-martin-fr:
+    description: Retrouvez des documents sur la culture et le patrimoine de Saint-Martin.
+    language: fr
+    name: 'Saint-Martin : patrimoine culturel et naturel'
+    sha256sum: 41c3d934b92c2942ee7cb4a039f84e05ceca6a04a2357509defc8bb0e75144dd
+    size: 2636838796
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/culture-et-patrimoine-de-saint-martin-fr.zip
+    version: '2021-02-08'
   culture-numerique-fr:
     description: "La culture num\xE9rique comprend des vid\xE9os \xE0 propos de  la\
       \ culture geek, la science fiction, l'histoire des jeux vid\xE9os et d'autres\
@@ -2297,6 +2348,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/decouverte-des-legumes-pour-les-enfants-fr.zip
     version: '2020-08-04'
+  decouvre-les-metiers-fr:
+    description: "Vid\xE9os permettant de d\xE9couvrir diff\xE9rents m\xE9tiers, gr\xE2\
+      ce aux t\xE9moignages de professionnels. Ils t'apprendront \xE0 quoi correspond\
+      \ leur m\xE9tier, qu'est ce qu'ils font et quelles \xE9tudes il faut faire pour\
+      \ arriver \xE0 faire ce m\xE9tier."
+    language: fr
+    name: "D\xE9couvre les m\xE9tiers"
+    sha256sum: fc599919a1d2e0f8226b5986c472939eab882ede1b92e4ea2c5fff552c041837
+    size: 1134807644
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/decouvre-les-metiers-fr.zip
+    version: '2021-02-08'
   decouvrez-differents-sports-paquet-redecoupe-voir-les-paquets-856-857-858-313-fr:
     description: Vous souhaitez vous perfectionner en football ? Vous initier au yoga
       ou faire un exercice physique quotidien ?  C'est ici !
@@ -2646,6 +2709,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/documentaires-handicap-international-fr.zip
     version: '2019-09-18'
+  documentaires-longs-formats-fr:
+    description: "S\xE9lections de documentaires longs formats (>20 minutes) \xE0\
+      \ destination de projections pour des adolescents."
+    language: fr
+    name: Documentaires - longs formats
+    sha256sum: 7a774d1afdba8360fd74e3c3208d8df371bbd897c2e25d03fa532da696d5c769
+    size: 9217700304
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/documentaires-longs-formats-fr.zip
+    version: '2021-02-08'
   documentary-in-rohingya-rhg:
     description: Documentary about the Arakan history and about present time, dedicated
       to the Rohingya community, in Rohingya langue
@@ -2994,6 +3067,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/educational-videos-arabic-ar.zip
     version: '2020-07-03'
+  eduscol-travailler-le-lexique-en-cycle-3-et-4-fr:
+    description: "Ces ressources constituent \xE0 la fois une m\xE9thode et des outils\
+      \ didactiques et p\xE9dagogiques visant \xE0 aider les professeurs \xE0 conduire\
+      \ dans leur classe de cycle 3  ou de cycle 4 un apprentissage r\xE9gulier du\
+      \ lexique."
+    language: fr
+    name: Eduscol - Travailler le lexique en cycle 3 et 4
+    sha256sum: 192c5bf95871dfcbaed7a8571a55073e851b944047fa7ebb5310f0caa4063df0
+    size: 22559129
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/eduscol-travailler-le-lexique-en-cycle-3-et-4-fr.zip
+    version: '2021-02-08'
   electricite-installer-et-entretenir-des-panneaux-solaires-sikana-fr:
     description: "Vous d\xE9couvrirez dans ce programme d'\xE9lectricit\xE9, comment\
       \ exploiter les \xE9nergies renouvelables. Chaque vid\xE9o propose une \xE9\
@@ -3098,14 +3183,14 @@ all:
   engagement-et-paix-les-grands-personnages-fr:
     description: "Portraits de grands personnages qui ont agit pour d\xE9fendre les\
       \ droits. Ils ont aid\xE9 \xE0 instaurer plus d'\xE9galit\xE9 dans leur pays\
-      \ et ont particip\xE9 \xE0 cr\xE9er un mode meilleur."
+      \ et ont particip\xE9 \xE0 cr\xE9er un monde meilleur."
     language: fr
-    name: 'Engagement et paix: les grands personnages'
-    sha256sum: e2b4d8373fcf85f6089164e2c2ec610c47708a176e9f73239d2f15c75c65cb05
-    size: 196720374
+    name: 'Engagement et paix : les grands personnages'
+    sha256sum: 7accfee8b62440f47c51eb4c08554941d113d652154c8ef9f8e48b7affa39a41
+    size: 196720377
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/engagement-et-paix-les-grands-personnages-fr.zip
-    version: '2020-07-03'
+    version: '2021-02-08'
   engagement-et-paix-les-grands-personnages-new-fr:
     description: "Portraits de grands personnages qui ont agit pour d\xE9fendre leurs\
       \ droits. Ils ont aid\xE9 \xE0 instaurer plus d'\xE9galit\xE9 dans leur pays\
@@ -3296,11 +3381,20 @@ all:
       and flora thanks to documentaries created by the association Les Fruits de Mer.
     language: en
     name: Fauna and flora of Saint-Martin
-    sha256sum: ee3bd417fb680523d2f686844b4a8f6751fc4edb914f92616413a4a3c9d98ad5
-    size: 5287066013
+    sha256sum: 6d0b17ebf6eb12b2cc244c1a76ac6ee988e460d0dad06d544aaa01e7c4beafa3
+    size: 10046409979
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fauna-and-flora-of-saint-martin-en.zip
-    version: '2020-02-26'
+    version: '2021-02-08'
+  faune-et-flore-de-saint-martin-fr:
+    description: "Pr\xE9sentation de la vie sauvage et de la biodiversit\xE9 de Saint-Martin."
+    language: fr
+    name: Faune et Flore de Saint-Martin
+    sha256sum: 0e6ded0ffb21b0ff0641ede24e99d8fce6d9638e6179d402815fd3c4a93b401d
+    size: 577465410
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/faune-et-flore-de-saint-martin-fr.zip
+    version: '2021-02-08'
   feuilleton-ninde-rtnb-rn:
     description: "\xC9missions TV \"Ninde\" du Burundi sur des sujets de SSR. /\r\n\
       Ikiganiro \"NINDE\" gica kuri tereviziyo y'uburundi kivuga mu bijanye n'irondoka\
@@ -3464,6 +3558,29 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fitness-for-kids-ar.zip
     version: '2019-11-21'
+  focus-covid-deconstruire-les-fake-news-fr:
+    description: "Comment v\xE9rifier les informations qui circulent sur la covid-19?\
+      \ Que peut on croire?"
+    language: fr
+    name: "Focus Covid - D\xE9construire les fake news"
+    sha256sum: ecaf5fb9a414e4e4f9dc21e199c8a7dc21251c8b42e1c3f8b479c15fd2c512ea
+    size: 56379917
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/focus-covid-deconstruire-les-fake-news-fr.zip
+    version: '2021-02-08'
+  focus-covid-en-parler-et-accueillir-la-parole-fr:
+    description: "Afin de comprendre ce qu'est le virus Covid-19 et pourquoi nous\
+      \ sommes tous impact\xE9s, mais aussi afin d'en parler en groupe, voici deux\
+      \ parcours, un pour les 8-13 ans et un pour les 14-18 ans. \r\nLes animateurs\
+      \ y trouveront des fiches activit\xE9s et tous les documents qui vont avec pour\
+      \ cr\xE9er des temps d'explications et de partage autour de la Covid-19."
+    language: fr
+    name: Focus Covid - En parler et accueillir la parole
+    sha256sum: 7a595506e72f655d256611e556ef9a14a7f280c820c30268dfcab1d64cd20829
+    size: 34464102
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/focus-covid-en-parler-et-accueillir-la-parole-fr.zip
+    version: '2021-02-08'
   focus-covid-l-essentiel-des-connaissances-fr:
     description: "Voici l'essentiel des connaissances, ce qu'il faut savoir pour comprendre\
       \ la Covid-19 et pour agir en cons\xE9quence."
@@ -3505,6 +3622,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/football-matches-en.zip
     version: '2019-09-17'
+  formations-professionnelles-a-saint-martin-fr:
+    description: "Ces vid\xE9os, extraites de reportage de la cha\xEEne iotv, permettent\
+      \ de d\xE9couvrir diff\xE9rentes formations propos\xE9es sur l'\xEEle de Saint-Martin."
+    language: fr
+    name: "Formations professionnelles \xE0 Saint-Martin"
+    sha256sum: fed8a6bb641e34b10180d239fb6bd198455e926bedfd9438bc6d67293230af5a
+    size: 1761112446
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/formations-professionnelles-a-saint-martin-fr.zip
+    version: '2021-02-08'
   fotografi-photography-kmr:
     description: "H\xEEnb\xFBna tekn\xEEk\xEAn fotografiy\xEA; anal\xEEz \xFB \u015F\
       \xEErovekirina w\xEAneyan / Learning photography techniques; analysis and comments\
@@ -4011,6 +4138,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/histoire-de-mayotte-et-des-comores-fr.zip
     version: '2019-12-16'
+  histoire-de-saint-martin-fr:
+    description: "Documents pour d\xE9couvrir l'histoire de l'\xEEle de Saint-Martin."
+    language: fr
+    name: Histoire de Saint-Martin
+    sha256sum: a7b7a3573d046c52eaee3fbee10e9470cae0fd16d119a7262183176625ee4ad2
+    size: 1216150311
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/histoire-de-saint-martin-fr.zip
+    version: '2021-02-08'
   histoire-epoque-contemporaine-general-a-associe-avec-876-et-877-fr:
     description: "Ce paquet contient des podcastes audio et des vid\xE9os sur des\
       \ sujets d'histoire de l'\xE9poque contemporaine, surtout acc\xE8s autour de\
@@ -4148,6 +4284,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/history-africa-en.zip
     version: '2019-09-16'
+  history-and-culture-of-saint-martin-en:
+    description: Document about history and culture of St. Martin
+    language: en
+    name: History and Culture of Saint Martin
+    sha256sum: ba57fd382890d95837bb1774e20d9d699a752cd94de1e4da6a646e7c086b371e
+    size: 877566669
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/history-and-culture-of-saint-martin-en.zip
+    version: '2021-02-08'
   history-multi-language-en:
     description: know each other
     language: en
@@ -4271,6 +4416,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/hygiene-enfants-ados-fr.zip
     version: '2019-09-18'
+  hygiene-et-sante-adulte-sxm-fr:
+    description: "Des conseils pour rester en bonne sant\xE9 gr\xE2ce \xE0 des mesures\
+      \ d'hygi\xE8ne simples."
+    language: fr
+    name: "Hygi\xE8ne et sant\xE9"
+    sha256sum: 827771715fff5243dba1a926f7dc51f6b8a9274266fb1d055bebf7c41663756d
+    size: 195958850
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/hygiene-et-sante-adulte-sxm-fr.zip
+    version: '2021-02-08'
   i-have-diabetes-how-should-i-take-care-of-myself-en:
     description: If you have diabetes and have questions about how to take care of
       yourself, click here
@@ -4331,6 +4486,33 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/il-etait-une-fois-notre-terre-fr.zip
     version: '2019-10-08'
+  ils-ont-ton-age-arte-junior-fr:
+    description: "S\xE9rie 'Ils ont ton \xE2ge' de Arte Junior. Comment vivent les\
+      \ enfants et les ados ailleurs dans le monde ? Dans cette s\xE9rie, des gar\xE7\
+      ons et des filles du monde entier te pr\xE9sentent leur quotidien, leur famille\
+      \ et leurs hobbys."
+    language: fr
+    name: "Ils ont ton \xE2ge - Arte Junior"
+    sha256sum: 621e6d848422da55baa53137e7146560144f34d9b4adabef871c57c1455ddd54
+    size: 4082008303
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/ils-ont-ton-age-arte-junior-fr.zip
+    version: '2021-02-08'
+  info-ou-intox-fr:
+    description: "\xAB Pensez toujours \xE0 v\xE9rifier avant de partager \xBB ! C\u2019\
+      est le r\xE9flexe que vous garderez en t\xEAte apr\xE8s avoir vu ces modules\
+      \ passionnants sur les meilleurs moyens de d\xE9tecter les images, sons et vid\xE9\
+      os que l\u2019on vous \xAB vend \xBB sur Internet et les r\xE9seaux sociaux\
+      \ afin de vous manipuler. Vous apprendrez \xE0 rep\xE9rer simplement, au moyen\
+      \ d'outils gratuits, o\xF9 et quand ces vid\xE9os ou photos ont \xE9t\xE9 prises\
+      \ et vous deviendrez incollable sur le sujet !"
+    language: fr
+    name: Info ou Intox
+    sha256sum: 8798e48e674d4abaf04eb20b69f53e1d2bea0123f936c56efbaafc8b8ef65c58
+    size: 473778206
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/info-ou-intox-fr.zip
+    version: '2021-02-08'
   information-mayotte-repema-askip-fr:
     description: "ASKIP : 10 vid\xE9os en fran\xE7ais cr\xE9ole propos\xE9es par le\
       \ R\xE9seau P\xE9rinatal de Mayotte (REPEMA) pour vous familiariser, prendre\
@@ -5124,6 +5306,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/la-region-de-la-guyane-pays-voisins-et-amazonie-fr.zip
     version: '2020-07-03'
+  la-region-de-saint-martin-iles-et-pays-voisins-fr:
+    description: "Informations sur les \xEEles et pays voisins de Saint-Martin, situ\xE9\
+      \ dans les Antilles."
+    language: fr
+    name: "La r\xE9gion de Saint-Martin  :  \xEFles et pays voisins"
+    sha256sum: 0b09ca9359e2145dfb93b2264a7289ffb5e83458359d5d3370e411cf5261b535
+    size: 357092546
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/la-region-de-saint-martin-iles-et-pays-voisins-fr.zip
+    version: '2021-02-08'
   la-sante-de-la-femme-gl-fr:
     description: "Des ressources pour permettre \xE0 la femme de mieux conna\xEEtre\
       \ son corps, son fonctionnement, ses maladies, ses changements. / Inyigisho\
@@ -5562,6 +5754,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-chroniques-ecologiques-du-professeur-feuillage-fr.zip
     version: '2020-09-01'
+  les-cles-des-medias-fr:
+    description: "Qu\u2019est-ce qu\u2019un m\xE9dia, qu\u2019est-ce qu\u2019une information,\
+      \ qu\u2019est-ce qu\u2019une source ?\u2026, autant de questions, de mots, de\
+      \ concepts qu\u2019il convient de d\xE9finir pour pouvoir avoir une pratique\
+      \ raisonn\xE9e autour des \xE9crans, de l\u2019information, du m\xE9tier de\
+      \ journaliste."
+    language: fr
+    name: "Les cl\xE9s des m\xE9dias"
+    sha256sum: 626a4282e5bce068ee330f94c8c9ca3e662fb08a1e477a599e077ca4d43c26cb
+    size: 406676705
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/les-cles-des-medias-fr.zip
+    version: '2021-02-08'
   les-dangers-de-l-alcool-et-des-drogues-ingaruka-mbi-zokunwa-inzoga-nibiyayuramutwe-rn:
     description: "Conna\xEEtre les effets de la consommation d'alcool et de drogues\
       \ pour sensibiliser aux dangers de la sur-consommation."
@@ -5592,6 +5797,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-effets-et-les-dangers-de-la-consommation-d-alcool-et-de-drogues-fr.zip
     version: '2020-09-01'
+  les-emotions-expliquees-aux-enfants-et-ados-associer-avec-938-fr:
+    description: "Contenus relatifs aux \xE9motions, comment celles-ci naissent en\
+      \ nous d'un point de vue scientifique mais \xE9galement l'impact que cela \xE0\
+      \ sur nos vies."
+    language: fr
+    name: "Les \xE9motions expliqu\xE9es aux enfants et ados"
+    sha256sum: 0b2891f96434127dc272721f5d342b68919ad183759d713ae0a32248cec55308
+    size: 302556452
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/les-emotions-expliquees-aux-enfants-et-ados-associer-avec-938-fr.zip
+    version: '2021-02-08'
   les-enfants-apprennent-le-francais-fr:
     description: "Quelques bases pour progresser en fran\xE7ais."
     language: fr
@@ -7153,6 +7369,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/plomberie-tutoriels-videos-et-documentation-fr.zip
     version: '2020-09-04'
+  podcast-ma-vie-d-ado-fr:
+    description: "Dans Ma vie d'ado, tu vas entendre des coll\xE9giens parler de tout\
+      \ et surtout d'eux, de leurs r\xE9actions et de leurs sentiments au fil du temps.\
+      \ Des col\xE8res et de la tendresse, des coups de gueule et des coups de c\u0153\
+      ur, leurs profs et leurs amours, leurs parents et leurs amis\u2026 Une vie d'ado,\
+      \ quoi !\r\nUn podcast r\xE9alis\xE9 par Okapi."
+    language: fr
+    name: Podcast Ma vie d'ado
+    sha256sum: b41353b022105581d20830c17747d50a04041d2db4235b42bcc404b36f44f677
+    size: 940922900
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/podcast-ma-vie-d-ado-fr.zip
+    version: '2021-02-08'
   poesie-et-slam-en-shimaore-411:
     description: "Des po\xE8mes en maorais pr\xE9sent\xE9 par l\u2019association Shim\xE9"
     language: '411'
@@ -7549,11 +7778,11 @@ all:
     description: '-'
     language: fr
     name: "Qu'est-ce que \xE7a veut dire \xEAtre fran\xE7ais ?"
-    sha256sum: fb18a014b4da299c0138b1659cef7091d871ad1a48bdf549f1ab7a801b736579
-    size: 702265379
+    sha256sum: 679e8ac5ad81e0670884a18c0a03fc359fb6a259f742a332a735089a5fc2d80e
+    size: 861826892
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/qu-est-ce-que-ca-veut-dire-etre-francais-fr.zip
-    version: '2019-09-17'
+    version: '2021-02-08'
   reading-and-writing-games-en:
     description: You will find within this package games that will enable you to exercise
       your reading and writing abilities in an amusing way.
@@ -7635,6 +7864,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/refugees-and-migrants-en-en.zip
     version: '2020-02-11'
+  rencontre-avec-des-professionnels-de-saint-martin-fr:
+    description: "Ces vid\xE9os, extraites de reportages de iotv, permettent de d\xE9\
+      couvrir le m\xE9tier de diff\xE9rents professionnels qui exercent sur l'\xEE\
+      le de Saint-Martin ainsi que des entrepreneurs de l'\xEEle."
+    language: fr
+    name: Rencontre avec des professionnels de Saint-Martin
+    sha256sum: e6883c521c9a1b5207c5e8c66c57411da2c741db150a78c3f357a32f2e40c6a2
+    size: 1643779444
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/rencontre-avec-des-professionnels-de-saint-martin-fr.zip
+    version: '2021-02-08'
   renseignez-vous-sur-les-demarches-administratives-fr:
     description: "Retrouvez ici quelques guides pour vous aider \xE0 vous rep\xE9\
       rer dans le labyrinthe des d\xE9marches administratives. Pour d\xE9fendre ses\
@@ -7655,6 +7895,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ressources-pour-les-fiches-activites-pour-le-projet-ministere-de-la-culture-2-fr.zip
     version: '2019-12-10'
+  revisions-du-brevet-methodologie-fr:
+    description: "Retrouvez une s\xE9lection  de vid\xE9os pour vous entra\xEEner\
+      \ aux diff\xE9rentes \xE9preuves du brevet autour de conseils m\xE9thodologiques"
+    language: fr
+    name: "R\xE9visions du Brevet : M\xE9thodologie"
+    sha256sum: 0b5b576112d0ef48a5ea21aa3d7a3d50a8706c47fa68d1a8ccc619f3f7f7506e
+    size: 674168693
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/revisions-du-brevet-methodologie-fr.zip
+    version: '2021-02-08'
   revolutionary-women-en:
     description: Learn about incredible women's history
     language: en
@@ -7705,6 +7955,36 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/s-informer-sur-internet-fr.zip
     version: '2019-09-16'
+  saint-martin-after-irma-hurricane-en:
+    description: Documents about St Martin after hurricane Irma
+    language: en
+    name: Saint Martin after hurricane Irma
+    sha256sum: 9155d691251187c4fa15cd58b4290e212a59a988cd5b55c0520fd4ed07e246b3
+    size: 709264514
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/saint-martin-after-irma-hurricane-en.zip
+    version: '2021-02-08'
+  saint-martin-l-ouragan-irma-fr:
+    description: "En septembre 2017, l'\xEEle de Saint-Martin a \xE9t\xE9 frapp\xE9\
+      e par l\u2019ouragan Irma, qui a caus\xE9 de tr\xE8s importants d\xE9g\xE2ts\
+      \ aussi bien sur le plan mat\xE9riel que humain."
+    language: fr
+    name: 'Saint-Martin : l''Ouragan Irma'
+    sha256sum: eb7fb00bbf9df3c7a48d2db13616224a36a589d0c90aa155834af944fba98529
+    size: 402015275
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/saint-martin-l-ouragan-irma-fr.zip
+    version: '2021-02-08'
+  saint-martin-plan-de-prevention-des-risques-naturels-pprn-fr:
+    description: "Le PPRN, Plan de pr\xE9vention des risques naturels, a entra\xEE\
+      n\xE9, \xE0 Saint-Martin,  une crise sociale en d\xE9cembre 2019."
+    language: fr
+    name: "Saint-Martin : Plan de pr\xE9vention des risques naturels (PPRN)"
+    sha256sum: 6a40ce1f05d267f659880de16071a9b51014bba69eb529fae25a63faac8ec742
+    size: 504812520
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/saint-martin-plan-de-prevention-des-risques-naturels-pprn-fr.zip
+    version: '2021-02-08'
   sante-de-la-femme-fr:
     description: "Contenus relatifs \xE0 la physiologie de la femme"
     language: fr
@@ -8266,6 +8546,52 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/utilisez-internet-en-toute-securite-fr.zip
     version: '2019-09-16'
+  vie-affective-et-sexuelle-fiches-activites-fr:
+    description: "Fiches activit\xE9s et leurs supports pour mettre en place des activit\xE9\
+      s sur la vie affectives et sexuelle avec des adolescents.\r\nA destination des\
+      \ animateurs"
+    language: fr
+    name: "Vie affective et sexuelle - Fiches activit\xE9s"
+    sha256sum: bb35884e89603f944c50314843659d84aa58ee08fca6a922669c3dac11d18498
+    size: 25815758
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/vie-affective-et-sexuelle-fiches-activites-fr.zip
+    version: '2021-02-08'
+  vie-affective-et-sexuelle-l-essentiel-des-connaissances-fr:
+    description: "Voici les connaissances \xE0 avoir pour mener des activit\xE9s sur\
+      \ la vie affective et sexuelle avec des adolescent, afin d'\xEAtre \xE0 m\xEA\
+      me de r\xE9aliser l'activit\xE9 et r\xE9pondres aux questions des participants."
+    language: fr
+    name: Vie affective et sexuelle - L'essentiel des connaissances
+    sha256sum: f04f7532f1ebe9ea23b94007d9c3ab25331013f9a434f847f2d81b8812190e52
+    size: 33312312
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/vie-affective-et-sexuelle-l-essentiel-des-connaissances-fr.zip
+    version: '2021-02-08'
+  vie-affective-et-sexuelle-outils-cles-en-main-fr:
+    description: "Outils cl\xE9s en main pour les personnes voulant animer des activit\xE9\
+      s avec des adolescents sur des sujets li\xE9s \xE0 la vie affective et sexuelle.\r\
+      \nSujets abord\xE9s: consentement, contraception, harc\xE8lement et cyberharc\xE8\
+      lement"
+    language: fr
+    name: "Vie affective et sexuelle - Outils cl\xE9s en main"
+    sha256sum: a9ee8fa7aa4a5e7855464a08b1de8d087ba166f3ee7f9309fbd93c858bb6ad19
+    size: 22050333
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/vie-affective-et-sexuelle-outils-cles-en-main-fr.zip
+    version: '2021-02-08'
+  vie-affective-et-sexuelle-supports-libres-fr:
+    description: "Supports en acc\xE8s libre pour les adolescents et adultes qui veulent\
+      \ en savoir plus sur la vie affective et sexuelle.\r\nInformation sur les organes\
+      \ sexuels, les premi\xE8res fois, les rapports amoureux et sexuels, la contraception,\
+      \ le genre, le consentement."
+    language: fr
+    name: Vie affective et sexuelle - Supports Libres
+    sha256sum: 87710c78b1d35c0313374ac7e1ae16945216eccf1a7cd12ee2935ce6754dba99
+    size: 898897251
+    type: zipped-medias
+    url: http://packages.ideascube.org/omeka/vie-affective-et-sexuelle-supports-libres-fr.zip
+    version: '2021-02-08'
   vie-quotidienne-a-mayotte-fr:
     description: "Reportages sur la vie quotidienne \xE0 Mayotte"
     language: fr
