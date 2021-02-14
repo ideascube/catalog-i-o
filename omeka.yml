@@ -159,7 +159,7 @@ all:
       and how to take care of the environement, mostly in Burmese language
     language: mya
     name: Agriculture & Ecology documentary in Burmese
-    sha256sum: e370337d003f904dfb19d38df3de25556e03615d0324dc91e9669cfa0850955a
+    sha256sum: 80ded38a7faa51a695a16c44246d4be2bae4a8a492eaae31f4cf252bb3566453
     size: 1398024102
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-ecology-documentary-in-burmese-mya.zip
@@ -344,7 +344,7 @@ all:
       the pyramids. All the video are in Burmese
     language: mya
     name: Animals & Environement documentary in Burmese
-    sha256sum: d30470b20bc2b1d966724adcae04a01aa7533ecc6eaa21c3e16c8e896a6590bb
+    sha256sum: 87c83be9ef8d0553bf82edfbd01abedbb47bec8e9287503e647f75d0b7be0c73
     size: 2471357555
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/animals-environement-documentary-in-burmese-mya.zip
@@ -1359,7 +1359,7 @@ all:
       peace and friendship.
     language: mya
     name: Children books in Burmese (pdf and audio books)
-    sha256sum: 9a1ce56999f3dc2f7df8b22248e9ead8b4b923744839cf2defc809fae7d83725
+    sha256sum: 1e23163ca1b59985a0e57f436bcf54497d8c7ac1d6b00fd2253f20bf198ffdde
     size: 319596530
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/children-books-in-burmese-pdf-and-audio-books-mya.zip
@@ -1970,7 +1970,7 @@ all:
       and contains illustrations.
     language: mya
     name: COVID-19 - Burmese
-    sha256sum: e90ede706b4092cf43708a53d914f1d16ca57651e6189cae6cf108f67f4ba12f
+    sha256sum: b0fac524f7e33a9f5c2a77966b85747ddb2c3f70a0b377f2c90b5e72b1961fa6
     size: 1263655
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/covid-19-burmese-mya.zip
@@ -1980,7 +1980,7 @@ all:
       making sure your hands stay clean.
     language: en
     name: COVID-19 - English
-    sha256sum: 65ead8441ba0187a46b8b5de253bd9078bf6e1241874f65af46cccbc18cc015b
+    sha256sum: 0e6e9a70c9ffdef41c67f9356958ce286722e64776f30c4e73df4a9540ff57cb
     size: 252346966
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/covid-19-english-bgd-en.zip
@@ -1990,7 +1990,7 @@ all:
       making sure your hands stay clean.
     language: en
     name: COVID-19 - English
-    sha256sum: 27a086350e6182e8143d7d5e08b2755a555e950477024004d37170c64c72497d
+    sha256sum: 4bf6763caf6b66b5ee454d096824d3d7271a7020d162ff7dc02b574ce0a989ea
     size: 315472504
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/covid-19-english-en.zip
@@ -2569,7 +2569,7 @@ all:
       and internet. Advice and concret tips
     language: mya
     name: Digital literacy lessons in Burmese
-    sha256sum: 08d2b540845fe022f7f07405f32138d4b73794fa43970b4953d1273c14bd26b4
+    sha256sum: 789eca34ac07e6f7cbf4d57fd9f5e3620d5639eb1829e2876b804547b2684e38
     size: 1031569124
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/digital-literacy-lessons-in-burmese-mya.zip
@@ -2818,7 +2818,7 @@ all:
       and to improve your drawing skills with intremediary and advances lessons.
     language: multilangue
     name: Drawing class
-    sha256sum: d2987190ffe30dc108446bd0ad2b2efd28c0313e10917338dea7b38d4b0ede2c
+    sha256sum: 43ece13248897e74e5f5272c0fe1423087b5f5df64f01f8be43ba60daeee557e
     size: 2100785991
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/drawing-class-multilangue.zip
@@ -3972,7 +3972,7 @@ all:
     description: Several handicraft tutorial, in burmese and in video without language
     language: mya
     name: Handicraft
-    sha256sum: feb869a7650ebb58aeac13f2f170d41c0a87f28210ad275ada82583aeaf8bc90
+    sha256sum: c2c25111687017182f40ae5666ac0711e4e4ba41bc3c9919acc58ee6d87557d4
     size: 1706373988
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/handicraft-mya.zip
@@ -4067,7 +4067,7 @@ all:
       and English
     language: mya
     name: Health promotion for mother and baby
-    sha256sum: 40cb795d6141ae7fc1fe01d60a3b09919a3833f69984051a6136fb0a4f6d14b5
+    sha256sum: d43ea639aa32f28a271009da7c06e3d09222044218fb148d3d86f2a931b88a8c
     size: 1825067178
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-promotion-for-mother-and-baby-mya.zip
@@ -4087,7 +4087,7 @@ all:
       family, in Burmese language
     language: mya
     name: Health Promotion in Burmese
-    sha256sum: 61644cf095c4438d4f710abb6b2e738efacae33ffc193bbcc0cad4695636e185
+    sha256sum: 1e1945db5ed5ca3ad6ad578d5600ab224386e3f814965ef965687a8bde575593
     size: 1657857672
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-promotion-in-burmese-mya.zip
@@ -4541,7 +4541,7 @@ all:
     description: '-'
     language: bn
     name: IDB team - Facilitation help
-    sha256sum: 935e76ee40fc73a21bbe0bdaec6767c3ac28ca7895b635f650a2113f8f5f0b0e
+    sha256sum: f6665afd7376ea48d3631d7fdecc59f3d079331e18b74ff4d0d8467810075fec
     size: 77084046
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/idb-team-in-bangaldesh-facilitation-help-bn.zip
@@ -5566,7 +5566,7 @@ all:
       the content is in Burmese
     language: mya
     name: Leadership & Empowerment in Burmese
-    sha256sum: cdaa82c67c2d84a7c096640eca4a7073685983d5f589b2da48cc98471de963cc
+    sha256sum: 28851b0a5a950d69c00cf020a2c6cf9b0782504ade189a8617dd721999c4c660
     size: 1340348395
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/leadership-empowerment-in-burmese-mya.zip
@@ -5606,7 +5606,7 @@ all:
       \ alphabet and all the letter, learn vocabulary through nice cartoon and song"
     language: mya
     name: Learn Burmese Language
-    sha256sum: fd208575e01f22a2a79986556fe680d0aaf3b35bfbec8417f21e2d93a5bcb991
+    sha256sum: eda15f14b40c896817530281005f52b34202b948f6cff465d9db9b65f1b326fe
     size: 869262562
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-burmese-language-mya.zip
@@ -7777,7 +7777,7 @@ all:
       UN agency and dedicated to the Rohingya Refugee Crises.
     language: multilangue
     name: Protection in the Rohingya Refugee Camp
-    sha256sum: 4ed48b549286a81cfeae4d510346a34d758fecb6fa458da08eba6400544a0023
+    sha256sum: ccc75cdff069b95b472bde8c26c579e4340ecd96ea6be7351c8b264ef61a77fe
     size: 968527055
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/protection-in-the-rohingya-refugee-camp-multilangue.zip
@@ -7829,7 +7829,7 @@ all:
       dedicated to children.
     language: multilangue
     name: Psychological support (English & Rohingya)
-    sha256sum: 7aae1ddcbc7b94b6e844295a031939d038c1d9170bf99f02e5888af169200b24
+    sha256sum: 7c853c0ae3fe10665412f413787a5c9dc80946902abd314309f86b80c2c9d9da
     size: 1893523024
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/psychological-support-english-rohingya-multilangue.zip
@@ -8119,7 +8119,7 @@ all:
       translation)
     language: mya
     name: Science documentary in Burmese
-    sha256sum: 06c019c2eb8d7f781cfa1b0fab3ba4388d5e36d8883f7863da6d7ab55363dc96
+    sha256sum: 6ac534e52b404b0900916c36637c0dc74bef3d79846f3863ce9a6cb973d6eba5
     size: 744459805
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/science-documentary-in-burmese-mya.zip
@@ -8129,7 +8129,7 @@ all:
       the sky.
     language: en
     name: Science documentary in English
-    sha256sum: 216af78963dedd09eeff79d41ccb1ba10f7e3833af22379f5677a94ae71e84a3
+    sha256sum: 2163081fbd5c0ed5ef00410dbbcfa43fae721f36a76b2cf1ed78532399b0f20d
     size: 2809015677
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/science-documentary-in-english-en.zip
@@ -8973,7 +8973,7 @@ all:
       \nVideos about breathing exercice and meditation for children (english)"
     language: multilangue
     name: Yoga for women and children (Burmese & English)
-    sha256sum: 4c00897fce6c0453235191d6875b5f61d23c2e9ea530a0164a799dd2d38a2561
+    sha256sum: cef770897032d45e832c87933e5f89fd3f8f5e8d50d433538cd03cacb2ea8491
     size: 3778308113
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/yoga-for-women-and-children-burmese-english-multilangue.zip
