@@ -8,7 +8,6 @@ all:
     size: 204820140
     sha256sum: "ef6b6366f2f4d9cde4bdb58302067746e8005c8fc5b614da5407986cdb6bab61"
     type: zim
-    langid: "wikipedia.mg"
   wikipedia_pl_all:
     name: Wikipedia
     description: "Z Wikipedii, wolnej encyklopedii"
@@ -18,7 +17,6 @@ all:
     size: 15151621435
     sha256sum: "cb8dfdfd7735bfb7d0528fa6ed9a2e7910384e6bb5278d9f0f8e442cb84c7a45"
     type: zim
-    langid: "wikipedia.pl"
   wiktionary_es:
     name: Wikcionario
     description: "De Wikcionario, el diccionario libre"
@@ -28,7 +26,6 @@ all:
     size: 574453676
     sha256sum: "58e9b0ed4fb3aa37be417d3973a23dde4a50d58ddaa9fea4986afc86747ae2a3"
     type: zim
-    langid: "wiktionary.es"
   wiktionary_ti:
     name: Wiktionary
     description: "From Wiktionary"
@@ -38,7 +35,6 @@ all:
     size: 386679
     sha256sum: "965a31a8c39dadc467de1d5462d7239adc59c3302e31c08848747679636e4b5c"
     type: zim
-    langid: "wiktionary.ti"
   wikipedia_ti_all:
     name: Wikipedia
     description: "From Wikipedia"
@@ -48,7 +44,6 @@ all:
     size: 2346823
     sha256sum: "bbbdb5b3c7e52598db7b56b6a2f71fd9b85e3c9e12f447cebc7dcacd41918ded"
     type: zim
-    langid: "wikipedia.ti"
   wikipedia_en_all:
     version: "2018-09-26"
     size: 82927821201
@@ -57,7 +52,6 @@ all:
     language: "eng"
     description: The free encyclopedia
     sha256sum: "fe6943e6311177a0f4647435c0a3dd6e3c34c1d391dcdbc540bc335faa731cef"
-    langid: "wikipedia.en"
     type: zim
   wikipedia_fr_all:
     version: "2019-09-21"
@@ -67,7 +61,6 @@ all:
     language: "fra"
     description: L'encyclopédie libre.
     sha256sum: "7ae184ff6cf31ccabd1c14056b4bebb6776e7a458681eed0a17be70bb3f63bd6"
-    langid: "wikipedia.fr"
     type: zim
   wikipedia.rn:
     version: "2019-04-01"
@@ -77,7 +70,6 @@ all:
     language: "run"
     description: The free encyclopedia
     sha256sum: "9bdaffd880ed42b22cb8b22f86b4efe112efddcd981620c1861322c44d283a3f"
-    langid: "wikipedia.rn"
     type: zim
   wiktionary.en:
     version: "2018-06-01"
@@ -87,7 +79,6 @@ all:
     description: The free dictionary
     size: 4408344149
     sha256sum: "647fd52be8e415068b5a344eb62c7873a4134cc0b6b72a74cf05dad0969365a7"
-    langid: "wiktionary.en"
     type: zim
   wiktionary_fr:
     version: "2018-07-11"
@@ -97,7 +88,6 @@ all:
     language: "fra"
     description: Définition, traduction, prononciation, anagramme et synonyme sur le dictionnaire libre Wiktionnaire.
     sha256sum: "f366f4de49bd476499231894aca1a10e74753a9635bc38acfe93fd572dc76b61"
-    langid: "wiktionary.fr"
     type: zim
   wikiversity_en:
     version: "2019-07-25"
@@ -107,7 +97,6 @@ all:
     language: "eng"
     description: Tutorials and courses for the fostering of learning.
     sha256sum: "93117eeb4bbe27b93e77b9985a31d7293d242a366f6999770403d59634b2c422"
-    langid: "wikiversity.en"
     type: zim
   wikiversity_fr:
     version: "2019-07-25"
@@ -117,7 +106,6 @@ all:
     language: "fra"
     description: "Une page de Wikiversité."
     sha256sum: "01c795727b1028f7f8ec71cd03f245006b9ed538de64f767e437590b404572fc"
-    langid: "wikiversity.fr"
     type: zim
   wikibooks_en:
     version: "2019-05-01"
@@ -127,7 +115,6 @@ all:
     language: "eng"
     description: Open books for an open world
     sha256sum: "366a58c4de8d9824e859421546f243a4a9067c8c962f798c6ba8b8a4a9b4f4f8"
-    langid: "wikibooks.en"
     type: zim
   wikibooks_fr:
     version: "2019-03-01"
@@ -137,7 +124,6 @@ all:
     language: "fra"
     description: Bibliothèque de livres pédagogiques libres.
     sha256sum: "400fa8bd4325b767018bb72f1f435db7d012eeef47141fd62b9d3934c31a3ec3"
-    langid: "wikibooks.fr"
     type: zim
   wikibooks_es:
     version: "2019-05-01"
@@ -147,7 +133,6 @@ all:
     language: "esp"
     description: De Wikilibros, la colección de libros de texto de contenido libre.
     sha256sum: "57ce45708300124e4cccf2aa567076e0c831c14c3b39bcf7c7ffe45794c52fc7"
-    langid: "wikibooks.es"
     type: zim
   wikisource_en:
     version: "2018-09-17"
@@ -157,7 +142,6 @@ all:
     language: "eng"
     description: Digital library of free content textual sources.
     sha256sum: "154f3bca72ba57c6b008b377e2bdf5b0416e1306e47436f812d727ff663b97a8"
-    langid: "wikisource.en"
     type: zim
   wikisource_fr:
     version: "2018-10-01"
@@ -167,7 +151,6 @@ all:
     language: "fra"
     description: "La bibliothèque libre."
     sha256sum: "9e7128672737c5211fc036d7e266cd89e81f3422560fe0375f40150fdc07bca1"
-    langid: "wikisource.fr"
     type: zim
   cest-pas-sorcier_fr_all:
     version: "2018-06-01"
@@ -177,7 +160,6 @@ all:
     language: "fra"
     description: "C'est pas sorcier videos"
     sha256sum: "bf310a246d26dc2922d6b4580f00575045b2d8d426b6d592f94424d9e4e99de3"
-    langid: "cest-pas-sorcier.fr"
     type: zim
   gutenberg_en_all:
     version: "2019-01-08"
@@ -187,7 +169,6 @@ all:
     language: "eng"
     description: "Project Gutenberg offers free ebook (epub and pdf)"
     sha256sum: "a34bfda053ffc8db762795f6a1e7cabc8e4831665d7093f9bfb80a2b012ac57c"
-    langid: "gutenberg.en"
     type: zim
   gutenberg_fr_all:
     version: "2018-10-01"
@@ -197,7 +178,6 @@ all:
     language: "fra"
     description: "Le Projet Gutenberg offre des livres électroniques gratuits à télécharger sur votre PC"
     sha256sum: "73fa886a1f6e85670dc4e815c4b06861278be34ea3231c28c889b27e9deb43da"
-    langid: "gutenberg.fr"
     type: zim
   ubuntudoc_fr_all:
     version: "2015-12-16"
@@ -207,7 +187,6 @@ all:
     language: "fra"
     description: "Version hors ligne du wiki: doc.ubuntu-fr.org"
     sha256sum: "700859c66e28bb248cf72f888a2b703689920a322bd50963c5d87a6feebfb67a"
-    langid: "ubuntudoc.fr"
     type: zim
   universcience-tv_fr_all:
     version: "2015-03-21"
@@ -217,7 +196,6 @@ all:
     language: "fra"
     description: "universcience tv videos"
     sha256sum: "edc3bd4db658c40b98c0d9db4008a96a0b76d172948d61f87b65a1177b85fc18"
-    langid: "universcience-tv.fr"
     type: zim
   tedxgeneva-2014_fr_all:
     version: "2015-03-18"
@@ -227,7 +205,6 @@ all:
     language: "fra"
     description: "TEDxGeneva 2014 videos"
     sha256sum: "ecebf5ae507a93dc6289acdf1fa57bb51cc7428f5e7d9f0bcd440fc4f0ae4717"
-    langid: "tedxgeneva2014.fr"
     type: zim
   tedxlausanne2012.fr:
     version: "2015-03-18"
@@ -237,7 +214,6 @@ all:
     language: "fra"
     description: "TEDxLausanne 2012 videos"
     sha256sum: "99d18c8202a67116c614cb92bad1525de8443e4cfa58db944e2e7437c3825182"
-    langid: "tedxlausanne2012.fr"
     type: zim
   tedxlausanne2013.fr:
     version: "2015-03-19"
@@ -247,7 +223,6 @@ all:
     language: "fra"
     description: "TEDxLausanne 2013 videos"
     sha256sum: "dabcf32104ecc4d158fc5cf20fbd90a90590b4337bde5a029d3aef592bb7ed4a"
-    langid: "tedxlausanne2013.fr"
     type: zim
   tedxlausanne-2014_fr_all:
     version: "2015-03-19"
@@ -257,7 +232,6 @@ all:
     language: "fra"
     description: "TEDxLausanne 2014 videos"
     sha256sum: "5bf3d7cedfbfca2163b590bb41c514e82a1e6771914f26ff7e5d65aab00684a1"
-    langid: "tedxlausanne2014.fr"
     type: zim
   tedxlausannechange-2013_fr_all:
     version: "2015-03-19"
@@ -267,7 +241,6 @@ all:
     language: "fra"
     description: "TEDxLausanneChange 2013 videos"
     sha256sum: "fa41273c9788eff16b779bd4551c0dc2737db20bbad52318fd4815a2e1c781a2"
-    langid: "tedxlausannechange2013.fr"
     type: zim
   ted_business:
     version: "2018-07-01"
@@ -277,7 +250,6 @@ all:
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of business.
     sha256sum: "276bc6b84c92e0078ed502ba0dd61c7929280cdcdc65887860143329f508b544"
-    langid: "tedbusiness.en"
     type: zim
   ted_design:
     version: "2018-07-01"
@@ -287,7 +259,6 @@ all:
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of design.
     sha256sum: "5dd8135a66a641d9c8e493ca32d6e9dd14edf5b6a2fd204d9a30e5e8ed02aede"
-    langid: "teddesign.en"
     type: zim
   ted-entertainment:
     version: "2018-07-01"
@@ -297,7 +268,6 @@ all:
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of entertainment.
     sha256sum: "79c0e0aa126f79b6a63536b7f0d811c7164fd546b37ca20331bff1be640bcd6d"
-    langid: "tedentertainment.en"
     type: zim
   ted_global_issues:
     version: "2018-07-01"
@@ -307,7 +277,6 @@ all:
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of global issues.
     sha256sum: "c8b1d5ce6c8fa246dd823bd675fe6cb05192e41a83c8c843115a3a3b632a2544"
-    langid: "tedglobalissues.en"
     type: zim
   ted_science:
     version: "2018-07-23"
@@ -317,7 +286,6 @@ all:
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of science.
     sha256sum: "84a0849f0410f9d3047896d6e34f007ca84c3f8e04cea1e95ee2f4e7953acdd6"
-    langid: "tedscience.en"
     type: zim
   ted_technology:
     version: "2018-07-23"
@@ -327,7 +295,6 @@ all:
     language: "eng"
     description: A collection of TED Talks (and more) on the topic of technology.
     sha256sum: "7c184de62bd1e60044660ab0cc38091869f9be5f70f8deb1881b5538ad99a67b"
-    langid: "tedtechnology.en"
     type: zim
   wikivoyage_fr:
     version: "2019-10-02"
@@ -337,7 +304,6 @@ all:
     language: "fra"
     description: "De Wikivoyage"
     sha256sum: "603519bb680da8153d02835b67bda38ad7c9631a167eb380dc49631524080194"
-    langid: "wikivoyage.fr"
     type: zim
   wikipedia_wo_all:
     version: "2019-03-18"
@@ -347,7 +313,6 @@ all:
     language: "wol"
     description: "Jóge Wikipedia"
     sha256sum: "d80545091d74c910e62275351fa0500861f2404e896fdb0f7073b10fb2d2fedf"
-    langid: "wikipedia.wo"
     type: zim
   wikistage_fr_all:
     version: "2018-06-24"
@@ -357,7 +322,6 @@ all:
     language: "fra"
     description: "WikiStage videos"
     sha256sum: "a048519337a7cfe8754f40c9dfa8cd4f191f69894d8c463cb361f6858578b50d"
-    langid: "wikistage.fr"
     type: zim
   dirtybiology_fr_all:
     version: "2018-06-23"
@@ -367,7 +331,6 @@ all:
     language: "fra"
     description: "DirtyBiology videos"
     sha256sum: "2e48574610253e9465f186fbc78d5f88a8d791ccebe77cd3604a35ce55d1ded9"
-    langid: "dirtybiology.fr"
     type: zim
   wikipedia_pt_all:
     version: "2019-06-11"
@@ -377,7 +340,6 @@ all:
     language: "por"
     description: "Origem: Wikipédia, a enciclopédia livre."
     sha256sum: "72d1fe3bfa546dfcf2441e149584411d0c0be7d6a05ff5539e614886f5882fb5"
-    langid: "wikipedia.pt"
     type: zim
     gutenberg_pt_all:
     version: "2018-10-01"
@@ -387,7 +349,6 @@ all:
     language: "pt"
     description: "The first producer of free ebooks"
     sha256sum: "342e20bf6b2a666a865e3fc8e5792796a7066435dba2a683696529bd4f533b3e"
-    langid: "gutenberg.pt"
     type: zim
   wikipedia_fa_all:
     version: "2018-07-14"
@@ -397,7 +358,6 @@ all:
     language: "fas"
     description: "ﺍﺯ ﻭیکی<200c>پﺩیﺍ، ﺩﺎﻨﺸﻧﺎﻤﻫٔ ﺁﺯﺍﺩ"
     sha256sum: "936afc3b8226860b85b5ae64a0611b41bd93c353969fbf1ac3107d858afee2b9"
-    langid: "wikipedia.fa"
     type: zim
   wikipedia_ar_all:
     version: "2019-06-13"
@@ -407,7 +367,6 @@ all:
     language: "ara"
     description: "ويكبيديا,الموسوعه الحره"
     sha256sum: "3ea14ff53e4c5822b33989413fe50b28e9f27e4b783aef88f8d812bb8180cab0"
-    langid: "wikipedia.ar"
     type: zim
   vikidia_fr:
     version: "2018-10-07"
@@ -417,7 +376,6 @@ all:
     language: "fra"
     description: "Vikidia"
     sha256sum: "ff47b03d19ce7d3e8328a5677ef2b88c8e17286cacc63dd3fbb540b076ee4a5a"
-    langid: "vikidia.fr"
     type: zim
   wikipedia_ku_all:
     version: "2019-05-10"
@@ -427,7 +385,6 @@ all:
     language: "kur"
     description: "Ji Wîkîpediya, ensîklopediya azad."
     sha256sum: "19cc9bdc18ffc547da534d04800faac06740eb44ed7470059d98f3f05c73e3a4"
-    langid: "wikipedia.ku"
     type: zim
   wiktionary_ku:
     version: "2019-05-11"
@@ -437,7 +394,6 @@ all:
     language: "kur"
     description: "Ji Wiktionary"
     sha256sum: "b0d5a32ad655e1ba278793cbbcd7b9e9cfe886c622e0fe47c174bc97843e6fcd"
-    langid: "wiktionary.ku"
     type: zim
   les-fondamentaux_fr_all:
     version: "2020-06-10"
@@ -447,7 +403,6 @@ all:
     language: "fra"
     description: "Les fondamentaux videos"
     sha256sum: "889b04978b05ba71473d4b2295219ae69f7247c8681a2f3ae749d610c7b9d4e1"
-    langid: "les-fondamentaux.fr"
     type: zim
   bil-tunisia_ar_all:
     version: "2018-06-24"
@@ -457,7 +412,6 @@ all:
     language: "ara"
     description: "مقاطع فيديو باللغه التونسيه"
     sha256sum: "56890e9f27b9a7da3ae292d4e6cd3fc448fb03ca790b0b749893976ebd6c78d9"
-    langid: "bil-tunisia.ar"
     type: zim
   icd10_fr_all:
     version: "2014-10-31"
@@ -467,7 +421,6 @@ all:
     language: "fra"
     description: "Classification statistique internationale des maladies et des problème de santé connexes"
     sha256sum: "4eaea701458c3976191d5985e57265b1ad8fe7a69b8345f0451de7ad39ab8ea1"
-    langid: "icd10.fr"
     type: zim
   mullah-piaz-digest_fa_all:
     version: "2012-12-19"
@@ -477,7 +430,6 @@ all:
     language: "per,eng"
     description: "Digest"
     sha256sum: "949f484ebfffafba77fd243d522bbee444e700b529c0f0e8f40ecb41bcfd2cfb"
-    langid: "mullah-piaz-digest.fa"
     type: zim
   wiktionary_fa:
     version: "2019-06-05"
@@ -487,7 +439,6 @@ all:
     language: "fas"
     description: "از ویکی<U+200C>واژه"
     sha256sum: "58e8ca01258bed055bbab51ba82af798c48c482d82bcc38fb9fae0c84dd9b272"
-    langid: "wiktionary.fa"
     type: zim
   wiktionary_ar:
     version: "2019-06-03"
@@ -497,7 +448,6 @@ all:
     language: "ara"
     description: "من ويكي القاموس، القاموس الحر"
     sha256sum: "fe918fd7417f3099a3fe8554644200ea632d2b4e12ca6ad4e3bf53804a5dbcb8"
-    langid: "wiktionary.ar"
     type: zim
   wikiversity_ar:
     version: "2019-07-25"
@@ -507,7 +457,6 @@ all:
     language: "ara"
     description: "من ويكي الجامعة,مركز التعليم الحر"
     sha256sum: "1249d5a3954467f68f62fe45bb122b791916c627ef4c3ed5d7b59a8a928aa95d"
-    langid: "wikiversity.ar"
     type: zim
   wikipedia_es_all:
     version: "2020-08-09"
@@ -517,7 +466,6 @@ all:
     language: "spa"
     description: "De Wikipedia, la enciclopedia libre"
     sha256sum: "fa3dcefe6a1bdaa911d427fcf5231f6931356404c5438bc39935aa516258e668"
-    langid: "wikipedia.es"
     type: zim
   gutenberg_es_all:
     version: "2018-10-23"
@@ -527,7 +475,6 @@ all:
     language: "spa"
     description: Libros electrónicos gratuitos a tu disposición.
     sha256sum: "ac67006a856a80b4d6a4969ea338ac4645875787e7e413256f80c146d5580281"
-    langid: "gutenberg.es"
     type: zim
   gutenberg_de_all:
     version: "2018-10-01"
@@ -537,7 +484,6 @@ all:
     language: "de"
     description: "The first producer of free ebooks"
     sha256sum: "50c60ff3902891b6b2460702464d7f7b5522e3aeab45e97db8c448157cd00848"
-    langid: "gutenberg.de"
     type: zim
   wikipedia_de_all:
     version: "2018-11-10"
@@ -547,7 +493,6 @@ all:
     language: "deu"
     description: "aus Wikipedia, der freien Enzyklopädie"
     sha256sum: "e1723052dc1174aeb16547c030c8639f0225865db401c185a32ba62b7bc7d2f2"
-    langid: "wikipedia.de"
     type: zim
   wikibooks_ar:
     version: "2019-06-03"
@@ -557,7 +502,6 @@ all:
     language: "ara"
     description: "الموسوعة المكتبية الحرة"
     sha256sum: "ac00553564389488f6eaace5945a1f2232102344f71e9306fc6dfb39ff4cd7c7"
-    langid: "wikibooks.ar"
     type: zim
   wikisource_ar:
     version: "2019-03-01"
@@ -567,7 +511,6 @@ all:
     language: "ara"
     description: "المكتبة الحرة التي يستطيع الجميع تحسينها"
     sha256sum: "6089559f0f5e23a5d4834623786787c55b627b749208af38a9ff42ce981fc2ec"
-    langid: "wikisource.ar"
     type: zim
   wikiquote_ar:
     version: "2019-07-24"
@@ -577,7 +520,6 @@ all:
     language: "ara"
     description: "ويكي للاقتباسات المختارة"
     sha256sum: "51fb8a64d4105e0d73d910ca285a34445998e141a324e971b3d9e85891a18ad9"
-    langid: "wikiquote.ar"
     type: zim
   wikipedia_el_all:
     version: "2019-05-09"
@@ -587,7 +529,6 @@ all:
     language: "ell"
     description: "Από τη Βικιπαίδεια, την ελεύθερη εγκυκλοπαίδεια"
     sha256sum: "a193b8253e981a9900c19d867492d8e8f086af18288831e67f73a41d86da264a"
-    langid: "wikipedia.el"
     type: zim
   wikipedia_ps_all:
     version: "2019-05-07"
@@ -597,7 +538,6 @@ all:
     language: "pus"
     description: "ﺩ ﻮﻳکﻱپېډﻱﺍ، ﻭړیﺍ پﻮﻬﻨﻏﻮﻧډ ﻞﻫ ﺥﻭﺍ"
     sha256sum: "3906099b82e3a4636101294aadbba452215070e88e190c0858436763749f7497"
-    langid: "wikipedia.ps"
     type: zim
   wiktionary_el:
     version: "2019-06-05"
@@ -607,10 +547,8 @@ all:
     language: "ell"
     description: "Από Βικιλεξικό"
     sha256sum: "d6c084191e066d9090880add193f9482afa4b61570dbefa247ff751ec1492ea6"
-    langid: "wiktionary.el"
     type: zim
   wiktionaryyps:
-    langid: "wiktionary.ps"
     description: "ﺩ ﻮﻳکﻲﺴﻴﻧﺩ ﻞﺧﻭﺍ"
     name: ﻮﻳکﻲﺴﻴﻧﺩ
     version: "2019-04-29"
@@ -620,7 +558,6 @@ all:
     sha256sum: "7e340c2e2b0e34ac6f0ab7e499c358532eb5b6175cf9103c181a36a2f1c53202"
     type: zim
   wikiversity_el:
-    langid: "wikiversity.el"
     description: "Από Βικιεπιστήμιο"
     name: Βικιεπιστήμιο
     version: "2019-06-03"
@@ -630,7 +567,6 @@ all:
     sha256sum: "7661f95d736ad25314cda89001e226b7b0007510062154369e2364736a7ac04f"
     type: zim
   wikibooks_fa:
-    langid: "wikibooks.fa"
     description: "ﻭیکی<200e>کﺕﺎﺑ، کﺕﺎﺒﺧﺎﻨﻫٔ ﺁﺯﺍﺩ"
     name: ﻭیکی<200c>کﺕﺎﺑ
     version: "2019-06-03"
@@ -640,7 +576,6 @@ all:
     sha256sum: "7cec5b2aa7152d8e5118f8af4f6537116f01823c969b9f40dfb55941ccc2b9c1"
     type: zim
   wikibooks_el:
-    langid: "wikibooks.el"
     description: "Από Βικιβιβλία"
     name: Βικιβιβλία
     version: "2019-06-03"
@@ -650,7 +585,6 @@ all:
     sha256sum: "fe39945c00372885dea735cc7741a4ec068e2a27146592d0072327b67471d528"
     type: zim
   wikisource_el:
-    langid: "wikisource.el"
     description: "Από Βικιθήκη"
     name: Βικιθήκη
     version: "2019-05-07"
@@ -660,7 +594,6 @@ all:
     sha256sum: "2963eaf4ee298802996763b4f0fa39b65bf139a0a28c6ea973660be51087b4dc"
     type: zim
   wikisource_fa:
-    langid: "wikisource.fa"
     description: "ﺍﺯ ﻭیکی<200c>ﻦﺒﺸﺘﻫ"
     name: ﻭیکی<200c>ﻦﺒﺸﺘﻫ
     version: "2019-06-05"
@@ -670,7 +603,6 @@ all:
     sha256sum: "0c8fcd28244033f5c53adeabab5b9416e5537d98a9b50e54251d0986e6d932a9"
     type: zim
   wikiquote_en:
-    langid: "wikiquote.en"
     description: The free quote compendium.
     name: Wikiquote
     version: "2019-07-24"
@@ -680,7 +612,6 @@ all:
     sha256sum: "644a2eb8e9a71f7c7d5388020ecfe1534d5fadae5be7405c1ce856b32f53da8a"
     type: zim
   wikiquote_el:
-    langid: "wikiquote.el"
     description: "Από Βικιφθέγματα"
     name: Βικιφθέγματα
     version: "2019-06-04"
@@ -690,7 +621,6 @@ all:
     sha256sum: "01e8a3995f62e61ce523adca42b4ff6a83e7ca3d9f9e90c9d613928a25c0b4fd"
     type: zim
   biologie-tout-compris_fr_all:
-    langid: "biologie-tout-compris.fr"
     description: "Uploads from Tania Louis videos"
     name: Uploads from Tania Louis
     version: "2018-06-23"
@@ -700,7 +630,6 @@ all:
     sha256sum: "3e2dc94c35081a17c615f1e0ddc3edc5f303d04764c625ef9c5597edfc140ff3"
     type: zim
   bouquineux_fr_all:
-    langid: "bouquineux.fr"
     description: "2500 livres numériques gratuits et libres de droits"
     name: Bouquineux
     version: "2013-07-27"
@@ -710,7 +639,6 @@ all:
     sha256sum: "7044cb0344711366d3ffe0a4ab32e6398c6c4e292d24a63df23c2f87b684274c"
     type: zim
   deus-ex-silicium_fr_all:
-    langid: "deus-ex-silicium.fr"
     description: "Deus Ex Silicium videos"
     name: "Deus Ex Silicium - Deus Ex Silicium videos"
     version: "2018-06-01"
@@ -720,7 +648,6 @@ all:
     sha256sum: "869ad728aacd865fde66b115d23981f6659cf889124ea6180135acd4840accbe"
     type: zim
   e-penser.fr:
-    langid: "e-penser.fr"
     description: "Vidéos E-penser"
     name: E-penser
     version: "2018-06-24"
@@ -730,7 +657,6 @@ all:
     sha256sum: "f8bcb15eb781dfd88153a7afa110a36248670056872ced40758809bc3d09be99"
     type: zim
   teded_en_all:
-    langid: "ted-ed.en"
     description: Education videos from TED
     name: TED talks - Education
     version: "2017-10-01"
@@ -740,7 +666,6 @@ all:
     sha256sum: "0921826684025a6a982b37185b660fc998e69edea19f2b82c62229e564004d27"
     type: zim
   gutenberg.mul:
-    langid: "gutenberg.mul"
     description: "The first producer of free ebooks"
     name: Project Gutenberg
     version: "2018-10-01"
@@ -750,7 +675,6 @@ all:
     sha256sum: "af84b925495de4cd22d0d4793159567ef9956ec53f3c7e25cac0a6261c62629e"
     type: zim
   wikipedia_sw_all:
-    langid: "wikipedia.sw"
     description: "Kutoka Wikipedia, kamusi elezo huru"
     name: Wikipedia
     version: "2019-03-18"
@@ -760,7 +684,6 @@ all:
     sha256sum: "a8486dae536d200d6bb81f56a632725f6c274cc91b4cf68c2c78171fc38f4040"
     type: zim
   vikidia_es:
-    langid: "vikidia.es"
     description: "De Vikidia"
     name: Vikidia
     version: "2018-10-08"
@@ -770,7 +693,6 @@ all:
     sha256sum: "2b9f65fd16a7986c132154c81f01337f0e78daac83bfe9aedc39e2f63be6ad48"
     type: zim
   wiktionary_sw:
-    langid: "wiktionary.sw"
     description: "Ufafanuzi kutoka Wiktionary, kamusi iliyo huru"
     name: Wiktionary
     version: "2019-04-05"
@@ -780,7 +702,6 @@ all:
     sha256sum: "220e33c22f41b07512c2dbc5fed610fa53bc8a0b94fc31bb49dcd77f4eb2dcc2"
     type: zim
   wikiquote_es:
-    langid: "wikiquote.es"
     description: "De Wikiquote, la colección libre de citas y frases célebres."
     name: Wikiquote
     version: "2019-06-05"
@@ -790,7 +711,6 @@ all:
     sha256sum: "ba276c782e4ceec9f4af6e4bfb67a4ca2f1a6c7c80569f361a33c4d27fe8e590"
     type: zim
   wikisource_es:
-    langid: "wikisource.es"
     description: "De Wikisource, la biblioteca libre."
     name: Wikisource
     version: "2018-06-11"
@@ -800,7 +720,6 @@ all:
     sha256sum: "8e823c7fa488fa359a77100b3ded37bad304523dfd73a7d9868d94b7dc892c84"
     type: zim
   wikimooc:
-    langid: "wikimooc.fr"
     description: "Uploads from WikiMOOC videos"
     name: Uploads from WikiMOOC
     version: "2018-06-22"
@@ -810,7 +729,6 @@ all:
     sha256sum: "b6ae8b3523e36eb275eb7508ed5906318c9b223e02ffd59b15309562cb677fd8"
     type: zim
   tedmed_en_all:
-    langid: "tedmed.en"
     description: TEDMED is the independently owned and operated health and medicine edition of the world-famous TED conference.
     name: TEDMED
     version: "2018-06-01"
@@ -820,7 +738,6 @@ all:
     sha256sum: "b644490a040ffeb8e03fb8797bc22e8e33707f5db542cda03c67b9c577d6812c"
     type: zim
   crashcourse_en_all:
-    langid: "crashcourse.en"
     description: Educational videos about sciences, humanities…
     name: CrashCourse
     version: "2018-06-24"
@@ -830,7 +747,6 @@ all:
     sha256sum: "ade8a2aeffa71cb9921c297c1865a9fb0aee51ec8216e0e6ae816e8598c81ac0"
     type: zim
   phet_mul_all:
-    langid: "phet.en"
     name: PhET
     description: Physics, chemistry, biology, earth science and math simulations
     version: "2019-06-05"
@@ -840,7 +756,6 @@ all:
     sha256sum: "c612d5f8cde214c6aa72f8e1576e653b117b3bb0cb0a5e3f6db33b7d2c568f7b"
     type: zim
   vikidia_en:
-    langid: "vikidia.en"
     description: The encyclopedia for 8 to 13-year-old children
     name: Vikidia
     version: "2018-10-08"
@@ -866,7 +781,6 @@ all:
     language: "ckb"
     description: "لە ئینسایکڵۆپیدیای ئازادی ویکیپیدیاوە"
     sha256sum: "464d69984ea361efb694e088dc39e54e5ccc9adb8880ac0efa917f0814639468"
-    langid: "wikipedia.ckb"
     type: zim
   wikiquote.fa:
     version: "2018-04-17"
@@ -876,7 +790,6 @@ all:
     language: "fas"
     description: "از ویکی‌گفتاورد"
     sha256sum: "7b47116e6fddf22ea6cb487b9eaf7e0206f52344d2a10154c924ef4835b5078d"
-    langid: "wikiquote.fa"
     type: zim
   wikipedia.cbkzam:
     name: "Wikipedia"
