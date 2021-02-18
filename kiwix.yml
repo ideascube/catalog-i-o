@@ -699,7 +699,7 @@ all:
     size: 2172640041
     sha256sum: "3e2dc94c35081a17c615f1e0ddc3edc5f303d04764c625ef9c5597edfc140ff3"
     type: zim
-  bouquineux.fr:
+  bouquineux_fr_all:
     langid: "bouquineux.fr"
     description: "2500 livres numériques gratuits et libres de droits"
     name: Bouquineux
