@@ -100,6 +100,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agribusiness-et-entreprenariat-en-afrique-reportages-fr.zip
     version: '2020-11-02'
+  agribusiness-et-entreprenariat-en-afrique-reportages-fra:
+    description: Reportages sur les innovations et success stories d'entrepreneurs
+      en Afrique dans le domaine agricole, alimentaire et artisanal.
+    language: fra
+    name: AgriBusiness et Entreprenariat en Afrique (Reportages)
+    sha256sum: 4bd863bf5fe754d6e6434184157762dd837c096b497f1a20f8f8a7e2dad09ffe
+    size: 3167357459
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/agribusiness-et-entreprenariat-en-afrique-reportages-fra.zip
+    version: '2021-03-09'
   agriculture-cultiver-les-cereales-ble-mais-riz-sorgho-fr:
     description: "S\xE9ries de vid\xE9os sur la culture des c\xE9r\xE9ales : gestion\
       \ des ravageurs, am\xE9liorer le rendement et les m\xE9thodes de cultures, la\
@@ -111,6 +121,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-cultiver-les-cereales-ble-mais-riz-sorgho-fr.zip
     version: '2020-09-01'
+  agriculture-cultiver-les-cereales-ble-mais-riz-sorgho-fra:
+    description: "S\xE9ries de vid\xE9os sur la culture des c\xE9r\xE9ales : gestion\
+      \ des ravageurs, am\xE9liorer le rendement et les m\xE9thodes de cultures, la\
+      \ fertilit\xE9 des sols..."
+    language: fra
+    name: "Agriculture - Cultiver les c\xE9r\xE9ales (Bl\xE9, Ma\xEFs, Riz, Sorgho)"
+    sha256sum: 873b1744ec47ff9af01e624adc39ebaac6c34048d4f657d0fab7ed804b0ef93b
+    size: 1981273629
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/agriculture-cultiver-les-cereales-ble-mais-riz-sorgho-fra.zip
+    version: '2021-03-09'
   agriculture-cultiver-les-fruits-et-les-graines-cafe-sesame-fr:
     description: "S\xE9rie de vid\xE9os sur la culture des fruits, des graines (caf\xE9\
       , s\xE9same). Gestion des maladies, ravageurs, rendement et plantations jusqu'\xE0\
@@ -122,6 +143,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-cultiver-les-fruits-et-les-graines-cafe-sesame-fr.zip
     version: '2020-09-01'
+  agriculture-cultiver-les-fruits-et-les-graines-cafe-sesame-fra:
+    description: "S\xE9rie de vid\xE9os sur la culture des fruits, des graines (caf\xE9\
+      , s\xE9same). Gestion des maladies, ravageurs, rendement et plantations jusqu'\xE0\
+      \ la transformation agro-alimentaire."
+    language: fra
+    name: "Agriculture - Cultiver les fruits et les graines (caf\xE9, s\xE9same)"
+    sha256sum: fa729a690fd32377e180b4a6c3f775cf5481466d6a2c8f15d2de32f4fc1ee547
+    size: 1294812142
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/agriculture-cultiver-les-fruits-et-les-graines-cafe-sesame-fra.zip
+    version: '2021-03-09'
   agriculture-cultiver-les-legumes-et-legumineuses-fr:
     description: "S\xE9rie de vid\xE9os sur la culture des l\xE9gumes et l\xE9gumineuses\
       \ (Tomate, Oignon, L\xE9gume feuille, Soja, Haricot, Piment, Ni\xE9b\xE9\u2026\
@@ -134,6 +166,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-cultiver-les-legumes-et-legumineuses-fr.zip
     version: '2020-09-01'
+  agriculture-cultiver-les-legumes-et-legumineuses-fra:
+    description: "S\xE9rie de vid\xE9os sur la culture des l\xE9gumes et l\xE9gumineuses\
+      \ (Tomate, Oignon, L\xE9gume feuille, Soja, Haricot, Piment, Ni\xE9b\xE9\u2026\
+      ). Des m\xE9thodes de plantation, de protection contre les maladies et ravageurs,\
+      \ pour augmenter le rendement et am\xE9liorer le stockage jusqu'\xE0 la transformation."
+    language: fra
+    name: "Agriculture - Cultiver les l\xE9gumes et l\xE9gumineuses"
+    sha256sum: b806005dd90044de259f144ea908c4b0e674740cd6c1c394ef70322a1ea7a0c0
+    size: 2049404531
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/agriculture-cultiver-les-legumes-et-legumineuses-fra.zip
+    version: '2021-03-09'
   agriculture-cultiver-les-racines-et-les-tubercules-fr:
     description: "S\xE9rie de vid\xE9os sur la bonne culture des racines et des tubercules\
       \ (manioc, pommes de terre), la gestion des ravageurs et la gestion des terres."
@@ -144,6 +188,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-cultiver-les-racines-et-les-tubercules-fr.zip
     version: '2020-09-01'
+  agriculture-cultiver-les-racines-et-les-tubercules-fra:
+    description: "S\xE9rie de vid\xE9os sur la bonne culture des racines et des tubercules\
+      \ (manioc, pommes de terre), la gestion des ravageurs et la gestion des terres."
+    language: fra
+    name: Agriculture - Cultiver les racines et les tubercules
+    sha256sum: 5db5fc83438e0fa0f97f016f472525e902a56093c08789eea2adf46c45b7b250
+    size: 1785221327
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/agriculture-cultiver-les-racines-et-les-tubercules-fra.zip
+    version: '2021-03-09'
   agriculture-ecology-documentary-in-burmese-mm:
     description: Documentaries about agricultural technics in Myanmar and about ecology
       and how to take care of the environement, mostly in Burmese language
@@ -184,6 +238,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-engins-agricoles-fr.zip
     version: '2020-09-01'
+  agriculture-engins-agricoles-fra:
+    description: "Vid\xE9os pr\xE9sentant plusieurs types d'engins agricoles et leur\
+      \ utilisation pour l'agriculture."
+    language: fra
+    name: Agriculture - Engins agricoles
+    sha256sum: 96bbbc48ea41d9acf4ce73d45cd90e140f87938b421a4fca1758141ce347576c
+    size: 156355663
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/agriculture-engins-agricoles-fra.zip
+    version: '2021-03-09'
   agriculture-gardening-en:
     description: Discover your green fingers and create a living environment that
       lets you live in harmony with nature.
@@ -216,6 +280,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-gestion-des-ravageurs-et-maladies-des-cultures-fr.zip
     version: '2020-09-01'
+  agriculture-gestion-des-ravageurs-et-maladies-des-cultures-fra:
+    description: "S\xE9rie de vid\xE9os indiquant comment g\xE9rer, lutter et se prot\xE9\
+      ger des ravageurs et destructeurs de cultures ainsi que diverses maladies des\
+      \ cultures."
+    language: fra
+    name: Agriculture - Gestion des ravageurs et maladies des cultures
+    sha256sum: d0c492d129fa9b54aefb5948552e5c35afe0aec3c850a2898e010e4e4fea5a5c
+    size: 1692373660
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/agriculture-gestion-des-ravageurs-et-maladies-des-cultures-fra.zip
+    version: '2021-03-09'
   agriculture-gestion-durable-des-terres-fr:
     description: "S\xE9rie de vid\xE9os sur la gestion durable des terres agricoles\
       \ (fertilit\xE9, irrigation, rendement et production)."
@@ -226,6 +301,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-gestion-durable-des-terres-fr.zip
     version: '2020-09-01'
+  agriculture-gestion-durable-des-terres-fra:
+    description: "S\xE9rie de vid\xE9os sur la gestion durable des terres agricoles\
+      \ (fertilit\xE9, irrigation, rendement et production)."
+    language: fra
+    name: Agriculture - Gestion durable des terres
+    sha256sum: 98486b71c04bf430e5d03f602aad05b605308fdeb0f36eb1301ff34c6a42a54e
+    size: 1270396430
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/agriculture-gestion-durable-des-terres-fra.zip
+    version: '2021-03-09'
   agriculture-kilimo-la-culture-des-fruits-le-gumes-cereales-e-pices-noix-e-books-sw:
     description: "S\xE9rie de manuels en kiswahili (Tanzanie) sur les m\xE9thodes\
       \ de culture des fruits, des l\xE9gumes, des \xE9pices, des noix..."
@@ -1438,14 +1523,14 @@ all:
     version: '2021-02-08'
   classic-literature-in-english-contient-uniquement-des-epub-en:
     description: EBooks from the classic literature of England, France and ancient
-      Greece. All books are in English.
+      Greece. All books are in English
     language: en
     name: Classic literature in English
-    sha256sum: 40433c2a10eacefbcf3b8a952dce4e5ea40c23688c1dbeec38ef4c7e593d11ad
-    size: 84264212
+    sha256sum: 22e885d8054347c54f3578c476e9af1cca6af53a57a168b11a5b994b0993d2d3
+    size: 84263561
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/classic-literature-in-english-contient-uniquement-des-epub-en.zip
-    version: '2021-01-22'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/classic-literature-in-english-contient-uniquement-des-epub-en.zip
+    version: '2021-03-09'
   classic-literature-in-english-en:
     description: EBooks from the classic literature of England, France and ancient
       Greece. All books are in English.
@@ -5505,11 +5590,11 @@ all:
       \ et apprendre \xE0 se d\xE9fendre..."
     language: fr
     name: "Le harc\xE8lement (enfants/ados)"
-    sha256sum: c370fd6846bcd877aacedec00855c86cf7dca7ffe99b9f0e4362e0958753f966
-    size: 933272163
+    sha256sum: 6067e151a9e7758ebccfe41270e4e80de59b01ade45a3ad1effe88cc9c83e02a
+    size: 837478426
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/le-harcelement-enfants-ados-fr.zip
-    version: '2020-09-01'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/le-harcelement-enfants-ados-fr.zip
+    version: '2021-03-09'
   le-harcelement-ihohoterwa-gl-fr:
     description: "Des contenus autour des questions de harc\xE8lement pour l'identifier\
       \ et apprendre \xE0 se d\xE9fendre.../ Inyigisho ku bijanye nihohoterwa, kumenya\
@@ -7170,11 +7255,11 @@ all:
       \ sant\xE9 ?"
     language: fr
     name: Nutrition - Bien se nourrir
-    sha256sum: 29c9c0227b0218117e2a64cdb9a04f7c8eeed7fd81434502f3aeca5656f92132
-    size: 351075484
+    sha256sum: f7698f7125ba4f62e73544ea68a140b17249d1448d3689f7bea4f606f2ec106d
+    size: 742049553
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/nutrition-bien-se-nourrir-fr.zip
-    version: '2020-09-01'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/nutrition-bien-se-nourrir-fr.zip
+    version: '2021-03-09'
   nutrition-enfants-fr:
     description: "Bien manger, qu'est-ce que \xE7a veut dire ? Apprends \xE0 composer\
       \ des repas sains et nutritifs !"
