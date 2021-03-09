@@ -390,6 +390,54 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/all-about-a-work-environment-ar.zip
     version: '2020-07-03'
+  alphabetisation-la-methode-abc-fr:
+    description: "Fruit de plusieurs ann\xE9es d\u2019exp\xE9rience aupr\xE8s de migrants\
+      \ non francophones, la m\xE9thode ABC est destin\xE9e aux animateurs d\u2019\
+      ateliers linguistiques. Son objectif vise la ma\xEEtrise rapide et durable de\
+      \ l\u2019alphabet fran\xE7ais en 10 s\xE9ances de 2 h."
+    language: fr
+    name: "Alphab\xE9tisation - La m\xE9thode ABC"
+    sha256sum: 533dd7c978b36de5aa7c7bb51c9b9a4530dc0a407ea5b6cdc53c4cd90f8970a6
+    size: 29792326
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/alphabetisation-la-methode-abc-fr.zip
+    version: '2021-03-09'
+  alphabetisation-la-methode-def-fr:
+    description: "La m\xE9thode DEF est destin\xE9e aux animateurs d\u2019ateliers\
+      \ linguistiques sur des campements. Son objectif est tr\xE8s cibl\xE9. La m\xE9\
+      thode DEF vise \xE0 aider l\u2019apprenant \xE0 se pr\xE9senter succinctement\
+      \ en fran\xE7ais en 10 s\xE9ances de 2 h."
+    language: fr
+    name: "Alphabetisation - La m\xE9thode DEF"
+    sha256sum: de8390af4f53a9cc88f03a5369c147225f72aa8e10f782e511b71605cbb421b6
+    size: 4681769
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/alphabetisation-la-methode-def-fr.zip
+    version: '2021-03-09'
+  alphabetisation-planches-d-ecriture-associer-avec-886-fr:
+    description: "Dans ce paquet vous trouverez, pour chaque lettre de l'alphabet\
+      \ latin, une planche d'\xE9criture. Chaque planche permet de pratiquer l'\xE9\
+      criture des lettres minuscules et majuscules"
+    language: fr
+    name: "Alphab\xE9tisation - Planches d'\xE9criture"
+    sha256sum: 8e5380d49f093b4fc1e3e242d1f19953da40c717807da4d421ef3e42410c1581
+    size: 1280665
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/alphabetisation-planches-d-ecriture-associer-avec-886-fr.zip
+    version: '2021-03-09'
+  alphabetisation-ressources-pedagogique-associer-avec-883-fr:
+    description: "Ce paquet contient des ressources p\xE9dagogiques pour aider des\
+      \ animateurs d'ateliers d'alphab\xE9tisation. \r\nOn y trouve des imagiers,\
+      \ des jeux d'aide \xE0 l'apprentissage et \xE0 la pratique (type jeux de cartes\
+      \ ou de l'oie) et des supports pour des dict\xE9es simples ainsi que deux guides\
+      \ \xE0 destination des formateurs et animateurs"
+    language: fr
+    name: "Alphab\xE9tisation - Ressources p\xE9dagogiques"
+    sha256sum: 16dfefd9b03ab702965c66aee1dc2df3fed72cf9888d465ff7e8c6ba9e591d8c
+    size: 11259552
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/alphabetisation-ressources-pedagogique-associer-avec-883-fr.zip
+    version: '2021-03-09'
   anatomie-feminine-fr:
     description: "Des contenus autour de de l'anatomie f\xE9minine"
     language: fr
@@ -957,6 +1005,40 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arts-afrique-fr.zip
     version: '2020-02-21'
+  arts-plastique-creer-des-bandes-dessinees-fr:
+    description: "Conseils pour cr\xE9er ta propre bande dessin\xE9e"
+    language: fr
+    name: "Arts Plastique - Cr\xE9er des bandes dessin\xE9es"
+    sha256sum: 4fe839657ba60756fb09f154fbbd1491b6706d1b2a75490000834a37a82e61d5
+    size: 4933699
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/arts-plastique-creer-des-bandes-dessinees-fr.zip
+    version: '2021-03-09'
+  arts-plastique-origami-et-pop-up-fr:
+    description: "L'origami est l'art japonnais du pliage du papier.\r\nVoici des\
+      \ vid\xE9os pour apprendre \xE0 cr\xE9er des animaux ou des petits objets en\
+      \ papier de couleur dans la tradition japonaise.  Mais aussi des tutos pour\
+      \ cr\xE9er des cartes et des livres pop-up, la aussi en pliant et d\xE9coupant\
+      \ du papier color\xE9"
+    language: fr
+    name: Arts Plastique - Origami et Pop-up
+    sha256sum: 47d8a838b045342503af0d133296a758b1747925af4a9464e545a79d8b1ea369
+    size: 901370731
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/arts-plastique-origami-et-pop-up-fr.zip
+    version: '2021-03-09'
+  arts-plastiques-apprendre-a-dessiner-le-corps-humain-fr:
+    description: "D\xE9couvrez ici diff\xE9rent tuto pour apprendre \xE0 dessiner\
+      \ le corps humain. \xC9tape par \xE9tape, apprenez \xE0 repr\xE9senter le corps\
+      \ sous toutes ses coutures.\r\n\r\nD\xE9tendez-vous, exprimez-vous, cr\xE9ez\
+      \ ! Il y a un artiste en chacun de nous, \xE0 vous de le r\xE9v\xE9ler.."
+    language: fr
+    name: "Arts plastiques - Apprendre \xE0 dessiner le corps humain"
+    sha256sum: 326886eb4dffb8cdc0d6aeec3d609af58dd16c36ae266388a023ea79d98ffb31
+    size: 881539192
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/arts-plastiques-apprendre-a-dessiner-le-corps-humain-fr.zip
+    version: '2021-03-09'
   arts-plastiques-fr:
     description: "D\xE9tendez-vous, exprimez-vous, cr\xE9ez ! Il y a un artiste en\
       \ chacun de nous, \xE0 vous de le r\xE9v\xE9ler..."
@@ -1261,11 +1343,11 @@ all:
       s sur l'\xE9cologie sur le continent africain et ailleurs."
     language: fr
     name: "C'est pas du vent - Emission sur l'\xE9cologie (RFI)"
-    sha256sum: 161da50b42246c9b9c104f3871add698610b809364d92b8e7b581134bf9d0782
-    size: 1201328590
+    sha256sum: f5a8ae6038d8c4bf81e78d4866b0e144cb0fd00adf2ee67be998f56c33d9c1a5
+    size: 1201327393
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/c-est-pas-du-vent-emission-sur-l-ecologie-rfi-fr.zip
-    version: '2020-11-02'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/c-est-pas-du-vent-emission-sur-l-ecologie-rfi-fr.zip
+    version: '2021-03-09'
   canda-populer-popular-culture-kmr:
     description: "Afirandin, niv\xEEsandin \xFB rexnekirina li ser \xE7anda populer\
       \ / Creating, writing and criticising about popular culture"
@@ -1770,6 +1852,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comprendre-la-nature-qui-nous-entoure-fr.zip
     version: '2020-11-02'
+  comprendre-le-changement-climatique-fr:
+    description: "Le changement climatique expliqu\xE9 \xE0 tous, sous la forme de\
+      \ petite vid\xE9o qui r\xE9pondent \xE0 nos questions."
+    language: fr
+    name: Comprendre le changement climatique
+    sha256sum: 476644192198347d6ee3f592ad023100a2cfac70e1bedcc2ee092a1c8b3e4fdb
+    size: 143017892
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/comprendre-le-changement-climatique-fr.zip
+    version: '2021-03-09'
   comprendre-le-rechauffement-climatique-fr:
     description: "Ressources pour comprendre le r\xE9chauffement climatique et ses\
       \ enjeux."
@@ -1794,11 +1886,11 @@ all:
       \ maternelle."
     language: fr
     name: Comptines pour les tout-petits
-    sha256sum: 8562ee132c98f94502cbd202292a362f5fd84b3e496b8ae868410923f33908bf
-    size: 145458649
+    sha256sum: 9f6474f8ab5befdcd6d63e593c1670be78b62ba019888befd23fbd29a1481437
+    size: 176736146
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/comptines-fr.zip
-    version: '2020-02-26'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/comptines-fr.zip
+    version: '2021-03-09'
   computer-and-it-ar:
     description: "Learn about the different parts of the computer and more. // \u062A\
       \u0639\u0644\u0645 \u0639\u0646 \u0623\u062C\u0632\u0627\u0621 \u0627\u0644\u0643\
@@ -2248,11 +2340,11 @@ all:
     description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
     language: fr
     name: Je mange bien
-    sha256sum: 2843c190dc44152aa21b065edd1a49a70e0a0ea838c33d2730b42be8a052c7a9
-    size: 297250721
+    sha256sum: 3b92b181b46f1ffd8c683724ab1b44f72202be8acd0f43250b72c8be05de7290
+    size: 387043482
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/cuisine-et-nutrition-enfants-fr.zip
-    version: '2019-09-18'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/cuisine-et-nutrition-enfants-fr.zip
+    version: '2021-03-09'
   cuisine-recettes-congolaises-en-lingala-tutoriels-videos-ln:
     description: "Plus de 100 recettes de cuisine congolaise r\xE9alis\xE9es en vid\xE9\
       o par une cuisini\xE8re congolaise et en lingala !"
@@ -4933,6 +5025,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-a-la-biologie-et-a-la-chimie-fr.zip
     version: '2020-03-09'
+  introduction-au-do-it-yourself-fr:
+    description: "Le \"Do It Yourself\" est un mouvement qui pr\xF4ne la r\xE9paration\
+      \ et la  fabrication d'objets par soi-m\xEAme, sans s'appuyer sur l'aide d'experts.\
+      \ Ce package de contenus est une introduction au mouvement et \xE0 son esprit\
+      \ : des fablabs au prototypage rapide."
+    language: fr
+    name: Introduction au Do It Youself
+    sha256sum: 208bbe3dc48defe36f09ab0d13405b83934e0cef69a98bcae6a78b25d3303bb0
+    size: 364135163
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/introduction-au-do-it-yourself-fr.zip
+    version: '2021-03-09'
   introduction-au-do-it-youself-fr:
     description: "Le \"Do It Yourself\" est un mouvement qui pr\xF4ne la r\xE9paration\
       \ et la  fabrication d'objets par soi-m\xEAme, sans s'appuyer sur l'aide d'experts.\
@@ -5269,6 +5373,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/kit-de-l-animateur-libre-de-droit-fr.zip
     version: '2019-09-16'
+  kit-de-l-animateur-package-redecoupe-a-remplacer-par-kit-de-l-animateur-part-1-to-11-fr:
+    description: "Animatrices, animateurs de l'Ideas Box, vous trouverez ici des supports\
+      \ pour vous aider dans la mise en place d'atelier de m\xE9diation au sein de\
+      \ votre Ideas Box. N'h\xE9sitez pas \xE0 les utiliser pour trouver des id\xE9\
+      es et d\xE9velopper de nouvelles animations !!"
+    language: fr
+    name: Kit de l'animateur
+    sha256sum: ee87f322a30f00a7e192095d7825b6d30f26ee9d6a937b665d31ed46302c96d5
+    size: 300860723
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/kit-de-l-animateur-package-redecoupe-a-remplacer-par-kit-de-l-animateur-part-1-to-11-fr.zip
+    version: '2021-03-09'
   kitabu-watoto-children-s-books-sw:
     description: Kitabu Watoto (Children's books). Pictures books for childrens in
       Kiswahili, to read or to be read.
@@ -5400,6 +5516,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/l-inclusion-numerique-fr.zip
     version: '2019-10-15'
+  la-biologie-pour-les-enfants-fr:
+    description: "Pars \xE0 la d\xE9couverte du corps humain !"
+    language: fr
+    name: La biologie pour les enfants
+    sha256sum: 6f91f0b76a4b4e82125ad7023a4b70f3b1c41bee65b5b1de6a7d65a5122547df
+    size: 2988229143
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/la-biologie-pour-les-enfants-fr.zip
+    version: '2021-03-09'
   la-forge-blacksmithing-tutoriels-videos-en:
     description: "S\xE9ries de tutoriels vid\xE9os sur la pratique de la forge. A\
       \ destination de tous les futurs forgerons !"
@@ -5916,6 +6041,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-bases-de-l-informatique-gl-fr.zip
     version: '2019-12-19'
+  les-bases-du-sport-enfants-ados-fr:
+    description: "A quoi \xE7a sert le sport ? Combien il y a de sports diff\xE9rents\
+      \ ? Pourquoi le sport, \xE7a rime avec respect et amiti\xE9 ?"
+    language: fr
+    name: Les bases du sport (enfants/ados)
+    sha256sum: 4af04a5b75f18deaa35cdea48fe666407e3b6295c9b6f540c541ab549871828b
+    size: 1122055864
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/les-bases-du-sport-enfants-ados-fr.zip
+    version: '2021-03-09'
   les-chroniques-ecologiques-du-professeur-feuillage-fr:
     description: "Chroniques vid\xE9os humoristiques et d\xE9cal\xE9es sur l'\xE9\
       cologie et l'environnement pr\xE9sent\xE9 par le Professeur Feuillage et son\
