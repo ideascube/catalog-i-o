@@ -953,3 +953,12 @@ all:
     size: 964926351
     sha256sum: "d985173760a7c8a12a1891903f63e847a39ba0c7e474883c4fa433122de5ab21"
     type: zim
+  lesbelleshistoires:
+    name: "Les Belles Histoires"
+    description: "10 belles histoires à lire et/ou à écouter (Bayard)"
+    version: "2020-05-07"
+    language: "fra"
+    url: "http://download.kiwix.org/zim/other/lesbelleshistoires_fr_2020-05.zim"
+    size: 202929454
+    sha256sum: "322f7a49199e138107e04f3856f52177e3aabcd2906233065409f6f37e0590db"
+    type: zim
