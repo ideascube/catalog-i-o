@@ -971,3 +971,12 @@ all:
     size: 157097568
     sha256sum: "957b0c8fde195c67f04efe5d95c5ee13a3fb25cd22fcc40f70a33f62053f1ae0"
     type: zim
+  jaimelire:
+    name: "J'aime lire + Planète J'aime lire (Bayard)"
+    description: "12 histoires à lire et/ou écouter depuis les collections J'aime lire et Planète J'aime lire."
+    version: "2020-05-07"
+    language: "fra"
+    url: "http://download.kiwix.org/zim/other/jaimelire_fr_2020-05.zim"
+    size: 73914507
+    sha256sum: "4f9a451ab7a917cbd5de57eaa46b5b4c330134fffbfcd146f0b7f1f814acbe9b"
+    type: zim
