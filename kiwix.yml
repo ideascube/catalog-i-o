@@ -962,3 +962,12 @@ all:
     size: 202929454
     sha256sum: "322f7a49199e138107e04f3856f52177e3aabcd2906233065409f6f37e0590db"
     type: zim
+  lesptitsphilosophes:
+    name: "Les p'tits philos"
+    description: "Les aventures des « p’tits philos » qui accompagnent les enfants de maternelle dans leurs toutes premières interrogations existentielles et philosophiques. (Bayard)"
+    version: "2020-05-07"
+    language: "fra"
+    url: "http://download.kiwix.org/zim/other/lesptitsphilosophes_fr_2020-05.zim"
+    size: 157097568
+    sha256sum: "957b0c8fde195c67f04efe5d95c5ee13a3fb25cd22fcc40f70a33f62053f1ae0"
+    type: zim
