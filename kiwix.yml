@@ -647,7 +647,7 @@ all:
     size: 1599396021
     sha256sum: "869ad728aacd865fde66b115d23981f6659cf889124ea6180135acd4840accbe"
     type: zim
-  e-penser.fr:
+  e-penser_fr_all:
     description: "Vidéos E-penser"
     name: E-penser
     version: "2018-06-24"
