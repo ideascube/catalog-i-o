@@ -62,7 +62,7 @@ all:
     description: L'encyclopédie libre.
     sha256sum: "7ae184ff6cf31ccabd1c14056b4bebb6776e7a458681eed0a17be70bb3f63bd6"
     type: zim
-  wikipedia.rn:
+  wikipedia_rn_all:
     version: "2019-04-01"
     size: 4394703
     url: "http://download.kiwix.org/zim/wikipedia/wikipedia_rn_all_novid_2019-04.zim"
