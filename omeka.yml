@@ -7644,6 +7644,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/pisciculture-fr.zip
     version: '2020-09-14'
+  plans-strategiques-de-la-jeunesse-etablis-par-le-ministere-burundi-fr:
+    description: "Pr\xE9sentation des derniers plans strat\xE9giques pour la jeunesse\
+      \ \xE9tablis et diffus\xE9s par le minist\xE8re des affaires de la communaut\xE9\
+      \ est africaine, de la jeunesse, des sports et de la culture."
+    language: fr
+    name: "Plan strat\xE9gique de la jeunesse \xE9tablit par le minist\xE8re (Burundi)"
+    sha256sum: cc9d804f16ae6115e0cc98482acc88969d46a29658dd55af259b616172faa670
+    size: 6304538
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/plans-strategiques-de-la-jeunesse-etablis-par-le-ministere-burundi-fr.zip
+    version: '2021-03-22'
   plomberie-documentation-fr:
     description: "Documentation pou se former en plomberie. Des documents d\xE9crivant\
       \ les bases de la plomberie, penser et r\xE9aliser son installation ainsi que\
