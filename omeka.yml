@@ -5292,6 +5292,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/introduction-to-the-history-of-the-world-en.zip
     version: '2019-09-17'
+  iterambere-ry-umukenyezi-emancipation-de-la-femme-gl-rn:
+    description: "Des contenus remettant en question les pr\xE9jug\xE9s sur la place\
+      \ de la femme dans la soci\xE9t\xE9. Les femmes sont fortes et peuvent tout\
+      \ faire !"
+    language: rn
+    name: Iterambere ry'umukenyezi / Emancipation de la femme
+    sha256sum: 7ae6744aeb39fb194e35a1c64dab86a1369b3f84879abedcbbde6882711c50ab
+    size: 906065281
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/iterambere-ry-umukenyezi-emancipation-de-la-femme-gl-rn.zip
+    version: '2021-03-22'
   jardinage-et-agriculture-fr:
     description: "D\xE9couvrez ou approfondissez vos connaissances en m\xE9thodes\
       \ de culture, d'irrigation, de fertilisation... Pour vous lancer dans le jardinage\
