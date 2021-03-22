@@ -8473,6 +8473,20 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sensibiliser-aux-violences-base-es-sur-le-genre-afrique-fr.zip
     version: '2020-09-01'
+  series-de-documents-du-becepfgf-sur-la-pedagogie-de-l-integration-burundi-fr:
+    description: "Ce paquet est \xE0 destination des enseignants. Il contient un ensemble\
+      \ de diaporama  qui aborde le principe de la p\xE9dagogie de l'int\xE9gration\
+      \ : quels sont les grands concepts ? Quelle est l'influence de cette p\xE9dagogie\
+      \ dans les m\xE9thodes d'enseignement ? Comment l'appliquer dans le syst\xE8\
+      me d'enseignement au Burundi?"
+    language: fr
+    name: "S\xE9ries de documents du BECEPFGF sur la p\xE9dagogie de l'int\xE9gration\
+      \ (Burundi)"
+    sha256sum: a1925124f32a4214a0abafbe6c8d35fad764eefa11c8e0808d188fcd189ff48f
+    size: 9140480
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/series-de-documents-du-becepfgf-sur-la-pedagogie-de-l-integration-burundi-fr.zip
+    version: '2021-03-22'
   sewing-embrodery-en:
     description: "Learn to sew by hand and machine\r\nLearn many embrodery pattern"
     language: en
