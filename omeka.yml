@@ -923,6 +923,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprentissage-et-memoire-fr.zip
     version: '2020-11-02'
+  aprendizaje-a-traves-de-la-lectura-espanol-learning-by-reading-spanish-es:
+    description: "Libros o ensayos sobre un tema espec\xEDfico / Books or essays about\
+      \ a specific topic"
+    language: es
+    name: "Aprendizaje a trav\xE9s de la lectura (espa\xF1ol) / Learning by reading\
+      \ (Spanish)"
+    sha256sum: 20dd91043a3262ddfbdecff8e2c15a4755b777209096771aec594ec26853030b
+    size: 1279784710
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/aprendizaje-a-traves-de-la-lectura-espanol-learning-by-reading-spanish-es.zip
+    version: '2021-03-26'
   arabic-alphabet-ar:
     description: "Learn the Arabic Alphabet through easy and fun videos.//\u062A\u0639\
       \u0644\u0645 \u0627\u0644\u0627\u0628\u062C\u062F\u064A\u0629 \u0627\u0644\u0639\
@@ -2336,6 +2347,48 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/creer-des-bandes-dessinees-fr.zip
     version: '2020-07-03'
+  cuentos-para-ninos-aleman-bajo-menonita-stories-for-children-mennonite-low-german-pdt:
+    description: "Cuentos cortos para ni\xF1os (alem\xE1n bajo menonita) / Short stories\
+      \ for children (Mennonite Low German)"
+    language: pdt
+    name: "Cuentos para ni\xF1os (alem\xE1n bajo menonita) / Stories for children\
+      \ (Mennonite Low German)"
+    sha256sum: 4631f2fdfc52c6502892ed546cee5f4ff30ba24d9b9933433be14f9958ac5b6d
+    size: 76474224
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/cuentos-para-ninos-aleman-bajo-menonita-stories-for-children-mennonite-low-german-pdt.zip
+    version: '2021-03-26'
+  cuentos-para-ninos-espanol-stories-for-children-spanish-es:
+    description: "Cuentos cortos para ni\xF1os / Short stories for children"
+    language: es
+    name: "Cuentos para ni\xF1os (espa\xF1ol) / Stories for children (Spanish)"
+    sha256sum: e7878bc3d55d20dbf302e694b443cbb542263618c510c494b1aa80ca6503f9a5
+    size: 182917326
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/cuentos-para-ninos-espanol-stories-for-children-spanish-es.zip
+    version: '2021-03-26'
+  cuentos-para-ninos-raramuri-tarahumara-stories-for-children-raramuri-tarahumara-tar:
+    description: "Cuentos cortos para ni\xF1os (rar\xE1muri / tarahumara)/ Short stories\
+      \ for children (Rar\xE1muri / Rarahumara)"
+    language: tar
+    name: "Cuentos para ni\xF1os (rar\xE1muri / tarahumara) / Stories for children\
+      \ (Rar\xE1muri / Rarahumara)"
+    sha256sum: ea8a63b766818c4ed2431e6fd0ed6a48d018c8a887feb1abecc15740b0e17931
+    size: 177942236
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/cuentos-para-ninos-raramuri-tarahumara-stories-for-children-raramuri-tarahumara-tar.zip
+    version: '2021-03-26'
+  cuentos-para-ninos-tepehuan-stories-for-children-tepehuan-pia:
+    description: "Cuentos cortos para ni\xF1os (tepehu\xE1n)/ Short stories for children\
+      \ (Tepehu\xE1n)"
+    language: pia
+    name: "Cuentos para ni\xF1os (tepehu\xE1n) / Stories for children (Tepehu\xE1\
+      n)"
+    sha256sum: 3c7552176f19a3b8fdb91bf2701727dc73f896d1a1be4369130d4f11af1253b9
+    size: 4104172
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/cuentos-para-ninos-tepehuan-stories-for-children-tepehuan-pia.zip
+    version: '2021-03-26'
   cuisine-et-nutrition-enfants-fr:
     description: "Il n'y a pas d'\xE2ge pour faire attention \xE0 ce qu'on mange !"
     language: fr
@@ -6358,6 +6411,26 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/literacy-burmese-mm.zip
     version: '2019-11-14'
+  literatura-para-adolescentes-espanol-literature-for-teenagers-spanish-es:
+    description: "Ficci\xF3n y otros tipos de entretenimiento para adolescentes /\
+      \ Fiction and other entertainment for teenagers"
+    language: es
+    name: "Literatura para adolescentes (espa\xF1ol) / Literature for teenagers (Spanish)"
+    sha256sum: 58f0a0154f71378d97465394761c52d674a046947bec1e3e229698ae71dda802
+    size: 36279663
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/literatura-para-adolescentes-espanol-literature-for-teenagers-spanish-es.zip
+    version: '2021-03-26'
+  literatura-para-adultos-espanol-literature-for-adults-spanish-es:
+    description: "Ficci\xF3n y otros tipos de entretenimiento para adultos / Fiction\
+      \ and other entertainment for adults"
+    language: es
+    name: "Literatura para adultos (espa\xF1ol) / Literature for adults (Spanish)"
+    sha256sum: 9b14be31122d87c3d336dbc80ce5c6b80cbf4ae056996379a35e512ab2df1934
+    size: 46632415
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/literatura-para-adultos-espanol-literature-for-adults-spanish-es.zip
+    version: '2021-03-26'
   litterature-francophone-afrique-fr:
     description: "Rencontres avec des \xE9crivains et des artistes africains"
     language: fr
