@@ -1497,6 +1497,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ce-paquet-a-ete-redecoupe-car-trop-volumineux-voir-les-paquets-901-a-908-fr.zip
     version: '2020-08-19'
+  chababi-project-swb:
+    description: "Chababi Project est une s\xE9rie tourn\xE9e \xE0 Mayotte avec des\
+      \ acteurs amateurs. Elle d\xE9crit la vie quotidienne et les aventures de lyc\xE9\
+      ens d'une classe artistique (danse hip-hop et th\xE9\xE2tre) \xE0 Mayotte. Elle\
+      \ aborde les sujets de sant\xE9, soci\xE9t\xE9, les formes de violences et de\
+      \ discriminations..."
+    language: swb
+    name: Chababi Project
+    sha256sum: a0c91e64d30773e27db81f08234e1df77ba11c6ac433a63e1d2df472a7d1ab2d
+    size: 1031121446
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/chababi-project-swb.zip
+    version: '2021-04-21'
   chemistry-ar:
     description: "Learn more about Chemistry./ \u062A\u0639\u0644\u0645 \u0627\u0643\
       \u062B\u0631 \u0639\u0646 \u0627\u0644\u0643\u064A\u0645\u064A\u0627\u0621"
@@ -3465,14 +3478,14 @@ all:
   engagement-et-paix-les-grands-personnages-fr:
     description: "Portraits de grands personnages qui ont agit pour d\xE9fendre les\
       \ droits. Ils ont aid\xE9 \xE0 instaurer plus d'\xE9galit\xE9 dans leur pays\
-      \ et ont particip\xE9 \xE0 cr\xE9er un mode meilleur."
+      \ et ont particip\xE9 \xE0 cr\xE9er un monde meilleur."
     language: fr
-    name: 'Engagement et paix: les grands personnages'
-    sha256sum: e2b4d8373fcf85f6089164e2c2ec610c47708a176e9f73239d2f15c75c65cb05
-    size: 196720374
+    name: 'Engagement et paix : les grands personnages'
+    sha256sum: b6350b028e55763c0899fd694b0098efd6f74d7a337401d098eb4fe167fec473
+    size: 196719789
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/engagement-et-paix-les-grands-personnages-fr.zip
-    version: '2020-07-03'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/engagement-et-paix-les-grands-personnages-fr.zip
+    version: '2021-04-21'
   engagement-et-paix-les-grands-personnages-new-fr:
     description: "Portraits de grands personnages qui ont agit pour d\xE9fendre leurs\
       \ droits. Ils ont aid\xE9 \xE0 instaurer plus d'\xE9galit\xE9 dans leur pays\
@@ -3811,6 +3824,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/films-fr.zip
     version: '2019-09-17'
+  films-muets-fr:
+    description: "Une image vaut bien mille mots. Ces films prouvent la v\xE9rit\xE9\
+      \ de ce proverbe. De Metropolis aux films embl\xE9matiques de Charlie Chaplin,\
+      \ red\xE9couvrez le pouvoir d'agir sans paroles."
+    language: fr
+    name: Films muets
+    sha256sum: 01cfd6b1f08b044fc2dc8e71d128cdd0810b30eee7ad908a7525cf2180a57455
+    size: 8629245690
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/films-muets-fr.zip
+    version: '2021-04-21'
   financial-management-and-planning-ar:
     description: "\u062A\u0648\u0636\u062D \u0627\u0644\u062D\u0632\u0645\u0629 \u0627\
       \u0644\u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0627\u0644\u064A\u0629\
@@ -6169,6 +6193,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-effets-et-les-dangers-de-la-consommation-d-alcool-et-de-drogues-fr.zip
     version: '2020-09-01'
+  les-emotions-expliquees-aux-enfants-et-ados-associer-avec-938-fr:
+    description: "Contenus relatifs aux \xE9motions, comment celles-ci naissent en\
+      \ nous d'un point de vue scientifique mais \xE9galement l'impact que cela \xE0\
+      \ sur nos vies."
+    language: fr
+    name: "Les \xE9motions expliqu\xE9es aux enfants et ados"
+    sha256sum: 88a125b18fce8ec0adff1647da6cc93e27d3355c1e045f1389f348b1e6a4be27
+    size: 302555948
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/les-emotions-expliquees-aux-enfants-et-ados-associer-avec-938-fr.zip
+    version: '2021-04-21'
   les-enfants-apprennent-le-francais-fr:
     description: "Quelques bases pour progresser en fran\xE7ais."
     language: fr
@@ -7783,6 +7818,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/poesie-et-slam-en-shimaore-411.zip
     version: '2019-12-16'
+  poesie-et-slam-en-shimaore-swb:
+    description: "Des po\xE8mes en maorais pr\xE9sent\xE9 par l\u2019association Shim\xE9"
+    language: swb
+    name: "Po\xE9sie et slam en shimaor\xE9"
+    sha256sum: 2dc03f1171c9595bfdbb69f95398a6889ef669763f91a5f1883c3c34f0d7cc3b
+    size: 160403361
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/poesie-et-slam-en-shimaore-swb.zip
+    version: '2021-04-21'
   poetry-ar:
     description: "Poetry collection.//\u0623\u0639\u0645\u0627\u0644 \u0634\u0639\u0631\
       \u064A\u0629"
@@ -8159,6 +8203,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/puberte-fr.zip
     version: '2019-12-16'
+  puberte-sexualite-fr:
+    description: "Contenus relatif \xE0 la pubert\xE9, sur les transformations du\
+      \ corps, les premiers rapports sexuels, la contraception..."
+    language: fr
+    name: "Pubert\xE9  & Sexualit\xE9"
+    sha256sum: 9a21d579a27250433a9c6115e57596da3c5559fe1dfc6be8a58c84549475f1aa
+    size: 256587737
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/puberte-sexualite-fr.zip
+    version: '2021-04-21'
   puberty-en:
     description: Feel free and comfortable discussing puberty
     language: en
@@ -8279,6 +8333,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/refugees-and-migrants-en-en.zip
     version: '2020-02-11'
+  relations-amoureuses-expliquees-aux-ados-fr:
+    description: "Vid\xE9os pour illustrer et discuter des relations amoureuses"
+    language: fr
+    name: "Relations affectives \xE0 l'adolescence"
+    sha256sum: b20e4be33ed37fee1a678c3413cecd37b9d8fc596911e8c8de216dded057e81a
+    size: 194143050
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/relations-amoureuses-expliquees-aux-ados-fr.zip
+    version: '2021-04-21'
   rencontre-avec-des-professionnels-de-saint-martin-fr:
     description: "Ces vid\xE9os, extraites de reportages de iotv, permettent de d\xE9\
       couvrir le m\xE9tier de diff\xE9rents professionnels qui exercent sur l'\xEE\
@@ -8536,6 +8599,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sensibilisation-a-la-gestion-des-epidemies-fr.zip
     version: '2020-08-19'
+  sensibilisation-perinatalite-et-parentalite-a-mayotte-swb:
+    description: "ASKIP : 10 vid\xE9os propos\xE9es par le R\xE9seau P\xE9rinatal\
+      \ de Mayotte (REPEMA) pour vous familiariser, prendre confiance et vous informer\
+      \ sur la sant\xE9 sexuelle et reproductive.\r\nWassi : un court m\xE9trage pour\
+      \ aborder les questions de parentalit\xE9, les droits et devoirs des parents\
+      \ mais aussi ceux des enfants."
+    language: swb
+    name: "Sensibilisation p\xE9rinatalit\xE9 et parentalit\xE9 \xE0  Mayotte"
+    sha256sum: 50c681520d60f391d12d0cdfffde325f88301198c7c25402c77e019d7b19db54
+    size: 306645697
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/sensibilisation-perinatalite-et-parentalite-a-mayotte-swb.zip
+    version: '2021-04-21'
   sensibiliser-aux-violences-base-es-sur-le-genre-afrique-fr:
     description: "Identifier les violences bas\xE9es sur le genre pour les pr\xE9\
       venir et changer de comportement."
@@ -8705,6 +8781,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/space-science-ar.zip
     version: '2019-11-21'
+  specialites-culinaires-mayotte-swb:
+    description: "Mayotte, victime de la mondialisation et de l\u2019afflux de produit\
+      \ sucr\xE9s/gras/sal\xE9s, mena\xE7ant simultan\xE9ment la sant\xE9 de la population\
+      \ (diab\xE8te, HTA, maladies CV) et la culture culinaire locale, veut pr\xE9\
+      server sa culture et son patrimoine."
+    language: swb
+    name: "Sp\xE9cialit\xE9s culinaires Mayotte"
+    sha256sum: 78cf0c11b6d38f80df053496d2db2d4e376bf87b069ae2088627733bfedb18dd
+    size: 1890918962
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/specialites-culinaires-mayotte-swb.zip
+    version: '2021-04-21'
   sport-football-en:
     description: Video of famous football game as well as the history of football
       and a presentation of the football rules
