@@ -105,11 +105,11 @@ all:
       en Afrique dans le domaine agricole, alimentaire et artisanal.
     language: fra
     name: AgriBusiness et Entreprenariat en Afrique (Reportages)
-    sha256sum: 4bd863bf5fe754d6e6434184157762dd837c096b497f1a20f8f8a7e2dad09ffe
-    size: 3167357459
+    sha256sum: 69b70a0ca5e8573124b2ca7d065934a877f5fd090f60fc8dd290aeb5c992b7eb
+    size: 3331068763
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/agribusiness-et-entreprenariat-en-afrique-reportages-fra.zip
-    version: '2021-03-09'
+    version: '2021-06-04'
   agriculture-cultiver-les-cereales-ble-mais-riz-sorgho-fr:
     description: "S\xE9ries de vid\xE9os sur la culture des c\xE9r\xE9ales : gestion\
       \ des ravageurs, am\xE9liorer le rendement et les m\xE9thodes de cultures, la\
@@ -173,11 +173,11 @@ all:
       \ pour augmenter le rendement et am\xE9liorer le stockage jusqu'\xE0 la transformation."
     language: fra
     name: "Agriculture - Cultiver les l\xE9gumes et l\xE9gumineuses"
-    sha256sum: b806005dd90044de259f144ea908c4b0e674740cd6c1c394ef70322a1ea7a0c0
-    size: 2049404531
+    sha256sum: f9f86b5f6841b675050bdbf8c9b8c54eac932b8935b701361006e2e62eb9d755
+    size: 2128437355
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/agriculture-cultiver-les-legumes-et-legumineuses-fra.zip
-    version: '2021-03-09'
+    version: '2021-06-04'
   agriculture-cultiver-les-racines-et-les-tubercules-fr:
     description: "S\xE9rie de vid\xE9os sur la bonne culture des racines et des tubercules\
       \ (manioc, pommes de terre), la gestion des ravageurs et la gestion des terres."
@@ -322,6 +322,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-kilimo-la-culture-des-fruits-le-gumes-cereales-e-pices-noix-e-books-sw.zip
     version: '2020-09-01'
+  agriculture-methodes-urbaines-et-biologiques-de-culture-irrigation-fertilisation-fr:
+    description: "D\xE9couvrez ou approfondissez vos connaissances en m\xE9thodes\
+      \ de culture, d'irrigation, de fertilisation... Pour vous lancer dans le jardinage\
+      \ \xE0 petite ou moyenne \xE9chelle."
+    language: fr
+    name: "Agriculture - M\xE9thodes urbaines et biologiques de culture, irrigation,\
+      \ fertilisation..."
+    sha256sum: 814b77367c4f82c84ea4b755828aa3e0983988e773dfdf92ebed21bcf0d99bf2
+    size: 1593173143
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/agriculture-methodes-urbaines-et-biologiques-de-culture-irrigation-fertilisation-fr.zip
+    version: '2021-06-04'
   agriculture-ressources-pedagogiques-pour-l-enseignant-rdc-fr:
     description: "Guides, manuels, programmes, curriculum des fili\xE8res agricoles\
       \ \xE0 destination de l'enseignant en R\xE9publique D\xE9mocratique du Congo."
@@ -1350,15 +1362,15 @@ all:
     url: http://packages.ideascube.org/omeka/business-management-and-development-ar.zip
     version: '2020-07-03'
   c-est-pas-du-vent-emission-sur-l-ecologie-rfi-fr:
-    description: "\xC9mission RFI : \"C'est pas du vent\". Informations et actualit\xE9\
+    description: "\xC9mission RFI : \xAB C'est pas du vent \xBB. Informations et actualit\xE9\
       s sur l'\xE9cologie sur le continent africain et ailleurs."
     language: fr
     name: "C'est pas du vent - Emission sur l'\xE9cologie (RFI)"
-    sha256sum: f5a8ae6038d8c4bf81e78d4866b0e144cb0fd00adf2ee67be998f56c33d9c1a5
+    sha256sum: 0d82b57dc1fb508628dafaf8dbc0a0d90eb817d8f06f527c25c2746dde479c86
     size: 1201327393
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/c-est-pas-du-vent-emission-sur-l-ecologie-rfi-fr.zip
-    version: '2021-03-09'
+    version: '2021-06-04'
   canda-populer-popular-culture-kmr:
     description: "Afirandin, niv\xEEsandin \xFB rexnekirina li ser \xE7anda populer\
       \ / Creating, writing and criticising about popular culture"
@@ -1628,15 +1640,15 @@ all:
     url: http://packages.ideascube.org/omeka/citoyennete-et-politique-fr.zip
     version: '2021-02-08'
   classic-literature-in-english-contient-uniquement-des-epub-en:
-    description: EBooks from the classic literature of England, France and ancient
+    description: Ebooks from the classic literature of England, France and ancient
       Greece. All books are in English
     language: en
     name: Classic literature in English
-    sha256sum: 22e885d8054347c54f3578c476e9af1cca6af53a57a168b11a5b994b0993d2d3
+    sha256sum: e4329538fea3f0aa909c7a73080f9bbc09ef3510433f9ed3bee00d4e72d082eb
     size: 84263561
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/classic-literature-in-english-contient-uniquement-des-epub-en.zip
-    version: '2021-03-09'
+    version: '2021-06-04'
   classic-literature-in-english-en:
     description: EBooks from the classic literature of England, France and ancient
       Greece. All books are in English.
@@ -1910,11 +1922,11 @@ all:
       \ maternelle."
     language: fr
     name: Comptines pour les tout-petits
-    sha256sum: 9f6474f8ab5befdcd6d63e593c1670be78b62ba019888befd23fbd29a1481437
-    size: 176736146
+    sha256sum: b37db0ed57b2e16706fed7e7df85188ee76d24d556b51f2a376053ea2479fcb4
+    size: 261136264
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/comptines-fr.zip
-    version: '2021-03-09'
+    version: '2021-06-04'
   computer-and-it-ar:
     description: "Learn about the different parts of the computer and more. // \u062A\
       \u0639\u0644\u0645 \u0639\u0646 \u0623\u062C\u0632\u0627\u0621 \u0627\u0644\u0643\
@@ -3123,21 +3135,21 @@ all:
     description: Des livres et BD pour les plus jeunes.
     language: fr
     name: Raconte-moi une histoire !
-    sha256sum: 8a9f606026d63bee164ae8b7ea2eb460d5563175af6d962300871e1ac59e647d
-    size: 190556592
+    sha256sum: 653fd76fbd935da132cb473842525297755e646525ed9c0434f6bf36b555ffed
+    size: 246084490
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/ebook-enfants-libres-de-droit-fr.zip
-    version: '2019-09-11'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/ebook-enfants-libres-de-droit-fr.zip
+    version: '2021-06-04'
   ebooks-enfants-fr:
     description: "Tu cherches de quoi lire, des livres pas trop compliqu\xE9s ? C'est\
-      \ ici !"
+      \ ici"
     language: fr
     name: Raconte-moi des histoires !
-    sha256sum: 3ff95e170c32fbd88f77db377aa3f35fff8035d7bb9b91ee566f4778b638612a
-    size: 36993030
+    sha256sum: 0900d68e7a871fa20b5fdf01b5b8935f1a92bdc4443e486081d72ad899c5edec
+    size: 36994711
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/ebooks-enfants-fr.zip
-    version: '2019-12-10'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/ebooks-enfants-fr.zip
+    version: '2021-06-04'
   ebooks-ghana-en:
     description: '-'
     language: en
@@ -3702,14 +3714,14 @@ all:
     url: http://packages.ideascube.org/omeka/feuilleton-ninde-rtnb-rn.zip
     version: '2020-02-14'
   fiches-creativite-libre-de-droit-fr:
-    description: Pour animer
+    description: Pour animer.
     language: fr
     name: "Fiche cr\xE9ativit\xE9 - libres de droit"
-    sha256sum: e6d33eb80277c9223a845520b0527d9528e0f0cb30919966df0ff8931fa28f08
-    size: 9371702
+    sha256sum: 70b6d4c8f6c507eb1a97d6c15be4fce4b9d0eb5ac78caa744b8202dedbf5ed20
+    size: 9372916
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/fiches-creativite-libre-de-droit-fr.zip
-    version: '2019-09-16'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/fiches-creativite-libre-de-droit-fr.zip
+    version: '2021-06-04'
   fiches-d-activites-autour-de-la-sante-animation-gl-fr:
     description: "Des fiches toutes pr\xEAtes (avec les contenus) pour animer des\
       \ activit\xE9s autour de la sant\xE9 avec les jeunes. / Intonde mfashanyigisho\
@@ -7136,11 +7148,11 @@ all:
       nergies renouvelables et de susciter l'\xE9mergence de nouveaux projets."
     language: fr
     name: "MOOC - Pour comprendre l'\xE9nergie solaire"
-    sha256sum: e96cf31611f26533171837952804ad936a0389b59cb5b3c83cb3af5c4d3c4798
-    size: 466983437
+    sha256sum: 8817ae680555c94a01b0eb4ee7127e20028b54b55993d26da10fb2da24aa08c2
+    size: 390053307
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/mooc-pour-comprendre-l-energie-solaire-fr.zip
-    version: '2020-11-02'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/mooc-pour-comprendre-l-energie-solaire-fr.zip
+    version: '2021-06-04'
   mooc-pour-comprendre-la-biomass-associer-avec-942-a-949-fr:
     description: "La vocation de ce cours en ligne est de renforcer les connaissances\
       \ g\xE9n\xE9rales d'un large public sur la question des \xE9nergies renouvelables,\
@@ -7367,15 +7379,15 @@ all:
     url: http://packages.ideascube.org/omeka/musique-fr.zip
     version: '2019-09-16'
   musique-libre-de-droit-en:
-    description: "Musiques libres de droit! \r\nA \xE9couter encore et encore dans\
+    description: "Musiques libres de droits ! \r\nA \xE9couter encore et encore dans\
       \ toutes les langues."
     language: en
     name: Musique
-    sha256sum: 47c20fc6bbe4eb55e46c100cd871c3b575978e892713a1aef7cc6a2e77961107
-    size: 1115889308
+    sha256sum: 3ef00f50dea842da63f90b8fc8d87a56d73b256528e55c79039b1fc08c66238b
+    size: 1115913198
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/musique-libre-de-droit-en.zip
-    version: '2019-09-17'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/musique-libre-de-droit-en.zip
+    version: '2021-06-04'
   musiques-du-monde-rfi-fr:
     description: "\xC9mission RFI : \"Musiques du monde\""
     language: fr
