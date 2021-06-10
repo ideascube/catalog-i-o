@@ -110,6 +110,16 @@ all:
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/agribusiness-et-entreprenariat-en-afrique-reportages-fra.zip
     version: '2021-06-04'
+  agribusiness-et-entrepreneuriat-en-afrique-reportages-fra:
+    description: Reportages sur les innovations et success stories d'entrepreneurs
+      en Afrique dans le domaine agricole, alimentaire et artisanal.
+    language: fra
+    name: AgriBusiness et Entreprenariat en Afrique (Reportages)
+    sha256sum: 36d1f7d09112a51b033aa11354b152eef04f676d021e03009ce353277e737493
+    size: 3331068763
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/agribusiness-et-entrepreneuriat-en-afrique-reportages-fra.zip
+    version: '2021-06-10'
   agriculture-cultiver-les-cereales-ble-mais-riz-sorgho-fr:
     description: "S\xE9ries de vid\xE9os sur la culture des c\xE9r\xE9ales : gestion\
       \ des ravageurs, am\xE9liorer le rendement et les m\xE9thodes de cultures, la\
@@ -1072,6 +1082,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arts-plastiques-fr.zip
     version: '2020-11-02'
+  arts-plastiques-origami-et-pop-up-fr:
+    description: "L'origami est l'art japonnais du pliage du papier.\r\nVoici des\
+      \ vid\xE9os pour apprendre \xE0 cr\xE9er des animaux ou des petits objets en\
+      \ papier de couleur dans la tradition japonaise.  Mais aussi des tutos pour\
+      \ cr\xE9er des cartes et des livres pop-up, la aussi en pliant et d\xE9coupant\
+      \ du papier color\xE9"
+    language: fr
+    name: Arts Plastiques - Origami et Pop-up
+    sha256sum: 2a96659c39e13d7660f2ac88fa6b5c1594033a343420db84f0ddd2685caab28f
+    size: 901370731
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/arts-plastiques-origami-et-pop-up-fr.zip
+    version: '2021-06-10'
   astronomy-en:
     description: What are comets made of? How was the solar system created? How does
       gravity influence tides? How can we recognise stars in the sky? If you are curious
@@ -1921,12 +1944,12 @@ all:
     description: "S\xE9lection de comptines pour les tout-petits et les enfants en\
       \ maternelle."
     language: fr
-    name: Comptines pour les tout-petits
-    sha256sum: b37db0ed57b2e16706fed7e7df85188ee76d24d556b51f2a376053ea2479fcb4
+    name: Comptines pour les tout-petits.
+    sha256sum: 07afeb971a2d6673a419185d41130a279bcc2525ebcbeaa1170c0b05608671f0
     size: 261136264
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/comptines-fr.zip
-    version: '2021-06-04'
+    version: '2021-06-10'
   computer-and-it-ar:
     description: "Learn about the different parts of the computer and more. // \u062A\
       \u0639\u0644\u0645 \u0639\u0646 \u0623\u062C\u0632\u0627\u0621 \u0627\u0644\u0643\
@@ -2554,6 +2577,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/culture-numerique-fr.zip
     version: '2020-01-15'
+  cultures-et-partrimoine-de-madagascar-fr:
+    description: Documents sur les cultures, les arts, le patrimoine de Madagascar.
+    language: fr
+    name: Cultures et patrimoine de Madagascar
+    sha256sum: 1962b03f721f216e339adeec74bf160bc28a785b55c2c7c19b5c873b87914171
+    size: 7091830910
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/cultures-et-partrimoine-de-madagascar-fr.zip
+    version: '2021-06-10'
   cultures-fruits-de-mer-documentaries-en:
     description: Various videos about the island of Saint Martin
     language: en
