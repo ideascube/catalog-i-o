@@ -3164,14 +3164,14 @@ all:
     url: http://packages.ideascube.org/omeka/early-marriage-ar.zip
     version: '2020-07-03'
   ebook-enfants-libres-de-droit-fr:
-    description: Des livres et BD pour les plus jeunes.
+    description: Des livres et BD pour les plus jeunes !
     language: fr
     name: Raconte-moi une histoire !
-    sha256sum: 653fd76fbd935da132cb473842525297755e646525ed9c0434f6bf36b555ffed
+    sha256sum: 13392992dc6aee019322a0e37f1d57dbf100066b671aa238418ba87731f8f758
     size: 246084490
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/ebook-enfants-libres-de-droit-fr.zip
-    version: '2021-06-04'
+    version: '2021-06-11'
   ebooks-enfants-fr:
     description: "Tu cherches de quoi lire, des livres pas trop compliqu\xE9s ? C'est\
       \ ici"
