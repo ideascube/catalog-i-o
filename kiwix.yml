@@ -630,13 +630,13 @@ all:
     sha256sum: "3e2dc94c35081a17c615f1e0ddc3edc5f303d04764c625ef9c5597edfc140ff3"
     type: zim
   bouquineux_fr_all:
-    description: "2500 livres numériques gratuits et libres de droits"
+    description: "Livres numériques gratuits et libres de droits"
     name: Bouquineux
-    version: "2013-07-27"
+    version: "2021-03-05"
     language: "fra"
-    url: "http://download.kiwix.org/zim/other/bouquineux_fr_all_2013-07.zim"
-    size: 5510795562
-    sha256sum: "7044cb0344711366d3ffe0a4ab32e6398c6c4e292d24a63df23c2f87b684274c"
+    url: "http://download.kiwix.org/zim/zimit/bouquineux.com_fr_all_2021-03.zim"
+    size: 5966912625
+    sha256sum: "716e3ab8a49474f8052710454269f2c7e6f1666e1cd4f64b32dcc76dad4aa706"
     type: zim
   deus-ex-silicium_fr_all:
     description: "Deus Ex Silicium videos"
