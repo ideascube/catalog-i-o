@@ -1168,6 +1168,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/audiobooks-from-radio-book-rwanda-rw-rw.zip
     version: '2019-10-10'
+  autonomisation-de-la-femme-en-afrique-fr:
+    description: "Des vid\xE9os, des t\xE9moignages, des reportages sur l'\xE9volution\
+      \ de l'autonomisation de la femme en Afrique dans les domaines leaders (\xE9\
+      conomie, travail, droits, soci\xE9t\xE9, politique...)"
+    language: fr
+    name: Autonomisation de la femme en Afrique
+    sha256sum: b37d3dd2e1056616aac7884721dd783ebe8096c9a7b8a217efd60a9a130c5156
+    size: 1683803859
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/autonomisation-de-la-femme-en-afrique-fr.zip
+    version: '2022-01-18'
   ballet-picks-ar:
     description: A collection of famous ballet shows.
     language: ar
@@ -2811,6 +2822,28 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/determine-your-skills-your-goals-at-work-ar.zip
     version: '2020-07-03'
+  dianke-feuilleton-audio-rfi-sur-l-engagement-politique-d-une-jeune-femme-senegalaise-fr:
+    description: "\xAB Diank\xE9 \xBB raconte l\u2019histoire d\u2019une jeune femme\
+      \ africaine ind\xE9pendante et de caract\xE8re qui va se lancer en politique\
+      \ pour combattre la corruption. Diank\xE9 est licenci\xE9e apr\xE8s avoir refus\xE9\
+      \ de c\xE9der \xE0 la corruption. Sous le coup de la col\xE8re, elle enregistre\
+      \ sur les r\xE9seaux sociaux une vid\xE9o qui devient vite virale et change\
+      \ le cours de sa vie. A la suite du d\xE9c\xE8s de son pe\u0300re, elle d\xE9\
+      cide de s\u2019engager en politique et se pre\u0301sente aux \xE9lections de\
+      \ sa ville natale face a\u0300 son propre fre\u0300re. Soutenue par une jeunesse\
+      \ qui r\xEAve de changement, Diank\xE9 va se dresser contre tout un syst\xE8\
+      me politique. Entre corruption, secrets de famille, amour et campagne \xE9lectorale,\
+      \ Diank\xE9 devient une femme de conviction et de combat, lanceuse d'alerte\
+      \ d'un nouveau genre, entra\xEEnant dans son sillage toutes les g\xE9n\xE9rations.\
+      \ Une fiction originale produite par l'ONG RAES \xE0 Dakar."
+    language: fr
+    name: "\"Diank\xE9\", feuilleton audio RFI sur l'engagement politique d'une jeune\
+      \ femme s\xE9n\xE9galaise"
+    sha256sum: 8492e484c4dffeed4f8a26b53ff16c5469bebffc4d02e5c76788d10eba95a4d5
+    size: 300567798
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/dianke-feuilleton-audio-rfi-sur-l-engagement-politique-d-une-jeune-femme-senegalaise-fr.zip
+    version: '2022-01-18'
   dicovering-multi-language-en:
     description: '-'
     language: en
@@ -3480,6 +3513,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/elevage-ufugaji-manuels-d-e-levage-des-animaux-sw.zip
     version: '2020-09-01'
+  emancipation-de-la-femme-iterambere-ry-umukenyezi-gl-rn:
+    description: "Des contenus remettant en question les pr\xE9jug\xE9s sur la place\
+      \ de la femme dans la soci\xE9t\xE9. Les femmes sont fortes et peuvent tout\
+      \ faire !"
+    language: rn
+    name: Emancipation de la femme / Iterambere ry'umukenyezi
+    sha256sum: 5863aeadcfa2f54968c78c3579e488edf1738928788372192d6b2057bdec7d68
+    size: 946105313
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/emancipation-de-la-femme-iterambere-ry-umukenyezi-gl-rn.zip
+    version: '2022-01-18'
   emission-agashi-igikino-agashi-rn:
     description: Saison 3 de L'emisssion radio Agashi.
     language: rn
@@ -5589,6 +5633,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/l-art-en-afrique-gl-fr.zip
     version: '2020-01-07'
+  l-entreprenariat-au-burundi-gutunganya-imigambi-mu-burundi-fr:
+    description: "Ni gute batunganya imigambi mu Burundi, Ni gute bashika kwihangiro,\
+      \ ni bande bamaze gushika kwihangiro ? /\r\n\r\nComment entreprendre au Burundi\
+      \ ? Comment r\xE9ussir ? Qui a r\xE9ussi ?"
+    language: fr
+    name: L'entreprenariat au Burundi / Gutunganya imigambi Mu Burundi
+    sha256sum: b7a99ed948af33f9524dc3708d123288a462e294931347fde288fff7f120b381
+    size: 1285958004
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/l-entreprenariat-au-burundi-gutunganya-imigambi-mu-burundi-fr.zip
+    version: '2022-01-18'
   l-entreprenariat-au-burundi-gutunganya-imigambi-muburundi-fr:
     description: "Comment entreprendre au Burundi ? Comment r\xE9ussir ? Qui a r\xE9\
       ussi ? / Ni gute batunganya imigambi mu Burundi, Ni gute bashika kwihangiro,\
@@ -5933,6 +5988,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/leadership-entrepreneurship-business-management-ar.zip
     version: '2020-07-03'
+  leadership-feminin-au-burundi-uburongozi-bw-umukenyezi-mu-burundi-rn:
+    description: "Abakenyezi b'abagwizatunga, abakenyezi babona kure, abakanyezi b'abanyamwete,nimwirabire\
+      \ ikiranga abo bakenyezi bariko bubaka uburundi bw'ejo \r\n\r\nFemmes entrepreneuses,\
+      \ femmes passionn\xE9es, femmes engag\xE9es, d\xE9couvrez les portraits de ces\
+      \ femmes qui font le Burundi de demain."
+    language: rn
+    name: "Leadership f\xE9minin au Burundi / Uburongozi bw'umukenyezi mu Burundi"
+    sha256sum: 0d3f19f3f72ab6848f7b68bdcdeff9c81346de1465ed18dc3001dfd66c6833d8
+    size: 1795782635
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/leadership-feminin-au-burundi-uburongozi-bw-umukenyezi-mu-burundi-rn.zip
+    version: '2022-01-18'
   learn-burmese-language-mm:
     description: "Videos and tutorial to learn Burmese language. \r\nLearn the Burmese\
       \ alphabet and all the letter, learn vocabulary through nice cartoon and song"
