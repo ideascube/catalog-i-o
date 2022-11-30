@@ -156,6 +156,8 @@ unreasonable in its outcome.
 
 Note: all these gotchas were written before Kiwix implemented some APIs and automated workflows. These API often provide workarounds.
 
+Note: middle 2022, a [Naming Convention](https://github.com/openzim/overview/wiki/Naming-Convention) was born! Everything bellow belongs to the past.
+
 Inconsistent file naming. Expect project_lang_type_date? Deal with that:
 
 ```text
