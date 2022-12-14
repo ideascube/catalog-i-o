@@ -377,6 +377,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/agriculture-transformation-agro-alimentaire-fr.zip
     version: '2020-09-01'
+  aides-guyane-fr:
+    description: Reportages sur les actions de l'association AIDES en Guyane.
+    language: fr
+    name: AIDES
+    sha256sum: ad18abff8ad43ef2f9b63688f47b8837b093753a09787c674cee3393733a2200
+    size: 848562411
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/aides-guyane-fr.zip
+    version: '2022-12-14'
   alcool-drogues-fr:
     description: "Identifier les effets de l'alcool, des drogues et pr\xE9venir les\
       \ risques."
@@ -397,6 +406,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/alcool-drogues-ingaruka-mbi-zokunwa-inzoga-nibiyayuramutwe-rn.zip
     version: '2020-08-04'
+  alcool-outils-de-prevention-guyane-fr:
+    description: "Vous trouverez ici des outils sur l'addiction li\xE9e \xE0 l'alcool,\
+      \ pour mener des activit\xE9s de pr\xE9vention aupr\xE8s des jeunes Guyanais."
+    language: fr
+    name: "Alcool - Outils de pr\xE9vention"
+    sha256sum: c14423a24af16856fe83dfdcfbcde27c11a4a320252b442b95846698b36c124e
+    size: 2634098607
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/alcool-outils-de-prevention-guyane-fr.zip
+    version: '2022-12-14'
   alez-pou-make-kreyol-fr:
     description: "Vid\xE9o courte sur les r\xE8gles d'\xE9criture et de phon\xE9tique\
       \ du cr\xE9ole fran\xE7ais"
@@ -1889,6 +1908,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/competences-de-vie-courante-gl-rn.zip
     version: '2019-12-20'
+  complements-d-informations-rdr-guyane-fr:
+    description: "Compl\xE9ments d'informations sur la r\xE9duction des risques et\
+      \ le trafic de drogues (ph\xE9nom\xE8ne des mules)"
+    language: fr
+    name: "RDR - Compl\xE9ments d'informations"
+    sha256sum: d079b4071942a1de90aa6a6a5e60637300dc1c84d61f0e3958b15bf8224df1e8
+    size: 130804892
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/complements-d-informations-rdr-guyane-fr.zip
+    version: '2022-12-14'
   comprendre-et-exprimer-ses-emotions-fr:
     description: "D\xE9tendez-vous. Respirez. Accueillez vos \xE9motions. Exprimez\
       \ vos besoins. Vous serez mieux avec vous m\xEAme et avec les autres !"
@@ -2012,6 +2041,26 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/conferences-autour-du-developpement-durable-et-de-l-ecologie-fr.zip
     version: '2020-09-01'
+  confidentialite-partage-d-informations-fr:
+    description: "Informations sur la confidentialit\xE9 et le partage d'informations\
+      \ li\xE9s \xE0 la sant\xE9"
+    language: fr
+    name: "Confidentialit\xE9, partage d'informations"
+    sha256sum: 066542d9705fbfad895d75ad51db9d66cc7056e99e67dee6062ca8afb1ba5b59
+    size: 656324
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/confidentialite-partage-d-informations-fr.zip
+    version: '2022-12-14'
+  connaissance-du-vih-de-l-hepatite-c-et-autres-ist-guyane-fr:
+    description: "Informations sur le VIH/SIDA et les autres Infections Sexuellement\
+      \ Transmissibles\r\nPour la Guyane (multilingue)"
+    language: fr
+    name: "Connaissance du VIH, de l'h\xE9patite C, et autres IST"
+    sha256sum: c1b30a4cc028dc717081cc07ba468e78189489e194d37fa0ac783e3b8fd699d9
+    size: 1111462129
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/connaissance-du-vih-de-l-hepatite-c-et-autres-ist-guyane-fr.zip
+    version: '2022-12-14'
   connaitre-et-aimer-son-corps-fr:
     description: "\xCAtre bien dans son corps, \xE7a participe \xE0 \xEAtre bien dans\
       \ sa t\xEAte. Et vous ? Comment voyez-vous votre corps ?"
@@ -2221,6 +2270,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/couture-wax-tutoriels-videos-fr.zip
     version: '2020-09-01'
+  couverture-medicale-guyane-fr:
+    description: "Informations sur la couverture m\xE9dicale (multilingue)"
+    language: fr
+    name: "Couverture m\xE9dicale"
+    sha256sum: 414a6226d50851e8d432cbeb16ef3c45446dbf964f779cc4cca0e72257e61f61
+    size: 409348083
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/couverture-medicale-guyane-fr.zip
+    version: '2022-12-14'
   covid-19-bangla-bn:
     description: "\u098F\u0987 \u09AC\u09BE\u0982\u09B2\u09BE \u09A8\u09A5\u09BF\u09A4\
       \u09C7 \u0995\u09CB\u09AD\u09BF\u09A1-\u09E7\u09EF \u09AD\u09BE\u0987\u09B0\u09BE\
@@ -2803,6 +2861,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/denis-mukwege-fr.zip
     version: '2020-04-06'
+  depistage-hiv-l-autotest-guyane-fr:
+    description: "Vous trouverez ici des vid\xE9os multilingues sur l'autotest HIV."
+    language: fr
+    name: "D\xE9pistage HIV : l'autotest (Guyane)"
+    sha256sum: 3b617d54206a7f8d9bd747610ccaad8cd053d1bf81c9583312830bf72c12dac5
+    size: 114523595
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/depistage-hiv-l-autotest-guyane-fr.zip
+    version: '2022-12-14'
   dessin-technique-enabel-fr:
     description: Documentation sur le dessin technique.
     language: fr
@@ -3100,6 +3167,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/discriminations-enfants-ados-fr.zip
     version: '2020-02-26'
+  discriminations-serologie-vih-guyane-fr:
+    description: "Informations sur les discriminations li\xE9es \xE0 la s\xE9ropositivit\xE9\
+      ."
+    language: fr
+    name: "S\xE9rologie VIH"
+    sha256sum: b62de02ae1f51f03874e7bfb4215fea69f6f10c9bde9ca49e8172d7b8ede8ba1
+    size: 266228172
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/discriminations-serologie-vih-guyane-fr.zip
+    version: '2022-12-14'
   diseases-en:
     description: 'What are the diseases ? Learn a little bit about them : heart attack,
       kidney stones, depression...'
@@ -3244,6 +3321,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/documents-reflexifs-sur-l-enseignement-et-l-education-en-rdc-fr.zip
     version: '2020-09-01'
+  domiciliation-guyane-fr:
+    description: Informations sur la domiciliation (multilingue)
+    language: fr
+    name: Domiciliation
+    sha256sum: 940cb6dc011af86ce26a457453c128c2860960e910bc87f77122791fd2444948
+    size: 144951071
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/domiciliation-guyane-fr.zip
+    version: '2022-12-14'
   dpc-awareness-and-protection-ar:
     description: "A variety of protection and awareness videos on different topics.\r\
       \n\r\nTeenagers and Adults"
@@ -3284,6 +3370,27 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/drawing-colouring-en.zip
     version: '2019-09-19'
+  drogues-cannabis-quelques-informations-fr:
+    description: "Ressources sur le cannabis : ce que c'est, ses effets, son impact\
+      \ sur la sant\xE9, comment arr\xEAter."
+    language: fr
+    name: 'Drogues : Cannabis, quelques informations'
+    sha256sum: f51a8a6513876c1cb13666385f32cb332e566d3fdc76dbb228317b2681fcde15
+    size: 32260304
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/drogues-cannabis-quelques-informations-fr.zip
+    version: '2022-12-14'
+  drogues-et-sexe-quels-liens-et-quelles-pratiques-fr:
+    description: "Ressources sur les pratiques li\xE9s aux drogues et au sexe : \xEA\
+      tre conscient des risques et maitriser les techniques pour les r\xE9duire. Comment\
+      \ se pr\xE9parer, comment se prot\xE9ger ?"
+    language: fr
+    name: 'Drogues et sexe : quels liens et quelles pratiques ?'
+    sha256sum: a756b17365b115fe0f1671416f717cb95a22105657a01f99f695726ae6c54f9e
+    size: 14053724
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/drogues-et-sexe-quels-liens-et-quelles-pratiques-fr.zip
+    version: '2022-12-14'
   droit-introduction-fr:
     description: "Contenus donnant des explications simples sur les fondements du\
       \ droit et pr\xE9sentant des textes fondateurs."
@@ -3294,6 +3401,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/droit-introduction-fr.zip
     version: '2020-03-05'
+  droits-au-sejour-guyane-fr:
+    description: "informations sur les droits au s\xE9jour (multilingue)"
+    language: fr
+    name: "Droits au s\xE9jour"
+    sha256sum: ac1a935ebe0e71615d90cebfa497332f2b20d15b63707d4efc58ceada82180f7
+    size: 7267869
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/droits-au-sejour-guyane-fr.zip
+    version: '2022-12-14'
   droits-de-l-enfant-fr:
     description: "Tu as des droits, apprends \xE0 les conna\xEEtre pour mieux les\
       \ d\xE9fendre."
@@ -3563,6 +3679,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/education-financiere-fr.zip
     version: '2020-09-21'
+  education-sexuelle-guyane-fr:
+    description: "Sexe et sexualit\xE9, vie affective & sexuelle\r\nCertains contenus\
+      \ existent dans diff\xE9rentes langues."
+    language: fr
+    name: Education sexuelle
+    sha256sum: 6104a644a715ad62bde48ab370d02abfbfa87d5ad6d79116b6118ca23941fa7c
+    size: 752899762
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/education-sexuelle-guyane-fr.zip
+    version: '2022-12-14'
   educational-videos-arabic-ar:
     description: "These videos teach fundamental skills to children in a fun way.\
       \ Follow Adam and his dog Mimish in their adventures and learn about science\
@@ -3977,6 +4103,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fiches-d-activites-sante-fr.zip
     version: '2019-10-10'
+  fiches-techniques-d-animation-guyane-fr:
+    description: "Fiches techniques d'animation de promotion de la sant\xE9"
+    language: fr
+    name: "Promotion de la sant\xE9 : fiches techniques d'animation"
+    sha256sum: cd946d0c09459f9fa82a7181d39cb81966e0ebab7a75fc682a4f67276988ff56
+    size: 547078633
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/fiches-techniques-d-animation-guyane-fr.zip
+    version: '2022-12-14'
   fictions-and-entertainment-in-arabic-ar:
     description: "\u0645\u0633\u0644\u0633\u0644\r\n\u0634\u0639\u0631\r\n\u0642\u0635\
       \u0635"
@@ -5055,6 +5190,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/idb-team-in-bangaldesh-facilitation-help-mm.zip
     version: '2020-04-16'
+  identite-et-genre-fr:
+    description: "Informations sur les diff\xE9rents genres et orientations sexuelles"
+    language: fr
+    name: "Identit\xE9 et genre"
+    sha256sum: 12015195e7aa3c4875d3ec59135fd50d91f45d1de46d5a19d188caecf463c44a
+    size: 2706703661
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/identite-et-genre-fr.zip
+    version: '2022-12-14'
   if-i-m-pregnant-how-do-drugs-and-alcohol-affect-me-en:
     description: If you are pregnant and have questions about drug, tobacco, or alcohol
       use, click here
@@ -5870,6 +6014,15 @@ all:
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/la-biologie-pour-les-enfants-fr.zip
     version: '2021-03-09'
+  la-contraception-guyane-fr:
+    description: Informations sur la contraception pour la Guyane (multilingue)
+    language: fr
+    name: La contraception
+    sha256sum: ae2863fc268f560b4b77de4b516a2436604060736766ac26ab834fe35c2c5830
+    size: 579780481
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/la-contraception-guyane-fr.zip
+    version: '2022-12-14'
   la-forge-blacksmithing-tutoriels-videos-en:
     description: "S\xE9ries de tutoriels vid\xE9os sur la pratique de la forge. A\
       \ destination de tous les futurs forgerons !"
@@ -7912,6 +8065,15 @@ all:
     type: zipped-medias
     url: http://olip-packages-preprod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/package-bsf-test-fra.zip
     version: '2021-01-20'
+  parcours-sante-guyane-fr:
+    description: "Lieux d'accueil et d'accompagnement sant\xE9 en Guyane"
+    language: fr
+    name: "Parcours sant\xE9"
+    sha256sum: d4f109329258d4caa9189f3e74d9bd17a6b1b3b22674890bc88f8290ffa26d4e
+    size: 6584288
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/parcours-sante-guyane-fr.zip
+    version: '2022-12-14'
   parentalite-fr:
     description: "Le lien parent-enfant est parfois compliqu\xE9 \xE0 entretenir sereinement.\
       \  Ces contenus vous aideront peut-\xEAtre \xE0 trouver certaines r\xE9ponses\
@@ -8201,6 +8363,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/portraits-et-autoportraits-fr.zip
     version: '2020-07-13'
+  possibilite-de-defense-des-droits-quels-sont-mes-droits-fr:
+    description: "Informations sur les droits face aux discriminations li\xE9es au\
+      \ VIH"
+    language: fr
+    name: "VIH : Possibilit\xE9 de d\xE9fense des droits - Quels sont mes droits ?"
+    sha256sum: 36220b744e1ab669307d63527dcf76276425be342515dc1f568f3a6ef92fb771
+    size: 16461730
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/possibilite-de-defense-des-droits-quels-sont-mes-droits-fr.zip
+    version: '2022-12-14'
   pratiquer-la-communication-non-violente-fr:
     description: "La Communication Non Violente (CNV) \xE0 pour but de pacifier nos\
       \ communications en rempla\xE7ant tout jugement par une observation objective,\
@@ -8298,6 +8470,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/prevenons-le-paludisme-turwanye-malariya-rn.zip
     version: '2020-02-14'
+  prevention-addictions-alcool-fr:
+    description: Mieux comprendre les effets de l'alcool sur nos comportements, et
+      leurs origines.
+    language: fr
+    name: "Pr\xE9vention addictions - alcool"
+    sha256sum: f685461eb3ee8370338d0fb4e7b1da2ccec7a6191c8cd0dccf275feba8d7e031
+    size: 1127345601
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/prevention-addictions-alcool-fr.zip
+    version: '2022-12-14'
   prevention-addictions-fr:
     description: Mieux comprendre les effets de l'alcool sur nos comportements, et
       leurs origines.
@@ -8308,6 +8490,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/prevention-addictions-fr.zip
     version: '2019-09-19'
+  prevention-des-ist-prep-depistages-guyane-fr:
+    description: "Informations sur :\r\n- la pr\xE9vention des IST\r\n- la PREP\r\n\
+      - les d\xE9pistages (IST, cancer du col de l'ut\xE9rus)\r\n\r\nPour la Guyane\
+      \ (multilingue)"
+    language: fr
+    name: "Pr\xE9vention des IST, PREP, d\xE9pistages"
+    sha256sum: 250d9324f952f217fed5bce4e39b20ab25ea72039c77e073f5be5732bc5b1e83
+    size: 1099780339
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/prevention-des-ist-prep-depistages-guyane-fr.zip
+    version: '2022-12-14'
   prevention-et-sexualite-fr:
     description: "La sexualit\xE9, il faut en parler pour \xEAtre en toute s\xE9curit\xE9\
       . Vous trouverez ici les informations n\xE9cessaires (moyens de contraception,\
@@ -8658,6 +8851,26 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/redaction-d-un-memoire-ou-d-un-rapport-de-stage-fr.zip
     version: '2020-11-02'
+  reduction-des-risques-outils-de-rdr-guyane-fr:
+    description: "informations sur les outils de r\xE9duction des risques li\xE9s\
+      \ aux substances psychoactives : filtration des produits, etc."
+    language: fr
+    name: "RDR - Outils de r\xE9duction des risques"
+    sha256sum: 6bea131c417c0500f75443229fd2e84489260471fcff7a89c523693cc16064ab
+    size: 71617141
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/reduction-des-risques-outils-de-rdr-guyane-fr.zip
+    version: '2022-12-14'
+  reduction-des-risques-produits-et-effets-guyane-fr:
+    description: "Informations sur les substances psychoactives, la sexualit\xE9 et\
+      \ les risques"
+    language: fr
+    name: RDR - Produits et effets
+    sha256sum: 67dda3117c71e8ec20cf3edf643fb66609b0d5cf0965a4dec0f9ecd24dd3ed67
+    size: 90320324
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/reduction-des-risques-produits-et-effets-guyane-fr.zip
+    version: '2022-12-14'
   refugees-and-migrants-en-en:
     description: "Important information on refugees rights and law protection. \r\n\
       Material and activities for reflection and discussion."
@@ -9313,6 +9526,40 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/theater-mime-lessons-en.zip
     version: '2020-02-17'
+  traitement-d-urgence-et-ivg-guyane-fr:
+    description: "Informations sur le traitement d'urgence et l'interruption volontaire\
+      \ de grossesse (IVG).\r\nMultilingue"
+    language: fr
+    name: Contraception d'urgence et IVG
+    sha256sum: 12ef37122d986f84a93852ad04cac9256f15cf930cc0285042fc6d76da7cc15f
+    size: 52473600
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/traitement-d-urgence-et-ivg-guyane-fr.zip
+    version: '2022-12-14'
+  traitement-du-vih-observance-therapeutique-guyane-fr:
+    description: "Vous trouverez ici des documents sur l'observance th\xE9rapeutique\
+      \ dans le traitement du VIH (multilingue)"
+    language: fr
+    name: "Traitement du VIH : observance th\xE9rapeutique (Guyane)"
+    sha256sum: 7ff2572a915f72332d607ade9d53f08bbe03c82736c105d216fbbd1d9da997c0
+    size: 32083647
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/traitement-du-vih-observance-therapeutique-guyane-fr.zip
+    version: '2022-12-14'
+  traitement-du-vih-tasp-guyane-fr:
+    description: "Informations sur le traitement, pour les personnes vivant avec le\
+      \ VIH\r\nTasP : Treatment as Prevention ou traitement antir\xE9troviral comme\
+      \ pr\xE9vention, signifie qu\u2019une personne s\xE9ropositive pour le VIH qui\
+      \ a une charge virale ind\xE9tectable depuis 6 mois sous traitement efficace\
+      \ et qui est observante de son traitement et du suivi m\xE9dical ne transmet\
+      \ plus le virus."
+    language: fr
+    name: Traitement du VIH, TasP
+    sha256sum: c0aae2831ca6685f9bbb3bdb48838e9dd44a3c2c0f791adc1a8df7108d1c65b0
+    size: 434888492
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/traitement-du-vih-tasp-guyane-fr.zip
+    version: '2022-12-14'
   transformation-agro-alimentaire-en-afrique-reportages-fr:
     description: "Reportages sur transformation agro-alimentaire. Des entrepreneurs\
       \ au Burkina Faso, au B\xE9nin, au Kenya nous explique comment ils ont r\xE9\
@@ -9400,26 +9647,26 @@ all:
     version: '2019-09-16'
   vie-affective-et-sexuelle-fiches-activites-fr:
     description: "Fiches activit\xE9s et leurs supports pour mettre en place des activit\xE9\
-      s sur la vie affectives et sexuelle avec des adolescents.\r\nA destination des\
+      s sur la vie affective et sexuelle avec des adolescents.\r\nA destination des\
       \ animateurs"
     language: fr
     name: "Vie affective et sexuelle - Fiches activit\xE9s"
-    sha256sum: d7dab1b1abc09d3eeee88dfeb8bafb686a546bf0ce27e6918bada75b576a94be
-    size: 25815758
+    sha256sum: 787a3cce642b8818cd7f2888c9135dfe6a98ee331f4a62f97119a82d3b493e1f
+    size: 27795508
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/vie-affective-et-sexuelle-fiches-activites-fr.zip
-    version: '2021-02-08'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/vie-affective-et-sexuelle-fiches-activites-fr.zip
+    version: '2022-12-14'
   vie-affective-et-sexuelle-l-essentiel-des-connaissances-fr:
     description: "Voici les connaissances \xE0 avoir pour mener des activit\xE9s sur\
-      \ la vie affective et sexuelle avec des adolescent, afin d'\xEAtre \xE0 m\xEA\
-      me de r\xE9aliser l'activit\xE9 et r\xE9pondres aux questions des participants."
+      \ la vie affective et sexuelle avec des adolescents, afin d'\xEAtre \xE0 m\xEA\
+      me de r\xE9aliser l'activit\xE9 et de r\xE9pondre aux questions des participants."
     language: fr
     name: Vie affective et sexuelle - L'essentiel des connaissances
-    sha256sum: 00e7d5834c3a91dbd12dc9fc862b17af3b92d73893b6887dda199f722816f151
-    size: 33312312
+    sha256sum: 3f72d5b5b04d2150f0ccc1ca6be55a75cfb74459d368f4cac572f29edb9d77aa
+    size: 44476289
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/vie-affective-et-sexuelle-l-essentiel-des-connaissances-fr.zip
-    version: '2021-02-08'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/vie-affective-et-sexuelle-l-essentiel-des-connaissances-fr.zip
+    version: '2022-12-14'
   vie-affective-et-sexuelle-outils-cles-en-main-fr:
     description: "Outils cl\xE9s en main pour les personnes voulant animer des activit\xE9\
       s avec des adolescents sur des sujets li\xE9s \xE0 la vie affective et sexuelle.\r\
@@ -9427,11 +9674,11 @@ all:
       lement"
     language: fr
     name: "Vie affective et sexuelle - Outils cl\xE9s en main"
-    sha256sum: 6b9f415c2fb791ad79cf54251ae4da7e0a2b89df2db09fc44c544d67e41b6730
-    size: 22050333
+    sha256sum: d1f4c1978def16fdea706a34feab1499923ce7e3ec63652191e1c7c7b326aca8
+    size: 53182399
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/vie-affective-et-sexuelle-outils-cles-en-main-fr.zip
-    version: '2021-02-08'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/vie-affective-et-sexuelle-outils-cles-en-main-fr.zip
+    version: '2022-12-14'
   vie-affective-et-sexuelle-supports-libres-fr:
     description: "Supports en acc\xE8s libre pour les adolescents et adultes qui veulent\
       \ en savoir plus sur la vie affective et sexuelle.\r\nInformation sur les organes\
@@ -9463,6 +9710,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/vih-sida-fr.zip
     version: '2019-12-09'
+  violence-sexisme-guyane-fr:
+    description: "Vous trouverez ici des vid\xE9os multilingues sur les violences\
+      \ sexistes"
+    language: fr
+    name: Violence & sexisme (Guyane)
+    sha256sum: 31d45177b681e028ea0c098652e242c61b77efcc5dd2b311e9c128fa6764b5be
+    size: 155452808
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/violence-sexisme-guyane-fr.zip
+    version: '2022-12-14'
   violences-faites-aux-femmes-fr:
     description: "\"Violences faites aux femmes\" est compos\xE9 d'articles et d'outils\
       \ pour mieux comprendre et appr\xE9hender les violences faites aux femmes."
@@ -9473,6 +9730,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/violences-faites-aux-femmes-fr.zip
     version: '2019-12-09'
+  violences-sexuelles-et-consentement-guyane-fr:
+    description: Documents d'information et de sensibilisation sur les violences sexuelles
+      et le consentement
+    language: fr
+    name: Violences sexuelles et consentement
+    sha256sum: 8c6a46b2159cbbeb5c46e8b38738f2371476c82c61ee939373b63f210c7de438
+    size: 514730739
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/violences-sexuelles-et-consentement-guyane-fr.zip
+    version: '2022-12-14'
   violences-sexuelles-sur-adultes-fr:
     description: "Contenus pr\xE9sentant les diff\xE9rents types d'agressions possibles\
       \ et les moyens de r\xE9agir pour la victime."
