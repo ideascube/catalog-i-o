@@ -78,6 +78,42 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/administration-gestion-comptabilite-gutunganya-ubutunzi-gl-fr.zip
     version: '2020-01-07'
+  afghan-dance-dari-prs:
+    description: "\u0645\u0632\u0627\u06CC\u0627\u06CC \u0627\u062C\u0631\u0627\u06CC\
+      \ \u0631\u0642\u0635 \u0648 \u0631\u0642\u0635 \u0627\u0641\u063A\u0627\u0646\
+      \u0633\u062A\u0627\u0646/Benefits of dancing and afghan dances performances"
+    language: prs
+    name: "\u0631\u0642\u0635 \u0627\u0641\u063A\u0627\u0646/Afghan dance (dari)"
+    sha256sum: d5438c85a69c6a16d4aa40a820708b07453234d5fa5fde4f5a34d1fc9a5c3c99
+    size: 143464249
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/afghan-dance-dari-prs.zip
+    version: '2022-12-30'
+  afghan-music-dari-prs:
+    description: "\u0645\u0632\u0627\u06CC\u0627\u06CC \u0627\u062C\u0631\u0627\u06CC\
+      \ \u0645\u0648\u0633\u06CC\u0642\u06CC \u0648 \u062A\u0631\u0627\u0646\u0647\
+      \ \u0647\u0627\u06CC \u0627\u0641\u063A\u0627\u0646\u06CC/Benefits of music\
+      \ and afghan songs performances"
+    language: prs
+    name: "\u0645\u0648\u0633\u06CC\u0642\u06CC \u0627\u0641\u063A\u0627\u0646\u06CC\
+      /Afghan music (dari)"
+    sha256sum: 1cf2e99d7fca780a8c287a632b37229efd89702d0f7fe847bcab1d0221fbbe68
+    size: 634136068
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/afghan-music-dari-prs.zip
+    version: '2022-12-30'
+  afghan-music-pashto-ps:
+    description: "Benefits of music and afghan songs performances \u062F \u0645\u0648\
+      \u0633\u06CC\u0642\u06CC \u06AB\u067C\u06CC \u0627\u0648 \u0627\u0648 \u0627\
+      \u063A\u0627\u0646\u06CC \u0633\u0646\u062F\u0631\u06CC"
+    language: ps
+    name: "Afghan music (pashto) / \u0627\u0641\u063A\u0627\u0646\u06CC \u0645\u0648\
+      \u0633\u06CC\u0642\u06CC"
+    sha256sum: 1ec3e0be7948387621929480e0ef0b8e6271cdad5a62672edc8fe2717fbe35fe
+    size: 134794638
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/afghan-music-pashto-ps.zip
+    version: '2022-12-30'
   africa-riding-fr:
     description: "La s\xE9rie AFRICA RIDING part \xE0 la rencontre d\u2019une communaut\xE9\
       \ de \xABriders\xBB qui participe \xE0 cr\xE9er un nouvel ordre culturel et\
@@ -444,6 +480,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/all-about-a-work-environment-ar.zip
     version: '2020-07-03'
+  allenati-al-codice-stradale-it:
+    description: Troverai quiz e video per imparare a riconoscere la segnaletica stradale
+      e aiutarti a superare l'esame di teoria
+    language: it
+    name: Allenati al codice stradale
+    sha256sum: be26aed26aab0bd6fce829f58c7a1273734fc1144c6e77d5f5ffde454ff84733
+    size: 630506645
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/allenati-al-codice-stradale-it.zip
+    version: '2022-12-30'
   alphabetisation-la-methode-abc-fr:
     description: "Fruit de plusieurs ann\xE9es d\u2019exp\xE9rience aupr\xE8s de migrants\
       \ non francophones, la m\xE9thode ABC est destin\xE9e aux animateurs d\u2019\
@@ -912,22 +958,22 @@ all:
       \ les loisirs, etc."
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau B1"
-    sha256sum: 96840bba63453a788e5bfe1a58c5ebd08577d5d28e5ca6c21db26dcbc31ac000
-    size: 304687316
+    sha256sum: ff165dce97bb7b63531ecab67ef65f4a80a61cb75c0072c033ec0159fb85257e
+    size: 304686602
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-b1-fr.zip
-    version: '2020-11-02'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/apprenez-le-francais-niveau-b1-fr.zip
+    version: '2022-12-30'
   apprenez-le-francais-niveau-b2-fr:
     description: "Le niveau B2 en fran\xE7ais, c'est pouvoir comprendre  le contenu\
       \ essentiel des sujets concrets ou abstraits dans un texte complexe, y compris\
       \ une discussion technique dans sa sp\xE9cialit\xE9."
     language: fr
     name: "Apprenez le fran\xE7ais - Niveau B2"
-    sha256sum: 3067c15958ac3c7a8de77dc006e50f36ac663467372b610765c7030387db683d
-    size: 230549013
+    sha256sum: 96a4099b2ca92d1d15fa754bb863e764151b62c3718c6b6c8d23ef468057755c
+    size: 230560664
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/apprenez-le-francais-niveau-b2-fr.zip
-    version: '2019-12-09'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/apprenez-le-francais-niveau-b2-fr.zip
+    version: '2022-12-30'
   apprenez-le-francais-niveau-b2-twige-igifaransa-uregero-rwa-b2-gl-fr:
     description: "Le niveau B2 en fran\xE7ais, c'est pouvoir comprendre  le contenu\
       \ essentiel d'une discussion. / Twige igifaransa"
@@ -1140,6 +1186,16 @@ all:
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/arts-plastiques-origami-et-pop-up-fr.zip
     version: '2021-06-10'
+  ascolta-un-po-di-musica-italiana-it:
+    description: Una selezione di canzoni di artisti italiani fra classico, popolare
+      e attuali
+    language: it
+    name: Ascolta un po di musica italiana
+    sha256sum: 76e4a1cf215a3b41a34218a8309ecea38d775810e3e4d040d77698953f444890
+    size: 254636370
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/ascolta-un-po-di-musica-italiana-it.zip
+    version: '2022-12-30'
   astronomy-en:
     description: What are comets made of? How was the solar system created? How does
       gravity influence tides? How can we recognise stars in the sky? If you are curious
@@ -1267,6 +1323,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/being-prepared-in-case-of-a-major-disaster-en.zip
     version: '2020-02-26'
+  berceuses-d-europe-de-l-est-411:
+    description: "Voici des berceuses venus de plusieurs pays d'Europe de l'Est, magnifiquement\
+      \ jou\xE9es et chant\xE9es par de nombreux artistes."
+    language: '411'
+    name: Berceuses d'Europe de l'Est
+    sha256sum: a2eb80a40cbfef7f538a4cbe2d67741866e38e9476d0122b813bac5285bc93bd
+    size: 147875430
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/berceuses-d-europe-de-l-est-411.zip
+    version: '2022-12-30'
   bien-etre-et-communication-au-travail-fr:
     description: "Ici, des outils pour travailler votre confiance en vous et vous\
       \ affirmer au travail. Et des cl\xE9s pour d\xE9samorcer et r\xE9soudre des\
@@ -1611,6 +1677,31 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/chemistry-ar.zip
     version: '2019-11-21'
+  child-care-dari-prs:
+    description: "\u0646\u06A9\u0627\u062A\u06CC \u0628\u0631\u0627\u06CC \u0648\u0627\
+      \u0644\u062F\u06CC\u0646 \u0628\u0631\u0627\u06CC \u062A\u0631\u0628\u06CC\u062A\
+      \ \u0641\u0631\u0632\u0646\u062F \u062F\u0631 \u062F\u0631\u06CC / Tips for\
+      \ parents to raise a child in dari"
+    language: prs
+    name: "\u0645\u0631\u0627\u0642\u0628\u062A \u0627\u0632 \u06A9\u0648\u062F\u06A9\
+      \ Child care (dari)"
+    sha256sum: 127fdd8a1684eb4700c712e971689aabe2c46d04cdf9a5b5c0532af42a08590c
+    size: 6871499
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/child-care-dari-prs.zip
+    version: '2022-12-30'
+  child-care-pashto-ps:
+    description: "Tips for parents to raise a child in dari \u0685\u0631\u0646\u06AB\
+      \u0647 \u0645\u0627\u0634\u0648\u0645\u0627\u0646 \u0644\u0648\u06CC \u06A9\u0693\
+      \u0648"
+    language: ps
+    name: "Child care (pashto) / \u062F \u0645\u0627\u0634\u0648\u0645\u0627\u0646\
+      \u0648 \u0633\u0627\u062A\u0646\u0647"
+    sha256sum: 0bf9f07c4dfa650774caa0ca99807dd215adaf9f6d01de5bdbae11af1748d57b
+    size: 1504345
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/child-care-pashto-ps.zip
+    version: '2022-12-30'
   child-protection-ar:
     description: "Child Protection documents [\u062D\u0645\u0627\u064A\u0629 \u0627\
       \u0644\u0637\u0641\u0644]"
@@ -1778,6 +1869,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/coding-ar.zip
     version: '2020-07-03'
+  combatti-le-discriminazioni-it:
+    description: Spot e informazioni per riconoscere le forme di discriminiazioni
+      come il razzismo e avere strumenti per combatterle
+    language: it
+    name: Combatti le discriminazioni
+    sha256sum: 231feef4848ef0f5476379fdc767da9306a1985358658c5b2bc296dab6cc4a73
+    size: 70813420
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/combatti-le-discriminazioni-it.zip
+    version: '2022-12-30'
   combattons-les-disciminations-enfants-ados-turwanye-ikumira-urwaruka-gl-fr:
     description: "On est tous diff\xE9rents, mais tous des \xEAtres humains ! / Twese\
       \ turi abantu ariko turatandukanye."
@@ -1830,6 +1931,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/combattons-les-discriminations-fr.zip
     version: '2020-02-26'
+  come-trovare-un-lavoro-in-italia-it:
+    description: 'Dalla redazione del tuo CV al intervista : alcuni suggerimenti per
+      aiutarti a prepararti bene'
+    language: it
+    name: Come trovare un lavoro in Italia
+    sha256sum: cff420fd9511fbe64e4e1ab1f79c72a429faa27f606d4067e87c70090e32fe22
+    size: 63448141
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/come-trovare-un-lavoro-in-italia-it.zip
+    version: '2022-12-30'
   comment-faire-face-a-la-violence-et-aux-conflits-enfants-ados-fr:
     description: La paix, comment on fait ?
     language: fr
@@ -2206,6 +2317,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/contes-senegal-fr.zip
     version: '2019-09-11'
+  contes-senegal-wolof-wo:
+    description: "Des contes du S\xE9n\xE9gal en wolof."
+    language: wo
+    name: "Contes S\xE9n\xE9gal (wolof)"
+    sha256sum: 23cffd02a5bdba9c7077edc1ee994e5d0a3b1bb343d18cc201931697cf00551d
+    size: 1352629651
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/contes-senegal-wolof-wo.zip
+    version: '2022-12-30'
   cooking-ar:
     description: "Easy Cooking Recipes. \u062A\u0639\u0644\u0645 \u0627\u0644\u0637\
       \u0628\u062E \u0641\u064A \u0647\u0630\u0647 \u0627\u0644\u0648\u0635\u0641\u0627\
@@ -2226,6 +2346,32 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cours-d-electronique-analogique-fr.zip
     version: '2020-09-09'
+  cours-de-hip-hop-et-breakdance-fr:
+    description: "Vous trouverez ici des tutoriels vid\xE9o pour apprendre la danse\
+      \ Hip Hop et Breakdance. Au-del\xE0 d'une danse, le hip-hop est un courant culturel\
+      \ qui prend ses origines \xE0 la fin des ann\xE9es 1970 aux \xC9tats-Unis et\
+      \ en particulier dans les rues de New York."
+    language: fr
+    name: Cours de Hip Hop et Breakdance
+    sha256sum: f4e5d3fefef187d210f0a8d36251f58c752845805e7b60f3ec7e033774d6d051
+    size: 4159568405
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/cours-de-hip-hop-et-breakdance-fr.zip
+    version: '2022-12-30'
+  cours-de-zumba-411:
+    description: "La zumba est une discipline sportive qui allie \xE0 la fois des\
+      \ mouvements chor\xE9graphiques d'inspiration latine et des gestes toniques\
+      \ destin\xE9s au renforcement musculaire. Invent\xE9 par le colombien Alberto\
+      \ Perez dans les ann\xE9es 1990, ce sport est aujourd'hui r\xE9pondu dans le\
+      \ monde entier. Vous trouverez ici des chor\xE9graphies de Zumba, \xE0 suivre\
+      \ seul.e ou en groupe. Amusez vous bien!"
+    language: '411'
+    name: Cours de Zumba
+    sha256sum: 829ffa53b7f60457a35da562cf293b29e70492c5a20342c4748f36feeb6c6296
+    size: 2455140761
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/cours-de-zumba-411.zip
+    version: '2022-12-30'
   couture-debutant-tutoriels-videos-et-guides-fr:
     description: "S\xE9ries de tutoriels vid\xE9os et de guides illustr\xE9s pour\
       \ d\xE9buter en couture, apprendre les gestes techniques de base et commencer\
@@ -3421,14 +3567,14 @@ all:
     url: http://packages.ideascube.org/omeka/droits-de-l-enfant-fr.zip
     version: '2020-07-13'
   drums-for-beginners-en:
-    description: Short classes to play drums quickly.
+    description: Short classes to play drums quickly
     language: en
     name: Drums for beginners
-    sha256sum: bc5b108f29a3ad1f754f9e7eb40f0e73ba560ec1bd6d7f7e498cfa54d8089b50
-    size: 536110279
+    sha256sum: dd8d479533fd4601849a947a53c716eeb866fa3b5896544aefb898a184329777
+    size: 536109712
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/drums-for-beginners-en.zip
-    version: '2020-09-22'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/drums-for-beginners-en.zip
+    version: '2022-12-30'
   early-marriage-ar:
     description: "\u062A\u0638\u0647\u0631 \u0627\u0644\u062D\u0632\u0645\u0629 \u0627\
       \u0644\u0631\u0633\u0648\u0645 \u0627\u0644\u0645\u062A\u062D\u0631\u0643\u0629\
@@ -3669,6 +3815,41 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/educacion-universo-es.zip
     version: '2019-09-16'
+  education-computer-science-dari-prs:
+    description: "\u062F\u0627\u0646\u0634 \u06A9\u0627\u0645\u067E\u06CC\u0648\u062A\
+      \u0631 \u062F\u0627\u0646\u0634 \u0627\u0633\u0627\u0633\u06CC  /Computer science\
+      \ basic knowledge"
+    language: prs
+    name: "\u0622\u0645\u0648\u0632\u0634: \u0639\u0644\u0648\u0645 \u06A9\u0627\u0645\
+      \u067E\u06CC\u0648\u062A\u0631/Education: computer science (dari)"
+    sha256sum: 80461063f00a5532bf50b3c5cd54461291c5da2dfa653b8f109e574fbb083ab2
+    size: 7790154
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/education-computer-science-dari-prs.zip
+    version: '2022-12-30'
+  education-economics-dari-prs:
+    description: "\u062F\u0627\u0646\u0634 \u0627\u0633\u0627\u0633\u06CC   \u0627\
+      \u0642\u062A\u0635\u0627\u062F/Economics basic knowledge"
+    language: prs
+    name: "\u062A\u062D\u0635\u06CC\u0644\u0627\u062A: \u0627\u0642\u062A\u0635\u0627\
+      \u062F/Education : economics (dari)"
+    sha256sum: 6a05de22ea28056a668096c2a73b0326f587d6358b0873834ffb11f14cab4ba4
+    size: 5231852
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/education-economics-dari-prs.zip
+    version: '2022-12-30'
+  education-economics-pashto-ps:
+    description: "Economics basic knowledge \u062F \u0627\u0642\u062A\u0635\u0627\u062F\
+      \ \u067E\u0647 \u0627\u0693\u0647 \u0627\u0633\u0627\u0633\u06CC \u0645\u0639\
+      \u0644\u0648\u0645\u0627\u062A"
+    language: ps
+    name: "Education : economics (pashto) / \u067E\u0648\u0647\u0646\u0647: \u0627\
+      \u0642\u062A\u0635\u0627\u062F"
+    sha256sum: 00e8b39c7f92fb5980e2cec46d42ca42421e2c9df6b3f274bc5706349e4d1596
+    size: 3008542
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/education-economics-pashto-ps.zip
+    version: '2022-12-30'
   education-financiere-fr:
     description: "Documentation sur les bases de la finance. Ici on va notamment parler\
       \ de gestion budg\xE9taire, de la banque et ses produits."
@@ -3679,6 +3860,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/education-financiere-fr.zip
     version: '2020-09-21'
+  education-sewing-dari-prs:
+    description: "\u062F\u0648\u062E\u062A\u0646 \u062F\u0627\u0646\u0634 \u0627\u0648\
+      \u0644\u06CC\u0647/Sewing basic knowledge"
+    language: prs
+    name: "\u062A\u062D\u0635\u06CC\u0644\u0627\u062A: \u062E\u06CC\u0627\u0637\u06CC\
+      /Education : sewing (dari)"
+    sha256sum: ffcc04ab808b0da4fcb1fd3d4450e0eb1360c615cba4d214e010c5262b4f954f
+    size: 17678924
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/education-sewing-dari-prs.zip
+    version: '2022-12-30'
   education-sexuelle-guyane-fr:
     description: "Sexe et sexualit\xE9, vie affective & sexuelle\r\nCertains contenus\
       \ existent dans diff\xE9rentes langues."
@@ -4001,6 +4193,16 @@ all:
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/facts-and-stories-about-ukraine-uk.zip
     version: '2022-06-07'
+  familiarizza-col-disegno-it:
+    description: 'Video per conoscere le diverse tecniche di disegno: prospettive,
+      proporzione, uso della matita...'
+    language: it
+    name: Familiarizza col disegno
+    sha256sum: 673d7923dafdb5bdbae4516b70af25e9cb2c31e01751772dec7b7a6d8c09286b
+    size: 710061102
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/familiarizza-col-disegno-it.zip
+    version: '2022-12-30'
   family-and-life-coaching-ar:
     description: "\u0627\u0644\u062F\u0643\u062A\u0648\u0631 \u062E\u0644\u064A\u0644\
       \ \u0627\u0644\u0632\u064A\u0648\u062F - \u062E\u0628\u064A\u0631 \u062A\u0631\
@@ -4122,6 +4324,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fictions-and-entertainment-in-arabic-ar.zip
     version: '2019-09-17'
+  fictions-for-adults-fa:
+    description: Fictions & music for adults in farsi language
+    language: fa
+    name: "\u062A\u062E\u06CC\u0644\u06CC [Fictions for adults]"
+    sha256sum: c27836692f69fc75eb1d18e1e80c670e04532607a3d2cb852cb4c44e82852cdb
+    size: 55875549
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/fictions-for-adults-fa.zip
+    version: '2022-12-30'
   fight-against-discriminations-and-live-together-en:
     description: Let's debate and discuss about the videos, to be able to detect discriminative
       acts and to face them, to build a community harmony.
@@ -4278,6 +4489,18 @@ all:
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/folk-music-uk.zip
     version: '2022-06-07'
+  food-and-cooking-dari-prs:
+    description: "\u062F\u0633\u062A\u0648\u0631 \u0627\u0644\u0639\u0645\u0644 \u0647\
+      \u0627\u06CC \u062F\u0646\u06CC\u0627 \u062F\u0631 \u062F\u0631\u06CC / Recipes\
+      \ from the world in dari"
+    language: prs
+    name: "\u063A\u0630\u0627 \u0648 \u067E\u062E\u062A \u0648 \u067E\u0632 / Food\
+      \ and cooking (dari)"
+    sha256sum: e62534f5cdfcc650f019461ccaf79b6ee53648a38d0489d4a183e810ecf7b1a2
+    size: 112239724
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/food-and-cooking-dari-prs.zip
+    version: '2022-12-30'
   food-security-en:
     description: "\"Food security exists when all people at all times have physical\
       \ and economic access to adequate amounts of nutritious, safe, and culturally\
@@ -4309,6 +4532,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/football-matches-en.zip
     version: '2019-09-17'
+  formation-en-techniques-d-elevage-wolof-wo:
+    description: "Vous trouverez ici des formations pratiques sur les techniques d'\xE9\
+      levage."
+    language: wo
+    name: "Formation en techniques d\u2019\xE9levage (wolof)"
+    sha256sum: b11a4c40e2fd70259a7b38d6f86f094e444b97f4eee2697ea27e761393635ea5
+    size: 7555387391
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/formation-en-techniques-d-elevage-wolof-wo.zip
+    version: '2022-12-30'
   formations-professionnelles-a-saint-martin-fr:
     description: "Ces vid\xE9os, extraites de reportage de la cha\xEEne iotv, permettent\
       \ de d\xE9couvrir diff\xE9rentes formations propos\xE9es sur l'\xEEle de Saint-Martin."
@@ -4495,6 +4728,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/geopolitique-afrique-fr.zip
     version: '2019-09-19'
+  german-for-arabic-and-persian-speakers-de:
+    description: "Lean German, \u06CC\u0627\u062F\u06AF\u06CC\u0631\u06CC \u0622\u0644\
+      \u0645\u0627\u0646\u06CC, \u062A\u0639\u0644\u0645 \u0627\u0644\u0627\u0644\u0645\
+      \u0627\u0646\u064A\u0629 !"
+    language: de
+    name: German for arabic and persian speakers
+    sha256sum: 3c47a4523673512386a3878be42e54c40773ef2805839f1bd7b5c97bdcf40b87
+    size: 313569806
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/german-for-arabic-and-persian-speakers-de.zip
+    version: '2022-12-30'
   gimp-graphic-editor-en:
     description: "GIMP (GNU Image Manipulation Program) is a free and open-source\
       \ raster graphics editor used for image retouching and editing, free-form drawing,\
@@ -4583,17 +4827,36 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/guides-en-ssraj-pour-les-leaders-religieux-rn.zip
     version: '2019-12-19'
+  haircut-dari-prs:
+    description: "\u062F\u0627\u0646\u0634 \u0627\u0633\u0627\u0633\u06CC \u0628\u0631\
+      \u0634 \u0645\u0648 (\u0633\u0644\u0645\u0627\u0646\u06CC)/Haircut basic knowledge"
+    language: prs
+    name: "\u0627\u0635\u0644\u0627\u062D \u0645\u0648/ haircut (dari)"
+    sha256sum: 8c964ee5ed29ff46aa4462f2e9140789d1ee2bcb1e317ddbf7a976715de94acf
+    size: 22608124
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/haircut-dari-prs.zip
+    version: '2022-12-30'
+  hairstyles-en:
+    description: Find inspiration and discover new hairstyles
+    language: en
+    name: Hairstyles
+    sha256sum: fd3ecbea7e30b213400f6d5391802536426a8220d6319c8e229910a2391a5641
+    size: 258655366
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/hairstyles-en.zip
+    version: '2022-12-30'
   handcraft-origami-en:
     description: Learn to create and build things by yourself ! Learn the art of origami,
       which is all about folding a single sheet paper in order to create different
       shapes and forms.
     language: en
     name: Handcraft - origami
-    sha256sum: 170adffed913cb73ffdd79e32a4b52eb1caf2174983aea26daddfbe56b1ee94e
-    size: 355048925
+    sha256sum: 8d551dda1e64aa1bb62b1a1a03dfba7d7729fd01261b5eebed77c6d7fbace65a
+    size: 585692846
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/handcraft-origami-en.zip
-    version: '2019-09-17'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/handcraft-origami-en.zip
+    version: '2022-12-30'
   handicraft-mm:
     description: Several handicraft tutorial, in burmese and in video without language
     language: mm
@@ -4669,6 +4932,30 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-and-nutrition-ar.zip
     version: '2019-09-17'
+  health-diseases-and-sti-pashto-ps:
+    description: "Information on diseases \u062F \u0646\u0627\u0631\u0648\u063A\u06CC\
+      \u0648 \u0628\u0627\u0631\u0647 \u06A9\u06CC \u0645\u0639\u0644\u0648\u0645\u0627\
+      \u062A"
+    language: ps
+    name: "Health : diseases and STI (pashto) / \u0631\u0648\u063A\u062A\u06CC\u0627\
+      \ : \u0627\u0648 \u062C\u0646\u0633\u06CC \u0633\u0627\u0631\u06CC \u0627\u0645\
+      \u0631\u0627\u0636"
+    sha256sum: df453e02b13664f39f7bdadedf35b1ab6a835695ec87ddd11f52811a7f12d9ac
+    size: 1314573
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/health-diseases-and-sti-pashto-ps.zip
+    version: '2022-12-30'
+  health-hygiene-dari-prs:
+    description: "\u0627\u0637\u0644\u0627\u0639\u0627\u062A \u062F\u0631 \u0645\u0648\
+      \u0631\u062F \u0628\u0647\u062F\u0627\u0634\u062A / Information on hygiene"
+    language: prs
+    name: "\u0633\u0644\u0627\u0645\u062A\u06CC: \u0628\u0647\u062F\u0627\u0634\u062A\
+      \ Health : hygiene (dari)"
+    sha256sum: 4b177033b27dd1b4c1aa20ee11ef6d0d473f07b0fe93e7bcd1c7f863b52688be
+    size: 23843004
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/health-hygiene-dari-prs.zip
+    version: '2022-12-30'
   health-promotion-bangla-bn:
     description: how to take care of me and my family?
     language: bn
@@ -4755,6 +5042,31 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/health-promotion-rohingya-rhg.zip
     version: '2019-11-14'
+  health-sexual-consent-dari-prs:
+    description: "\u0627\u0637\u0644\u0627\u0639\u0627\u062A \u0645\u0631\u0628\u0648\
+      \u0637 \u0628\u0647 \u0631\u0636\u0627\u06CC\u062A \u062C\u0646\u0633\u06CC\
+      \ / Information on sexual consent"
+    language: prs
+    name: "\u0633\u0644\u0627\u0645\u062A\u06CC: \u0631\u0636\u0627\u06CC\u062A \u062C\
+      \u0646\u0633\u06CC/Health : sexual consent (dari)"
+    sha256sum: d10b5519d8f34d4ff579fdbcf1cbfaadc2d1e5bb7216938b66618803e4158e4c
+    size: 2681048
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/health-sexual-consent-dari-prs.zip
+    version: '2022-12-30'
+  health-sexual-consent-pashto-ps:
+    description: "Information on sexual consent  \u062C\u0646\u0633\u06CC \u0627\u0693\
+      \u06CC\u06A9\u0648 \u0644\u067E\u0627\u0631\u0647 \u0631\u0636\u0627\u06CC\u062A\
+      \ \u0628\u0627\u0631\u0647 \u06A9\u06CC \u0645\u0639\u0644\u0648\u0645\u0627\
+      \u062A"
+    language: ps
+    name: "Health : sexual consent (pashto) / \u062C\u0646\u0633\u06CC \u0627\u0693\
+      \u06CC\u06A9\u0648 \u0644\u067E\u0627\u0631\u0647 \u0631\u0636\u0627\u06CC\u062A"
+    sha256sum: 7bea170368bb79bd6843a4ad6c230f968f5cf5a4d7449c20e2b50acfa0616056
+    size: 1504262
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/health-sexual-consent-pashto-ps.zip
+    version: '2022-12-30'
   hinbun-u-pe-vebirina-ziman-learning-and-improving-languages-kmr:
     description: "H\xEEnb\xFBn \xFB p\xEA\u015Fvebirina ziman\xEAn \xEEngil\xEEz\xEE\
       \ \xFB ereb\xEE / Learning and improving English and Arabic languages"
@@ -5220,6 +5532,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/il-etait-une-fois-notre-terre-fr.zip
     version: '2019-10-08'
+  impara-le-basi-in-italiano-it:
+    description: Vocabolario, esercizi e metodi per fare i primi passi in lingua italiana
+    language: it
+    name: Impara le basi in italiano
+    sha256sum: b36854ba95e1efaafe4ce37fc1281cc863221e0ab0ad089c30fa9f3d2c68956a
+    size: 610298843
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/impara-le-basi-in-italiano-it.zip
+    version: '2022-12-30'
   info-ou-intox-fr:
     description: "\xAB Pensez toujours \xE0 v\xE9rifier avant de partager \xBB ! C\u2019\
       est le r\xE9flexe que vous garderez en t\xEAte apr\xE8s avoir vu ces modules\
@@ -5235,6 +5556,25 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/info-ou-intox-fr.zip
     version: '2021-02-08'
+  informati-su-alcune-malattie-it:
+    description: Una serie di informazioni su certe malattie
+    language: it
+    name: informati su alcune malattie
+    sha256sum: 288daf59662c9a196cf6112e3afb3febbc11f9aaf98e64504e77acd67398d959
+    size: 42067953
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/informati-su-alcune-malattie-it.zip
+    version: '2022-12-30'
+  informati-su-quale-sono-i-tuoi-diritti-in-italia-it:
+    description: Portali informativi per conoscere permessi, diritti, assistenza che
+      puoi avere in Italia
+    language: it
+    name: Informati su quale sono i tuoi diritti in Italia
+    sha256sum: a8ad215675f4ea48a075390b5f16d27b982d524735501107e38f30d738ce650d
+    size: 126546886
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/informati-su-quale-sono-i-tuoi-diritti-in-italia-it.zip
+    version: '2022-12-30'
   information-mayotte-repema-askip-fr:
     description: "ASKIP : 10 vid\xE9os en fran\xE7ais cr\xE9ole propos\xE9es par le\
       \ R\xE9seau P\xE9rinatal de Mayotte (REPEMA) pour vous familiariser, prendre\
@@ -5265,6 +5605,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/informatique-enabel-fr.zip
     version: '2019-12-09'
+  informatique-et-bureautique-les-bases-wolof-wo:
+    description: Formation sur les outil bureautiques pack office (Word, Excel, Power
+      Point) en Wolof
+    language: wo
+    name: Informatique - les bases - Wolof
+    sha256sum: be34fc5c8a2b2bdf284c86f162b2f70b4b343a57a516bfa8c8bba2151f32b776
+    size: 215930095
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/informatique-et-bureautique-les-bases-wolof-wo.zip
+    version: '2022-12-30'
   informatique-excel-cours-niveau-1-basique-fr:
     description: "Tutoriels vid\xE9os pour apprendre \xE0 utiliser le logiciel Excel.\
       \ Niveau 1 Basique (avec exercices pratiques)."
@@ -5399,6 +5749,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/initiez-vous-a-la-photographie-fr.zip
     version: '2020-08-19'
+  iniziati-al-cinema-e-alla-realizzazione-di-video-it:
+    description: "Sceneggiaturra, planning, montaggio: tutto quello che c'\xE8 da\
+      \ sapere per  fare video come professionisti"
+    language: it
+    name: Iniziati al cinema e alla realizzazione di video
+    sha256sum: d4244931b41c6b9930a00424601a4f57882c0184a11ff1a154d1ac89c51492a9
+    size: 139974956
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/iniziati-al-cinema-e-alla-realizzazione-di-video-it.zip
+    version: '2022-12-30'
   innovation-en-afrique-fr:
     description: "Vous trouverez ici du contenu sur des m\xE9thodes innovantes et\
       \ des pr\xE9sentations d'innovations sp\xE9cifiques au contexte \xE9conomique\
@@ -6461,6 +6821,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/learn-to-know-and-manage-your-feelings-en.zip
     version: '2019-09-16'
+  learn-to-read-and-count-in-farsi-children-fa:
+    description: "Learn to read and count in farsi ! \u06CC\u0627\u062F\u06AF\u06CC\
+      \u0631\u06CC \u062E\u0648\u0627\u0646\u062F\u0646 \u0648 \u0634\u0645\u0627\u0631\
+      \u0634 \u062F\u0631 \u0641\u0627\u0631\u0633"
+    language: fa
+    name: "Learn to read and count in farsi - \u0641\u0627\u0631\u0633\u06CC [children]"
+    sha256sum: 931ae343834ef10e47e04271d3274d80e43021e5740e5c8a7aa0ec02b8ea27e2
+    size: 78891694
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/learn-to-read-and-count-in-farsi-children-fa.zip
+    version: '2022-12-30'
   learning-english-uk:
     description: "\u041A\u043E\u0440\u043E\u0442\u043A\u0456 \u0443\u0440\u043E\u043A\
       \u0438 \u0437 \u0431\u0430\u0437\u043E\u0432\u043E\u0457 \u0433\u0440\u0430\u043C\
@@ -6724,14 +7095,14 @@ all:
     url: http://packages.ideascube.org/omeka/let-s-be-clean-ar.zip
     version: '2019-11-21'
   let-s-practise-sport-children-en:
-    description: Learn more about different sports and about Olympic Games !
+    description: Learn more about different sports and about Olympic Games
     language: en
     name: Let's practise sport ! [children]
-    sha256sum: fdc9b015f41be0ef12781aa390ef099ebf5b92f63a4d87254f09d0fa07cd2c6d
-    size: 448880719
+    sha256sum: aa95bb470b1d1dfa901a2647a5e3dbb7eaecf47eb0573228ac9bc9b88e3a49a3
+    size: 448880215
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/let-s-practise-sport-children-en.zip
-    version: '2020-07-03'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/let-s-practise-sport-children-en.zip
+    version: '2022-12-30'
   let-s-speak-arabic-ar:
     description: "Learn different words and expressions in Arabic.// \u062A\u0639\u0644\
       \u0645 \u0645\u0641\u0631\u062F\u0627\u062A \u0648 \u0627\u0633\u0645\u0627\u0621\
@@ -7881,6 +8252,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/nature-enfants-ados-fr.zip
     version: '2019-09-16'
+  nature-fa:
+    description: Videos about nature in farsi language.
+    language: fa
+    name: "\u0637\u0628\u06CC\u0639\u062A [Nature]"
+    sha256sum: ffa7e84d2d44a0a24ad2a20ede8e464908e71bb40c3589b8a7dbe848148d640b
+    size: 1704527855
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/nature-fa.zip
+    version: '2022-12-30'
   nature-multi-languages-en:
     description: Discover nature, animals and landscapes
     language: en
@@ -8094,6 +8474,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/parents-clube-and-children-0-5-bn.zip
     version: '2020-03-17'
+  parti-a-la-scoperta-del-arte-italiana-it:
+    description: Correnti artistiche e grande figure della storia dell'arte italiana
+    language: it
+    name: Parti a la scoperta del arte italiana
+    sha256sum: f38745173ae0308bec6658ca5c5819144a01c35866fd6f1993cb47de191180a4
+    size: 69907429
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/parti-a-la-scoperta-del-arte-italiana-it.zip
+    version: '2022-12-30'
   patron-pour-coudre-une-jupe-a-volants-fille-fr:
     description: "Ce paquet de contenus pr\xE9sente des patrons qui peuvent \xEAtre\
       \ utilis\xE9s pour coudre une jupe \xE0 volants pour fille. Les patrons sont\
@@ -8373,6 +8762,15 @@ all:
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/possibilite-de-defense-des-droits-quels-sont-mes-droits-fr.zip
     version: '2022-12-14'
+  pratica-un-po-di-sport-it:
+    description: "Esercizi e fondamentali per praticare alcune attivit\xE0"
+    language: it
+    name: Pratica un po di sport
+    sha256sum: ff212e28a775ab610b33798533dd5265375bc294450d9bf71ace2f8d5ca1078b
+    size: 330921051
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/pratica-un-po-di-sport-it.zip
+    version: '2022-12-30'
   pratiquer-la-communication-non-violente-fr:
     description: "La Communication Non Violente (CNV) \xE0 pour but de pacifier nos\
       \ communications en rempla\xE7ant tout jugement par une observation objective,\
@@ -8790,6 +9188,29 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/reading-and-writing-games-en.zip
     version: '2019-09-16'
+  reading-stories-adults-dari-prs:
+    description: "Short stories or novels /\u0642\u0635\u0647 \u0647\u0627\u06CC \u06A9\
+      \u0648\u062A\u0627\u0647 \u0648 \u0646\u0627\u0648\u0644 \u0647\u0627"
+    language: prs
+    name: "Reading stories adults (dari) / \u0642\u0635\u0647 \u062E\u0648\u0627\u0646\
+      \u06CC"
+    sha256sum: 474e4892b23420c457da40eb238e9bd15380d5594b0fca41f46a273ad32c4499
+    size: 16605889
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/reading-stories-adults-dari-prs.zip
+    version: '2022-12-30'
+  reading-stories-children-dari-prs:
+    description: "Short stories or novels / \u0642\u0635\u0647 \u0647\u0627\u06CC\
+      \ \u06A9\u0648\u062A\u0627\u0647 \u0648 \u0646\u0627\u0648\u0644 \u0647\u0627\
+      \_ \_ \_ \_ \_ \_"
+    language: prs
+    name: "Reading stories children (dari) / \u0642\u0635\u0647 \u062E\u0648\u0627\
+      \u0646\u06CC"
+    sha256sum: f4b8d4c5eae0590b9ad468e9ac392ee7e032f713748bd95d6869ae622a982516
+    size: 618531
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/reading-stories-children-dari-prs.zip
+    version: '2022-12-30'
   recettes-de-cuisine-pour-les-enfants-fr:
     description: "Ce paquet contient des recettes de cuisine facile pour les enfants,\
       \ pr\xE9sent\xE9es comme des petits dessins anim\xE9s 'En cuisine les enfants'."
@@ -9080,6 +9501,33 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sciences-politiques-afrique-fr.zip
     version: '2020-03-05'
+  scopri-i-secreti-della-cucina-italiana-it:
+    description: Ricetti e documentari sulla cucina italiana
+    language: it
+    name: Scopri i secreti della cucina italiana
+    sha256sum: 0d86470b7876067deb3737a7c6a308d88de86383add7b4d7db138923eec5d50d
+    size: 58467385
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/scopri-i-secreti-della-cucina-italiana-it.zip
+    version: '2022-12-30'
+  scopri-la-base-della-cultura-italiana-it:
+    description: Video e documentari che permettono di capire meglio l'Italia
+    language: it
+    name: Scopri la base della cultura italiana
+    sha256sum: a13697c4b63695388fd76a1f9a0b7980885c454c45d69edad82d9c75c0c17f10
+    size: 10114310
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/scopri-la-base-della-cultura-italiana-it.zip
+    version: '2022-12-30'
+  scopri-la-storia-del-europa-e-dell-italia-it:
+    description: Mappe e video di alcuni eventi storici importanti
+    language: it
+    name: Scopri la storia del Europa e dell'Italia
+    sha256sum: 05384feb6e702b67f5c485db055fcbf2ad6cb2dff431bfd952809d8984452d80
+    size: 538588349
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/scopri-la-storia-del-europa-e-dell-italia-it.zip
+    version: '2022-12-30'
   se-preparer-a-une-catastrophe-fr:
     description: "En 10 ans, le nombre de catastrophes naturelles li\xE9es au r\xE9\
       chauffement climatique a augment\xE9 de 60%. 1 personne sur deux est susceptible\
@@ -9126,6 +9574,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/self-development-ar.zip
     version: '2020-07-03'
+  self-development-computers-en-urd-ur:
+    description: "Bilingual package english and urdu.\r\nComputers for beginners:\
+      \ Learning the basics on hardware and software."
+    language: ur
+    name: Self development/ Computers
+    sha256sum: e96e29e284afc92de32f7a5bc9181fb2ac3e75fb8e78b5cb909dadd0b51234c5
+    size: 167173120
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/self-development-computers-en-urd-ur.zip
+    version: '2022-12-30'
   self-development-managing-a-budget-en-en:
     description: How do I manage my personal and my home 's budget?
     language: en
@@ -9341,6 +9799,29 @@ all:
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/specialites-culinaires-mayotte-swb.zip
     version: '2021-04-21'
+  sport-bangla-bn:
+    description: "\u0996\u09C7\u09B2\u09BE\u09A7\u09C1\u09B2\u09BE\u09B0 \u0989\u09AA\
+      \u0995\u09BE\u09B0\u09BF\u09A4\u09BE \u098F\u09AC\u0982 \u09AC\u09BE\u0982\u09B2\
+      \u09BE \u0996\u09C7\u09B2\u09BE\u09A7\u09C1\u09B2\u09BE \u09AA\u09B0\u09BF\u09AC\
+      \u09C7\u09B6\u09A8 / Benefits of sport and bangla sports performances"
+    language: bn
+    name: "\u0996\u09C7\u09B2\u09BE\u09A7\u09C1\u09B2\u09BE /Sport (bangla)"
+    sha256sum: 4900a67a20ecd17853ab96178a6719ac8b4ef5aa0e8af5c0566b834a749cd393
+    size: 1300299633
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/sport-bangla-bn.zip
+    version: '2022-12-30'
+  sport-dari-prs:
+    description: "\u0645\u0632\u0627\u06CC\u0627\u06CC \u0648\u0631\u0632\u0634 \u0648\
+      \ \u0646\u0645\u0627\u06CC\u0634 \u0647\u0627\u06CC \u0648\u0631\u0632\u0634\
+      \u06CC / Benefits of sport and sports performances"
+    language: prs
+    name: "\u0648\u0631\u0632\u0634 / Sport (dari)"
+    sha256sum: 4cc34b696149a5fe0eb3ae700ed27c4ed42fe99b5447718c789f043f7e6590b1
+    size: 6026440
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/sport-dari-prs.zip
+    version: '2022-12-30'
   sport-football-en:
     description: Video of famous football game as well as the history of football
       and a presentation of the football rules
@@ -9919,6 +10400,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/women-empowerment-en.zip
     version: '2019-09-16'
+  women-gender-equality-bangla-bn:
+    description: "\u09AC\u09BE\u0982\u09B2\u09BE\u09AF\u09BC \u09B2\u09BF\u0999\u09CD\
+      \u0997 \u09B8\u09AE\u09A4\u09BE \u09B8\u09AE\u09CD\u09AA\u09B0\u09CD\u0995\u09C7\
+      \ \u09A4\u09A5\u09CD\u09AF / Information about gender equality in bangla"
+    language: bn
+    name: "\u09AE\u09B9\u09BF\u09B2\u09BE: \u09B2\u09BF\u0999\u09CD\u0997 \u09B8\u09AE\
+      \u09A4\u09BE/Women:gender equality (bangla)"
+    sha256sum: 2b6883e13eb3986c244ddfbf75bdddec1b4d67630b46d3b2f5d8d9e432c1fe6f
+    size: 75931883
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/women-gender-equality-bangla-bn.zip
+    version: '2022-12-30'
   women-in-african-history-en:
     description: 'This series highlights some of the contributions of key women figures
       to the history of Africa. This list is far from exhaustive but will walk the
