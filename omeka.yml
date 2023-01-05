@@ -2588,11 +2588,11 @@ all:
       \ ou encore vous assurer de la faisabilit\xE9 de votre projet."
     language: fr
     name: "Cr\xE9ation d'entreprise"
-    sha256sum: 5ed250cebd3633ed533a79d635dbc4e7bd1da1b488e1086a18523e1a97b2afff
-    size: 1024271951
+    sha256sum: 9cf54063d37bcd34e8bc3a9637abcd5feee70e472a2eb0900346d038cb013152
+    size: 1474934708
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/creation-d-entreprise-fr.zip
-    version: '2019-09-16'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/creation-d-entreprise-fr.zip
+    version: '2023-01-05'
   creatividad-colsubsidio-es:
     description: '-'
     language: es
