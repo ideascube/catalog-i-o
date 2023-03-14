@@ -29,6 +29,29 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/abuse-and-harassment-gbv-ar.zip
     version: '2019-11-21'
+  acceptation-corporelle-surpoids-et-obesite-fr:
+    description: "Pr\xE9venir et diminuer les probl\xE8mes li\xE9s au poids et \xE0\
+      \ l\u2019image corporelle"
+    language: fr
+    name: "Acceptation corporelle (surpoids et ob\xE9sit\xE9)"
+    sha256sum: ed52bb9cb1b68514e41a7c5137ebbef5dd143d1599c0e4308c81899e3d2e073f
+    size: 992933950
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/acceptation-corporelle-surpoids-et-obesite-fr.zip
+    version: '2023-03-14'
+  acces-aux-droits-et-aux-soins-fiches-d-activites-fr:
+    description: "Ce paquet est \xE0 destination des animateurs en sant\xE9 afin de\
+      \ les outiller pour mener des activit\xE9s avec des jeunes ou des adultes sur\
+      \ les questions de : comprendre ses droits en mati\xE8re de sant\xE9 et y acc\xE9\
+      der, la s\xE9curit\xE9 sociale, les services m\xE9dicaux, la sant\xE9 mentale,\
+      \ les consultations m\xE9dicales, etc."
+    language: fr
+    name: "Acc\xE8s aux droits et aux soins - Fiches d'activit\xE9"
+    sha256sum: 1db15a75ce7bfcfab0f494002ec4440c2496f2a8f028fea3db90382bd434916c
+    size: 4804006
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/acces-aux-droits-et-aux-soins-fiches-d-activites-fr.zip
+    version: '2023-03-14'
   adam-wa-mishmish-ar:
     description: "\u062A\u0639\u0631\u0641 \u0639\u0644\u0649 \u0622\u062F\u0645 \u0648\
       \ \u0645\u0634\u0645\u0634! \u0643\u0631\u062A\u0648\u0646 \u0639\u0646 \u0637\
@@ -56,6 +79,29 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/adam-wa-mishmish-ar.zip
     version: '2019-11-21'
+  addictions-produits-fiche-activites-fr:
+    description: "Ce paquet propose des fiches d'activit\xE9 autour de l'alcool, le\
+      \ tabac et les drogues (essentiellement cannabis). Elles s'appuient sur le d\xE9\
+      veloppement des comp\xE9tences psychosociales."
+    language: fr
+    name: "Addictions (produits) - Fiche activit\xE9s"
+    sha256sum: a400cc44b5bfbc59128976bcef0f2ff2a7ec92ef7e364d381e111e6acddb2af2
+    size: 10489238
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/addictions-produits-fiche-activites-fr.zip
+    version: '2023-03-14'
+  addictions-produits-outils-cles-en-main-fr:
+    description: "Ce paquet regroupe des outils cl\xE9s en main qui peuvent notamment\
+      \ \xEAtre utilis\xE9s dans le cadre d'activit\xE9 de m\xE9diation autour de\
+      \ la pr\xE9vention et de la r\xE9duction des comportements \xE0 risques (addictions).\
+      \ Dans ce cas, les fiches d'activit\xE9 sont aussi disponibles dans ce paquet."
+    language: fr
+    name: "Addictions (produits) - Outils cl\xE9s en main"
+    sha256sum: 04886a21916757d9f823324f2e8ae19e4384482005cca07d6753c1a0d7319eb1
+    size: 1075940892
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/addictions-produits-outils-cles-en-main-fr.zip
+    version: '2023-03-14'
   administration-gestion-comptabilite-fr:
     description: "Vous souhaitez monter une entreprise mais vous manquez de connaissances\
       \ sur les d\xE9marches administratives, la gestion et la comptabilit\xE9. Vous\
@@ -649,11 +695,11 @@ all:
       \ diff\xE9rentes, pour pouvoir agr\xE9menter tous vos plats"
     language: fr
     name: "Apprendre \xE0 cuisiner - Les Basiques (recettes et techniques)"
-    sha256sum: 4b07d95583c121d6de1e1ce51e0cd87f2ccb461e8209efc76f37943c7bdffb67
-    size: 283667842
+    sha256sum: 8c8c325c5d4572d9d821c0e27b5adb717d6cfb35de1350c00b50814cd28e9d64
+    size: 445505950
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/apprendre-a-cuisiner-les-basiques-recettes-et-techniques-fr.zip
-    version: '2021-02-08'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/apprendre-a-cuisiner-les-basiques-recettes-et-techniques-fr.zip
+    version: '2023-03-14'
   apprendre-a-cuisiner-les-desserts-fr:
     description: "Dans ce paquet, vous trouverez des vid\xE9os explicatives sur:\r\
       \n1 - Des techniques de bases de la p\xE2tisserie, comme plusieurs p\xE2tes\
@@ -735,11 +781,11 @@ all:
       \ m\xE9ditation."
     language: fr
     name: "Apprendre \xE0 g\xE9rer ses \xE9motions"
-    sha256sum: c33a228c410aa5743f1643ce52a416e81d76467ccd1999bde7793d25384b1f5c
-    size: 591325508
+    sha256sum: a08d9305e6c66901341523f4e75e97988d1652ac7ccf4234ddd421e7443409f9
+    size: 645794766
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/apprendre-a-gerer-ses-emotions-associer-avec-935-fr.zip
-    version: '2020-11-02'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/apprendre-a-gerer-ses-emotions-associer-avec-935-fr.zip
+    version: '2023-03-14'
   apprendre-a-programmer-avec-arduino-et-unity-3d-fr:
     description: "Acqu\xE9rir les bases de la programmation et de la robotique gr\xE2\
       ce \xE0 l'utilisation d'outils (Unity 3D et Arduino)."
@@ -795,6 +841,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/apprendre-a-utiliser-des-patrons-fr.zip
     version: '2019-09-10'
+  apprendre-la-cup-zik-fr:
+    description: "Le pack exclusif \"Cup of Zik\" propose une pratique vocale et rythmique\
+      \ collective en laissant une part importante \xE0 la cr\xE9ativit\xE9 et \xE0\
+      \ la personnalisation d'une interpr\xE9tation musicale avec des goblets."
+    language: fr
+    name: Apprendre la Cup Zik
+    sha256sum: b7e7f52f3e52501720a9e76483fe2e113cd4f3c3c51ed2ddeee99ab76555dcec
+    size: 63128655
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/apprendre-la-cup-zik-fr.zip
+    version: '2023-03-14'
   apprendre-la-menuiserie-sikana-fr:
     description: "Dans ce programme vid\xE9o \xE9ducatif, vous d\xE9couvrirez les\
       \ savoirs de base qu'il est n\xE9cessaire d'acqu\xE9rir pour devenir menuisier.\
@@ -1048,6 +1105,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/arabic-alphabet-ar.zip
     version: '2019-11-21'
+  arreter-de-fumer-pourquoi-comment-fr:
+    description: "Ressources pour les personnes se questionnant sur l'arr\xEAt du\
+      \ tabac : les raisons d'arr\xEAter, vers qui se tourner, comment \xE9viter les\
+      \ mauvais effets. Inclus des campagnes de sensibilisation."
+    language: fr
+    name: "Arr\xEAter de fumer : pourquoi, comment ?"
+    sha256sum: 1965b5b33e54d7c5140b36315288ae5655c3f19e09c28e9817685f5bb2e7fa41
+    size: 55233553
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/arreter-de-fumer-pourquoi-comment-fr.zip
+    version: '2023-03-14'
   arriver-en-france-et-connaitre-ses-droits-fr:
     description: "Vous trouverez ici des informations pour vous accompagner dans vos\
       \ d\xE9marches administratives: demandes d'asile, acc\xE8s aux soins, regroupement\
@@ -1163,6 +1231,17 @@ all:
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/arts-plastiques-apprendre-a-dessiner-le-corps-humain-fr.zip
     version: '2021-03-09'
+  arts-plastiques-dessiner-version-manga-fra:
+    description: "Apprend \xE0 dessiner comme un Mangaka, un auteur de manga. D\xE9\
+      couvre le style de dessin particulier de la bande dessin\xE9e japonaise avec\
+      \ ces vid\xE9os tuto qui t'expliquent tout \xE9tapes par \xE9tapes."
+    language: fra
+    name: Arts Plastiques - Dessiner version Manga
+    sha256sum: 458c3a82ead19b2d84a8aa856659f18cca66a556e6f5d60f6fe582952828cb6e
+    size: 2421398939
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/arts-plastiques-dessiner-version-manga-fra.zip
+    version: '2023-03-14'
   arts-plastiques-fr:
     description: "D\xE9tendez-vous, exprimez-vous, cr\xE9ez ! Il y a un artiste en\
       \ chacun de nous, \xE0 vous de le r\xE9v\xE9ler..."
@@ -1237,6 +1316,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ateliers-manuels-pour-les-enfants-fr.zip
     version: '2020-07-13'
+  ateliers-medias-et-journalisme-fiches-d-activites-fr:
+    description: "Fiches d'activit\xE9s et ressources pour les \xE9quipes p\xE9dagogiques\
+      \ et d'animation pour faciliter l'organisation d'ateliers autour du journalisme\
+      \ et la production de contenus m\xE9diatiques en ligne. Au travers de ces activit\xE9\
+      s, les jeunes seront en mesure de produire du contenu journalistique sous plusieurs\
+      \ formes : vid\xE9o, audio, \xE9crit.\r\n(Fiches produites au Canada.)"
+    language: fr
+    name: "Ateliers m\xE9dias et journalisme - Fiches d'activit\xE9s"
+    sha256sum: 12d694dd1391ff818d8ed16964fe6ea58d5af513946fec63e023190bdb2b3a87
+    size: 2325501
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/ateliers-medias-et-journalisme-fiches-d-activites-fr.zip
+    version: '2023-03-14'
   audiobooks-et-fictions-sonores-fr:
     description: "Les fictions, les romans, on peut aussi les \xE9couter ! A vos casques\
       \ !"
@@ -1300,6 +1392,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/bandes-dessinees-a-ecouter-livres-audios-fr.zip
     version: '2021-02-08'
+  beatbox-tutos-pour-apprendre-et-pratiquer-fr:
+    description: "Le human beatboxing (\xAB bo\xEEte \xE0 rythmes humaine \xBB en\
+      \ anglais) consiste \xE0 faire de la musique en imitant des instruments uniquement\
+      \ avec sa bouche. Tu trouvera ici des tutos d\xE9taill\xE9s pour apprendre et\
+      \ t'am\xE9liorer en beatbox."
+    language: fr
+    name: BeatBox - Tutos pour apprendre et pratiquer
+    sha256sum: 47acc9f66641a17bfa4528d8ae4f969d564efc2737b0d8a25908150da48f8b75
+    size: 1635125813
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/beatbox-tutos-pour-apprendre-et-pratiquer-fr.zip
+    version: '2023-03-14'
   beauty-parlor-411:
     description: "Video about make up, henna design and hairdressing for women and\
       \ teenager girl.\r\nThe language of the tutoriel are mix (english, arabic, burmese,\
@@ -1376,6 +1480,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/bien-se-nourrir-enfants-paquet-redecoupe-voir-paquets-888-889-et-890-fr.zip
     version: '2020-08-04'
+  bien-vivre-ensemble-ados-fr:
+    description: "Contenus pour discuter du respect et de la fa\xE7ons de bien vivre\
+      \ ensemble, en groupe et en soci\xE9t\xE9 dans la non violence et la paix."
+    language: fr
+    name: Bien vivre ensemble - Ados
+    sha256sum: 4d35542275ee98cf1470439baea5386eace2d0fd8b5950ddb4f046fac5d158b2
+    size: 59551410
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/bien-vivre-ensemble-ados-fr.zip
+    version: '2023-03-14'
   biologie-adolescents-fr:
     description: "Pars \xE0 la d\xE9couverte du corps humain !"
     language: fr
@@ -1809,6 +1923,20 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/citoyennete-et-politique-fr.zip
     version: '2021-02-08'
+  citoyennete-numerique-fiches-d-activites-fr:
+    description: "Fiches d'activit\xE9s pour les \xE9quipes p\xE9dagogiques et d'animation\
+      \ visant \xE0 d\xE9velopper un comportement responsable des jeunes en ligne.\
+      \ Enjeux abord\xE9s : vie personnelle, image, confidentialit\xE9, protection\
+      \ des donn\xE9es, marketing num\xE9rique, stress num\xE9rique, r\xE9seaux sociaux,\
+      \ jeux vid\xE9o, cyberintimidation, respect, relations. \r\nFiches produites\
+      \ au Canada."
+    language: fr
+    name: "Citoyennet\xE9 num\xE9rique : fiches d'activit\xE9s"
+    sha256sum: 2c12dfe4c278e7d80b39e8d20a3040270818241589a3a8577d1c71eba46b0c6d
+    size: 8885513
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/citoyennete-numerique-fiches-d-activites-fr.zip
+    version: '2023-03-14'
   classic-literature-in-english-contient-uniquement-des-epub-en:
     description: Ebooks from the classic literature of England, France and ancient
       Greece. All books are in English
@@ -1950,6 +2078,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/comment-faire-face-a-la-violence-et-aux-conflits-enfants-ados-fr.zip
     version: '2019-09-18'
+  comment-garder-son-emploi-fr:
+    description: "Des conseils pour vous aider \xE0 faire carri\xE8re dans un travail\
+      \ qui vous passionne."
+    language: fr
+    name: Comment garder son emploi ?
+    sha256sum: 4a462579765350e9a4f31d7064382e9c2d8925b2579263c5725e16cf0b86b1bc
+    size: 199371939
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/comment-garder-son-emploi-fr.zip
+    version: '2023-03-14'
   communication-ckb:
     description: "\u0641\u06CE\u0631\u0628\u0648\u0648\u0646\u06CC \u067E\u06CE\u0648\
       \u06D5\u0646\u062F\u06CC\u062F\u0627\u0646\u0627\u0646 \u0644\u06D5 \u0646\u0627\
@@ -2140,6 +2278,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/computer-and-it-ar.zip
     version: '2020-07-03'
+  conduire-en-france-fr:
+    description: "Quelques r\xE8gles \xE0 respecter prudemment. On y retrouve de quoi\
+      \ travailler le code, comment \xE9changer son permis s'il n'est pas europ\xE9\
+      en et les assurances voitures, obligatoires !"
+    language: fr
+    name: Conduire en France
+    sha256sum: ce5e82ead982776d95f1375ad442fbe44636ba0c7dcf40408b5defa91960e454
+    size: 78603469
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/conduire-en-france-fr.zip
+    version: '2023-03-14'
   conferences-autour-du-developpement-durable-et-de-l-ecologie-fr:
     description: "Conf\xE9rences et r\xE9flexions autour des enjeux du d\xE9veloppement\
       \ durable, de la permaculture et de l'\xE9cologie autour du monde. Comment assurer\
@@ -2236,6 +2385,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/connaitre-la-france-et-paris-fr.zip
     version: '2019-09-11'
+  connaitre-ses-competences-et-les-valoriser-fr:
+    description: "Vid\xE9os explicatives et ressources permettant aux jeunes et aux\
+      \ adultes de faire le point sur ses comp\xE9tences (notamment les soft skills)\
+      \ et de savoir les valoriser dans le cadre d'un bilan personnel ou d'une recherche\
+      \ d'emploi.\r\nAide \xE0 l'orientation !"
+    language: fr
+    name: "Conna\xEEtre ses comp\xE9tences et les valoriser"
+    sha256sum: 99e06a7dc2789f220e218bc14ccf2cadbc6e328d9ecffdb9e2800c7211ab21c0
+    size: 750765551
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/connaitre-ses-competences-et-les-valoriser-fr.zip
+    version: '2023-03-14'
   conseils-pour-l-oral-d-un-examen-fr:
     description: "Comment faire des \xE9tincelles \xE0 l'oral devant les examinateurs\
       \ d'un examen ? Nous ne sommes pas tous aussi \xE0 l'aise dans l'exercice de\
@@ -2258,6 +2419,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/conseils-pour-la-gestion-des-relations-amoureuses-gl-rn.zip
     version: '2020-04-22'
+  consultations-et-examens-informations-generales-adulte-fr:
+    description: "Ce paquet g\xE9n\xE9raliste explique comment prendre un rendez-vous,\
+      \ le d\xE9roul\xE9 type d'une consultation chez un professionnel de sant\xE9\
+      , comment exprimer la douleur, les questions \xE0 poser \xE0 un professionnel\
+      \ de sant\xE9 \u2026 Il s'adresse aux adultes (femmes ou hommes)."
+    language: fr
+    name: "Consultations et examens : informations g\xE9n\xE9rales (adulte)"
+    sha256sum: 26b6c5416362d5679378b55e233b79e435cbd3e16d0b4cb954a078e65d008873
+    size: 49795901
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/consultations-et-examens-informations-generales-adulte-fr.zip
+    version: '2023-03-14'
   contemporary-art-for-adults-en:
     description: Contents of Contemporary Art
     language: en
@@ -2494,17 +2667,28 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/covid-19-rohingya-rhg.zip
     version: '2020-09-14'
+  cps-avoir-une-pensee-critique-et-creative-fr:
+    description: "Vid\xE9os conseils sur les comp\xE9tences psychosociales li\xE9\
+      es \xE0 la pens\xE9e critique et cr\xE9ative, afin de permettre aux jeunes et\
+      \ aux adultes de renforcer leur comp\xE9tences dans ce domaine."
+    language: fr
+    name: "CPS : Avoir une pens\xE9e critique et cr\xE9ative"
+    sha256sum: df6248c5f6933c7dbdba95f7bb1b85f98621c2a519e4f250ab3ffc0a00fc7e95
+    size: 67823982
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/cps-avoir-une-pensee-critique-et-creative-fr.zip
+    version: '2023-03-14'
   cps-et-bien-etre-fiches-activites-fr:
     description: "Fiches d'activit\xE9s et leurs supports pour mettre en place des\
-      \ activit\xE9s sur les comp\xE9tences psycho-social et le bien \xEAtre avec\
+      \ activit\xE9s sur les comp\xE9tences psycho-sociales et le bien \xEAtre avec\
       \ des adolescents.\r\nA destination des animateurs"
     language: fr
     name: "CPS et Bien-Etre - Fiches activit\xE9s"
-    sha256sum: 89f89083706b3378e63241ae392ea24f64c5c77df162328c957245f2464041ec
-    size: 6682737
+    sha256sum: 643f1ee78186b9a4c51959882c1cfbdd3e951c460b719a7ebdcb5918559095a4
+    size: 6844517
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/cps-et-bien-etre-fiches-activites-fr.zip
-    version: '2020-09-14'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/cps-et-bien-etre-fiches-activites-fr.zip
+    version: '2023-03-14'
   cps-et-bien-etre-l-essentiel-des-connaissances-fr:
     description: "Voici les connaissances \xE0 avoir pour mener des activit\xE9s sur\
       \ les comp\xE9tences psycho-sociales et le bien \xEAtre avec des adolescent,\
@@ -2541,6 +2725,40 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/cps-et-bien-etre-supports-libres-fr.zip
     version: '2020-09-14'
+  cps-gerer-son-stress-fr:
+    description: "Vid\xE9os conseils \xE0 destination des jeunes et des adultes afin\
+      \ de comprendre et de savoir g\xE9rer le stress dans la vie quotidienne et au\
+      \ travail, en fonction des causes et situations."
+    language: fr
+    name: "CPS : G\xE9rer son stress"
+    sha256sum: f538c1f61acc98d01c8f3e08f44825ad33c3bbdb761b8acf06770e0fc8434199
+    size: 229699956
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/cps-gerer-son-stress-fr.zip
+    version: '2023-03-14'
+  cps-resoudre-les-problemes-et-prendre-des-decisions-fr:
+    description: "Vid\xE9os conseils sur les comp\xE9tences psychosociales li\xE9\
+      es \xE0 la r\xE9solution de probl\xE8mes et la prise de d\xE9cision, afin de\
+      \ permettre aux jeunes et aux adultes de renforcer leur comp\xE9tences dans\
+      \ ce domaine."
+    language: fr
+    name: "CPS : R\xE9soudre les probl\xE8mes et prendre des d\xE9cisions"
+    sha256sum: 6e26d4bb6214a4a09cae532047422ec366508e0525ee548783afea8b4ae9d0b2
+    size: 106630951
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/cps-resoudre-les-problemes-et-prendre-des-decisions-fr.zip
+    version: '2023-03-14'
+  cps-se-connaitre-et-construire-sa-confiance-en-soi-fr:
+    description: "Vid\xE9os conseils sur les comp\xE9tences psychosociales li\xE9\
+      es \xE0 la confiance en soi, afin de permettre aux jeunes et aux adultes de\
+      \ renforcer mieux se conna\xEEtre pour gagner en autonomie d'agir."
+    language: fr
+    name: 'CPS : Se connaitre et construire sa confiance en soi'
+    sha256sum: 98ca0fb7642b5cd9625f89379481b7710e09cb7a6ed577ce5dbd919c96017632
+    size: 191994579
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/cps-se-connaitre-et-construire-sa-confiance-en-soi-fr.zip
+    version: '2023-03-14'
   creation-audio-fr:
     description: "Vous voulez monter une radio ? Apprendre \xE0 monter de petits reportages\
       \ sonores ? L'audio est un excellent moyen pour raconter des histoires ou faire\
@@ -2593,6 +2811,28 @@ all:
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/creation-d-entreprise-fr.zip
     version: '2023-01-05'
+  creation-video-les-bases-pour-creer-un-film-ou-court-metrage-fr:
+    description: "Conseils et astuces de professionnels et d'amateurs de cin\xE9ma\
+      \ afin de cr\xE9er, tourner et monter son film ou court m\xE9trage, du d\xE9\
+      but \xE0 la fin !"
+    language: fr
+    name: "Cr\xE9ation vid\xE9o : Les bases pour cr\xE9er un film ou court m\xE9trage"
+    sha256sum: 8af976f74b308ae2ea385e2b35da9a8f5a5b6d6820e380a9903504b33db81aca
+    size: 157133457
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/creation-video-les-bases-pour-creer-un-film-ou-court-metrage-fr.zip
+    version: '2023-03-14'
+  creation-video-les-bases-pour-faire-des-capsules-videos-fr:
+    description: "Quelques conseils et id\xE9es pour cr\xE9er des capsules vid\xE9\
+      o amateur (p\xE9dagogiques, reportage, etc.) avec un smartphone ou une cam\xE9\
+      ra."
+    language: fr
+    name: "Cr\xE9ation vid\xE9o : Les bases pour faire des capsules vid\xE9os"
+    sha256sum: 1ab26ac4a9781d584589e33c465712aaef64743831a587873c72f40471524326
+    size: 76766422
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/creation-video-les-bases-pour-faire-des-capsules-videos-fr.zip
+    version: '2023-03-14'
   creatividad-colsubsidio-es:
     description: '-'
     language: es
@@ -2830,6 +3070,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/culture-numerique-fr.zip
     version: '2020-01-15'
+  culture-numerique-histoires-du-numerique-et-d-internet-fr:
+    description: "Vid\xE9os documentaires, p\xE9dagogiques et entretiens sur l'histoire\
+      \ du num\xE9rique, des internets, du darknet, de la programmation, etc."
+    language: fr
+    name: "Culture num\xE9rique : histoires du num\xE9rique et d'internet"
+    sha256sum: e013c48a6ce2b0b6203935701786bd2d3f3c1a402aa9686e614227243c76749c
+    size: 4131588717
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/culture-numerique-histoires-du-numerique-et-d-internet-fr.zip
+    version: '2023-03-14'
   cultures-et-partrimoine-de-madagascar-fr:
     description: Documents sur les cultures, les arts, le patrimoine de Madagascar.
     language: fr
@@ -2954,6 +3204,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/decouvrez-differents-sports-paquet-redecoupe-voir-les-paquets-856-857-858-313-fr.zip
     version: '2020-08-19'
+  decouvrez-le-street-art-fr:
+    description: "Pour comprendre les \u0153uvres qui recouvrent les murs de nos villes\
+      \ et la signification de ces graffiti, venez d\xE9couvrir le monde du street\
+      \ art !"
+    language: fr
+    name: "D\xE9couvrez le street art"
+    sha256sum: 42d455ed16a62d95408e3be4bcc444ba9b06908eab1f43e391f5de9d238146de
+    size: 753311859
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/decouvrez-le-street-art-fr.zip
+    version: '2023-03-14'
   decouvrez-ou-re-decouvrez-la-cuisine-de-differents-pays-fr:
     description: Qu'est-ce qu'on mange aujourd'hui ?
     language: fr
@@ -2994,6 +3255,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/demander-l-asile-en-france-fr.zip
     version: '2019-09-16'
+  democratie-participative-fr:
+    description: "Outils permettant de mettre en place des d\xE9bats citoyens afin\
+      \ d'acter les d\xE9cisions collectives. \r\nExemples d'initiatives citoyennes\
+      \ en France, afin d'illustrer les projets auxquels peuvent aboutir ces initiatives."
+    language: fr
+    name: "D\xE9mocratie participative"
+    sha256sum: e696b6f77aec918801d186e8f086a1a78a6567f3b9080ffd1fee8a2c41db30b0
+    size: 224305897
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/democratie-participative-fr.zip
+    version: '2023-03-14'
   denis-mukwege-fr:
     description: "Denis Mukwege, est un gyn\xE9cologue et militant des droits de l'homme\
       \ congolais.\r\nSurnomm\xE9 \xAB l'homme qui r\xE9pare les femmes \xBB, il a\
@@ -3073,6 +3345,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/determine-your-skills-your-goals-at-work-ar.zip
     version: '2020-07-03'
+  developpement-personnel-podcast-changer-ma-vie-fr:
+    description: "Podcast sur le d\xE9veloppement personnel, donnant des \"outils\
+      \ pour l'esprit\"."
+    language: fr
+    name: "D\xE9veloppement personnel - Podcast - Changer ma vie"
+    sha256sum: 392b852889bc41481e8772b973cd2651b7aeeda82ede2f58f3253ac79a444ce6
+    size: 389725746
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/developpement-personnel-podcast-changer-ma-vie-fr.zip
+    version: '2023-03-14'
   dianke-feuilleton-audio-rfi-sur-l-engagement-politique-d-une-jeune-femme-senegalaise-fr:
     description: "\xAB Diank\xE9 \xBB raconte l\u2019histoire d\u2019une jeune femme\
       \ africaine ind\xE9pendante et de caract\xE8re qui va se lancer en politique\
@@ -3526,6 +3808,16 @@ all:
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/drogues-cannabis-quelques-informations-fr.zip
     version: '2022-12-14'
+  drogues-et-addictions-fr:
+    description: "D\xE9couvre ici des informations cl\xE9s sur les drogues, leurs\
+      \ effets sur ton organisme et sur ta sant\xE9."
+    language: fr
+    name: Drogues et addictions
+    sha256sum: 67eb6941f767ee9c0225b700c96f6e51e4f66a61c7cfb468c23badd6be0aa2b6
+    size: 472801680
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/drogues-et-addictions-fr.zip
+    version: '2023-03-14'
   drogues-et-sexe-quels-liens-et-quelles-pratiques-fr:
     description: "Ressources sur les pratiques li\xE9s aux drogues et au sexe : \xEA\
       tre conscient des risques et maitriser les techniques pour les r\xE9duire. Comment\
@@ -3537,6 +3829,16 @@ all:
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/drogues-et-sexe-quels-liens-et-quelles-pratiques-fr.zip
     version: '2022-12-14'
+  drogues-le-proto-quelques-informations-fr:
+    description: "Ressources sur le protoxyde d'azote, aussi appel\xE9 gaz hilarant\
+      \ : ce que c'est, ses effets, ses cons\xE9quences."
+    language: fr
+    name: 'Drogues : le proto, quelques informations'
+    sha256sum: 9a3f7bd7deb14c0377fa42af3fc6399a32b7087d45bda76e52be81be6ced83e8
+    size: 3783625
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/drogues-le-proto-quelques-informations-fr.zip
+    version: '2023-03-14'
   droit-introduction-fr:
     description: "Contenus donnant des explications simples sur les fondements du\
       \ droit et pr\xE9sentant des textes fondateurs."
@@ -3556,6 +3858,18 @@ all:
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/droits-au-sejour-guyane-fr.zip
     version: '2022-12-14'
+  droits-d-auteur-et-licences-libres-a-l-ere-du-numerique-fr:
+    description: "Vid\xE9os documentaires, explicatives, tutos et fiches outils pour\
+      \ tout comprendre sur les enjeux de droits d'auteur, propri\xE9t\xE9 intellectuelle,\
+      \ licences et partage de la connaissance \xE0 l'\xE8re du num\xE9rique. \r\n\
+      Public cible : ados et adultes."
+    language: fr
+    name: "Droits d'auteur et licences libres \xE0 l'\xE8re du num\xE9rique"
+    sha256sum: 38d726e9351f2bc9d3506f018cdb63b2f539b9911d6f53a9a334331f8cf50e9a
+    size: 626661714
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/droits-d-auteur-et-licences-libres-a-l-ere-du-numerique-fr.zip
+    version: '2023-03-14'
   droits-de-l-enfant-fr:
     description: "Tu as des droits, apprends \xE0 les conna\xEEtre pour mieux les\
       \ d\xE9fendre."
@@ -3773,6 +4087,36 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/ecriture-et-litterature-francophone-en-afrique-gl-fr.zip
     version: '2019-12-19'
+  ecriture-et-poesie-niveau-1-s-initier-a-la-poesie-fr:
+    description: "Fiches d'activit\xE9 et contenus num\xE9riques pour d\xE9couvrir\
+      \ l'\xE9criture et la po\xE9sie."
+    language: fr
+    name: "Ecriture et po\xE9sie niveau 1 : s'initier \xE0 la po\xE9sie"
+    sha256sum: 06b5a5785d0b8126de6998da5122df12af11adc872a1a00984a7fb4742eff43d
+    size: 18883605
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/ecriture-et-poesie-niveau-1-s-initier-a-la-poesie-fr.zip
+    version: '2023-03-14'
+  ecriture-et-poesie-niveau-2-entrer-dans-l-ecriture-fr:
+    description: "Fiches d'activit\xE9 et contenus num\xE9riques pour d\xE9couvrir\
+      \ l'\xE9criture et la po\xE9sie."
+    language: fr
+    name: "Ecriture et po\xE9sie niveau 2 : entrer dans l'\xE9criture"
+    sha256sum: a31c1040db02b49e2ed99f3abe98f20451a750c59f2dd0ab81cfce14420c4257
+    size: 2980526
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/ecriture-et-poesie-niveau-2-entrer-dans-l-ecriture-fr.zip
+    version: '2023-03-14'
+  ecriture-et-poesie-niveau-3-ecrire-a-partir-de-ses-5-sens-fr:
+    description: "Fiches d'activit\xE9 et contenus num\xE9riques pour d\xE9couvrir\
+      \ l'\xE9criture et la po\xE9sie."
+    language: fr
+    name: "Ecriture et po\xE9sie niveau 3 : \xE9crire \xE0 partir de ses 5 sens"
+    sha256sum: fb19f774f6d0eb8bd220e7c8c80a15fa9a19e62538f454a820eb2e92b921b510
+    size: 1139168
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/ecriture-et-poesie-niveau-3-ecrire-a-partir-de-ses-5-sens-fr.zip
+    version: '2023-03-14'
   educacion-contar-leer-y-conocer-es:
     description: "Aprende a leer y a contar, fortalece tus conocimientos b\xE1sicos\
       \ sobre matem\xE1ticas, ciencias y el aprendizaje de la lectura"
@@ -3815,6 +4159,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/educacion-universo-es.zip
     version: '2019-09-16'
+  education-aux-medias-developper-l-esprit-critique-fr:
+    description: "S\xE9rie de vid\xE9os p\xE9dagogiques / documentaires tout public\
+      \ permettant de se questionner sur la v\xE9racit\xE9 des informations et des\
+      \ th\xE9ories, afin de forger son esprit critique. Au menu : paranormal, illusionnisme,\
+      \ croyance, neutralit\xE9, sciences et m\xE9dias, etc.\r\n(Z\xE9t\xE9tique th\xE9\
+      orique ou z\xE9t\xE9tique appliqu\xE9e)"
+    language: fr
+    name: "Education aux m\xE9dias - D\xE9velopper l'esprit critique"
+    sha256sum: ceafdb522e7ad76024d539922a5fc7d02a4143254e76bc9bfa28bfc52f8bf837
+    size: 2559754228
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/education-aux-medias-developper-l-esprit-critique-fr.zip
+    version: '2023-03-14'
   education-computer-science-dari-prs:
     description: "\u062F\u0627\u0646\u0634 \u06A9\u0627\u0645\u067E\u06CC\u0648\u062A\
       \u0631 \u062F\u0627\u0646\u0634 \u0627\u0633\u0627\u0633\u06CC  /Computer science\
@@ -3901,6 +4258,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/educational-videos-arabic-ar.zip
     version: '2020-07-03'
+  egalite-discrimination-genre-representation-stereotypes-ados-jeunes-metropole-fr:
+    description: "Ce package aborde la question de l'\xE9galit\xE9 femme/homme, du\
+      \ genre et de l'orientation sexuelle ainsi que des discriminations qui peuvent\
+      \ s'y rattacher. Il traite aussi les repr\xE9sentations et les st\xE9r\xE9otypes\
+      \ qui se rattachent \xE0 ces th\xE9matiques."
+    language: fr
+    name: "Egalit\xE9, discrimination, genre, repr\xE9sentation, st\xE9r\xE9otypes"
+    sha256sum: 9d0522373a2bb3fb1620e0bab1e09ed5f189cef4c867baf622c92423afefbf14
+    size: 1290648091
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/egalite-discrimination-genre-representation-stereotypes-ados-jeunes-metropole-fr.zip
+    version: '2023-03-14'
   electricite-installer-et-entretenir-des-panneaux-solaires-sikana-fr:
     description: "Vous d\xE9couvrirez dans ce programme d'\xE9lectricit\xE9, comment\
       \ exploiter les \xE9nergies renouvelables. Chaque vid\xE9o propose une \xE9\
@@ -4118,6 +4487,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/entrepreneurship-en.zip
     version: '2020-07-03'
+  exemples-de-cv-recherche-d-emploi-fr:
+    description: "Quelques mod\xE8les de curriculum vitae (CV) par type de poste,\
+      \ pour fournir des inspirations aux personnes en recherche d'emploi."
+    language: fr
+    name: Exemples de CV - Recherche d'emploi
+    sha256sum: 2326ed6476cb853e844370328646f76f96e92e400376940d17bbd9a805074d56
+    size: 3087628
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/exemples-de-cv-recherche-d-emploi-fr.zip
+    version: '2023-03-14'
   experiences-de-femmes-fr:
     description: "Femmes intellectuelles, femmes footballeuses, femmes soldats ou\
       \ femmes geeks. Vous trouverez ici du contenu sur l'immense diversit\xE9 d'exp\xE9\
@@ -4193,6 +4572,16 @@ all:
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/facts-and-stories-about-ukraine-uk.zip
     version: '2022-06-07'
+  faire-son-cv-et-sa-lettre-de-motivation-fr:
+    description: "Conseils et astuces pour r\xE9diger un curriculum vitae (CV)  et\
+      \ une lettre de motivation de qualit\xE9 afin de trouver un emploi ou un stage."
+    language: fr
+    name: Faire son CV et sa lettre de motivation
+    sha256sum: dde8fe707bbcf0d75bfe8fc8cd5ca1036a8ef43518a1bc98ffe24d92ae0daa73
+    size: 135758086
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/faire-son-cv-et-sa-lettre-de-motivation-fr.zip
+    version: '2023-03-14'
   familiarizza-col-disegno-it:
     description: 'Video per conoscere le diverse tecniche di disegno: prospettive,
       proporzione, uso della matita...'
@@ -4300,11 +4689,33 @@ all:
       \ en sant\xE9"
     language: fr
     name: "Fiches d'activit\xE9s Sant\xE9"
-    sha256sum: ebbd21f5b7a863b570eb264eddbce28b56d9719f70f7004a50e4515f5ad723cb
-    size: 15112456
+    sha256sum: 4b10fd0a2962f4fffd2a83ff4e0df2eda7b0f72040869eac265a9b8c79e8e3c1
+    size: 14115105
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/fiches-d-activites-sante-fr.zip
-    version: '2019-10-10'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/fiches-d-activites-sante-fr.zip
+    version: '2023-03-14'
+  fiches-d-activites-world-skills-france-fr:
+    description: "Un kit complet cr\xE9\xE9 par World Skills France pour accompagner\
+      \ les jeunes et les moins jeunes sur leur parcours d'orientation ou de r\xE9\
+      orientation professionnelle. Des guides m\xE9tiers et des activit\xE9s p\xE9\
+      dagogiques sont mis \xE0 la disposition des animateurs / enseignants."
+    language: fr
+    name: "Fiches d'activit\xE9s World Skills France"
+    sha256sum: 6fe86d1c4b742645c5fab7aab1027e4dc20c795894691d0f79aa792ba7fae1c3
+    size: 30188360
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/fiches-d-activites-world-skills-france-fr.zip
+    version: '2023-03-14'
+  fiches-d-animation-sur-la-sante-mentale-fr:
+    description: "Fiches d'animation pour les \xE9quipes p\xE9dagogiques et d'animation\
+      \ visant \xE0 aborder et comprendre ce qu'est la sant\xE9 mentale."
+    language: fr
+    name: "Fiches d'animation sur la sant\xE9 mentale"
+    sha256sum: 3f0c00ab3bde347473593faf97d7d148696e89f767dd3aaf94d7158faed79892
+    size: 8589993
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/fiches-d-animation-sur-la-sante-mentale-fr.zip
+    version: '2023-03-14'
   fiches-techniques-d-animation-guyane-fr:
     description: "Fiches techniques d'animation de promotion de la sant\xE9"
     language: fr
@@ -4444,6 +4855,46 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/fitness-for-kids-ar.zip
     version: '2019-11-21'
+  fle-alpha-ressources-pour-formateur-fra:
+    description: "Organisation des ressources pour les animateurs et formateurs FLE\
+      \ et alphab\xE9tisation"
+    language: fra
+    name: FLE / Alpha - Ressources pour formateur
+    sha256sum: 03ac8534266c29a0c4fff03fab4c1c4b9e534b7c6c8f349210e5f2dae83a1c05
+    size: 21896075
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/fle-alpha-ressources-pour-formateur-fra.zip
+    version: '2023-03-14'
+  fle-films-fr:
+    description: "Films & courts m\xE9trages, avec des fiches p\xE9dagogiques, destin\xE9\
+      s \xE0 travailler la compr\xE9hension orale et l'expression \xE9crite en cours\
+      \ de fran\xE7ais langue \xE9trang\xE8re (FLE)."
+    language: fr
+    name: FLE - Films
+    sha256sum: 318bba86abaa95ee54c37b865969613bebb08197c8503bab329b1255a44891a9
+    size: 756841570
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/fle-films-fr.zip
+    version: '2023-03-14'
+  fle-fr:
+    description: "Se familiariser avec la langue fran\xE7aise"
+    language: fr
+    name: "Fran\xE7ais langue \xE9trang\xE8re"
+    sha256sum: 756dd18eb19a7eea70e6772ad578df4b857ff57c2182148ae8b0c9a12d2d3e51
+    size: 104161029
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/fle-fr.zip
+    version: '2023-03-14'
+  fle-niveaux-3-et-4-fos-emploi-fra:
+    description: "FOS : Fran\xE7ais sur Objectif Sp\xE9cifique\r\nD\xE9roulement d'activit\xE9\
+      s pour r\xE9diger un CV, parler de son exp\xE9rience et de ses comp\xE9tences."
+    language: fra
+    name: "Apprenez le fran\xE7ais - Niveaux A1-A2 : FOS Emploi"
+    sha256sum: ad05b8c02a3bff28982d9d54fba414ec45b7b4544b76cc2cfc61c5eb0a220aac
+    size: 9745115
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/fle-niveaux-3-et-4-fos-emploi-fra.zip
+    version: '2023-03-14'
   focus-covid-deconstruire-les-fake-news-fr:
     description: "Comment v\xE9rifier les informations qui circulent sur la covid-19?\
       \ Que peut on croire?"
@@ -4622,6 +5073,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/from-our-community-rohingya-rhg.zip
     version: '2019-11-14'
+  gaspillage-alimentaire-fr:
+    description: "Dans le monde, le tiers des aliments destin\xE9s \xE0 la consommation\
+      \ humaine est gaspill\xE9. Mais pourquoi gaspille-t-on autant de nourriture\
+      \ ? Retrouvez ici  les explications sur les raisons de ce grand gaspillage et\
+      \ de nombreuses solutions pour moins gaspiller."
+    language: fr
+    name: "\xC7a suffit le g\xE2chis !"
+    sha256sum: 23bb0f850a646c8b86a7728d6fff7f540f38d2410145ab7f913cf8365e86d299
+    size: 77438231
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/gaspillage-alimentaire-fr.zip
+    version: '2023-03-14'
   gender-inequality-ar:
     description: "this package will talk about gender inequality and how it can effect\
       \ the community \u0633\u062A\u062A\u062D\u062F\u062B \u0647\u0630\u0647 \u0627\
@@ -4827,6 +5290,27 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/guides-en-ssraj-pour-les-leaders-religieux-rn.zip
     version: '2019-12-19'
+  guides-utilisation-du-site-pole-emploi-fr:
+    description: "Guides pour utiliser le site internet P\xF4le Emploi"
+    language: fr
+    name: "Guides utilisation du site P\xF4le Emploi"
+    sha256sum: a39459d4e009396fcd8b7b8c08b430c6c6465e963d0fa20374b3841c3dfcf492
+    size: 64481010
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/guides-utilisation-du-site-pole-emploi-fr.zip
+    version: '2023-03-14'
+  gynecologue-sage-femme-deroule-et-examen-de-consultation-fr:
+    description: "Ce paquet explique les diff\xE9rentes \xE9tapes d'une consultation\
+      \ gyn\xE9cologique et les diff\xE9rents examens qui peuvent \xEAtre faits par\
+      \ le/la gyn\xE9cologue/sage-femme. Il s'adresse aussi bien \xE0 toutes les femmes,\
+      \ d\xE8s la pubert\xE9."
+    language: fr
+    name: "Gyn\xE9cologue / Sage-femme : d\xE9roul\xE9 et examen de consultation"
+    sha256sum: 64755304e9f422bdc1a2a07263e7bcc8ac45ac622180ca42d5198f8854085a35
+    size: 37729238
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/gynecologue-sage-femme-deroule-et-examen-de-consultation-fr.zip
+    version: '2023-03-14'
   haircut-dari-prs:
     description: "\u062F\u0627\u0646\u0634 \u0627\u0633\u0627\u0633\u06CC \u0628\u0631\
       \u0634 \u0645\u0648 (\u0633\u0644\u0645\u0627\u0646\u06CC)/Haircut basic knowledge"
@@ -5373,15 +5857,19 @@ all:
   human-fr:
     description: "Compos\xE9 d\u2019images a\xE9riennes in\xE9dites et de t\xE9moignages\
       \ face \xE0 la cam\xE9ra, film\xE9s dans 60 pays pendant plus de 2 ans, le film\
-      \ documentaire de Yann Arthus-Bertrand dresse un portrait de l\u2019humanit\xE9\
-      \ d\u2019aujourd\u2019hui."
+      \ documentaire 'Human', en trois volumes, de Yann Arthus-Bertrand dresse un\
+      \ portrait de l\u2019humanit\xE9 d\u2019aujourd\u2019hui.\r\n\r\n'Home', premier\
+      \ film environnemental \xE0 avoir \xE9t\xE9 r\xE9alis\xE9 en utilisant uniquement\
+      \ la photographie a\xE9rienne, a \xE9t\xE9 enti\xE8rement tourn\xE9 dans les\
+      \ airs, film\xE9 dans 120 endroits et 50 pays. A \xE9t\xE9 r\xE9alis\xE9 par\
+      \ Yann Arthus-Bertrand qui y a travaill\xE9 gratuitement pendant 3 ans."
     language: fr
     name: Human
-    sha256sum: 5422b7ac5960af1ebc2674bb533c607acac9cd983fa84f7b1bf97d5ffed3a053
-    size: 733409449
+    sha256sum: 3e72c015863c434486c2d60721b3d93630745f83e4cbac52ad3c91f7213c35f8
+    size: 2054039014
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/human-fr.zip
-    version: '2020-02-28'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/human-fr.zip
+    version: '2023-03-14'
   huner-arts-kmr:
     description: "H\xEEnb\xFBna huner\xEA \xFB p\xEA\u015Fvebirina qabiliyet\xEAn\
       \ huner\xEE / Learning about art and develope art skills"
@@ -5541,6 +6029,21 @@ all:
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/impara-le-basi-in-italiano-it.zip
     version: '2022-12-30'
+  info-ou-intox-education-aux-medias-fr:
+    description: "\xAB Pensez toujours \xE0 v\xE9rifier avant de partager \xBB ! C\u2019\
+      est le r\xE9flexe que vous garderez en t\xEAte apr\xE8s avoir vu ces modules\
+      \ passionnants sur les meilleurs moyens de d\xE9tecter les images, sons et vid\xE9\
+      os que l\u2019on vous \xAB vend \xBB sur Internet et les r\xE9seaux sociaux\
+      \ afin de vous manipuler. Vous apprendrez \xE0 rep\xE9rer simplement, au moyen\
+      \ d'outils gratuits, o\xF9 et quand ces vid\xE9os ou photos ont \xE9t\xE9 prises\
+      \ et vous deviendrez incollable sur le sujet !"
+    language: fr
+    name: "Info ou Intox (Education aux m\xE9dias)"
+    sha256sum: b34405b66307ce8ff38b281c4756cdc3df65632415436f2f6833857d6cd582b7
+    size: 479893497
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/info-ou-intox-education-aux-medias-fr.zip
+    version: '2023-03-14'
   info-ou-intox-fr:
     description: "\xAB Pensez toujours \xE0 v\xE9rifier avant de partager \xBB ! C\u2019\
       est le r\xE9flexe que vous garderez en t\xEAte apr\xE8s avoir vu ces modules\
@@ -5792,6 +6295,29 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/instrumental-music-en.zip
     version: '2019-10-15'
+  internet-accros-au-smartphone-fr:
+    description: "Vid\xE9os de sensibilisation et explicatives sur notre rapport aux\
+      \ smartphones : pourquoi les applications sont-elles si addictives ? Quelle\
+      \ place donne-t-on \xE0 la vie en ligne dans notre quotidien ? Pourquoi les\
+      \ r\xE9seaux sociaux sont-ils si importants pour nous ?"
+    language: fr
+    name: 'Internet : accros au smartphone ?'
+    sha256sum: 295d52346fe130d091bd7ee4f2b7552bc311371edb76a63aaf659b581bbb9e62
+    size: 504092369
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/internet-accros-au-smartphone-fr.zip
+    version: '2023-03-14'
+  internet-bonnes-pratiques-de-navigation-ados-adultes-fr:
+    description: "Ressources \xE0 destination des adolescents et des adultes sur les\
+      \ bonnes pratiques de navigation sur internet afin d'avoir un comportement responsable\
+      \ : respect, confidentialit\xE9, etc."
+    language: fr
+    name: 'Internet : Bonnes pratiques de navigation ados/adultes'
+    sha256sum: 79dcb584393bfe50bed7f1d5f81ed08d1722c43e2c7f517563b00170323eac86
+    size: 26523159
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/internet-bonnes-pratiques-de-navigation-ados-adultes-fr.zip
+    version: '2023-03-14'
   internet-browsing-and-searching-ar:
     description: "\u0627\u0644\u062D\u0632\u0645\u0629 \u062D\u0648\u0644 \u0623\u0641\
       \u0636\u0644 \u0627\u0644\u0637\u0631\u0642 \u0644\u062A\u0635\u0641\u062D \u0627\
@@ -5806,6 +6332,53 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/internet-browsing-and-searching-ar.zip
     version: '2020-07-03'
+  internet-c-est-quoi-comment-ca-marche-fr:
+    description: "Vid\xE9os p\xE9dagogiques et explicatives sur le fonctionnement\
+      \ d'internet, tout public. On y d\xE9couvrira les aspects techniques d'internet\
+      \ de mani\xE8re vulgaris\xE9e afin de mieux comprendre les enjeux pratiques\
+      \ ainsi que les implications sur le net."
+    language: fr
+    name: "Internet : C'est quoi ? Comment \xE7a marche ?"
+    sha256sum: 1a6edd940380afd12cb46b534dc4cf0546ad06346ab330a75bc355353afde815
+    size: 372435060
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/internet-c-est-quoi-comment-ca-marche-fr.zip
+    version: '2023-03-14'
+  internet-cyberharcelement-et-cybersexisme-fr:
+    description: "Ressources pour comprendre ce que sont le cyberharc\xE8lement et\
+      \ le cybersexisme, comment les pr\xE9venir et faire face."
+    language: fr
+    name: "Internet : Cyberharc\xE8lement et cybersexisme"
+    sha256sum: fad022b3c9179606d981f65233a75a61a244393ffd528ae505228a2bc4973283
+    size: 4044249
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/internet-cyberharcelement-et-cybersexisme-fr.zip
+    version: '2023-03-14'
+  internet-cybersecurite-tracking-publicitaire-et-phishing-fr:
+    description: "Ressources \xE0 destination des adolescents et des adultes afin\
+      \ de comprendre les enjeux li\xE9s \xE0 la publicit\xE9 sur internet, le tracking,\
+      \ le marketing en ligne, jusqu'au phishing (hame\xE7onnage), afin d'\xEAtre\
+      \ conscient.e des risques, avoir un comportement responsable et pr\xE9venir\
+      \ le piratage ou les escroqueries."
+    language: fr
+    name: "Internet : Cybers\xE9curit\xE9, tracking publicitaire et phishing"
+    sha256sum: 8132202d503611b831588b19d2256f8cbdc53ce736e5d4768d4f7c13e39d8f4b
+    size: 696582
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/internet-cybersecurite-tracking-publicitaire-et-phishing-fr.zip
+    version: '2023-03-14'
+  internet-en-contexte-professionnel-fr:
+    description: "Vid\xE9os conseils \xE0 destination des professionnels (entrepreneurs\
+      \ ou salari\xE9s) souhaitant acqu\xE9rir des comp\xE9tences sp\xE9cifiques pour\
+      \ mieux performer dans leur activit\xE9 professionnelle gr\xE2ce aux possibilit\xE9\
+      s d'internet."
+    language: fr
+    name: Internet en contexte professionnel
+    sha256sum: 1f5e14801ad00a40505b843484a1c5d21c8538e5dab4c4f0c5e2567103886c18
+    size: 4718826
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/internet-en-contexte-professionnel-fr.zip
+    version: '2023-03-14'
   internet-les-autres-et-moi-les-bons-usages-fr:
     description: "Le num\xE9rique est aujourd'hui omnipr\xE9sent dans notre quotidien.\
       \ Ma\xEEtriser les usages d'Internet est devenue une comp\xE9tence essentielle\
@@ -6223,6 +6796,15 @@ all:
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/kit-de-l-animateur-package-redecoupe-a-remplacer-par-kit-de-l-animateur-part-1-to-11-fr.zip
     version: '2021-03-09'
+  kit-de-l-animateur-part-1-guide-de-l-animateur-ideas-box-bsf-fr:
+    description: "Ressources \xE0 destination des animateurs Ideas Box"
+    language: fr
+    name: Kit de l'animateur Part. 1 - Guide de l'animateur Ideas Box (BSF)
+    sha256sum: 132801895cb045895092e2aa588213a5306abe8a619952a80428187fecda639a
+    size: 156352086
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/kit-de-l-animateur-part-1-guide-de-l-animateur-ideas-box-bsf-fr.zip
+    version: '2023-03-14'
   kitabu-watoto-children-s-books-sw:
     description: Kitabu Watoto (Children's books). Pictures books for childrens in
       Kiswahili, to read or to be read.
@@ -6317,6 +6899,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/l-entreprenariat-au-burundi-gutunganya-imigambi-muburundi-fr.zip
     version: '2020-02-14'
+  l-entretien-d-embauche-de-a-a-z-fr:
+    description: Des ressources pour vous accompagner dans vos entretiens d'embauche.
+    language: fr
+    name: "L\u2019entretien d\u2019embauche de A \xE0 Z"
+    sha256sum: 6698c27b2f69a6873b174c9a81517b3a574d0b9a019ae69d9f732ae1c45860f4
+    size: 435914770
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/l-entretien-d-embauche-de-a-a-z-fr.zip
+    version: '2023-03-14'
   l-esclavage-dans-les-caraibes-fr:
     description: "Information sur l'histoire esclavagiste dans les Cara\xEFbes"
     language: fr
@@ -6989,6 +7580,18 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/les-dangers-de-la-consommation-d-alcool-et-de-stupe-fiants-gl-rn.zip
     version: '2020-08-04'
+  les-differents-professionnels-de-sante-quels-sont-leurs-roles-fr:
+    description: "Ce paquet permet de comprendre le r\xF4le et les missions de chaque\
+      \ professionnel de sant\xE9, et l'int\xE9r\xEAt de les consulter. Il est \xE0\
+      \ destination des adolescents et des adultes (femme, homme)."
+    language: fr
+    name: "Les diff\xE9rents professionnels de sant\xE9 : quels sont leurs r\xF4les\
+      \ ?"
+    sha256sum: 36914845d16f44675e843d10c0d361f3636685819ffb77aa779b685ced1bb3d0
+    size: 4202786
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/les-differents-professionnels-de-sante-quels-sont-leurs-roles-fr.zip
+    version: '2023-03-14'
   les-effets-et-les-dangers-de-la-consommation-d-alcool-et-de-drogues-fr:
     description: "Identifier les effets de l'alcool, des drogues et pr\xE9venir les\
       \ risques."
@@ -7005,11 +7608,11 @@ all:
       \ sur nos vies."
     language: fr
     name: "Les \xE9motions expliqu\xE9es aux enfants et ados"
-    sha256sum: 88a125b18fce8ec0adff1647da6cc93e27d3355c1e045f1389f348b1e6a4be27
-    size: 302555948
+    sha256sum: 31a511fdafc1ce442ef31044dd2cf745635c576651ffe04b7235e295b5530489
+    size: 294363872
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/les-emotions-expliquees-aux-enfants-et-ados-associer-avec-938-fr.zip
-    version: '2021-04-21'
+    version: '2023-03-14'
   les-enfants-apprennent-le-francais-fr:
     description: "Quelques bases pour progresser en fran\xE7ais."
     language: fr
@@ -7479,6 +8082,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mecanique-automobile-tutoriels-videos-fr.zip
     version: '2020-09-01'
+  medecin-deroule-et-examen-de-consultation-adulte-fr:
+    description: "Ce paquet explique les diff\xE9rentes \xE9tapes d'une consultation\
+      \ m\xE9dicale et les diff\xE9rents examens qui peuvent \xEAtre faits par le\
+      \ m\xE9decin. Il s'adresse aux adultes (femme, homme)."
+    language: fr
+    name: "M\xE9decin : d\xE9roul\xE9 et examen de consultation (adulte)"
+    sha256sum: b85dd043fca8e46137d6a53afa284df95e5a6799e33c5a0ccf2e9d41b84b3165
+    size: 29378174
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/medecin-deroule-et-examen-de-consultation-adulte-fr.zip
+    version: '2023-03-14'
   memoire-d-un-continent-emission-sur-le-patrimoine-africain-rfi-fr:
     description: "\xC9mission RFI : \"M\xE9moire d'un continent\". \xC9mission d'information\
       \ sur les sujets touchant au patrimoine du continent africain."
@@ -7602,6 +8216,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/migrations-a-mayotte-fr.zip
     version: '2019-12-16'
+  mise-en-page-de-document-indesign-fr:
+    description: "Cet outil vous permettra de mettre en page vos documents : catalogues,\
+      \ magazines, plaquettes commerciales, et d\xE9pliants. \r\nSon avantage : traiter\
+      \ des fichiers initialement r\xE9alis\xE9s avec Photoshop, Illustrator etc."
+    language: fr
+    name: Mise en page de document - InDesign
+    sha256sum: 26843e597348d7388e0de66acfa843c1a3cd8f0755b9851223b9de8088e00b4d
+    size: 610886741
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/mise-en-page-de-document-indesign-fr.zip
+    version: '2023-03-14'
   mode-fashion-kmr:
     description: "Niv\xEEsandin \xFB rexnekirina li ser modey\xEA / Writing and criticising\
       \ about fashion"
@@ -7708,15 +8333,16 @@ all:
     version: '2020-09-01'
   montez-votre-projet-professionnel-fr:
     description: "Vous cherchez un emploi ou vous souhaitez vous reconvertir ? Vous\
-      \ trouverez ici de quoi vous aider \xE0 identifier vos comp\xE9tences, pr\xE9\
-      parer une candidature ou un entretien d'embauche."
+      \ trouverez ici des ressources pour vous aider dans l'identification de votre\
+      \ projet professionnel en lien avec vos comp\xE9tences, vos aspirations et le\
+      \ march\xE9 du travail, ainsi que des cl\xE9s pour le mener \xE0 bien."
     language: fr
     name: Montez votre projet professionnel
-    sha256sum: b4de99ee2d2b28b3ba1f35b0407b0a5240a5eabe8d09e7d0c2537ed3533acea4
-    size: 1100701342
+    sha256sum: 4a766f45e9cc461c88a4c05d141259a898b9a3bf2e4ef159b7b89905afad9249
+    size: 1872855891
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/montez-votre-projet-professionnel-fr.zip
-    version: '2019-09-16'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/montez-votre-projet-professionnel-fr.zip
+    version: '2023-03-14'
   mooc-droit-international-et-droit-compare-associer-avec-901-a-908-fr:
     description: "Droit International et droit compar\xE9 - MOOC de l'\xC9cole normale\
       \ sup\xE9rieure"
@@ -7763,6 +8389,43 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mooc-english-for-journalism-en.zip
     version: '2020-07-03'
+  mooc-fle-niveau-debutant-a1-fr:
+    description: "Vous voulez vivre en France ? Vous voulez parler en fran\xE7ais\
+      \ pour communiquer au quotidien et r\xE9aliser vos d\xE9marches administratives\
+      \ ? Ce cours int\xE8gre des vid\xE9os socioculturelles permettant d'am\xE9liorer\
+      \ votre lexique et votre compr\xE9hension, ainsi que des points de grammaire\
+      \ et de phon\xE9tique."
+    language: fr
+    name: "MOOC - FLE - Niveau d\xE9butant (A1)"
+    sha256sum: e1806011073e30e03a611b9e83e863dc815882b3e4fa7bf313b8f3824b9c6b79
+    size: 3378181237
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/mooc-fle-niveau-debutant-a1-fr.zip
+    version: '2023-03-14'
+  mooc-fle-niveau-elementaire-a2-fr:
+    description: "Vous allez vous installer en France ou vous \xEAtes d\xE9j\xE0 sur\
+      \ le territoire fran\xE7ais ? Vous avez besoin de progresser en fran\xE7ais\
+      \ pour faciliter votre vie au quotidien et vos d\xE9marches administratives\
+      \ ? Alors ce cours est fait pour vous!"
+    language: fr
+    name: "MOOC - FLE - Niveau \xE9l\xE9mentaire (A2)"
+    sha256sum: 1577daea1b3ec3f9196df7ab019c22ebed0ce9c05971f0284d828c8fbd196aab
+    size: 508872220
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/mooc-fle-niveau-elementaire-a2-fr.zip
+    version: '2023-03-14'
+  mooc-fle-niveau-intermediaire-b1-fr:
+    description: "Vous allez vous installer en France ou vous \xEAtes d\xE9j\xE0 sur\
+      \ le territoire fran\xE7ais ? Vous avez besoin de progresser en fran\xE7ais\
+      \ pour faciliter votre vie au quotidien et vos d\xE9marches administratives\
+      \ ? Alors ce cours est fait pour vous !"
+    language: fr
+    name: "MOOC - FLE - Niveau interm\xE9diaire (B1)"
+    sha256sum: a3fc791eb72fe332caf3f50b83716799a29caf038024f8367088dc4059a93429
+    size: 580843565
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/mooc-fle-niveau-intermediaire-b1-fr.zip
+    version: '2023-03-14'
   mooc-l-internationalisation-des-droits-de-l-homme-associer-avec-901-a-908-fr:
     description: MOOC - L'internationalisation des droits de l'homme
     language: fr
@@ -8090,6 +8753,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/mooc-pour-comprendre-les-energies-marines-fr.zip
     version: '2020-11-02'
+  mooc-reussir-sa-vie-professionnelle-fr:
+    description: "Ce MOOC du CNAM  aborde les qualit\xE9s \xE0 avoir pour travailler\
+      \ son employabilit\xE9 et r\xE9ussir sa vie professionnelle."
+    language: fr
+    name: "MOOC R\xE9ussir sa vie professionnelle"
+    sha256sum: bd8b5e93d32ce4edaa1795661cf340612ded022d4a3069d24daed81b2b9ad79f
+    size: 1272405416
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/mooc-reussir-sa-vie-professionnelle-fr.zip
+    version: '2023-03-14'
   motherhood-and-parenting-ar:
     description: "Useful Motherhood and Parenting tips and information. Helping parents\
       \ dealing with their children and having a healthy relationship.// \u0646\u0635\
@@ -8371,6 +9044,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/nursery-rhymes-en.zip
     version: '2020-07-03'
+  nutrition-bien-se-nourrir-adolescents-fr:
+    description: Manger sain, bien se nourrir, comprendre comment fonctionne le corps
+      et ce dont il a besoin
+    language: fr
+    name: 'Nutrition : Bien se nourrir (adolescents)'
+    sha256sum: 7c190aabc85a81b7f82e1d79bb10054967aa5d0b67e75e23f4c8a6d778b7569a
+    size: 331651410
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/nutrition-bien-se-nourrir-adolescents-fr.zip
+    version: '2023-03-14'
   nutrition-bien-se-nourrir-fr:
     description: "Qu'est ce que \xE7a veut dire \"bien manger\" ? Comment am\xE9liorer\
       \ ses r\xE9flexes d'alimentation pour se sentir mieux et prendre soin de sa\
@@ -8403,6 +9086,45 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/nutrition-fr.zip
     version: '2019-09-18'
+  offres-de-soins-et-de-services-en-france-adulte-fr:
+    description: "Ce paquet recense les diff\xE9rentes structures de soins et de service\
+      \ en ville et \xE0 l'h\xF4pital, en France. Il est \xE0 destination des adultes\
+      \ (femmes ou hommes)."
+    language: fr
+    name: Offres de soins et de services en France (adulte)
+    sha256sum: f8d0c8b0357e4dba4189b3fcc03ea1f5c094275a4878413cde787245edc15d6b
+    size: 92899567
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/offres-de-soins-et-de-services-en-france-adulte-fr.zip
+    version: '2023-03-14'
+  ordinateur-les-bases-pour-s-en-servir-niveau-2-fr:
+    description: "Tutos vid\xE9os pour les d\xE9butants sur l'ordinateur, afin de\
+      \ prendre en main cet \xE9quipement c\xF4t\xE9 software. On y apprendra les\
+      \ bases des astuces avec les accessoires (cl\xE9 USB, clavier), comment t\xE9\
+      l\xE9charger des photos, installer un programme, rep\xE9rer un virus, etc. Tout\
+      \ public.\r\n\r\nS'accompagne du paquet \"Ordinateur : les bases pour s'en servir\
+      \ - niveau 1\" pour les premi\xE8res \xE9tapes."
+    language: fr
+    name: 'Ordinateur : les bases pour s''en servir - niveau 2'
+    sha256sum: 438a015fa3719bd1029607460e8bbc45a63318b3f1c32c1c3c425d117b7b39b8
+    size: 270682810
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/ordinateur-les-bases-pour-s-en-servir-niveau-2-fr.zip
+    version: '2023-03-14'
+  ordinateur-tout-savoir-sur-les-systemes-d-exploitation-fr:
+    description: "Les termes Linux, Windows, MacOS vous parlent mais vous n'\xEAtes\
+      \ pas s\xFBrs de vous ? Vous souhaitez acheter un ordinateur mais nous h\xE9\
+      sitez ? Pourquoi tant d'oppositions entre les camps ? \r\nRetrouvez toutes les\
+      \ r\xE9ponses \xE0 vos questions dans ces vid\xE9os sur les syst\xE8mes d'exploitation\
+      \ (= ensemble de programmes qui dirige l'utilisation des capacit\xE9s d'un ordinateur\
+      \ par des logiciels applicatifs).\r\nTout public."
+    language: fr
+    name: "Ordinateur : tout savoir sur les syst\xE8mes d'exploitation"
+    sha256sum: de0906238c5b5737a31c50cfae07ab8406101d8414edba450d5e8524c5f49eda
+    size: 122586221
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/ordinateur-tout-savoir-sur-les-systemes-d-exploitation-fr.zip
+    version: '2023-03-14'
   orientation-professionnelle-fr:
     description: "Vid\xE9os permettant de d\xE9couvrir diff\xE9rents m\xE9tiers"
     language: fr
@@ -8682,6 +9404,26 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/plomberie-tutoriels-videos-et-documentation-fr.zip
     version: '2020-09-04'
+  podcast-kiffe-ta-race-fr:
+    description: "Un podcast pour explorer les questions raciales sur le mode de la\
+      \ conversation et du v\xE9cu."
+    language: fr
+    name: Podcast - Kiffe ta race
+    sha256sum: f7f209f19360daa7461ffa39b14803415c9486f3d6a29fd8a61fdd920f6061f5
+    size: 506542162
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/podcast-kiffe-ta-race-fr.zip
+    version: '2023-03-14'
+  podcast-les-couilles-sur-la-table-fr:
+    description: "Un podcast qui aborde \xE0 chaque \xE9mission un aspect des masculinit\xE9\
+      s contemporaines avec un invit\xE9."
+    language: fr
+    name: Podcast - Les couilles sur la table
+    sha256sum: 176c60c9d0a72add58b6378564824003c5f931c81d9e41cc386a04626bd0d2e5
+    size: 803140734
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/podcast-les-couilles-sur-la-table-fr.zip
+    version: '2023-03-14'
   podcast-ma-vie-d-ado-fr:
     description: "Dans Ma vie d'ado, tu vas entendre des coll\xE9giens parler de tout\
       \ et surtout d'eux, de leurs r\xE9actions et de leurs sentiments au fil du temps.\
@@ -8690,11 +9432,31 @@ all:
       \ quoi !\r\nUn podcast r\xE9alis\xE9 par Okapi."
     language: fr
     name: Podcast Ma vie d'ado
-    sha256sum: 1c431e270113656a7018a261870afec7bf1cc3fec96c2c524abcae85e5419ebb
-    size: 940922900
+    sha256sum: 54139a574b454c6b0cf273cb81249fb3cf0ee4623258878a750ae2e2570e0796
+    size: 940922060
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/podcast-ma-vie-d-ado-fr.zip
-    version: '2021-02-08'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/podcast-ma-vie-d-ado-fr.zip
+    version: '2023-03-14'
+  podcast-miroir-miroir-fr:
+    description: "Un podcast sur Une \xE9mission sur les repr\xE9sentations, la beaut\xE9\
+      \ et le corps."
+    language: fr
+    name: Podcast - Miroir Miroir
+    sha256sum: 1329da05ec30a06ac6f00f08448c8fe9f09dffd8e36c7ca8387f87b29accef6b
+    size: 1062248289
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/podcast-miroir-miroir-fr.zip
+    version: '2023-03-14'
+  podcast-une-sacree-paire-d-ovaires-fr:
+    description: "Un podcast qui dresse des portraits de femmes du monde entier. Des\
+      \ femmes artistes, activistes, \xE9cologistes, autrices, actrices..."
+    language: fr
+    name: "Podcast - Une sacr\xE9e paire d'ovaires"
+    sha256sum: 043edeca210730901cf9d46ea81af9f0c1b5c598006cb50992826e199d933f5b
+    size: 484537636
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/podcast-une-sacree-paire-d-ovaires-fr.zip
+    version: '2023-03-14'
   poesie-et-slam-en-shimaore-411:
     description: "Des po\xE8mes en maorais pr\xE9sent\xE9 par l\u2019association Shim\xE9"
     language: '411'
@@ -8773,17 +9535,17 @@ all:
     version: '2022-12-30'
   pratiquer-la-communication-non-violente-fr:
     description: "La Communication Non Violente (CNV) \xE0 pour but de pacifier nos\
-      \ communications en rempla\xE7ant tout jugement par une observation objective,\
-      \ en particulier les jugements sur son interlocuteur, et en ne parler que de\
-      \ ce que l'on ressent, afin de permettre \xE0 son interlocuteur de mieux nous\
-      \ comprendre."
+      \ communications en rempla\xE7ant tout jugement par une observation objective\
+      \ (en particulier les jugements sur son interlocuteur) et \xE0 ne parler que\
+      \ de ce que l'on ressent, afin de permettre \xE0 son interlocuteur de mieux\
+      \ nous comprendre."
     language: fr
     name: Pratiquer la Communication Non Violente
-    sha256sum: d16d45d4d84defb1197aedc47a8ae6b59237f860074ce6571de8877be02eeaa4
-    size: 646938108
+    sha256sum: 9fb7dc1a386bbeb9c228b907cad5f05e97f7da1b742f5c2aff8adc747803b51e
+    size: 755142330
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/pratiquer-la-communication-non-violente-fr.zip
-    version: '2020-08-04'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/pratiquer-la-communication-non-violente-fr.zip
+    version: '2023-03-14'
   pratiques-et-usages-du-numerique-fr:
     description: "Pratiques et usages du num\xE9rique regroupe les vid\xE9os concernant\
       \ notamment l'\xE9conomie du num\xE9rique, les droits d'auteur, la citoyennet\xE9\
@@ -8826,6 +9588,19 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/prends-soin-de-toi-enfants-ado-fr.zip
     version: '2019-09-18'
+  preparation-sportive-fr:
+    description: "Vous trouverez ici de nombreux exercices, pour bien se pr\xE9parer\
+      \ avant une s\xE9ance de sport et bien r\xE9cup\xE9rer apr\xE8s.\r\n1. Suivre\
+      \ une s\xE9ance d'\xE9chauffement\r\n2. Exercices d'assouplissement articulaire\r\
+      \n3. Exercices de renforcement musculaire\r\n4. Exercices cardio \r\n5. S\xE9\
+      ance d'\xE9tirement"
+    language: fr
+    name: "Pr\xE9paration sportive"
+    sha256sum: 5db67fa3f9cc35094488c512eab7c5b465c06fb2151d100d4c7431dade99361a
+    size: 254630327
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/preparation-sportive-fr.zip
+    version: '2023-03-14'
   preparing-for-major-disasters-and-natural-catastrophes-en:
     description: The sixteen simple videos in this program will take you through everything
       you need to know to deal with a range of different scenarios and show you how
@@ -9129,6 +9904,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/puberte-fr.zip
     version: '2019-12-16'
+  puberte-image-du-corps-ados-jeunes-metropole-fr:
+    description: "Ce package est destin\xE9 aux adolescents et jeunes adultes. Il\
+      \ aborde la question de l'image du corps, de l'image de soi et de son acceptation."
+    language: fr
+    name: "Pubert\xE9 : image du corps"
+    sha256sum: 4815d7495e920775dd1634a04d1f2622eca8a0b4890f35c9e4548876ab9b8d78
+    size: 292407399
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/puberte-image-du-corps-ados-jeunes-metropole-fr.zip
+    version: '2023-03-14'
   puberte-sexualite-fr:
     description: "Contenus relatif \xE0 la pubert\xE9, sur les transformations du\
       \ corps, les premiers rapports sexuels, la contraception..."
@@ -9178,6 +9963,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/qu-est-ce-que-ca-veut-dire-etre-francais-fr.zip
     version: '2021-02-08'
+  qu-est-ce-que-la-sante-fiches-d-activites-fr:
+    description: "Ce paquet est \xE0 destination des animateurs en sant\xE9 afin de\
+      \ les outiller pour mener des activit\xE9s avec des jeunes ou des adultes autour\
+      \ de la notion de sant\xE9."
+    language: fr
+    name: "Qu'est-ce que la sant\xE9 ? - Fiches d'activit\xE9s"
+    sha256sum: 03ebd86e9c4def052ff6a7c2eccae0c476697fb82ed9d1d49e920d498d6f33f4
+    size: 66060980
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/qu-est-ce-que-la-sante-fiches-d-activites-fr.zip
+    version: '2023-03-14'
   reading-and-writing-games-en:
     description: You will find within this package games that will enable you to exercise
       your reading and writing abilities in an amusing way.
@@ -9322,17 +10118,26 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/rencontre-avec-des-professionnels-de-saint-martin-fr.zip
     version: '2021-02-08'
+  renforcement-de-la-maitrise-du-francais-regles-d-orthographe-fr:
+    description: "Renforcer la ma\xEEtrise de la langue fran\xE7aise \xE0 l'\xE9crit"
+    language: fr
+    name: "Renforcement de la ma\xEEtrise du fran\xE7ais - R\xE8gles d'orthographe"
+    sha256sum: 157818d0bfeecf7174ea8d6819d1efbcdfe7dfa874c97d97b7deddaab85a8619
+    size: 536706117
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/renforcement-de-la-maitrise-du-francais-regles-d-orthographe-fr.zip
+    version: '2023-03-14'
   renseignez-vous-sur-les-demarches-administratives-fr:
     description: "Retrouvez ici quelques guides pour vous aider \xE0 vous rep\xE9\
       rer dans le labyrinthe des d\xE9marches administratives. Pour d\xE9fendre ses\
       \ droits, il faut les conna\xEEtre et les comprendre !"
     language: fr
     name: "Renseignez-vous sur les d\xE9marches administratives"
-    sha256sum: 9ccced39a13c620385a8948b997029870754e59d199398fa285a8124b0669cab
-    size: 98780198
+    sha256sum: 1d2396d7b7dfb2eebca43f82658d77b64e6276d292fad29362642e71086e34d7
+    size: 92556001
     type: zipped-medias
-    url: http://packages.ideascube.org/omeka/renseignez-vous-sur-les-demarches-administratives-fr.zip
-    version: '2019-09-17'
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/renseignez-vous-sur-les-demarches-administratives-fr.zip
+    version: '2023-03-14'
   ressources-pour-les-fiches-activites-pour-le-projet-ministere-de-la-culture-2-fr:
     description: "Des ressources pour mettre en place des activit\xE9s."
     language: fr
@@ -9442,6 +10247,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sante-les-bases-fr.zip
     version: '2019-09-18'
+  sante-mentale-fr:
+    description: "Ce paquet propose plusieurs types de ressources sur la question\
+      \ de la sant\xE9 mentale et les principaux troubles psychiques ainsi que sur\
+      \ les prises en charge et les traitements."
+    language: fr
+    name: "Sant\xE9 mentale"
+    sha256sum: 0952679e9d78f106dc0651c30e76acffcc743d58a3427b84d9b5e3309ad5deb9
+    size: 19007892
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/sante-mentale-fr.zip
+    version: '2023-03-14'
   science-burmese-mm:
     description: '-'
     language: mm
@@ -9528,6 +10344,17 @@ all:
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/scopri-la-storia-del-europa-e-dell-italia-it.zip
     version: '2022-12-30'
+  se-concentrer-se-motiver-perseverer-fr:
+    description: "Ressources et vid\xE9os conseils \xE0 destination des jeunes et\
+      \ des adultes pour gagner en concentration, se motiver et pers\xE9v\xE9rer dans\
+      \ sa vie personnelle et professionnelle."
+    language: fr
+    name: "Se concentrer, se motiver, pers\xE9v\xE9rer"
+    sha256sum: 4de49f6d48841ca94d869cdd2ca7bb48f4dbc38cc9050912e724537d3c18f2a0
+    size: 251443228
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/se-concentrer-se-motiver-perseverer-fr.zip
+    version: '2023-03-14'
   se-preparer-a-une-catastrophe-fr:
     description: "En 10 ans, le nombre de catastrophes naturelles li\xE9es au r\xE9\
       chauffement climatique a augment\xE9 de 60%. 1 personne sur deux est susceptible\
@@ -9550,6 +10377,21 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/se-prote-ger-du-vih-sida-et-des-ist-kwirinda-vih-sida-n-inrwara-zifatira-mubihimba-vyirondoka-rn.zip
     version: '2020-02-14'
+  seances-de-yoga-fr:
+    description: "Virginie Duval professeur de yoga et fondatrice de Dfine Yoga offre\
+      \ des exercices de yoga pour r\xE9duire le stress et promouvoir un meilleur\
+      \ sommeil.\r\nNotre objectif est de cr\xE9er les meilleures vid\xE9os de yoga\
+      \ et d'offrir une grande diversit\xE9 afin de vous accompagner \xE0 d\xE9buter\
+      \ votre pratique, \xE0 \xEAtre constante, \xE0 avoir du plaisir et surtout \xE0\
+      \ obtenir des r\xE9sultats comme la r\xE9duction du stress, une augmentation\
+      \ d'\xE9nergie et une meilleure posture."
+    language: fr
+    name: "S\xE9ances de Yoga"
+    sha256sum: ca02456eb8a6593ef1c2afc1ce0fedb725c21aa22d3e42ec461487a849ba712a
+    size: 2953167240
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/seances-de-yoga-fr.zip
+    version: '2023-03-14'
   securite-et-sante-apprendre-a-donner-les-premiers-secours-gl-fr:
     description: Apprenez comment apporter les premiers secours en cas d'accidents.
     language: fr
@@ -9559,6 +10401,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/securite-et-sante-apprendre-a-donner-les-premiers-secours-gl-fr.zip
     version: '2019-12-19'
+  securite-routiere-connaissez-vous-les-risques-fr:
+    description: "Messages de pr\xE9vention routi\xE8re au sujet de la vitesse, l'usage\
+      \ des stup\xE9fiants, la conduite sans assurance, la conduite sans permis, le\
+      \ d\xE9lit de fuite."
+    language: fr
+    name: Connaissez-vous les risques ?
+    sha256sum: 78b1e301914a72dd7ef68377d24abf60d2c7dfd4dfa98a2c20c9e04784e1b2ed
+    size: 142267082
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/securite-routiere-connaissez-vous-les-risques-fr.zip
+    version: '2023-03-14'
   self-development-ar:
     description: "Discover new ways of thinking that could help you improve your life\
       \ and motivate you to be a better version of yourself.//  \u0627\u0643\u062A\
@@ -9642,6 +10495,17 @@ all:
     type: zipped-medias
     url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/series-de-documents-du-becepfgf-sur-la-pedagogie-de-l-integration-burundi-fr.zip
     version: '2021-03-22'
+  service-civique-fr:
+    description: "Vid\xE9os explicatives et fiches techniques pr\xE9sentant le service\
+      \ civique (dispositif de volontariat de droit fran\xE7ais), \xE0 destination\
+      \ des jeunes"
+    language: fr
+    name: Service civique
+    sha256sum: 8cf5a4eca17ba3a71e002f1f28f8e56bd163c6289afd57dfe2e80eee7da63336
+    size: 12150855
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/service-civique-fr.zip
+    version: '2023-03-14'
   sewing-embrodery-en:
     description: "Learn to sew by hand and machine\r\nLearn many embrodery pattern"
     language: en
@@ -9756,6 +10620,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/some-science-fun-with-salam-ar.zip
     version: '2019-11-21'
+  sommeil-adolescents-fr:
+    description: "Comprendre \xE0 quoi sert le sommeil, pourquoi on r\xEAve et pourquoi\
+      \ est-il important de bien dormir?"
+    language: fr
+    name: Sommeil (adolescents)
+    sha256sum: 3df7ae307abc993fdc5990522f94d09b59a702e56796ce686a5f9e8892c152cf
+    size: 799101959
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/sommeil-adolescents-fr.zip
+    version: '2023-03-14'
   sommeil-enfants-fr:
     description: "Comprendre \xE0 quoi sert le sommeil, pourquoi on r\xEAve?"
     language: fr
@@ -9874,6 +10748,29 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/sports-enfants-ados-fr.zip
     version: '2019-10-08'
+  systeme-de-sante-france-generalites-fr:
+    description: "Ce paquet aborde le fonctionnement du syst\xE8me de sant\xE9 en\
+      \ France : s\xE9curit\xE9 sociale, mutuelles, remboursement des frais,  dispositifs\
+      \ de prise en charge, parcours coordonn\xE9, Dossier M\xE9dical Partag\xE9 (DMP),\
+      \ dispositifs de gratuit\xE9\u2026 Il s'adresse aux personnes qui d\xE9couvrent\
+      \ le syst\xE8me de sant\xE9 fran\xE7ais (niveau d\xE9butant)."
+    language: fr
+    name: "Syst\xE8me de sant\xE9 France - G\xE9n\xE9ralit\xE9s"
+    sha256sum: b64926ed202149fc1fdc8f838209a22c74d5b4b179583aefb4b35b96eda2d082
+    size: 119877300
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/systeme-de-sante-france-generalites-fr.zip
+    version: '2023-03-14'
+  tabac-quelques-informations-fr:
+    description: "D\xE9couvre ici des informations utiles sur le tabac et les effets\
+      \ de sa consommation sur ton organisme et ta sant\xE9"
+    language: fr
+    name: Tabac - Quelques informations
+    sha256sum: fb990fab939b21afbe6bac123e3d4501ef29cbba7fab7588fda12b1ead4a588a
+    size: 517412578
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/tabac-quelques-informations-fr.zip
+    version: '2023-03-14'
   talented-thinker-club-ar:
     description: Short animation movies that carry a meaningful message.
     language: ar
@@ -9927,6 +10824,17 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/technical-support-multilanguage-rhg.zip
     version: '2019-11-14'
+  techniques-de-recherche-d-emploi-fr:
+    description: "Quelques conseils \xE0 destination des jeunes et des adultes pour\
+      \ rechercher un stage ou un emploi : comment utiliser les outils num\xE9riques\
+      \ et internet \xE0 bon escient, comment mobiliser son r\xE9seau, etc."
+    language: fr
+    name: Techniques de recherche d'emploi
+    sha256sum: e6b10cc3b6e202f4226a55509fa9b960cf1587370beb807302105d8058dfc3d3
+    size: 1101574404
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/techniques-de-recherche-d-emploi-fr.zip
+    version: '2023-03-14'
   technology-ar:
     description: "Learn about different topics in technology./ \u062A\u0639\u0631\u0641\
       \ \u0639\u0646 \u0645\u0648\u0627\u0636\u064A\u0639 \u0645\u062E\u062A\u0644\
@@ -10064,6 +10972,15 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/transformation-agro-alimentaire-fr.zip
     version: '2020-08-04'
+  troubles-alimentaires-fr:
+    description: Anorexie, boulimie, quels sont ces troubles de l'alimentation?
+    language: fr
+    name: Les troubles du comportement alimentaire
+    sha256sum: bfd1a4a7a5053dfdaba039dfbc8410ebfeb777d6dee94694216346e61ddd0339
+    size: 258146882
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/troubles-alimentaires-fr.zip
+    version: '2023-03-14'
   tutorials-for-using-programs-en:
     description: It explains basic electronic components and software like inkscape
       - gimp - blender - scribus - raspberry pi - audacity - DaVinci - krita
@@ -10249,6 +11166,16 @@ all:
     type: zipped-medias
     url: http://packages.ideascube.org/omeka/vivre-avec-le-vih-sida-kubana-n-umugera-wa-sida-rn.zip
     version: '2020-02-14'
+  vivre-en-france-se-loger-da-fr:
+    description: "Ici on parle des diff\xE9rents types de logement (logement social),\
+      \ des diff\xE9rentes aides au logement, faire un \xE9tat des lieux, ..."
+    language: fr
+    name: 'Vivre en France : se loger'
+    sha256sum: 97b7e07d1f9562401a9bb64ca8f8a70f3f5a0eb054bc651a3eb64b7b681ce098
+    size: 475149436
+    type: zipped-medias
+    url: http://olip-packages-prod-eu-west-1-481031604408.s3-website-eu-west-1.amazonaws.com/omeka/vivre-en-france-se-loger-da-fr.zip
+    version: '2023-03-14'
   wash-promotion-bangla-en:
     description: Learn how connect health with environment
     language: en
